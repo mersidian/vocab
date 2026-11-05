@@ -1,0 +1,100 @@
+{"id":"make-a-poor-fist-of_idiom","th":"ทำได้แย่; ทำพลาด","ex":"He made a poor fist of the job interview.","exTh":"เขาทำการสัมภาษณ์งานได้แย่มาก","c":2,"note":"สำนวนอังกฤษ"}
+{"id":"over-the-wire_idiom","th":"ผ่านสายส่งข้อมูล; ส่งผ่านเครือข่าย","ex":"The data is encrypted before it goes over the wire.","exTh":"ข้อมูลถูกเข้ารหัสก่อนส่งผ่านเครือข่าย","c":3,"note":"ศัพท์เทคนิค"}
+{"id":"one-is-a-poet-and-doesn-t-know-it_idiom","th":"เป็นกวีโดยไม่รู้ตัว (พูดเป็นสัมผัสโดยบังเอิญ)","ex":"You said, 'I'll go and see the show.' You're a poet and don't know it!","exTh":"คุณพูดเป็นสัมผัสพอดีเลย เป็นกวีโดยไม่รู้ตัว","c":1,"note":"ใช้ล้อเล่นเวลาใครพูดเป็นสัมผัส"}
+{"id":"knock-someone-s-wind-out_idiom","th":"ทำให้หายใจไม่ออกชั่วขณะ; ทำให้จุก","ex":"The fall knocked my wind out.","exTh":"การล้มทำให้ฉันจุกหายใจไม่ออก","c":2,"note":"พบบ่อยในรูป knock the wind out of someone"}
+{"id":"get-right-into-it_idiom","th":"เข้าเรื่องเลย; เริ่มทำทันที","ex":"Let's skip the small talk and get right into it.","exTh":"ข้ามการคุยเล่นแล้วเข้าเรื่องเลยดีกว่า","c":3}
+{"id":"vote-off-the-island_idiom","th":"ลงคะแนนคัดออก; ปฏิเสธไม่เอาเข้ากลุ่ม","ex":"The team voted him off the island after the mistake.","exTh":"ทีมโหวตคัดเขาออกหลังจากที่เขาทำพลาด","c":2,"note":"มาจากรายการเรียลิตี้ Survivor"}
+{"id":"side-part_idiom","th":"การแสกข้าง; ผมแสกข้าง","ex":"She changed her hair to a side part.","exTh":"เธอเปลี่ยนทรงผมเป็นแสกข้าง","c":3}
+{"id":"center-part_idiom","th":"การแสกกลาง; ผมแสกกลาง","ex":"A center part suits her round face.","exTh":"ผมแสกกลางเข้ากับใบหน้ากลมของเธอ","c":3,"note":"สะกดแบบอังกฤษคือ centre part"}
+{"id":"pound-one-s-flounder_idiom","th":"การช่วยตัวเอง (ของผู้ชาย)","ex":"The comedian made a crude joke about pounding his flounder.","exTh":"นักแสดงตลกเล่นมุกหยาบเกี่ยวกับการช่วยตัวเอง","c":1,"note":"คำสแลงหยาบ เลี่ยงเรื่องเพศ"}
+{"id":"fall-off-the-twig_idiom","th":"ตาย; จากโลกนี้ไป","ex":"The old man fell off the twig last winter.","exTh":"ชายชราจากโลกนี้ไปเมื่อฤดูหนาวที่แล้ว","c":1,"note":"สำนวนเชิงขำ ไม่ค่อยใช้แล้ว"}
+{"id":"uterine-cancer_idiom","th":"มะเร็งมดลูก","ex":"Early tests can help find uterine cancer.","exTh":"การตรวจตั้งแต่ระยะแรกช่วยให้พบมะเร็งมดลูกได้","c":2,"note":"ศัพท์ทางการแพทย์"}
+{"id":"risk-creep_idiom","th":"ความเสี่ยงที่ค่อยๆ เพิ่มขึ้น","ex":"Adding more safety devices can lead to risk creep.","exTh":"การเพิ่มอุปกรณ์ความปลอดภัยอาจทำให้ความเสี่ยงค่อยๆ เพิ่มขึ้น","c":1,"note":"ศัพท์เทคนิคด้านความปลอดภัย"}
+{"id":"hazard-creep_idiom","th":"อันตรายที่เพิ่มขึ้นเมื่อระบบความปลอดภัยล้มเหลว","ex":"Hazard creep happens when people trust safety systems too much.","exTh":"อันตรายเพิ่มขึ้นเมื่อผู้คนไว้ใจระบบความปลอดภัยมากเกินไป","c":1,"note":"ศัพท์เทคนิคด้านความปลอดภัย"}
+{"id":"wallet-keys-phone_idiom","th":"กระเป๋าเงิน กุญแจ โทรศัพท์ (เช็กของสำคัญก่อนออกจากบ้าน)","ex":"Before I leave home, I always check wallet, keys, phone.","exTh":"ก่อนออกจากบ้าน ฉันจะเช็กกระเป๋าเงิน กุญแจ โทรศัพท์เสมอ","c":2}
+{"id":"i-ll-be-here-all-night_idiom","th":"ผมจะอยู่ที่นี่ทั้งคืนนะ (พูดหลังเล่นมุก)","ex":"Thank you, thank you! I'll be here all night.","exTh":"ขอบคุณครับ ขอบคุณ! ผมจะอยู่ตรงนี้ทั้งคืนนะ","c":3,"note":"ใช้ล้อเล่นหลังเล่นมุกตลก"}
+{"id":"no-cigar_idiom","th":"ไม่ถูก; ไม่สำเร็จ","ex":"You guessed close, but no cigar.","exTh":"คุณเดาใกล้เคียง แต่ยังไม่ถูกนะ","c":3,"note":"มาจาก close but no cigar"}
+{"id":"clown-college_idiom","th":"สถาบันที่ไร้ความสามารถ; ที่ที่สอนให้โง่","ex":"Which clown college did he graduate from?","exTh":"เขาจบจากสถาบันตลกๆ ที่ไหนกันนะ","c":2,"note":"ภาษาพูด เชิงเหยียด"}
+{"id":"look-right-through_idiom","th":"มองทะลุตัว; แกล้งไม่เห็นใคร","ex":"She looked right through me and walked on.","exTh":"เธอมองทะลุตัวฉันแล้วเดินต่อไป","c":3}
+{"id":"get-to-work_idiom","th":"เริ่มลงมือทำงาน","ex":"We have a lot to do, so let's get to work.","exTh":"เรามีงานเยอะ ลงมือทำกันเถอะ","c":5}
+{"id":"borderline-case_idiom","th":"กรณีก้ำกึ่ง; กรณีที่จัดประเภทได้ยาก","ex":"His test score was a borderline case, so they asked again.","exTh":"คะแนนสอบของเขาเป็นกรณีก้ำกึ่ง พวกเขาจึงตรวจอีกครั้ง","c":3}
+{"id":"ballot-stuffing_idiom","th":"การยัดบัตรเลือกตั้ง; การโกงเลือกตั้งโดยใส่บัตรเกิน","ex":"The group was accused of ballot stuffing.","exTh":"กลุ่มนี้ถูกกล่าวหาว่ายัดบัตรเลือกตั้ง","c":3}
+{"id":"rain-hellfire_idiom","th":"โจมตีอย่างรุนแรง; ลงโทษอย่างหนัก","ex":"The army threatened to rain hellfire on the city.","exTh":"กองทัพขู่ว่าจะโจมตีเมืองอย่างรุนแรง","c":2}
+{"id":"all-too-well_idiom","th":"รู้ดีเกินไป; จำได้แม่นเลย","ex":"I remember that night all too well.","exTh":"ฉันจำคืนนั้นได้แม่นเลย","c":4}
+{"id":"skate-rat_idiom","th":"คนเล่นสเก็ตบอร์ดตัวยง","ex":"He's been a skate rat since he was ten.","exTh":"เขาเป็นคนเล่นสเก็ตบอร์ดตัวยงตั้งแต่อายุสิบขวบ","c":2,"note":"สแลง"}
+{"id":"have-more-of-something-in-one-s-finger-than_idiom","th":"มีมากกว่าอีกฝ่ายมาก (เช่น ความสามารถ)","ex":"She has more talent in her little finger than he has in his whole body.","exTh":"เธอมีความสามารถในนิ้วก้อยมากกว่าเขาทั้งตัวเสียอีก","c":2,"note":"รูปที่พบมากคือ in one's little finger"}
+{"id":"get-wasted_idiom","th":"เมาหัวราน้ำ; มึนเมามาก","ex":"They got wasted at the party last night.","exTh":"พวกเขาเมาหัวราน้ำที่ปาร์ตี้เมื่อคืน","c":4,"note":"สแลง ภาษาพูด"}
+{"id":"touch-cotton_idiom","th":"กลั้นไม่อยู่ใกล้จะปวดท้องหนัก","ex":"I was touching cotton by the time I reached the toilet.","exTh":"ฉันเกือบกลั้นไม่อยู่ตอนถึงห้องน้ำ","c":1,"note":"สแลง ภาษาพูดหยาบ"}
+{"id":"welly-it_idiom","th":"ใช้แรงเต็มที่; เหยียบคันเร่งสุดแรง","ex":"At the hill, he gave it welly and sped up.","exTh":"ตอนถึงเนิน เขาเหยียบสุดแรงจนเร่งความเร็วขึ้น","c":1,"note":"ภาษาพูดแบบอังกฤษ"}
+{"id":"every-step-of-the-way_idiom","th":"ตลอดทาง; ในทุกขั้นตอน","ex":"My parents supported me every step of the way.","exTh":"พ่อแม่สนับสนุนฉันในทุกขั้นตอน","c":5}
+{"id":"catch-the-last-chopper-out-of-nam_idiom","th":"หนีออกมาในนาทีสุดท้าย","ex":"He caught the last chopper out of 'Nam and left the project.","exTh":"เขาหนีออกจากโครงการในนาทีสุดท้าย","c":1,"note":"มาจากสงครามเวียดนาม ใช้เชิงเปรียบเทียบ"}
+{"id":"god-s-own_idiom","th":"(ตัวเสริมความหมาย) สุดยอด; ที่สุดเลย","ex":"It was God's own mess after the storm.","exTh":"หลังพายุมันเละเทะสุดๆ","c":2,"note":"มักใช้ในรูปเช่น God's own country"}
+{"id":"pearl-clutching_idiom","th":"การทำท่าตกใจเกินเหตุกับเรื่องไม่เหมาะสม","ex":"The pearl clutching over the song was too much.","exTh":"การตกใจเกินเหตุกับเพลงนั้นมากเกินไป","c":3,"note":"มีนัยล้อเลียนเล็กน้อย"}
+{"id":"live-by-bread-alone_idiom","th":"อยู่เพื่อปัจจัยทางวัตถุอย่างเดียว","ex":"Man shall not live by bread alone.","exTh":"มนุษย์ไม่ได้อยู่ด้วยอาหารเพียงอย่างเดียว","c":2,"note":"มาจากคัมภีร์ไบเบิล"}
+{"id":"the-more-fool-someone_idiom","th":"ยิ่งโง่เข้าไปใหญ่; ก็โง่เองนะ","ex":"He lent her money again, the more fool him.","exTh":"เขาให้เธอยืมเงินอีก ก็โง่เองนะ","c":2,"note":"สำนวนอังกฤษ"}
+{"id":"hands-of-fate_idiom","th":"ลิขิตแห่งโชคชะตา","ex":"The hands of fate brought them together.","exTh":"โชคชะตานำพาพวกเขามาพบกัน","c":2}
+{"id":"one-s-ribs-are-touching_idiom","th":"หิวมาก; หิวจนท้องแบน","ex":"Let's eat now, my ribs are touching.","exTh":"ไปกินข้าวกันเถอะ ฉันหิวจนท้องแบนแล้ว","c":1,"note":"ภาษาพูด"}
+{"id":"that-s-what-they-called-me-in-high-school_idiom","th":"สมัยมัธยมเขาเรียกฉันแบบนี้แหละ (มุกล้อ)","ex":"You call me Flash? That's what they called me in high school.","exTh":"เรียกฉันว่าแฟลชเหรอ สมัยมัธยมเขาเรียกฉันแบบนี้แหละ","c":1,"note":"ภาษาพูดแบบมุกตลก"}
+{"id":"stare-down-the-barrel-of-a-gun_idiom","th":"เผชิญหน้ากับสถานการณ์อันตราย","ex":"The company is staring down the barrel of a gun.","exTh":"บริษัทกำลังเผชิญสถานการณ์เลวร้ายเต็มที่","c":3}
+{"id":"sailor-s-promise_idiom","th":"คำสัญญาที่เชื่อถือไม่ได้","ex":"His word is just a sailor's promise.","exTh":"คำพูดของเขาเป็นแค่คำสัญญาลมๆ แล้งๆ","c":1}
+{"id":"send-tweet_idiom","th":"โพสต์เลย (ล้อเลียนเมื่อพูดจริงจัง)","ex":"That's it, send tweet!","exTh":"เอาแค่นั้นแหละ โพสต์เลย!","c":1,"note":"สแลงอินเทอร์เน็ต"}
+{"id":"wet-an-eyelash_idiom","th":"ร้องไห้","ex":"The sad film made her wet an eyelash.","exTh":"หนังเศร้าเรื่องนั้นทำให้เธอร้องไห้","c":1,"note":"สำนวนเก่า"}
+{"id":"one-second_idiom","th":"รอสักครู่","ex":"One second, I'll be right back.","exTh":"รอสักครู่นะ เดี๋ยวฉันกลับมา","c":5}
+{"id":"built-diff_idiom","th":"มีความสามารถหรือบุคลิกที่ต่างจากคนอื่น (เจ๋งกว่าคนทั่วไป)","ex":"He ran ten miles without stopping. He's built diff.","exTh":"เขาวิ่งสิบไมล์โดยไม่หยุด เขามันคนละระดับ","c":2,"note":"สแลงอินเทอร์เน็ต มาจาก built different"}
+{"id":"free-the-nipple_idiom","th":"แคมเปญเรียกร้องความเท่าเทียมเรื่องการเปิดเผยหน้าอก","ex":"The Free the Nipple campaign started online.","exTh":"แคมเปญ Free the Nipple เริ่มต้นขึ้นทางออนไลน์","c":2,"note":"ชื่อแคมเปญทางสังคม"}
+{"id":"dirt-and-worms_idiom","th":"ขนมเค้กดินกับหนอน (ขนมช็อกโกแลตบดกับตัวหนอนเยลลี่)","ex":"The kids ate dirt and worms at the party.","exTh":"เด็กๆ กินขนมเค้กดินกับหนอนที่งานปาร์ตี้","c":1}
+{"id":"two-wings-of-the-same-bird_idiom","th":"สองด้านของสิ่งเดียวกัน","ex":"Teaching and learning are two wings of the same bird.","exTh":"การสอนกับการเรียนเป็นสองด้านของสิ่งเดียวกัน","c":1}
+{"id":"dig-to-china_idiom","th":"ขุดหลุมลึกมากๆ (ราวกับทะลุไปอีกฟากของโลก)","ex":"The boy tried to dig to China in the sand.","exTh":"เด็กชายพยายามขุดหลุมในทรายให้ลึกจนทะลุไปอีกฟากโลก","c":2}
+{"id":"port-queen_idiom","th":"เรือที่จอดนิ่งในท่านานเกินไป","ex":"That yacht is a port queen; it never leaves the dock.","exTh":"เรือยอร์ชลำนั้นจอดนิ่งในท่า ไม่เคยออกทะเลเลย","c":1,"note":"ศัพท์คนเล่นเรือ"}
+{"id":"bask-in-the-afterglow_idiom","th":"เพลิดเพลินกับความสุขที่ยังหลงเหลือหลังเหตุการณ์ดีๆ","ex":"The team basked in the afterglow of their win.","exTh":"ทีมเพลิดเพลินกับความสุขหลังชัยชนะ","c":2}
+{"id":"rip-someone-s-face-off_idiom","th":"ด่าอย่างรุนแรง; ตะคอกใส่","ex":"My boss ripped my face off for being late.","exTh":"เจ้านายด่าฉันยกใหญ่เพราะมาสาย","c":2,"note":"ภาษาพูด"}
+{"id":"save-one-s-strength_idiom","th":"เก็บแรงไว้; ไม่ใช้แรงเปลืองไปเปล่าๆ","ex":"Save your strength for the last part of the race.","exTh":"เก็บแรงไว้สำหรับช่วงสุดท้ายของการแข่งขัน","c":3}
+{"id":"big-cheese_idiom","th":"บุคคลสำคัญ; หัวหน้าใหญ่","ex":"The big cheese from head office is visiting today.","exTh":"ผู้ใหญ่จากสำนักงานใหญ่จะมาเยี่ยมวันนี้","c":3,"note":"ภาษาพูด มีอารมณ์ขัน"}
+{"id":"fair-sex_idiom","th":"ผู้หญิง (เรียกรวมๆ)","ex":"In old books, women were called the fair sex.","exTh":"ในหนังสือเก่าเรียกผู้หญิงว่าเพศงาม","c":1,"note":"สำนวนเก่า ปัจจุบันถือว่าล้าสมัย"}
+{"id":"take-french-leave_idiom","th":"หนีไปเงียบๆ โดยไม่บอกใคร; โดดงาน","ex":"He took French leave from the meeting.","exTh":"เขาแอบหนีออกจากการประชุมโดยไม่บอกใคร","c":1,"note":"สำนวนอังกฤษเก่า"}
+{"id":"by-a-long-shot_idiom","th":"อย่างห่างไกล; ไม่เลยสักนิด","ex":"She isn't the best player, not by a long shot.","exTh":"เธอไม่ใช่ผู้เล่นที่เก่งที่สุดเลยสักนิด","c":4}
+{"id":"life-of-riley_idiom","th":"ชีวิตสบายไร้กังวล","ex":"After he retired, he lived the life of Riley.","exTh":"หลังเกษียณ เขามีชีวิตสบายไร้กังวล","c":3}
+{"id":"from-pillar-to-post_idiom","th":"ไปโน่นมานี่; ถูกโยนไปมา","ex":"The refugees were sent from pillar to post.","exTh":"ผู้ลี้ภัยถูกส่งต่อไปโน่นมานี่","c":3}
+{"id":"warm-the-cockles-of-someone-s-heart_idiom","th":"ทำให้อบอุ่นหัวใจ","ex":"Hot soup always warms the cockles of my heart.","exTh":"ซุปร้อนๆ ทำให้ใจอบอุ่นเสมอ","c":3}
+{"id":"comfort-woman_idiom","th":"หญิงบำเรอกามในยุคสงครามโลกครั้งที่สอง","ex":"The museum tells the story of a comfort woman.","exTh":"พิพิธภัณฑ์เล่าเรื่องราวของหญิงบำเรอกามในสงคราม","c":2,"note":"คำอ่อนไหวทางประวัติศาสตร์ หมายถึงผู้ถูกบังคับให้ค้าประเวณี"}
+{"id":"take-a-wife_idiom","th":"แต่งงานกับผู้หญิง; มีภรรยา","ex":"He planned to take a wife next spring.","exTh":"เขาวางแผนจะแต่งงานในฤดูใบไม้ผลิหน้า","c":2,"note":"ภาษาเก่าหรือทางการ"}
+{"id":"french-leave_idiom","th":"การหนีไปเงียบๆ โดยไม่บอกใคร; การขาดงานโดยไม่ได้ลา","ex":"He took French leave and missed the meeting.","exTh":"เขาแอบหนีไปและพลาดการประชุม","c":1,"note":"สำนวนอังกฤษเก่า"}
+{"id":"in-two-shakes_idiom","th":"ในพริบตา; เดี๋ยวเดียว","ex":"I'll be back in two shakes.","exTh":"เดี๋ยวฉันกลับมา","c":2,"note":"ย่อมาจาก in two shakes of a lamb's tail"}
+{"id":"weaker-vessel_idiom","th":"ผู้หญิง (เรียกรวมๆ ในสำนวนเก่า)","ex":"Old books call women the weaker vessel.","exTh":"หนังสือเก่าเรียกผู้หญิงว่าเพศที่อ่อนแอกว่า","c":1,"note":"ล้าสมัยและมีนัยเหยียดเพศ"}
+{"id":"bottom-the-house_idiom","th":"ทำความสะอาดบ้านทั่วทุกซอกมุม","ex":"We bottomed the house before the guests came.","exTh":"เราทำความสะอาดบ้านทั่วก่อนแขกมา","c":1,"note":"ภาษาถิ่นเก่า"}
+{"id":"tread-the-boards_idiom","th":"เป็นนักแสดงละครเวที","ex":"She has trodden the boards for twenty years.","exTh":"เธอเป็นนักแสดงละครเวทีมายี่สิบปีแล้ว","c":2,"note":"ภาษาเขียน แบบอังกฤษ"}
+{"id":"banbury-story-of-a-cock-and-a-bull_idiom","th":"เรื่องเหลวไหลวกวน","ex":"His excuse was a Banbury story of a cock and a bull.","exTh":"ข้ออ้างของเขาเป็นเรื่องเหลวไหลวกวน","c":1,"note":"สำนวนเก่ามาก"}
+{"id":"brown-study_idiom","th":"ภาวะเหม่อลอยเศร้าซึม","ex":"He sat in a brown study by the window.","exTh":"เขานั่งเหม่อลอยซึมๆ ข้างหน้าต่าง","c":1,"note":"สำนวนเก่า"}
+{"id":"holy-smoke_idiom","th":"โอ้โห; ตายจริง","ex":"Holy smoke, look at the size of that fish!","exTh":"โอ้โห ดูขนาดปลาตัวนั้นสิ!","c":2,"note":"คำอุทานเก่า"}
+{"id":"do-one-s-own-thing_idiom","th":"ทำในแบบของตัวเอง","ex":"She likes to do her own thing, not follow the crowd.","exTh":"เธอชอบทำในแบบของตัวเองมากกว่าตามคนอื่น","c":4}
+{"id":"sell-one-s-birthright-for-a-mess-of-pottage_idiom","th":"แลกสิ่งล้ำค่ากับของเล็กน้อยที่ได้ทันที","ex":"Giving up your career for a quick payment is selling your birthright for a mess of pottage.","exTh":"ทิ้งอาชีพเพื่อเงินก้อนเล็กๆ คือการแลกของล้ำค่ากับของเล็กน้อย","c":1,"note":"มาจากคัมภีร์ไบเบิล"}
+{"id":"what-s-your-poison_idiom","th":"จะดื่มอะไรดี","ex":"I'm buying the next round. What's your poison?","exTh":"รอบหน้าฉันเลี้ยงเอง จะดื่มอะไรดี","c":3,"note":"ภาษาพูดไม่เป็นทางการ"}
+{"id":"quaker-gun_idiom","th":"ปืนปลอมที่ใช้หลอกศัตรู","ex":"The soldiers used a Quaker gun to fool the enemy.","exTh":"ทหารใช้ปืนปลอมเพื่อหลอกศัตรู","c":1,"note":"ศัพท์ประวัติศาสตร์การทหาร"}
+{"id":"take-up-the-hatchet_idiom","th":"ประกาศสงคราม; เริ่มทำศึก","ex":"The tribes took up the hatchet after the dispute.","exTh":"ชนเผ่าเริ่มทำศึกหลังเกิดข้อพิพาท","c":1,"note":"สำนวนเก่า ตรงข้ามกับ bury the hatchet"}
+{"id":"as-ever-trod-shoe-leather_idiom","th":"เท่าที่เคยมีมา; เท่าที่เคยอยู่บนโลก","ex":"He is as honest as ever trod shoe-leather.","exTh":"เขาซื่อสัตย์เท่าที่เคยมีคนมา","c":1,"note":"สำนวนเก่ามาก"}
+{"id":"in-one-s-altitudes_idiom","th":"เมา; มึนเมา","ex":"He came home a bit in his altitudes.","exTh":"เขากลับบ้านมาในสภาพเมานิดหน่อย","c":1,"note":"สแลงเก่า"}
+{"id":"shanks-nag_idiom","th":"การเดินไป; เดินด้วยเท้า","ex":"The bus broke down, so we went by shanks' nag.","exTh":"รถเมล์เสีย เราจึงเดินไปแทน","c":1,"note":"สำนวนเก่า มีอารมณ์ขัน"}
+{"id":"goodness-gracious_idiom","th":"โอ้พระเจ้า; ตายจริง","ex":"Goodness gracious, what a big storm!","exTh":"ตายจริง พายุใหญ่จัง!","c":3,"note":"คำอุทานสุภาพ"}
+{"id":"the-quality_idiom","th":"ชนชั้นสูง; ผู้ดี","ex":"The ball was filled with the quality of the town.","exTh":"งานเต้นรำเต็มไปด้วยชนชั้นสูงของเมือง","c":1,"note":"ภาษาเก่า"}
+{"id":"pin-money_idiom","th":"เงินติดกระเป๋าเล็กน้อย; เงินพิเศษ","ex":"She does small jobs to earn pin money.","exTh":"เธอรับงานเล็กๆ น้อยๆ เพื่อหาเงินติดกระเป๋า","c":2}
+{"id":"fall-on-someone-s-neck_idiom","th":"โผเข้ากอดอย่างดีใจหรือซาบซึ้ง","ex":"She fell on his neck when she saw him.","exTh":"เธอโผเข้ากอดเขาเมื่อเห็นหน้า","c":1,"note":"ภาษาเก่า"}
+{"id":"ye-gods_idiom","th":"พระเจ้าช่วย; โอ้พระเจ้า","ex":"Ye gods, look at that mess!","exTh":"พระเจ้าช่วย ดูความเละเทะนั่นสิ!","c":1,"note":"คำอุทานเก่า มักเล่นสำนวน"}
+{"id":"harden-someone-s-heart_idiom","th":"ทำให้ใจแข็ง; ทำให้ไม่ยอมอ่อนข้อ","ex":"Years of war hardened his heart.","exTh":"สงครามหลายปีทำให้ใจเขาแข็งกระด้าง","c":2}
+{"id":"employ-a-steam-engine-to-crack-a-nut_idiom","th":"ใช้วิธีใหญ่โตเกินจำเป็นกับเรื่องเล็กน้อย","ex":"Using a big computer for this is employing a steam engine to crack a nut.","exTh":"ใช้คอมพิวเตอร์ใหญ่ๆ กับงานนี้เป็นการใช้วิธีใหญ่โตเกินจำเป็น","c":1}
+{"id":"knight-of-the-post_idiom","th":"พยานเท็จอาชีพ","ex":"The court heard a knight of the post lie for money.","exTh":"ศาลได้ฟังพยานเท็จอาชีพโกหกเพื่อเงิน","c":1,"note":"สำนวนเก่ามาก"}
+{"id":"cut-of-one-s-jib_idiom","th":"ท่าทางหรือบุคลิกของใครคนหนึ่ง","ex":"I don't like the cut of his jib.","exTh":"ฉันไม่ชอบท่าทางของเขา","c":2}
+{"id":"ape-leader_idiom","th":"หญิงโสดสูงวัย","ex":"In old stories, an unmarried woman was called an ape leader.","exTh":"ในเรื่องเก่า ผู้หญิงที่ไม่แต่งงานถูกเรียกอย่างนี้","c":1,"note":"ล้าสมัยและเหยียดเพศ"}
+{"id":"my-word_idiom","th":"โอ้โห; จริงด้วย","ex":"My word, that is a huge cake!","exTh":"โอ้โห เค้กก้อนใหญ่จริงๆ!","c":3,"note":"คำอุทาน แบบอังกฤษ"}
+{"id":"hold-with-the-hare-and-run-with-the-hounds_idiom","th":"เล่นสองหน้า; เอาใจทั้งสองฝ่าย","ex":"He holds with the hare and runs with the hounds.","exTh":"เขาเล่นสองหน้าเอาใจทั้งสองฝ่าย","c":2}
+{"id":"coming-into-the-world_idiom","th":"การถือกำเนิด; การเกิด","ex":"The coming into the world of a baby is a joy.","exTh":"การเกิดของเด็กทารกเป็นความสุข","c":1,"note":"ภาษาเขียน"}
+{"id":"put-on-the-dog_idiom","th":"แต่งตัวอวดโอ่; ทำเป็นหรูหราอวดมั่งมี","ex":"They put on the dog for the wedding.","exTh":"พวกเขาแต่งตัวหรูหราอวดฐานะไปงานแต่งงาน","c":2}
+{"id":"real-mccoy_idiom","th":"ของแท้","ex":"This is the real McCoy, not a copy.","exTh":"นี่คือของแท้ ไม่ใช่ของเลียนแบบ","c":3}
+{"id":"covenant-of-salt_idiom","th":"ข้อตกลงที่ยืนยาวไม่เปลี่ยนแปลง","ex":"They made a covenant of salt that would last forever.","exTh":"พวกเขาทำข้อตกลงที่ยืนยาวตลอดไป","c":1,"note":"มาจากคัมภีร์ไบเบิล"}
+{"id":"yardarm-to-yardarm_idiom","th":"เรือเคียงข้างกัน; ใกล้ชิดกันมาก","ex":"The two ships fought yardarm to yardarm.","exTh":"เรือสองลำสู้กันในระยะประชิด","c":1,"note":"ศัพท์เรือ"}
+{"id":"cakes-and-ale_idiom","th":"ความสุขเรียบง่ายของชีวิต; ความสนุกสนาน","ex":"Life isn't all cakes and ale.","exTh":"ชีวิตไม่ได้มีแต่ความสุขสนุกสนาน","c":2,"note":"ภาษาเก่า"}
+{"id":"reckon-without-one-s-host_idiom","th":"คิดผิดเพราะลืมนึกถึงอีกฝ่าย","ex":"He planned the party but reckoned without his host.","exTh":"เขาวางแผนจัดงานแต่คิดผิดเพราะไม่ได้ถามเจ้าของสถานที่","c":1,"note":"สำนวนเก่า"}
+{"id":"with-a-will_idiom","th":"อย่างเต็มใจ; ด้วยความตั้งใจเต็มที่","ex":"They worked with a will to finish the house.","exTh":"พวกเขาทำงานอย่างตั้งใจเต็มที่เพื่อสร้างบ้านให้เสร็จ","c":3}
+{"id":"at-all-hands_idiom","th":"จากทุกทิศทุกทาง","ex":"Praise came in at all hands.","exTh":"คำชมหลั่งไหลมาจากทุกทิศทาง","c":1,"note":"ภาษาเก่า"}
+{"id":"three-score-and-ten_idiom","th":"เจ็ดสิบ (ปี) อายุขัยตามปกติ","ex":"He lived to three score and ten.","exTh":"เขามีชีวิตอยู่ถึงเจ็ดสิบปี","c":2,"note":"ภาษาเก่า มาจากคัมภีร์ไบเบิล"}
+{"id":"pipe-the-eye_idiom","th":"ร้องไห้","ex":"The sad story made her pipe the eye.","exTh":"เรื่องเศร้านั้นทำให้เธอร้องไห้","c":1,"note":"สำนวนเก่า"}
+{"id":"of-an_idiom","th":"ในช่วง...ตามปกติ; เหมือนกัน","ex":"We walk in the park of an evening.","exTh":"เรามักเดินเล่นในสวนตอนเย็น","c":3,"note":"ใช้กับช่วงเวลา เช่น of an evening"}
