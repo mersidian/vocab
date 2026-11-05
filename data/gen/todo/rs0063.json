@@ -1,0 +1,902 @@
+[
+{
+"id": "copy-down_pv",
+"w": "copy down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To copy something written, drawn, spoken (e.g. on a whiteboard) onto a sheet of paper, notebook etc."
+]
+},
+{
+"id": "snap-to_pv",
+"w": "snap to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To suddenly give someone one's full attention."
+]
+},
+{
+"id": "rope-out_pv",
+"w": "rope out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Of a tornado funnel, to narrow and lengthen and perhaps curl into complex, rope-like shapes, usually during dissipation."
+]
+},
+{
+"id": "cock-off_pv",
+"w": "cock off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To leave, to go away. (usually imperative)"
+]
+},
+{
+"id": "kirk-out_pv",
+"w": "kirk out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become irate; to freak out; to act out in an extreme manner."
+]
+},
+{
+"id": "touch-in_pv",
+"w": "touch in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"to initiate an electronic ticketing process at the start of a public transport journey by holding a chipcard or a mobile device close to a terminal or reader"
+]
+},
+{
+"id": "skurry-away_pv",
+"w": "skurry away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Dated spelling of scurry away."
+]
+},
+{
+"id": "chipper-up_pv",
+"w": "chipper up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make or become more chipper; to cheer up."
+]
+},
+{
+"id": "clew-up_pv",
+"w": "clew up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To finish up or to tidy up, as in the tie up a sail on a sailing boat, the clew being a part of the structure holding the sail. Comes from the nautical term \"clew\"."
+]
+},
+{
+"id": "ride-for_pv",
+"w": "ride for",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To have someone's back, support wholeheartedly."
+]
+},
+{
+"id": "spunk-off_pv",
+"w": "spunk off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To ejaculate."
+]
+},
+{
+"id": "wave-aside_pv",
+"w": "wave aside",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To dismiss something without paying much attention to it; to decide something is too unimportant or unnecessary to respond to"
+]
+},
+{
+"id": "lotion-up_pv",
+"w": "lotion up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To apply lotion or sunscreen to one's skin."
+]
+},
+{
+"id": "scratch-up_pv",
+"w": "scratch up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To scratch the surface of (something) thoroughly."
+]
+},
+{
+"id": "vote-up_pv",
+"w": "vote up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To signal support or approval of something by voting for it; to achieve enough support to pass."
+]
+},
+{
+"id": "shower-up_pv",
+"w": "shower up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To shower oneself thoroughly or to clean another in a shower."
+]
+},
+{
+"id": "study-up-on_pv",
+"w": "study up on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To thoroughly study a subject or become current in knowledge on a topic"
+]
+},
+{
+"id": "lobby-up_pv",
+"w": "lobby up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To hire one or more lobbyists; to become active in lobbying to ensure a particular outcome."
+]
+},
+{
+"id": "shovel-up_pv",
+"w": "shovel up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To move or place in a heap by shoveling."
+]
+},
+{
+"id": "ride-with_pv",
+"w": "ride with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To act as a loyal member of a gang or crew."
+]
+},
+{
+"id": "sit-off_pv",
+"w": "sit off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To give less than full effort; to let off on energy or pressure."
+]
+},
+{
+"id": "sit-in-with_pv",
+"w": "sit in with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To join (often as an observer, supervisor or outsider) a group working together on a task."
+]
+},
+{
+"id": "police-up_pv",
+"w": "police up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To clean up an area or an item or person, usually in preparation for an inspection; to police an area for problems."
+]
+},
+{
+"id": "search-for_pv",
+"w": "search for",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of look for."
+]
+},
+{
+"id": "square-around_pv",
+"w": "square around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To shift to a position to ready to bunt, i.e. by moving to face the pitcher and hold the bat laterally above the home plate."
+]
+},
+{
+"id": "swing-away_pv",
+"w": "swing away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To swing at a pitch, as opposed to bunting; to take a full swing."
+]
+},
+{
+"id": "pyramid-down_pv",
+"w": "pyramid down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To lift weights in decreasing increments."
+]
+},
+{
+"id": "fleet-up_pv",
+"w": "fleet up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To be promoted from within a command or unit (e.g. for an officer on a ship to be promoted to commanding officer of the ship)."
+]
+},
+{
+"id": "gaff-off_pv",
+"w": "gaff off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To deliberately disrespect a commanding officer; to be insubordinate; to disregard a lawful command."
+]
+},
+{
+"id": "douche-down_pv",
+"w": "douche down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To shower (oneself)."
+]
+},
+{
+"id": "baste-up_pv",
+"w": "baste up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To prepare or treat a fabric by basting (to sew with long or loose stitches)."
+]
+},
+{
+"id": "grill-up_pv",
+"w": "grill up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To cook or prepare by grilling."
+]
+},
+{
+"id": "barbecue-up_pv",
+"w": "barbecue up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To cook or prepare by barbecuing."
+]
+},
+{
+"id": "rash-up_pv",
+"w": "rash up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To develop a rash."
+]
+},
+{
+"id": "saut-up_pv",
+"w": "sauté up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To cook (something) by sautéing."
+]
+},
+{
+"id": "microwave-up_pv",
+"w": "microwave up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To cook (something) by microwaving."
+]
+},
+{
+"id": "pasture-out_pv",
+"w": "pasture out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To be let into a particular pasture; to be let out for pasture."
+]
+},
+{
+"id": "flavor-up_pv",
+"w": "flavor up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To add flavor to (something); to make (something) more flavorful."
+]
+},
+{
+"id": "lobby-out_pv",
+"w": "lobby out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To remove by lobbying."
+]
+},
+{
+"id": "blend-up_pv",
+"w": "blend up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To produce (something) by blending (often in a blender)."
+]
+},
+{
+"id": "blanch-up_pv",
+"w": "blanch up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To blanch (become pale)."
+]
+},
+{
+"id": "prepare-up_pv",
+"w": "prepare up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To prepare (something)."
+]
+},
+{
+"id": "make-up-to_pv",
+"w": "make up to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To flirt with, hit on or make out with (someone)."
+]
+},
+{
+"id": "hand-up_pv",
+"w": "hand up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To deliver an indictment (e.g. to a judge)."
+]
+},
+{
+"id": "scramble-up_pv",
+"w": "scramble up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To cook (eggs) into scrambled eggs."
+]
+},
+{
+"id": "dice-up_pv",
+"w": "dice up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To cut up (something) with a dicing action."
+]
+},
+{
+"id": "slice-up_pv",
+"w": "slice up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To cut up (something) with a slicing action."
+]
+},
+{
+"id": "poach-up_pv",
+"w": "poach up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To cook (something) by poaching."
+]
+},
+{
+"id": "load-up-on_pv",
+"w": "load up on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To gather large quantities of (something); to stockpile (something); to gorge on (something); to hoard (something)."
+]
+},
+{
+"id": "deliver-up_pv",
+"w": "deliver up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To produce (something) by delivery as expected under a contract."
+]
+},
+{
+"id": "deliver-up-to_pv",
+"w": "deliver up to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To hand over or surrender (something or someone) to."
+]
+},
+{
+"id": "deliver-over-to_pv",
+"w": "deliver over to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To transfer ownership to (someone or something)."
+]
+},
+{
+"id": "jump-to_pv",
+"w": "jump to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To hurry to obey an order by beginning (something); to rush to begin (something)."
+]
+},
+{
+"id": "fujo-out_pv",
+"w": "fujo out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To delight in or obsess over homosexual relationships between men; to act like a fujoshi."
+]
+},
+{
+"id": "bid-off_pv",
+"w": "bid off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To receive property immediately after winning an auction for the property."
+]
+},
+{
+"id": "paint-over_pv",
+"w": "paint over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To coat with a substance by painting it on."
+]
+},
+{
+"id": "winnow-down_pv",
+"w": "winnow down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To reduce the number of candidates for something by judging their quality and rejecting some."
+]
+},
+{
+"id": "window-down_pv",
+"w": "window down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To reduce in scope, resolution, capacity, bandwidth, etc. so as to enable or focus on a target."
+]
+},
+{
+"id": "window-over_pv",
+"w": "window over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To superimpose or overlay (something) atop (something else); to move a (figurative) window over a target."
+]
+},
+{
+"id": "window-out_pv",
+"w": "window out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To be placed in a box to the side of the main text in a document."
+]
+},
+{
+"id": "stuff-out_pv",
+"w": "stuff out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To fill to overflowing."
+]
+},
+{
+"id": "winnow-up_pv",
+"w": "winnow up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To winnow (something)."
+]
+},
+{
+"id": "live-down-to_pv",
+"w": "live down to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To fulfill low or bad expectations."
+]
+},
+{
+"id": "shingle-up_pv",
+"w": "shingle up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To apply shingles to (a roof)."
+]
+},
+{
+"id": "light-on_pv",
+"w": "light on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of light upon."
+]
+},
+{
+"id": "flap-off_pv",
+"w": "flap off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To talk excessively, ignorantly and/or wrongly."
+]
+},
+{
+"id": "scooch-over_pv",
+"w": "scooch over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of scoot over."
+]
+},
+{
+"id": "shin-out_pv",
+"w": "shin out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To leave quickly or run away."
+]
+},
+{
+"id": "shuck-off_pv",
+"w": "shuck off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To remove one's clothes."
+]
+},
+{
+"id": "sparkle-up_pv",
+"w": "sparkle up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To zhoosh (something); to make (something) more pretty and lively."
+]
+},
+{
+"id": "sour-on_pv",
+"w": "sour on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To stop liking (something)."
+]
+},
+{
+"id": "whale-away_pv",
+"w": "whale away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To whale on something in an ongoing manner (i.e., with progressive aspect)."
+]
+},
+{
+"id": "shade-up_pv",
+"w": "shade up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To stop to rest in a shady area."
+]
+},
+{
+"id": "condemn-to_pv",
+"w": "condemn to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To result in (a harmful effect) on (someone or something)."
+]
+},
+{
+"id": "put-onto_pv",
+"w": "put onto",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of put someone on to."
+]
+},
+{
+"id": "ride-down-on_pv",
+"w": "ride down on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To approach (someone or a place) aggressively in a vehicle, such as for a drive-by; to drive up to (someone) to confront them."
+]
+},
+{
+"id": "ride-on_pv",
+"w": "ride on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To target (somebody) in a drive-by shooting."
+]
+},
+{
+"id": "supply-up_pv",
+"w": "supply up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To supply or be supplied with drugs to sell."
+]
+},
+{
+"id": "walk-on-by_pv",
+"w": "walk on by",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To walk past (someone, something) without stopping or acknowledging them."
+]
+},
+{
+"id": "remark-on_pv",
+"w": "remark on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To notice (something) and comment on it; to recognize that (something) is important or novel enough to comment on it; to make a remark on (something)."
+]
+},
+{
+"id": "remark-upon_pv",
+"w": "remark upon",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of remark on."
+]
+},
+{
+"id": "go-on-by_pv",
+"w": "go on by",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To continue with normal business; to go about one's day; to ignore potential distractions and continue with the task at hand."
+]
+},
+{
+"id": "zoom-by_pv",
+"w": "zoom by",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To go by too quickly."
+]
+},
+{
+"id": "zipper-up_pv",
+"w": "zipper up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of zip up."
+]
+},
+{
+"id": "zipper-down_pv",
+"w": "zipper down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of zip down."
+]
+},
+{
+"id": "get-up-into_pv",
+"w": "get up into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To move close enough to (someone or something) to guard them, stop them from scoring or passing, etc."
+]
+},
+{
+"id": "lunch-in_pv",
+"w": "lunch in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To eat lunch inside and at home; to dine in on lunch."
+]
+},
+{
+"id": "wig-on-to_pv",
+"w": "wig on to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To understand, perceive or realize (something) that isn't obvious."
+]
+},
+{
+"id": "hold-back-on_pv",
+"w": "hold back on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To wait for a period of time before proceeding."
+]
+},
+{
+"id": "start-on-at_pv",
+"w": "start on at",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of start on (To criticize)."
+]
+},
+{
+"id": "start-up-on_pv",
+"w": "start up on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To begin again at criticizing (someone or something)."
+]
+},
+{
+"id": "dab-up_pv",
+"w": "dab up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To clean (usually a liquid spill) by dabbing; to soak up a fluid by dabbing (To press lightly in a repetitive motion with a soft object without rubbing)."
+]
+},
+{
+"id": "start-back_pv",
+"w": "start back",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To begin a return trip to a starting point."
+]
+},
+{
+"id": "start-back-in_pv",
+"w": "start back in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To resume insulting, confronting and/or shouting at someone."
+]
+},
+{
+"id": "murk-out_pv",
+"w": "murk out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To murder (someone)."
+]
+},
+{
+"id": "start-back-on_pv",
+"w": "start back on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To resume talking about a topic, most often in an argument, criticism or interrogation; to resume nagging or complaining about a topic."
+]
+},
+{
+"id": "shine-down-on_pv",
+"w": "shine down on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To project benevolent or unfortunate qualities on (someone)."
+]
+},
+{
+"id": "shine-off_pv",
+"w": "shine off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To be dismissive towards (someone or something, e.g. questions, concerns)."
+]
+},
+{
+"id": "couch-up_pv",
+"w": "couch up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To use, sit on or sleep on a couch."
+]
+},
+{
+"id": "log-onto_pv",
+"w": "log onto",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of log on."
+]
+}
+]

@@ -1,0 +1,100 @@
+{"id":"putter-about_pv","th":"ทำอะไรเรื่อยเปื่อย; เดินเตร็ดเตร่ไปมา","ex":"He likes to putter about in the garden on Sundays.","exTh":"เขาชอบทำอะไรเรื่อยเปื่อยในสวนวันอาทิตย์","c":2}
+{"id":"fight-down_pv","th":"ข่มความรู้สึกไว้","ex":"She fought down her fear and went on stage.","exTh":"เธอข่มความกลัวแล้วขึ้นเวที","c":2}
+{"id":"tack-down_pv","th":"ตอกตรึงให้แน่นกับพื้น","ex":"He tacked down the loose edge of the carpet.","exTh":"เขาตอกตรึงขอบพรมที่หลวมให้แน่นกับพื้น","c":2}
+{"id":"glove-up_pv","th":"สวมถุงมือ","ex":"The nurse gloved up before touching the wound.","exTh":"พยาบาลสวมถุงมือก่อนแตะบาดแผล","c":2}
+{"id":"score-out_pv","th":"ขีดฆ่า","ex":"Score out the wrong answer and write the right one.","exTh":"ขีดฆ่าคำตอบที่ผิดแล้วเขียนคำตอบที่ถูก","c":2}
+{"id":"score-through_pv","th":"ขีดฆ่า","ex":"He scored through the old date on the form.","exTh":"เขาขีดฆ่าวันที่เก่าบนแบบฟอร์ม","c":2}
+{"id":"kid-on_pv","th":"หลอกเล่น; แกล้งทำเป็น","ex":"Are you kidding me on, or is this true?","exTh":"คุณหลอกฉันเล่นอยู่หรือเรื่องนี้จริงกันแน่","c":2,"note":"ภาษาอังกฤษแบบอังกฤษและสกอต"}
+{"id":"rag-on_pv","th":"ล้อเลียน; แซวไม่เลิก","ex":"His friends always rag on him about his old car.","exTh":"เพื่อนๆ แซวเขาเรื่องรถเก่าอยู่เสมอ","c":3}
+{"id":"dot-down_pv","th":"วางลูกบอลลงเพื่อทำคะแนน (รักบี้)","ex":"The winger dotted down in the corner for a try.","exTh":"วิงเกอร์วางบอลลงที่มุมสนามเพื่อทำคะแนน","c":1,"note":"ศัพท์รักบี้"}
+{"id":"light-along_pv","th":"ช่วยยกหรือลากไปตามดาดฟ้าเรือ","ex":"The crew lighted along the heavy rope.","exTh":"ลูกเรือช่วยกันลากเชือกหนักไปตามดาดฟ้า","c":1,"note":"ศัพท์เดินเรือเก่า"}
+{"id":"slap-together_pv","th":"ประกอบอย่างลวกๆ; ทำเร็วๆ แบบขอไปที","ex":"I slapped together a sandwich for lunch.","exTh":"ฉันทำแซนด์วิชลวกๆ กินมื้อกลางวัน","c":3}
+{"id":"tit-up_pv","th":"ลวนลามหน้าอก","ex":"The report said he titted up a woman at the party.","exTh":"รายงานระบุว่าเขาลวนลามผู้หญิงคนหนึ่งในงานเลี้ยง","c":1,"note":"คำหยาบ"}
+{"id":"science-up_pv","th":"คิดค้นด้วยวิธีวิทยาศาสตร์","ex":"The team will science up a cleaner way to make plastic.","exTh":"ทีมจะคิดค้นวิธีทำพลาสติกที่สะอาดกว่าด้วยวิทยาศาสตร์","c":1,"note":"ภาษาพูดแบบขำๆ"}
+{"id":"stick-on_pv","th":"กล่าวหา; ตั้งข้อหา","ex":"The police stuck a charge of theft on him.","exTh":"ตำรวจตั้งข้อหาลักทรัพย์กับเขา","c":1,"note":"ภาษาแสลงอังกฤษ"}
+{"id":"select-out_pv","th":"ให้ออกจากงาน; คัดออก","ex":"The firm selected out several workers last year.","exTh":"บริษัทให้พนักงานหลายคนออกเมื่อปีที่แล้ว","c":1}
+{"id":"wait-around_pv","th":"นั่งรอเฉยๆ; รออยู่นาน","ex":"I don't want to wait around all day for the delivery.","exTh":"ฉันไม่อยากนั่งรอพัสดุทั้งวัน","c":4}
+{"id":"cut-about_pv","th":"เดินไปมา; วิ่งวุ่นไปทั่ว","ex":"Children were cutting about between the stalls.","exTh":"เด็กๆ วิ่งไปมาระหว่างแผงขายของ","c":1,"note":"ภาษาถิ่นสกอต"}
+{"id":"blip-out_pv","th":"ตัดออก; ข้ามไป","ex":"The editor blipped out the swear words from the tape.","exTh":"บรรณาธิการตัดคำหยาบออกจากเทป","c":1}
+{"id":"plough-ahead_pv","th":"ลุยต่อ; มุ่งหน้าทำต่อไป","ex":"They ploughed ahead with the plan despite the rain.","exTh":"พวกเขาลุยตามแผนต่อไปทั้งที่ฝนตก","c":3,"note":"สะกดแบบอังกฤษของ plow ahead"}
+{"id":"wear-through_pv","th":"สึกจนทะลุ","ex":"My socks have worn through at the heel.","exTh":"ถุงเท้าของฉันสึกทะลุที่ส้น","c":3}
+{"id":"round-on_pv","th":"หันกลับมาโจมตี; หันมาต่อว่า","ex":"He suddenly rounded on his brother and shouted.","exTh":"เขาหันมาตวาดใส่น้องชายกะทันหัน","c":2}
+{"id":"pin-on_pv","th":"ใส่ความ; โยนความผิดให้","ex":"Don't try to pin the mistake on me.","exTh":"อย่าพยายามโยนความผิดให้ฉัน","c":4}
+{"id":"simper-out_pv","th":"พูดด้วยท่าทางยิ้มเสแสร้ง","ex":"She simpered out a thank you to the manager.","exTh":"เธอพูดขอบคุณผู้จัดการด้วยท่าทางยิ้มเสแสร้ง","c":1}
+{"id":"cook-back_pv","th":"ต้มยาเสพติดซ้ำเพื่อให้เข้มข้นขึ้น","ex":"The report described how dealers cook back crack.","exTh":"รายงานอธิบายว่าพ่อค้ายาต้มแคร็กซ้ำอย่างไร","c":1,"note":"ศัพท์แสลงเกี่ยวกับยาเสพติด"}
+{"id":"date-out_pv","th":"คบกับคนต่างเชื้อชาติ","ex":"She dated out for the first time in college.","exTh":"เธอคบกับคนต่างเชื้อชาติเป็นครั้งแรกตอนเรียนมหาวิทยาลัย","c":1}
+{"id":"wire-away_pv","th":"ลงมือทำอย่างขะมักเขม้น","ex":"They wired away at the project all night.","exTh":"พวกเขาทำโครงการอย่างขะมักเขม้นทั้งคืน","c":1,"note":"ภาษาถิ่นเก่า"}
+{"id":"wire-in_pv","th":"ลงมือทำอย่างขะมักเขม้น","ex":"Let's wire in and finish before lunch.","exTh":"เรามาลุยทำให้เสร็จก่อนมื้อกลางวัน","c":2,"note":"ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"invalid-out_pv","th":"ต้องออกเพราะบาดเจ็บหรือป่วย","ex":"He was invalided out of the army after the accident.","exTh":"เขาต้องปลดจากกองทัพหลังอุบัติเหตุเพราะบาดเจ็บ","c":2}
+{"id":"marinate-on_pv","th":"ครุ่นคิดอยู่นาน; ใคร่ครวญ","ex":"Let me marinate on your offer for a day.","exTh":"ขอเวลาฉันใคร่ครวญข้อเสนอของคุณสักวัน","c":2,"note":"ภาษาพูด"}
+{"id":"gut-up_pv","th":"รวบรวมความกล้า","ex":"He gutted up and walked into the dark room.","exTh":"เขารวบรวมความกล้าแล้วเดินเข้าไปในห้องมืด","c":1}
+{"id":"dress-off_pv","th":"จัดตำแหน่งการยืนในฉาก (การแสดง)","ex":"The actor dressed off to give the star more space.","exTh":"นักแสดงขยับตำแหน่งเพื่อเว้นที่ให้ดารานำ","c":1,"note":"ศัพท์การแสดง"}
+{"id":"bubble-in_pv","th":"ระบายวงกลมเลือกคำตอบ","ex":"Use a pencil to bubble in your answers.","exTh":"ใช้ดินสอระบายวงกลมคำตอบของคุณ","c":3}
+{"id":"twat-around_pv","th":"เล่นไปเรื่อย; ทำอะไรโง่ๆ ไร้สาระ","ex":"Stop twatting around and do your homework.","exTh":"เลิกเล่นเลอะเทอะแล้วทำการบ้านได้แล้ว","c":1,"note":"คำหยาบ ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"twat-about_pv","th":"เล่นไปเรื่อย; ทำอะไรโง่ๆ ไร้สาระ","ex":"They spent the whole day twatting about in the park.","exTh":"พวกเขาใช้เวลาทั้งวันเล่นไร้สาระในสวนสาธารณะ","c":1,"note":"คำหยาบ ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"light-upon_pv","th":"บังเอิญพบ; นึกออกขึ้นมา","ex":"I lit upon a great idea while walking home.","exTh":"ฉันบังเอิญนึกไอเดียเจ๋งๆ ได้ระหว่างเดินกลับบ้าน","c":2,"note":"ภาษาเขียน"}
+{"id":"grip-off_pv","th":"แซวนักดูนกที่พลาดไม่ได้เห็นนก","ex":"He gripped me off about the rare owl he saw.","exTh":"เขาแซวฉันเรื่องนกฮูกหายากที่เขาเห็น","c":1,"note":"ศัพท์นักดูนก"}
+{"id":"rubber-up_pv","th":"สวมถุงยางอนามัย","ex":"The clinic taught him to always rubber up.","exTh":"คลินิกสอนให้เขาสวมถุงยางอนามัยเสมอ","c":1,"note":"ภาษาแสลง"}
+{"id":"reverse-out_pv","th":"พิมพ์กลับสี (ตัวอักษรขาวบนพื้นดำ)","ex":"We reversed out the title in white on a black box.","exTh":"เรากลับสีหัวเรื่องเป็นตัวขาวบนกล่องสีดำ","c":1,"note":"ศัพท์งานพิมพ์"}
+{"id":"buckle-to_pv","th":"ตั้งใจทำงานอย่างจริงจัง","ex":"We must buckle to if we want to finish today.","exTh":"เราต้องตั้งใจทำงานถ้าอยากเสร็จวันนี้","c":2}
+{"id":"mask-up_pv","th":"สวมหน้ากาก","ex":"Please mask up before you enter the clinic.","exTh":"กรุณาสวมหน้ากากก่อนเข้าคลินิก","c":3}
+{"id":"persist-down_pv","th":"(ฝน) ตกหนัก","ex":"It's persisting down outside, so take an umbrella.","exTh":"ข้างนอกฝนตกหนัก พกร่มไปด้วยนะ","c":1,"note":"ล้อเลียนแบบขำๆ ของ piss down"}
+{"id":"love-on_pv","th":"แสดงความรักความเอ็นดู","ex":"She loves on her puppy every morning.","exTh":"เธอเล่นกอดลูกสุนัขของเธอทุกเช้า","c":2}
+{"id":"class-up_pv","th":"ทำให้ดูหรูหราขึ้น","ex":"A few flowers will class up the table.","exTh":"ดอกไม้สักสองสามดอกจะทำให้โต๊ะดูหรูขึ้น","c":2}
+{"id":"clock-down_pv","th":"นับเวลาถอยหลัง","ex":"The timer clocked down to zero.","exTh":"ตัวจับเวลานับถอยหลังไปจนถึงศูนย์","c":1}
+{"id":"posh-up_pv","th":"ทำให้ดูหรูขึ้น","ex":"We poshed up the flat for the visit.","exTh":"เราตกแต่งแฟลตให้ดูหรูขึ้นสำหรับการมาเยือน","c":1,"note":"ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"bake-out_pv","th":"อบไล่สารระเหยในสุญญากาศ","ex":"Engineers baked out the parts before launch.","exTh":"วิศวกรอบชิ้นส่วนไล่สารระเหยก่อนปล่อยยาน","c":1,"note":"ศัพท์วิศวกรรม"}
+{"id":"average-down_pv","th":"ซื้อหุ้นเพิ่มตอนราคาต่ำเพื่อลดต้นทุนเฉลี่ย","ex":"He averaged down by buying more shares at a lower price.","exTh":"เขาซื้อหุ้นเพิ่มตอนราคาต่ำเพื่อลดต้นทุนเฉลี่ย","c":2,"note":"ศัพท์การลงทุน"}
+{"id":"vacuum-up_pv","th":"ดูดฝุ่น; ดูดเก็บให้หมด","ex":"Please vacuum up the crumbs on the floor.","exTh":"ช่วยดูดเศษขนมบนพื้นหน่อย","c":3}
+{"id":"bully-off_pv","th":"เริ่มเกมด้วยการแย่งลูก (ฮอกกี้)","ex":"The two captains bullied off to start the match.","exTh":"กัปตันสองคนแย่งลูกเปิดเกมเริ่มการแข่งขัน","c":1,"note":"ศัพท์ฮอกกี้"}
+{"id":"bro-out_pv","th":"ไปสังสรรค์กับเพื่อนผู้ชาย","ex":"We are going to bro out at the game tonight.","exTh":"คืนนี้พวกเราจะไปสังสรรค์กับเพื่อนชายที่เกมแข่ง","c":1,"note":"ภาษาแสลง"}
+{"id":"wise-off_pv","th":"พูดกวนประสาท; ทำตัวรู้ดี","ex":"Don't wise off to your teacher like that.","exTh":"อย่าพูดกวนประสาทครูแบบนั้น","c":2}
+{"id":"muster-in_pv","th":"เข้าเป็นทหาร; ลงชื่อเข้ารับราชการทหาร","ex":"He mustered in at age eighteen.","exTh":"เขาเข้ารับราชการทหารตอนอายุสิบแปด","c":1}
+{"id":"muster-out_pv","th":"ปลดประจำการ","ex":"She mustered out after six years of service.","exTh":"เธอปลดประจำการหลังรับราชการหกปี","c":2}
+{"id":"beat-back_pv","th":"ตีโต้ให้ถอยไป","ex":"Firefighters beat back the flames from the houses.","exTh":"นักดับเพลิงสกัดเปลวไฟไม่ให้เข้าใกล้บ้าน","c":3}
+{"id":"knuckle-to_pv","th":"ยอมอ่อนข้อ","ex":"He finally knuckled to the boss's demands.","exTh":"ในที่สุดเขาก็ยอมทำตามข้อเรียกร้องของเจ้านาย","c":1}
+{"id":"dick-up_pv","th":"ทำพัง; ทำเสีย","ex":"Don't dick up the plan at the last minute.","exTh":"อย่าทำแผนพังตอนนาทีสุดท้าย","c":1,"note":"คำหยาบ"}
+{"id":"play-up-to_pv","th":"ประจบเอาใจ","ex":"He plays up to the boss to get a promotion.","exTh":"เขาประจบเจ้านายเพื่อให้ได้เลื่อนตำแหน่ง","c":3}
+{"id":"play-through_pv","th":"ขอแซงกลุ่มที่ช้ากว่า (กอล์ฟ)","ex":"The slower group let us play through on the ninth hole.","exTh":"กลุ่มที่ช้ากว่าให้เราตีแซงที่หลุมเก้า","c":2,"note":"ศัพท์กอล์ฟ"}
+{"id":"leap-at_pv","th":"รีบคว้าไว้ (โอกาส)","ex":"She leaped at the chance to work abroad.","exTh":"เธอรีบคว้าโอกาสไปทำงานต่างประเทศ","c":3}
+{"id":"frizz-up_pv","th":"ทำให้ผมหยิกฟู","ex":"The humid air frizzed up her hair.","exTh":"อากาศชื้นทำให้ผมเธอหยิกฟู","c":1}
+{"id":"ship-over_pv","th":"สมัครเข้ารับราชการทหารต่ออีกวาระ","ex":"He shipped over for another four years in the navy.","exTh":"เขาต่อสัญญารับราชการในกองทัพเรืออีกสี่ปี","c":1,"note":"ศัพท์ทหารเรือสหรัฐ"}
+{"id":"shoot-around_pv","th":"ถ่ายทำฉากอื่นก่อนเพราะนักแสดงไม่อยู่","ex":"We had to shoot around the lead actor who was sick.","exTh":"เราต้องถ่ายฉากอื่นก่อนเพราะนักแสดงนำป่วย","c":2,"note":"ศัพท์ภาพยนตร์"}
+{"id":"compass-out_pv","th":"กำหนดขอบเขต; ล้อมกรอบ","ex":"The surveyor compassed out the land with stakes.","exTh":"ผู้สำรวจกำหนดขอบเขตที่ดินด้วยหลัก","c":1,"note":"เก่า"}
+{"id":"rule-off_pv","th":"ขีดเส้นใต้เพื่อแบ่งหรือปิดบัญชี","ex":"The clerk ruled off the account at the end of the month.","exTh":"เสมียนขีดเส้นปิดบัญชีตอนสิ้นเดือน","c":1}
+{"id":"seal-up_pv","th":"ปิดผนึกให้สนิท","ex":"Seal up the box before you ship it.","exTh":"ปิดผนึกกล่องให้สนิทก่อนส่ง","c":3}
+{"id":"prat-around_pv","th":"ทำตัวโง่ๆ; เล่นไร้สาระ","ex":"Stop prating around and get to work.","exTh":"เลิกทำตัวโง่ๆ แล้วไปทำงานได้แล้ว","c":1,"note":"ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"plate-up_pv","th":"จัดอาหารใส่จาน","ex":"The chef plated up the dishes quickly.","exTh":"เชฟจัดอาหารใส่จานอย่างรวดเร็ว","c":3}
+{"id":"spool-down_pv","th":"(เครื่องยนต์) ลดรอบหมุน","ex":"The engine spooled down after landing.","exTh":"เครื่องยนต์ลดรอบหมุนหลังลงจอด","c":1,"note":"ศัพท์วิศวกรรม"}
+{"id":"poker-up_pv","th":"ทำหน้านิ่ง","ex":"He pokered up when the police asked him questions.","exTh":"เขาทำหน้านิ่งเมื่อตำรวจถามคำถาม","c":1}
+{"id":"booty-down_pv","th":"เต้นยั่วยวนด้วยการโยกสะโพก","ex":"They booty down on the dance floor every Friday.","exTh":"พวกเขาเต้นโยกสะโพกบนฟลอร์ทุกวันศุกร์","c":1,"note":"ภาษาแสลง"}
+{"id":"lead-through_pv","th":"ผลัดกันนำทางในการเดินทาง","ex":"The climbers led through the steep section in turns.","exTh":"นักปีนเขาผลัดกันนำทางช่วงที่ชัน","c":1,"note":"ศัพท์ปีนเขา"}
+{"id":"get-by-with_pv","th":"รอดพ้นโทษไปได้","ex":"He got by with breaking the rule again.","exTh":"เขาฝ่าฝืนกฎแล้วรอดพ้นไปได้อีกครั้ง","c":1}
+{"id":"move-off_pv","th":"เริ่มเคลื่อนที่; ออกตัว","ex":"The bus moved off slowly from the stop.","exTh":"รถเมล์ค่อยๆ ออกตัวจากป้าย","c":3}
+{"id":"sort-through_pv","th":"คัดแยกดู; ค้นหาทีละชิ้น","ex":"I need to sort through these old papers.","exTh":"ฉันต้องคัดแยกดูเอกสารเก่าเหล่านี้","c":4}
+{"id":"cable-up_pv","th":"ต่อสายเคเบิล","ex":"The technician cabled up the new TV.","exTh":"ช่างต่อสายเคเบิลให้ทีวีเครื่องใหม่","c":2}
+{"id":"conflict-out_pv","th":"ถูกตัดสิทธิ์เพราะผลประโยชน์ทับซ้อน","ex":"The law firm was conflicted out of the case.","exTh":"สำนักงานกฎหมายถูกตัดสิทธิ์จากคดีนี้เพราะผลประโยชน์ทับซ้อน","c":1,"note":"ศัพท์กฎหมาย"}
+{"id":"pace-out_pv","th":"วัดระยะด้วยการก้าวเดิน","ex":"He paced out the length of the garden.","exTh":"เขาก้าวเดินวัดความยาวของสวน","c":2}
+{"id":"soak-away_pv","th":"ซึมลงดิน","ex":"The rainwater soaked away into the ground.","exTh":"น้ำฝนซึมหายลงไปในดิน","c":2}
+{"id":"cut-along_pv","th":"รีบไป; ออกเดินทาง","ex":"I must cut along now or I'll miss my train.","exTh":"ฉันต้องรีบไปแล้ว ไม่งั้นพลาดรถไฟ","c":1,"note":"เก่า"}
+{"id":"look-in_pv","th":"แวะไปเยี่ยมสั้นๆ","ex":"I'll look in on my way home from work.","exTh":"ฉันจะแวะไปตอนกลับจากที่ทำงาน","c":3}
+{"id":"plunge-into_pv","th":"ดำดิ่งลงไป; พุ่งเข้าสู่","ex":"The children plunged into the cold water.","exTh":"เด็กๆ กระโดดลงไปในน้ำเย็น","c":3}
+{"id":"wolf-back_pv","th":"กินอย่างตะกละตะกลาม","ex":"He wolfed back his dinner in two minutes.","exTh":"เขากินมื้อเย็นอย่างตะกละตะกลามภายในสองนาที","c":1}
+{"id":"hike-out_pv","th":"โน้มตัวออกนอกเรือเพื่อถ่วงน้ำหนัก","ex":"The crew hiked out as the wind grew stronger.","exTh":"ลูกเรือโน้มตัวออกนอกเรือเมื่อลมแรงขึ้น","c":1,"note":"ศัพท์เรือใบ"}
+{"id":"level-with_pv","th":"พูดตรงๆ กับ; พูดความจริงกับ","ex":"I'll level with you, the job is very hard.","exTh":"ฉันจะพูดตรงๆ กับคุณนะ งานนี้ยากมาก","c":3}
+{"id":"brisk-up_pv","th":"ทำให้คึกคัก; กระตุ้นให้มีชีวิตชีวา","ex":"A cold wind brisked up the morning walk.","exTh":"ลมเย็นทำให้การเดินตอนเช้าสดชื่นขึ้น","c":1,"note":"เก่า"}
+{"id":"error-out_pv","th":"ล้มเหลวด้วยข้อผิดพลาด","ex":"The program errored out when I clicked save.","exTh":"โปรแกรมขึ้นข้อผิดพลาดเมื่อฉันกดบันทึก","c":3,"note":"ศัพท์คอมพิวเตอร์"}
+{"id":"yuck-up_pv","th":"ทำให้เปรอะเปื้อนน่ารังเกียจ","ex":"The dog yucked up the clean sofa.","exTh":"สุนัขทำโซฟาสะอาดเปรอะเปื้อน","c":1,"note":"ภาษาพูดเด็กๆ"}
+{"id":"yuck-out_pv","th":"ทำให้รู้สึกขยะแขยง","ex":"The smell of rotten eggs yucked me out.","exTh":"กลิ่นไข่เน่าทำให้ฉันรู้สึกขยะแขยง","c":1,"note":"ภาษาพูด"}
+{"id":"pull-for_pv","th":"เชียร์; ให้กำลังใจ","ex":"Everyone in town is pulling for the home team.","exTh":"ทุกคนในเมืองเชียร์ทีมเจ้าบ้าน","c":2}
+{"id":"twinkle-out_pv","th":"(แสงระยิบระยับ) ดับลง","ex":"The last star twinkled out before dawn.","exTh":"ดาวดวงสุดท้ายดับลงก่อนรุ่งสาง","c":1}
+{"id":"stock-out_pv","th":"สินค้าหมด","ex":"The shop stocked out of masks last week.","exTh":"ร้านหน้ากากหมดสต็อกเมื่อสัปดาห์ที่แล้ว","c":2,"note":"ศัพท์การค้าปลีก"}
+{"id":"squeak-through_pv","th":"รอดมาได้อย่างฉิวเฉียด","ex":"Our team squeaked through to the final.","exTh":"ทีมของเรารอดเข้ารอบชิงมาได้อย่างฉิวเฉียด","c":2}
+{"id":"pile-out_pv","th":"ทยอยออกมาเป็นกลุ่มใหญ่","ex":"Everyone piled out of the bus at the beach.","exTh":"ทุกคนทยอยลงจากรถบัสที่ชายหาด","c":3}
+{"id":"pile-in_pv","th":"ทยอยเข้าไปเป็นกลุ่มใหญ่","ex":"We all piled in the car and drove away.","exTh":"พวกเราทุกคนอัดกันเข้าไปในรถแล้วขับออกไป","c":3}
+{"id":"dap-up_pv","th":"จับมือทักทายแบบแดป","ex":"The two friends dapped up outside the gym.","exTh":"เพื่อนสองคนจับมือทักทายกันหน้ายิม","c":2,"note":"ภาษาแสลง"}
+{"id":"crotch-down_pv","th":"นั่งยองๆ","ex":"The cat crotched down behind the bush.","exTh":"แมวย่อตัวลงหลังพุ่มไม้","c":1,"note":"เก่า/หายาก"}
+{"id":"breed-up_pv","th":"อบรมเลี้ยงดู","ex":"She was bred up to respect her elders.","exTh":"เธอถูกอบรมเลี้ยงดูมาให้เคารพผู้ใหญ่","c":1,"note":"เก่า"}
+{"id":"jock-off_pv","th":"เปลี่ยนตัวนักขี่ม้า","ex":"The owner jocked off the rider before the race.","exTh":"เจ้าของเปลี่ยนตัวนักขี่ก่อนการแข่งม้า","c":1,"note":"ศัพท์แข่งม้า"}
+{"id":"dub-up_pv","th":"ขังเข้าคุก; ขังเดี่ยว","ex":"The guards dubbed him up for the night.","exTh":"ผู้คุมขังเขาไว้ในห้องขังตลอดคืน","c":1,"note":"ภาษาแสลงอังกฤษ"}
+{"id":"help-along_pv","th":"ช่วยให้ตายอย่างสงบ (การุณยฆาต)","ex":"The vet helped the old dog along.","exTh":"สัตวแพทย์ทำการุณยฆาตให้สุนัขแก่","c":1,"note":"สำนวนอ้อม"}

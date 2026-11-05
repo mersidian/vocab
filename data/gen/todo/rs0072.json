@@ -1,0 +1,910 @@
+[
+{
+"id": "pawn-upon_pv",
+"w": "pawn upon",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To convince (someone) of a lie."
+]
+},
+{
+"id": "pansy-up_pv",
+"w": "pansy up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To dress up or spruce up (someone), especially to make more attractive in a feminine or effeminate way."
+]
+},
+{
+"id": "kissy-up_pv",
+"w": "kissy up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of kiss up."
+]
+},
+{
+"id": "prank-up_pv",
+"w": "prank up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To prink up"
+]
+},
+{
+"id": "how-are-you_idiom",
+"w": "how are you",
+"kind": "idiom",
+"gloss": [
+"An informal greeting, not requiring a literal response. In form a question, and thus followed by a question mark. Typical responses include",
+"(Following a noun phrase; stress on are) An expression of derision, that the preceding referent is unworthy of the name. In form of an exclamation, and thus often followed by an exclamation mark."
+]
+},
+{
+"id": "give-birth_idiom",
+"w": "give birth",
+"kind": "idiom",
+"gloss": [
+"To release live offspring from the body into the environment.",
+"To become the parent of by birthing.",
+"To become the source of."
+]
+},
+{
+"id": "fall-asleep_idiom",
+"w": "fall asleep",
+"kind": "idiom",
+"gloss": [
+"To pass from a state of wakefulness into sleep.",
+"To be affected by paresthesia; to go numb.",
+"To die (often seen on gravestones)."
+]
+},
+{
+"id": "fuck-you_idiom",
+"w": "fuck you",
+"kind": "idiom",
+"gloss": [
+"Expresses discontent or contempt.",
+"Go away; go to hell.",
+"Used other than figuratively or idiomatically: see fuck, you."
+]
+},
+{
+"id": "see-you-later_idiom",
+"w": "see you later",
+"kind": "idiom",
+"gloss": [
+"A phrase used at parting, and not necessarily implying that the person being addressed will be seen later by the speaker."
+]
+},
+{
+"id": "what-s-up_idiom",
+"w": "what's up",
+"kind": "idiom",
+"gloss": [
+"What’s the matter? What is the problem? What is wrong?",
+"What's happening? What are you doing?",
+"A casual greeting with a meaning similar to hi or nice to meet you."
+]
+},
+{
+"id": "son-of-a-bitch_idiom",
+"w": "son of a bitch",
+"kind": "idiom",
+"gloss": [
+"An objectionable or despicable person (usually, a man).",
+"Any objectionable thing.",
+"An impressive, daring, or admirable man."
+]
+},
+{
+"id": "and-so-forth_idiom",
+"w": "and so forth",
+"kind": "idiom",
+"gloss": [
+"Indicates that a list continues in a similar manner."
+]
+},
+{
+"id": "never-mind_idiom",
+"w": "never mind",
+"kind": "idiom",
+"gloss": [
+"It is not important; do not fret; used to reassure or comfort the person to whom it is said.",
+"Do not be concerned (about someone or something, or about doing something).",
+"Indicates a withdrawal or retractment of a previous statement."
+]
+},
+{
+"id": "once-again_idiom",
+"w": "once again",
+"kind": "idiom",
+"gloss": [
+"Again, once more, one more time."
+]
+},
+{
+"id": "in-vain_idiom",
+"w": "in vain",
+"kind": "idiom",
+"gloss": [
+"Without success or a result; ending in failure.",
+"In a disrespectful manner, without honoring the proper meaning; insincerely or without proper respect.",
+"Unsuccessful, failed."
+]
+},
+{
+"id": "no-way_idiom",
+"w": "no way",
+"kind": "idiom",
+"gloss": [
+"Absolutely not; under no circumstances.",
+"Indicates astonished disbelief."
+]
+},
+{
+"id": "take-part_idiom",
+"w": "take part",
+"kind": "idiom",
+"gloss": [
+"To participate or join.",
+"To share or partake."
+]
+},
+{
+"id": "bless-you_idiom",
+"w": "bless you",
+"kind": "idiom",
+"gloss": [
+"Said to someone who has just sneezed, as a polite remark.",
+"Used to express non-understanding of someone who has just used an unusual or foreign word or phrase (as if to imply that it sounds like a sneeze)."
+]
+},
+{
+"id": "dead-end_idiom",
+"w": "dead end",
+"kind": "idiom",
+"gloss": [
+"A street or path or tunnel that goes nowhere or is blocked on one end.",
+"The inner end of a drift or tunnel.",
+"A position that offers no hope of change or progress."
+]
+},
+{
+"id": "by-the-way_idiom",
+"w": "by the way",
+"kind": "idiom",
+"gloss": [
+"Incidentally; used in referencing a parenthetical statement not timely, central, or crucial to the topic at hand; foregone, passed by, something that has already happened."
+]
+},
+{
+"id": "make-fun-of_idiom",
+"w": "make fun of",
+"kind": "idiom",
+"gloss": [
+"To tease, ridicule or make jokes about, generally in a pejorative manner."
+]
+},
+{
+"id": "end-of-the-world_idiom",
+"w": "end of the world",
+"kind": "idiom",
+"gloss": [
+"The death and destruction of life on Earth, especially human.",
+"The destruction of Earth.",
+"Any change that seems catastrophic or devastating."
+]
+},
+{
+"id": "get-used_idiom",
+"w": "get used",
+"kind": "idiom",
+"gloss": [
+"To become accustomed to something; to acclimate; to adjust.",
+"To make accustomed, to accustom, to habituate (someone to something).",
+"Used other than figuratively or idiomatically: see get, used."
+]
+},
+{
+"id": "crocodile-tear_idiom",
+"w": "crocodile tear",
+"kind": "idiom",
+"gloss": [
+"A tear shed insincerely, in a false display of sorrow or some other emotion.",
+"A display of tears that is forced or false."
+]
+},
+{
+"id": "at-home_idiom",
+"w": "at home",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see at, home. In one's place of residence.",
+"At ease; comfortable.",
+"In the home of one's parents."
+]
+},
+{
+"id": "get-lost_idiom",
+"w": "get lost",
+"kind": "idiom",
+"gloss": [
+"To lose one's way.",
+"To go missing; to be in a location unknown to someone who is looking for it.",
+"To be absent, to seem to be absent."
+]
+},
+{
+"id": "here-you-are_idiom",
+"w": "here you are",
+"kind": "idiom",
+"gloss": [
+"Said when handing something over to someone or doing a favour to them, usually to draw the recipient's attention to the exchange; equivalent to “thank you” when receiving something.",
+"Used to express disdain for someone's actions despite the speaker's hopes or expectations."
+]
+},
+{
+"id": "black-market_idiom",
+"w": "black market",
+"kind": "idiom",
+"gloss": [
+"Trade that is in violation of restrictions, rationing, or price controls.",
+"The people who engage in such trade, or that sector of the economy."
+]
+},
+{
+"id": "keep-quiet_idiom",
+"w": "keep quiet",
+"kind": "idiom",
+"gloss": [
+"To remain silent.",
+"To refrain from talking about something; to keep a secret."
+]
+},
+{
+"id": "by-no-means_idiom",
+"w": "by no means",
+"kind": "idiom",
+"gloss": [
+"Certainly not; definitely not; not at all."
+]
+},
+{
+"id": "little-girl_idiom",
+"w": "little girl",
+"kind": "idiom",
+"gloss": [
+"A female child, especially one younger than ten years of age.",
+"One's daughter.",
+"A weak-willed or effeminate person."
+]
+},
+{
+"id": "on-purpose_idiom",
+"w": "on purpose",
+"kind": "idiom",
+"gloss": [
+"By design, as opposed to by accident; intentionally; deliberately."
+]
+},
+{
+"id": "in-any-case_idiom",
+"w": "in any case",
+"kind": "idiom",
+"gloss": [
+"Regardless (of an aforementioned point).",
+"Any way one slices it (emphasizing that a point is important no matter what).",
+"Used other than figuratively or idiomatically: see in, any, case."
+]
+},
+{
+"id": "god-forbid_idiom",
+"w": "God forbid",
+"kind": "idiom",
+"gloss": [
+"indicating that the occurrence of something is very undesirable"
+]
+},
+{
+"id": "when-pigs-fly_idiom",
+"w": "when pigs fly",
+"kind": "idiom",
+"gloss": [
+"Never."
+]
+},
+{
+"id": "beat-around-the-bush_idiom",
+"w": "beat around the bush",
+"kind": "idiom",
+"gloss": [
+"To treat a topic, but omit its main points, often intentionally.",
+"To delay or avoid talking about something difficult or unpleasant."
+]
+},
+{
+"id": "as-well_idiom",
+"w": "as well",
+"kind": "idiom",
+"gloss": [
+"In addition; also.",
+"To the same effect.",
+"Me too."
+]
+},
+{
+"id": "from-time-to-time_idiom",
+"w": "from time to time",
+"kind": "idiom",
+"gloss": [
+"Occasionally; sometimes; once in a while.",
+"In whatever status exists at various times."
+]
+},
+{
+"id": "as-soon-as_idiom",
+"w": "as soon as",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see as, soon.",
+"At the moment when; immediately (after); instantly; directly.",
+"Used to indicate that the first action mentioned is as likely as, or is preferred to, the second action mentioned."
+]
+},
+{
+"id": "holy-shit_idiom",
+"w": "holy shit",
+"kind": "idiom",
+"gloss": [
+"Expression of terror, awe, surprise, astonishment, etc., often at something seen for the first time or remembered immediately before using this term."
+]
+},
+{
+"id": "middle-of-nowhere_idiom",
+"w": "middle of nowhere",
+"kind": "idiom",
+"gloss": [
+"A very remote or secluded area; a nondescript place lacking population, interesting things, or defining characteristics."
+]
+},
+{
+"id": "at-last_idiom",
+"w": "at last",
+"kind": "idiom",
+"gloss": [
+"After a long time; eventually.",
+"In the end; finally; ultimately."
+]
+},
+{
+"id": "right-away_idiom",
+"w": "right away",
+"kind": "idiom",
+"gloss": [
+"Very soon; quickly; immediately.",
+"Eggcorn of right of way."
+]
+},
+{
+"id": "make-sense_idiom",
+"w": "make sense",
+"kind": "idiom",
+"gloss": [
+"To be sensible, coherent, reasonable.",
+"To decipher or understand.",
+"Used to express interest or desire in something; to be pleasing or beneficial; to work, be operative, or be advantageous to."
+]
+},
+{
+"id": "let-alone_idiom",
+"w": "let alone",
+"kind": "idiom",
+"gloss": [
+"Much less; to say nothing of; used after one negative clause to introduce another, usually broader and more important clause, whose negation is implied by the negation of the first. However either of these instances mentioned can be applied with the use of let alone."
+]
+},
+{
+"id": "kick-the-bucket_idiom",
+"w": "kick the bucket",
+"kind": "idiom",
+"gloss": [
+"To die.",
+"To break down such that it cannot be repaired."
+]
+},
+{
+"id": "not-at-all_idiom",
+"w": "not at all",
+"kind": "idiom",
+"gloss": [
+"A conventional reply to an expression of gratitude.",
+"Don't worry about it (response to worry or an apology)"
+]
+},
+{
+"id": "bit-by-bit_idiom",
+"w": "bit by bit",
+"kind": "idiom",
+"gloss": [
+"A small amount at a time."
+]
+},
+{
+"id": "if-only_idiom",
+"w": "if only",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see if, only.",
+"I wish that; would (that) (archaic). Signifies a wish or desire for the present or the future.",
+"I wish that; would (that) (archaic). Signifies a regret about an action in the past."
+]
+},
+{
+"id": "kick-ass_idiom",
+"w": "kick ass",
+"kind": "idiom",
+"gloss": [
+"To win decisively.",
+"To be very impressive.",
+"To beat to a pulp; beat up"
+]
+},
+{
+"id": "now-and-then_idiom",
+"w": "now and then",
+"kind": "idiom",
+"gloss": [
+"Synonym of occasionally, sometimes, intermittently."
+]
+},
+{
+"id": "at-all_idiom",
+"w": "at all",
+"kind": "idiom",
+"gloss": [
+"Indicating degree, quantity or frequency greater than zero: to the slightest degree, in any way, at any time or in any circumstance."
+]
+},
+{
+"id": "so-far_idiom",
+"w": "so far",
+"kind": "idiom",
+"gloss": [
+"Until now; previously; yet.",
+"A limited distance, literal or metaphorical."
+]
+},
+{
+"id": "get-out-of-here_idiom",
+"w": "get out of here",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see get, out of, here.",
+"An exclamation of disbelief."
+]
+},
+{
+"id": "on-the-other-hand_idiom",
+"w": "on the other hand",
+"kind": "idiom",
+"gloss": [
+"From another point of view."
+]
+},
+{
+"id": "long-time-no-see_idiom",
+"w": "long time no see",
+"kind": "idiom",
+"gloss": [
+"I (or we) have not seen you for a long time."
+]
+},
+{
+"id": "after-all_idiom",
+"w": "after all",
+"kind": "idiom",
+"gloss": [
+"Anyway, in any case; indicates a statement is true regardless of other considerations; used to reinforce or explain a point.",
+"In the end, however; used in referring to something that was believed to be the case, but is not; or to an outcome that is not what was expected or predicted.",
+"Introduces information that supports the preceding statement."
+]
+},
+{
+"id": "chess-piece_idiom",
+"w": "chess piece",
+"kind": "idiom",
+"gloss": [
+"Any of the 16 white and 16 black pieces used in playing the game of chess.",
+"A person being manipulated by another, being used to some end."
+]
+},
+{
+"id": "pot-calling-the-kettle-black_idiom",
+"w": "pot calling the kettle black",
+"kind": "idiom",
+"gloss": [
+"A situation in which somebody comments on or accuses someone else of a fault which the accuser shares."
+]
+},
+{
+"id": "what-s-the-matter_idiom",
+"w": "what's the matter",
+"kind": "idiom",
+"gloss": [
+"What is wrong? What's the problem?"
+]
+},
+{
+"id": "green-light_idiom",
+"w": "green light",
+"kind": "idiom",
+"gloss": [
+"A traffic light in its green state (indicating that vehicles may proceed).",
+"Approval, or permission to proceed.",
+"A go-ahead to commit a crime, specifically to carry out a hit on someone (i.e. to kill)."
+]
+},
+{
+"id": "between-a-rock-and-a-hard-place_idiom",
+"w": "between a rock and a hard place",
+"kind": "idiom",
+"gloss": [
+"In a difficult and inescapable position.",
+"Having the choice between two unpleasant or distasteful options; in a predicament or quandary."
+]
+},
+{
+"id": "brain-drain_idiom",
+"w": "brain drain",
+"kind": "idiom",
+"gloss": [
+"The migration of educated or talented people from less economically advanced areas to more economically advanced areas, especially to large cities or more developed nations.",
+"A Jackson-Pratt drain.",
+"Of a nation or society, to be deprived of educated or talented people, who in turn migrate to larger cities or more developed nations."
+]
+},
+{
+"id": "feel-like_idiom",
+"w": "feel like",
+"kind": "idiom",
+"gloss": [
+"To have a desire for something, or to do something.",
+"To perceive oneself to resemble (something); to have the sense of being (something).",
+"To feel that something is likely to happen; to predict."
+]
+},
+{
+"id": "out-of-order_idiom",
+"w": "out of order",
+"kind": "idiom",
+"gloss": [
+"Out of normal sequence.",
+"Not functioning properly; not in working order.",
+"Inappropriate or unsuitable."
+]
+},
+{
+"id": "how-s-the-weather_idiom",
+"w": "how's the weather",
+"kind": "idiom",
+"gloss": [
+"Used to inquire about the weather.",
+"Indicating a change of subject to unimportant topics."
+]
+},
+{
+"id": "it-s-all-greek-to-me_idiom",
+"w": "it's all Greek to me",
+"kind": "idiom",
+"gloss": [
+"I don't understand any of it; it makes no sense."
+]
+},
+{
+"id": "queen-bee_idiom",
+"w": "queen bee",
+"kind": "idiom",
+"gloss": [
+"A reproductive female (especially the only one) in a colony of bees.",
+"The most important or dominant woman in an organization or situation.",
+"A stem cell."
+]
+},
+{
+"id": "don-t-worry_idiom",
+"w": "don't worry",
+"kind": "idiom",
+"gloss": [
+"Indicates to the interlocutor not to worry (feel anxiety) about something.",
+"Synonym of none of your business."
+]
+},
+{
+"id": "kill-two-birds-with-one-stone_idiom",
+"w": "kill two birds with one stone",
+"kind": "idiom",
+"gloss": [
+"To solve two problems with one single action."
+]
+},
+{
+"id": "pay-attention_idiom",
+"w": "pay attention",
+"kind": "idiom",
+"gloss": [
+"To attend; to be attentive; to focus one's attention."
+]
+},
+{
+"id": "first-love_idiom",
+"w": "first love",
+"kind": "idiom",
+"gloss": [
+"One's first experience of the feeling of romantic love.",
+"The first person to be the object of one's romantic affection.",
+"The thing, place, or activity of which one is fondest; one's most fundamental interest or attachment."
+]
+},
+{
+"id": "hit-and-run_idiom",
+"w": "hit and run",
+"kind": "idiom",
+"gloss": [
+"The crime of causing a traffic collision, and leaving without acknowledging responsibility.",
+"A play where the baserunners leave their base before the batter hits the ball, assuming that the batter will in fact hit the ball and this will give them an advantage.",
+"The tactic of attacking one place and then quickly moving to another before defenders can react."
+]
+},
+{
+"id": "catch-a-cold_idiom",
+"w": "catch a cold",
+"kind": "idiom",
+"gloss": [
+"To contract a cold.",
+"To encounter difficulties."
+]
+},
+{
+"id": "change-one-s-mind_idiom",
+"w": "change one's mind",
+"kind": "idiom",
+"gloss": [
+"To decide differently than one had decided before."
+]
+},
+{
+"id": "gold-mine_idiom",
+"w": "gold mine",
+"kind": "idiom",
+"gloss": [
+"A mine for gold ore or metal.",
+"A very profitable economic venture.",
+"A plentiful stockpile of something sought-after."
+]
+},
+{
+"id": "cheat-sheet_idiom",
+"w": "cheat sheet",
+"kind": "idiom",
+"gloss": [
+"A sheet of paper (or a digital analogue thereof) containing notes used to assist (with or without permission) on a test; especially, such a sheet used secretly and improperly.",
+"Any summary or quick reference used as a shortcut or reminder, such as an aid for public speaking."
+]
+},
+{
+"id": "the-other-day_idiom",
+"w": "the other day",
+"kind": "idiom",
+"gloss": [
+"Recently; lately; a few days ago.",
+"The day before yesterday."
+]
+},
+{
+"id": "on-the-way_idiom",
+"w": "on the way",
+"kind": "idiom",
+"gloss": [
+"Coming; approaching.",
+"Heading to a certain place.",
+"On the direct route that one intends to travel."
+]
+},
+{
+"id": "eye-for-an-eye_idiom",
+"w": "eye for an eye",
+"kind": "idiom",
+"gloss": [
+"Compensation for injury caused by a person, in the form of inflicting an identical injury on that person."
+]
+},
+{
+"id": "call-it-a-day_idiom",
+"w": "call it a day",
+"kind": "idiom",
+"gloss": [
+"To cease an activity.",
+"To retire.",
+"To end a period of activity, either because it is unsuccessful or because enough has been done."
+]
+},
+{
+"id": "rain-cats-and-dogs_idiom",
+"w": "rain cats and dogs",
+"kind": "idiom",
+"gloss": [
+"To rain very heavily."
+]
+},
+{
+"id": "food-chain_idiom",
+"w": "food chain",
+"kind": "idiom",
+"gloss": [
+"The feeding relationships between species in a biotic community.",
+"A hierarchy."
+]
+},
+{
+"id": "in-spite-of_idiom",
+"w": "in spite of",
+"kind": "idiom",
+"gloss": [
+"Despite, irrespective of, notwithstanding."
+]
+},
+{
+"id": "banana-republic_idiom",
+"w": "banana republic",
+"kind": "idiom",
+"gloss": [
+"A small country, especially one in Central America or the West Indies, that is dependent on a single export commodity (traditionally bananas) and that has a corrupt, dictatorial government."
+]
+},
+{
+"id": "at-large_idiom",
+"w": "at large",
+"kind": "idiom",
+"gloss": [
+"On the loose; roaming freely; not confined.",
+"In general; as a whole.",
+"Having an electorate across multiple districts."
+]
+},
+{
+"id": "turning-point_idiom",
+"w": "turning point",
+"kind": "idiom",
+"gloss": [
+"A decisive point at which a significant change or historical event occurs, or at which a decision must be made.",
+"A maximum or minimum on a graph.",
+"A crossroads."
+]
+},
+{
+"id": "first-of-all_idiom",
+"w": "first of all",
+"kind": "idiom",
+"gloss": [
+"Firstly; before anything else."
+]
+},
+{
+"id": "at-first_idiom",
+"w": "at first",
+"kind": "idiom",
+"gloss": [
+"Initially; at the start; originally."
+]
+},
+{
+"id": "night-owl_idiom",
+"w": "night owl",
+"kind": "idiom",
+"gloss": [
+"An owl (order Strigiformes) that is nocturnal.",
+"One who goes to bed late, or stays up late at night or in the early hours of the morning.",
+"A musical instrument which imitates an owl's hoot, consisting of a receptacle partly filled with water and a mouthpiece that is blown into."
+]
+},
+{
+"id": "in-order_idiom",
+"w": "in order",
+"kind": "idiom",
+"gloss": [
+"In a sequence.",
+"Ready, prepared; orderly; tidy.",
+"In accordance with the procedural rules governing formal meetings of a deliberative body."
+]
+},
+{
+"id": "beat-it_idiom",
+"w": "beat it",
+"kind": "idiom",
+"gloss": [
+"To leave; to go away.",
+"To masturbate.",
+"Used other than figuratively or idiomatically: see beat, it."
+]
+},
+{
+"id": "pardon-me_idiom",
+"w": "pardon me",
+"kind": "idiom",
+"gloss": [
+"Sorry; said as an apology.",
+"Polite expression used to soften a contradiction.",
+"Polite expression to ask someone to repeat an utterance."
+]
+},
+{
+"id": "say-goodbye_idiom",
+"w": "say goodbye",
+"kind": "idiom",
+"gloss": [
+"To wish someone farewell upon their leaving.",
+"To separate from someone or something.",
+"To cease to have, or have to do, something."
+]
+},
+{
+"id": "about-to_idiom",
+"w": "about to",
+"kind": "idiom",
+"gloss": [
+"Indicates something that will happen very soon; indicates action that is imminent; ready to; went to",
+"Indicates that one has no intention of doing the stated thing at any time in the future."
+]
+},
+{
+"id": "think-tank_idiom",
+"w": "think tank",
+"kind": "idiom",
+"gloss": [
+"A group of people who collectively perform research and develop reports and recommendations on topics relating to strategic planning or public policy, and which is usually funded by corporate, government, or special interests."
+]
+},
+{
+"id": "heat-wave_idiom",
+"w": "heat wave",
+"kind": "idiom",
+"gloss": [
+"A period of exceptionally hot weather.",
+"Three consecutive days with daytime high temperature of 90 degrees Fahrenheit or higher.",
+"A period of at least three consecutive days with daily high temperatures of the respective county's temperature threshold or higher."
+]
+},
+{
+"id": "speak-of-the-devil_idiom",
+"w": "speak of the devil",
+"kind": "idiom",
+"gloss": [
+"An expression sometimes used when a person mentioned in the current conversation happens to arrive on the scene."
+]
+},
+{
+"id": "piece-of-cake_idiom",
+"w": "piece of cake",
+"kind": "idiom",
+"gloss": [
+"A job, task or other activity that is pleasant or, by extension, easy or simple.",
+"Used other than figuratively or idiomatically: see piece, cake."
+]
+},
+{
+"id": "big-deal_idiom",
+"w": "big deal",
+"kind": "idiom",
+"gloss": [
+"Something very important or difficult; a matter of great concern; a considerable feat or achievement.",
+"Someone very important; a VIP.",
+"Indicates that something is not important or impressive; so what."
+]
+}
+]

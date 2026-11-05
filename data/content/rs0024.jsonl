@@ -1,0 +1,100 @@
+{"id": "spinal-cord_x", "th": "ไขสันหลัง", "ex": "An injury to the spinal cord can cause paralysis.", "exTh": "การบาดเจ็บที่ไขสันหลังอาจทำให้เป็นอัมพาตได้", "pos": "noun"}
+{"id": "spinal-nerves_x", "th": "เส้นประสาทไขสันหลัง", "ex": "Spinal nerves carry signals between the brain and the body.", "exTh": "เส้นประสาทไขสันหลังส่งสัญญาณระหว่างสมองกับร่างกาย", "pos": "noun"}
+{"id": "stabbing-pain_x", "th": "อาการปวดแปลบ; ปวดจี๊ด", "ex": "I felt a stabbing pain in my chest.", "exTh": "ฉันรู้สึกปวดแปลบที่หน้าอก", "pos": "noun"}
+{"id": "stockmarket_x", "th": "ตลาดหุ้น", "ex": "He lost money in the stockmarket last year.", "exTh": "เขาขาดทุนในตลาดหุ้นเมื่อปีที่แล้ว", "pos": "noun"}
+{"id": "stomach-bug_x", "th": "โรคกระเพาะลำไส้อักเสบ; ท้องเสียจากเชื้อไวรัส", "ex": "I stayed home because I had a stomach bug.", "exTh": "ฉันอยู่บ้านเพราะเป็นโรคกระเพาะลำไส้อักเสบ", "pos": "noun"}
+{"id": "stomach-cramps_x", "th": "ตะคริวในท้อง; ปวดบิดท้อง", "ex": "She had bad stomach cramps after lunch.", "exTh": "หลังมื้อกลางวันเธอปวดบิดท้องอย่างหนัก", "pos": "noun"}
+{"id": "stomach-ulcer_x", "th": "แผลในกระเพาะอาหาร", "ex": "A stomach ulcer can cause pain after eating.", "exTh": "แผลในกระเพาะอาหารอาจทำให้ปวดท้องหลังกินอาหาร", "pos": "noun"}
+{"id": "subprime_x", "th": "ซับไพรม์; (สินเชื่อ) เสี่ยงสูง; คุณภาพต่ำกว่าเกณฑ์", "ex": "Many families lost homes because of subprime loans.", "exTh": "หลายครอบครัวเสียบ้านเพราะสินเชื่อซับไพรม์", "pos": "adj"}
+{"id": "superior-vena-cava_x", "th": "หลอดเลือดดำใหญ่ส่วนบน", "ex": "The superior vena cava carries blood to the heart.", "exTh": "หลอดเลือดดำใหญ่ส่วนบนนำเลือดกลับเข้าสู่หัวใจ", "pos": "noun"}
+{"id": "susceptible-to_x", "th": "ไวต่อ; ติดง่าย; ได้รับผลกระทบง่าย", "ex": "Young children are susceptible to colds.", "exTh": "เด็กเล็กเป็นหวัดได้ง่าย", "pos": "adj"}
+{"id": "sustainability_x", "th": "ความยั่งยืน", "ex": "The company is focused on environmental sustainability.", "exTh": "บริษัทให้ความสำคัญกับความยั่งยืนด้านสิ่งแวดล้อม", "pos": "noun"}
+{"id": "systolic-blood-pressure_x", "th": "ความดันโลหิตตัวบน", "ex": "Your systolic blood pressure is a little high.", "exTh": "ความดันโลหิตตัวบนของคุณค่อนข้างสูง", "pos": "noun"}
+{"id": "taste-buds_x", "th": "ตุ่มรับรส", "ex": "Your taste buds are on your tongue.", "exTh": "ตุ่มรับรสอยู่บนลิ้นของคุณ", "pos": "noun"}
+{"id": "telecom_x", "th": "โทรคมนาคม; บริษัทโทรคมนาคม", "ex": "She works for a large telecom company.", "exTh": "เธอทำงานให้บริษัทโทรคมนาคมขนาดใหญ่", "pos": "noun"}
+{"id": "thigh-bone_x", "th": "กระดูกต้นขา", "ex": "He broke his thigh bone in a fall.", "exTh": "เขากระดูกต้นขาหักจากการล้ม", "pos": "noun"}
+{"id": "throbbing-pain_x", "th": "อาการปวดตุบๆ", "ex": "I had a throbbing pain in my head.", "exTh": "ฉันปวดหัวตุบๆ", "pos": "noun"}
+{"id": "thyroid-gland_x", "th": "ต่อมไทรอยด์", "ex": "The thyroid gland is in the neck.", "exTh": "ต่อมไทรอยด์อยู่ที่คอ", "pos": "noun"}
+{"id": "timeline_x", "th": "ไทม์ไลน์; ลำดับเหตุการณ์; ตารางเวลา", "ex": "The teacher drew a timeline of the war.", "exTh": "ครูวาดไทม์ไลน์ของสงคราม", "pos": "noun"}
+{"id": "to-be-discharged_x", "th": "ได้รับอนุญาตให้ออกจากโรงพยาบาล; ถูกปลดประจำการ", "ex": "He is going to be discharged from hospital tomorrow.", "exTh": "เขาจะได้ออกจากโรงพยาบาลพรุ่งนี้", "pos": "verb"}
+{"id": "tricep_x", "th": "กล้ามเนื้อไตรเซปส์; กล้ามต้นแขนด้านหลัง", "ex": "I hurt my tricep at the gym.", "exTh": "ฉันเจ็บกล้ามต้นแขนด้านหลังตอนออกกำลังกาย", "pos": "noun"}
+{"id": "tubal-pregnancy_x", "th": "การตั้งครรภ์ในท่อนำไข่", "ex": "A tubal pregnancy needs urgent medical care.", "exTh": "การตั้งครรภ์ในท่อนำไข่ต้องได้รับการรักษาโดยด่วน", "pos": "noun"}
+{"id": "unauthorize_x", "th": "ถอนสิทธิ์; ไม่อนุญาต", "ex": "The bank can unauthorize the payment at any time.", "exTh": "ธนาคารสามารถถอนการอนุมัติการชำระเงินได้ทุกเมื่อ", "pos": "verb"}
+{"id": "unbearable-pain_x", "th": "อาการปวดที่ทนไม่ไหว", "ex": "He was in unbearable pain after the accident.", "exTh": "เขาปวดทรมานจนทนไม่ไหวหลังเกิดอุบัติเหตุ", "pos": "noun"}
+{"id": "up-the-dose_x", "th": "เพิ่มขนาดยา", "ex": "The doctor may up the dose next week.", "exTh": "หมออาจเพิ่มขนาดยาในสัปดาห์หน้า", "pos": "verb"}
+{"id": "urine-sample_x", "th": "ตัวอย่างปัสสาวะ", "ex": "The nurse asked for a urine sample.", "exTh": "พยาบาลขอตัวอย่างปัสสาวะ", "pos": "noun"}
+{"id": "vas-deferens_x", "th": "ท่อนำอสุจิ", "ex": "The vas deferens carries sperm from the testicle.", "exTh": "ท่อนำอสุจิลำเลียงอสุจิจากอัณฑะ", "pos": "noun"}
+{"id": "videoconference_x", "th": "การประชุมทางวิดีโอ", "ex": "We had a videoconference with the Tokyo office.", "exTh": "เรามีการประชุมทางวิดีโอกับสำนักงานโตเกียว", "pos": "noun"}
+{"id": "vinyasa_x", "th": "วินยาสะ; โยคะแบบไหลต่อเนื่อง", "ex": "I take a vinyasa class every Saturday.", "exTh": "ฉันเรียนโยคะแบบวินยาสะทุกวันเสาร์", "pos": "noun"}
+{"id": "vocal-cords_x", "th": "สายเสียง", "ex": "Shouting too much can damage your vocal cords.", "exTh": "การตะโกนมากเกินไปอาจทำให้สายเสียงเสียหาย", "pos": "noun"}
+{"id": "webpage_x", "th": "หน้าเว็บ; เว็บเพจ", "ex": "This webpage is very slow to load.", "exTh": "หน้าเว็บนี้โหลดช้ามาก", "pos": "noun"}
+{"id": "whooping-cough_x", "th": "โรคไอกรน", "ex": "Babies should be vaccinated against whooping cough.", "exTh": "ทารกควรได้รับวัคซีนป้องกันโรคไอกรน", "pos": "noun"}
+{"id": "wisdom-tooth_x", "th": "ฟันคุด; ฟันกรามซี่สุดท้าย", "ex": "I had a wisdom tooth removed yesterday.", "exTh": "เมื่อวานฉันไปถอนฟันคุด", "pos": "noun"}
+{"id": "withdrawal-symptoms_x", "th": "อาการถอนยา; อาการขาดยา", "ex": "He had withdrawal symptoms after he quit smoking.", "exTh": "เขามีอาการถอนนิโคตินหลังเลิกบุหรี่", "pos": "noun"}
+{"id": "pick-up_pv", "th": "หยิบขึ้น; ไปรับ; ได้มา (เช่น ทักษะ)", "ex": "Please pick up your toys from the floor.", "exTh": "ช่วยเก็บของเล่นจากพื้นด้วย", "c": 5}
+{"id": "break-down_pv", "th": "เสีย (เครื่อง/รถ); ล้มเหลว; ร้องไห้ไม่หยุด", "ex": "Our car broke down on the highway.", "exTh": "รถของเราเสียบนทางหลวง", "c": 5}
+{"id": "wake-up_pv", "th": "ตื่นนอน; ปลุก", "ex": "I wake up at six every morning.", "exTh": "ฉันตื่นตอนหกโมงเช้าทุกวัน", "c": 5}
+{"id": "get-up_pv", "th": "ลุกขึ้น; ตื่นจากเตียง", "ex": "I get up early on weekdays.", "exTh": "ฉันตื่นเช้าในวันธรรมดา", "c": 5}
+{"id": "give-up_pv", "th": "ยอมแพ้; เลิก", "ex": "Don't give up. You can do it.", "exTh": "อย่ายอมแพ้ คุณทำได้", "c": 5}
+{"id": "go-out_pv", "th": "ออกไปข้างนอก; ไปเที่ยว; (ไฟ) ดับ", "ex": "Do you want to go out tonight?", "exTh": "คืนนี้อยากออกไปเที่ยวไหม", "c": 5}
+{"id": "turn-on_pv", "th": "เปิด (เครื่องใช้ไฟฟ้า/ไฟ)", "ex": "Please turn on the light.", "exTh": "ช่วยเปิดไฟหน่อย", "c": 5}
+{"id": "make-up_pv", "th": "แต่งหน้า; แต่งเรื่อง; คืนดี; ประกอบด้วย", "ex": "She made up an excuse for being late.", "exTh": "เธอแต่งข้ออ้างขึ้นมาที่มาสาย", "c": 4}
+{"id": "look-for_pv", "th": "มองหา; ค้นหา", "ex": "I am looking for my keys.", "exTh": "ฉันกำลังหากุญแจของฉัน", "c": 5}
+{"id": "get-off_pv", "th": "ลง (จากรถ/เรือ); ออกจาก", "ex": "I get off the bus at the next stop.", "exTh": "ฉันลงจากรถเมล์ที่ป้ายหน้า", "c": 5}
+{"id": "turn-out_pv", "th": "กลายเป็น; ปรากฏว่า; มาร่วมงาน", "ex": "The party turned out to be great.", "exTh": "งานเลี้ยงออกมาสนุกมาก", "c": 4}
+{"id": "stand-up_pv", "th": "ลุกขึ้นยืน", "ex": "Everyone stood up when she came in.", "exTh": "ทุกคนลุกขึ้นยืนเมื่อเธอเข้ามา", "c": 5}
+{"id": "put-out_pv", "th": "ดับ (ไฟ); วางไว้ข้างนอก; รบกวน", "ex": "The firefighters put out the fire quickly.", "exTh": "นักผจญเพลิงดับไฟได้อย่างรวดเร็ว", "c": 4}
+{"id": "shut-up_pv", "th": "หุบปาก; ปิด (ร้าน/กิจการ)", "ex": "The shop shut up for the winter.", "exTh": "ร้านปิดกิจการตลอดฤดูหนาว", "c": 3, "note": "shut up แปลว่า หุบปาก ได้ด้วย ซึ่งค่อนข้างหยาบ"}
+{"id": "take-off_pv", "th": "ถอด; (เครื่องบิน) ขึ้นบิน; ลาหยุด", "ex": "The plane will take off in ten minutes.", "exTh": "เครื่องบินจะขึ้นในอีกสิบนาที", "c": 5}
+{"id": "turn-off_pv", "th": "ปิด (เครื่องใช้ไฟฟ้า/ไฟ)", "ex": "Please turn off the TV before you sleep.", "exTh": "ช่วยปิดทีวีก่อนนอนด้วย", "c": 5}
+{"id": "put-on_pv", "th": "สวม; ใส่ (เสื้อผ้า); เปิด (เพลง)", "ex": "Put on your coat. It is cold outside.", "exTh": "ใส่เสื้อโค้ตซะ ข้างนอกหนาว", "c": 5}
+{"id": "piss-off_pv", "th": "ทำให้โมโห; ไสหัวไป", "ex": "His rude jokes really piss me off.", "exTh": "มุกหยาบคายของเขาทำให้ฉันโมโหมาก", "c": 3, "note": "คำหยาบ ไม่ควรใช้ในสถานการณ์ทางการ"}
+{"id": "check-out_pv", "th": "เช็กเอาต์; ตรวจดู; ยืมหนังสือ", "ex": "You must check out of the hotel by noon.", "exTh": "คุณต้องเช็กเอาต์จากโรงแรมก่อนเที่ยง", "c": 5}
+{"id": "go-down_pv", "th": "ลดลง; ลงไป; (ดวงอาทิตย์) ตก", "ex": "Prices went down after the sale started.", "exTh": "ราคาลดลงหลังเริ่มลดราคา", "c": 5}
+{"id": "put-down_pv", "th": "วางลง; ดูถูก; จดบันทึก", "ex": "Put the box down on the table.", "exTh": "วางกล่องลงบนโต๊ะ", "c": 4}
+{"id": "set-up_pv", "th": "ตั้ง; จัดตั้ง; ติดตั้ง", "ex": "We set up a small business last year.", "exTh": "เราเปิดธุรกิจเล็กๆ เมื่อปีที่แล้ว", "c": 5}
+{"id": "break-up_pv", "th": "เลิกกัน; แตกออก; แยกย้าย", "ex": "They broke up after two years together.", "exTh": "พวกเขาเลิกกันหลังคบกันสองปี", "c": 5}
+{"id": "blow-up_pv", "th": "ระเบิด; โมโหเดือด; เป่าให้พอง", "ex": "The old building blew up in the fire.", "exTh": "ตึกเก่าระเบิดในเหตุเพลิงไหม้", "c": 4}
+{"id": "go-away_pv", "th": "ไปให้พ้น; จากไป; ไปพักผ่อนต่างถิ่น", "ex": "Go away. I need to study now.", "exTh": "ไปที่อื่นเลย ฉันต้องอ่านหนังสือตอนนี้", "c": 4}
+{"id": "fuck-up_pv", "th": "ทำพัง; ทำพลาดอย่างแรง", "ex": "I really fucked up my first interview.", "exTh": "ฉันทำการสัมภาษณ์ครั้งแรกพังไม่เป็นท่า", "c": 3, "note": "คำหยาบ"}
+{"id": "lie-down_pv", "th": "นอนลง; เอนตัวลงนอน", "ex": "I need to lie down for a while.", "exTh": "ฉันต้องนอนพักสักครู่", "c": 5}
+{"id": "work-out_pv", "th": "ออกกำลังกาย; คิดออก; แก้ปัญหาได้", "ex": "I work out at the gym three times a week.", "exTh": "ฉันออกกำลังกายที่ฟิตเนสสัปดาห์ละสามครั้ง", "c": 5}
+{"id": "fuck-off_pv", "th": "ไสหัวไป; ไปให้พ้น", "ex": "He told the reporter to fuck off.", "exTh": "เขาบอกให้นักข่าวไสหัวไป", "c": 3, "note": "คำหยาบมาก หลีกเลี่ยงการใช้"}
+{"id": "have-to_pv", "th": "ต้อง; จำเป็นต้อง", "ex": "I have to finish this report today.", "exTh": "ฉันต้องทำรายงานนี้ให้เสร็จวันนี้", "c": 5}
+{"id": "warm-up_pv", "th": "อุ่น; วอร์มอัพ; อบอุ่นขึ้น", "ex": "Let me warm up the soup for you.", "exTh": "เดี๋ยวฉันอุ่นซุปให้", "c": 5}
+{"id": "get-out_pv", "th": "ออกไป; หลบหนี; ลงจาก", "ex": "Get out of the car and wait here.", "exTh": "ลงจากรถแล้วรออยู่ตรงนี้", "c": 5}
+{"id": "cut-off_pv", "th": "ตัดออก; ตัดขาด; ตัดสัญญาณ", "ex": "The storm cut off the village from the town.", "exTh": "พายุตัดขาดหมู่บ้านจากตัวเมือง", "c": 4}
+{"id": "come-out_pv", "th": "ออกมา; วางจำหน่าย; เปิดเผย", "ex": "Her new book comes out next month.", "exTh": "หนังสือเล่มใหม่ของเธอจะออกเดือนหน้า", "c": 5}
+{"id": "leave-behind_pv", "th": "ทิ้งไว้; ลืมไว้; ทิ้งไว้ข้างหลัง", "ex": "Don't leave your bag behind on the train.", "exTh": "อย่าลืมกระเป๋าไว้บนรถไฟ", "c": 4}
+{"id": "sit-down_pv", "th": "นั่งลง", "ex": "Please sit down and relax.", "exTh": "เชิญนั่งลงและผ่อนคลาย", "c": 5}
+{"id": "let-down_pv", "th": "ทำให้ผิดหวัง; ปล่อยลง", "ex": "I'm sorry I let you down.", "exTh": "ขอโทษที่ทำให้คุณผิดหวัง", "c": 4}
+{"id": "carry-out_pv", "th": "ปฏิบัติ; ดำเนินการ; ทำให้สำเร็จ", "ex": "The team will carry out the plan next week.", "exTh": "ทีมจะดำเนินการตามแผนสัปดาห์หน้า", "c": 4}
+{"id": "fill-up_pv", "th": "เติมให้เต็ม; เติมน้ำมัน", "ex": "Let's fill up the car before the trip.", "exTh": "เติมน้ำมันรถให้เต็มก่อนออกเดินทางกันเถอะ", "c": 4}
+{"id": "cool-down_pv", "th": "เย็นลง; ใจเย็นลง", "ex": "Wait for the soup to cool down.", "exTh": "รอให้ซุปเย็นลงก่อน", "c": 4}
+{"id": "wrap-up_pv", "th": "สรุป; ห่อ; ทำให้เสร็จสิ้น", "ex": "Let's wrap up the meeting now.", "exTh": "มาสรุปการประชุมกันเลย", "c": 4}
+{"id": "bring-up_pv", "th": "พูดถึง; เลี้ยงดู; นำขึ้นมา", "ex": "Please don't bring up that topic again.", "exTh": "อย่าหยิบเรื่องนั้นมาพูดอีกเลย", "c": 4}
+{"id": "go-off_pv", "th": "ระเบิด; (นาฬิกาปลุก) ดัง; (อาหาร) เสีย", "ex": "My alarm went off at five.", "exTh": "นาฬิกาปลุกของฉันดังตอนตีห้า", "c": 4}
+{"id": "get-along_pv", "th": "เข้ากันได้ดี; อยู่ร่วมกันได้", "ex": "I get along well with my coworkers.", "exTh": "ฉันเข้ากันได้ดีกับเพื่อนร่วมงาน", "c": 5}
+{"id": "take-out_pv", "th": "เอาออก; ซื้อกลับบ้าน; พาออกไปข้างนอก", "ex": "He took out his phone and called her.", "exTh": "เขาหยิบโทรศัพท์ออกมาแล้วโทรหาเธอ", "c": 5}
+{"id": "wear-out_pv", "th": "ใช้จนสึกหรอ; ทำให้เหนื่อยล้า", "ex": "These shoes wore out after one year.", "exTh": "รองเท้าคู่นี้สึกหลังใช้ได้หนึ่งปี", "c": 4}
+{"id": "get-on_pv", "th": "ขึ้น (รถ/เรือ); เข้ากันได้; ดำเนินต่อไป", "ex": "We got on the train at nine.", "exTh": "เราขึ้นรถไฟตอนเก้าโมง", "c": 5}
+{"id": "make-out_pv", "th": "มองเห็นได้ลางๆ; เข้าใจ; จูบกอด", "ex": "I could not make out what he said.", "exTh": "ฉันฟังไม่ออกว่าเขาพูดอะไร", "c": 3}
+{"id": "beat-up_pv", "th": "ทุบตี; ทำร้าย", "ex": "The boys beat him up after school.", "exTh": "พวกเด็กชายรุมทำร้ายเขาหลังเลิกเรียน", "c": 3}
+{"id": "look-after_pv", "th": "ดูแล; เลี้ยง", "ex": "Can you look after my cat this weekend?", "exTh": "สุดสัปดาห์นี้ช่วยดูแลแมวของฉันได้ไหม", "c": 5}
+{"id": "come-up_pv", "th": "เกิดขึ้น; ถูกหยิบยกขึ้นมา; เข้ามาใกล้", "ex": "Something urgent came up at work.", "exTh": "มีเรื่องด่วนเกิดขึ้นที่ทำงาน", "c": 5}
+{"id": "stir-up_pv", "th": "ปลุกปั่น; กวน; ก่อให้เกิด", "ex": "Her speech stirred up strong feelings.", "exTh": "คำปราศรัยของเธอปลุกอารมณ์รุนแรงขึ้นมา", "c": 3}
+{"id": "pay-off_pv", "th": "ผ่อนชำระหมด; ได้ผลคุ้มค่า; ติดสินบน", "ex": "Hard work will pay off in the end.", "exTh": "ความพยายามจะเห็นผลในที่สุด", "c": 4}
+{"id": "bail-out_pv", "th": "ช่วยเหลือทางการเงิน; ประกันตัว; กระโดดร่มออกจากเครื่องบิน", "ex": "The government had to bail out the bank.", "exTh": "รัฐบาลต้องเข้าช่วยเหลือธนาคาร", "c": 3}
+{"id": "come-across_pv", "th": "บังเอิญพบ; ดูเหมือน (ให้ความรู้สึก)", "ex": "I came across an old photo in a drawer.", "exTh": "ฉันบังเอิญเจอรูปเก่าในลิ้นชัก", "c": 4}
+{"id": "lock-up_pv", "th": "ล็อกกุญแจ; ขังคุก", "ex": "Please lock up the office when you leave.", "exTh": "ช่วยล็อกออฟฟิศด้วยตอนออกไป", "c": 4}
+{"id": "cut-out_pv", "th": "ตัดออก; เลิก (กินของบางอย่าง); (เครื่องยนต์) ดับ", "ex": "The doctor told him to cut out sugar.", "exTh": "หมอบอกให้เขาเลิกกินน้ำตาล", "c": 4}
+{"id": "find-out_pv", "th": "ค้นพบ; รู้; สืบหา", "ex": "I need to find out when the shop opens.", "exTh": "ฉันต้องหาข้อมูลว่าร้านเปิดกี่โมง", "c": 5}
+{"id": "used-to_pv", "th": "เคย (ในอดีต); ชินกับ", "ex": "I used to live in Chiang Mai.", "exTh": "ฉันเคยอาศัยอยู่ที่เชียงใหม่", "c": 5, "note": "used to + กริยา = เคยทำ; be used to + V-ing = ชินกับ"}
+{"id": "hang-up_pv", "th": "วางสาย; แขวน", "ex": "She got angry and hung up on me.", "exTh": "เธอโกรธแล้ววางสายใส่ฉัน", "c": 4}
+{"id": "go-up_pv", "th": "เพิ่มขึ้น; ขึ้นไป", "ex": "The price of rice went up again.", "exTh": "ราคาข้าวขึ้นอีกแล้ว", "c": 5}
+{"id": "break-out_pv", "th": "เกิดขึ้นอย่างฉับพลัน; แหกคุก; ขึ้น (สิว/ผื่น)", "ex": "A fire broke out in the kitchen.", "exTh": "เกิดไฟไหม้ขึ้นในครัว", "c": 4}
+{"id": "drop-off_pv", "th": "ไปส่ง; หลับไป; ลดลง", "ex": "Can you drop me off at the station?", "exTh": "ช่วยไปส่งฉันที่สถานีได้ไหม", "c": 5}
+{"id": "take-up_pv", "th": "เริ่มทำ (งานอดิเรก); ใช้พื้นที่/เวลา; รับ", "ex": "He took up painting after he retired.", "exTh": "เขาเริ่มวาดภาพหลังเกษียณ", "c": 4}
+{"id": "wipe-out_pv", "th": "กวาดล้าง; ลบทิ้ง; ทำให้หมดสิ้น", "ex": "The flood wiped out the whole village.", "exTh": "น้ำท่วมกวาดล้างทั้งหมู่บ้าน", "c": 3}
+{"id": "mess-up_pv", "th": "ทำพัง; ทำให้เละเทะ", "ex": "I messed up the test.", "exTh": "ฉันทำข้อสอบพลาด", "c": 4}
+{"id": "calm-down_pv", "th": "ใจเย็นลง; ทำให้สงบลง", "ex": "Calm down and tell me what happened.", "exTh": "ใจเย็นๆ แล้วเล่าให้ฟังว่าเกิดอะไรขึ้น", "c": 5}

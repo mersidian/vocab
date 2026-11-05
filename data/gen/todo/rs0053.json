@@ -1,0 +1,902 @@
+[
+{
+"id": "clue-in_pv",
+"w": "clue in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To inform or tell."
+]
+},
+{
+"id": "skip-out_pv",
+"w": "skip out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To shirk; to avoid attending or to leave early, especially without permission."
+]
+},
+{
+"id": "slow-up_pv",
+"w": "slow up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To slow; to slow down; to decelerate."
+]
+},
+{
+"id": "footle-around_pv",
+"w": "footle around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To pass time doing unimportant things; to mess around."
+]
+},
+{
+"id": "footle-about_pv",
+"w": "footle about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To pass time doing unimportant things; to mess around."
+]
+},
+{
+"id": "footle-away_pv",
+"w": "footle away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To waste (time)."
+]
+},
+{
+"id": "die-back_pv",
+"w": "die back",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To wither, particularly during the winter."
+]
+},
+{
+"id": "cry-out-for_pv",
+"w": "cry out for",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To be in urgent need (of)"
+]
+},
+{
+"id": "bum-out_pv",
+"w": "bum out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To cause a person to be depressed or disappointed."
+]
+},
+{
+"id": "have-up_pv",
+"w": "have up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To accuse, arrest, try for a criminal act."
+]
+},
+{
+"id": "gang-up_pv",
+"w": "gang up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To join together, as a gang."
+]
+},
+{
+"id": "pull-together_pv",
+"w": "pull together",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To unite for a common objective."
+]
+},
+{
+"id": "ring-around_pv",
+"w": "ring around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To call a number of people by phone, usually a circle of friends, to organise something."
+]
+},
+{
+"id": "ring-round_pv",
+"w": "ring round",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To call a number of people by phone, usually a circle of friends, to organise something."
+]
+},
+{
+"id": "hussy-up_pv",
+"w": "hussy up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To dress so as to be more sexually attractive, often applying excessive makeup or wearing revealing clothing."
+]
+},
+{
+"id": "come-from-behind_pv",
+"w": "come from behind",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To be in a winning position after having been in a losing position."
+]
+},
+{
+"id": "fend-away_pv",
+"w": "fend away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To turn something away; to ward off."
+]
+},
+{
+"id": "wuss-out_pv",
+"w": "wuss out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To fail to do something because of cowardice."
+]
+},
+{
+"id": "think-on_pv",
+"w": "think on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To think about; to meditate concerning."
+]
+},
+{
+"id": "mouse-over_pv",
+"w": "mouse over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To move a computer mouse pointer over (an element of the display)."
+]
+},
+{
+"id": "knock-around_pv",
+"w": "knock around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of knock about."
+]
+},
+{
+"id": "potter-around_pv",
+"w": "potter around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To potter, to be gently active doing various things in an almost aimless manner."
+]
+},
+{
+"id": "frown-on_pv",
+"w": "frown on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To disapprove of (something or someone, often a behavior); to express disapproval of (something or someone)."
+]
+},
+{
+"id": "boss-about_pv",
+"w": "boss about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To act in a bossy manner toward (another person), ordering them to do things, whether or not one is actually their superior."
+]
+},
+{
+"id": "wet-through_pv",
+"w": "wet through",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To soak or drench thoroughly"
+]
+},
+{
+"id": "lie-in_pv",
+"w": "lie in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To stay in bed (longer than usual)."
+]
+},
+{
+"id": "snap-in_pv",
+"w": "snap in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To practice aiming, adjusting and firing a rifle with no ammunition"
+]
+},
+{
+"id": "bring-upon_pv",
+"w": "bring upon",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To (either knowingly or unwittingly) cause to befall."
+]
+},
+{
+"id": "delight-in_pv",
+"w": "delight in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To enjoy; to take pleasure in."
+]
+},
+{
+"id": "fall-back-upon_pv",
+"w": "fall back upon",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To fall back on."
+]
+},
+{
+"id": "page-down_pv",
+"w": "page down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To scroll down to the next page of content."
+]
+},
+{
+"id": "page-up_pv",
+"w": "page up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To scroll up to the previous page of content."
+]
+},
+{
+"id": "piss-away_pv",
+"w": "piss away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To spend wastefully."
+]
+},
+{
+"id": "power-down_pv",
+"w": "power down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To switch off (something electrical)."
+]
+},
+{
+"id": "fair-off_pv",
+"w": "fair off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Of weather: to clear."
+]
+},
+{
+"id": "fair-up_pv",
+"w": "fair up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To clear"
+]
+},
+{
+"id": "light-into_pv",
+"w": "light into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To set upon or attack."
+]
+},
+{
+"id": "hard-up_pv",
+"w": "hard up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of harden up (to become or make hard)"
+]
+},
+{
+"id": "page-out_pv",
+"w": "page out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To transfer (memory contents) to auxiliary storage."
+]
+},
+{
+"id": "page-in_pv",
+"w": "page in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To transfer (memory contents) from auxiliary storage."
+]
+},
+{
+"id": "locked-out_pv",
+"w": "locked out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Not locked in (focused), unfocused."
+]
+},
+{
+"id": "puke-up_pv",
+"w": "puke up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To vomit."
+]
+},
+{
+"id": "share-out_pv",
+"w": "share out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To share; especially, to share evenly."
+]
+},
+{
+"id": "inquire-of_pv",
+"w": "inquire of",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To ask."
+]
+},
+{
+"id": "will-on_pv",
+"w": "will on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To wish intensely that someone succeeds in what they are doing. Often implies a silent, or almost inaudible wish."
+]
+},
+{
+"id": "melt-into_pv",
+"w": "melt into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To disappear gradually into."
+]
+},
+{
+"id": "raunch-out_pv",
+"w": "raunch out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To upset (a person) by being raunchy (tacky or vulgar)."
+]
+},
+{
+"id": "goth-up_pv",
+"w": "goth up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To dress or decorate in the style of goth subculture."
+]
+},
+{
+"id": "snazz-up_pv",
+"w": "snazz up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To improve appearance or appeal by increasing stylishness or functionality, or by adding other attractive features."
+]
+},
+{
+"id": "get-off-on_pv",
+"w": "get off on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To be excited or aroused by; to derive pleasure from."
+]
+},
+{
+"id": "splinter-up_pv",
+"w": "splinter up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To attach splints to a broken limb in order to allow it to grow together."
+]
+},
+{
+"id": "tough-out_pv",
+"w": "tough out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To endure (a hardship or challenge) by being tough: relying on one's toughness."
+]
+},
+{
+"id": "blob-out_pv",
+"w": "blob out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To relax idly and mindlessly; to veg out."
+]
+},
+{
+"id": "wimp-out_pv",
+"w": "wimp out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To back out of something because of cowardice."
+]
+},
+{
+"id": "guts-out_pv",
+"w": "guts out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To persevere through; to complete in spite of pain, etc."
+]
+},
+{
+"id": "add-up-to_pv",
+"w": "add up to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To have a particular effect in combination."
+]
+},
+{
+"id": "hole-out_pv",
+"w": "hole out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To complete a hole by sinking the ball."
+]
+},
+{
+"id": "argue-out_pv",
+"w": "argue out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To discuss to reach an agreed conclusion, or decision."
+]
+},
+{
+"id": "notch-up_pv",
+"w": "notch up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To achieve; to gain by successful effort."
+]
+},
+{
+"id": "ask-in_pv",
+"w": "ask in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To invite someone to enter one's house."
+]
+},
+{
+"id": "auction-off_pv",
+"w": "auction off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To sell something at auction."
+]
+},
+{
+"id": "bail-out-on_pv",
+"w": "bail out on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To abandon (someone or something)."
+]
+},
+{
+"id": "bang-about_pv",
+"w": "bang about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make a lot of percussive noise while moving around."
+]
+},
+{
+"id": "track-with_pv",
+"w": "track with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To associate or go out with."
+]
+},
+{
+"id": "bash-about_pv",
+"w": "bash about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To physically damage something or assault someone."
+]
+},
+{
+"id": "face-off_pv",
+"w": "face off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To confront (each other)."
+]
+},
+{
+"id": "honk-off_pv",
+"w": "honk off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To annoy."
+]
+},
+{
+"id": "swot-up-on_pv",
+"w": "swot up on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To study particularly hard to learn (a subject) quickly."
+]
+},
+{
+"id": "be-along_pv",
+"w": "be along",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To arrive."
+]
+},
+{
+"id": "bear-down-on_pv",
+"w": "bear down on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To approach someone in a very determined way."
+]
+},
+{
+"id": "blimp-out_pv",
+"w": "blimp out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become fat or fatter, especially as a result of excessive eating."
+]
+},
+{
+"id": "stop-down_pv",
+"w": "stop down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To decrease the aperture of a photographic lens, moving from an f/stop represented by a lower number to an f/stop represented by a higher number."
+]
+},
+{
+"id": "warm-down_pv",
+"w": "warm down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To perform gentle exercise at the end of a training session before cooling off."
+]
+},
+{
+"id": "base-off-of_pv",
+"w": "base off of",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To base on."
+]
+},
+{
+"id": "seven-out_pv",
+"w": "seven out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"in the game of craps, to roll a seven after having established the \"point\"."
+]
+},
+{
+"id": "f-off_pv",
+"w": "F off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"fuck off."
+]
+},
+{
+"id": "bomb-around_pv",
+"w": "bomb around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To drive around."
+]
+},
+{
+"id": "flub-up_pv",
+"w": "flub up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To flub; to botch or mess up."
+]
+},
+{
+"id": "arse-around_pv",
+"w": "arse around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To behave in a clownish, irresponsible or inefficient manner."
+]
+},
+{
+"id": "lash-up_pv",
+"w": "lash up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To construct in a shoddy, makeshift manner."
+]
+},
+{
+"id": "charge-off_pv",
+"w": "charge off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To write off (an expense)."
+]
+},
+{
+"id": "chase-up_pv",
+"w": "chase up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To follow up, so as to ensure completion."
+]
+},
+{
+"id": "frost-up_pv",
+"w": "frost up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"to become frosty"
+]
+},
+{
+"id": "piss-around_pv",
+"w": "piss around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of piss about."
+]
+},
+{
+"id": "plow-on_pv",
+"w": "plow on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To continue with a menial, tedious, or time-consuming task."
+]
+},
+{
+"id": "make-into_pv",
+"w": "make into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To cause (the first object) to become (the second object); to change or transform."
+]
+},
+{
+"id": "pretty-up_pv",
+"w": "pretty up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make pretty."
+]
+},
+{
+"id": "print-out_pv",
+"w": "print out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To print (a computer document)."
+]
+},
+{
+"id": "pull-ahead_pv",
+"w": "pull ahead",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To move into a winning position (e.g. in a race or competition)."
+]
+},
+{
+"id": "plough-on_pv",
+"w": "plough on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To continue with a task despite it being menial, difficult, or boring"
+]
+},
+{
+"id": "plow-back_pv",
+"w": "plow back",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To reinvest profits into a business."
+]
+},
+{
+"id": "plow-into_pv",
+"w": "plow into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To crash into something."
+]
+},
+{
+"id": "gone-on_pv",
+"w": "gone on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Infatuated with."
+]
+},
+{
+"id": "throw-in-with_pv",
+"w": "throw in with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To commit to something with; to partner with."
+]
+},
+{
+"id": "go-in-with_pv",
+"w": "go in with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To commit to something with; to partner with."
+]
+},
+{
+"id": "put-in-with_pv",
+"w": "put in with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To commit to something with; to partner with."
+]
+},
+{
+"id": "happen-along_pv",
+"w": "happen along",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To arrive by chance; to occur by happenstance."
+]
+},
+{
+"id": "hang-in_pv",
+"w": "hang in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To remain in a particular place or status; to survive, maintain, persist, persevere; to resist."
+]
+},
+{
+"id": "short-out_pv",
+"w": "short out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To short circuit."
+]
+},
+{
+"id": "save-down_pv",
+"w": "save down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To write a computer file to disk."
+]
+}
+]

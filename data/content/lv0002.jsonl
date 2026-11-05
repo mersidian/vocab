@@ -1,0 +1,100 @@
+{"id":"then_adv","th":"แล้ว; จากนั้น; ตอนนั้น","ex":"First we eat, and then we go home.","exTh":"เรากินข้าวก่อน แล้วค่อยกลับบ้าน"}
+{"id":"over_prep","th":"เหนือ; ข้าม; มากกว่า","ex":"The bird flew over the house.","exTh":"นกบินข้ามบ้านไป"}
+{"id":"between_prep","th":"ระหว่าง; ท่ามกลาง","ex":"The shop is between the bank and the school.","exTh":"ร้านอยู่ระหว่างธนาคารกับโรงเรียน"}
+{"id":"most_det","th":"ส่วนใหญ่; มากที่สุด","ex":"Most people like music.","exTh":"คนส่วนใหญ่ชอบฟังเพลง"}
+{"id":"your_det","th":"ของคุณ; ของเธอ; ของท่าน","ex":"Is this your bag?","exTh":"นี่คือกระเป๋าของคุณหรือเปล่า"}
+{"id":"me_pron","th":"ฉัน; ผม; ตัวฉัน (กรรม)","ex":"Please call me tonight.","exTh":"คืนนี้โทรหาฉันด้วยนะ","note":"ใช้เป็นกรรมของกริยา/บุพบท ส่วนประธานใช้ I"}
+{"id":"work_noun","th":"งาน; ที่ทำงาน; ผลงาน","ex":"I have a lot of work today.","exTh":"วันนี้ฉันมีงานเยอะมาก"}
+{"id":"work_verb","th":"ทำงาน; ใช้งานได้; ได้ผล","ex":"My father works in a bank.","exTh":"พ่อของฉันทำงานที่ธนาคาร"}
+{"id":"where_adv","th":"ที่ไหน; ตรงไหน","ex":"Where do you live?","exTh":"คุณอาศัยอยู่ที่ไหน"}
+{"id":"where_conj","th":"ที่ซึ่ง; ตรงที่","ex":"This is the town where I was born.","exTh":"นี่คือเมืองที่ฉันเกิด"}
+{"id":"each_det","th":"แต่ละ; ทุกๆ","ex":"Each student has a book.","exTh":"นักเรียนแต่ละคนมีหนังสือหนึ่งเล่ม"}
+{"id":"each_pron","th":"แต่ละคน; แต่ละอัน","ex":"The apples cost two dollars each.","exTh":"แอปเปิลราคาลูกละสองดอลลาร์"}
+{"id":"very_adv","th":"มาก; อย่างยิ่ง","ex":"The soup is very hot.","exTh":"ซุปร้อนมาก"}
+{"id":"through_prep","th":"ผ่าน; ทะลุ; ตลอด","ex":"The train goes through a long tunnel.","exTh":"รถไฟวิ่งผ่านอุโมงค์ยาว"}
+{"id":"now_adv","th":"ตอนนี้; ขณะนี้; เดี๋ยวนี้","ex":"I am busy now.","exTh":"ตอนนี้ฉันยุ่งอยู่"}
+{"id":"year_noun","th":"ปี; ขวบ","ex":"I have lived here for one year.","exTh":"ฉันอยู่ที่นี่มาหนึ่งปีแล้ว"}
+{"id":"did_verb","th":"ทำ (อดีต); (กริยาช่วยอดีต) ไม่แปล","ex":"I did my homework after dinner.","exTh":"ฉันทำการบ้านหลังกินข้าวเย็น","note":"รูปอดีตของ do (do, did, done)"}
+{"id":"use_verb","th":"ใช้; ใช้งาน","ex":"I use my phone every day.","exTh":"ฉันใช้โทรศัพท์ทุกวัน"}
+{"id":"those_det","th":"เหล่านั้น; พวกนั้น","ex":"Those shoes are too big for me.","exTh":"รองเท้าคู่นั้นใหญ่เกินไปสำหรับฉัน"}
+{"id":"those_pron","th":"พวกนั้น; สิ่งเหล่านั้น","ex":"Those are my friends over there.","exTh":"พวกนั้นคือเพื่อนของฉันที่อยู่ตรงนั้น"}
+{"id":"many_det","th":"หลาย; มากมาย","ex":"There are many books in the room.","exTh":"ในห้องมีหนังสือหลายเล่ม"}
+{"id":"many_pron","th":"หลายคน; หลายอย่าง","ex":"Many of my friends play football.","exTh":"เพื่อนของฉันหลายคนเล่นฟุตบอล"}
+{"id":"like_prep","th":"เหมือน; คล้าย","ex":"He runs like the wind.","exTh":"เขาวิ่งเร็วเหมือนลม"}
+{"id":"like_verb","th":"ชอบ; ชื่นชอบ","ex":"I like fresh fruit.","exTh":"ฉันชอบผลไม้สด"}
+{"id":"well_adj","th":"สบายดี; แข็งแรง","ex":"I don't feel well today.","exTh":"วันนี้ฉันรู้สึกไม่ค่อยสบาย","note":"ใช้เป็นคำคุณศัพท์เฉพาะหลัง be/feel เกี่ยวกับสุขภาพ"}
+{"id":"well_adv","th":"ดี; เก่ง; อย่างดี","ex":"She sings very well.","exTh":"เธอร้องเพลงเก่งมาก"}
+{"id":"same_adj","th":"เหมือนกัน; เดียวกัน","ex":"We study in the same class.","exTh":"เราเรียนอยู่ห้องเดียวกัน"}
+{"id":"same_adv","th":"เหมือนกัน; เช่นเดียวกัน","ex":"The twins dress the same.","exTh":"ฝาแฝดแต่งตัวเหมือนกัน"}
+{"id":"same_pron","th":"สิ่งเดียวกัน; เหมือนเดิม","ex":"I'll have the same, please.","exTh":"ขอเหมือนกันเลยค่ะ"}
+{"id":"must_modal","th":"ต้อง; จำเป็นต้อง; คงจะ","ex":"You must wear a seat belt.","exTh":"คุณต้องคาดเข็มขัดนิรภัย"}
+{"id":"because_conj","th":"เพราะ; เพราะว่า","ex":"I stayed home because it was raining.","exTh":"ฉันอยู่บ้านเพราะฝนตก"}
+{"id":"before_adv","th":"ก่อน; มาก่อน","ex":"I have seen this film before.","exTh":"ฉันเคยดูหนังเรื่องนี้มาก่อน"}
+{"id":"before_prep","th":"ก่อน; ก่อนหน้า","ex":"Wash your hands before lunch.","exTh":"ล้างมือก่อนกินข้าวกลางวัน"}
+{"id":"people_noun","th":"ผู้คน; คน; ประชาชน","ex":"Many people wait at the bus stop.","exTh":"มีคนมากมายรอรถเมล์อยู่ที่ป้าย"}
+{"id":"how_adv","th":"อย่างไร; ยังไง; แค่ไหน","ex":"How do you make this soup?","exTh":"ซุปนี้ทำยังไง"}
+{"id":"both_adv","th":"ทั้ง...และ...","ex":"She speaks both English and Thai.","exTh":"เธอพูดได้ทั้งภาษาอังกฤษและภาษาไทย"}
+{"id":"both_det","th":"ทั้งสอง","ex":"Both my parents are teachers.","exTh":"พ่อแม่ของฉันทั้งสองคนเป็นครู"}
+{"id":"both_pron","th":"ทั้งสองคน; ทั้งคู่","ex":"I like both of them.","exTh":"ฉันชอบทั้งสองอัน"}
+{"id":"number_noun","th":"ตัวเลข; หมายเลข; จำนวน","ex":"What is your phone number?","exTh":"เบอร์โทรศัพท์ของคุณคืออะไร"}
+{"id":"much_adv","th":"มาก; มากมาย","ex":"I don't like coffee very much.","exTh":"ฉันไม่ค่อยชอบกาแฟเท่าไหร่"}
+{"id":"much_det","th":"มาก; เยอะ","ex":"We don't have much time.","exTh":"เรามีเวลาไม่มาก","note":"ใช้กับนามนับไม่ได้ ส่วนมากใช้ในประโยคปฏิเสธและคำถาม"}
+{"id":"much_pron","th":"จำนวนมาก; หลายอย่าง","ex":"There is not much to eat at home.","exTh":"ที่บ้านไม่มีอะไรให้กินมากนัก"}
+{"id":"case_noun","th":"กรณี; เหตุการณ์; คดี","ex":"In this case, you can pay later.","exTh":"ในกรณีนี้ คุณจ่ายทีหลังได้"}
+{"id":"way_noun","th":"ทาง; วิธี; แนวทาง","ex":"Can you show me the way to the station?","exTh":"ช่วยบอกทางไปสถานีหน่อยได้ไหม"}
+{"id":"three_num","th":"สาม; เลขสาม","ex":"I have three brothers.","exTh":"ฉันมีพี่ชายน้องชายสามคน"}
+{"id":"make_verb","th":"ทำ; สร้าง; ผลิต","ex":"My mother makes good cakes.","exTh":"แม่ของฉันทำเค้กอร่อย"}
+{"id":"section_noun","th":"ส่วน; แผนก; ตอน","ex":"The shop has a large toy section.","exTh":"ร้านมีโซนของเล่นขนาดใหญ่"}
+{"id":"life_noun","th":"ชีวิต; ความเป็นอยู่","ex":"Life in the city is busy.","exTh":"ชีวิตในเมืองวุ่นวาย"}
+{"id":"water_noun","th":"น้ำ; น้ำดื่ม","ex":"Please drink more water.","exTh":"ดื่มน้ำเยอะๆ นะ"}
+{"id":"good_adj","th":"ดี; เก่ง; อร่อย","ex":"This is a good restaurant.","exTh":"นี่เป็นร้านอาหารที่ดี"}
+{"id":"day_noun","th":"วัน; กลางวัน","ex":"Sunday is my favorite day.","exTh":"วันอาทิตย์เป็นวันโปรดของฉัน"}
+{"id":"high_adj","th":"สูง; ระดับสูง","ex":"That mountain is very high.","exTh":"ภูเขาลูกนั้นสูงมาก"}
+{"id":"order_noun","th":"คำสั่งซื้อ; ออเดอร์; ลำดับ","ex":"Your order will be ready soon.","exTh":"ออเดอร์ของคุณจะเสร็จในอีกไม่นาน"}
+{"id":"long_adj","th":"ยาว; นาน","ex":"She has long black hair.","exTh":"เธอมีผมยาวสีดำ"}
+{"id":"just_adv","th":"เพิ่งจะ; แค่; พอดี","ex":"I just got home.","exTh":"ฉันเพิ่งกลับถึงบ้าน"}
+{"id":"man_noun","th":"ผู้ชาย; ชาย; มนุษย์","ex":"The man is reading a newspaper.","exTh":"ผู้ชายคนนั้นกำลังอ่านหนังสือพิมพ์"}
+{"id":"world_noun","th":"โลก; โลกใบนี้; วงการ","ex":"I want to travel around the world.","exTh":"ฉันอยากเดินทางรอบโลก"}
+{"id":"us_pron","th":"พวกเรา; เรา (กรรม)","ex":"Please come with us.","exTh":"ไปกับพวกเราสิ","note":"ใช้เป็นกรรมของกริยา/บุพบท ส่วนประธานใช้ we"}
+{"id":"does_verb","th":"ทำ; (กริยาช่วย) ไม่แปล","ex":"She does her homework every night.","exTh":"เธอทำการบ้านทุกคืน","note":"รูปของ do ใช้กับ he/she/it"}
+{"id":"right_adj","th":"ถูกต้อง; ถูก; ขวา","ex":"Your answer is right.","exTh":"คำตอบของคุณถูกต้อง"}
+{"id":"right_adv","th":"ทันที; พอดี; ถูกต้อง","ex":"Come right now, please.","exTh":"กรุณามาเดี๋ยวนี้เลย"}
+{"id":"great_adj","th":"ยอดเยี่ยม; ยิ่งใหญ่; ดีมาก","ex":"We had a great time at the beach.","exTh":"เรามีช่วงเวลาที่ดีมากที่ชายหาด"}
+{"id":"information_noun","th":"ข้อมูล; ข่าวสาร","ex":"I need more information about the trip.","exTh":"ฉันต้องการข้อมูลเกี่ยวกับการเดินทางเพิ่มเติม","note":"นามนับไม่ได้ ไม่เติม s"}
+{"id":"here_adv","th":"ที่นี่; ตรงนี้; นี่","ex":"Please sit here.","exTh":"เชิญนั่งตรงนี้"}
+{"id":"own_adj","th":"ของตัวเอง; เป็นของตนเอง","ex":"I want my own room.","exTh":"ฉันอยากมีห้องเป็นของตัวเอง"}
+{"id":"back_adv","th":"กลับ; คืน; ย้อนกลับ","ex":"I will be back at six.","exTh":"ฉันจะกลับมาตอนหกโมง"}
+{"id":"back_noun","th":"หลัง; ด้านหลัง","ex":"My back hurts after work.","exTh":"หลังของฉันปวดหลังเลิกงาน"}
+{"id":"know_verb","th":"รู้; รู้จัก; เข้าใจ","ex":"I know her brother.","exTh":"ฉันรู้จักพี่ชายของเธอ"}
+{"id":"another_det","th":"อีก...หนึ่ง; อื่น","ex":"Can I have another cup of tea?","exTh":"ขอชาอีกหนึ่งถ้วยได้ไหม"}
+{"id":"down_adv","th":"ลง; ลงไป; ต่ำลง","ex":"Please sit down.","exTh":"เชิญนั่งลงครับ"}
+{"id":"school_noun","th":"โรงเรียน; สถานศึกษา","ex":"My school is near my house.","exTh":"โรงเรียนของฉันอยู่ใกล้บ้าน"}
+{"id":"take_verb","th":"เอา; พา; ใช้เวลา","ex":"Take an umbrella with you.","exTh":"เอาร่มไปด้วยนะ"}
+{"id":"small_adj","th":"เล็ก; น้อย","ex":"We live in a small flat.","exTh":"เราอาศัยอยู่ในแฟลตเล็กๆ"}
+{"id":"present_noun","th":"ของขวัญ; ปัจจุบัน","ex":"I bought a present for my sister.","exTh":"ฉันซื้อของขวัญให้น้องสาว"}
+{"id":"place_noun","th":"สถานที่; ที่; แห่ง","ex":"This is a nice place to relax.","exTh":"ที่นี่เป็นสถานที่ดีๆ สำหรับพักผ่อน"}
+{"id":"little_adj","th":"เล็ก; น้อย; นิดหน่อย","ex":"She has a little dog.","exTh":"เธอมีสุนัขตัวเล็กๆ ตัวหนึ่ง"}
+{"id":"little_adv","th":"นิดหน่อย; เล็กน้อย; ไม่ค่อย","ex":"I speak a little English.","exTh":"ฉันพูดภาษาอังกฤษได้นิดหน่อย"}
+{"id":"following_adj","th":"ต่อไปนี้; ถัดไป; ต่อมา","ex":"Please read the following rules.","exTh":"กรุณาอ่านกฎต่อไปนี้"}
+{"id":"different_adj","th":"ต่างกัน; แตกต่าง; อื่น","ex":"My brother and I like different foods.","exTh":"พี่ชายกับฉันชอบอาหารต่างกัน"}
+{"id":"large_adj","th":"ใหญ่; กว้าง; จำนวนมาก","ex":"They have a large garden.","exTh":"พวกเขามีสวนขนาดใหญ่"}
+{"id":"house_noun","th":"บ้าน; เรือน","ex":"Their house has a red door.","exTh":"บ้านของพวกเขามีประตูสีแดง"}
+{"id":"second_adj","th":"ที่สอง; ลำดับที่สอง","ex":"My room is on the second floor.","exTh":"ห้องของฉันอยู่ชั้นสอง"}
+{"id":"city_noun","th":"เมือง; นคร","ex":"Bangkok is a big city.","exTh":"กรุงเทพฯ เป็นเมืองใหญ่"}
+{"id":"still_adj","th":"นิ่ง; เงียบสงบ","ex":"Please stay still for a moment.","exTh":"ช่วยอยู่นิ่งๆ สักครู่นะ","note":"ความหมายที่พบบ่อยของ still คือ adv แปลว่า ยังคง"}
+{"id":"point_noun","th":"จุด; ประเด็น; คะแนน","ex":"That is a good point.","exTh":"นั่นเป็นประเด็นที่ดี"}
+{"id":"business_noun","th":"ธุรกิจ; กิจการ; ร้านค้า","ex":"My uncle has a small business.","exTh":"ลุงของฉันมีธุรกิจเล็กๆ"}
+{"id":"form_noun","th":"แบบฟอร์ม; รูปแบบ; รูปร่าง","ex":"Please fill in this form.","exTh":"กรุณากรอกแบบฟอร์มนี้"}
+{"id":"get_verb","th":"ได้รับ; ได้; ไปเอา","ex":"I got a letter from my friend.","exTh":"ฉันได้รับจดหมายจากเพื่อน"}
+{"id":"every_det","th":"ทุกๆ; ทุก","ex":"I walk to school every day.","exTh":"ฉันเดินไปโรงเรียนทุกวัน"}
+{"id":"social_adj","th":"เกี่ยวกับสังคม; ทางสังคม","ex":"She is active on social media.","exTh":"เธอเล่นโซเชียลมีเดียอย่างขยันขันแข็ง"}
+{"id":"too_adv","th":"ด้วย; เกินไป","ex":"This bag is too heavy.","exTh":"กระเป๋าใบนี้หนักเกินไป"}
+{"id":"group_noun","th":"กลุ่ม; หมู่; คณะ","ex":"A group of students is waiting outside.","exTh":"นักเรียนกลุ่มหนึ่งรออยู่ข้างนอก"}
+{"id":"end_noun","th":"จุดจบ; ตอนจบ; ปลาย","ex":"The film has a happy end.","exTh":"หนังเรื่องนี้จบอย่างมีความสุข"}
+{"id":"set_verb","th":"ตั้ง; วาง; กำหนด","ex":"Please set the table for dinner.","exTh":"ช่วยจัดโต๊ะสำหรับมื้อเย็นหน่อย","note":"รูปผันคือ set, set, set"}
+{"id":"old_adj","th":"แก่; เก่า; อายุ...ปี","ex":"My grandfather is very old.","exTh":"ปู่ของฉันอายุมากแล้ว"}
+{"id":"study_verb","th":"เรียน; ศึกษา; อ่านหนังสือ","ex":"I study English every evening.","exTh":"ฉันเรียนภาษาอังกฤษทุกเย็น"}
+{"id":"think_verb","th":"คิด; เห็นว่า; ครุ่นคิด","ex":"I think this film is great.","exTh":"ฉันคิดว่าหนังเรื่องนี้ยอดเยี่ยม"}
+{"id":"important_adj","th":"สำคัญ; มีความสำคัญ","ex":"Sleep is important for your health.","exTh":"การนอนหลับสำคัญต่อสุขภาพของคุณ"}
+{"id":"go_verb","th":"ไป; เดินทางไป","ex":"We go to the market on Saturdays.","exTh":"เราไปตลาดทุกวันเสาร์","note":"รูปผันคือ went, gone"}
+{"id":"need_modal","th":"จำเป็นต้อง; ต้อง","ex":"You need not wait for me.","exTh":"คุณไม่ต้องรอฉันก็ได้","note":"ใช้เป็นกริยาช่วยในประโยคปฏิเสธและคำถาม"}

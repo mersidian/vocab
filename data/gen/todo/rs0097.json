@@ -1,0 +1,894 @@
+[
+{
+"id": "fly-off-at-a-tangent_idiom",
+"w": "fly off at a tangent",
+"kind": "idiom",
+"gloss": [
+"To digress from a topic."
+]
+},
+{
+"id": "clip-someone-s-wings_idiom",
+"w": "clip someone's wings",
+"kind": "idiom",
+"gloss": [
+"To restrict someone's freedom."
+]
+},
+{
+"id": "ostrich-policy_idiom",
+"w": "ostrich policy",
+"kind": "idiom",
+"gloss": [
+"The tendency to ignore obvious problems and pretend they do not exist; ostrichism."
+]
+},
+{
+"id": "by-a-landslide_idiom",
+"w": "by a landslide",
+"kind": "idiom",
+"gloss": [
+"With big margins, with a huge difference."
+]
+},
+{
+"id": "record-book_idiom",
+"w": "record book",
+"kind": "idiom",
+"gloss": [
+"A book which lists record-breaking achievements.",
+"A book in which a record is kept of events, similar to a logbook."
+]
+},
+{
+"id": "get-in-the-boat-and-row_idiom",
+"w": "get in the boat and row",
+"kind": "idiom",
+"gloss": [
+"To make a substantial effort, especially in cooperation with others in a group; also, to perform one's share of work."
+]
+},
+{
+"id": "pass-the-torch_idiom",
+"w": "pass the torch",
+"kind": "idiom",
+"gloss": [
+"To transfer responsibility."
+]
+},
+{
+"id": "cold-treatment_idiom",
+"w": "cold treatment",
+"kind": "idiom",
+"gloss": [
+"Cold shoulder.",
+"Silent treatment.",
+"stratification by means of exposing seeds to cold"
+]
+},
+{
+"id": "find-one-s-tongue_idiom",
+"w": "find one's tongue",
+"kind": "idiom",
+"gloss": [
+"To speak after being unable to do so or after remaining silent; to find something to say."
+]
+},
+{
+"id": "back-the-wrong-horse_idiom",
+"w": "back the wrong horse",
+"kind": "idiom",
+"gloss": [
+"To support something or someone that later turns out to be unsuccessful."
+]
+},
+{
+"id": "adorn-oneself-with-borrowed-plumes_idiom",
+"w": "adorn oneself with borrowed plumes",
+"kind": "idiom",
+"gloss": [
+"To claim the honor of another for oneself."
+]
+},
+{
+"id": "high-summer_idiom",
+"w": "high summer",
+"kind": "idiom",
+"gloss": [
+"The hottest part of the summer."
+]
+},
+{
+"id": "rear-one-s-head_idiom",
+"w": "rear one's head",
+"kind": "idiom",
+"gloss": [
+"To raise one's head.",
+"To appear and cause problems or stress, especially at an inopportune time (said of something or [rare] someone that is undesirable or unwelcome)."
+]
+},
+{
+"id": "queen-anne-s-dead_idiom",
+"w": "Queen Anne's dead",
+"kind": "idiom",
+"gloss": [
+"That is yesterday's news; everybody knows that already."
+]
+},
+{
+"id": "spread-one-s-wings_idiom",
+"w": "spread one's wings",
+"kind": "idiom",
+"gloss": [
+"To experiment in life; to find out what one is capable of; to try new things or activities."
+]
+},
+{
+"id": "paisa-vasool_idiom",
+"w": "paisa vasool",
+"kind": "idiom",
+"gloss": [
+"bang for the buck; cost-effective, value for money, worthwhile",
+"appealing heavily to the masses."
+]
+},
+{
+"id": "open-pandora-s-box_idiom",
+"w": "open Pandora's box",
+"kind": "idiom",
+"gloss": [
+"To perform an action that causes problems to appear which did not exist beforehand, or were not known about prior."
+]
+},
+{
+"id": "grow-some-balls_idiom",
+"w": "grow some balls",
+"kind": "idiom",
+"gloss": [
+"To be brave; to show some courage, especially in a situation where one has so far failed to do so."
+]
+},
+{
+"id": "level-to-the-ground_idiom",
+"w": "level to the ground",
+"kind": "idiom",
+"gloss": [
+"To completely demolish, to raze."
+]
+},
+{
+"id": "dip-one-s-wick_idiom",
+"w": "dip one's wick",
+"kind": "idiom",
+"gloss": [
+"Of a man: to have sex."
+]
+},
+{
+"id": "fight-for-one-s-life_idiom",
+"w": "fight for one's life",
+"kind": "idiom",
+"gloss": [
+"To be in danger of dying (as a result of injury, illness etc.).",
+"To be in a highly unfavorable situation; to be on the verge of failure or collapse."
+]
+},
+{
+"id": "join-hands_idiom",
+"w": "join hands",
+"kind": "idiom",
+"gloss": [
+"To hold hands (to clasp each other's hands).",
+"To work together to achieve a common goal."
+]
+},
+{
+"id": "cost-of-doing-business_idiom",
+"w": "cost of doing business",
+"kind": "idiom",
+"gloss": [
+"The total ordinary expenses, such as materials, labor, and taxes, necessarily incurred in operating a commercial enterprise.",
+"An unwelcome or regrettable but predictable and unavoidable risk, loss, or inconvenience accepted as an inherent part of pursuing a particular goal or aim, especially when the risk may be impractical or counterproductive to try to reduce or eliminate."
+]
+},
+{
+"id": "holy-cow_idiom",
+"w": "holy cow",
+"kind": "idiom",
+"gloss": [
+"An exclamation of surprise or astonishment."
+]
+},
+{
+"id": "bundle-of-joy_idiom",
+"w": "bundle of joy",
+"kind": "idiom",
+"gloss": [
+"A newborn baby.",
+"A child.",
+"A pet."
+]
+},
+{
+"id": "ass-over-teakettle_idiom",
+"w": "ass over teakettle",
+"kind": "idiom",
+"gloss": [
+"Tumbling upside down.",
+"Frantically.",
+"In complete disarray."
+]
+},
+{
+"id": "long-finger_idiom",
+"w": "long finger",
+"kind": "idiom",
+"gloss": [
+"The middle finger.",
+"A state of postponement or procrastination.",
+"Hire purchase or credit."
+]
+},
+{
+"id": "ten-a-penny_idiom",
+"w": "ten a penny",
+"kind": "idiom",
+"gloss": [
+"So common as to be practically or almost worthless.",
+"Used other than figuratively or idiomatically: see ten, a, penny: sold at ten (10) units per penny (1d or 1¢)."
+]
+},
+{
+"id": "bad-taste-in-one-s-mouth_idiom",
+"w": "bad taste in one's mouth",
+"kind": "idiom",
+"gloss": [
+"A feeling that something is morally despicable as to cause nausea.",
+"A feeling of guilt, responsibility, or embarrassment as to cause nausea.",
+"A feeling of disappointment and frustration."
+]
+},
+{
+"id": "out-of-pocket_idiom",
+"w": "out of pocket",
+"kind": "idiom",
+"gloss": [
+"Lacking funds, or suffering a financial loss; broke.",
+"Not available; unable to be reached.",
+"Wild or inappropriate; unexpected."
+]
+},
+{
+"id": "on-the-rag_idiom",
+"w": "on the rag",
+"kind": "idiom",
+"gloss": [
+"Menstruating.",
+"In a bad mood; angry or irritable.",
+"Used other than figuratively or idiomatically: see on, the, rag."
+]
+},
+{
+"id": "have-the-blues_idiom",
+"w": "have the blues",
+"kind": "idiom",
+"gloss": [
+"To be depressed; to have low morale; to feel sad."
+]
+},
+{
+"id": "what-for_idiom",
+"w": "what for",
+"kind": "idiom",
+"gloss": [
+"An unspecified punishment or rebuke."
+]
+},
+{
+"id": "turn-into-a-pumpkin_idiom",
+"w": "turn into a pumpkin",
+"kind": "idiom",
+"gloss": [
+"To go to bed; to go to sleep (especially at, or around midnight).",
+"Used to indicate a curfew, or the time by which one must depart.",
+"To cease to be special or extraordinary."
+]
+},
+{
+"id": "on-the-ball_idiom",
+"w": "on the ball",
+"kind": "idiom",
+"gloss": [
+"Alert, active, or attentive; on top of things.",
+"Being in control of the ball.",
+"Playing as a midfielder."
+]
+},
+{
+"id": "not-worth-a-brass-farthing_idiom",
+"w": "not worth a brass farthing",
+"kind": "idiom",
+"gloss": [
+"Worth nothing or next to nothing."
+]
+},
+{
+"id": "dead-heat_idiom",
+"w": "dead heat",
+"kind": "idiom",
+"gloss": [
+"A close race or contest in which no winner is apparent."
+]
+},
+{
+"id": "up-for_idiom",
+"w": "up for",
+"kind": "idiom",
+"gloss": [
+"Willing to participate in; interested in.",
+"Being or due to be evaluated, inspected, judged, considered, sold, etc., in the stated circumstances or by the stated method."
+]
+},
+{
+"id": "big-shot_idiom",
+"w": "big shot",
+"kind": "idiom",
+"gloss": [
+"A person with a reputation of importance or power.",
+"A rare and significant chance to achieve fame or success.",
+"Used other than figuratively or idiomatically: see big, shot."
+]
+},
+{
+"id": "in-the-doghouse_idiom",
+"w": "in the doghouse",
+"kind": "idiom",
+"gloss": [
+"In a situation of being the object of someone's anger or disapproval, especially one's spouse."
+]
+},
+{
+"id": "at-loose-ends_idiom",
+"w": "at loose ends",
+"kind": "idiom",
+"gloss": [
+"Without any activity or purpose.",
+"In an uncertain position or situation.",
+"Not in order; in confusion; carelessly managed."
+]
+},
+{
+"id": "keep-a-lid-on_idiom",
+"w": "keep a lid on",
+"kind": "idiom",
+"gloss": [
+"To keep something secret."
+]
+},
+{
+"id": "boy-toy_idiom",
+"w": "boy toy",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see boy, toy.",
+"A gigolo or younger man who is sexually pursued by an older person.",
+"A young man that is viewed or used similarly to a sex toy."
+]
+},
+{
+"id": "come-a-cropper_idiom",
+"w": "come a cropper",
+"kind": "idiom",
+"gloss": [
+"To fall headlong from a horse.",
+"To suffer some accident or misfortune; to fail.",
+"To die."
+]
+},
+{
+"id": "over-the-top_idiom",
+"w": "over the top",
+"kind": "idiom",
+"gloss": [
+"Beyond normal, expected, or reasonable limits; outrageous.",
+"Delivered across the Internet to a television or similar device.",
+"Downward onto plants in the field, as contrasted with other routes of administration."
+]
+},
+{
+"id": "take-it-away_idiom",
+"w": "take it away",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see take, it, away.",
+"To begin, especially to launch a performance of some sort."
+]
+},
+{
+"id": "roll-out-the-red-carpet_idiom",
+"w": "roll out the red carpet",
+"kind": "idiom",
+"gloss": [
+"To extend the utmost hospitality; to treat someone as an honored guest; to welcome or host, especially in a showy or extravagant manner."
+]
+},
+{
+"id": "red-ink_idiom",
+"w": "red ink",
+"kind": "idiom",
+"gloss": [
+"Financial loss.",
+"Cheap red wine.",
+"Used other than figuratively or idiomatically: see red, ink."
+]
+},
+{
+"id": "kiss-of-life_idiom",
+"w": "kiss of life",
+"kind": "idiom",
+"gloss": [
+"Mouth-to-mouth resuscitation."
+]
+},
+{
+"id": "stop-the-presses_idiom",
+"w": "stop the presses",
+"kind": "idiom",
+"gloss": [
+"An exclamation used to introduce especially new, important, surprising, or recent developments."
+]
+},
+{
+"id": "feeding-frenzy_idiom",
+"w": "feeding frenzy",
+"kind": "idiom",
+"gloss": [
+"A wild, turbulent situation in which multiple sharks or other predatory fish attack one or more edible creatures simultaneously, in competition with each other.",
+"A voracious competition among would-be purchasers, etc. for limited resources.",
+"An event in which participants erratically grab and eat food."
+]
+},
+{
+"id": "take-stock_idiom",
+"w": "take stock",
+"kind": "idiom",
+"gloss": [
+"To take inventory, especially at the end of a season in a store or business.",
+"To scrutinize or size up something; to assess a situation."
+]
+},
+{
+"id": "go-against-the-grain_idiom",
+"w": "go against the grain",
+"kind": "idiom",
+"gloss": [
+"To defy convention or norms; to do something in a manner that is unusual or out of the ordinary."
+]
+},
+{
+"id": "nickel-and-dime_idiom",
+"w": "nickel and dime",
+"kind": "idiom",
+"gloss": [
+"Small time; operating on a small scale; involving small amounts of money; petty or cheap.",
+"To charge, or be charged, several unexpected small amounts of money, often in the form of fees, taxes, or related expenses to a venture, which when taken as a whole add up to a significant unexpected cost.",
+"To wear down in small increments; to quibble or obsess endlessly with (someone) over trifles."
+]
+},
+{
+"id": "on-strike_idiom",
+"w": "on strike",
+"kind": "idiom",
+"gloss": [
+"Due to face the next delivery from the bowler.",
+"Withholding labor as a protest, in order to effect change in management or government."
+]
+},
+{
+"id": "get-a-leg-up_idiom",
+"w": "get a leg up",
+"kind": "idiom",
+"gloss": [
+"To get a boost or a lift.",
+"To gain some advantage; to get a head start."
+]
+},
+{
+"id": "gut-reaction_idiom",
+"w": "gut reaction",
+"kind": "idiom",
+"gloss": [
+"A visceral reaction that arises with little accompanying thought or even (sometimes) no thought."
+]
+},
+{
+"id": "big-gun_idiom",
+"w": "big gun",
+"kind": "idiom",
+"gloss": [
+"A large artillery gun or one of the largest-caliber naval guns (as on a battleship).",
+"A person, group, thing, or course of action that is powerful, influential, or particularly effective.",
+"A large surfboard used to ride very large, powerful waves."
+]
+},
+{
+"id": "get-up-the-yard_idiom",
+"w": "get up the yard",
+"kind": "idiom",
+"gloss": [
+"Get lost!",
+"Nonsense! I don't believe you.",
+"I disagree."
+]
+},
+{
+"id": "have-one-s-name-on_idiom",
+"w": "have one's name on",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see have, one's, name, on.",
+"To be reserved for someone.",
+"To be one's destiny or in one's destiny."
+]
+},
+{
+"id": "go-all-the-way_idiom",
+"w": "go all the way",
+"kind": "idiom",
+"gloss": [
+"To travel the entire distance to one's intended destination.",
+"To continue to the conclusion of a task or project.",
+"To have sexual intercourse."
+]
+},
+{
+"id": "burn-one-s-fingers_idiom",
+"w": "burn one's fingers",
+"kind": "idiom",
+"gloss": [
+"To harm oneself; to suffer consequences of one's actions."
+]
+},
+{
+"id": "in-the-money_idiom",
+"w": "in the money",
+"kind": "idiom",
+"gloss": [
+"Possessing money; rich.",
+"For an option, having a strike price which makes it profitable to exercise. For a call this is a strike below the market price, or for a put a strike above the market price.",
+"Achieving a sufficiently high ranking in a contest to earn money (for oneself, or for those who have placed a bet)."
+]
+},
+{
+"id": "come-out-in-the-wash_idiom",
+"w": "come out in the wash",
+"kind": "idiom",
+"gloss": [
+"Of problems or difficulties, to work out, resolve, or become understood eventually and naturally.",
+"Of advantages and disadvantages, to cancel each other out.",
+"Of the truth: to be inevitably revealed in the future."
+]
+},
+{
+"id": "no-dice_idiom",
+"w": "no dice",
+"kind": "idiom",
+"gloss": [
+"An unacceptable alternative.",
+"An unfavorable result.",
+"Used to express a negative outcome or decision."
+]
+},
+{
+"id": "whistle-dixie_idiom",
+"w": "whistle Dixie",
+"kind": "idiom",
+"gloss": [
+"To engage in idle conversational fantasies."
+]
+},
+{
+"id": "fill-someone-s-shoes_idiom",
+"w": "fill someone's shoes",
+"kind": "idiom",
+"gloss": [
+"To do (somebody's) job; to perform or assume (somebody's) role."
+]
+},
+{
+"id": "well-and-good_idiom",
+"w": "well and good",
+"kind": "idiom",
+"gloss": [
+"Basically good, but with some shortcoming or limitation."
+]
+},
+{
+"id": "in-stitches_idiom",
+"w": "in stitches",
+"kind": "idiom",
+"gloss": [
+"Laughing vigorously; very amused; aching due to convulsive laughter."
+]
+},
+{
+"id": "take-a-stab-at_idiom",
+"w": "take a stab at",
+"kind": "idiom",
+"gloss": [
+"To attempt or try.",
+"To guess about.",
+"Used other than figuratively or idiomatically: see take, stab."
+]
+},
+{
+"id": "give-someone-an-earful_idiom",
+"w": "give someone an earful",
+"kind": "idiom",
+"gloss": [
+"To scold someone loudly."
+]
+},
+{
+"id": "high-noon_idiom",
+"w": "high noon",
+"kind": "idiom",
+"gloss": [
+"Exactly noon; midday (when the sun is at its highest).",
+"The zenith or apex of one's life or of a certain activity or era.",
+"A time, set out in advance, at which an important decision is to be made or a nemesis is to be confronted."
+]
+},
+{
+"id": "catch-someone-s-eye_idiom",
+"w": "catch someone's eye",
+"kind": "idiom",
+"gloss": [
+"To capture someone's attention."
+]
+},
+{
+"id": "middle-of-the-road_idiom",
+"w": "middle of the road",
+"kind": "idiom",
+"gloss": [
+"Having a centrist attitude or philosophy; not extreme, especially politically.",
+"Of a type of melodic popular music that has wide appeal.",
+"The middle; the average."
+]
+},
+{
+"id": "sexual-tension_idiom",
+"w": "sexual tension",
+"kind": "idiom",
+"gloss": [
+"Libidinal unrest arising between individuals when exposed to one another."
+]
+},
+{
+"id": "take-a-dive_idiom",
+"w": "take a dive",
+"kind": "idiom",
+"gloss": [
+"To decline rapidly.",
+"To feign a knockout in order to lose intentionally.",
+"To lose or fail intentionally."
+]
+},
+{
+"id": "ring-off-the-hook_idiom",
+"w": "ring off the hook",
+"kind": "idiom",
+"gloss": [
+"Of a telephone, to ring constantly or excessively."
+]
+},
+{
+"id": "go-to-sleep_idiom",
+"w": "go to sleep",
+"kind": "idiom",
+"gloss": [
+"To fall asleep.",
+"To be affected by paresthesia; to go numb.",
+"To die."
+]
+},
+{
+"id": "down-under_idiom",
+"w": "down under",
+"kind": "idiom",
+"gloss": [
+"In Australia.",
+"Into Australia; to Australia.",
+"By extension, anywhere, or to anywhere, south of the Equator"
+]
+},
+{
+"id": "drop-someone-a-line_idiom",
+"w": "drop someone a line",
+"kind": "idiom",
+"gloss": [
+"To write and send (someone) a note or telegram."
+]
+},
+{
+"id": "few-and-far-between_idiom",
+"w": "few and far between",
+"kind": "idiom",
+"gloss": [
+"Rare and scarce; hard to find."
+]
+},
+{
+"id": "center-field_idiom",
+"w": "center field",
+"kind": "idiom",
+"gloss": [
+"The part of a baseball field which is beyond the infield and straight ahead left if you stand on home plate and face the pitcher.",
+"The defensive position in the outfield in the middle, typically played by a player that can run fast.",
+"A central role in some activity that requires speed."
+]
+},
+{
+"id": "on-the-down-low_idiom",
+"w": "on the down-low",
+"kind": "idiom",
+"gloss": [
+"In secret or nearly so, on a need-to-know basis.",
+"Secretly sleeping with someone other than one's partner.",
+"Of a man, publicly identifying as heterosexual but secretly having sex with men."
+]
+},
+{
+"id": "hot-on_idiom",
+"w": "hot on",
+"kind": "idiom",
+"gloss": [
+"Enthusiastic for.",
+"Knowledgeable about.",
+"Skilled at."
+]
+},
+{
+"id": "drag-the-chain_idiom",
+"w": "drag the chain",
+"kind": "idiom",
+"gloss": [
+"To fall behind relative to others.",
+"To unwittingly hold up progress.",
+"To deliberately hold up progress by acting slowly."
+]
+},
+{
+"id": "stick-it-to-the-man_idiom",
+"w": "stick it to the man",
+"kind": "idiom",
+"gloss": [
+"To take some action intended to defy a source of oppression such as globalization, commercialization, big business or government (on a large scale) or individual leaders and authorities like teachers, bosses, police, or politicians."
+]
+},
+{
+"id": "walk-the-walk_idiom",
+"w": "walk the walk",
+"kind": "idiom",
+"gloss": [
+"To act consistently in line with one's claims; to follow through."
+]
+},
+{
+"id": "drop-a-bomb_idiom",
+"w": "drop a bomb",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see drop, bomb.",
+"To release noxious gas from the bowels: to fart.",
+"To release feces into a toilet; to defecate."
+]
+},
+{
+"id": "sexual-relations_idiom",
+"w": "sexual relations",
+"kind": "idiom",
+"gloss": [
+"Sexual activity."
+]
+},
+{
+"id": "x-s-and-o-s_idiom",
+"w": "X's and O's",
+"kind": "idiom",
+"gloss": [
+"tic-tac-toe",
+"The fundamental elements of a play.",
+"The basic delineation of roles in a project."
+]
+},
+{
+"id": "gimme-a-five_idiom",
+"w": "gimme a five",
+"kind": "idiom",
+"gloss": [
+"A request to receive a high five."
+]
+},
+{
+"id": "guilt-trip_idiom",
+"w": "guilt trip",
+"kind": "idiom",
+"gloss": [
+"A feeling of shame or embarrassment, especially if self-indulgent, unwarranted, exaggerated or felt over a significant period of time.",
+"An act that produces such a feeling."
+]
+},
+{
+"id": "watering-hole_idiom",
+"w": "watering hole",
+"kind": "idiom",
+"gloss": [
+"A depression in which water collects and where animals come to drink.",
+"A bar or other local drinking establishment."
+]
+},
+{
+"id": "throw-caution-to-the-wind_idiom",
+"w": "throw caution to the wind",
+"kind": "idiom",
+"gloss": [
+"To do something despite the risks."
+]
+},
+{
+"id": "turn-tail_idiom",
+"w": "turn tail",
+"kind": "idiom",
+"gloss": [
+"To turn away from someone or something, in preparation for running away; to reverse direction; to leave or flee."
+]
+},
+{
+"id": "spear-carrier_idiom",
+"w": "spear carrier",
+"kind": "idiom",
+"gloss": [
+"A person in a play or movie with a minimal part; an extra.",
+"One who serves in a subordinate or menial role.",
+"One who plays a leading or substantial role as a supporter, proponent, etc. representing a group, cause, or point of view."
+]
+},
+{
+"id": "chew-the-scenery_idiom",
+"w": "chew the scenery",
+"kind": "idiom",
+"gloss": [
+"To display excessive emotion or to act in an exaggerated manner while performing; to be melodramatic; to be flamboyant."
+]
+},
+{
+"id": "blow-chunks_idiom",
+"w": "blow chunks",
+"kind": "idiom",
+"gloss": [
+"To vomit chunks of undigested food.",
+"To suffer from explosive diarrhea.",
+"To be very bad, inadequate, unpleasant, or miserable; to thoroughly suck."
+]
+},
+{
+"id": "dead-to-the-world_idiom",
+"w": "dead to the world",
+"kind": "idiom",
+"gloss": [
+"Sound asleep.",
+"Unconscious.",
+"Without social relationships or communication; without emotional or tangible bonds to others."
+]
+},
+{
+"id": "hold-up-one-s-end_idiom",
+"w": "hold up one's end",
+"kind": "idiom",
+"gloss": [
+"To hold up one's end of a bargain; to fulfill one's promise or obligation."
+]
+}
+]

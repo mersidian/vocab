@@ -1,0 +1,19 @@
+# Entries left out of the app: ethnic, racial, homophobic or transphobic slurs.
+# One entry id per line. Lines starting with "keep " override the automatic "slur:" note check.
+chimp-out_pv
+chinaman-s-chance_idiom
+coon-s-age_idiom
+gook_noun
+jew-down_pv
+jew-out_pv
+jew-up_pv
+jungle-monkey_idiom
+light-in-the-loafers_idiom
+mexican-breakfast_idiom
+nigger-rich_idiom
+oreo-cookie_idiom
+rice-out_pv
+troon-out_pv
+white-trash_idiom
+keep queer-bashing_idiom
+keep pumpkin-head_idiom

@@ -1,0 +1,100 @@
+{"id":"select_adj","th":"ที่คัดเลือกแล้ว; ชั้นเลิศ; พิเศษ","ex":"Only a select group of guests was invited.","exTh":"มีเพียงแขกกลุ่มพิเศษที่ได้รับเชิญ"}
+{"id":"plain_adj","th":"เรียบง่าย; ธรรมดา; ชัดเจน","ex":"She wore a plain white shirt.","exTh":"เธอสวมเสื้อเชิ้ตสีขาวเรียบๆ"}
+{"id":"mutual_adj","th":"ซึ่งกันและกัน; ร่วมกัน","ex":"We have a mutual friend named Anna.","exTh":"เรามีเพื่อนร่วมกันชื่อแอนนา"}
+{"id":"display_verb","th":"แสดง; จัดแสดง; โชว์","ex":"The shop displays new shoes in the window.","exTh":"ร้านจัดแสดงรองเท้าคู่ใหม่ไว้ที่หน้าต่าง"}
+{"id":"aside_adv","th":"ไปข้างๆ; เก็บไว้; ต่างหาก","ex":"She put her book aside and listened.","exTh":"เธอวางหนังสือไว้ข้างๆ แล้วตั้งใจฟัง"}
+{"id":"mere_adj","th":"เพียงแค่; เป็นเพียง","ex":"It was a mere accident, nothing more.","exTh":"มันเป็นเพียงอุบัติเหตุ ไม่มีอะไรมากกว่านั้น"}
+{"id":"similarly_adv","th":"ในทำนองเดียวกัน; คล้ายกัน","ex":"Similarly, the second option has a cost.","exTh":"ในทำนองเดียวกัน ตัวเลือกที่สองก็มีค่าใช้จ่าย"}
+{"id":"fellow_noun","th":"เพื่อน; พวกเดียวกัน; ผู้ชาย (ภาษาพูด)","ex":"He greeted his fellow workers warmly.","exTh":"เขาทักทายเพื่อนร่วมงานอย่างอบอุ่น"}
+{"id":"ocean_noun","th":"มหาสมุทร","ex":"The ship crossed the Pacific Ocean.","exTh":"เรือข้ามมหาสมุทรแปซิฟิก"}
+{"id":"star_verb","th":"แสดงนำ; ติดดาว","ex":"She stars in a new comedy film.","exTh":"เธอแสดงนำในภาพยนตร์ตลกเรื่องใหม่"}
+{"id":"besides_prep","th":"นอกจาก; ยกเว้น","ex":"Besides English, he speaks Thai and French.","exTh":"นอกจากภาษาอังกฤษแล้ว เขายังพูดภาษาไทยและฝรั่งเศสได้"}
+{"id":"spiritual_adj","th":"ทางจิตวิญญาณ; ทางจิตใจ","ex":"Many people find spiritual peace in nature.","exTh":"หลายคนพบความสงบทางใจในธรรมชาติ"}
+{"id":"warm_verb","th":"อุ่น; ทำให้อุ่น","ex":"Warm the milk before you drink it.","exTh":"อุ่นนมก่อนดื่ม"}
+{"id":"struggle_noun","th":"การต่อสู้; ความพยายามอย่างหนัก; ความยากลำบาก","ex":"Life was a struggle after he lost his job.","exTh":"ชีวิตลำบากหลังจากเขาตกงาน"}
+{"id":"registration_noun","th":"การลงทะเบียน; การจดทะเบียน","ex":"Registration for the course starts tomorrow.","exTh":"การลงทะเบียนเรียนคอร์สนี้เริ่มพรุ่งนี้"}
+{"id":"rare_adj","th":"หายาก; นานๆ ครั้ง; สุกน้อย (เนื้อ)","ex":"This bird is very rare in our country.","exTh":"นกชนิดนี้หายากมากในประเทศของเรา"}
+{"id":"onto_prep","th":"ขึ้นไปบน; ลงสู่","ex":"The cat jumped onto the table.","exTh":"แมวกระโดดขึ้นไปบนโต๊ะ"}
+{"id":"empire_noun","th":"จักรวรรดิ","ex":"The Roman Empire was very large.","exTh":"จักรวรรดิโรมันมีขนาดใหญ่มาก"}
+{"id":"abstract_adj","th":"นามธรรม; เชิงนามธรรม","ex":"Love is an abstract idea.","exTh":"ความรักเป็นความคิดเชิงนามธรรม"}
+{"id":"mention_verb","th":"พูดถึง; กล่าวถึง","ex":"She did not mention the price.","exTh":"เธอไม่ได้พูดถึงราคา"}
+{"id":"formula_noun","th":"สูตร; สูตรคำนวณ","ex":"Use this formula to find the area.","exTh":"ใช้สูตรนี้เพื่อหาพื้นที่"}
+{"id":"aspect_noun","th":"แง่มุม; ด้าน; ลักษณะ","ex":"Safety is an important aspect of the job.","exTh":"ความปลอดภัยเป็นแง่มุมสำคัญของงานนี้"}
+{"id":"turning_noun","th":"ทางแยก; ทางเลี้ยว; จุดเลี้ยว","ex":"Take the second turning on the left.","exTh":"เลี้ยวซ้ายตรงทางแยกที่สอง","note":"สำเนียงอังกฤษ"}
+{"id":"normally_adv","th":"ตามปกติ; โดยทั่วไป","ex":"I normally get up at six.","exTh":"ปกติฉันตื่นหกโมง"}
+{"id":"consequently_adv","th":"ดังนั้น; ผลที่ตามมาคือ","ex":"He missed the bus; consequently, he was late.","exTh":"เขาตกรถเมล์ ดังนั้นจึงมาสาย"}
+{"id":"occasion_noun","th":"โอกาส; เหตุการณ์; งานพิเศษ","ex":"Her birthday is a special occasion.","exTh":"วันเกิดของเธอเป็นโอกาสพิเศษ"}
+{"id":"occasion_verb","th":"ก่อให้เกิด; เป็นสาเหตุให้","ex":"The bad news occasioned much discussion.","exTh":"ข่าวร้ายก่อให้เกิดการพูดคุยกันมาก","note":"ภาษาทางการ ใช้น้อย"}
+{"id":"cattle_noun","th":"วัวควาย; ปศุสัตว์","ex":"The farmer keeps cattle on his land.","exTh":"ชาวนาเลี้ยงวัวควายในที่ดินของเขา","note":"เป็นพหูพจน์เสมอ"}
+{"id":"furthermore_adv","th":"นอกจากนี้; ยิ่งไปกว่านั้น","ex":"The room is cheap; furthermore, it is clean.","exTh":"ห้องนี้ราคาถูก ยิ่งไปกว่านั้นยังสะอาดด้วย"}
+{"id":"probability_noun","th":"ความน่าจะเป็น; โอกาสที่จะเกิด","ex":"There is a high probability of rain today.","exTh":"วันนี้มีความน่าจะเป็นสูงที่ฝนจะตก"}
+{"id":"decline_noun","th":"การลดลง; ความเสื่อม","ex":"There was a decline in sales last year.","exTh":"ยอดขายลดลงเมื่อปีที่แล้ว"}
+{"id":"commonly_adv","th":"โดยทั่วไป; บ่อยครั้ง","ex":"This flower is commonly found in Thailand.","exTh":"ดอกไม้ชนิดนี้พบได้ทั่วไปในประเทศไทย"}
+{"id":"delay_verb","th":"ทำให้ล่าช้า; เลื่อน; ผัดผ่อน","ex":"Heavy rain delayed our flight.","exTh":"ฝนตกหนักทำให้เที่ยวบินของเราล่าช้า"}
+{"id":"infection_noun","th":"การติดเชื้อ; โรคติดเชื้อ","ex":"He has an infection in his ear.","exTh":"เขาติดเชื้อที่หู"}
+{"id":"accurate_adj","th":"แม่นยำ; ถูกต้อง","ex":"The report gives accurate information.","exTh":"รายงานนี้ให้ข้อมูลที่ถูกต้อง"}
+{"id":"extreme_adj","th":"สุดขีด; รุนแรง; มากที่สุด","ex":"The desert has extreme heat in summer.","exTh":"ทะเลทรายร้อนจัดสุดขีดในฤดูร้อน"}
+{"id":"recognize_verb","th":"จำได้; จำแนก; ยอมรับ","ex":"I did not recognize you with short hair.","exTh":"ฉันจำคุณไม่ได้ตอนผมสั้น"}
+{"id":"option_noun","th":"ตัวเลือก; ทางเลือก","ex":"You have two options: stay or go.","exTh":"คุณมีสองทางเลือก คือ อยู่หรือไป"}
+{"id":"mineral_noun","th":"แร่; แร่ธาตุ","ex":"Milk gives you important minerals.","exTh":"นมให้แร่ธาตุที่สำคัญแก่คุณ"}
+{"id":"oral_noun","th":"การสอบปากเปล่า","ex":"She has an oral in French tomorrow.","exTh":"พรุ่งนี้เธอมีสอบปากเปล่าภาษาฝรั่งเศส","note":"ใช้ในภาษาพูด"}
+{"id":"extend_verb","th":"ขยาย; ยืดออก; ต่อเวลา","ex":"The shop extended its opening hours.","exTh":"ร้านขยายเวลาเปิดทำการ"}
+{"id":"bulletin_noun","th":"ข่าวสั้น; ประกาศ; จดหมายข่าว","ex":"I heard it on the news bulletin.","exTh":"ฉันได้ยินมาจากข่าวสั้นทางโทรทัศน์"}
+{"id":"qualified_adj","th":"มีคุณสมบัติ; ผ่านการรับรอง","ex":"She is a qualified nurse.","exTh":"เธอเป็นพยาบาลที่มีคุณวุฒิ"}
+{"id":"stable_adj","th":"มั่นคง; คงที่; ไม่เปลี่ยนแปลง","ex":"The patient is in a stable condition.","exTh":"อาการของผู้ป่วยทรงตัว"}
+{"id":"register_noun","th":"ทะเบียน; สมุดบันทึก","ex":"The teacher checks the register every morning.","exTh":"ครูเช็กสมุดรายชื่อทุกเช้า"}
+{"id":"register_verb","th":"ลงทะเบียน; จดทะเบียน","ex":"You must register before the class starts.","exTh":"คุณต้องลงทะเบียนก่อนเริ่มเรียน"}
+{"id":"evident_adj","th":"ชัดเจน; เห็นได้ชัด","ex":"His anger was evident to everyone.","exTh":"ทุกคนเห็นได้ชัดว่าเขาโกรธ"}
+{"id":"unemployment_noun","th":"การว่างงาน; ภาวะว่างงาน","ex":"Unemployment is high in this town.","exTh":"อัตราการว่างงานในเมืองนี้สูง"}
+{"id":"psychological_adj","th":"ทางจิตวิทยา; ทางจิตใจ","ex":"Stress can cause psychological problems.","exTh":"ความเครียดอาจทำให้เกิดปัญหาทางจิตใจ"}
+{"id":"enable_verb","th":"ทำให้สามารถ; เปิดโอกาสให้","ex":"This app enables you to learn offline.","exTh":"แอปนี้ทำให้คุณเรียนแบบออฟไลน์ได้"}
+{"id":"partial_adj","th":"บางส่วน; ไม่สมบูรณ์","ex":"We got only a partial refund.","exTh":"เราได้รับเงินคืนเพียงบางส่วน"}
+{"id":"academy_noun","th":"สถาบัน; โรงเรียนเฉพาะทาง","ex":"He studies at a music academy.","exTh":"เขาเรียนที่สถาบันดนตรี"}
+{"id":"comment_noun","th":"ความคิดเห็น; ข้อคิดเห็น; คอมเมนต์","ex":"She left a nice comment on my photo.","exTh":"เธอเขียนคอมเมนต์น่ารักไว้ที่รูปของฉัน"}
+{"id":"chemistry_noun","th":"เคมี; วิชาเคมี","ex":"Chemistry is my favorite subject.","exTh":"เคมีเป็นวิชาที่ฉันชอบที่สุด"}
+{"id":"sharp_adj","th":"คม; แหลม; ฉลาด","ex":"Be careful, the knife is very sharp.","exTh":"ระวังนะ มีดคมมาก"}
+{"id":"burden_noun","th":"ภาระ; สิ่งที่หนักใจ","ex":"Old debt is a heavy burden for him.","exTh":"หนี้เก่าเป็นภาระหนักของเขา"}
+{"id":"poetry_noun","th":"กวีนิพนธ์; บทกวี","ex":"She likes to read poetry at night.","exTh":"เธอชอบอ่านบทกวีตอนกลางคืน"}
+{"id":"naturally_adv","th":"ตามธรรมชาติ; โดยธรรมชาติ; แน่นอน","ex":"Her hair curls naturally.","exTh":"ผมของเธอหยิกตามธรรมชาติ"}
+{"id":"copyright_noun","th":"ลิขสิทธิ์","ex":"This photo is protected by copyright.","exTh":"รูปนี้ได้รับการคุ้มครองด้วยลิขสิทธิ์"}
+{"id":"outstanding_adj","th":"โดดเด่น; ยอดเยี่ยม; ค้างชำระ","ex":"He did an outstanding job on the project.","exTh":"เขาทำโครงการนี้ได้ยอดเยี่ยม"}
+{"id":"separation_noun","th":"การแยกจากกัน; การแยกกันอยู่","ex":"The separation was hard for the children.","exTh":"การแยกกันอยู่เป็นเรื่องยากสำหรับเด็กๆ"}
+{"id":"gentleman_noun","th":"สุภาพบุรุษ; ท่านผู้ชาย","ex":"A gentleman held the door for her.","exTh":"สุภาพบุรุษท่านหนึ่งเปิดประตูให้เธอ"}
+{"id":"customs_noun","th":"ศุลกากร; ด่านตรวจสินค้า","ex":"We waited a long time at customs.","exTh":"เรารอที่ศุลกากรนานมาก","note":"ใช้พหูพจน์เสมอ ต่างจาก custom (ประเพณี)"}
+{"id":"handle_verb","th":"จัดการ; รับมือ; จับถือ","ex":"She can handle difficult customers well.","exTh":"เธอรับมือกับลูกค้าที่เอาใจยากได้ดี"}
+{"id":"examine_verb","th":"ตรวจสอบ; ตรวจ; พิจารณา","ex":"The doctor examined my throat.","exTh":"หมอตรวจดูคอของฉัน"}
+{"id":"physics_noun","th":"ฟิสิกส์; วิชาฟิสิกส์","ex":"He teaches physics at a high school.","exTh":"เขาสอนฟิสิกส์ที่โรงเรียนมัธยม"}
+{"id":"atlantic_adj","th":"เกี่ยวกับมหาสมุทรแอตแลนติก","ex":"They took an Atlantic flight to New York.","exTh":"พวกเขาบินข้ามมหาสมุทรแอตแลนติกไปนิวยอร์ก"}
+{"id":"outer_adj","th":"ภายนอก; ด้านนอก","ex":"Paint the outer wall of the house white.","exTh":"ทาผนังด้านนอกของบ้านเป็นสีขาว"}
+{"id":"tendency_noun","th":"แนวโน้ม; นิสัยที่มักเป็น","ex":"He has a tendency to talk too much.","exTh":"เขามีแนวโน้มจะพูดมากเกินไป"}
+{"id":"whenever_adv","th":"เมื่อไรกันนะ (เน้นความแปลกใจ)","ex":"Whenever did you find time to paint this?","exTh":"คุณหาเวลาวาดภาพนี้ตอนไหนกันนะ","note":"ใช้เน้นความแปลกใจในภาษาพูด"}
+{"id":"whenever_conj","th":"เมื่อไรก็ตามที่; ทุกครั้งที่","ex":"Whenever it rains, I stay at home.","exTh":"ทุกครั้งที่ฝนตก ฉันอยู่บ้าน"}
+{"id":"constitute_verb","th":"ประกอบเป็น; ถือเป็น; จัดตั้ง","ex":"Women constitute half of the team.","exTh":"ผู้หญิงเป็นครึ่งหนึ่งของทีม","note":"ภาษาทางการ"}
+{"id":"promise_verb","th":"สัญญา; ให้คำมั่น","ex":"I promise to call you tonight.","exTh":"ฉันสัญญาว่าจะโทรหาคุณคืนนี้"}
+{"id":"atmosphere_noun","th":"บรรยากาศ; ชั้นบรรยากาศ","ex":"The restaurant has a warm atmosphere.","exTh":"ร้านอาหารนี้มีบรรยากาศอบอุ่น"}
+{"id":"interview_verb","th":"สัมภาษณ์","ex":"They will interview five people today.","exTh":"วันนี้พวกเขาจะสัมภาษณ์ห้าคน"}
+{"id":"deposit_noun","th":"เงินมัดจำ; เงินฝาก; ตะกอน","ex":"I paid a deposit for the room.","exTh":"ฉันจ่ายเงินมัดจำค่าห้อง"}
+{"id":"fax_noun","th":"โทรสาร; แฟกซ์","ex":"Please send me the form by fax.","exTh":"กรุณาส่งแบบฟอร์มให้ฉันทางแฟกซ์"}
+{"id":"fax_verb","th":"ส่งแฟกซ์","ex":"I will fax the contract to you today.","exTh":"วันนี้ฉันจะส่งแฟกซ์สัญญาไปให้คุณ"}
+{"id":"distinction_noun","th":"ความแตกต่าง; เกียรติคุณ; เกียรตินิยม","ex":"There is a clear distinction between the two words.","exTh":"สองคำนี้มีความแตกต่างกันอย่างชัดเจน"}
+{"id":"hit_noun","th":"ความสำเร็จ; เพลงฮิต; การตี","ex":"The new song was a big hit.","exTh":"เพลงใหม่นี้ฮิตมาก"}
+{"id":"climate_noun","th":"ภูมิอากาศ; สภาพอากาศ","ex":"Thailand has a hot climate.","exTh":"ประเทศไทยมีภูมิอากาศร้อน"}
+{"id":"intention_noun","th":"ความตั้งใจ; เจตนา","ex":"I had no intention of hurting you.","exTh":"ฉันไม่ได้ตั้งใจจะทำให้คุณเจ็บ"}
+{"id":"league_noun","th":"ลีก; สหพันธ์; กลุ่มทีม","ex":"Our team is first in the league.","exTh":"ทีมของเราอยู่อันดับหนึ่งของลีก"}
+{"id":"print_noun","th":"ตัวพิมพ์; ลายพิมพ์; รอยพิมพ์","ex":"The print in this book is too small.","exTh":"ตัวพิมพ์ในหนังสือเล่มนี้เล็กเกินไป"}
+{"id":"assist_verb","th":"ช่วยเหลือ; ช่วย","ex":"A nurse assists the doctor during surgery.","exTh":"พยาบาลช่วยแพทย์ระหว่างการผ่าตัด"}
+{"id":"smile_verb","th":"ยิ้ม","ex":"She smiled when she saw her friend.","exTh":"เธอยิ้มเมื่อเห็นเพื่อนของเธอ"}
+{"id":"border_noun","th":"พรมแดน; ชายแดน; ขอบ","ex":"The border between the two countries is closed.","exTh":"พรมแดนระหว่างสองประเทศถูกปิดอยู่"}
+{"id":"graduate_noun","th":"บัณฑิต; ผู้สำเร็จการศึกษา","ex":"She is a graduate of a famous university.","exTh":"เธอเป็นบัณฑิตจากมหาวิทยาลัยชื่อดัง"}
+{"id":"democracy_noun","th":"ประชาธิปไตย","ex":"Democracy gives people the right to vote.","exTh":"ประชาธิปไตยให้สิทธิประชาชนในการลงคะแนนเสียง"}
+{"id":"muscle_noun","th":"กล้ามเนื้อ","ex":"Swimming makes your muscles stronger.","exTh":"การว่ายน้ำทำให้กล้ามเนื้อของคุณแข็งแรงขึ้น"}
+{"id":"strain_noun","th":"ความเครียด; การเกร็ง; แรงดึง","ex":"Too much work puts strain on the body.","exTh":"การทำงานมากเกินไปทำให้ร่างกายเครียดเกินไป"}
+{"id":"competitive_adj","th":"ที่แข่งขันสูง; ชอบแข่งขัน","ex":"The job market is very competitive.","exTh":"ตลาดงานแข่งขันกันสูงมาก"}
+{"id":"promote_verb","th":"ส่งเสริม; เลื่อนตำแหน่ง; โปรโมต","ex":"The company promoted her to manager.","exTh":"บริษัทเลื่อนตำแหน่งเธอเป็นผู้จัดการ"}
+{"id":"presentation_noun","th":"การนำเสนอ; การแสดง; การมอบ","ex":"I have a presentation at ten o'clock.","exTh":"ฉันมีการนำเสนองานตอนสิบโมง"}
+{"id":"increasingly_adv","th":"มากขึ้นเรื่อยๆ; เพิ่มขึ้นเรื่อยๆ","ex":"Life in the city is increasingly expensive.","exTh":"ชีวิตในเมืองแพงขึ้นเรื่อยๆ"}
+{"id":"canal_noun","th":"คลอง; ทางน้ำขุด","ex":"We took a boat along the old canal.","exTh":"เรานั่งเรือไปตามคลองเก่า"}
+{"id":"discovery_noun","th":"การค้นพบ; สิ่งที่ค้นพบ","ex":"The discovery of fire changed human life.","exTh":"การค้นพบไฟเปลี่ยนชีวิตมนุษย์"}
+{"id":"slight_noun","th":"การดูหมิ่น; การเมินเฉยอย่างไม่ให้เกียรติ","ex":"She felt his silence was a slight.","exTh":"เธอรู้สึกว่าความเงียบของเขาเป็นการไม่ให้เกียรติ","note":"ใช้น้อย ส่วน slight (adj) แปลว่า เล็กน้อย"}
+{"id":"link_noun","th":"ลิงก์; ความเชื่อมโยง; ข้อต่อ","ex":"Click the link to read more.","exTh":"คลิกลิงก์เพื่ออ่านเพิ่มเติม"}
+{"id":"link_verb","th":"เชื่อมโยง; เชื่อมต่อ","ex":"This road links the two towns.","exTh":"ถนนสายนี้เชื่อมสองเมืองเข้าด้วยกัน"}

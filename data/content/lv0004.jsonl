@@ -1,0 +1,100 @@
+{"id":"short_adv","th":"ทันที; กะทันหัน; สั้นๆ","ex":"The car stopped short at the red light.","exTh":"รถหยุดกึกตรงไฟแดง","note":"มักใช้ในวลี stop short, cut short"}
+{"id":"test_noun","th":"การสอบ; แบบทดสอบ; การทดสอบ","ex":"We have a math test tomorrow.","exTh":"พรุ่งนี้เรามีสอบคณิตศาสตร์"}
+{"id":"food_noun","th":"อาหาร; ของกิน","ex":"Thai food is my favorite.","exTh":"อาหารไทยเป็นอาหารโปรดของฉัน"}
+{"id":"nothing_pron","th":"ไม่มีอะไร; ไม่มีสิ่งใด","ex":"There is nothing in the fridge.","exTh":"ในตู้เย็นไม่มีอะไรเลย"}
+{"id":"street_noun","th":"ถนน; ซอย","ex":"The shop is on the next street.","exTh":"ร้านอยู่ที่ถนนสายถัดไป"}
+{"id":"face_noun","th":"ใบหน้า; หน้า","ex":"She has a kind face.","exTh":"เธอมีใบหน้าใจดี"}
+{"id":"self_noun","th":"ตัวตน; ตนเอง; ตัวเอง","ex":"Be your true self.","exTh":"เป็นตัวของตัวเองอย่างแท้จริง","note":"มักพบในรูปประสม เช่น myself, yourself"}
+{"id":"future_noun","th":"อนาคต; ภายภาคหน้า","ex":"I think about my future a lot.","exTh":"ฉันคิดเรื่องอนาคตของตัวเองบ่อย"}
+{"id":"july_noun","th":"กรกฎาคม; เดือนกรกฎาคม","ex":"We go on holiday in July.","exTh":"เราไปเที่ยวพักผ่อนในเดือนกรกฎาคม"}
+{"id":"note_noun","th":"บันทึก; โน้ต; ข้อความสั้นๆ","ex":"I left a note on your desk.","exTh":"ฉันทิ้งโน้ตไว้บนโต๊ะของคุณ"}
+{"id":"note_verb","th":"จด; สังเกต; ตั้งข้อสังเกต","ex":"Please note the time of the meeting.","exTh":"กรุณาจดเวลาประชุมไว้ด้วย"}
+{"id":"black_adj","th":"ดำ; สีดำ","ex":"He has a black cat.","exTh":"เขามีแมวสีดำ"}
+{"id":"black_noun","th":"สีดำ","ex":"She often wears black.","exTh":"เธอมักใส่ชุดสีดำ"}
+{"id":"past_adv","th":"ผ่านไป; ผ่าน","ex":"A bus drove past without stopping.","exTh":"รถเมล์ขับผ่านไปโดยไม่หยุด"}
+{"id":"past_prep","th":"เลย; ผ่าน; หลัง (เวลา)","ex":"It is half past three.","exTh":"ตอนนี้บ่ายสามโมงครึ่ง"}
+{"id":"college_noun","th":"วิทยาลัย; มหาวิทยาลัย","ex":"My sister goes to college in Chiang Mai.","exTh":"พี่สาวของฉันเรียนมหาวิทยาลัยที่เชียงใหม่"}
+{"id":"true_adj","th":"จริง; ถูกต้อง; แท้","ex":"Is it true that you are moving?","exTh":"จริงหรือเปล่าที่คุณกำลังจะย้ายบ้าน"}
+{"id":"march_noun","th":"มีนาคม; เดือนมีนาคม","ex":"School ends in March.","exTh":"โรงเรียนปิดเทอมในเดือนมีนาคม"}
+{"id":"pay_noun","th":"เงินเดือน; ค่าจ้าง; ค่าตอบแทน","ex":"The pay in this job is good.","exTh":"งานนี้ให้ค่าตอบแทนดี"}
+{"id":"pay_verb","th":"จ่าย; ชำระ; จ่ายเงิน","ex":"I will pay for lunch today.","exTh":"วันนี้ฉันจะเป็นคนจ่ายค่าข้าวเที่ยง","note":"รูปผันคือ paid, paid"}
+{"id":"review_noun","th":"รีวิว; บทวิจารณ์; การทบทวน","ex":"I read a review before I bought it.","exTh":"ฉันอ่านรีวิวก่อนซื้อ"}
+{"id":"read_verb","th":"อ่าน; อ่านหนังสือ","ex":"I read the news every morning.","exTh":"ฉันอ่านข่าวทุกเช้า","note":"รูปผันคือ read, read (ออกเสียงอดีตว่า เรด)"}
+{"id":"river_noun","th":"แม่น้ำ; ลำน้ำ","ex":"We had a picnic by the river.","exTh":"เราปิกนิกริมแม่น้ำ"}
+{"id":"reason_noun","th":"เหตุผล; สาเหตุ","ex":"What is the reason for the delay?","exTh":"สาเหตุที่ล่าช้าคืออะไร"}
+{"id":"church_noun","th":"โบสถ์; คริสตจักร","ex":"They go to church on Sundays.","exTh":"พวกเขาไปโบสถ์ทุกวันอาทิตย์"}
+{"id":"mind_noun","th":"ใจ; จิตใจ; ความคิด","ex":"Please keep an open mind.","exTh":"กรุณาเปิดใจกว้างไว้"}
+{"id":"language_noun","th":"ภาษา; ถ้อยคำ","ex":"English is a useful language.","exTh":"ภาษาอังกฤษเป็นภาษาที่มีประโยชน์"}
+{"id":"design_noun","th":"การออกแบบ; แบบ; ลวดลาย","ex":"I like the design of this chair.","exTh":"ฉันชอบการออกแบบของเก้าอี้ตัวนี้"}
+{"id":"practice_noun","th":"การฝึกฝน; การฝึกซ้อม; การปฏิบัติ","ex":"You need more practice.","exTh":"คุณต้องฝึกฝนให้มากขึ้น","note":"อังกฤษแบบอเมริกันใช้ practice เป็นทั้งนามและกริยา"}
+{"id":"practice_verb","th":"ฝึก; ฝึกซ้อม","ex":"I practice English with my friends.","exTh":"ฉันฝึกภาษาอังกฤษกับเพื่อนๆ","note":"อังกฤษแบบอังกฤษเขียนกริยาเป็น practise"}
+{"id":"science_noun","th":"วิทยาศาสตร์; ศาสตร์","ex":"Science is my favorite subject.","exTh":"วิทยาศาสตร์เป็นวิชาโปรดของฉัน"}
+{"id":"kind_noun","th":"ชนิด; ประเภท; แบบ","ex":"What kind of food do you like?","exTh":"คุณชอบอาหารประเภทไหน"}
+{"id":"near_prep","th":"ใกล้; ใกล้กับ","ex":"My house is near the park.","exTh":"บ้านของฉันอยู่ใกล้สวนสาธารณะ"}
+{"id":"rule_noun","th":"กฎ; กฎระเบียบ; ข้อบังคับ","ex":"Please follow the school rules.","exTh":"กรุณาปฏิบัติตามกฎของโรงเรียน"}
+{"id":"whose_det","th":"ของใคร","ex":"Whose bag is this?","exTh":"กระเป๋าใบนี้ของใคร"}
+{"id":"whose_pron","th":"ของใคร","ex":"I don't know whose it is.","exTh":"ฉันไม่รู้ว่าของใคร"}
+{"id":"size_noun","th":"ขนาด; ไซส์","ex":"What size shoes do you wear?","exTh":"คุณใส่รองเท้าไซส์อะไร"}
+{"id":"six_num","th":"หก; เลขหก","ex":"The class starts at six.","exTh":"ชั้นเรียนเริ่มตอนหกโมง"}
+{"id":"love_noun","th":"ความรัก; ความรักใคร่","ex":"She sent me her love.","exTh":"เธอฝากความรักมาให้ฉัน"}
+{"id":"love_verb","th":"รัก; ชอบมาก","ex":"I love my family very much.","exTh":"ฉันรักครอบครัวของฉันมาก"}
+{"id":"father_noun","th":"พ่อ; บิดา","ex":"My father cooks dinner on Sundays.","exTh":"พ่อของฉันทำอาหารเย็นทุกวันอาทิตย์"}
+{"id":"usually_adv","th":"โดยปกติ; มักจะ","ex":"I usually get up at six.","exTh":"ฉันมักตื่นตอนหกโมง"}
+{"id":"personal_adj","th":"ส่วนตัว; เฉพาะบุคคล","ex":"This is a personal question.","exTh":"นี่เป็นคำถามส่วนตัว"}
+{"id":"mean_verb","th":"หมายถึง; มีความหมายว่า; ตั้งใจ","ex":"What does this word mean?","exTh":"คำนี้แปลว่าอะไร","note":"รูปผันคือ meant, meant"}
+{"id":"art_noun","th":"ศิลปะ; งานศิลป์","ex":"She studies art at university.","exTh":"เธอเรียนศิลปะที่มหาวิทยาลัย"}
+{"id":"below_adv","th":"ข้างล่าง; ด้านล่าง","ex":"Please see the picture below.","exTh":"กรุณาดูรูปด้านล่าง"}
+{"id":"below_prep","th":"ใต้; ต่ำกว่า; ข้างล่าง","ex":"The temperature is below zero.","exTh":"อุณหภูมิต่ำกว่าศูนย์องศา"}
+{"id":"meeting_noun","th":"การประชุม; การพบปะ","ex":"I have a meeting at ten.","exTh":"ฉันมีประชุมตอนสิบโมง"}
+{"id":"ground_noun","th":"พื้น; พื้นดิน; ดิน","ex":"The ground is wet after the rain.","exTh":"พื้นเปียกหลังฝนตก"}
+{"id":"word_noun","th":"คำ; ถ้อยคำ","ex":"I don't know this word.","exTh":"ฉันไม่รู้จักคำนี้"}
+{"id":"page_noun","th":"หน้า; หน้ากระดาษ","ex":"Open your book to page ten.","exTh":"เปิดหนังสือไปที่หน้าสิบ"}
+{"id":"night_noun","th":"กลางคืน; ค่ำคืน; คืน","ex":"I sleep eight hours every night.","exTh":"ฉันนอนแปดชั่วโมงทุกคืน"}
+{"id":"thing_noun","th":"สิ่ง; ของ; เรื่อง","ex":"What is that thing on the table?","exTh":"สิ่งนั้นบนโต๊ะคืออะไร"}
+{"id":"call_noun","th":"โทรศัพท์; การโทร; การเรียก","ex":"I had a call from my mother.","exTh":"แม่โทรมาหาฉัน"}
+{"id":"believe_verb","th":"เชื่อ; เชื่อว่า; คิดว่า","ex":"I believe you.","exTh":"ฉันเชื่อคุณ"}
+{"id":"mother_noun","th":"แม่; มารดา","ex":"My mother is a good cook.","exTh":"แม่ของฉันทำอาหารเก่ง"}
+{"id":"close_adj","th":"ใกล้; สนิท; ใกล้ชิด","ex":"We are close friends.","exTh":"เราเป็นเพื่อนสนิทกัน","note":"adj ออกเสียง โคลส (s) ส่วนกริยา close ออกเสียง โคลซ (z)"}
+{"id":"close_verb","th":"ปิด; ปิดลง","ex":"Please close the door.","exTh":"ช่วยปิดประตูหน่อย"}
+{"id":"keep_verb","th":"เก็บ; เก็บไว้; รักษา","ex":"You can keep this pen.","exTh":"คุณเก็บปากกาด้ามนี้ไว้ได้เลย","note":"รูปผันคือ kept, kept"}
+{"id":"activity_noun","th":"กิจกรรม; การเคลื่อนไหว","ex":"Swimming is my favorite activity.","exTh":"การว่ายน้ำเป็นกิจกรรมโปรดของฉัน"}
+{"id":"april_noun","th":"เมษายน; เดือนเมษายน","ex":"It is very hot in April.","exTh":"เดือนเมษายนอากาศร้อนมาก"}
+{"id":"really_adv","th":"จริงๆ; มาก; อย่างแท้จริง","ex":"I really like this song.","exTh":"ฉันชอบเพลงนี้จริงๆ"}
+{"id":"king_noun","th":"กษัตริย์; พระราชา; ราชา","ex":"The king lived in a big palace.","exTh":"พระราชาทรงประทับในพระราชวังใหญ่"}
+{"id":"role_noun","th":"บทบาท; หน้าที่; บท (ในการแสดง)","ex":"She plays an important role in the team.","exTh":"เธอมีบทบาทสำคัญในทีม"}
+{"id":"january_noun","th":"มกราคม; เดือนมกราคม","ex":"The new year starts in January.","exTh":"ปีใหม่เริ่มต้นในเดือนมกราคม"}
+{"id":"tell_verb","th":"บอก; เล่า; สั่ง","ex":"Can you tell me the time?","exTh":"บอกเวลาให้ฉันหน่อยได้ไหม","note":"รูปผันคือ told, told"}
+{"id":"article_noun","th":"บทความ; ข้อความ; สิ่งของ","ex":"I read an interesting article online.","exTh":"ฉันอ่านบทความน่าสนใจบนอินเทอร์เน็ต"}
+{"id":"woman_noun","th":"ผู้หญิง; สตรี","ex":"The woman is waiting for a taxi.","exTh":"ผู้หญิงคนนั้นกำลังรอแท็กซี่","note":"พหูพจน์เป็น women (ออกเสียงว่า วิมมิน)"}
+{"id":"today_adv","th":"วันนี้; ในวันนี้","ex":"I am free today.","exTh":"วันนี้ฉันว่าง"}
+{"id":"today_noun","th":"วันนี้; ปัจจุบัน","ex":"Today is my birthday.","exTh":"วันนี้เป็นวันเกิดของฉัน"}
+{"id":"december_noun","th":"ธันวาคม; เดือนธันวาคม","ex":"It is cool in December.","exTh":"เดือนธันวาคมอากาศเย็น"}
+{"id":"library_noun","th":"ห้องสมุด; ที่เก็บหนังสือ","ex":"I study at the library after school.","exTh":"ฉันอ่านหนังสือที่ห้องสมุดหลังเลิกเรียน"}
+{"id":"living_adj","th":"มีชีวิต; ยังมีชีวิตอยู่","ex":"Plants are living things.","exTh":"พืชเป็นสิ่งมีชีวิต"}
+{"id":"saw_noun","th":"เลื่อย","ex":"He cut the wood with a saw.","exTh":"เขาตัดไม้ด้วยเลื่อย"}
+{"id":"fire_noun","th":"ไฟ; เพลิง; อัคคีภัย","ex":"Be careful with the fire.","exTh":"ระวังไฟด้วยนะ"}
+{"id":"letter_noun","th":"จดหมาย; ตัวอักษร","ex":"I wrote a letter to my friend.","exTh":"ฉันเขียนจดหมายถึงเพื่อน"}
+{"id":"heart_noun","th":"หัวใจ; ใจ","ex":"My heart beats fast when I run.","exTh":"หัวใจฉันเต้นเร็วเวลาวิ่ง"}
+{"id":"outside_adv","th":"ข้างนอก; ภายนอก","ex":"The children are playing outside.","exTh":"เด็กๆ กำลังเล่นอยู่ข้างนอก"}
+{"id":"red_adj","th":"แดง; สีแดง","ex":"She wore a red hat.","exTh":"เธอสวมหมวกสีแดง"}
+{"id":"late_adj","th":"สาย; ช้า; ดึก","ex":"The train is late today.","exTh":"วันนี้รถไฟมาช้า"}
+{"id":"late_adv","th":"สาย; ช้า; ดึก","ex":"I got up late this morning.","exTh":"เช้านี้ฉันตื่นสาย"}
+{"id":"code_noun","th":"รหัส; โค้ด; ประมวลกฎหมาย","ex":"Enter the code on your phone.","exTh":"กรอกรหัสที่อยู่บนโทรศัพท์ของคุณ"}
+{"id":"town_noun","th":"เมือง; ตัวเมือง; ชุมชน","ex":"I grew up in a small town.","exTh":"ฉันเติบโตในเมืองเล็กๆ"}
+{"id":"strong_adj","th":"แข็งแรง; เข้มแข็ง; แรง","ex":"He is strong enough to lift the box.","exTh":"เขาแข็งแรงพอที่จะยกกล่องนั้นได้"}
+{"id":"october_noun","th":"ตุลาคม; เดือนตุลาคม","ex":"The rainy season ends in October.","exTh":"ฤดูฝนสิ้นสุดในเดือนตุลาคม"}
+{"id":"soon_adv","th":"เร็วๆ นี้; ในไม่ช้า","ex":"See you soon!","exTh":"แล้วเจอกันเร็วๆ นี้นะ"}
+{"id":"sir_noun","th":"ท่าน; คุณ (คำเรียกผู้ชายอย่างสุภาพ)","ex":"Can I help you, sir?","exTh":"ให้ผมช่วยอะไรไหมครับท่าน","note":"คำเรียกสุภาพ ใช้กับผู้ชาย"}
+{"id":"list_noun","th":"รายการ; รายชื่อ; ลิสต์","ex":"I made a shopping list.","exTh":"ฉันทำรายการซื้อของไว้"}
+{"id":"hard_adj","th":"ยาก; แข็ง; ลำบาก","ex":"This test is very hard.","exTh":"ข้อสอบนี้ยากมาก"}
+{"id":"hard_adv","th":"อย่างหนัก; ขยันขันแข็ง","ex":"She works hard every day.","exTh":"เธอทำงานหนักทุกวัน"}
+{"id":"top_noun","th":"ยอด; ด้านบน; ส่วนบน","ex":"The cat is on the top of the cupboard.","exTh":"แมวอยู่บนยอดตู้"}
+{"id":"week_noun","th":"สัปดาห์; อาทิตย์","ex":"I go swimming twice a week.","exTh":"ฉันไปว่ายน้ำสัปดาห์ละสองครั้ง"}
+{"id":"september_noun","th":"กันยายน; เดือนกันยายน","ex":"School starts again in September.","exTh":"โรงเรียนเปิดเทอมใหม่ในเดือนกันยายน"}
+{"id":"feel_verb","th":"รู้สึก; สัมผัส; จับ","ex":"I feel happy today.","exTh":"วันนี้ฉันรู้สึกมีความสุข","note":"รูปผันคือ felt, felt"}
+{"id":"anything_pron","th":"อะไรก็ได้; สิ่งใดๆ; อะไร","ex":"Do you need anything?","exTh":"คุณต้องการอะไรไหม"}
+{"id":"difficult_adj","th":"ยาก; ลำบาก; ยุ่งยาก","ex":"English is difficult for me.","exTh":"ภาษาอังกฤษยากสำหรับฉัน"}
+{"id":"technology_noun","th":"เทคโนโลยี; วิทยาการ","ex":"Technology makes our life easier.","exTh":"เทคโนโลยีทำให้ชีวิตเราง่ายขึ้น"}
+{"id":"turn_noun","th":"ตา; รอบ; การเลี้ยว","ex":"It is your turn now.","exTh":"ตอนนี้ถึงตาคุณแล้ว"}
+{"id":"turn_verb","th":"หัน; เลี้ยว; เปลี่ยน","ex":"Turn right at the next street.","exTh":"เลี้ยวขวาที่ถนนสายหน้า"}
+{"id":"job_noun","th":"งาน; อาชีพ; หน้าที่","ex":"My brother has a new job.","exTh":"พี่ชายของฉันได้งานใหม่"}

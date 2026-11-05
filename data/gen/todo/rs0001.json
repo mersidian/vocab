@@ -1,0 +1,880 @@
+[
+{
+"id": "non_x",
+"w": "non",
+"gloss": [
+"Used to negate or invert the meaning of the following adjective. More properly written as the prefix non-.",
+"A non-Muslim citizen.",
+"A nonwhite person."
+]
+},
+{
+"id": "fig_x",
+"w": "fig",
+"gloss": [
+"The fruit of the fig tree, pear-shaped and containing many small seeds.",
+"A fruit-bearing tree or shrub of the genus Ficus that is native mainly to the tropics.",
+"The value of a fig, practically nothing; a fico; a whit."
+]
+},
+{
+"id": "lord_x",
+"w": "lord",
+"gloss": [
+"The master of the servants of a household; (historical) the master of a feudal manor",
+"The male head of a household, a father or husband.",
+"The owner of a house, piece of land, or other possession"
+]
+},
+{
+"id": "defendant_x",
+"w": "defendant",
+"gloss": [
+"Serving, or suitable, for defense; defensive, defending.",
+"In civil proceedings, the party responding to the complaint; one who is sued and called upon to make satisfaction for a wrong complained of by another.",
+"In criminal proceedings, the accused."
+]
+},
+{
+"id": "born_x",
+"w": "born",
+"gloss": [
+"Having from birth (or as if from birth) a certain quality or character; innate; inherited.",
+"A surname from English."
+]
+},
+{
+"id": "amendment_x",
+"w": "amendment",
+"gloss": [
+"An alteration or change for the better; correction of a fault or of faults; reformation of life by quitting vices.",
+"In public bodies, any alteration made or proposed to be made in a bill or motion that adds, changes, substitutes, or omits.",
+"Correction of an error in a writ or process."
+]
+},
+{
+"id": "plaintiff_x",
+"w": "plaintiff",
+"gloss": [
+"A party bringing a suit in civil law against a defendant; accuser."
+]
+},
+{
+"id": "ratio_x",
+"w": "ratio",
+"gloss": [
+"A number representing a comparison between two named things.",
+"The relative magnitudes of two quantities (usually expressed as a quotient).",
+"The number of comments to a post or other expression on social media relative to the number of likes; a high ratio suggests disagreement with the contents of the original post."
+]
+},
+{
+"id": "experimental_x",
+"w": "experimental",
+"gloss": [
+"Pertaining to or founded on experiment.",
+"Serving to be experimented upon; used in an experiment.",
+"Serving as an experiment; serving to experiment."
+]
+},
+{
+"id": "attorney_x",
+"w": "attorney",
+"gloss": [
+"A lawyer; one who advises or represents others in legal matters as a profession.",
+"An agent or representative authorized to act on someone else's behalf in accordance with that person's instructions.",
+"One such who practised in the courts of the common law."
+]
+},
+{
+"id": "respectively_x",
+"w": "respectively",
+"gloss": [
+"In a relative manner; often used when comparing array lists, where the term denotes that the items in the lists correspond to each other in the order they are given."
+]
+},
+{
+"id": "accordance_x",
+"w": "accordance",
+"gloss": [
+"Agreement; harmony; conformity; compliance.",
+"The act of granting something."
+]
+},
+{
+"id": "statute_x",
+"w": "statute",
+"gloss": [
+"A written law or ordinance passed by a legislative body.",
+"A rule of an organization or institution.",
+"A law or decree made by a sovereign, or by God."
+]
+},
+{
+"id": "subsequent_x",
+"w": "subsequent",
+"gloss": [
+"Following in time; coming or being after something else at any time, indefinitely.",
+"Following in order of place; succeeding.",
+"Following a line in the earth that is more easily eroded."
+]
+},
+{
+"id": "commissioner_x",
+"w": "commissioner",
+"gloss": [
+"One who commissions something.",
+"One commissioned to perform certain duties.",
+"A member of a commission."
+]
+},
+{
+"id": "pre_x",
+"w": "pre",
+"gloss": [
+"Before (something significant).",
+"The station code of Prince Edward in Hong Kong."
+]
+},
+{
+"id": "liability_x",
+"w": "liability",
+"gloss": [
+"An obligation, debt or responsibility owed to someone.",
+"Any kind of debt recorded on the right-hand side of a balance sheet.",
+"A handicap that holds something back, a drawback, someone or something that is a burden to whoever is required to take care of them; a person or action that exposes others to greater risk."
+]
+},
+{
+"id": "applicable_x",
+"w": "applicable",
+"gloss": [
+"Suitable for application; relevant."
+]
+},
+{
+"id": "sub_x",
+"w": "sub",
+"gloss": [
+"To substitute for.",
+"To work as a substitute teacher, especially in primary and secondary education.",
+"To replace (a player) with a substitute."
+]
+},
+{
+"id": "density_x",
+"w": "density",
+"gloss": [
+"A measure of the mass of matter contained by a unit volume.",
+"The ratio of one quantity, representing something of interest, to another quantity representing space, area, or extent in which the thing of interest is distributed.",
+"The probability that an outcome will fall into a given range, per unit of that range; the relative likelihood of possible values of a continuous random variable."
+]
+},
+{
+"id": "protein_x",
+"w": "protein",
+"gloss": [
+"Any of numerous large, complex naturally-produced molecules composed of one or more long chains of amino acids, in which the amino acid groups are held together by peptide bonds.",
+"One of three major classes of food or source of food energy (4 kcal/gram) abundant in animal-derived foods (meat) and some vegetables, such as legumes.",
+"A food rich in protein, often a meat or meat substitute."
+]
+},
+{
+"id": "equivalent_x",
+"w": "equivalent",
+"gloss": [
+"Similar or identical in value, meaning or effect; virtually equal.",
+"Of two sets, having a one-to-one correspondence.",
+"Relating to the corresponding elements of an equivalence relation."
+]
+},
+{
+"id": "parallel_x",
+"w": "parallel",
+"gloss": [
+"Equally distant from one another at all points.",
+"Having the same overall direction; the comparison is indicated with \"to\".",
+"Either not intersecting, or coinciding."
+]
+},
+{
+"id": "pursuant_x",
+"w": "pursuant",
+"gloss": [
+"That pursues.",
+"In conformance to, or in agreement with; used with to.",
+"Accordingly; consequently."
+]
+},
+{
+"id": "variable_x",
+"w": "variable",
+"gloss": [
+"Able to vary or be varied.",
+"Likely to vary.",
+"Marked by diversity or difference."
+]
+},
+{
+"id": "petition_x",
+"w": "petition",
+"gloss": [
+"A formal written request made by an individual or a group of people to a sovereign or political authority, often containing many signatures, soliciting some grace, right, mercy, or the redress of some wrong or grievance.",
+"A formal written application made to a magistrate or court for an order or a suit for divorce.",
+"A prayer or supplication, especially of which is formal or humble and made to a deity, a sovereign, or an authority."
+]
+},
+{
+"id": "machinery_x",
+"w": "machinery",
+"gloss": [
+"The machines constituting a production apparatus, in a plant etc., collectively.",
+"The working parts of a machine as a group.",
+"The collective parts of something which allow it to function."
+]
+},
+{
+"id": "ministry_x",
+"w": "ministry",
+"gloss": [
+"A government department at the administrative level, normally headed by a minister (or equivalent rank, e.g. secretary of state), who holds it as portfolio, especially in a constitutional monarchy, but also as a polity.",
+"The complete body of government ministers (whether or not they are in cabinet) under the leadership of a head of government (such as a prime minister)",
+"A ministration."
+]
+},
+{
+"id": "ought_x",
+"w": "ought",
+"gloss": [
+"Indicating duty or obligation.",
+"Indicating advisability or prudence.",
+"Indicating desirability."
+]
+},
+{
+"id": "chamber_x",
+"w": "chamber",
+"gloss": [
+"The private room of an individual, especially of someone wealthy or noble.",
+"A bedroom.",
+"The private office of a judge."
+]
+},
+{
+"id": "representation_x",
+"w": "representation",
+"gloss": [
+"That which represents something else.",
+"The act of representing.",
+"The appearance(s) of a particular demographic group in a piece of media, particularly in regards to how such appearances are treated."
+]
+},
+{
+"id": "statistical_x",
+"w": "statistical",
+"gloss": [
+"Of or pertaining to statistics."
+]
+},
+{
+"id": "mode_x",
+"w": "mode",
+"gloss": [
+"A particular means of accomplishing something.",
+"A state related to signals or vibrations.",
+"A wave pattern in the electromagnetic field."
+]
+},
+{
+"id": "municipal_x",
+"w": "municipal",
+"gloss": [
+"Of or pertaining to a municipality (a city or a corporation having the right of administering local government).",
+"Of or pertaining to the internal affairs of a nation.",
+"A financial instrument issued by a municipality (e.g., municipal bonds)."
+]
+},
+{
+"id": "exposure_x",
+"w": "exposure",
+"gloss": [
+"The condition of being exposed, uncovered, or unprotected.",
+"Lack of protection from weather or the elements.",
+"The act of exposing something, such as a scandal."
+]
+},
+{
+"id": "respondent_x",
+"w": "respondent",
+"gloss": [
+"One who responds; one who replies.",
+"A defendant, especially in a case instituted by a petition or in appellate and divorce proceedings.",
+"A person replying to a questionnaire."
+]
+},
+{
+"id": "appendix_x",
+"w": "appendix",
+"gloss": [
+"Something attached to something else; an attachment or accompaniment.",
+"A text added to the end of a book or an article, containing additional information.",
+"The vermiform appendix."
+]
+},
+{
+"id": "expenditure_x",
+"w": "expenditure",
+"gloss": [
+"Act of expending or paying out.",
+"The amount expended; expense; outlay."
+]
+},
+{
+"id": "implementation_x",
+"w": "implementation",
+"gloss": [
+"The process of moving an idea from concept to reality. In business, engineering and other fields, implementation refers to the building process rather than the design process.",
+"A result of implementing something; a finished product, system or device."
+]
+},
+{
+"id": "mid_x",
+"w": "mid",
+"gloss": [
+"Occupying a middle position; middle.",
+"Made with a somewhat elevated position of some certain part of the tongue, in relation to the palate; midway between the high and the low; said of certain vowel sounds, such as, [e o ɛ ɔ].",
+"Mediocre; of middling quality."
+]
+},
+{
+"id": "removal_x",
+"w": "removal",
+"gloss": [
+"The process of removing or the fact of being removed.",
+"The relocation of a business etc.",
+"The dismissal of someone from office."
+]
+},
+{
+"id": "distinct_x",
+"w": "distinct",
+"gloss": [
+"Capable of being perceived very clearly.",
+"Different from one another (with the preferable adposition being \"from\").",
+"Noticeably different from others; distinctive."
+]
+},
+{
+"id": "boundary_x",
+"w": "boundary",
+"gloss": [
+"The dividing line or location between two areas.",
+"The bounds, confines, or limits between immaterial things (such as one’s comfort zone, privacy, or professional sphere and the realm beyond).",
+"An edge or line marking an edge of the playing field."
+]
+},
+{
+"id": "enforcement_x",
+"w": "enforcement",
+"gloss": [
+"The act of enforcing; compulsion.",
+"A giving force to; a putting in execution.",
+"That which enforces, constraints, gives force, authority, or effect to; constraint; force applied."
+]
+},
+{
+"id": "judicial_x",
+"w": "judicial",
+"gloss": [
+"Of or relating to the administration of justice.",
+"Of or relating to the court system or the judicial branch of government.",
+"specified by a civil bill court under the terms of the Land Law (Ireland) Act, 1881"
+]
+},
+{
+"id": "constitutional_x",
+"w": "constitutional",
+"gloss": [
+"Belonging to, or inherent in, the constitution or structure of one's body or mind.",
+"For the benefit of one's constitution or health.",
+"Relating to the constitution or composition of something; essential, fundamental."
+]
+},
+{
+"id": "treasury_x",
+"w": "treasury",
+"gloss": [
+"A place where treasure is stored safely.",
+"A place where state or royal money and valuables are stored.",
+"A collection of artistic or literary works."
+]
+},
+{
+"id": "census_x",
+"w": "census",
+"gloss": [
+"An official count or enumeration of members of a population (not necessarily human), usually residents or citizens in a particular region, often done at regular intervals.",
+"The people being treated in a healthcare facility, clinic or program.",
+"Count, tally."
+]
+},
+{
+"id": "zero_x",
+"w": "zero",
+"gloss": [
+"The cardinal number occurring before one and that denotes no quantity or amount at all, represented in Arabic numerals as 0.",
+"The numeric symbol that represents the cardinal number zero.",
+"The digit 0 in the decimal, binary, and all other base numbering systems."
+]
+},
+{
+"id": "theoretical_x",
+"w": "theoretical",
+"gloss": [
+"Of or relating to theory; abstract; not empirical."
+]
+},
+{
+"id": "ex_x",
+"w": "ex",
+"gloss": [
+"The name of the Latin script letter X/x.",
+"To delete; to cross out.",
+"To extinguish the life of."
+]
+},
+{
+"id": "clay_x",
+"w": "clay",
+"gloss": [
+"A mineral substance made up of small crystals of silica and alumina, that is ductile when moist; the material of pre-fired ceramics.",
+"An earth material with ductile qualities.",
+"A tennis court surface made of crushed stone, brick, shale, or other unbound mineral aggregate."
+]
+},
+{
+"id": "patent_x",
+"w": "patent",
+"gloss": [
+"An official document granting an appointment, privilege, or right, or some property or title; letters patent.",
+"A grant of a monopoly over the manufacture, sale, and use of goods.",
+"A declaration issued by a government agency that the inventor of a new invention has the sole privilege of making, selling, or using the claimed invention for a specified period."
+]
+},
+{
+"id": "framework_x",
+"w": "framework",
+"gloss": [
+"A support structure comprising joined parts or conglomerated particles and intervening open spaces of similar or larger size.",
+"The arrangement of support beams that represent a building's general shape and size.",
+"The larger branches of a tree that determine its shape."
+]
+},
+{
+"id": "velocity_x",
+"w": "velocity",
+"gloss": [
+"A vector quantity that denotes the rate of change of position with respect to time, combining speed with a directional component.",
+"A rapidity of motion.",
+"The rate of occurrence."
+]
+},
+{
+"id": "ma_x",
+"w": "ma",
+"gloss": [
+"mother, mama",
+"The landlady of a theater.",
+"May."
+]
+},
+{
+"id": "subsection_x",
+"w": "subsection",
+"gloss": [
+"A defined part of a section.",
+"A subpart of a legal document such as law.",
+"An informal taxonomic category below section and above family."
+]
+},
+{
+"id": "jack_x",
+"w": "jack",
+"gloss": [
+"A coarse medieval coat of defence, especially one made of leather.",
+"A name applied to a hypothetical or typical man.",
+"A man, a fellow; a typical man; men in general."
+]
+},
+{
+"id": "ownership_x",
+"w": "ownership",
+"gloss": [
+"The state of having complete legal control of something; possession; proprietorship.",
+"Responsibility for or control over something."
+]
+},
+{
+"id": "namely_x",
+"w": "namely",
+"gloss": [
+"Specifically; that is to say.",
+"Especially, above all.",
+"Notable, distinguished; famous, renowned; well-known."
+]
+},
+{
+"id": "thermal_x",
+"w": "thermal",
+"gloss": [
+"Pertaining to heat or temperature.",
+"Providing efficient insulation so as to keep the body warm.",
+"Caused or brought about by heat."
+]
+},
+{
+"id": "intensity_x",
+"w": "intensity",
+"gloss": [
+"The quality of being intense.",
+"The degree of strength.",
+"Time-averaged energy flux (the ratio of average power to the area through which the power \"flows\"); irradiance."
+]
+},
+{
+"id": "collective_x",
+"w": "collective",
+"gloss": [
+"Formed by gathering or collecting; gathered into a mass, sum, or body.",
+"Tending to collect; forming a collection.",
+"Having plurality of origin or authority."
+]
+},
+{
+"id": "violation_x",
+"w": "violation",
+"gloss": [
+"An infraction or a failure to follow a rule.",
+"Rape; sexual activity forced on another person without their consent.",
+"An insult, especially a severe one."
+]
+},
+{
+"id": "matrix_x",
+"w": "matrix",
+"gloss": [
+"The cavity or mold in which anything is formed.",
+"The womb.",
+"The metaphorical place where something is made, formed, or given birth."
+]
+},
+{
+"id": "diagnosis_x",
+"w": "diagnosis",
+"gloss": [
+"The process of, or an instance of, identification of the nature and cause of a medical condition or illness.",
+"The process of, or an instance of, identification of the nature and cause of something (of any nature).",
+"A written description of a species or other taxon serving to distinguish that species from all others; especially a description written and published in Latin."
+]
+},
+{
+"id": "founded_x",
+"w": "founded",
+"gloss": [
+"Having a basis."
+]
+},
+{
+"id": "doctrine_x",
+"w": "doctrine",
+"gloss": [
+"A belief or tenet, especially about philosophical or theological matters.",
+"The body of teachings of an ideology, most often a religion, or of an ideological or religious leader, organization, group, or text.",
+"A self-imposed policy governing some aspect of a country's foreign relations, especially regarding what sort of behavior it will or will not tolerate from other countries."
+]
+},
+{
+"id": "thou_x",
+"w": "thou",
+"gloss": [
+"To address (a person) using the pronoun thou, especially as an expression of contempt or familiarity.",
+"To use the word thou.",
+"A unit of length equal to one thousandth of an inch (25.4 µm)."
+]
+},
+{
+"id": "administrator_x",
+"w": "administrator",
+"gloss": [
+"One who administers affairs; one who directs, manages, executes, or dispenses, whether in civil, judicial, political, or ecclesiastical affairs; a manager.",
+"A person who manages or settles the estate of an intestate, or of a testator when there is no competent executor; one to whom the right of administration has been committed by competent authority",
+"One who is responsible for software installation, management, information and maintenance of a computer or network."
+]
+},
+{
+"id": "communist_x",
+"w": "communist",
+"gloss": [
+"Of, relating to, supporting, or advocating communism.",
+"An advocate of a society based on the common ownership of property; a proponent of communism.",
+"Any revolutionary or subversive radical."
+]
+},
+{
+"id": "statutory_x",
+"w": "statutory",
+"gloss": [
+"Of, relating to, enacted or regulated by a statute."
+]
+},
+{
+"id": "surplus_x",
+"w": "surplus",
+"gloss": [
+"That which remains when use or need is satisfied, or when a limit is reached; excess; overplus; overage.",
+"Specifically, an amount in the public treasury at any time greater than is required for the ordinary purposes of the government.",
+"The remainder of a fund appropriated for a particular purpose."
+]
+},
+{
+"id": "payable_x",
+"w": "payable",
+"gloss": [
+"Due to be paid.",
+"Able to be paid.",
+"Of a mine etc.: capable of yielding profit; profitable."
+]
+},
+{
+"id": "amend_x",
+"w": "amend",
+"gloss": [
+"To make better; improve.",
+"To become better.",
+"To heal (someone sick); to cure (a disease etc.)."
+]
+},
+{
+"id": "sodium_x",
+"w": "sodium",
+"gloss": [
+"The chemical element (symbol Na) with an atomic number of 11 and atomic weight of 22.990. It is a soft, waxy, silvery, reactive alkali metal that is never found unbound in nature.",
+"An atom of this element.",
+"Employing sodium."
+]
+},
+{
+"id": "ion_x",
+"w": "ion",
+"gloss": [
+"An atom or group of atoms bearing an electrical charge, such as the sodium and chlorine atoms in a salt solution.",
+"I don't.",
+"Son of Creusa and Xuthus, and the ancestor of Ionian people."
+]
+},
+{
+"id": "subsequently_x",
+"w": "subsequently",
+"gloss": [
+"Following, afterwards in either time or place.",
+"Accordingly, therefore (implying a logical connection or deduction), consequently."
+]
+},
+{
+"id": "hydrogen_x",
+"w": "hydrogen",
+"gloss": [
+"The lightest chemical element (symbol H), with an atomic number of 1 and atomic weight of 1.008.",
+"An atom of this element.",
+"Molecular hydrogen (sense 1; symbol H₂), a colourless, odourless and flammable gas at room temperature."
+]
+},
+{
+"id": "hereby_x",
+"w": "hereby",
+"gloss": [
+"Near this place; nearby.",
+"By this means, action or process."
+]
+},
+{
+"id": "molecular_x",
+"w": "molecular",
+"gloss": [
+"Relating to, or consisting of, or produced by molecules.",
+"(of an element) Combined with itself and with no other element; elemental.",
+"Relating to a simple or basic structure or organization."
+]
+},
+{
+"id": "spectrum_x",
+"w": "spectrum",
+"gloss": [
+"A range; a continuous, infinite, one-dimensional set, possibly bounded by extremes.",
+"Specifically, a range of colours representing light (electromagnetic radiation) of contiguous frequencies; hence electromagnetic spectrum, visible spectrum, ultraviolet spectrum, etc.",
+"The autism spectrum."
+]
+},
+{
+"id": "plasma_x",
+"w": "plasma",
+"gloss": [
+"A state of matter consisting of partially ionized gas and electrons.",
+"A clear component of blood or lymph containing fibrin.",
+"A variety of green quartz, used in ancient times for making engraved ornaments."
+]
+},
+{
+"id": "taxation_x",
+"w": "taxation",
+"gloss": [
+"The act of imposing taxes and the fact of being taxed.",
+"A particular system of taxing people or companies",
+"The revenue gained from taxes."
+]
+},
+{
+"id": "nitrogen_x",
+"w": "nitrogen",
+"gloss": [
+"The chemical element (symbol N) with an atomic number of 7 and atomic weight of 14.0067. It is a colorless and odorless gas.",
+"Molecular nitrogen (diatomic nitrogen), N₂, a colorless, odorless gas at room temperature, which constitutes most of air (78% of it).",
+"A specific nitrogen atom within a chemical formula, or a specific isotope of nitrogen."
+]
+},
+{
+"id": "random_x",
+"w": "random",
+"gloss": [
+"A roving motion; course without definite direction; lack of rule or method; chance.",
+"Speed, full speed; impetuosity, force.",
+"The full range of a bullet or other projectile; hence, the angle at which a weapon is tilted to allow the greatest range."
+]
+},
+{
+"id": "absorption_x",
+"w": "absorption",
+"gloss": [
+"The act or process of absorbing or of being absorbed as,",
+"engulfing; swallowing up, as of bodies or land.",
+"assimilation; incorporation."
+]
+},
+{
+"id": "timber_x",
+"w": "timber",
+"gloss": [
+"Trees in a forest regarded as a source of wood.",
+"Wood that has been pre-cut and is ready for use in construction.",
+"A heavy wooden beam, generally a whole log that has been squared off and used to provide heavy support for something such as a roof."
+]
+},
+{
+"id": "freight_x",
+"w": "freight",
+"gloss": [
+"The transportation of goods (originally by water; now also (chiefly US) by land); also, the hiring of a vehicle or vessel for such transportation.",
+"Goods or items in transport; cargo, luggage.",
+"Payment for transportation."
+]
+},
+{
+"id": "domain_x",
+"w": "domain",
+"gloss": [
+"A geographic area owned or controlled by a single person or organization.",
+"A field or sphere of activity, influence or expertise.",
+"A group of related items, topics, or subjects."
+]
+},
+{
+"id": "optical_x",
+"w": "optical",
+"gloss": [
+"Of or relating to sight; visual.",
+"Designed to assist or enhance sight",
+"Of or relating to optics."
+]
+},
+{
+"id": "valve_x",
+"w": "valve",
+"gloss": [
+"A device that controls the flow of a gas or fluid through a space, such as a pipe, manifold, or plenum.",
+"Such a device that admits fuel and air into the cylinder of an internal combustion engine, or one that allows combustion gases to exit.",
+"One or more membranous partitions, flaps, or folds, which permit the passage of the contents of a vessel or cavity in one direction, but stop or control the flow in the opposite direction."
+]
+},
+{
+"id": "liable_x",
+"w": "liable",
+"gloss": [
+"Bound or obliged in law or equity; responsible; answerable.",
+"Subject; susceptible; prone.",
+"Exposed to a certain contingency or causality, more or less probable."
+]
+},
+{
+"id": "respective_x",
+"w": "respective",
+"gloss": [
+"Relating to particular persons or things, each to each; particular; own.",
+"Noticing with attention; careful; wary.",
+"Looking toward; having reference to; relative, not absolute."
+]
+},
+{
+"id": "adjacent_x",
+"w": "adjacent",
+"gloss": [
+"Lying next to, close, or contiguous; neighboring; bordering on.",
+"Just before, after, or facing.",
+"Related to; suggestive of; bordering on."
+]
+},
+{
+"id": "trans_x",
+"w": "trans",
+"gloss": [
+"In (or constituting, forming, or describing) a double bond in which the greater radical on both ends is on the opposite side of the bond.",
+"In (or constituting, forming, or describing) a coordination compound in which the two instances of a particular ligand are on opposite sides of the central atom.",
+"Of the side of the Golgi apparatus farther from the endoplasmic reticulum."
+]
+},
+{
+"id": "app_x",
+"w": "app",
+"gloss": [
+"A surname from German.",
+"An application (program), especially a small one designed for a mobile device.",
+"application (use, purpose; not a computer program)"
+]
+},
+{
+"id": "unity_x",
+"w": "unity",
+"gloss": [
+"Oneness: the state or fact of being one undivided entity.",
+"Agreement; harmony.",
+"A single undivided thing, seen as complete in itself."
+]
+},
+{
+"id": "intervention_x",
+"w": "intervention",
+"gloss": [
+"The action of intervening; interfering in some course of events.",
+"A legal motion through which a person or entity who has not been named as a party to a case seeks to have the court order that they be made a party.",
+"An orchestrated attempt to convince somebody with an addiction or other psychological problem to seek professional help and/or change their behavior."
+]
+},
+{
+"id": "transaction_x",
+"w": "transaction",
+"gloss": [
+"The act of conducting or carrying out (business, negotiations, plans).",
+"A deal or business agreement.",
+"An exchange or trade, as of ideas, money, goods, etc.; personal interaction."
+]
+}
+]

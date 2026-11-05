@@ -1,0 +1,802 @@
+[
+{
+"id": "lift-one-s-game_idiom",
+"w": "lift one's game",
+"kind": "idiom",
+"gloss": [
+"To improve one's performance through practice or additional effort."
+]
+},
+{
+"id": "on-a-lark_idiom",
+"w": "on a lark",
+"kind": "idiom",
+"gloss": [
+"In a frolicky or frivolous manner; on a whim."
+]
+},
+{
+"id": "that-s-your-lot_idiom",
+"w": "that's your lot",
+"kind": "idiom",
+"gloss": [
+"That is the end; there is no more; that's it; that's all"
+]
+},
+{
+"id": "bend-to-someone-s-will_idiom",
+"w": "bend to someone's will",
+"kind": "idiom",
+"gloss": [
+"To yield to persuasion or other pressure originating from someone."
+]
+},
+{
+"id": "bend-to-one-s-will_idiom",
+"w": "bend to one's will",
+"kind": "idiom",
+"gloss": [
+"To compel someone or something to conform to one's desires."
+]
+},
+{
+"id": "bend-someone-s-will_idiom",
+"w": "bend someone's will",
+"kind": "idiom",
+"gloss": [
+"To persuade or otherwise induce someone to change his or her views or to choose a different course of action."
+]
+},
+{
+"id": "take-a-walkout-powder_idiom",
+"w": "take a walkout powder",
+"kind": "idiom",
+"gloss": [
+"Synonym of take a powder (“to depart in a hurry”)."
+]
+},
+{
+"id": "light-bulb-moment_idiom",
+"w": "light-bulb moment",
+"kind": "idiom",
+"gloss": [
+"A moment of enlightenment, inspiration or sudden realization."
+]
+},
+{
+"id": "get-off-the-mark_idiom",
+"w": "get off the mark",
+"kind": "idiom",
+"gloss": [
+"To score one's first points"
+]
+},
+{
+"id": "slow-off-the-mark_idiom",
+"w": "slow off the mark",
+"kind": "idiom",
+"gloss": [
+"slow to act or react"
+]
+},
+{
+"id": "cut-the-cord_idiom",
+"w": "cut the cord",
+"kind": "idiom",
+"gloss": [
+"To end a child's overdependence on or overattachment to their parents."
+]
+},
+{
+"id": "thud-and-blunder_idiom",
+"w": "thud and blunder",
+"kind": "idiom",
+"gloss": [
+"An adventure or active endeavor that is characterized by, often humorous, errors."
+]
+},
+{
+"id": "heavy-with-child_idiom",
+"w": "heavy with child",
+"kind": "idiom",
+"gloss": [
+"visibly pregnant"
+]
+},
+{
+"id": "kick-loose_idiom",
+"w": "kick loose",
+"kind": "idiom",
+"gloss": [
+"to give someone the freedom to do what they want"
+]
+},
+{
+"id": "be-the-bigger-man_idiom",
+"w": "be the bigger man",
+"kind": "idiom",
+"gloss": [
+"To walk away from a conflict to prevent it from escalating."
+]
+},
+{
+"id": "in-a-snap_idiom",
+"w": "in a snap",
+"kind": "idiom",
+"gloss": [
+"At once, almost immediately, very quickly or suddenly."
+]
+},
+{
+"id": "cut-one-s-cloth-to-suit-one-s-purse_idiom",
+"w": "cut one's cloth to suit one's purse",
+"kind": "idiom",
+"gloss": [
+"To settle for less when money or resources are limited."
+]
+},
+{
+"id": "high-on-the-totem-pole_idiom",
+"w": "high on the totem pole",
+"kind": "idiom",
+"gloss": [
+"Accorded relatively high importance."
+]
+},
+{
+"id": "put-a-bug-in-someone-s-ear_idiom",
+"w": "put a bug in someone's ear",
+"kind": "idiom",
+"gloss": [
+"To make a small suggestion or give a hint that causes the listener to act."
+]
+},
+{
+"id": "set-one-s-watch-by-someone_idiom",
+"w": "set one's watch by someone",
+"kind": "idiom",
+"gloss": [
+"To know the current time by observing a very punctual and reliable person going about their regular routine."
+]
+},
+{
+"id": "four-minute-warning_idiom",
+"w": "four-minute warning",
+"kind": "idiom",
+"gloss": [
+"A UK government public alert system in use during the Cold War to advise of an imminent nuclear attack."
+]
+},
+{
+"id": "golden-thread_idiom",
+"w": "golden thread",
+"kind": "idiom",
+"gloss": [
+"A common theme or idea."
+]
+},
+{
+"id": "doomed-if-you-do-doomed-if-you-don-t_idiom",
+"w": "doomed if you do, doomed if you don't",
+"kind": "idiom",
+"gloss": [
+"A situation where either choice results in a negative outcome; dilemma."
+]
+},
+{
+"id": "has-left-the-building_idiom",
+"w": "has left the building",
+"kind": "idiom",
+"gloss": [
+"(Someone or something) is gone and never coming back."
+]
+},
+{
+"id": "strain-at-a-gnat_idiom",
+"w": "strain at a gnat",
+"kind": "idiom",
+"gloss": [
+"to make a mountain out of a molehill"
+]
+},
+{
+"id": "take-a-fancy-to_idiom",
+"w": "take a fancy to",
+"kind": "idiom",
+"gloss": [
+"To become fond of someone or something."
+]
+},
+{
+"id": "go-hard-with-someone_idiom",
+"w": "go hard with someone",
+"kind": "idiom",
+"gloss": [
+"To lead to someone suffering; to place someone in difficulty or danger."
+]
+},
+{
+"id": "beat-the-crowd_idiom",
+"w": "beat the crowd",
+"kind": "idiom",
+"gloss": [
+"To arrive at a location or complete a task before a large group of people do so."
+]
+},
+{
+"id": "give-a-hang_idiom",
+"w": "give a hang",
+"kind": "idiom",
+"gloss": [
+"give a hoot; give a damn (to care about; to place value on something)"
+]
+},
+{
+"id": "no-skin-off-one-s-teeth_idiom",
+"w": "no skin off one's teeth",
+"kind": "idiom",
+"gloss": [
+"Of no consequence to one."
+]
+},
+{
+"id": "fall-on-a-grenade_idiom",
+"w": "fall on a grenade",
+"kind": "idiom",
+"gloss": [
+"To sacrifice oneself for the sake of others."
+]
+},
+{
+"id": "compare-notes_idiom",
+"w": "compare notes",
+"kind": "idiom",
+"gloss": [
+"To exchange information and ideas about related experiences."
+]
+},
+{
+"id": "live-and-die-by_idiom",
+"w": "live and die by",
+"kind": "idiom",
+"gloss": [
+"Be completely reliant upon."
+]
+},
+{
+"id": "magic-box_idiom",
+"w": "magic box",
+"kind": "idiom",
+"gloss": [
+"Television."
+]
+},
+{
+"id": "grease-the-skids_idiom",
+"w": "grease the skids",
+"kind": "idiom",
+"gloss": [
+"To create conditions likely to produce or hasten favorable future developments."
+]
+},
+{
+"id": "play-the-mischief-with_idiom",
+"w": "play the mischief with",
+"kind": "idiom",
+"gloss": [
+"Synonym of play the devil with."
+]
+},
+{
+"id": "new-wine-in-an-old-wineskin_idiom",
+"w": "new wine in an old wineskin",
+"kind": "idiom",
+"gloss": [
+"Synonym of new wine in an old bottle."
+]
+},
+{
+"id": "sick-to-the-back-teeth_idiom",
+"w": "sick to the back teeth",
+"kind": "idiom",
+"gloss": [
+"Extremely annoyed, fed up, tired (of or with something)."
+]
+},
+{
+"id": "blow-town_idiom",
+"w": "blow town",
+"kind": "idiom",
+"gloss": [
+"To suddenly leave one's residence."
+]
+},
+{
+"id": "king-of-all-one-surveys_idiom",
+"w": "king of all one surveys",
+"kind": "idiom",
+"gloss": [
+"Possessing governing authority over a range of territory; having decisive control or oversight over all major matters within one's ambit of influence; having a satisfying position of respected leadership or comfortable prestige."
+]
+},
+{
+"id": "skinny-minnie_idiom",
+"w": "skinny Minnie",
+"kind": "idiom",
+"gloss": [
+"A person having a thin physical build."
+]
+},
+{
+"id": "down-tools_idiom",
+"w": "down tools",
+"kind": "idiom",
+"gloss": [
+"To stop work, especially when taking industrial action."
+]
+},
+{
+"id": "drinks-o-clock_idiom",
+"w": "drinks o'clock",
+"kind": "idiom",
+"gloss": [
+"The time to begin social drinking."
+]
+},
+{
+"id": "strike-a-false-note_idiom",
+"w": "strike a false note",
+"kind": "idiom",
+"gloss": [
+"To give the impression of being insincere, incongruous or inappropriate."
+]
+},
+{
+"id": "put-a-lid-on_idiom",
+"w": "put a lid on",
+"kind": "idiom",
+"gloss": [
+"To get under control, to prevent (something) from increasing or becoming more of a problem."
+]
+},
+{
+"id": "get-a-line-on_idiom",
+"w": "get a line on",
+"kind": "idiom",
+"gloss": [
+"To obtain information about someone or something."
+]
+},
+{
+"id": "write-for-the-drawer_idiom",
+"w": "write for the drawer",
+"kind": "idiom",
+"gloss": [
+"To write a work for posterity or for friends that one cannot publish except as samizdat."
+]
+},
+{
+"id": "smell-like-a-tart-s-handbag_idiom",
+"w": "smell like a tart's handbag",
+"kind": "idiom",
+"gloss": [
+"To smell strongly of perfume."
+]
+},
+{
+"id": "in-the-pipeline_idiom",
+"w": "in the pipeline",
+"kind": "idiom",
+"gloss": [
+"Scheduled to occur in the future."
+]
+},
+{
+"id": "split-the-baby_idiom",
+"w": "split the baby",
+"kind": "idiom",
+"gloss": [
+"To resolve a dispute in a way that is disadvantageous to both parties."
+]
+},
+{
+"id": "take-the-initiative_idiom",
+"w": "take the initiative",
+"kind": "idiom",
+"gloss": [
+"to take action first or on one's own; to make the first move"
+]
+},
+{
+"id": "double-in-brass_idiom",
+"w": "double in brass",
+"kind": "idiom",
+"gloss": [
+"To perform two or more tasks within the same project or organization."
+]
+},
+{
+"id": "overstep-the-mark_idiom",
+"w": "overstep the mark",
+"kind": "idiom",
+"gloss": [
+"To behave in an unacceptable or morally reprehensible way."
+]
+},
+{
+"id": "strangle-the-parrot_idiom",
+"w": "strangle the parrot",
+"kind": "idiom",
+"gloss": [
+"To switch off the transponder, for example, because it is interfering with the radar system."
+]
+},
+{
+"id": "up-the-boohai_idiom",
+"w": "up the boohai",
+"kind": "idiom",
+"gloss": [
+"Utterly and completely lost; lost in a remote location."
+]
+},
+{
+"id": "let-s-get-this-circus-on-the-road_idiom",
+"w": "let's get this circus on the road",
+"kind": "idiom",
+"gloss": [
+"Let's start; let's begin (a journey, undertaking, etc.)."
+]
+},
+{
+"id": "go-fish_idiom",
+"w": "go fish",
+"kind": "idiom",
+"gloss": [
+"No, as a firm negative response."
+]
+},
+{
+"id": "on-the-lines-of_idiom",
+"w": "on the lines of",
+"kind": "idiom",
+"gloss": [
+"Similar to, but not exactly equal."
+]
+},
+{
+"id": "price-of-eggs_idiom",
+"w": "price of eggs",
+"kind": "idiom",
+"gloss": [
+"Something that is relevant or important, usually used to emphasize that another, compared thing is irrelevant, unimportant, or non sequitur."
+]
+},
+{
+"id": "movie-jail_idiom",
+"w": "movie jail",
+"kind": "idiom",
+"gloss": [
+"A state of derailment of a career or limited opportunities to which a film industry professional is seemingly relegated, usually as a result of making an unsuccessful film."
+]
+},
+{
+"id": "on-the-cusp_idiom",
+"w": "on the cusp",
+"kind": "idiom",
+"gloss": [
+"on the point of a significant transformation, ascendance, etc."
+]
+},
+{
+"id": "put-one-s-shoulder-into_idiom",
+"w": "put one's shoulder into",
+"kind": "idiom",
+"gloss": [
+"To make a strenuous effort to do (something); to put one's back into (something)."
+]
+},
+{
+"id": "keep-the-lights-on_idiom",
+"w": "keep the lights on",
+"kind": "idiom",
+"gloss": [
+"To maintain operating expenses for a business."
+]
+},
+{
+"id": "scrape-someone-off-the-ceiling_idiom",
+"w": "scrape someone off the ceiling",
+"kind": "idiom",
+"gloss": [
+"Used to describe the response to someone who is either experiencing great pain, who is very frightened, or is very elated."
+]
+},
+{
+"id": "dig-one-s-heels-in_idiom",
+"w": "dig one's heels in",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see dig, heel, in."
+]
+},
+{
+"id": "wouldn-t-be-seen-dead_idiom",
+"w": "wouldn't be seen dead",
+"kind": "idiom",
+"gloss": [
+"To find incredibly horrifying; embarrassing or otherwise entirely unsuitable for oneself."
+]
+},
+{
+"id": "shut-my-mouth_idiom",
+"w": "shut my mouth",
+"kind": "idiom",
+"gloss": [
+"An exclamation of surprise or astonishment."
+]
+},
+{
+"id": "i-ll-tell-you_idiom",
+"w": "I'll tell you",
+"kind": "idiom",
+"gloss": [
+"Synonym of I can tell you."
+]
+},
+{
+"id": "get-out-the-vote_idiom",
+"w": "get out the vote",
+"kind": "idiom",
+"gloss": [
+"To increase voter turnout, typically in a highly partisan way."
+]
+},
+{
+"id": "hit-like-a-ton-of-bricks_idiom",
+"w": "hit like a ton of bricks",
+"kind": "idiom",
+"gloss": [
+"To have a sudden and significant emotional impact."
+]
+},
+{
+"id": "be-one-s-own-man_idiom",
+"w": "be one's own man",
+"kind": "idiom",
+"gloss": [
+"To behave independently without the influence of others."
+]
+},
+{
+"id": "hang-over-someone-s-head_idiom",
+"w": "hang over someone's head",
+"kind": "idiom",
+"gloss": [
+"To threaten (someone); to act as a constant preoccupation for (someone)."
+]
+},
+{
+"id": "couldn-t-be-more-different_idiom",
+"w": "couldn't be more different",
+"kind": "idiom",
+"gloss": [
+"Two entities that have virtually nothing in common."
+]
+},
+{
+"id": "jerkin-the-gherkin_idiom",
+"w": "jerkin the gherkin",
+"kind": "idiom",
+"gloss": [
+"Masturbation."
+]
+},
+{
+"id": "throw-a-monkey-wrench-into-the-works_idiom",
+"w": "throw a monkey wrench into the works",
+"kind": "idiom",
+"gloss": [
+"Synonym of throw a spanner into the works."
+]
+},
+{
+"id": "tough-sledding_idiom",
+"w": "tough sledding",
+"kind": "idiom",
+"gloss": [
+"A situation in which it is difficult to proceed."
+]
+},
+{
+"id": "knock-down-a-peg_idiom",
+"w": "knock down a peg",
+"kind": "idiom",
+"gloss": [
+"Synonym of take down a notch."
+]
+},
+{
+"id": "holy-doodle_idiom",
+"w": "holy doodle",
+"kind": "idiom",
+"gloss": [
+"An expression of surprise."
+]
+},
+{
+"id": "beat-the-odds_idiom",
+"w": "beat the odds",
+"kind": "idiom",
+"gloss": [
+"To succeed despite being unlikely to do so."
+]
+},
+{
+"id": "built-like-a-brick-shipyard_idiom",
+"w": "built like a brick shipyard",
+"kind": "idiom",
+"gloss": [
+"Synonym of built like a brick shithouse."
+]
+},
+{
+"id": "have-one-s-wig-snatched_idiom",
+"w": "have one's wig snatched",
+"kind": "idiom",
+"gloss": [
+"To be shocked or stunned."
+]
+},
+{
+"id": "i-tell-you_idiom",
+"w": "I tell you",
+"kind": "idiom",
+"gloss": [
+"Synonym of I can tell you."
+]
+},
+{
+"id": "university-of-the-streets_idiom",
+"w": "university of the streets",
+"kind": "idiom",
+"gloss": [
+"Synonym of school of hard knocks."
+]
+},
+{
+"id": "come-out-of-the-broom-closet_idiom",
+"w": "come out of the broom closet",
+"kind": "idiom",
+"gloss": [
+"To publicly reveal that one is a Wiccan or some other type of neopagan."
+]
+},
+{
+"id": "on-the-hush_idiom",
+"w": "on the hush",
+"kind": "idiom",
+"gloss": [
+"Secretly; in secret."
+]
+},
+{
+"id": "ride-on-the-back-of_idiom",
+"w": "ride on the back of",
+"kind": "idiom",
+"gloss": [
+"To make use of; to take advantage of."
+]
+},
+{
+"id": "bring-down-the-curtain_idiom",
+"w": "bring down the curtain",
+"kind": "idiom",
+"gloss": [
+"To bring something to an end."
+]
+},
+{
+"id": "suit-the-action-to-the-word_idiom",
+"w": "suit the action to the word",
+"kind": "idiom",
+"gloss": [
+"To do what one has just proposed or spoken of."
+]
+},
+{
+"id": "save-someone-s-face_idiom",
+"w": "save someone's face",
+"kind": "idiom",
+"gloss": [
+"to preserve someone's pride, especially as defined by customary social settings."
+]
+},
+{
+"id": "unicorn-vomit_idiom",
+"w": "unicorn vomit",
+"kind": "idiom",
+"gloss": [
+"Something extremely colorful, sweet, or cloying."
+]
+},
+{
+"id": "reign-supreme_idiom",
+"w": "reign supreme",
+"kind": "idiom",
+"gloss": [
+"To be the most important or most prevalent."
+]
+},
+{
+"id": "take-the-front-seat_idiom",
+"w": "take the front seat",
+"kind": "idiom",
+"gloss": [
+"to take priority"
+]
+},
+{
+"id": "unicorn-puke_idiom",
+"w": "unicorn puke",
+"kind": "idiom",
+"gloss": [
+"Synonym of unicorn vomit."
+]
+},
+{
+"id": "shock-to-the-system_idiom",
+"w": "shock to the system",
+"kind": "idiom",
+"gloss": [
+"something that has a sudden and usually unpleasant effect on someone."
+]
+},
+{
+"id": "old-stager_idiom",
+"w": "old stager",
+"kind": "idiom",
+"gloss": [
+"A veteran; an experienced person."
+]
+},
+{
+"id": "peep-of-day_idiom",
+"w": "peep of day",
+"kind": "idiom",
+"gloss": [
+"The very beginning of the day; the crack of dawn; daybreak, dawn."
+]
+},
+{
+"id": "now-for_idiom",
+"w": "now for",
+"kind": "idiom",
+"gloss": [
+"Used to introduce something that is to occur or be presented next."
+]
+},
+{
+"id": "clap-eyes-on_idiom",
+"w": "clap eyes on",
+"kind": "idiom",
+"gloss": [
+"To see; to lay eyes on."
+]
+},
+{
+"id": "call-it-stumps_idiom",
+"w": "call it stumps",
+"kind": "idiom",
+"gloss": [
+"To decide to end an activity; to call it a day."
+]
+},
+{
+"id": "give-someone-grey-hair_idiom",
+"w": "give someone grey hair",
+"kind": "idiom",
+"gloss": [
+"To give someone great frustration, confusion, or anxiousness."
+]
+}
+]

@@ -1,0 +1,881 @@
+[
+{
+"id": "full-of-beans_idiom",
+"w": "full of beans",
+"kind": "idiom",
+"gloss": [
+"Energetic and enthusiastic.",
+"Incorrect; uninformed; exaggerating or expressing falsehood."
+]
+},
+{
+"id": "shacked-up_idiom",
+"w": "shacked up",
+"kind": "idiom",
+"gloss": [
+"Sharing a small room or accommodation between many (often too many) people",
+"(of a couple) Sharing a house, but not married."
+]
+},
+{
+"id": "meet-one-s-maker_idiom",
+"w": "meet one's maker",
+"kind": "idiom",
+"gloss": [
+"To die or to pass into the afterlife."
+]
+},
+{
+"id": "out-the-window_idiom",
+"w": "out the window",
+"kind": "idiom",
+"gloss": [
+"Made obsolete; altered drastically as a result of situational change.",
+"Gone; departed; disappeared."
+]
+},
+{
+"id": "shoot-one-s-bolt_idiom",
+"w": "shoot one's bolt",
+"kind": "idiom",
+"gloss": [
+"To use up one's resources, especially a singular one or one not readily restored.",
+"Of a male, to ejaculate."
+]
+},
+{
+"id": "blue-ribbon_idiom",
+"w": "blue ribbon",
+"kind": "idiom",
+"gloss": [
+"Highly superior in quality, style, substance, prestige, etc.",
+"Pertaining to the Liberal Party, its supporters and regions."
+]
+},
+{
+"id": "give-someone-the-heave-ho_idiom",
+"w": "give someone the heave-ho",
+"kind": "idiom",
+"gloss": [
+"To fire, expel or break up with someone.",
+"To eject a player or manager from the game."
+]
+},
+{
+"id": "waste-of-space_idiom",
+"w": "waste of space",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see waste, of, space.",
+"An utterly worthless person; one who, as it were, is unworthy of the space which they occupy."
+]
+},
+{
+"id": "sweeten-the-pot_idiom",
+"w": "sweeten the pot",
+"kind": "idiom",
+"gloss": [
+"To increase a wager.",
+"To make something more desirable."
+]
+},
+{
+"id": "stock-phrase_idiom",
+"w": "stock phrase",
+"kind": "idiom",
+"gloss": [
+"A phrase frequently or habitually used by a person or group, and thus associated with them.",
+"A cliché."
+]
+},
+{
+"id": "say-again_idiom",
+"w": "say again",
+"kind": "idiom",
+"gloss": [
+"\"What did you say?\" or \"Repeat what you have said.\" A polite formula used when one has not heard or understood what has been said.",
+"To repeat part of or entire message transmitted over the radio, used instead of \"repeat\" which is an artillery procedure word."
+]
+},
+{
+"id": "bet-the-farm_idiom",
+"w": "bet the farm",
+"kind": "idiom",
+"gloss": [
+"To be absolutely certain, to have no doubts.",
+"To make a substantial wager or risk."
+]
+},
+{
+"id": "go-off-at-score_idiom",
+"w": "go off at score",
+"kind": "idiom",
+"gloss": [
+"To break suddenly into a gallop.",
+"To suddenly say or do something impetuous."
+]
+},
+{
+"id": "go-by-the-board_idiom",
+"w": "go by the board",
+"kind": "idiom",
+"gloss": [
+"To fall or to go overboard; to be cast over the side of a ship.",
+"To be superseded, rejected, or obliterated; to pass by with little consequence; to amount to nothing."
+]
+},
+{
+"id": "talk-dirty_idiom",
+"w": "talk dirty",
+"kind": "idiom",
+"gloss": [
+"To use profane language, especially sexual vulgarities for the purpose of arousal."
+]
+},
+{
+"id": "close-enough-for-government-work_idiom",
+"w": "close enough for government work",
+"kind": "idiom",
+"gloss": [
+"Adequate; acceptable as government work, imperfect but not worth the time nor effort of improving.",
+"Acceptable; equivalent to government work, neither worse nor better."
+]
+},
+{
+"id": "hit-the-rocks_idiom",
+"w": "hit the rocks",
+"kind": "idiom",
+"gloss": [
+"To reach a low point in one's pursuits."
+]
+},
+{
+"id": "two-for-two_idiom",
+"w": "two for two",
+"kind": "idiom",
+"gloss": [
+"In baseball, meeting two out of two attempts at-bat. Specifically, it means the batter has reached base safely two out of two times.",
+"Successful at both of two efforts."
+]
+},
+{
+"id": "parting-shot_idiom",
+"w": "parting shot",
+"kind": "idiom",
+"gloss": [
+"An insult or barbed comment issued as the speaker departs or the conversation comes to an end."
+]
+},
+{
+"id": "dusty-miller_idiom",
+"w": "dusty miller",
+"kind": "idiom",
+"gloss": [
+"A formulaic phrase for a miller, related to the dust generated in the milling process.",
+"Any of several species of plants with leaves of a dusty appearance: Centaurea cineraria, Jacobaea maritima, Artemisia stelleriana, Spyridium parvifolium, and Silene coronaria, syn. Lychnis coronaria."
+]
+},
+{
+"id": "fight-a-losing-battle_idiom",
+"w": "fight a losing battle",
+"kind": "idiom",
+"gloss": [
+"To continue to wage war when it is clear that one is not going to win.",
+"To attempt a task or other endeavor in which there is no chance that it will succeed."
+]
+},
+{
+"id": "cat-and-dog-life_idiom",
+"w": "cat and dog life",
+"kind": "idiom",
+"gloss": [
+"An unhappy married life marked by arguments and disagreements."
+]
+},
+{
+"id": "800-pound-gorilla_idiom",
+"w": "800-pound gorilla",
+"kind": "idiom",
+"gloss": [
+"An entity that dominates its environment.",
+"Something dangerous, menacing, or frightening that is obvious but not addressed."
+]
+},
+{
+"id": "catch-hell_idiom",
+"w": "catch hell",
+"kind": "idiom",
+"gloss": [
+"To be severely reprimanded, punished, or beaten.",
+"To experience troubling or difficult times."
+]
+},
+{
+"id": "two-fisted-drinker_idiom",
+"w": "two-fisted drinker",
+"kind": "idiom",
+"gloss": [
+"Someone who can handle their liquor well",
+"A person clutching a drink in each hand."
+]
+},
+{
+"id": "accident-of-birth_idiom",
+"w": "accident of birth",
+"kind": "idiom",
+"gloss": [
+"A fact, situation, or personal characteristic, which may be desirable or undesirable, resulting from the circumstances into which a person was born, and which is therefore entirely beyond their control."
+]
+},
+{
+"id": "drink-from-a-firehose_idiom",
+"w": "drink from a firehose",
+"kind": "idiom",
+"gloss": [
+"To be overwhelmed (with work, information, etc.); to be inundated with an unrestricted or unfiltered amount.",
+"To take a small amount from an enormous, hard-to-manage quantity."
+]
+},
+{
+"id": "blame-canada_idiom",
+"w": "blame Canada",
+"kind": "idiom",
+"gloss": [
+"A catch phrase for shifting attention away from a problem or serious social issue by humorously laying responsibility on Canada.",
+"Used other than figuratively or idiomatically: see blame, Canada."
+]
+},
+{
+"id": "get-better_idiom",
+"w": "get better",
+"kind": "idiom",
+"gloss": [
+"To improve.",
+"To recover from illness or other incapacitation."
+]
+},
+{
+"id": "fish-to-fry_idiom",
+"w": "fish to fry",
+"kind": "idiom",
+"gloss": [
+"A matter to attend to.",
+"Used other than figuratively or idiomatically: see fish, to, fry."
+]
+},
+{
+"id": "mouthful-of-marbles_idiom",
+"w": "mouthful of marbles",
+"kind": "idiom",
+"gloss": [
+"An indistinct, muffled or garbled manner of speaking."
+]
+},
+{
+"id": "do-with-mirrors_idiom",
+"w": "do with mirrors",
+"kind": "idiom",
+"gloss": [
+"To perform a magic trick or produce an optical illusion with the use of hidden mirrors, implying trickery and sham.",
+"To do something as if by magic; a joking explanation of the fantastic or the unexplained."
+]
+},
+{
+"id": "from-hunger_idiom",
+"w": "from hunger",
+"kind": "idiom",
+"gloss": [
+"Of poor quality; tolerable only in desperate circumstances.",
+"Used other than figuratively or idiomatically: see from, hunger."
+]
+},
+{
+"id": "from-my-cold-dead-hands_idiom",
+"w": "from my cold, dead hands",
+"kind": "idiom",
+"gloss": [
+"Only after my death.",
+"Never; not under any circumstances."
+]
+},
+{
+"id": "bad-joke_idiom",
+"w": "bad joke",
+"kind": "idiom",
+"gloss": [
+"A situation that is badly planned, or illogical."
+]
+},
+{
+"id": "on-one-s-watch_idiom",
+"w": "on one's watch",
+"kind": "idiom",
+"gloss": [
+"During the period of time when one is in a position of authority or responsibility."
+]
+},
+{
+"id": "110-proof_idiom",
+"w": "110 proof",
+"kind": "idiom",
+"gloss": [
+"Stronger than strong.",
+"Used other than figuratively or idiomatically: 55% alcohol by volume."
+]
+},
+{
+"id": "happy-as-a-pig-in-shit_idiom",
+"w": "happy as a pig in shit",
+"kind": "idiom",
+"gloss": [
+"Extremely happy; obviously satisfied and carefree."
+]
+},
+{
+"id": "take-a-bite_idiom",
+"w": "take a bite",
+"kind": "idiom",
+"gloss": [
+"To eat a quick, light snack.",
+"Try something out, give it a shot."
+]
+},
+{
+"id": "take-a-tumble_idiom",
+"w": "take a tumble",
+"kind": "idiom",
+"gloss": [
+"To fall off something, or down something.",
+"To fall in price or value."
+]
+},
+{
+"id": "rob-the-cradle_idiom",
+"w": "rob the cradle",
+"kind": "idiom",
+"gloss": [
+"To marry or become romantically involved with a much younger person, especially one from a younger generation.",
+"To use a young person for a purpose inappropriate to their age."
+]
+},
+{
+"id": "nut-cutting-time_idiom",
+"w": "nut-cutting time",
+"kind": "idiom",
+"gloss": [
+"The optimal time to gather nuts before they are seized by other animals or buried in snow.",
+"Time to exert maximum effort, for example, due to an approaching deadline or a looming competitive situation."
+]
+},
+{
+"id": "federal-case_idiom",
+"w": "federal case",
+"kind": "idiom",
+"gloss": [
+"An exaggerated ordeal; excessive fuss or indignation about some situation.",
+"Used other than figuratively or idiomatically: see federal, case."
+]
+},
+{
+"id": "wine-tosser_idiom",
+"w": "wine tosser",
+"kind": "idiom",
+"gloss": [
+"A person who speaks at length about wine but possesses limited genuine knowledge or expertise about it.",
+"A person who purchases wine, but does not drink it."
+]
+},
+{
+"id": "steal-a-march_idiom",
+"w": "steal a march",
+"kind": "idiom",
+"gloss": [
+"To gain an advantage unobserved.",
+"To start early."
+]
+},
+{
+"id": "tell-tales_idiom",
+"w": "tell tales",
+"kind": "idiom",
+"gloss": [
+"To lie, to be making false claims.",
+"To report someone for a wrongdoing."
+]
+},
+{
+"id": "rip-to-shreds_idiom",
+"w": "rip to shreds",
+"kind": "idiom",
+"gloss": [
+"To tear apart, so that only shreds remain.",
+"To criticize severely; to refute."
+]
+},
+{
+"id": "heart-of-glass_idiom",
+"w": "heart of glass",
+"kind": "idiom",
+"gloss": [
+"A heart (or by extension, person) in a very fragile romantic state: one that is easily made broken-hearted."
+]
+},
+{
+"id": "hope-against-hope_idiom",
+"w": "hope against hope",
+"kind": "idiom",
+"gloss": [
+"To continue to hope, even when what is hoped for seems unlikely or impossible."
+]
+},
+{
+"id": "whole-ball-of-wax_idiom",
+"w": "whole ball of wax",
+"kind": "idiom",
+"gloss": [
+"The entire or overall plan, concept or action.",
+"Everything of a similar or related nature; everything necessary for a particular purpose."
+]
+},
+{
+"id": "shoot-off-at-the-mouth_idiom",
+"w": "shoot off at the mouth",
+"kind": "idiom",
+"gloss": [
+"To boast, or brag, or talk too much.",
+"To disclose some information that was supposed to be secret."
+]
+},
+{
+"id": "touch-oneself_idiom",
+"w": "touch oneself",
+"kind": "idiom",
+"gloss": [
+"To masturbate.",
+"Used other than figuratively or idiomatically: see touch, oneself."
+]
+},
+{
+"id": "all-the-while_idiom",
+"w": "all the while",
+"kind": "idiom",
+"gloss": [
+"At the same time as, usually over an extended period."
+]
+},
+{
+"id": "drop-the-gloves_idiom",
+"w": "drop the gloves",
+"kind": "idiom",
+"gloss": [
+"To fight.",
+"To remove a prior impediment to action; to prepare for or engage in a dispute."
+]
+},
+{
+"id": "lay-on-the-line_idiom",
+"w": "lay on the line",
+"kind": "idiom",
+"gloss": [
+"To state strongly, clearly, and accurately.",
+"To risk."
+]
+},
+{
+"id": "put-one-s-foot-in-it_idiom",
+"w": "put one's foot in it",
+"kind": "idiom",
+"gloss": [
+"To put one's foot in one's mouth.",
+"To cook something excellently"
+]
+},
+{
+"id": "apron-string_idiom",
+"w": "apron string",
+"kind": "idiom",
+"gloss": [
+"One of the pair of strings or narrow sewn clothstrips used to fasten an apron around the wearer's waist.",
+"A symbol of the domestic ties binding a male to a female (as a husband to a wife or a son to a mother)."
+]
+},
+{
+"id": "amateur-hour_idiom",
+"w": "amateur hour",
+"kind": "idiom",
+"gloss": [
+"An event, particularly on radio or television, showcasing the talents of amateur performers.",
+"A situation or activity in which the participants show a lack of skill, sound judgment, or professionalism."
+]
+},
+{
+"id": "get-the-chop_idiom",
+"w": "get the chop",
+"kind": "idiom",
+"gloss": [
+"To be dismissed from employment.",
+"To be eliminated from a competition."
+]
+},
+{
+"id": "cry-all-the-way-to-the-bank_idiom",
+"w": "cry all the way to the bank",
+"kind": "idiom",
+"gloss": [
+"To be happy due to the receipt of money, but sad about the cause.",
+"To be unconcerned with criticism due to financial success."
+]
+},
+{
+"id": "pay-the-freight_idiom",
+"w": "pay the freight",
+"kind": "idiom",
+"gloss": [
+"To pay for the cost of transport.",
+"To bear the cost."
+]
+},
+{
+"id": "tall-in-the-saddle_idiom",
+"w": "tall in the saddle",
+"kind": "idiom",
+"gloss": [
+"Imposing, impressive; resolute; manly.",
+"Imposingly, impressively; resolutely; manfully."
+]
+},
+{
+"id": "pay-the-piper_idiom",
+"w": "pay the piper",
+"kind": "idiom",
+"gloss": [
+"To pay expenses for something, and thus be in a position to be in control.",
+"To pay a monetary or other debt or experience unfavorable consequences, especially when the payment or consequences are inevitable or a result of something one has enjoyed."
+]
+},
+{
+"id": "ride-tall-in-the-saddle_idiom",
+"w": "ride tall in the saddle",
+"kind": "idiom",
+"gloss": [
+"To ride a horse in an erect, imposing manner.",
+"To act or conduct oneself in a manner that is imposing, impressive, resolute, or manly."
+]
+},
+{
+"id": "pay-one-s-dues_idiom",
+"w": "pay one's dues",
+"kind": "idiom",
+"gloss": [
+"To outlay money which is owed as a membership fee or price of admission.",
+"To acquire status or to earn the right to enjoy certain benefits, especially through lengthy experience, hardship, or service to an organization."
+]
+},
+{
+"id": "keep-an-eye-open_idiom",
+"w": "keep an eye open",
+"kind": "idiom",
+"gloss": [
+"To remain vigilant for someone or something.",
+"To remain vigilant for a possibly dangerous situation."
+]
+},
+{
+"id": "donkey-s-ears_idiom",
+"w": "donkey's ears",
+"kind": "idiom",
+"gloss": [
+"A long time, years and years.",
+"A pair of scissor binoculars."
+]
+},
+{
+"id": "poacher-turned-gamekeeper_idiom",
+"w": "poacher turned gamekeeper",
+"kind": "idiom",
+"gloss": [
+"A person now charged with protecting what they formerly preyed upon.",
+"Used other than figuratively or idiomatically: see poacher, turned, gamekeeper."
+]
+},
+{
+"id": "first-port-of-call_idiom",
+"w": "first port of call",
+"kind": "idiom",
+"gloss": [
+"The first port that a vessel calls in at after the start of a voyage",
+"The first place to go to start a process."
+]
+},
+{
+"id": "ring-false_idiom",
+"w": "ring false",
+"kind": "idiom",
+"gloss": [
+"To seem to be incorrect, or implausible."
+]
+},
+{
+"id": "run-rings-around_idiom",
+"w": "run rings around",
+"kind": "idiom",
+"gloss": [
+"Synonym of run circles around."
+]
+},
+{
+"id": "the-rubber-meets-the-road_idiom",
+"w": "the rubber meets the road",
+"kind": "idiom",
+"gloss": [
+"A place or circumstance at which the implementation of a plan or intent is to be achieved.",
+"Used other than figuratively or idiomatically: see rubber, meet, road."
+]
+},
+{
+"id": "good-and_idiom",
+"w": "good and",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see good, and.",
+"Very; plenty; exceptionally; quite, utterly."
+]
+},
+{
+"id": "watch-this-space_idiom",
+"w": "watch this space",
+"kind": "idiom",
+"gloss": [
+"An indication that a development will follow."
+]
+},
+{
+"id": "hack-it_idiom",
+"w": "hack it",
+"kind": "idiom",
+"gloss": [
+"To cope; to be successful in something despite adversity.",
+"Used other than figuratively or idiomatically: see hack, it."
+]
+},
+{
+"id": "set-the-pace_idiom",
+"w": "set the pace",
+"kind": "idiom",
+"gloss": [
+"To establish the speed for a group to move at, for example in a race.",
+"To establish a common goal by example."
+]
+},
+{
+"id": "sweet-young-thing_idiom",
+"w": "sweet young thing",
+"kind": "idiom",
+"gloss": [
+"An attractive young woman.",
+"A sweet-tempered young woman."
+]
+},
+{
+"id": "raise-the-stakes_idiom",
+"w": "raise the stakes",
+"kind": "idiom",
+"gloss": [
+"To increase in significance or risk.",
+"Used other than figuratively or idiomatically: see raise, stakes (used literally e. g. of a hand of poker)"
+]
+},
+{
+"id": "weak-sister_idiom",
+"w": "weak sister",
+"kind": "idiom",
+"gloss": [
+"A person who is cowardly or indecisive.",
+"A person or thing which is the least robust or least dependable member of a group."
+]
+},
+{
+"id": "run-scared_idiom",
+"w": "run scared",
+"kind": "idiom",
+"gloss": [
+"To be in a state of fearful alarm."
+]
+},
+{
+"id": "get-a-rise-out-of_idiom",
+"w": "get a rise out of",
+"kind": "idiom",
+"gloss": [
+"To obtain a reaction from (someone), especially one of annoyance."
+]
+},
+{
+"id": "buried-treasure_idiom",
+"w": "buried treasure",
+"kind": "idiom",
+"gloss": [
+"Something valuable that is concealed for a long time and then rediscovered.",
+"Used other than figuratively or idiomatically: see buried, treasure."
+]
+},
+{
+"id": "under-the-covers_idiom",
+"w": "under the covers",
+"kind": "idiom",
+"gloss": [
+"In bed, under the bed covers.",
+"In secret."
+]
+},
+{
+"id": "tube-steak_idiom",
+"w": "tube steak",
+"kind": "idiom",
+"gloss": [
+"A frankfurter/hot dog.",
+"A penis."
+]
+},
+{
+"id": "one-side_idiom",
+"w": "one side",
+"kind": "idiom",
+"gloss": [
+"A place where things are stored or reserved, as in",
+"A direct, somewhat impolite demand to ask someone to move out of the way."
+]
+},
+{
+"id": "cup-of-joe_idiom",
+"w": "cup of joe",
+"kind": "idiom",
+"gloss": [
+"A cup of coffee.",
+"One’s personal preference."
+]
+},
+{
+"id": "dog-s-breakfast_idiom",
+"w": "dog's breakfast",
+"kind": "idiom",
+"gloss": [
+"An unappealing mixture; a disorderly situation; a mess.",
+"Used other than figuratively or idiomatically: see dog, breakfast."
+]
+},
+{
+"id": "shape-up-or-ship-out_idiom",
+"w": "shape up or ship out",
+"kind": "idiom",
+"gloss": [
+"To either improve one's behavior or else be required to leave; to either improve one's performance in an activity or else withdraw from that activity completely."
+]
+},
+{
+"id": "head-for-the-hills_idiom",
+"w": "head for the hills",
+"kind": "idiom",
+"gloss": [
+"To travel to a higher elevation, especially to a rural region on vacation.",
+"To go to a safe place; to seek refuge; to flee."
+]
+},
+{
+"id": "feed-the-dragon_idiom",
+"w": "feed the dragon",
+"kind": "idiom",
+"gloss": [
+"To outsource (jobs) to the People's Republic of China.",
+"To buy or sell products labeled as \"Made in China.\""
+]
+},
+{
+"id": "hit-one-out-of-the-ballpark_idiom",
+"w": "hit one out of the ballpark",
+"kind": "idiom",
+"gloss": [
+"To hit a fair ball so well that the ball flies over all of the spectators' seats and lands outside the stadium.",
+"To produce a spectacular achievement."
+]
+},
+{
+"id": "face-that-would-stop-a-clock_idiom",
+"w": "face that would stop a clock",
+"kind": "idiom",
+"gloss": [
+"A shockingly unattractive face.",
+"A shockingly attractive face."
+]
+},
+{
+"id": "not-a-pretty-sight_idiom",
+"w": "not a pretty sight",
+"kind": "idiom",
+"gloss": [
+"Something visually unappealing, ranging from mildly unattractive to utterly disgusting in appearance.",
+"Something disappointing, disquieting, disreputable, or otherwise unworthy of admiration."
+]
+},
+{
+"id": "not-worth-a-dime_idiom",
+"w": "not worth a dime",
+"kind": "idiom",
+"gloss": [
+"Worthless or nearly so: lacking in value.",
+"Used other than figuratively or idiomatically: see not, worth, a, dime: worth less than ten cents, at any value down to and including zero (nothing)."
+]
+},
+{
+"id": "circle-the-wagons_idiom",
+"w": "circle the wagons",
+"kind": "idiom",
+"gloss": [
+"To draw a wagon train into a circle to allow the wagons to provide cover when under attack.",
+"To prepare to defend against an attack or criticism."
+]
+},
+{
+"id": "melon-head_idiom",
+"w": "melon head",
+"kind": "idiom",
+"gloss": [
+"A dimwit, a fool",
+"A melon-headed whale"
+]
+},
+{
+"id": "swing-for-the-fences_idiom",
+"w": "swing for the fences",
+"kind": "idiom",
+"gloss": [
+"To swing at the ball as hard as possible, with the aim of getting a home run.",
+"To do something extremely ambitious, especially rashly."
+]
+},
+{
+"id": "cross-someone-s-path_idiom",
+"w": "cross someone's path",
+"kind": "idiom",
+"gloss": [
+"To meet someone by chance.",
+"To oppose someone's plans."
+]
+},
+{
+"id": "mind-s-eye_idiom",
+"w": "mind's eye",
+"kind": "idiom",
+"gloss": [
+"The ability to picture an image mentally through imagination."
+]
+},
+{
+"id": "flight-of-fancy_idiom",
+"w": "flight of fancy",
+"kind": "idiom",
+"gloss": [
+"An idea, narrative, suggestion, etc., which is extremely imaginative and which appears to be entirely unrealistic, untrue, or impractical; thinking which is very speculative."
+]
+}
+]

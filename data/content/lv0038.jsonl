@@ -1,0 +1,100 @@
+{"id":"damaged_adj","th":"เสียหาย; ชำรุด","ex":"The damaged car was towed away.","exTh":"รถที่เสียหายถูกลากออกไป"}
+{"id":"accomplish_verb","th":"ทำสำเร็จ; บรรลุผล","ex":"She accomplished all her goals this year.","exTh":"ปีนี้เธอทำตามเป้าหมายได้สำเร็จทั้งหมด"}
+{"id":"alike_adj","th":"คล้ายกัน; เหมือนกัน","ex":"The two sisters look very much alike.","exTh":"พี่น้องสองคนนี้หน้าตาคล้ายกันมาก","note":"ใช้หลัง be เท่านั้น ไม่วางหน้านาม"}
+{"id":"alike_adv","th":"เหมือนกัน; เท่าๆ กัน","ex":"The teacher treats all students alike.","exTh":"ครูปฏิบัติต่อนักเรียนทุกคนเหมือนกัน"}
+{"id":"weapon_noun","th":"อาวุธ","ex":"The police found a weapon in the car.","exTh":"ตำรวจพบอาวุธในรถ"}
+{"id":"sympathy_noun","th":"ความเห็นอกเห็นใจ; ความเสียใจด้วย","ex":"I have great sympathy for the victims.","exTh":"ฉันเห็นใจผู้ประสบเหตุอย่างมาก"}
+{"id":"invasion_noun","th":"การรุกราน; การบุกรุก","ex":"The invasion began early in the morning.","exTh":"การรุกรานเริ่มขึ้นตั้งแต่เช้าตรู่"}
+{"id":"server_noun","th":"เซิร์ฟเวอร์; พนักงานเสิร์ฟ","ex":"The website is down because the server crashed.","exTh":"เว็บไซต์ล่มเพราะเซิร์ฟเวอร์เสีย"}
+{"id":"farther_adv","th":"ไกลกว่า; ไกลออกไป","ex":"We walked farther than we planned.","exTh":"เราเดินไกลกว่าที่วางแผนไว้"}
+{"id":"loud_adj","th":"ดัง; เสียงดัง; ฉูดฉาด","ex":"The music is too loud.","exTh":"เพลงดังเกินไป"}
+{"id":"loud_adv","th":"ดัง; เสียงดัง","ex":"Please don't talk so loud.","exTh":"กรุณาอย่าพูดเสียงดังนัก"}
+{"id":"sword_noun","th":"ดาบ","ex":"The knight carried a long sword.","exTh":"อัศวินถือดาบยาว"}
+{"id":"fold_noun","th":"รอยพับ; รอยจีบ; คอกแกะ","ex":"There was a deep fold in the paper.","exTh":"มีรอยพับลึกบนกระดาษ"}
+{"id":"fold_verb","th":"พับ; จีบ; พับเก็บ","ex":"Please fold the clothes and put them away.","exTh":"ช่วยพับเสื้อผ้าแล้วเก็บเข้าที่ด้วย"}
+{"id":"haven_noun","th":"แหล่งหลบภัย; ที่พักพิง; สถานที่สงบ","ex":"The little cafe is a haven from the noisy city.","exTh":"คาเฟ่เล็กๆ แห่งนี้เป็นที่หลบจากความวุ่นวายของเมือง"}
+{"id":"divide_noun","th":"ความแตกแยก; ช่องว่าง; เส้นแบ่ง","ex":"There is a big divide between rich and poor.","exTh":"มีช่องว่างขนาดใหญ่ระหว่างคนรวยกับคนจน"}
+{"id":"wake_verb","th":"ตื่น; ปลุก","ex":"I wake up at six every day.","exTh":"ฉันตื่นนอนตอนหกโมงทุกวัน","note":"รูปอดีตคือ woke, woken"}
+{"id":"tremendous_adj","th":"มหาศาล; ยิ่งใหญ่; ยอดเยี่ยม","ex":"She made a tremendous effort to win.","exTh":"เธอพยายามอย่างมหาศาลเพื่อให้ชนะ"}
+{"id":"combine_verb","th":"รวมกัน; ผสม; ประสาน","ex":"Combine the flour and the eggs in a bowl.","exTh":"ผสมแป้งกับไข่ในชามเข้าด้วยกัน"}
+{"id":"lodge_noun","th":"กระท่อม; บ้านพักตากอากาศ; ที่พัก","ex":"We stayed in a mountain lodge for two nights.","exTh":"เราพักที่บ้านพักบนภูเขาสองคืน"}
+{"id":"continuously_adv","th":"อย่างต่อเนื่อง; ไม่หยุด","ex":"It rained continuously for three days.","exTh":"ฝนตกต่อเนื่องไม่หยุดสามวัน"}
+{"id":"reception_noun","th":"การต้อนรับ; แผนกต้อนรับ; งานเลี้ยงรับรอง; สัญญาณรับ","ex":"Please wait at the hotel reception.","exTh":"กรุณารอที่แผนกต้อนรับของโรงแรม"}
+{"id":"bore_verb","th":"ทำให้เบื่อ; เจาะ","ex":"Long speeches bore me.","exTh":"สุนทรพจน์ยาวๆ ทำให้ฉันเบื่อ"}
+{"id":"accessible_adj","th":"เข้าถึงได้; เข้าใจง่าย; สะดวกใช้","ex":"The museum is accessible for wheelchair users.","exTh":"พิพิธภัณฑ์แห่งนี้ผู้ใช้รถเข็นเข้าถึงได้สะดวก"}
+{"id":"palm_noun","th":"ฝ่ามือ; ต้นปาล์ม","ex":"He held the coin in the palm of his hand.","exTh":"เขาถือเหรียญไว้ในฝ่ามือ"}
+{"id":"encouraging_adj","th":"ให้กำลังใจ; น่าพอใจ; น่าหวัง","ex":"The test results are very encouraging.","exTh":"ผลการทดสอบน่าพอใจมาก"}
+{"id":"cure_noun","th":"วิธีรักษา; ยารักษา; การรักษาให้หาย","ex":"Scientists are looking for a cure for the disease.","exTh":"นักวิทยาศาสตร์กำลังหาวิธีรักษาโรคนี้"}
+{"id":"insight_noun","th":"ความเข้าใจอย่างลึกซึ้ง; ความหยั่งรู้","ex":"The book gives a useful insight into Thai culture.","exTh":"หนังสือเล่มนี้ให้ความเข้าใจที่ลึกซึ้งเกี่ยวกับวัฒนธรรมไทย"}
+{"id":"pupil_noun","th":"นักเรียน; ม่านตา","ex":"Each pupil has a desk and a chair.","exTh":"นักเรียนแต่ละคนมีโต๊ะและเก้าอี้","note":"ความหมายนักเรียนใช้กับเด็กเล็กเป็นหลัก ส่วนม่านตาใช้ในทางกายวิภาค"}
+{"id":"specialist_noun","th":"ผู้เชี่ยวชาญ; ผู้ชำนาญเฉพาะด้าน; แพทย์เฉพาะทาง","ex":"You should see a heart specialist.","exTh":"คุณควรไปพบแพทย์ผู้เชี่ยวชาญโรคหัวใจ"}
+{"id":"hate_noun","th":"ความเกลียดชัง; สิ่งที่เกลียด","ex":"Hate can destroy a family.","exTh":"ความเกลียดชังสามารถทำลายครอบครัวได้"}
+{"id":"nucleus_noun","th":"นิวเคลียส; แกนกลาง; ใจกลาง","ex":"The nucleus is the center of an atom.","exTh":"นิวเคลียสเป็นศูนย์กลางของอะตอม"}
+{"id":"eternal_adj","th":"นิรันดร; ชั่วนิจนิรันดร์; ไม่สิ้นสุด","ex":"They promised each other eternal love.","exTh":"พวกเขาสัญญากันว่าจะรักกันชั่วนิรันดร์"}
+{"id":"dioxide_noun","th":"ไดออกไซด์ (สารประกอบที่มีออกซิเจนสองอะตอม)","ex":"Plants take in carbon dioxide from the air.","exTh":"พืชดูดคาร์บอนไดออกไซด์จากอากาศ"}
+{"id":"northeast_adj","th":"ตะวันออกเฉียงเหนือ","ex":"Isan is in the northeast part of Thailand.","exTh":"อีสานอยู่ในภาคตะวันออกเฉียงเหนือของประเทศไทย"}
+{"id":"northeast_noun","th":"ทิศตะวันออกเฉียงเหนือ; ภาคตะวันออกเฉียงเหนือ","ex":"Clouds are coming from the northeast.","exTh":"เมฆกำลังเคลื่อนมาจากทิศตะวันออกเฉียงเหนือ"}
+{"id":"innocent_adj","th":"บริสุทธิ์; ไม่มีความผิด; ใสซื่อ","ex":"The man was found innocent by the court.","exTh":"ศาลตัดสินว่าชายคนนั้นไม่มีความผิด"}
+{"id":"packing_noun","th":"การเก็บของลงกระเป๋า; การบรรจุหีบห่อ; วัสดุห่อกันกระแทก","ex":"I still have a lot of packing to do.","exTh":"ฉันยังมีของที่ต้องจัดใส่กระเป๋าอีกเยอะ"}
+{"id":"carriage_noun","th":"รถม้า; ตู้โดยสารรถไฟ","ex":"We sat in the first carriage of the train.","exTh":"เรานั่งในตู้โดยสารแรกของรถไฟ"}
+{"id":"resort_noun","th":"รีสอร์ต; สถานที่ตากอากาศ; ที่พึ่งสุดท้าย","ex":"They spent the holiday at a beach resort.","exTh":"พวกเขาใช้วันหยุดที่รีสอร์ตริมทะเล"}
+{"id":"barely_adv","th":"แทบจะไม่; เพิ่งจะ; อย่างเฉียดฉิว","ex":"I could barely hear him.","exTh":"ฉันแทบไม่ได้ยินเขาเลย"}
+{"id":"broadcast_noun","th":"การออกอากาศ; รายการวิทยุหรือโทรทัศน์","ex":"We watched the live broadcast of the match.","exTh":"เราดูการถ่ายทอดสดการแข่งขัน"}
+{"id":"enthusiasm_noun","th":"ความกระตือรือร้น; ความตื่นเต้น","ex":"He talks about football with great enthusiasm.","exTh":"เขาพูดเรื่องฟุตบอลอย่างกระตือรือร้นมาก"}
+{"id":"prohibition_noun","th":"การห้าม; ข้อห้าม","ex":"There is a prohibition on smoking here.","exTh":"ที่นี่มีข้อห้ามสูบบุหรี่"}
+{"id":"excuse_verb","th":"ให้อภัย; ยกโทษ; ยกเว้น","ex":"Please excuse my bad handwriting.","exTh":"ขออภัยในลายมือที่ไม่สวยของฉันด้วย"}
+{"id":"destination_noun","th":"จุดหมายปลายทาง","ex":"We reached our destination before dark.","exTh":"เราถึงจุดหมายปลายทางก่อนมืด"}
+{"id":"hanging_adj","th":"แขวนอยู่; ห้อยลง","ex":"There are hanging plants on the balcony.","exTh":"มีต้นไม้แขวนอยู่ที่ระเบียง"}
+{"id":"motivation_noun","th":"แรงจูงใจ; แรงบันดาลใจ","ex":"I lost my motivation to study.","exTh":"ฉันหมดแรงจูงใจที่จะเรียน"}
+{"id":"rush_verb","th":"รีบ; เร่งรีบ; พุ่งไป","ex":"Don't rush. We have enough time.","exTh":"ไม่ต้องรีบ เรามีเวลาพอ"}
+{"id":"urge_noun","th":"ความอยากอย่างแรง; แรงกระตุ้น","ex":"I had a sudden urge to laugh.","exTh":"ฉันรู้สึกอยากหัวเราะขึ้นมากะทันหัน"}
+{"id":"reward_noun","th":"รางวัล; สินน้ำใจ; ผลตอบแทน","ex":"The owner offered a reward for the lost dog.","exTh":"เจ้าของประกาศให้รางวัลแก่คนที่พบสุนัขที่หายไป"}
+{"id":"glance_noun","th":"การชำเลืองมอง; การเหลือบมอง","ex":"She took a quick glance at her watch.","exTh":"เธอชำเลืองดูนาฬิกาข้อมือเร็วๆ"}
+{"id":"glance_verb","th":"เหลือบมอง; ชำเลืองดู","ex":"He glanced at the clock and left.","exTh":"เขาเหลือบมองนาฬิกาแล้วเดินออกไป"}
+{"id":"healing_adj","th":"ที่รักษาให้หาย; ที่เยียวยา","ex":"The cream has healing properties.","exTh":"ครีมนี้มีคุณสมบัติช่วยรักษาแผล"}
+{"id":"shelter_noun","th":"ที่พักพิง; ที่หลบภัย; ที่กำบัง","ex":"We found shelter from the rain under a tree.","exTh":"เราหาที่หลบฝนใต้ต้นไม้"}
+{"id":"abundance_noun","th":"ความอุดมสมบูรณ์; ปริมาณมากมาย","ex":"The island has an abundance of fresh fruit.","exTh":"เกาะนี้มีผลไม้สดอุดมสมบูรณ์"}
+{"id":"encounter_noun","th":"การเผชิญหน้า; การพบโดยบังเอิญ","ex":"It was a strange encounter with a wild elephant.","exTh":"มันเป็นการเผชิญหน้ากับช้างป่าที่แปลกประหลาด"}
+{"id":"horizon_noun","th":"ขอบฟ้า; ขอบเขตความรู้","ex":"The sun sank below the horizon.","exTh":"ดวงอาทิตย์ลับขอบฟ้าไป"}
+{"id":"bowl_verb","th":"ขว้างลูก (คริกเก็ต); เล่นโบว์ลิ่ง; กลิ้งลูก","ex":"He bowls very fast in cricket.","exTh":"เขาขว้างลูกคริกเก็ตได้เร็วมาก"}
+{"id":"emotion_noun","th":"อารมณ์; ความรู้สึก","ex":"She could not hide her emotion.","exTh":"เธอซ่อนอารมณ์ของตัวเองไม่อยู่"}
+{"id":"vein_noun","th":"เส้นเลือดดำ; หลอดเลือด; เส้นใบไม้","ex":"The nurse found a vein in my arm.","exTh":"พยาบาลหาเส้นเลือดที่แขนฉันเจอ"}
+{"id":"privacy_noun","th":"ความเป็นส่วนตัว","ex":"Everyone has a right to privacy.","exTh":"ทุกคนมีสิทธิ์ในความเป็นส่วนตัว"}
+{"id":"burn_verb","th":"ไหม้; เผา; ลุกไหม้","ex":"Don't burn the toast.","exTh":"อย่าทำขนมปังปิ้งไหม้นะ"}
+{"id":"prisoner_noun","th":"นักโทษ; เชลย","ex":"The prisoner was released after five years.","exTh":"นักโทษถูกปล่อยตัวหลังจากห้าปี"}
+{"id":"discount_noun","th":"ส่วนลด","ex":"Students get a ten percent discount.","exTh":"นักเรียนนักศึกษาได้ส่วนลดสิบเปอร์เซ็นต์"}
+{"id":"abnormal_adj","th":"ผิดปกติ; ไม่ปกติ","ex":"The doctor found an abnormal result in the test.","exTh":"หมอพบผลตรวจที่ผิดปกติ"}
+{"id":"prosperity_noun","th":"ความเจริญรุ่งเรือง; ความมั่งคั่ง","ex":"Trade brought prosperity to the town.","exTh":"การค้านำความเจริญรุ่งเรืองมาสู่เมือง"}
+{"id":"bow_noun","th":"โบว์; คันธนู; การโค้งคำนับ","ex":"She tied a red bow in her hair.","exTh":"เธอผูกโบว์สีแดงที่ผม","note":"ออกเสียงต่างกัน: โบว์/ธนู = /boʊ/, โค้งคำนับ = /baʊ/"}
+{"id":"precious_adj","th":"ล้ำค่า; มีค่า; เป็นที่รัก","ex":"Time is precious, so use it well.","exTh":"เวลามีค่า จงใช้ให้คุ้ม"}
+{"id":"tourism_noun","th":"การท่องเที่ยว; อุตสาหกรรมท่องเที่ยว","ex":"Tourism is important for the local economy.","exTh":"การท่องเที่ยวมีความสำคัญต่อเศรษฐกิจท้องถิ่น"}
+{"id":"bitter_adj","th":"ขม; ขมขื่น; หนาวเหน็บ","ex":"This coffee tastes too bitter.","exTh":"กาแฟนี้รสขมเกินไป"}
+{"id":"citizenship_noun","th":"สัญชาติ; ความเป็นพลเมือง","ex":"She applied for Canadian citizenship.","exTh":"เธอสมัครขอสัญชาติแคนาดา"}
+{"id":"realistic_adj","th":"สมจริง; เป็นไปได้จริง; ยึดความจริง","ex":"We need a realistic plan.","exTh":"เราต้องการแผนที่เป็นไปได้จริง"}
+{"id":"suspect_noun","th":"ผู้ต้องสงสัย","ex":"Police arrested the main suspect last night.","exTh":"ตำรวจจับผู้ต้องสงสัยหลักได้เมื่อคืนนี้"}
+{"id":"sheriff_noun","th":"นายอำเภอ (ตำรวจท้องถิ่นในสหรัฐฯ)","ex":"The sheriff drove to the small town.","exTh":"นายอำเภอขับรถไปที่เมืองเล็กๆ","note":"ตำแหน่งเจ้าหน้าที่บังคับใช้กฎหมายในสหรัฐฯ"}
+{"id":"blame_noun","th":"ความผิด; ความรับผิดชอบ; การตำหนิ","ex":"I take the blame for the mistake.","exTh":"ฉันขอรับผิดชอบความผิดพลาดนี้"}
+{"id":"surgeon_noun","th":"ศัลยแพทย์","ex":"The surgeon operated on him for four hours.","exTh":"ศัลยแพทย์ผ่าตัดให้เขานานสี่ชั่วโมง"}
+{"id":"instructor_noun","th":"ผู้สอน; ครูฝึก; วิทยากร","ex":"My driving instructor is very patient.","exTh":"ครูสอนขับรถของฉันใจเย็นมาก"}
+{"id":"faithful_adj","th":"ซื่อสัตย์; จงรักภักดี; ตรงตามต้นฉบับ","ex":"Dogs are faithful friends.","exTh":"สุนัขเป็นเพื่อนที่ซื่อสัตย์"}
+{"id":"meaningful_adj","th":"มีความหมาย; มีนัยสำคัญ; มีคุณค่า","ex":"She gave me a meaningful gift.","exTh":"เธอให้ของขวัญที่มีความหมายกับฉัน"}
+{"id":"fur_noun","th":"ขนสัตว์; หนังสัตว์ที่มีขน","ex":"The cat has soft white fur.","exTh":"แมวตัวนี้มีขนสีขาวนุ่ม"}
+{"id":"kiss_verb","th":"จูบ; หอม","ex":"He kissed her on the cheek.","exTh":"เขาจูบแก้มเธอ"}
+{"id":"reservation_noun","th":"การจอง; ข้อสงสัย; ข้อกังขา","ex":"I made a reservation for two at eight.","exTh":"ฉันจองโต๊ะสำหรับสองคนตอนสองทุ่ม"}
+{"id":"companion_noun","th":"เพื่อนร่วมทาง; เพื่อนคู่หู; สหาย","ex":"The old man had a dog as his companion.","exTh":"ชายชรามีสุนัขเป็นเพื่อนคู่ใจ"}
+{"id":"resist_verb","th":"ต่อต้าน; ขัดขืน; อดทนต่อ","ex":"I couldn't resist the chocolate cake.","exTh":"ฉันห้ามใจไม่ไหวกับเค้กช็อกโกแลต"}
+{"id":"indirectly_adv","th":"โดยทางอ้อม; อย่างอ้อมๆ","ex":"The change affects us indirectly.","exTh":"การเปลี่ยนแปลงนี้ส่งผลต่อเราทางอ้อม"}
+{"id":"restore_verb","th":"ฟื้นฟู; บูรณะ; คืนสภาพ","ex":"They restored the old temple.","exTh":"พวกเขาบูรณะวัดเก่าแห่งนั้น"}
+{"id":"hire_verb","th":"จ้าง; ว่าจ้าง; เช่า","ex":"The shop hired two new workers.","exTh":"ร้านจ้างพนักงานใหม่สองคน"}
+{"id":"mud_noun","th":"โคลน; โคลนตม","ex":"The boys played in the mud.","exTh":"เด็กผู้ชายเล่นโคลนกัน"}
+{"id":"aggressive_adj","th":"ก้าวร้าว; ดุดัน; เชิงรุก","ex":"The dog became aggressive when strangers came.","exTh":"สุนัขกลายเป็นก้าวร้าวเมื่อมีคนแปลกหน้ามา"}
+{"id":"auxiliary_adj","th":"ช่วยเสริม; สำรอง; เสริม","ex":"\"Will\" and \"can\" are auxiliary verbs.","exTh":"\"will\" และ \"can\" เป็นกริยาช่วย"}
+{"id":"hazard_noun","th":"อันตราย; สิ่งเสี่ยงภัย","ex":"Wet floors are a safety hazard.","exTh":"พื้นเปียกเป็นอันตรายต่อความปลอดภัย"}
+{"id":"guilt_noun","th":"ความผิด; ความรู้สึกผิด","ex":"He felt deep guilt about lying.","exTh":"เขารู้สึกผิดอย่างมากที่โกหก"}
+{"id":"shortage_noun","th":"การขาดแคลน; ความไม่เพียงพอ","ex":"There is a shortage of water in summer.","exTh":"ฤดูร้อนมีน้ำไม่พอใช้"}
+{"id":"architect_noun","th":"สถาปนิก","ex":"The architect designed a beautiful house.","exTh":"สถาปนิกออกแบบบ้านหลังสวยงาม"}
+{"id":"clinic_noun","th":"คลินิก; สถานพยาบาล","ex":"I have an appointment at the clinic today.","exTh":"วันนี้ฉันมีนัดที่คลินิก"}
+{"id":"pin_verb","th":"ปักหมุด; ติดด้วยหมุด; กดให้อยู่กับที่","ex":"She pinned a note on the board.","exTh":"เธอปักกระดาษโน้ตไว้บนกระดาน"}
+{"id":"counseling_noun","th":"การให้คำปรึกษา","ex":"He went to counseling after the accident.","exTh":"เขาไปรับคำปรึกษาหลังเกิดอุบัติเหตุ","note":"สะกดแบบอังกฤษคือ counselling"}
+{"id":"studio_noun","th":"สตูดิโอ; ห้องทำงานศิลปะ; ห้องอัดเสียง","ex":"The singer is recording in the studio.","exTh":"นักร้องกำลังอัดเสียงอยู่ในสตูดิโอ"}
+{"id":"ecological_adj","th":"เกี่ยวกับระบบนิเวศ; ทางนิเวศวิทยา","ex":"Pollution is an ecological problem.","exTh":"มลพิษเป็นปัญหาทางระบบนิเวศ"}

@@ -1,0 +1,100 @@
+{"id":"crony_noun","th":"พวกพ้อง; สมุนคู่ใจ","ex":"The mayor gave government contracts to his cronies.","exTh":"นายกเทศมนตรีให้สัญญาของรัฐแก่พวกพ้องของเขา","note":"มักมีนัยเชิงลบ"}
+{"id":"belligerence_noun","th":"ความก้าวร้าว; ความชอบสู้รบ","ex":"His belligerence made everyone in the meeting uncomfortable.","exTh":"ความก้าวร้าวของเขาทำให้ทุกคนในที่ประชุมอึดอัด"}
+{"id":"wrack_verb","th":"ทำให้ทรมาน; ทำลาย","ex":"Guilt wracked him for years after the accident.","exTh":"ความรู้สึกผิดทรมานเขาอยู่หลายปีหลังเกิดอุบัติเหตุ","note":"มักใช้ในรูป wracked with/by"}
+{"id":"deaden_verb","th":"ทำให้ด้านชา; ทำให้เบาลง","ex":"The medicine deadened the pain in my leg.","exTh":"ยานี้ทำให้ความเจ็บที่ขาของฉันบรรเทาลง"}
+{"id":"retrospection_noun","th":"การหวนคิดถึงอดีต; การมองย้อนหลัง","ex":"In retrospection, the decision seems like a mistake.","exTh":"เมื่อมองย้อนกลับไป การตัดสินใจนั้นดูเหมือนเป็นความผิดพลาด"}
+{"id":"metalled_adj","th":"ลาดด้วยหินกรวด (ถนน)","ex":"A metalled road leads to the village.","exTh":"ถนนลาดหินกรวดสายหนึ่งนำไปสู่หมู่บ้าน","note":"ภาษาอังกฤษแบบอังกฤษ ใช้กับถนน"}
+{"id":"reverb_noun","th":"เสียงก้อง; เสียงสะท้อน","ex":"The singer added some reverb to her voice.","exTh":"นักร้องเพิ่มเสียงก้องให้กับเสียงของเธอ"}
+{"id":"prissy_adj","th":"จู้จี้จุกจิก; เรื่องมาก","ex":"She is too prissy to eat with her hands.","exTh":"เธอเรื่องมากเกินกว่าจะกินข้าวด้วยมือ"}
+{"id":"revile_verb","th":"ด่าว่า; สบประมาท","ex":"Critics reviled the film when it was released.","exTh":"นักวิจารณ์ด่าว่าภาพยนตร์เรื่องนี้ตอนออกฉาย","note":"ภาษาทางการ"}
+{"id":"dissemble_verb","th":"ปิดบังความรู้สึกจริง; แสร้งทำ","ex":"He dissembled to hide his real plans from us.","exTh":"เขาแสร้งทำเพื่อปิดบังแผนที่แท้จริงจากพวกเรา","note":"ภาษาทางการ"}
+{"id":"nostalgically_adv","th":"อย่างคิดถึงอดีต; ด้วยความโหยหาอดีต","ex":"He nostalgically looked at the old photos.","exTh":"เขามองรูปเก่าๆ ด้วยความคิดถึงอดีต"}
+{"id":"slither_verb","th":"เลื้อย; ไถล","ex":"A snake slithered across the path.","exTh":"งูตัวหนึ่งเลื้อยข้ามทางเดิน"}
+{"id":"octogenarian_noun","th":"ผู้สูงอายุวัย 80 ปี","ex":"My grandmother is an active octogenarian.","exTh":"คุณยายของฉันเป็นผู้สูงอายุวัย 80 กว่าที่ยังคล่องแคล่ว"}
+{"id":"whir_verb","th":"ส่งเสียงหึ่งๆ; หมุนวืด","ex":"The fan whirred quietly above our heads.","exTh":"พัดลมหมุนส่งเสียงหึ่งเบาๆ เหนือหัวเรา"}
+{"id":"ravish_verb","th":"ทำให้ปลาบปลื้ม; ข่มขืน","ex":"The beautiful garden ravished all the visitors.","exTh":"สวนที่สวยงามทำให้ผู้มาเยือนทุกคนปลาบปลื้ม","note":"ภาษาเก่า/วรรณกรรม ความหมายว่า ข่มขืน เป็นความหมายเก่า"}
+{"id":"forlornly_adv","th":"อย่างเศร้าสร้อย; อย่างโดดเดี่ยวหมดหวัง","ex":"The dog waited forlornly by the door.","exTh":"สุนัขนั่งรออย่างเศร้าสร้อยอยู่ข้างประตู"}
+{"id":"singe_verb","th":"ไหม้เกรียม; เผาให้เกรียม","ex":"The fire singed the edge of my sleeve.","exTh":"ไฟทำให้ชายแขนเสื้อของฉันไหม้เกรียม"}
+{"id":"compellingly_adv","th":"อย่างน่าเชื่อถือ; อย่างน่าติดตาม","ex":"She argued her case very compellingly.","exTh":"เธอให้เหตุผลสนับสนุนข้อโต้แย้งของเธออย่างน่าเชื่อถือมาก"}
+{"id":"antediluvian_adj","th":"ล้าสมัยมาก; เก่าแก่โบราณ","ex":"The office still uses antediluvian computers.","exTh":"สำนักงานนี้ยังใช้คอมพิวเตอร์ที่ล้าสมัยมาก"}
+{"id":"euphemistic_adj","th":"ที่พูดเลี่ยง; ที่ใช้ถ้อยคำสุภาพแทน","ex":"\"Passed away\" is a euphemistic way to say \"died\".","exTh":"\"จากไป\" เป็นวิธีพูดเลี่ยงของคำว่า \"ตาย\""}
+{"id":"callously_adv","th":"อย่างเลือดเย็น; อย่างไร้ความปรานี","ex":"He callously ignored her request for help.","exTh":"เขาเพิกเฉยต่อคำขอความช่วยเหลือของเธออย่างไร้ความปรานี"}
+{"id":"circumnavigation_noun","th":"การเดินทางรอบโลก; การแล่นเรือรอบ","ex":"His circumnavigation of the globe took two years.","exTh":"การเดินทางรอบโลกของเขาใช้เวลาสองปี"}
+{"id":"tantalizingly_adv","th":"อย่างยั่วยวนใจ; อย่างเย้ายวนแต่เอื้อมไม่ถึง","ex":"The prize was tantalizingly close to his hand.","exTh":"รางวัลอยู่ใกล้มือเขาอย่างน่ายั่วใจ"}
+{"id":"echolocation_noun","th":"การหาตำแหน่งด้วยเสียงสะท้อน","ex":"Bats use echolocation to find food in the dark.","exTh":"ค้างคาวใช้เสียงสะท้อนหาอาหารในที่มืด"}
+{"id":"ruminate_verb","th":"ครุ่นคิด; เคี้ยวเอื้อง","ex":"She ruminated on her future all weekend.","exTh":"เธอครุ่นคิดเรื่องอนาคตของเธอตลอดสุดสัปดาห์"}
+{"id":"buffoonery_noun","th":"การทำตัวตลกโปกฮา; พฤติกรรมเฮฮาไร้สาระ","ex":"The teacher was tired of the boys' buffoonery.","exTh":"ครูเบื่อหน่ายกับพฤติกรรมตลกโปกฮาของเด็กผู้ชาย"}
+{"id":"hypnotherapy_noun","th":"การบำบัดด้วยการสะกดจิต","ex":"She tried hypnotherapy to quit smoking.","exTh":"เธอลองการบำบัดด้วยการสะกดจิตเพื่อเลิกบุหรี่"}
+{"id":"unexceptional_adj","th":"ธรรมดา; ไม่โดดเด่น","ex":"The meal was good but quite unexceptional.","exTh":"อาหารมื้อนั้นอร่อยแต่ก็ธรรมดามาก"}
+{"id":"athleticism_noun","th":"ความเป็นนักกีฬา; ความแข็งแรงว่องไว","ex":"The young player is known for his athleticism.","exTh":"นักเตะหนุ่มคนนี้เป็นที่รู้จักในเรื่องความแข็งแรงว่องไว"}
+{"id":"interweave_verb","th":"ถักทอเข้าด้วยกัน; สอดประสาน","ex":"The writer interweaves two stories in her novel.","exTh":"ผู้เขียนถักทอเรื่องราวสองเรื่องเข้าด้วยกันในนวนิยายของเธอ"}
+{"id":"unexcused_adj","th":"ไม่ได้รับอนุญาต (การขาด); ไม่มีเหตุอันควร","ex":"He had three unexcused absences this month.","exTh":"เดือนนี้เขาขาดเรียนโดยไม่ได้รับอนุญาตสามครั้ง"}
+{"id":"ponderously_adv","th":"อย่างเชื่องช้าหนักอึ้ง; อย่างน่าเบื่อ","ex":"The old elephant walked ponderously to the river.","exTh":"ช้างแก่เดินอย่างเชื่องช้าหนักอึ้งไปที่แม่น้ำ"}
+{"id":"edify_verb","th":"อบรมสั่งสอน; ยกระดับจิตใจ","ex":"The lecture was meant to edify the students.","exTh":"การบรรยายนี้มีเจตนาเพื่ออบรมนักเรียน","note":"ภาษาทางการ"}
+{"id":"rapturously_adv","th":"อย่างปลื้มปีติ; อย่างปลาบปลื้ม","ex":"The crowd cheered rapturously at the end.","exTh":"ฝูงชนส่งเสียงเชียร์อย่างปลื้มปีติตอนจบ"}
+{"id":"mesmeric_adj","th":"น่าหลงใหล; ดึงดูดใจ","ex":"The dancer gave a mesmeric performance.","exTh":"นักเต้นแสดงได้อย่างน่าหลงใหล"}
+{"id":"qualm_noun","th":"ความรู้สึกไม่สบายใจ; ความลังเลใจ","ex":"He felt no qualms about telling the truth.","exTh":"เขาไม่รู้สึกลังเลใจเลยที่จะพูดความจริง","note":"มักใช้พหูพจน์ qualms"}
+{"id":"catastrophically_adv","th":"อย่างหายนะ; อย่างร้ายแรงมาก","ex":"The plan failed catastrophically.","exTh":"แผนนั้นล้มเหลวอย่างหายนะ"}
+{"id":"magnanimously_adv","th":"อย่างใจกว้าง; อย่างมีน้ำใจ","ex":"She magnanimously forgave her rival.","exTh":"เธออภัยให้คู่แข่งอย่างใจกว้าง"}
+{"id":"irrelevancy_noun","th":"ความไม่เกี่ยวข้อง; เรื่องที่ไม่เกี่ยวข้อง","ex":"His comments were full of irrelevancies.","exTh":"ความเห็นของเขาเต็มไปด้วยเรื่องที่ไม่เกี่ยวข้อง"}
+{"id":"demystify_verb","th":"ทำให้เข้าใจง่าย; ไขความลึกลับ","ex":"This book tries to demystify modern science.","exTh":"หนังสือเล่มนี้พยายามทำให้วิทยาศาสตร์สมัยใหม่เข้าใจง่าย"}
+{"id":"incise_verb","th":"กรีด; ผ่า; แกะสลัก","ex":"The surgeon incised the skin carefully.","exTh":"ศัลยแพทย์กรีดผิวหนังอย่างระมัดระวัง"}
+{"id":"hauntingly_adv","th":"อย่างติดตรึงใจ; อย่างหลอกหลอน","ex":"She sang hauntingly beautiful songs.","exTh":"เธอร้องเพลงที่ไพเราะติดตรึงใจ"}
+{"id":"bauble_noun","th":"เครื่องประดับเล็กๆ ไร้ค่า; ลูกบอลประดับต้นคริสต์มาส","ex":"We hung a red bauble on the tree.","exTh":"เราแขวนลูกบอลประดับสีแดงบนต้นคริสต์มาส"}
+{"id":"commensurately_adv","th":"อย่างได้สัดส่วน; อย่างเหมาะสมกัน","ex":"Workers are paid commensurately with their experience.","exTh":"พนักงานได้รับค่าจ้างตามสัดส่วนกับประสบการณ์ของตน"}
+{"id":"polysyllabic_adj","th":"ที่มีหลายพยางค์","ex":"\"Understanding\" is a polysyllabic word.","exTh":"\"Understanding\" เป็นคำที่มีหลายพยางค์"}
+{"id":"lyrically_adv","th":"อย่างไพเราะเป็นกวี; อย่างมีอารมณ์กวี","ex":"He wrote lyrically about his home town.","exTh":"เขาเขียนถึงบ้านเกิดอย่างไพเราะเป็นกวี"}
+{"id":"inartistic_adj","th":"ขาดศิลปะ; ไม่มีรสนิยมทางศิลปะ","ex":"He said he was too inartistic to paint.","exTh":"เขาบอกว่าตัวเองไม่มีศิลปะพอที่จะวาดรูป"}
+{"id":"enthuse_verb","th":"พูดอย่างกระตือรือร้น; ชื่นชมอย่างยิ่ง","ex":"She enthused about her trip to Japan.","exTh":"เธอพูดถึงการเดินทางไปญี่ปุ่นอย่างกระตือรือร้น"}
+{"id":"ingenuously_adv","th":"อย่างซื่อใสไร้เดียงสา; อย่างตรงไปตรงมา","ex":"The boy ingenuously asked for a bigger prize.","exTh":"เด็กชายขอรางวัลที่ใหญ่กว่านี้อย่างซื่อใสไร้เดียงสา"}
+{"id":"resoundingly_adv","th":"อย่างขาดลอย; อย่างกึกก้อง","ex":"The team won the game resoundingly.","exTh":"ทีมชนะการแข่งขันอย่างขาดลอย"}
+{"id":"formidably_adv","th":"อย่างน่าเกรงขาม; อย่างยากจะต้านทาน","ex":"She is a formidably intelligent lawyer.","exTh":"เธอเป็นทนายความที่ฉลาดอย่างน่าเกรงขาม"}
+{"id":"glitz_noun","th":"ความหรูหราฉูดฉาด; ความแวววาว","ex":"I did not like the glitz of the casino.","exTh":"ฉันไม่ชอบความหรูหราฉูดฉาดของคาสิโน"}
+{"id":"stultify_verb","th":"ทำให้เฉื่อยชา; ขัดขวางความคิดสร้างสรรค์","ex":"Strict rules can stultify creativity.","exTh":"กฎที่เข้มงวดอาจขัดขวางความคิดสร้างสรรค์"}
+{"id":"adulterate_verb","th":"ปลอมปน; ทำให้เจือปน","ex":"The seller adulterated the milk with water.","exTh":"ผู้ขายผสมน้ำลงในนมเพื่อปลอมปน"}
+{"id":"glitzy_adj","th":"หรูหราฉูดฉาด; ดูแพรวพราว","ex":"They went to a glitzy party in the city.","exTh":"พวกเขาไปงานปาร์ตี้หรูหราฉูดฉาดในเมือง"}
+{"id":"gravitationally_adv","th":"ในเชิงแรงโน้มถ่วง; โดยแรงโน้มถ่วง","ex":"The moon is gravitationally bound to the Earth.","exTh":"ดวงจันทร์ถูกยึดไว้กับโลกด้วยแรงโน้มถ่วง"}
+{"id":"austerely_adv","th":"อย่างเรียบง่ายเคร่งครัด; อย่างเคร่งขรึม","ex":"The monks lived austerely in the mountains.","exTh":"พระภิกษุใช้ชีวิตอย่างเรียบง่ายเคร่งครัดบนภูเขา"}
+{"id":"brandish_verb","th":"ชูโบก; แกว่งขู่","ex":"The man brandished a stick at the dog.","exTh":"ชายคนนั้นแกว่งไม้ขู่สุนัข"}
+{"id":"confabulation_noun","th":"การเล่าเรื่องที่คิดขึ้นเองโดยไม่รู้ตัว; การสนทนาเรื่อยเปื่อย","ex":"The patient's memory was full of confabulation.","exTh":"ความทรงจำของผู้ป่วยเต็มไปด้วยเรื่องที่สร้างขึ้นเองโดยไม่รู้ตัว"}
+{"id":"hotelier_noun","th":"เจ้าของโรงแรม; ผู้จัดการโรงแรม","ex":"The hotelier welcomed every guest personally.","exTh":"เจ้าของโรงแรมต้อนรับแขกทุกคนด้วยตัวเอง"}
+{"id":"demystification_noun","th":"การทำให้กระจ่าง; การไขความลึกลับ","ex":"The demystification of science helps ordinary people.","exTh":"การทำให้วิทยาศาสตร์เข้าใจง่ายช่วยคนทั่วไป"}
+{"id":"pressurize_verb","th":"อัดความดัน; กดดัน","ex":"They pressurize the airplane cabin for flights.","exTh":"พวกเขาปรับความดันภายในห้องโดยสารเครื่องบินระหว่างบิน"}
+{"id":"spuriously_adv","th":"อย่างไม่จริง; อย่างผิดๆ","ex":"He spuriously claimed to be a doctor.","exTh":"เขาอ้างอย่างเท็จๆ ว่าเป็นหมอ"}
+{"id":"ingrate_noun","th":"คนเนรคุณ; คนอกตัญญู","ex":"Don't be an ingrate; say thank you.","exTh":"อย่าเป็นคนเนรคุณ จงกล่าวขอบคุณเสีย"}
+{"id":"drabness_noun","th":"ความหม่นหมอง; ความน่าเบื่อ","ex":"The drabness of the room made her sad.","exTh":"ความหม่นหมองของห้องทำให้เธอเศร้า"}
+{"id":"taciturnity_noun","th":"ความเงียบขรึม; นิสัยพูดน้อย","ex":"His taciturnity made him hard to know.","exTh":"นิสัยพูดน้อยของเขาทำให้รู้จักเขาได้ยาก"}
+{"id":"circumnavigate_verb","th":"แล่นรอบ; เดินทางรอบ","ex":"He plans to circumnavigate the world by boat.","exTh":"เขาวางแผนจะแล่นเรือรอบโลก"}
+{"id":"computerize_verb","th":"ทำให้เป็นระบบคอมพิวเตอร์; ใช้คอมพิวเตอร์จัดการ","ex":"The library computerized its records last year.","exTh":"ห้องสมุดเปลี่ยนบันทึกให้เป็นระบบคอมพิวเตอร์เมื่อปีที่แล้ว"}
+{"id":"anthropologically_adv","th":"ในแง่มานุษยวิทยา","ex":"Anthropologically, the village is very interesting.","exTh":"ในแง่มานุษยวิทยา หมู่บ้านแห่งนี้น่าสนใจมาก"}
+{"id":"deprecatingly_adv","th":"อย่างถ่อมตัว; อย่างดูแคลนตนเอง","ex":"He laughed deprecatingly at his own mistake.","exTh":"เขาหัวเราะอย่างถ่อมตัวกับความผิดพลาดของตัวเอง"}
+{"id":"emulsify_verb","th":"ทำให้เป็นอีมัลชัน; ผสมน้ำกับน้ำมันให้เข้ากัน","ex":"Egg yolk helps emulsify oil and vinegar.","exTh":"ไข่แดงช่วยให้น้ำมันกับน้ำส้มสายชูผสมเข้ากัน"}
+{"id":"voracity_noun","th":"ความตะกละ; ความกระหายอย่างมาก","ex":"The voracity of the wolves surprised the hunters.","exTh":"ความตะกละของฝูงหมาป่าทำให้นายพรานประหลาดใจ"}
+{"id":"precociously_adv","th":"อย่างเกินวัย; อย่างแก่แดด","ex":"The girl read precociously well for her age.","exTh":"เด็กหญิงอ่านหนังสือได้ดีเกินวัย"}
+{"id":"enduringly_adv","th":"อย่างยั่งยืน; อย่างยืนยง","ex":"The song remains enduringly popular.","exTh":"เพลงนี้ยังคงได้รับความนิยมอย่างยั่งยืน"}
+{"id":"preservationist_noun","th":"นักอนุรักษ์","ex":"Preservationists want to save the old theater.","exTh":"นักอนุรักษ์ต้องการรักษาโรงละครเก่าไว้"}
+{"id":"unnerve_verb","th":"ทำให้หวั่นใจ; ทำให้เสียขวัญ","ex":"The loud noise in the dark unnerved me.","exTh":"เสียงดังในความมืดทำให้ฉันหวั่นใจ"}
+{"id":"undemonstrative_adj","th":"ไม่แสดงอารมณ์; เก็บความรู้สึก","ex":"My father is quiet and undemonstrative.","exTh":"พ่อของฉันเงียบและไม่ค่อยแสดงความรู้สึก"}
+{"id":"redundantly_adv","th":"อย่างซ้ำซ้อน; อย่างเกินความจำเป็น","ex":"The sentence repeats the same idea redundantly.","exTh":"ประโยคนี้พูดซ้ำความคิดเดิมอย่างซ้ำซ้อน"}
+{"id":"solitariness_noun","th":"ความโดดเดี่ยว; ความอยู่ตามลำพัง","ex":"He enjoyed the solitariness of the mountain cabin.","exTh":"เขาเพลิดเพลินกับความโดดเดี่ยวของกระท่อมบนภูเขา"}
+{"id":"arduously_adv","th":"อย่างลำบากยากเย็น; อย่างหนัก","ex":"They arduously climbed the steep mountain.","exTh":"พวกเขาปีนภูเขาสูงชันอย่างลำบากยากเย็น"}
+{"id":"patronizingly_adv","th":"อย่างอุปถัมภ์ดูถูก; อย่างทำเป็นสูงกว่า","ex":"He patronizingly patted her on the head.","exTh":"เขาตบหัวเธออย่างทำเป็นสูงกว่า"}
+{"id":"proprietorial_adj","th":"ที่แสดงความเป็นเจ้าของ; หวงแหน","ex":"He took a proprietorial interest in the project.","exTh":"เขาแสดงความเป็นเจ้าของในโครงการนี้"}
+{"id":"indolently_adv","th":"อย่างเกียจคร้าน; อย่างเฉื่อยชา","ex":"The cat lay indolently in the sun.","exTh":"แมวนอนอย่างเกียจคร้านกลางแดด"}
+{"id":"suffuse_verb","th":"แผ่ซ่านไปทั่ว; อาบ","ex":"Warm light suffused the whole room.","exTh":"แสงอุ่นๆ แผ่ซ่านไปทั่วห้อง"}
+{"id":"telescopically_adv","th":"ด้วยกล้องโทรทรรศน์; อย่างย่นเข้า","ex":"The pole can extend telescopically to two meters.","exTh":"เสาสามารถยืดออกแบบชักเข้าชักออกได้ถึงสองเมตร"}
+{"id":"ruminative_adj","th":"ครุ่นคิด; ชอบใคร่ครวญ","ex":"He was in a ruminative mood after dinner.","exTh":"เขาอยู่ในอารมณ์ครุ่นคิดหลังอาหารเย็น"}
+{"id":"brouhaha_noun","th":"เสียงอึกทึก; เรื่องวุ่นวาย","ex":"There was a brouhaha over the new rules.","exTh":"เกิดเรื่องวุ่นวายเกี่ยวกับกฎใหม่"}
+{"id":"venomously_adv","th":"อย่างเปี่ยมพิษ; อย่างเกลียดชัง","ex":"She spoke venomously about her old boss.","exTh":"เธอพูดถึงเจ้านายเก่าอย่างเปี่ยมพิษ"}
+{"id":"tantalize_verb","th":"ยั่วยวน; ล่อให้อยากแต่ไม่ให้","ex":"The smell of fresh bread tantalized us.","exTh":"กลิ่นขนมปังอบใหม่ๆ ยั่วใจพวกเรา"}
+{"id":"wordsmith_noun","th":"นักเขียนฝีมือดี; ผู้เชี่ยวชาญการใช้ถ้อยคำ","ex":"The poet is a true wordsmith.","exTh":"กวีผู้นี้เป็นผู้เชี่ยวชาญการใช้ถ้อยคำตัวจริง"}
+{"id":"promotable_adj","th":"มีสิทธิ์เลื่อนตำแหน่ง; ที่โปรโมตได้","ex":"She is a hard worker and very promotable.","exTh":"เธอเป็นคนขยันและมีโอกาสเลื่อนตำแหน่งสูง"}
+{"id":"melodiously_adv","th":"อย่างไพเราะ; อย่างมีท่วงทำนอง","ex":"The birds sang melodiously at dawn.","exTh":"นกร้องเสียงไพเราะในยามรุ่งอรุณ"}
+{"id":"ephemerality_noun","th":"ความไม่จีรัง; ความชั่วครู่ชั่วยาม","ex":"The poem is about the ephemerality of life.","exTh":"บทกวีนี้เกี่ยวกับความไม่จีรังของชีวิต"}
+{"id":"idiomatically_adv","th":"อย่างเป็นสำนวน; ตามสำนวนภาษา","ex":"She speaks English very idiomatically.","exTh":"เธอพูดภาษาอังกฤษได้เป็นสำนวนธรรมชาติมาก"}
+{"id":"infernally_adv","th":"อย่างเลวร้ายยิ่ง; อย่างน่ารำคาญ","ex":"The weather was infernally hot all week.","exTh":"อากาศร้อนอย่างทรมานตลอดทั้งสัปดาห์","note":"ใช้เน้นความรู้สึกไม่พอใจ"}
+{"id":"patchily_adv","th":"อย่างกระจัดกระจาย; อย่างไม่สม่ำเสมอ","ex":"The grass grew patchily in the dry garden.","exTh":"หญ้าขึ้นอย่างกระจัดกระจายในสวนที่แห้งแล้ง"}
+{"id":"interrogatively_adv","th":"อย่างซักถาม; ด้วยท่าทางสงสัย","ex":"He raised his eyebrows interrogatively.","exTh":"เขายกคิ้วขึ้นอย่างซักถาม"}
+{"id":"luridly_adv","th":"อย่างฉูดฉาด; อย่างน่าสยอง","ex":"The newspaper luridly described the crime.","exTh":"หนังสือพิมพ์บรรยายอาชญากรรมอย่างน่าสยองเกินจริง"}
+{"id":"intersperse_verb","th":"แทรก; โรยปนไป","ex":"She interspersed her speech with funny stories.","exTh":"เธอแทรกเรื่องตลกในคำปราศรัยของเธอ"}
+{"id":"secularly_adv","th":"อย่างฆราวาส; ในทางโลก","ex":"The school was run secularly, without religion.","exTh":"โรงเรียนดำเนินงานแบบทางโลกโดยไม่เกี่ยวกับศาสนา"}

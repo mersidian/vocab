@@ -1,0 +1,837 @@
+[
+{
+"id": "forty-winks_idiom",
+"w": "forty winks",
+"kind": "idiom",
+"gloss": [
+"A short sleep, especially when taken during the day; a nap."
+]
+},
+{
+"id": "pink-slip_idiom",
+"w": "pink slip",
+"kind": "idiom",
+"gloss": [
+"A notice of termination of employment.",
+"The title document for an automobile.",
+"An automobile roadworthiness inspection certificate."
+]
+},
+{
+"id": "cry-for-help_idiom",
+"w": "cry for help",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see cry, for, help.",
+"Acting out as a means of displaying a subconscious desire for attention or help."
+]
+},
+{
+"id": "buy-the-farm_idiom",
+"w": "buy the farm",
+"kind": "idiom",
+"gloss": [
+"To die; generally, to die in battle or in a plane crash."
+]
+},
+{
+"id": "clean-up-one-s-act_idiom",
+"w": "clean up one's act",
+"kind": "idiom",
+"gloss": [
+"To reform; to improve one's habits."
+]
+},
+{
+"id": "tie-the-knot_idiom",
+"w": "tie the knot",
+"kind": "idiom",
+"gloss": [
+"To marry, wed, get married.",
+"Used other than figuratively or idiomatically: see tie, the, knot."
+]
+},
+{
+"id": "bend-someone-s-ear_idiom",
+"w": "bend someone's ear",
+"kind": "idiom",
+"gloss": [
+"To bore; to talk too long, especially to one particular person.",
+"To call someone's attention to an important matter.",
+"To put a hand behind one's ear and cup it around so as to hear better."
+]
+},
+{
+"id": "make-short-work-of_idiom",
+"w": "make short work of",
+"kind": "idiom",
+"gloss": [
+"To do (a task) relatively quickly or easily.",
+"To deal with or overcome (someone or something) quickly and without difficulty."
+]
+},
+{
+"id": "at-the-mercy-of_idiom",
+"w": "at the mercy of",
+"kind": "idiom",
+"gloss": [
+"In the power of; defenceless/defenseless against."
+]
+},
+{
+"id": "hit-home_idiom",
+"w": "hit home",
+"kind": "idiom",
+"gloss": [
+"To be especially memorable, meaningful, or significant; to be fully understood, believed or appreciated.",
+"To strike its target with damaging effect."
+]
+},
+{
+"id": "frog-in-one-s-throat_idiom",
+"w": "frog in one's throat",
+"kind": "idiom",
+"gloss": [
+"Hoarseness or the need to cough.",
+"Any temporary physical difficulty in speaking."
+]
+},
+{
+"id": "on-one-s-high-horse_idiom",
+"w": "on one's high horse",
+"kind": "idiom",
+"gloss": [
+"Self-righteous; proceeding on the belief one is more correct or proper than others."
+]
+},
+{
+"id": "sacred-cow_idiom",
+"w": "sacred cow",
+"kind": "idiom",
+"gloss": [
+"Something which cannot be tampered with, or criticized, for fear of public outcry. A person, institution, belief system, etc. which, for no reason other than the demands of established social etiquette or popular opinion, should be accorded respect or reverence, and not touched, handled or examined too closely."
+]
+},
+{
+"id": "keep-one-s-eyes-peeled_idiom",
+"w": "keep one's eyes peeled",
+"kind": "idiom",
+"gloss": [
+"To be on the alert, to be watchful."
+]
+},
+{
+"id": "special-needs_idiom",
+"w": "special needs",
+"kind": "idiom",
+"gloss": [
+"Needs for special care, services or accommodations for people with disabilities.",
+"Used other than figuratively or idiomatically: see special, needs.",
+"Having special needs (noun sense 1)."
+]
+},
+{
+"id": "have-a-whale-of-a-time_idiom",
+"w": "have a whale of a time",
+"kind": "idiom",
+"gloss": [
+"To enjoy oneself greatly: to have a very good time."
+]
+},
+{
+"id": "dead-ringer_idiom",
+"w": "dead ringer",
+"kind": "idiom",
+"gloss": [
+"Someone or something that very closely resembles another; someone or something easily mistaken for another."
+]
+},
+{
+"id": "trophy-wife_idiom",
+"w": "trophy wife",
+"kind": "idiom",
+"gloss": [
+"A wife, usually young and attractive, regarded as a status symbol for her husband, usually older and affluent."
+]
+},
+{
+"id": "just-the-same_idiom",
+"w": "just the same",
+"kind": "idiom",
+"gloss": [
+"Anyway; nevertheless."
+]
+},
+{
+"id": "bee-in-one-s-bonnet_idiom",
+"w": "bee in one's bonnet",
+"kind": "idiom",
+"gloss": [
+"Something of particular interest or concern; an obsession."
+]
+},
+{
+"id": "ins-and-outs_idiom",
+"w": "ins and outs",
+"kind": "idiom",
+"gloss": [
+"The details or fine points of something."
+]
+},
+{
+"id": "eat-humble-pie_idiom",
+"w": "eat humble pie",
+"kind": "idiom",
+"gloss": [
+"To admit one's faults; to make a humiliating apology."
+]
+},
+{
+"id": "do-the-trick_idiom",
+"w": "do the trick",
+"kind": "idiom",
+"gloss": [
+"To work; to be successful; to solve a problem; to be sufficient or adequate to fulfill a purpose."
+]
+},
+{
+"id": "wheat-bread_idiom",
+"w": "wheat bread",
+"kind": "idiom",
+"gloss": [
+"Any bread made from wheat flour, as contrasted with nonwheat flours."
+]
+},
+{
+"id": "be-all-and-end-all_idiom",
+"w": "be-all and end-all",
+"kind": "idiom",
+"gloss": [
+"Something considered to be of the utmost importance; something essential or ultimate."
+]
+},
+{
+"id": "grasp-at-straws_idiom",
+"w": "grasp at straws",
+"kind": "idiom",
+"gloss": [
+"To guess randomly or pursue any apparent option, due to a lack of clear choices or information.",
+"To obtain any form of help, even if it is insignificant."
+]
+},
+{
+"id": "spot-check_idiom",
+"w": "spot check",
+"kind": "idiom",
+"gloss": [
+"A cursory inspection or examination, especially of a sample of something.",
+"To inspect or examine briefly, or by sampling."
+]
+},
+{
+"id": "in-the-limelight_idiom",
+"w": "in the limelight",
+"kind": "idiom",
+"gloss": [
+"In the focus of attention, especially from the media."
+]
+},
+{
+"id": "go-bananas_idiom",
+"w": "go bananas",
+"kind": "idiom",
+"gloss": [
+"To get angry; to go mad.",
+"To become silly or excited; to go crazy."
+]
+},
+{
+"id": "just-about_idiom",
+"w": "just about",
+"kind": "idiom",
+"gloss": [
+"Approximately, very nearly."
+]
+},
+{
+"id": "sunday-best_idiom",
+"w": "Sunday best",
+"kind": "idiom",
+"gloss": [
+"A person's finest clothing, especially the clothes one reserves to wear to church on Sunday."
+]
+},
+{
+"id": "blow-a-kiss_idiom",
+"w": "blow a kiss",
+"kind": "idiom",
+"gloss": [
+"To kiss one's own hand, then blow on it in a direction towards the recipient."
+]
+},
+{
+"id": "blow-hot-and-cold_idiom",
+"w": "blow hot and cold",
+"kind": "idiom",
+"gloss": [
+"To behave inconsistently; to vacillate or to waver, as between extremes of opinion or emotion."
+]
+},
+{
+"id": "straight-and-narrow_idiom",
+"w": "straight and narrow",
+"kind": "idiom",
+"gloss": [
+"A path of honesty.",
+"A procedure according to rules and plans."
+]
+},
+{
+"id": "potemkin-village_idiom",
+"w": "Potemkin village",
+"kind": "idiom",
+"gloss": [
+"Any false construct devised to disguise a shortcoming or improve appearances."
+]
+},
+{
+"id": "under-one-s-wing_idiom",
+"w": "under one's wing",
+"kind": "idiom",
+"gloss": [
+"Under one's protection, sponsorship, or tutelage."
+]
+},
+{
+"id": "bring-to-heel_idiom",
+"w": "bring to heel",
+"kind": "idiom",
+"gloss": [
+"To compel someone to obey; to force someone into a submissive condition.",
+"To cause to act in a disciplined manner."
+]
+},
+{
+"id": "hit-the-gas_idiom",
+"w": "hit the gas",
+"kind": "idiom",
+"gloss": [
+"To go; go faster.",
+"To advance or do something more quickly or with more energy."
+]
+},
+{
+"id": "hatchet-man_idiom",
+"w": "hatchet man",
+"kind": "idiom",
+"gloss": [
+"A male professional killer or gunman.",
+"A male who carries out brutal and unpleasant duties on behalf of another, such as firing dead wood employees."
+]
+},
+{
+"id": "shanks-mare_idiom",
+"w": "shanks' mare",
+"kind": "idiom",
+"gloss": [
+"One's own feet used for walking."
+]
+},
+{
+"id": "change-hands_idiom",
+"w": "change hands",
+"kind": "idiom",
+"gloss": [
+"To become the property of someone else; to be bought or sold."
+]
+},
+{
+"id": "patience-of-job_idiom",
+"w": "patience of Job",
+"kind": "idiom",
+"gloss": [
+"A great amount of patience."
+]
+},
+{
+"id": "school-of-hard-knocks_idiom",
+"w": "school of hard knocks",
+"kind": "idiom",
+"gloss": [
+"The source of an education consisting of real-world experiences, especially adverse experiences."
+]
+},
+{
+"id": "go-with-the-flow_idiom",
+"w": "go with the flow",
+"kind": "idiom",
+"gloss": [
+"To act as others are acting, conforming to common behavior patterns with an attitude of calm acceptance."
+]
+},
+{
+"id": "home-team_idiom",
+"w": "home team",
+"kind": "idiom",
+"gloss": [
+"The team that is playing in the usual area that they play in, as opposed to their opponents, the visiting team.",
+"The ingroup (in whatever context)."
+]
+},
+{
+"id": "stand-to-reason_idiom",
+"w": "stand to reason",
+"kind": "idiom",
+"gloss": [
+"To seem logical, rational, or reasonable; to make sense."
+]
+},
+{
+"id": "say-grace_idiom",
+"w": "say grace",
+"kind": "idiom",
+"gloss": [
+"To recite a prayer of invocation or thanksgiving at meal time."
+]
+},
+{
+"id": "see-stars_idiom",
+"w": "see stars",
+"kind": "idiom",
+"gloss": [
+"To experience apparent flashing lights in one's field of vision, especially after receiving a blow to the head.",
+"To be reeling immediately after a sudden misfortune analogous to a blow."
+]
+},
+{
+"id": "at-the-end-of-one-s-tether_idiom",
+"w": "at the end of one's tether",
+"kind": "idiom",
+"gloss": [
+"At the limit of one’s patience; frustrated or annoyed."
+]
+},
+{
+"id": "warts-and-all_idiom",
+"w": "warts and all",
+"kind": "idiom",
+"gloss": [
+"Of or pertaining to a description or other depiction which reveals the full range of characteristics of a person or thing, including the shortcomings and imperfections.",
+"In a manner which does not conceal shortcomings or imperfections."
+]
+},
+{
+"id": "like-water-off-a-duck-s-back_idiom",
+"w": "like water off a duck's back",
+"kind": "idiom",
+"gloss": [
+"Without immediate or lasting effects."
+]
+},
+{
+"id": "valley-of-the-shadow-of-death_idiom",
+"w": "valley of the shadow of death",
+"kind": "idiom",
+"gloss": [
+"The world, a place where darkness and death are figurative valleys one must walk through as part of the human experience.",
+"A very dangerous place."
+]
+},
+{
+"id": "year-in-year-out_idiom",
+"w": "year in, year out",
+"kind": "idiom",
+"gloss": [
+"During every year; always."
+]
+},
+{
+"id": "quite-a-bit_idiom",
+"w": "quite a bit",
+"kind": "idiom",
+"gloss": [
+"considerably"
+]
+},
+{
+"id": "against-the-clock_idiom",
+"w": "against the clock",
+"kind": "idiom",
+"gloss": [
+"In a time-restricted manner, to meet a deadline, hurriedly, timed."
+]
+},
+{
+"id": "rob-peter-to-pay-paul_idiom",
+"w": "rob Peter to pay Paul",
+"kind": "idiom",
+"gloss": [
+"To use resources that legitimately belong to or are needed by one party in order to satisfy a legitimate need of another party, especially within the same organization or group; to solve a problem in a way that makes another problem worse, producing no net gain."
+]
+},
+{
+"id": "on-track_idiom",
+"w": "on track",
+"kind": "idiom",
+"gloss": [
+"Proceeding as planned, as expected, or in a manner consistent with an established pattern.",
+"On a well-defined promotion path in an organisation, usually tenure."
+]
+},
+{
+"id": "sea-legs_idiom",
+"w": "sea legs",
+"kind": "idiom",
+"gloss": [
+"The ability, when walking aboard a ship, to anticipate the motion of the deck so as to walk steadily without losing balance.",
+"The ability to travel by ship without becoming seasick.",
+"The ability to partially or fully inhabit a marine environment."
+]
+},
+{
+"id": "word-to-the-wise_idiom",
+"w": "word to the wise",
+"kind": "idiom",
+"gloss": [
+"A brief piece of advice.",
+"Used to emphasis following as a piece of significant advice."
+]
+},
+{
+"id": "drive-someone-up-the-wall_idiom",
+"w": "drive someone up the wall",
+"kind": "idiom",
+"gloss": [
+"To make a person very angry or frustrated; to infuriate."
+]
+},
+{
+"id": "watch-one-s-step_idiom",
+"w": "watch one's step",
+"kind": "idiom",
+"gloss": [
+"To move cautiously.",
+"To be cautious."
+]
+},
+{
+"id": "emperor-s-new-clothes_idiom",
+"w": "emperor's new clothes",
+"kind": "idiom",
+"gloss": [
+"Something obvious and embarrassing that is politely ignored or that goes unacknowledged."
+]
+},
+{
+"id": "opposite-number_idiom",
+"w": "opposite number",
+"kind": "idiom",
+"gloss": [
+"A person who holds a position in an organization, sports team, or the like, that corresponds to that held by another person in another organization; a counterpart."
+]
+},
+{
+"id": "what-you-see-is-what-you-get_idiom",
+"w": "what you see is what you get",
+"kind": "idiom",
+"gloss": [
+"The image corresponds to the reality.",
+"The screen image resembles the printed output."
+]
+},
+{
+"id": "slip-of-the-pen_idiom",
+"w": "slip of the pen",
+"kind": "idiom",
+"gloss": [
+"A mistake in handwriting; (loosely) any minor error by the writer that made it into print, having not been caught by editors or proofreaders."
+]
+},
+{
+"id": "robber-baron_idiom",
+"w": "robber baron",
+"kind": "idiom",
+"gloss": [
+"Especially in the 19th and early 20th centuries, a business tycoon who had great wealth and influence but whose methods were morally questionable and often unethical."
+]
+},
+{
+"id": "night-person_idiom",
+"w": "night person",
+"kind": "idiom",
+"gloss": [
+"A person whose preference or custom is to remain awake and active during the evening and early morning (night) hours, and who usually sleeps during part of the daytime."
+]
+},
+{
+"id": "earn-one-s-keep_idiom",
+"w": "earn one's keep",
+"kind": "idiom",
+"gloss": [
+"To perform satisfactory physical labor or to provide other worthy services in return for remuneration, lodging, or other benefits; to support oneself financially.",
+"To be worthwhile."
+]
+},
+{
+"id": "to-a-hair_idiom",
+"w": "to a hair",
+"kind": "idiom",
+"gloss": [
+"To a high degree of precision; with the utmost exactness; to a nicety."
+]
+},
+{
+"id": "wear-thin_idiom",
+"w": "wear thin",
+"kind": "idiom",
+"gloss": [
+"To lessen or weaken over time, as from overuse."
+]
+},
+{
+"id": "take-one-for-the-team_idiom",
+"w": "take one for the team",
+"kind": "idiom",
+"gloss": [
+"To accept some chore, hardship, or punishment for the sake of one's friends or colleagues."
+]
+},
+{
+"id": "jesus-mary-and-joseph_idiom",
+"w": "Jesus, Mary and Joseph",
+"kind": "idiom",
+"gloss": [
+"Expletive, used in surprise, in disgust, or to add emphasis, particularly by Catholics."
+]
+},
+{
+"id": "yeoman-s-service_idiom",
+"w": "yeoman's service",
+"kind": "idiom",
+"gloss": [
+"Arduous work, performed in a vigorous, committed manner.",
+"Reliable, useful, capable service."
+]
+},
+{
+"id": "man-in-the-street_idiom",
+"w": "man in the street",
+"kind": "idiom",
+"gloss": [
+"Synonym of man on the street."
+]
+},
+{
+"id": "have-one-s-fingers-in-many-pies_idiom",
+"w": "have one's fingers in many pies",
+"kind": "idiom",
+"gloss": [
+"To be involved in many, or too many, different things."
+]
+},
+{
+"id": "work-wonders_idiom",
+"w": "work wonders",
+"kind": "idiom",
+"gloss": [
+"To be highly successful as a solution."
+]
+},
+{
+"id": "soaked-to-the-skin_idiom",
+"w": "soaked to the skin",
+"kind": "idiom",
+"gloss": [
+"Extremely wet."
+]
+},
+{
+"id": "take-lightly_idiom",
+"w": "take lightly",
+"kind": "idiom",
+"gloss": [
+"To treat casually, without seriousness or worry."
+]
+},
+{
+"id": "step-on-someone-s-toes_idiom",
+"w": "step on someone's toes",
+"kind": "idiom",
+"gloss": [
+"To cause someone offense, especially by trying to control something that is under their authority, or interfering in their private affairs."
+]
+},
+{
+"id": "dig-in-one-s-heels_idiom",
+"w": "dig in one's heels",
+"kind": "idiom",
+"gloss": [
+"To act in a determined manner by firmly maintaining one's beliefs, demands, situation, etc. in the face of opposition or cajoling."
+]
+},
+{
+"id": "then-and-there_idiom",
+"w": "then and there",
+"kind": "idiom",
+"gloss": [
+"Right at that moment in time and on the spot; immediately."
+]
+},
+{
+"id": "gather-dust_idiom",
+"w": "gather dust",
+"kind": "idiom",
+"gloss": [
+"To remain unused for a long period of time."
+]
+},
+{
+"id": "in-all-honesty_idiom",
+"w": "in all honesty",
+"kind": "idiom",
+"gloss": [
+"honestly; in truth"
+]
+},
+{
+"id": "lesser-of-two-evils_idiom",
+"w": "lesser of two evils",
+"kind": "idiom",
+"gloss": [
+"The least harmful or unpleasant of two undesirable alternatives."
+]
+},
+{
+"id": "come-into-one-s-own_idiom",
+"w": "come into one's own",
+"kind": "idiom",
+"gloss": [
+"To reach a stage of development or maturity where one has achieved strength and confidence, economic security, or respect and social acceptance."
+]
+},
+{
+"id": "kind-regards_idiom",
+"w": "kind regards",
+"kind": "idiom",
+"gloss": [
+"Used as a polite closing of a letter."
+]
+},
+{
+"id": "park-the-bus_idiom",
+"w": "park the bus",
+"kind": "idiom",
+"gloss": [
+"To attempt to stop the opposition team from scoring a goal by playing extremely defensively and placing as many players as possible behind the ball.",
+"Used other than figuratively or idiomatically: see park, bus."
+]
+},
+{
+"id": "come-to-someone-s-aid_idiom",
+"w": "come to someone's aid",
+"kind": "idiom",
+"gloss": [
+"To assist and rescue someone."
+]
+},
+{
+"id": "drag-through-the-mud_idiom",
+"w": "drag through the mud",
+"kind": "idiom",
+"gloss": [
+"To tarnish or spoil enough so that something or someone is no longer respectable."
+]
+},
+{
+"id": "do-me-a-favour_idiom",
+"w": "do me a favour",
+"kind": "idiom",
+"gloss": [
+"Used to ask someone for a favour (may be polite or sarcastic).",
+"Expressing incredulity."
+]
+},
+{
+"id": "bird-of-ill-omen_idiom",
+"w": "bird of ill omen",
+"kind": "idiom",
+"gloss": [
+"A person who brings bad news."
+]
+},
+{
+"id": "live-beyond-one-s-means_idiom",
+"w": "live beyond one's means",
+"kind": "idiom",
+"gloss": [
+"Have a lifestyle where one's spending regularly exceeds one's income."
+]
+},
+{
+"id": "crony-capitalism_idiom",
+"w": "crony capitalism",
+"kind": "idiom",
+"gloss": [
+"A form of capitalism in which success in business depends on corrupt close relationships with government officials, often implying favouritism."
+]
+},
+{
+"id": "pay-dividends_idiom",
+"w": "pay dividends",
+"kind": "idiom",
+"gloss": [
+"To bring about something good as a result of past effort or actions."
+]
+},
+{
+"id": "lose-patience_idiom",
+"w": "lose patience",
+"kind": "idiom",
+"gloss": [
+"To become impatient."
+]
+},
+{
+"id": "thing-of-the-past_idiom",
+"w": "thing of the past",
+"kind": "idiom",
+"gloss": [
+"Something that has gone extinct or become obsolete."
+]
+},
+{
+"id": "stroke-of-luck_idiom",
+"w": "stroke of luck",
+"kind": "idiom",
+"gloss": [
+"An instance of unexpected luck, usually good luck."
+]
+},
+{
+"id": "break-one-s-promise_idiom",
+"w": "break one's promise",
+"kind": "idiom",
+"gloss": [
+"To fail to keep or maintain an assurance, bond or commitment one has made."
+]
+},
+{
+"id": "a-year-and-a-day_idiom",
+"w": "a year and a day",
+"kind": "idiom",
+"gloss": [
+"The period defined as the legal limit of time for an act or event, to ensure a full year by any method of reckoning.",
+"A long time."
+]
+},
+{
+"id": "know-your-place_idiom",
+"w": "know your place",
+"kind": "idiom",
+"gloss": [
+"To accept your position within society, an organization, your family, etc. and to not want to improve it.",
+"To be aware of the limit of one's role in a particular place or situation.",
+"To understand that you are less important than other people."
+]
+}
+]

@@ -1,0 +1,100 @@
+{"id":"sympathetic_adj","th":"เห็นอกเห็นใจ; เข้าใจความรู้สึก; เห็นด้วย","ex":"She was very sympathetic when I lost my job.","exTh":"เธอเห็นอกเห็นใจฉันมากตอนที่ฉันตกงาน"}
+{"id":"unconscious_adj","th":"หมดสติ; ไม่รู้ตัว; โดยไม่ตั้งใจ","ex":"The man was unconscious after the accident.","exTh":"ชายคนนั้นหมดสติหลังเกิดอุบัติเหตุ"}
+{"id":"vigorous_adj","th":"แข็งขัน; กระฉับกระเฉง; รุนแรง","ex":"Vigorous exercise makes your heart stronger.","exTh":"การออกกำลังกายอย่างหนักทำให้หัวใจแข็งแรงขึ้น"}
+{"id":"impulse_noun","th":"แรงกระตุ้น; ความรู้สึกอยากทำทันที; แรงกระตุ้นชั่วขณะ","ex":"I bought the shoes on impulse.","exTh":"ฉันซื้อรองเท้าคู่นั้นเพราะอยากได้ขึ้นมาทันที"}
+{"id":"update_noun","th":"การอัปเดต; ข้อมูลล่าสุด; ฉบับปรับปรุง","ex":"There is a new update for the app.","exTh":"แอปนี้มีอัปเดตใหม่"}
+{"id":"screw_verb","th":"ขันสกรู; ยึดด้วยสกรู; หมุนเข้า","ex":"He screwed the shelf to the wall.","exTh":"เขาขันสกรูยึดชั้นวางของเข้ากับผนัง"}
+{"id":"altitude_noun","th":"ระดับความสูง; ที่สูง","ex":"The plane flew at a high altitude over the sea.","exTh":"เครื่องบินบินที่ระดับความสูงเหนือทะเล"}
+{"id":"radar_noun","th":"เรดาร์; เครื่องตรวจจับด้วยคลื่นวิทยุ","ex":"The radar showed a storm moving toward the coast.","exTh":"เรดาร์แสดงว่ามีพายุกำลังเคลื่อนเข้าหาชายฝั่ง"}
+{"id":"compatible_adj","th":"เข้ากันได้; ใช้ร่วมกันได้; สอดคล้อง","ex":"Is this charger compatible with my phone?","exTh":"ที่ชาร์จนี้ใช้กับโทรศัพท์ของฉันได้ไหม"}
+{"id":"convert_verb","th":"แปลง; เปลี่ยน; เปลี่ยนศาสนา","ex":"You can convert this file to a PDF.","exTh":"คุณสามารถแปลงไฟล์นี้เป็น PDF ได้"}
+{"id":"broadly_adv","th":"โดยกว้างๆ; โดยทั่วไป; อย่างกว้างขวาง","ex":"Broadly speaking, I agree with your idea.","exTh":"โดยรวมแล้วฉันเห็นด้วยกับความคิดของคุณ"}
+{"id":"delegate_noun","th":"ผู้แทน; ตัวแทน; ผู้ร่วมประชุม","ex":"Each country sent a delegate to the meeting.","exTh":"แต่ละประเทศส่งผู้แทนมาร่วมการประชุม"}
+{"id":"keen_adj","th":"กระตือรือร้น; สนใจมาก; แหลมคม","ex":"She is keen to learn how to cook.","exTh":"เธอกระตือรือร้นที่จะเรียนทำอาหาร"}
+{"id":"olive_noun","th":"มะกอก; ผลมะกอก; สีเขียวมะกอก","ex":"I like to put olives on my pizza.","exTh":"ฉันชอบใส่มะกอกบนพิซซ่า"}
+{"id":"swift_adj","th":"รวดเร็ว; ว่องไว; ฉับพลัน","ex":"The company took swift action to fix the problem.","exTh":"บริษัทดำเนินการอย่างรวดเร็วเพื่อแก้ไขปัญหา"}
+{"id":"attribute_noun","th":"คุณลักษณะ; คุณสมบัติ; ลักษณะเฉพาะ","ex":"Honesty is her best attribute.","exTh":"ความซื่อสัตย์เป็นคุณลักษณะที่ดีที่สุดของเธอ"}
+{"id":"attribute_verb","th":"ถือว่าเป็นผลของ; ยกให้; เชื่อว่าเป็นของ","ex":"She attributes her success to hard work.","exTh":"เธอถือว่าความสำเร็จเป็นผลจากการทำงานหนัก"}
+{"id":"conductor_noun","th":"วาทยกร; ผู้เก็บค่าโดยสาร; ตัวนำไฟฟ้า","ex":"The conductor raised his arms and the music began.","exTh":"วาทยกรยกแขนขึ้นและเสียงดนตรีก็เริ่มต้น"}
+{"id":"mighty_adj","th":"ยิ่งใหญ่; มีอำนาจ; แข็งแกร่ง","ex":"The mighty river flows through three countries.","exTh":"แม่น้ำสายใหญ่ไหลผ่านสามประเทศ"}
+{"id":"sandstone_noun","th":"หินทราย","ex":"The old temple is built of red sandstone.","exTh":"วัดเก่าแห่งนี้สร้างด้วยหินทรายสีแดง"}
+{"id":"unreasonable_adj","th":"ไม่มีเหตุผล; เกินสมควร; ไม่ยุติธรรม","ex":"It is unreasonable to expect him to work all night.","exTh":"การคาดหวังให้เขาทำงานทั้งคืนเป็นเรื่องไม่สมเหตุสมผล"}
+{"id":"toll_noun","th":"ค่าผ่านทาง; จำนวนผู้เสียหาย; เสียงระฆัง","ex":"We paid a toll to use the highway.","exTh":"เราจ่ายค่าผ่านทางเพื่อใช้ทางด่วน"}
+{"id":"nerves_noun","th":"ความตื่นเต้นประหม่า; เส้นประสาท; ความกังวล","ex":"I always get nerves before an exam.","exTh":"ฉันตื่นเต้นประหม่าทุกครั้งก่อนสอบ","note":"ใช้รูปพหูพจน์เสมอเมื่อหมายถึงอาการประหม่า"}
+{"id":"vibration_noun","th":"การสั่น; การสั่นสะเทือน","ex":"I felt the vibration of the train through the floor.","exTh":"ฉันรู้สึกถึงการสั่นสะเทือนของรถไฟผ่านพื้น"}
+{"id":"ammonia_noun","th":"แอมโมเนีย","ex":"Ammonia has a very strong smell.","exTh":"แอมโมเนียมีกลิ่นฉุนมาก"}
+{"id":"economical_adj","th":"ประหยัด; คุ้มค่า","ex":"A small car is more economical to drive.","exTh":"รถคันเล็กขับแล้วประหยัดกว่า"}
+{"id":"peer_noun","th":"เพื่อนร่วมวัย; คนระดับเดียวกัน; ขุนนางอังกฤษ","ex":"Teenagers are often influenced by their peers.","exTh":"วัยรุ่นมักได้รับอิทธิพลจากเพื่อนรุ่นเดียวกัน"}
+{"id":"cope_verb","th":"รับมือ; จัดการ; ทนไหว","ex":"She struggles to cope with so much work.","exTh":"เธอลำบากในการรับมืองานจำนวนมากขนาดนี้"}
+{"id":"deliberately_adv","th":"โดยเจตนา; จงใจ; อย่างรอบคอบ","ex":"He deliberately broke the window.","exTh":"เขาตั้งใจทำหน้าต่างแตก"}
+{"id":"cemetery_noun","th":"สุสาน; ป่าช้า","ex":"The cemetery is quiet and full of old trees.","exTh":"สุสานแห่งนี้เงียบสงบและเต็มไปด้วยต้นไม้เก่าแก่"}
+{"id":"grasp_noun","th":"การจับ; ความเข้าใจ; ความสามารถเอื้อมถึง","ex":"She has a good grasp of English grammar.","exTh":"เธอเข้าใจไวยากรณ์ภาษาอังกฤษได้ดี"}
+{"id":"fame_noun","th":"ชื่อเสียง; ความโด่งดัง","ex":"The actor found fame at a very young age.","exTh":"นักแสดงคนนี้โด่งดังตั้งแต่อายุยังน้อย"}
+{"id":"probe_noun","th":"การสอบสวน; ยานสำรวจ; เครื่องมือตรวจ","ex":"The police started a probe into the accident.","exTh":"ตำรวจเริ่มการสอบสวนอุบัติเหตุครั้งนี้"}
+{"id":"sue_verb","th":"ฟ้องร้อง; ฟ้องคดี","ex":"She decided to sue the company for the damage.","exTh":"เธอตัดสินใจฟ้องบริษัทเรื่องความเสียหาย"}
+{"id":"sulfur_noun","th":"กำมะถัน; ซัลเฟอร์","ex":"Sulfur has a smell like rotten eggs.","exTh":"กำมะถันมีกลิ่นเหมือนไข่เน่า","note":"อังกฤษสะกด sulphur"}
+{"id":"elite_noun","th":"ชนชั้นสูง; กลุ่มคัดเลือก; ผู้เป็นเลิศ","ex":"Only the elite could afford to study abroad then.","exTh":"สมัยนั้นมีเพียงชนชั้นสูงที่ส่งไปเรียนต่างประเทศได้"}
+{"id":"upset_verb","th":"ทำให้เสียใจ; ทำให้ไม่พอใจ; ทำให้ปั่นป่วน","ex":"His rude words upset me.","exTh":"คำพูดหยาบคายของเขาทำให้ฉันเสียใจ","note":"รูปผัน upset, upset, upset"}
+{"id":"seminar_noun","th":"การสัมมนา; ชั้นเรียนกลุ่มย่อย","ex":"I joined a seminar on healthy eating.","exTh":"ฉันเข้าร่วมสัมมนาเรื่องการกินเพื่อสุขภาพ"}
+{"id":"merger_noun","th":"การควบรวมกิจการ; การรวมกัน","ex":"The merger of the two banks was announced today.","exTh":"วันนี้มีการประกาศควบรวมกิจการของสองธนาคาร"}
+{"id":"exhaust_noun","th":"ไอเสีย; ท่อไอเสีย","ex":"The exhaust from the old bus was black.","exTh":"ไอเสียจากรถเมล์เก่าคันนั้นเป็นสีดำ"}
+{"id":"clerical_adj","th":"เกี่ยวกับงานเสมียน; เกี่ยวกับงานธุรการ; เกี่ยวกับนักบวช","ex":"She does clerical work in a small office.","exTh":"เธอทำงานธุรการในสำนักงานเล็กๆ"}
+{"id":"influential_adj","th":"มีอิทธิพล; มีบทบาทสำคัญ","ex":"He is one of the most influential writers in the country.","exTh":"เขาเป็นนักเขียนที่มีอิทธิพลมากที่สุดคนหนึ่งในประเทศ"}
+{"id":"prose_noun","th":"ร้อยแก้ว; ภาษาเขียนที่ไม่ใช่กลอน","ex":"He writes poetry as well as prose.","exTh":"เขาเขียนทั้งบทกวีและร้อยแก้ว"}
+{"id":"alongside_prep","th":"ข้างๆ; ควบคู่กับ; พร้อมกับ","ex":"The bike was parked alongside the wall.","exTh":"จักรยานจอดอยู่ข้างผนัง"}
+{"id":"demanding_adj","th":"เรียกร้องมาก; ต้องใช้ความพยายามมาก; เอาใจยาก","ex":"She has a very demanding job in a hospital.","exTh":"เธอมีงานที่ต้องทุ่มเทมากในโรงพยาบาล"}
+{"id":"surveillance_noun","th":"การเฝ้าติดตาม; การสอดส่อง; การเฝ้าระวัง","ex":"The shop uses cameras for surveillance.","exTh":"ร้านใช้กล้องเพื่อเฝ้าสังเกตการณ์"}
+{"id":"grief_noun","th":"ความโศกเศร้า; ความเสียใจ; ความทุกข์ใจ","ex":"She was full of grief after her father died.","exTh":"เธอเต็มไปด้วยความโศกเศร้าหลังพ่อเสียชีวิต"}
+{"id":"mask_noun","th":"หน้ากาก; หน้ากากอนามัย; สิ่งปิดบัง","ex":"Please wear a mask in the hospital.","exTh":"กรุณาสวมหน้ากากอนามัยในโรงพยาบาล"}
+{"id":"hook_noun","th":"ตะขอ; ที่แขวน; เบ็ด","ex":"Hang your coat on the hook by the door.","exTh":"แขวนเสื้อโค้ทไว้ที่ตะขอข้างประตู"}
+{"id":"hook_verb","th":"เกี่ยว; แขวน; ล่อให้ติด","ex":"He hooked the bag onto the back of the chair.","exTh":"เขาเกี่ยวกระเป๋าไว้ที่พนักพิงเก้าอี้"}
+{"id":"simultaneous_adj","th":"พร้อมกัน; เกิดขึ้นในเวลาเดียวกัน","ex":"The two events were almost simultaneous.","exTh":"เหตุการณ์ทั้งสองเกิดขึ้นเกือบพร้อมกัน"}
+{"id":"eagle_noun","th":"นกอินทรี; อินทรี","ex":"An eagle flew high above the mountain.","exTh":"นกอินทรีบินสูงเหนือภูเขา"}
+{"id":"blast_noun","th":"การระเบิด; แรงอัดจากระเบิด; ลมกระโชกแรง","ex":"The blast broke the windows of nearby shops.","exTh":"แรงระเบิดทำให้กระจกร้านค้าใกล้เคียงแตก"}
+{"id":"blast_verb","th":"ระเบิด; ทำลายด้วยระเบิด; เปิดเสียงดัง","ex":"Workers blasted a tunnel through the rock.","exTh":"คนงานระเบิดหินเพื่อเจาะอุโมงค์"}
+{"id":"decomposition_noun","th":"การเน่าเปื่อย; การย่อยสลาย; การแยกส่วนประกอบ","ex":"The decomposition of leaves makes the soil richer.","exTh":"การย่อยสลายของใบไม้ทำให้ดินอุดมสมบูรณ์ขึ้น"}
+{"id":"bark_verb","th":"เห่า; ตวาด","ex":"The dog barks at every stranger.","exTh":"สุนัขเห่าคนแปลกหน้าทุกคน"}
+{"id":"legend_noun","th":"ตำนาน; เรื่องเล่า; ตัวละครในตำนาน","ex":"There is an old legend about this lake.","exTh":"มีตำนานเก่าแก่เกี่ยวกับทะเลสาบแห่งนี้"}
+{"id":"hygiene_noun","th":"สุขอนามัย; สุขลักษณะ","ex":"Good hygiene starts with washing your hands.","exTh":"สุขอนามัยที่ดีเริ่มจากการล้างมือ"}
+{"id":"contempt_noun","th":"การดูหมิ่น; ความเหยียดหยาม; การไม่ให้ความเคารพ","ex":"He looked at the cheater with contempt.","exTh":"เขามองคนโกงด้วยสายตาเหยียดหยาม"}
+{"id":"stimulate_verb","th":"กระตุ้น; ปลุกเร้า; ส่งเสริม","ex":"Coffee can stimulate your brain.","exTh":"กาแฟช่วยกระตุ้นสมองของคุณได้"}
+{"id":"politically_adv","th":"ทางการเมือง; ในแง่การเมือง","ex":"The country is politically stable now.","exTh":"ตอนนี้ประเทศมีเสถียรภาพทางการเมือง"}
+{"id":"swing_noun","th":"ชิงช้า; การแกว่ง; การเปลี่ยนแปลงอย่างมาก","ex":"The children are playing on the swing in the park.","exTh":"เด็กๆ กำลังเล่นชิงช้าในสวนสาธารณะ"}
+{"id":"swing_verb","th":"แกว่ง; ห้อย; เหวี่ยง","ex":"The door swung open in the wind.","exTh":"ประตูแกว่งเปิดออกเพราะลม","note":"รูปผัน swung, swung"}
+{"id":"alert_verb","th":"แจ้งเตือน; เตือนภัย; ทำให้ระวัง","ex":"The alarm alerted us to the fire.","exTh":"สัญญาณเตือนภัยแจ้งให้เรารู้ว่ามีไฟไหม้"}
+{"id":"transient_adj","th":"ชั่วคราว; ผ่านไปเร็ว; ไม่ยั่งยืน","ex":"Fame can be transient and quickly disappear.","exTh":"ชื่อเสียงอาจอยู่ชั่วคราวและหายไปอย่างรวดเร็ว"}
+{"id":"inference_noun","th":"การอนุมาน; ข้อสรุปที่ได้จากหลักฐาน","ex":"From the clues, we made an inference about the cause.","exTh":"จากเบาะแสต่างๆ เราสรุปเกี่ยวกับสาเหตุได้"}
+{"id":"additionally_adv","th":"นอกจากนี้; เพิ่มเติม; อีกทั้ง","ex":"Additionally, the hotel offers free breakfast.","exTh":"นอกจากนี้โรงแรมยังมีอาหารเช้าฟรี"}
+{"id":"innovative_adj","th":"สร้างสรรค์; เป็นนวัตกรรม; ล้ำสมัย","ex":"The company is known for its innovative designs.","exTh":"บริษัทนี้เป็นที่รู้จักในเรื่องงานออกแบบที่สร้างสรรค์"}
+{"id":"intersection_noun","th":"สี่แยก; ทางแยก; จุดตัด","ex":"Turn left at the next intersection.","exTh":"เลี้ยวซ้ายที่สี่แยกถัดไป"}
+{"id":"ballot_noun","th":"บัตรเลือกตั้ง; การลงคะแนน; การออกเสียง","ex":"Each voter put a ballot in the box.","exTh":"ผู้ลงคะแนนแต่ละคนหย่อนบัตรเลือกตั้งลงในหีบ"}
+{"id":"invisible_adj","th":"มองไม่เห็น; ล่องหน; ที่ไม่ปรากฏ","ex":"Air is invisible, but we need it to breathe.","exTh":"อากาศมองไม่เห็น แต่เราต้องใช้หายใจ"}
+{"id":"cane_noun","th":"ไม้เท้า; ไม้อ้อย; ลำอ้อย","ex":"My grandfather walks with a cane.","exTh":"ตาของฉันเดินโดยใช้ไม้เท้า"}
+{"id":"burial_noun","th":"การฝังศพ; พิธีฝังศพ","ex":"The burial took place on a quiet hill.","exTh":"พิธีฝังศพจัดขึ้นบนเนินเขาอันเงียบสงบ"}
+{"id":"missile_noun","th":"ขีปนาวุธ; จรวด; วัตถุที่ขว้างปา","ex":"The army tested a new missile yesterday.","exTh":"เมื่อวานกองทัพทดสอบขีปนาวุธรุ่นใหม่"}
+{"id":"stern_adj","th":"เข้มงวด; เคร่งขรึม; จริงจัง","ex":"The teacher gave the class a stern warning.","exTh":"ครูให้คำเตือนอย่างเข้มงวดกับนักเรียนทั้งห้อง"}
+{"id":"cone_noun","th":"รูปกรวย; โคน; ลูกสน","ex":"The children ate ice cream in a cone.","exTh":"เด็กๆ กินไอศกรีมใส่โคน"}
+{"id":"utilize_verb","th":"ใช้ประโยชน์; นำมาใช้; ใช้","ex":"We should utilize every part of the space.","exTh":"เราควรใช้ประโยชน์จากพื้นที่ทุกส่วน","note":"ภาษาทางการ ภาษาพูดมักใช้ use"}
+{"id":"retreat_noun","th":"การถอยทัพ; สถานที่สงบ; การปลีกตัว","ex":"We spent the weekend at a quiet mountain retreat.","exTh":"เราใช้เวลาสุดสัปดาห์ที่ที่พักสงบบนภูเขา"}
+{"id":"retreat_verb","th":"ถอยกลับ; ถอยทัพ; ล่าถอย","ex":"The soldiers had to retreat from the town.","exTh":"ทหารต้องถอยออกจากเมือง"}
+{"id":"brake_verb","th":"เบรก; ห้ามล้อ; ชะลอ","ex":"The driver braked hard to avoid the dog.","exTh":"คนขับเบรกอย่างแรงเพื่อหลบสุนัข"}
+{"id":"dock_noun","th":"ท่าเรือ; อู่เรือ; ที่นั่งจำเลย","ex":"The ship arrived at the dock early this morning.","exTh":"เรือมาถึงท่าเรือตั้งแต่เช้าตรู่"}
+{"id":"refuge_noun","th":"ที่หลบภัย; ที่พักพิง; ที่ลี้ภัย","ex":"They took refuge in a cave during the storm.","exTh":"พวกเขาหลบภัยอยู่ในถ้ำระหว่างพายุ"}
+{"id":"cathedral_noun","th":"มหาวิหาร; โบสถ์ใหญ่","ex":"We visited the old cathedral in the city center.","exTh":"เราไปเยี่ยมชมมหาวิหารเก่าแก่กลางเมือง"}
+{"id":"winding_adj","th":"คดเคี้ยว; ลดเลี้ยว; ขดเป็นวง","ex":"We drove along a narrow, winding road.","exTh":"เราขับรถไปตามถนนแคบและคดเคี้ยว"}
+{"id":"designer_adj","th":"ดีไซเนอร์; แบรนด์เนม; ออกแบบโดยนักออกแบบ","ex":"She wore designer sunglasses at the beach.","exTh":"เธอสวมแว่นกันแดดแบรนด์ดีไซเนอร์ที่ชายหาด"}
+{"id":"embassy_noun","th":"สถานทูต","ex":"I went to the embassy to ask about a visa.","exTh":"ฉันไปที่สถานทูตเพื่อสอบถามเรื่องวีซ่า"}
+{"id":"privately_adv","th":"เป็นการส่วนตัว; อย่างลับๆ; โดยเอกชน","ex":"Can I talk to you privately for a minute?","exTh":"ขอคุยกับคุณเป็นการส่วนตัวสักครู่ได้ไหม"}
+{"id":"pearl_noun","th":"ไข่มุก","ex":"She wore a necklace of white pearls.","exTh":"เธอสวมสร้อยคอไข่มุกสีขาว"}
+{"id":"stake_noun","th":"ส่วนได้เสีย; หลัก; เดิมพัน","ex":"He has a large stake in the family business.","exTh":"เขามีส่วนได้เสียมากในธุรกิจของครอบครัว"}
+{"id":"unchanged_adj","th":"ไม่เปลี่ยนแปลง; เหมือนเดิม","ex":"The price of rice stayed unchanged this month.","exTh":"ราคาข้าวไม่เปลี่ยนแปลงในเดือนนี้"}
+{"id":"invariably_adv","th":"เสมอ; ทุกครั้ง; ไม่เปลี่ยนแปลง","ex":"He is invariably late for meetings.","exTh":"เขามาสายในการประชุมทุกครั้ง"}
+{"id":"rape_noun","th":"การข่มขืน; ความผิดฐานข่มขืน","ex":"The law has strict punishment for rape.","exTh":"กฎหมายมีบทลงโทษที่รุนแรงสำหรับความผิดฐานข่มขืน","note":"คำเกี่ยวกับอาชญากรรมทางเพศ ใช้ในบริบทข่าวและกฎหมาย; อีกความหมายคือพืชน้ำมัน rapeseed"}
+{"id":"rape_verb","th":"ข่มขืน; กระทำชำเรา","ex":"The man was jailed for trying to rape a woman.","exTh":"ชายคนนั้นถูกจำคุกฐานพยายามข่มขืนหญิงคนหนึ่ง","note":"คำเกี่ยวกับอาชญากรรมทางเพศ ใช้ในบริบทข่าวและกฎหมาย"}
+{"id":"wealthy_adj","th":"ร่ำรวย; มั่งคั่ง","ex":"They are a wealthy family with several houses.","exTh":"พวกเขาเป็นครอบครัวร่ำรวยที่มีบ้านหลายหลัง"}
+{"id":"relieve_verb","th":"บรรเทา; ผ่อนคลาย; ปลดเปลื้อง","ex":"This medicine will relieve your headache.","exTh":"ยานี้จะช่วยบรรเทาอาการปวดหัวของคุณ"}
+{"id":"nursery_noun","th":"เนอร์สเซอรี่; สถานเลี้ยงเด็ก; เรือนเพาะชำ","ex":"Their little son goes to nursery three days a week.","exTh":"ลูกชายตัวน้อยของพวกเขาไปเนอร์สเซอรี่สัปดาห์ละสามวัน"}
+{"id":"sage_noun","th":"นักปราชญ์; ผู้รอบรู้; ใบเสจ","ex":"The village people asked the old sage for advice.","exTh":"ชาวบ้านไปขอคำแนะนำจากนักปราชญ์เฒ่า"}
+{"id":"cottage_noun","th":"กระท่อม; บ้านพักชนบทหลังเล็ก","ex":"They rented a small cottage by the sea.","exTh":"พวกเขาเช่าบ้านพักหลังเล็กริมทะเล"}
+{"id":"faint_verb","th":"เป็นลม; หมดสติชั่วคราว","ex":"She fainted because of the heat.","exTh":"เธอเป็นลมเพราะอากาศร้อน"}
+{"id":"testify_verb","th":"ให้การเป็นพยาน; เบิกความ; ยืนยัน","ex":"He agreed to testify against the thief in court.","exTh":"เขายอมเบิกความเป็นพยานต่อโจรในศาล"}

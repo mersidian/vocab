@@ -1,0 +1,841 @@
+[
+{
+"id": "get-straight_idiom",
+"w": "get straight",
+"kind": "idiom",
+"gloss": [
+"Synonym of clarify: to make clear, to reach an understanding."
+]
+},
+{
+"id": "far-be-it_idiom",
+"w": "far be it",
+"kind": "idiom",
+"gloss": [
+"A disclaimer stating that something should not come to pass, or that a person would never do or think a certain thing."
+]
+},
+{
+"id": "rough-around-the-edges_idiom",
+"w": "rough around the edges",
+"kind": "idiom",
+"gloss": [
+"In need of refinement; unsophisticated."
+]
+},
+{
+"id": "falling-out_idiom",
+"w": "falling out",
+"kind": "idiom",
+"gloss": [
+"A rift between people or groups, often following a disagreement or quarrel",
+"A culture-bound syndrome primarily reported in the southern United States and the Caribbean, described as a constricted consciousness as a psychological response to anxiety and stress."
+]
+},
+{
+"id": "to-be-sure_idiom",
+"w": "to be sure",
+"kind": "idiom",
+"gloss": [
+"Certainly, undoubtedly, admittedly, surely."
+]
+},
+{
+"id": "on-steroids_idiom",
+"w": "on steroids",
+"kind": "idiom",
+"gloss": [
+"To a greater degree, exaggerating the characteristics of the previously named object.",
+"Used other than figuratively or idiomatically: see on, steroids."
+]
+},
+{
+"id": "one-could-hear-a-pin-drop_idiom",
+"w": "one could hear a pin drop",
+"kind": "idiom",
+"gloss": [
+"Extremely quiet, for example, as during a lull in a normally bustling place or scene, or at a sudden dramatic or tense moment."
+]
+},
+{
+"id": "gird-up-one-s-loins_idiom",
+"w": "gird up one's loins",
+"kind": "idiom",
+"gloss": [
+"To prepare oneself for something demanding."
+]
+},
+{
+"id": "fast-asleep_idiom",
+"w": "fast asleep",
+"kind": "idiom",
+"gloss": [
+"Synonym of sound asleep."
+]
+},
+{
+"id": "kick-someone-when-they-are-down_idiom",
+"w": "kick someone when they are down",
+"kind": "idiom",
+"gloss": [
+"To make things worse for someone who is going through a difficult time."
+]
+},
+{
+"id": "to-a-fault_idiom",
+"w": "to a fault",
+"kind": "idiom",
+"gloss": [
+"To an excessive degree; extremely; counterproductively."
+]
+},
+{
+"id": "lucky-break_idiom",
+"w": "lucky break",
+"kind": "idiom",
+"gloss": [
+"A stroke of luck; a fortunate event, particularly of the sort that propels one to success, fame, etc."
+]
+},
+{
+"id": "step-on-a-rake_idiom",
+"w": "step on a rake",
+"kind": "idiom",
+"gloss": [
+"To step on the tines of a garden rake, causing the handle of the rake to rise from the ground rapidly, striking the person walking in the face.",
+"To fall victim to an avoidable (usually self-caused) hazard or error."
+]
+},
+{
+"id": "make-game-of_idiom",
+"w": "make game of",
+"kind": "idiom",
+"gloss": [
+"To ridicule; to make fun of."
+]
+},
+{
+"id": "stand-in-someone-s-shoes_idiom",
+"w": "stand in someone's shoes",
+"kind": "idiom",
+"gloss": [
+"To see from another's point of view; to feel what another feels."
+]
+},
+{
+"id": "gunboat-diplomacy_idiom",
+"w": "gunboat diplomacy",
+"kind": "idiom",
+"gloss": [
+"The pursuit of foreign policy objectives with the aid of conspicuous displays of military power."
+]
+},
+{
+"id": "blue-devils_idiom",
+"w": "blue devils",
+"kind": "idiom",
+"gloss": [
+"Low spirits; depression.",
+"Depressants, especially the barbiturate amobarbital."
+]
+},
+{
+"id": "go-places_idiom",
+"w": "go places",
+"kind": "idiom",
+"gloss": [
+"To make progress or achieve success.",
+"To travel."
+]
+},
+{
+"id": "count-angels-on-pinheads_idiom",
+"w": "count angels on pinheads",
+"kind": "idiom",
+"gloss": [
+"To focus on obtaining the correct details of something which are largely irrelevant or unimportant."
+]
+},
+{
+"id": "clean-someone-s-clock_idiom",
+"w": "clean someone's clock",
+"kind": "idiom",
+"gloss": [
+"To defeat someone decisively, in a physical fight or other competition or negotiation."
+]
+},
+{
+"id": "all-mouth-and-trousers_idiom",
+"w": "all mouth and trousers",
+"kind": "idiom",
+"gloss": [
+"Superficial, engaging in empty, boastful talk, but not of real substance."
+]
+},
+{
+"id": "the-jig-is-up_idiom",
+"w": "the jig is up",
+"kind": "idiom",
+"gloss": [
+"Used to express that a deception, trick, or dishonest scheme has been discovered, signaling the end of the ruse."
+]
+},
+{
+"id": "read-someone-s-lips_idiom",
+"w": "read someone's lips",
+"kind": "idiom",
+"gloss": [
+"To discern what someone is saying by watching the shape of the mouth rather than by hearing the sounds of the words.",
+"To pay close attention (often imperative)."
+]
+},
+{
+"id": "honorable-mention_idiom",
+"w": "honorable mention",
+"kind": "idiom",
+"gloss": [
+"A formal recognition given to a work or candidate of high merit that falls below the level of the main prizes or top honors in a competition, examination or award process."
+]
+},
+{
+"id": "worked-up_idiom",
+"w": "worked up",
+"kind": "idiom",
+"gloss": [
+"Excessively emotional, excited, aroused or angry."
+]
+},
+{
+"id": "throw-up-one-s-hands_idiom",
+"w": "throw up one's hands",
+"kind": "idiom",
+"gloss": [
+"To raise both hands in the air in an exasperated manner.",
+"To cease an attempt because it is perceived as doomed."
+]
+},
+{
+"id": "sticky-fingers_idiom",
+"w": "sticky fingers",
+"kind": "idiom",
+"gloss": [
+"An inclination to steal.",
+"Petty thieves."
+]
+},
+{
+"id": "knee-high-to-a-grasshopper_idiom",
+"w": "knee-high to a grasshopper",
+"kind": "idiom",
+"gloss": [
+"short; especially relating to when the subject was a small child"
+]
+},
+{
+"id": "inside-baseball_idiom",
+"w": "inside baseball",
+"kind": "idiom",
+"gloss": [
+"Technical matters concerning baseball generally not apparent or of interest to spectators.",
+"Matters of interest only to insiders."
+]
+},
+{
+"id": "deadbeat-dad_idiom",
+"w": "deadbeat dad",
+"kind": "idiom",
+"gloss": [
+"A man, especially one who is divorced or estranged from his partner, who fails to provide monetary child support when he is legally required to do so.",
+"A man who is voluntarily absent and uncaring towards his children, especially one who leaves them entirely in their mother's care."
+]
+},
+{
+"id": "put-something-into-perspective_idiom",
+"w": "put something into perspective",
+"kind": "idiom",
+"gloss": [
+"To compare something with a similar thing to give a clearer, more accurate idea."
+]
+},
+{
+"id": "lower-the-boom_idiom",
+"w": "lower the boom",
+"kind": "idiom",
+"gloss": [
+"To use one's superior physical strength.",
+"To scold severely."
+]
+},
+{
+"id": "bragging-rights_idiom",
+"w": "bragging rights",
+"kind": "idiom",
+"gloss": [
+"The prerogative to praise oneself for a skill or accomplishment.",
+"Honor or prestige."
+]
+},
+{
+"id": "that-s-what-she-said_idiom",
+"w": "that's what she said",
+"kind": "idiom",
+"gloss": [
+"A joking retort that draws attention to the possibility of sexual innuendo in what was just said."
+]
+},
+{
+"id": "sign-of-the-times_idiom",
+"w": "sign of the times",
+"kind": "idiom",
+"gloss": [
+"Something that is symbolic of an era."
+]
+},
+{
+"id": "stick-one-s-neck-out_idiom",
+"w": "stick one's neck out",
+"kind": "idiom",
+"gloss": [
+"To take a risk, putting oneself in a vulnerable position."
+]
+},
+{
+"id": "clean-as-a-hound-s-tooth_idiom",
+"w": "clean as a hound's tooth",
+"kind": "idiom",
+"gloss": [
+"Very clean.",
+"Very innocent."
+]
+},
+{
+"id": "land-on-one-s-feet_idiom",
+"w": "land on one's feet",
+"kind": "idiom",
+"gloss": [
+"To be lucky, or successful, often in difficult situations."
+]
+},
+{
+"id": "set-the-stage_idiom",
+"w": "set the stage",
+"kind": "idiom",
+"gloss": [
+"To prepare; to establish the basis or required conditions.",
+"To provide introductory context."
+]
+},
+{
+"id": "home-game_idiom",
+"w": "home game",
+"kind": "idiom",
+"gloss": [
+"An athletic contest played in a team's own geographic area."
+]
+},
+{
+"id": "sigh-of-relief_idiom",
+"w": "sigh of relief",
+"kind": "idiom",
+"gloss": [
+"A release of stress through breathing motions.",
+"A reassurance or support, something that reduces stress from an arduous activity."
+]
+},
+{
+"id": "kick-up-a-fuss_idiom",
+"w": "kick up a fuss",
+"kind": "idiom",
+"gloss": [
+"To show annoyance, or to complain loudly about something, often when it is of little importance in reality."
+]
+},
+{
+"id": "mend-one-s-ways_idiom",
+"w": "mend one's ways",
+"kind": "idiom",
+"gloss": [
+"To recognise one's failings and attempt to remedy them."
+]
+},
+{
+"id": "one-and-all_idiom",
+"w": "one and all",
+"kind": "idiom",
+"gloss": [
+"The entire set of persons or things within a given domain, considered both as separate individuals and collectively."
+]
+},
+{
+"id": "lie-low_idiom",
+"w": "lie low",
+"kind": "idiom",
+"gloss": [
+"To conceal oneself; to remain hidden."
+]
+},
+{
+"id": "tight-spot_idiom",
+"w": "tight spot",
+"kind": "idiom",
+"gloss": [
+"A difficult position.",
+"Used other than figuratively or idiomatically: see tight, spot."
+]
+},
+{
+"id": "hear-the-grass-grow_idiom",
+"w": "hear the grass grow",
+"kind": "idiom",
+"gloss": [
+"To have an extremely sensitive sense of hearing.",
+"To hear very well due to being in an exceptionally quiet environment.",
+"To be very aware or discerning; to pay attention to every small detail."
+]
+},
+{
+"id": "die-hard_idiom",
+"w": "die hard",
+"kind": "idiom",
+"gloss": [
+"Of a living being, to die only after a desperate struggle for life.",
+"Of a custom, idea, etc. to be slow in changing or disappearing."
+]
+},
+{
+"id": "cold-comfort_idiom",
+"w": "cold comfort",
+"kind": "idiom",
+"gloss": [
+"Much less reassurance, consolation, aid, or pleasure than one needs or desires."
+]
+},
+{
+"id": "to-that-end_idiom",
+"w": "to that end",
+"kind": "idiom",
+"gloss": [
+"For that reason, with that goal, intending to produce that result."
+]
+},
+{
+"id": "sinking-ship_idiom",
+"w": "sinking ship",
+"kind": "idiom",
+"gloss": [
+"Something which is doomed; an impending debacle; an ongoing disaster."
+]
+},
+{
+"id": "not-to-put-too-fine-a-point-on-it_idiom",
+"w": "not to put too fine a point on it",
+"kind": "idiom",
+"gloss": [
+"Used to apologize for a possibly impolite statement one is making; to put it bluntly; to express it in plain terms."
+]
+},
+{
+"id": "in-the-driver-s-seat_idiom",
+"w": "in the driver's seat",
+"kind": "idiom",
+"gloss": [
+"Having the most important role in a storyline or recognition; of primary importance.",
+"In control of an entity or situation."
+]
+},
+{
+"id": "make-a-virtue-of-necessity_idiom",
+"w": "make a virtue of necessity",
+"kind": "idiom",
+"gloss": [
+"To make the best of a difficult situation; to recast or portray an action or situation in which one has no alternatives as an action or situation which was deliberately chosen on its merits."
+]
+},
+{
+"id": "jump-for-joy_idiom",
+"w": "jump for joy",
+"kind": "idiom",
+"gloss": [
+"To exult, rejoice, or feel elation."
+]
+},
+{
+"id": "burn-rubber_idiom",
+"w": "burn rubber",
+"kind": "idiom",
+"gloss": [
+"To accelerate so rapidly from standstill that it leaves a mark of burnt rubber on the road from the tire.",
+"To move quickly; to go or leave quickly."
+]
+},
+{
+"id": "it-s-someone-s-funeral_idiom",
+"w": "it's someone's funeral",
+"kind": "idiom",
+"gloss": [
+"A person’s decisions or actions will result in negative consequences only for themselves."
+]
+},
+{
+"id": "name-and-shame_idiom",
+"w": "name and shame",
+"kind": "idiom",
+"gloss": [
+"To publish the name of (a person or organization that has committed some transgression) so as to single them out for individual blame and censure."
+]
+},
+{
+"id": "up-hill-and-down-dale_idiom",
+"w": "up hill and down dale",
+"kind": "idiom",
+"gloss": [
+"Here and there; everywhere."
+]
+},
+{
+"id": "make-a-silk-purse-of-a-sow-s-ear_idiom",
+"w": "make a silk purse of a sow's ear",
+"kind": "idiom",
+"gloss": [
+"To produce something refined, admirable, or valuable from something which is unrefined, unpleasant, or of little or no value."
+]
+},
+{
+"id": "nature-calls_idiom",
+"w": "nature calls",
+"kind": "idiom",
+"gloss": [
+"Used to indicate that someone (usually the speaker) feels a need to urinate or defecate."
+]
+},
+{
+"id": "put-that-in-your-pipe-and-smoke-it_idiom",
+"w": "put that in your pipe and smoke it",
+"kind": "idiom",
+"gloss": [
+"Used after stating something surprising or undesired, in order to emphasize its truth.",
+"Used after refuting an argument."
+]
+},
+{
+"id": "fall-at-the-last-hurdle_idiom",
+"w": "fall at the last hurdle",
+"kind": "idiom",
+"gloss": [
+"To fail near the end of an activity, a project, etc."
+]
+},
+{
+"id": "junkyard-dog_idiom",
+"w": "junkyard dog",
+"kind": "idiom",
+"gloss": [
+"An aggressive dog which guards a scrapyard or junkyard.",
+"An animal or person with an especially nasty and combative demeanor.",
+"A hot dog laden with toppings, such as onions, pineapple, or chili."
+]
+},
+{
+"id": "not-in-the-least_idiom",
+"w": "not in the least",
+"kind": "idiom",
+"gloss": [
+"not at all, not in any way"
+]
+},
+{
+"id": "break-the-fourth-wall_idiom",
+"w": "break the fourth wall",
+"kind": "idiom",
+"gloss": [
+"To apparently communicate with reality directly, such as when characters of literature comment on the existence of a reader."
+]
+},
+{
+"id": "send-shivers-down-someone-s-spine_idiom",
+"w": "send shivers down someone's spine",
+"kind": "idiom",
+"gloss": [
+"To terrify; to make someone feel extremely nervous."
+]
+},
+{
+"id": "take-someone-s-breath-away_idiom",
+"w": "take someone's breath away",
+"kind": "idiom",
+"gloss": [
+"To make a person feel emotionally moved in a pleasant way."
+]
+},
+{
+"id": "no-hard-feelings_idiom",
+"w": "no hard feelings",
+"kind": "idiom",
+"gloss": [
+"(I, etc.) hold no lingering anger or resentment toward (you, etc.); there's no bad blood between (us, etc.)."
+]
+},
+{
+"id": "come-a-long-way_idiom",
+"w": "come a long way",
+"kind": "idiom",
+"gloss": [
+"To make significant progress."
+]
+},
+{
+"id": "polish-parliament_idiom",
+"w": "Polish parliament",
+"kind": "idiom",
+"gloss": [
+"The Sejm of the Republic of Poland.",
+"A deliberative but indecisive institution."
+]
+},
+{
+"id": "kick-into-touch_idiom",
+"w": "kick into touch",
+"kind": "idiom",
+"gloss": [
+"To kick a ball over the touchline in a game of rugby, often to avoid pressure from the opponent team in a difficult situation, to end injury time or to gain territory.",
+"To evade an issue; to stop from happening."
+]
+},
+{
+"id": "have-one-s-way-with_idiom",
+"w": "have one's way with",
+"kind": "idiom",
+"gloss": [
+"Synonym of have one's way (“to obtain the circumstances one wishes for, with somebody or something”).",
+"To engage (as the more active or dominant partner) in sexual intercourse with, especially without the consent of one's partner; rape."
+]
+},
+{
+"id": "grist-for-the-mill_idiom",
+"w": "grist for the mill",
+"kind": "idiom",
+"gloss": [
+"Something that is useful or that creates a favorable opportunity."
+]
+},
+{
+"id": "kick-the-can-down-the-road_idiom",
+"w": "kick the can down the road",
+"kind": "idiom",
+"gloss": [
+"To avoid or postpone a decision or action; to procrastinate."
+]
+},
+{
+"id": "cradle-snatcher_idiom",
+"w": "cradle snatcher",
+"kind": "idiom",
+"gloss": [
+"A person who prefers to date people significantly younger than themselves."
+]
+},
+{
+"id": "run-riot_idiom",
+"w": "run riot",
+"kind": "idiom",
+"gloss": [
+"To act in an uncontrolled, unbridled manner.",
+"To be uncontrollable."
+]
+},
+{
+"id": "lay-it-on-thick_idiom",
+"w": "lay it on thick",
+"kind": "idiom",
+"gloss": [
+"To exaggerate or overstate a feeling or emotion.",
+"To flatter.",
+"To guilt, guilt-trip."
+]
+},
+{
+"id": "run-with-scissors_idiom",
+"w": "run with scissors",
+"kind": "idiom",
+"gloss": [
+"To behave recklessly.",
+"To take a calculated risk.",
+"Used other than figuratively or idiomatically: see run, scissors."
+]
+},
+{
+"id": "put-out-a-fire_idiom",
+"w": "put out a fire",
+"kind": "idiom",
+"gloss": [
+"To address a problem, especially an unexpected one caused by the incompetence, negligence, or misconduct of another person.",
+"Used other than figuratively or idiomatically: put out a fire."
+]
+},
+{
+"id": "fair-haired-boy_idiom",
+"w": "fair-haired boy",
+"kind": "idiom",
+"gloss": [
+"Someone's favorite, especially a young one; a blue-eyed boy (British), (Australian)"
+]
+},
+{
+"id": "wear-out-one-s-welcome_idiom",
+"w": "wear out one's welcome",
+"kind": "idiom",
+"gloss": [
+"To behave in an offensive, burdensome, or tiresome manner, with the result that one's continued presence is unwanted within a residence, commercial establishment, or social group."
+]
+},
+{
+"id": "kick-up-one-s-heels_idiom",
+"w": "kick up one's heels",
+"kind": "idiom",
+"gloss": [
+"To dance.",
+"To relax; to enjoy oneself; to do as one pleases.",
+"Used other than figuratively or idiomatically: see kick, up, one's, heels."
+]
+},
+{
+"id": "heavy-lifting_idiom",
+"w": "heavy lifting",
+"kind": "idiom",
+"gloss": [
+"The most demanding part of an endeavour; work requiring the most effort, resources, or consideration.",
+"Used other than figuratively or idiomatically: see heavy, lifting."
+]
+},
+{
+"id": "take-a-turn-for-the-better_idiom",
+"w": "take a turn for the better",
+"kind": "idiom",
+"gloss": [
+"To start to become better; to improve."
+]
+},
+{
+"id": "open-one-s-legs_idiom",
+"w": "open one's legs",
+"kind": "idiom",
+"gloss": [
+"Synonym of put out (consent to having sex)."
+]
+},
+{
+"id": "preach-to-deaf-ears_idiom",
+"w": "preach to deaf ears",
+"kind": "idiom",
+"gloss": [
+"To attempt to persuade a party that does not wish to listen or cannot be altered in its conviction."
+]
+},
+{
+"id": "at-daggers-drawn_idiom",
+"w": "at daggers drawn",
+"kind": "idiom",
+"gloss": [
+"In a state of open hostility."
+]
+},
+{
+"id": "hide-in-plain-sight_idiom",
+"w": "hide in plain sight",
+"kind": "idiom",
+"gloss": [
+"To be unnoticeable, by staying visible."
+]
+},
+{
+"id": "blow-me-down_idiom",
+"w": "blow me down",
+"kind": "idiom",
+"gloss": [
+"A cry of surprise"
+]
+},
+{
+"id": "public-eye_idiom",
+"w": "public eye",
+"kind": "idiom",
+"gloss": [
+"The focus of public attention; the limelight."
+]
+},
+{
+"id": "pay-packet_idiom",
+"w": "pay packet",
+"kind": "idiom",
+"gloss": [
+"A sealed envelope containing a person's wages.",
+"The amount a person earns from employment."
+]
+},
+{
+"id": "pick-one-s-battles_idiom",
+"w": "pick one's battles",
+"kind": "idiom",
+"gloss": [
+"To involve oneself in disputes only if one is likely to win.",
+"To take a stand for a cause only if it is truly important enough to be worth the costs."
+]
+},
+{
+"id": "tick-all-the-boxes_idiom",
+"w": "tick all the boxes",
+"kind": "idiom",
+"gloss": [
+"To fulfill all the requirements, especially as itemized in a list; to have all the needed characteristics; to complete all the steps in a process in an orderly manner."
+]
+},
+{
+"id": "at-the-very-least_idiom",
+"w": "at the very least",
+"kind": "idiom",
+"gloss": [
+"At least; as an absolute minimum; emphatic form of at the least."
+]
+},
+{
+"id": "come-down-to-earth_idiom",
+"w": "come down to earth",
+"kind": "idiom",
+"gloss": [
+"To be brought back to reality; to emerge from a daydream."
+]
+},
+{
+"id": "paradise-on-earth_idiom",
+"w": "paradise on earth",
+"kind": "idiom",
+"gloss": [
+"An ideal or idyllic place."
+]
+},
+{
+"id": "more-than-meets-the-eye_idiom",
+"w": "more than meets the eye",
+"kind": "idiom",
+"gloss": [
+"More than what is apparent or readily noticeable."
+]
+},
+{
+"id": "go-to-sea_idiom",
+"w": "go to sea",
+"kind": "idiom",
+"gloss": [
+"To become a sailor.",
+"To put out with seaward heading."
+]
+},
+{
+"id": "take-the-veil_idiom",
+"w": "take the veil",
+"kind": "idiom",
+"gloss": [
+"To retire into a convent and live as a nun."
+]
+}
+]

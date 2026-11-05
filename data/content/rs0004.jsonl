@@ -1,0 +1,100 @@
+{"id":"quantum_x","th":"ปริมาณ; จำนวน; ควอนตัม","ex":"The court decided the quantum of damages last week.","exTh":"ศาลตัดสินจำนวนค่าเสียหายเมื่อสัปดาห์ที่แล้ว","pos":"noun","note":"ในวิทยาศาสตร์หมายถึงหน่วยพลังงานที่เล็กที่สุด"}
+{"id":"procurement_x","th":"การจัดซื้อ; การจัดหา","ex":"The procurement team buys supplies for the whole company.","exTh":"ทีมจัดซื้อซื้อวัสดุให้ทั้งบริษัท","pos":"noun"}
+{"id":"linguistic_x","th":"เกี่ยวกับภาษา; ทางภาษาศาสตร์","ex":"She has strong linguistic skills and speaks four languages.","exTh":"เธอมีทักษะทางภาษาที่ดีและพูดได้สี่ภาษา","pos":"adj"}
+{"id":"delegation_x","th":"คณะผู้แทน; การมอบหมายงาน","ex":"A delegation from Japan visited our office today.","exTh":"คณะผู้แทนจากญี่ปุ่นมาเยี่ยมสำนักงานของเราวันนี้","pos":"noun"}
+{"id":"sociology_x","th":"สังคมวิทยา","ex":"He is studying sociology at university.","exTh":"เขากำลังเรียนสังคมวิทยาที่มหาวิทยาลัย","pos":"noun"}
+{"id":"defect_x","th":"ข้อบกพร่อง; ตำหนิ; ความผิดปกติ","ex":"The phone had a defect, so I returned it.","exTh":"โทรศัพท์เครื่องนี้มีตำหนิ ฉันจึงเอาไปคืน","pos":"noun"}
+{"id":"node_x","th":"จุดเชื่อมต่อ; ปม; โหนด","ex":"Each computer is a node in the network.","exTh":"คอมพิวเตอร์แต่ละเครื่องเป็นจุดเชื่อมต่อในเครือข่าย","pos":"noun"}
+{"id":"tech_x","th":"เทคโนโลยี; ธุรกิจเทคโนโลยี","ex":"My brother works for a tech company in Bangkok.","exTh":"พี่ชายของฉันทำงานที่บริษัทเทคโนโลยีในกรุงเทพฯ","pos":"noun","note":"คำย่อของ technology ใช้ในภาษาพูด"}
+{"id":"cord_x","th":"เชือก; สายไฟ","ex":"Please plug the cord into the wall.","exTh":"ช่วยเสียบสายไฟเข้ากับผนังหน่อย","pos":"noun"}
+{"id":"spouse_x","th":"คู่สมรส; สามีหรือภรรยา","ex":"You can bring your spouse to the party.","exTh":"คุณพาคู่สมรสมางานเลี้ยงได้","pos":"noun"}
+{"id":"therapeutic_x","th":"เกี่ยวกับการรักษา; ช่วยบำบัด; ทำให้สบายใจ","ex":"Walking in the garden is very therapeutic for me.","exTh":"การเดินเล่นในสวนช่วยให้ฉันผ่อนคลายมาก","pos":"adj"}
+{"id":"alien_x","th":"มนุษย์ต่างดาว; คนต่างด้าว; ต่างถิ่น","ex":"The film is about an alien who visits Earth.","exTh":"หนังเรื่องนี้เล่าถึงมนุษย์ต่างดาวที่มาเยือนโลก","pos":"noun"}
+{"id":"precipitation_x","th":"ปริมาณน้ำฝน; ฝนหรือหิมะที่ตก","ex":"Heavy precipitation is expected in the north tomorrow.","exTh":"คาดว่าพรุ่งนี้ภาคเหนือจะมีฝนตกหนัก","pos":"noun"}
+{"id":"consistently_x","th":"อย่างสม่ำเสมอ; เสมอมา","ex":"She consistently gets good grades in math.","exTh":"เธอได้เกรดวิชาคณิตศาสตร์ดีอย่างสม่ำเสมอ","pos":"adv"}
+{"id":"indigenous_x","th":"พื้นเมือง; ดั้งเดิม; ท้องถิ่น","ex":"Indigenous people have lived in this forest for centuries.","exTh":"ชนพื้นเมืองอาศัยอยู่ในป่านี้มาหลายศตวรรษ","pos":"adj"}
+{"id":"overview_x","th":"ภาพรวม; บทสรุปย่อ","ex":"The teacher gave us an overview of the course.","exTh":"ครูให้ภาพรวมของรายวิชานี้แก่เรา","pos":"noun"}
+{"id":"levy_x","th":"เรียกเก็บ (ภาษี); จัดเก็บ","ex":"The government plans to levy a new tax on sugar.","exTh":"รัฐบาลวางแผนเก็บภาษีใหม่จากน้ำตาล","pos":"verb"}
+{"id":"dividend_x","th":"เงินปันผล; ตัวตั้ง (ในการหาร)","ex":"The company paid a dividend to its shareholders.","exTh":"บริษัทจ่ายเงินปันผลให้ผู้ถือหุ้น","pos":"noun"}
+{"id":"issuance_x","th":"การออก (เอกสาร, หุ้น); การออกให้","ex":"The issuance of new passports takes about a week.","exTh":"การออกหนังสือเดินทางเล่มใหม่ใช้เวลาประมาณหนึ่งสัปดาห์","pos":"noun"}
+{"id":"interim_x","th":"ชั่วคราว; ช่วงเวลาระหว่างนั้น","ex":"An interim manager will lead the team for now.","exTh":"ผู้จัดการชั่วคราวจะนำทีมไปก่อนในตอนนี้","pos":"adj"}
+{"id":"locally_x","th":"ในท้องถิ่น; ในบริเวณใกล้เคียง","ex":"We buy our vegetables locally from the market.","exTh":"เราซื้อผักในท้องถิ่นจากตลาด","pos":"adv"}
+{"id":"submission_x","th":"การส่ง (งาน); การยอมจำนน; ผลงานที่ส่ง","ex":"The deadline for submission is Friday at noon.","exTh":"กำหนดส่งงานคือเที่ยงวันศุกร์","pos":"noun"}
+{"id":"delta_x","th":"ดินดอนสามเหลี่ยมปากแม่น้ำ; ตัวอักษรเดลตา; ส่วนต่าง","ex":"Many farms are in the river delta.","exTh":"ฟาร์มจำนวนมากอยู่ในดินดอนสามเหลี่ยมปากแม่น้ำ","pos":"noun"}
+{"id":"friction_x","th":"แรงเสียดทาน; การเสียดสี; ความขัดแย้ง","ex":"Friction between the tires and the road helps cars stop.","exTh":"แรงเสียดทานระหว่างยางกับถนนช่วยให้รถหยุดได้","pos":"noun"}
+{"id":"deviation_x","th":"การเบี่ยงเบน; ความคลาดเคลื่อน","ex":"There was a small deviation from the original plan.","exTh":"มีการเบี่ยงเบนเล็กน้อยจากแผนเดิม","pos":"noun"}
+{"id":"tolerance_x","th":"ความอดทน; ความอดกลั้น; ความยอมรับ","ex":"Teachers need a lot of tolerance with young children.","exTh":"ครูต้องมีความอดทนสูงเมื่ออยู่กับเด็กเล็ก","pos":"noun"}
+{"id":"virgin_x","th":"พรหมจารี; บริสุทธิ์; ยังไม่เคยใช้","ex":"This salad uses virgin olive oil.","exTh":"สลัดนี้ใช้น้ำมันมะกอกบริสุทธิ์","pos":"adj","note":"ใช้กับน้ำมันมะกอก (extra virgin) หรือพื้นที่ที่ยังไม่ถูกแตะต้อง"}
+{"id":"intake_x","th":"ปริมาณที่รับเข้า; การบริโภค; การรับเข้า","ex":"Doctors tell us to reduce our sugar intake.","exTh":"หมอบอกให้เราลดปริมาณน้ำตาลที่กินเข้าไป","pos":"noun"}
+{"id":"glucose_x","th":"น้ำตาลกลูโคส","ex":"Our body uses glucose for energy.","exTh":"ร่างกายของเราใช้กลูโคสเป็นพลังงาน","pos":"noun"}
+{"id":"formulation_x","th":"การกำหนดสูตร; การเรียบเรียง; ตำรับยา","ex":"The formulation of a new medicine takes many years.","exTh":"การคิดค้นสูตรยาใหม่ใช้เวลาหลายปี","pos":"noun"}
+{"id":"urine_x","th":"ปัสสาวะ; น้ำปัสสาวะ","ex":"The doctor asked me for a urine sample.","exTh":"หมอขอตัวอย่างปัสสาวะจากฉัน","pos":"noun","note":"คำทางการแพทย์"}
+{"id":"regression_x","th":"การถดถอย; การย้อนกลับสู่สภาพเดิม","ex":"The child showed regression after moving to a new school.","exTh":"เด็กมีพฤติกรรมถดถอยหลังย้ายไปโรงเรียนใหม่","pos":"noun"}
+{"id":"grid_x","th":"ตาราง; ตารางช่อง; โครงข่าย (ไฟฟ้า)","ex":"The city streets are laid out in a grid.","exTh":"ถนนในเมืองนี้วางเป็นตารางสี่เหลี่ยม","pos":"noun"}
+{"id":"peripheral_x","th":"อยู่รอบนอก; ไม่สำคัญ; เป็นเรื่องรอง","ex":"That is a peripheral issue, not the main problem.","exTh":"นั่นเป็นเรื่องรอง ไม่ใช่ปัญหาหลัก","pos":"adj"}
+{"id":"ongoing_x","th":"ที่ดำเนินอยู่; ต่อเนื่อง","ex":"The police investigation is still ongoing.","exTh":"การสืบสวนของตำรวจยังดำเนินอยู่","pos":"adj"}
+{"id":"guardian_x","th":"ผู้ปกครอง; ผู้พิทักษ์","ex":"A guardian must sign the form for a child.","exTh":"ผู้ปกครองต้องเซ็นแบบฟอร์มให้เด็ก","pos":"noun"}
+{"id":"cardiac_x","th":"เกี่ยวกับหัวใจ","ex":"He was taken to the cardiac unit of the hospital.","exTh":"เขาถูกพาไปที่หน่วยโรคหัวใจของโรงพยาบาล","pos":"adj"}
+{"id":"overhead_x","th":"เหนือศีรษะ; ค่าใช้จ่ายทั่วไป","ex":"The overhead light in my room is broken.","exTh":"ไฟเพดานในห้องฉันเสีย","pos":"adj"}
+{"id":"tribal_x","th":"เกี่ยวกับชนเผ่า; แบบชนเผ่า","ex":"The museum shows tribal art from many countries.","exTh":"พิพิธภัณฑ์แสดงศิลปะชนเผ่าจากหลายประเทศ","pos":"adj"}
+{"id":"diplomatic_x","th":"ทางการทูต; มีไหวพริบ; รู้จักพูดจา","ex":"She gave a diplomatic answer to avoid an argument.","exTh":"เธอตอบอย่างมีชั้นเชิงเพื่อไม่ให้เกิดการโต้เถียง","pos":"adj"}
+{"id":"affirmative_x","th":"ยืนยัน; ตอบรับ; ในทางบวก","ex":"I received an affirmative answer from the manager.","exTh":"ฉันได้รับคำตอบรับจากผู้จัดการ","pos":"adj"}
+{"id":"soluble_x","th":"ละลายได้; แก้ได้","ex":"Sugar is soluble in water.","exTh":"น้ำตาลละลายในน้ำได้","pos":"adj"}
+{"id":"architectural_x","th":"เกี่ยวกับสถาปัตยกรรม; ทางสถาปัตย์","ex":"We took a tour of the old city's architectural sites.","exTh":"เราไปทัวร์ชมสถาปัตยกรรมในเมืองเก่า","pos":"adj"}
+{"id":"cumulative_x","th":"สะสม; ทบต้น; เพิ่มพูนขึ้นเรื่อยๆ","ex":"The cumulative effect of stress can harm your health.","exTh":"ผลสะสมของความเครียดอาจทำร้ายสุขภาพของคุณ","pos":"adj"}
+{"id":"cluster_x","th":"กลุ่ม; พวง; กระจุก","ex":"A cluster of grapes hung from the vine.","exTh":"องุ่นพวงหนึ่งห้อยอยู่บนเถา","pos":"noun"}
+{"id":"adaptation_x","th":"การปรับตัว; การดัดแปลง","ex":"The film is an adaptation of a famous novel.","exTh":"ภาพยนตร์เรื่องนี้ดัดแปลงมาจากนิยายชื่อดัง","pos":"noun"}
+{"id":"expertise_x","th":"ความเชี่ยวชาญ; ความชำนาญ","ex":"We need someone with expertise in design.","exTh":"เราต้องการคนที่เชี่ยวชาญด้านการออกแบบ","pos":"noun"}
+{"id":"chapel_x","th":"โบสถ์เล็ก; ห้องสวดมนต์","ex":"They got married in a small chapel by the sea.","exTh":"พวกเขาแต่งงานกันในโบสถ์เล็กริมทะเล","pos":"noun"}
+{"id":"immune_x","th":"มีภูมิคุ้มกัน; ได้รับการยกเว้น","ex":"After the vaccine, she became immune to the disease.","exTh":"หลังฉีดวัคซีน เธอมีภูมิคุ้มกันต่อโรคนี้","pos":"adj"}
+{"id":"distinctive_x","th":"โดดเด่น; มีเอกลักษณ์","ex":"She has a distinctive voice that everyone remembers.","exTh":"เธอมีเสียงที่เป็นเอกลักษณ์ ใครๆ ก็จำได้","pos":"adj"}
+{"id":"annum_x","th":"ปี (ใช้ในสำนวน per annum)","ex":"He earns fifty thousand dollars per annum.","exTh":"เขามีรายได้ปีละห้าหมื่นดอลลาร์","pos":"noun","note":"ใช้ในวลี per annum แปลว่า ต่อปี ภาษาทางการ"}
+{"id":"stimulus_x","th":"สิ่งกระตุ้น; แรงจูงใจ","ex":"Light is a stimulus that makes plants grow.","exTh":"แสงเป็นสิ่งกระตุ้นที่ทำให้พืชเติบโต","pos":"noun","note":"พหูพจน์คือ stimuli"}
+{"id":"receptor_x","th":"ตัวรับ; หน่วยรับความรู้สึก","ex":"Cells have receptors that detect chemicals.","exTh":"เซลล์มีตัวรับที่ตรวจจับสารเคมี","pos":"noun"}
+{"id":"explicitly_x","th":"อย่างชัดเจน; โดยตรง","ex":"The rules explicitly say that phones are not allowed.","exTh":"กฎระบุไว้อย่างชัดเจนว่าห้ามใช้โทรศัพท์","pos":"adv"}
+{"id":"economically_x","th":"ในทางเศรษฐกิจ; อย่างประหยัด","ex":"The country is growing economically each year.","exTh":"ประเทศนี้เติบโตทางเศรษฐกิจในแต่ละปี","pos":"adv"}
+{"id":"generator_x","th":"เครื่องกำเนิดไฟฟ้า; ผู้สร้าง; ตัวกำเนิด","ex":"We used a generator when the power went out.","exTh":"เราใช้เครื่องปั่นไฟตอนไฟดับ","pos":"noun"}
+{"id":"amplitude_x","th":"แอมพลิจูด; ช่วงกว้างของคลื่น; ขนาด","ex":"A louder sound has a larger wave amplitude.","exTh":"เสียงที่ดังกว่ามีแอมพลิจูดของคลื่นใหญ่กว่า","pos":"noun"}
+{"id":"capita_x","th":"หัว (คน) ใช้ในวลี per capita","ex":"The country has a high income per capita.","exTh":"ประเทศนี้มีรายได้ต่อหัวสูง","pos":"noun","note":"ใช้ในวลี per capita แปลว่า ต่อหัว หรือ ต่อคน"}
+{"id":"indicator_x","th":"ตัวชี้วัด; เครื่องบ่งชี้; ไฟสัญญาณ","ex":"Sales are a good indicator of success.","exTh":"ยอดขายเป็นตัวชี้วัดความสำเร็จที่ดี","pos":"noun"}
+{"id":"computation_x","th":"การคำนวณ; ผลการคำนวณ","ex":"The computation took the computer only one second.","exTh":"การคำนวณใช้เวลาคอมพิวเตอร์เพียงหนึ่งวินาที","pos":"noun"}
+{"id":"approximation_x","th":"ค่าประมาณ; การประมาณ","ex":"Three point one four is an approximation of pi.","exTh":"สามจุดหนึ่งสี่เป็นค่าประมาณของพาย","pos":"noun"}
+{"id":"distress_x","th":"ความทุกข์ใจ; ความเดือดร้อน; ภาวะอันตราย","ex":"The child was in distress and started to cry.","exTh":"เด็กทุกข์ใจและเริ่มร้องไห้","pos":"noun"}
+{"id":"realm_x","th":"อาณาจักร; ขอบเขต; แวดวง","ex":"Cooking is not in my realm of skills.","exTh":"การทำอาหารไม่อยู่ในขอบเขตความสามารถของฉัน","pos":"noun"}
+{"id":"substrate_x","th":"ชั้นรองพื้น; วัสดุรองรับ; สารตั้งต้น","ex":"Moss grows on a rock substrate.","exTh":"ตะไคร่น้ำขึ้นบนพื้นหิน","pos":"noun"}
+{"id":"reign_x","th":"การครองราชย์; ช่วงเวลาครองราชย์; ครองอำนาจ","ex":"The queen's reign lasted over fifty years.","exTh":"รัชสมัยของราชินีกินเวลานานกว่าห้าสิบปี","pos":"noun"}
+{"id":"nominal_x","th":"เป็นเพียงในนาม; เล็กน้อย (ราคา)","ex":"The museum charges only a nominal fee to enter.","exTh":"พิพิธภัณฑ์เก็บค่าเข้าเพียงเล็กน้อย","pos":"adj"}
+{"id":"differentiation_x","th":"การแยกความแตกต่าง; การทำให้แตกต่าง","ex":"Product differentiation helps a brand stand out.","exTh":"การสร้างความแตกต่างของสินค้าช่วยให้แบรนด์โดดเด่น","pos":"noun"}
+{"id":"sovereign_x","th":"มีอำนาจอธิปไตย; เป็นเอกราช; พระมหากษัตริย์","ex":"Thailand is a sovereign country.","exTh":"ประเทศไทยเป็นประเทศที่มีอธิปไตย","pos":"adj"}
+{"id":"commentary_x","th":"คำบรรยาย; บทวิจารณ์; ข้อคิดเห็น","ex":"I like listening to the radio commentary of the match.","exTh":"ฉันชอบฟังเสียงบรรยายการแข่งขันทางวิทยุ","pos":"noun"}
+{"id":"controller_x","th":"ตัวควบคุม; ผู้ควบคุม; จอยเกม","ex":"I lost the remote controller for the game.","exTh":"ฉันทำจอยควบคุมของเกมหาย","pos":"noun"}
+{"id":"feasible_x","th":"เป็นไปได้; ทำได้จริง","ex":"Is it feasible to finish this work by Monday?","exTh":"งานนี้จะเสร็จภายในวันจันทร์เป็นไปได้ไหม","pos":"adj"}
+{"id":"shipment_x","th":"การขนส่งสินค้า; สินค้าที่ส่ง","ex":"The shipment arrived two days late.","exTh":"สินค้าที่ส่งมาถึงช้าไปสองวัน","pos":"noun"}
+{"id":"conceptual_x","th":"เชิงแนวคิด; ในทางความคิด","ex":"The artist showed a conceptual design for the building.","exTh":"ศิลปินแสดงแบบร่างเชิงแนวคิดของอาคาร","pos":"adj"}
+{"id":"coordinate_x","th":"ประสานงาน; พิกัด; จัดให้เข้ากัน","ex":"She will coordinate the event for our team.","exTh":"เธอจะประสานงานจัดกิจกรรมให้ทีมของเรา","pos":"verb","note":"เป็นนามแปลว่า พิกัด"}
+{"id":"advocate_x","th":"ผู้สนับสนุน; ทนายความ; ผู้เรียกร้อง","ex":"She is a strong advocate for children's rights.","exTh":"เธอเป็นผู้สนับสนุนสิทธิเด็กอย่างแข็งขัน","pos":"noun"}
+{"id":"recipient_x","th":"ผู้รับ; ผู้ได้รับ","ex":"The recipient of the award gave a short speech.","exTh":"ผู้ได้รับรางวัลกล่าวสุนทรพจน์สั้นๆ","pos":"noun"}
+{"id":"kidney_x","th":"ไต","ex":"The kidneys clean our blood.","exTh":"ไตทำหน้าที่กรองเลือดของเรา","pos":"noun"}
+{"id":"tribunal_x","th":"ศาล; คณะตุลาการ; คณะกรรมการตัดสิน","ex":"The case was heard by a special tribunal.","exTh":"คดีนี้ถูกพิจารณาโดยศาลพิเศษ","pos":"noun"}
+{"id":"insure_x","th":"ทำประกัน; รับประกัน","ex":"You should insure your car before you drive it.","exTh":"คุณควรทำประกันรถก่อนขับ","pos":"verb"}
+{"id":"incorporation_x","th":"การรวมเข้าด้วยกัน; การจดทะเบียนเป็นบริษัท","ex":"The incorporation of the new company took two weeks.","exTh":"การจดทะเบียนตั้งบริษัทใหม่ใช้เวลาสองสัปดาห์","pos":"noun"}
+{"id":"onset_x","th":"การเริ่มต้น; การเริ่มเป็น (โรค)","ex":"The onset of winter came early this year.","exTh":"ฤดูหนาวเริ่มมาเร็วในปีนี้","pos":"noun"}
+{"id":"plea_x","th":"การอ้อนวอน; คำร้องขอ; คำให้การต่อศาล","ex":"He made a plea for help on the radio.","exTh":"เขาร้องขอความช่วยเหลือทางวิทยุ","pos":"noun"}
+{"id":"substitution_x","th":"การแทนที่; การเปลี่ยนตัว","ex":"The coach made a substitution in the second half.","exTh":"โค้ชเปลี่ยนตัวผู้เล่นในครึ่งหลัง","pos":"noun"}
+{"id":"inability_x","th":"ความไม่สามารถ; การทำไม่ได้","ex":"His inability to swim made him afraid of the sea.","exTh":"การว่ายน้ำไม่เป็นทำให้เขากลัวทะเล","pos":"noun"}
+{"id":"accord_x","th":"ข้อตกลง; ความสอดคล้อง; ให้","ex":"The two countries signed a peace accord.","exTh":"สองประเทศลงนามในข้อตกลงสันติภาพ","pos":"noun"}
+{"id":"sediment_x","th":"ตะกอน","ex":"The river carries sediment down to the sea.","exTh":"แม่น้ำพัดพาตะกอนไปสู่ทะเล","pos":"noun"}
+{"id":"consolidation_x","th":"การรวมเข้าด้วยกัน; การทำให้มั่นคง","ex":"The consolidation of the two banks saved money.","exTh":"การควบรวมธนาคารสองแห่งช่วยประหยัดเงิน","pos":"noun"}
+{"id":"inconsistent_x","th":"ไม่สม่ำเสมอ; ขัดแย้งกัน","ex":"His answers were inconsistent, so nobody believed him.","exTh":"คำตอบของเขาขัดแย้งกัน จึงไม่มีใครเชื่อ","pos":"adj"}
+{"id":"auditor_x","th":"ผู้ตรวจสอบบัญชี; ผู้สอบบัญชี","ex":"The auditor checked the company's financial records.","exTh":"ผู้สอบบัญชีตรวจสอบบันทึกทางการเงินของบริษัท","pos":"noun"}
+{"id":"alpha_x","th":"อัลฟา (อักษรตัวแรกของกรีก); อันดับหนึ่ง; ตัวเด่น","ex":"Alpha is the first letter of the Greek alphabet.","exTh":"อัลฟาเป็นอักษรตัวแรกของอักษรกรีก","pos":"noun"}
+{"id":"den_x","th":"ถ้ำ; รัง (สัตว์); ห้องส่วนตัว","ex":"The fox returned to its den at night.","exTh":"สุนัขจิ้งจอกกลับเข้ารังในตอนกลางคืน","pos":"noun"}
+{"id":"fertility_x","th":"ความอุดมสมบูรณ์; ภาวะเจริญพันธุ์","ex":"The fertility of the soil here is very high.","exTh":"ดินที่นี่อุดมสมบูรณ์มาก","pos":"noun"}
+{"id":"gauge_x","th":"เครื่องวัด; มาตรวัด; ประเมิน","ex":"The fuel gauge shows that the tank is almost empty.","exTh":"มาตรวัดน้ำมันแสดงว่าถังเกือบหมด","pos":"noun"}
+{"id":"mandatory_x","th":"เป็นข้อบังคับ; จำเป็นต้องทำ","ex":"Wearing a helmet is mandatory on this site.","exTh":"การสวมหมวกนิรภัยเป็นข้อบังคับในพื้นที่นี้","pos":"adj"}
+{"id":"uranium_x","th":"ยูเรเนียม","ex":"Nuclear power plants use uranium as fuel.","exTh":"โรงไฟฟ้านิวเคลียร์ใช้ยูเรเนียมเป็นเชื้อเพลิง","pos":"noun"}
+{"id":"optimum_x","th":"ที่ดีที่สุด; เหมาะสมที่สุด; ระดับที่เหมาะสม","ex":"This is the optimum temperature for growing rice.","exTh":"นี่คืออุณหภูมิที่เหมาะสมที่สุดสำหรับการปลูกข้าว","pos":"adj"}
+{"id":"incomplete_x","th":"ไม่สมบูรณ์; ยังไม่เสร็จ","ex":"Your form is incomplete, so please fill in the rest.","exTh":"แบบฟอร์มของคุณยังไม่สมบูรณ์ กรุณากรอกส่วนที่เหลือ","pos":"adj"}
+{"id":"successor_x","th":"ผู้สืบทอด; ผู้ที่มารับตำแหน่งต่อ","ex":"The director chose her successor before retiring.","exTh":"ผู้อำนวยการเลือกผู้สืบทอดตำแหน่งก่อนเกษียณ","pos":"noun"}
+{"id":"subjective_x","th":"เป็นอัตวิสัย; ขึ้นอยู่กับความรู้สึกส่วนตัว","ex":"Taste in music is very subjective.","exTh":"รสนิยมทางดนตรีขึ้นอยู่กับความรู้สึกส่วนตัวมาก","pos":"adj"}
+{"id":"notably_x","th":"โดยเฉพาะอย่างยิ่ง; อย่างน่าสังเกต","ex":"Several people came, notably the mayor.","exTh":"มีหลายคนมา โดยเฉพาะนายกเทศมนตรี","pos":"adv"}

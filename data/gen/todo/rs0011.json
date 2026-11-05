@@ -1,0 +1,869 @@
+[
+{
+"id": "fetus_x",
+"w": "fetus",
+"gloss": [
+"An unborn or unhatched vertebrate showing signs of the mature animal.",
+"A human embryo after the eighth week of gestation.",
+"A neonate."
+]
+},
+{
+"id": "prostate_x",
+"w": "prostate",
+"gloss": [
+"The prostate gland.",
+"Of or relating to the prostate gland."
+]
+},
+{
+"id": "robe_x",
+"w": "robe",
+"gloss": [
+"A long loose outer garment, often signifying honorary stature.",
+"The skin of an animal, especially the bison, dressed with the fur on, and used as a wrap.",
+"A wardrobe, especially one built into a bedroom."
+]
+},
+{
+"id": "riches_x",
+"w": "riches",
+"gloss": [
+"Money, goods, wealth, treasure.",
+"An abundance of anything desirable.",
+"Rich people."
+]
+},
+{
+"id": "escort_x",
+"w": "escort",
+"gloss": [
+"A group of people or vehicles, generally armed, who go with a person or people of importance to safeguard them on a journey or mission.",
+"An accompanying person in such a group.",
+"A guard who travels with a dangerous person, such as a criminal, for the protection of others."
+]
+},
+{
+"id": "riot_x",
+"w": "riot",
+"gloss": [
+"A tumultuous disturbance of the public peace by a large group of people, often involving violence or damage to property.",
+"A wide and unconstrained variety.",
+"A humorous or entertaining event or person."
+]
+},
+{
+"id": "complication_x",
+"w": "complication",
+"gloss": [
+"The act or process of complicating.",
+"The state of being complicated; intricate or confused relation of parts; complexity.",
+"A person who doesn't fit in with the main scheme of things; an interloper."
+]
+},
+{
+"id": "strife_x",
+"w": "strife",
+"gloss": [
+"Striving; earnest endeavor; hard work.",
+"Exertion or contention for superiority, either by physical or intellectual means.",
+"Bitter conflict, sometimes violent."
+]
+},
+{
+"id": "crescent_x",
+"w": "crescent",
+"gloss": [
+"The figure of the moon as it appears between its first or last quarter and the new moon, with concave and convex edges terminating in points.",
+"A curved pastry.",
+"A curved street, often presenting a continuous façade, as of row houses."
+]
+},
+{
+"id": "promotional_x",
+"w": "promotional",
+"gloss": [
+"Of or relating to an advertising promotion; serving to promote a service, institution, business, etc.",
+"Of or relating to promotion to a post of higher status.",
+"An advertising promotion"
+]
+},
+{
+"id": "equivalence_x",
+"w": "equivalence",
+"gloss": [
+"The condition of being equivalent or essentially equal: the status of being interchangeable.",
+"An act of equating two things; an assertion of equivalence.",
+"The relationship between two propositions that are either both true or both false."
+]
+},
+{
+"id": "lofty_x",
+"w": "lofty",
+"gloss": [
+"High, tall, having great height or stature.",
+"Idealistic, implying over-optimism.",
+"Extremely proud; arrogant; haughty."
+]
+},
+{
+"id": "maternity_x",
+"w": "maternity",
+"gloss": [
+"The state of being a mother; motherhood.",
+"The state of being pregnant; pregnancy.",
+"A ward or department in a hospital in which babies are born."
+]
+},
+{
+"id": "lessor_x",
+"w": "lessor",
+"gloss": [
+"The owner of property that is leased; the landlord to a lease."
+]
+},
+{
+"id": "hallway_x",
+"w": "hallway",
+"gloss": [
+"A corridor in a building that connects rooms."
+]
+},
+{
+"id": "intangible_x",
+"w": "intangible",
+"gloss": [
+"Incapable of being perceived by the senses; incorporeal.",
+"Difficult to define or describe clearly, but nonetheless perceived.",
+"Anything intangible."
+]
+},
+{
+"id": "abide_x",
+"w": "abide",
+"gloss": [
+"To endure without yielding; to withstand.",
+"To bear patiently.",
+"To pay for; to take the consequences of."
+]
+},
+{
+"id": "enlarge_x",
+"w": "enlarge",
+"gloss": [
+"To make (something) larger.",
+"To grow larger.",
+"To increase the capacity of; to expand; to give free scope or greater scope to; also, to dilate, as with joy, affection, etc."
+]
+},
+{
+"id": "inoculation_x",
+"w": "inoculation",
+"gloss": [
+"The introduction of an antigenic substance or vaccine into the body to produce immunity to a specific disease.",
+"The introduction of a microorganism into a culture medium.",
+"The insertion of the buds of one plant into another; grafting."
+]
+},
+{
+"id": "radiant_x",
+"w": "radiant",
+"gloss": [
+"Radiating light and/or heat.",
+"Emitted as radiation.",
+"Beaming with vivacity and happiness."
+]
+},
+{
+"id": "contemplate_x",
+"w": "contemplate",
+"gloss": [
+"To look at on all sides or in all its aspects; to view or consider with continued attention; to regard with deliberate care; to meditate on; to study, ponder, or consider.",
+"To consider as a possibility."
+]
+},
+{
+"id": "dementia_x",
+"w": "dementia",
+"gloss": [
+"A progressive decline in cognitive function due to damage or disease in the brain beyond what might be expected from normal aging. Areas particularly affected include memory, attention, judgement, language and problem solving.",
+"Madness or insanity."
+]
+},
+{
+"id": "utterance_x",
+"w": "utterance",
+"gloss": [
+"An act of, or the process of, uttering.",
+"An instance of that act or process: especially, something spoken (e.g., syllables, words, phrases); (especially linguistics) any such thing either spoken or written.",
+"The ability to speak."
+]
+},
+{
+"id": "epilepsy_x",
+"w": "epilepsy",
+"gloss": [
+"A medical condition in which the sufferer experiences seizures (or convulsions) and blackouts."
+]
+},
+{
+"id": "oscillation_x",
+"w": "oscillation",
+"gloss": [
+"the act of oscillating or the state of being oscillated",
+"a regular periodic fluctuation in value about some mean",
+"a single such cycle"
+]
+},
+{
+"id": "cartilage_x",
+"w": "cartilage",
+"gloss": [
+"A usually translucent and somewhat elastic, dense, nonvascular connective tissue found in various forms in the larynx and respiratory tract, in structures such as the external ear, and in the articulating surfaces of joints. It composes most of the skeleton of vertebrate embryos, being replaced by bone during ossification in the higher vertebrates.",
+"A particular structure made of cartilage."
+]
+},
+{
+"id": "gladly_x",
+"w": "gladly",
+"gloss": [
+"In a glad manner; happily.",
+"Willingly; certainly."
+]
+},
+{
+"id": "bitterness_x",
+"w": "bitterness",
+"gloss": [
+"The quality of having a bitter taste.",
+"The quality of feeling bitter; acrimony, resentment; the quality of exhibiting such feelings.",
+"The quality of eliciting a bitter, humiliating or harsh feeling."
+]
+},
+{
+"id": "memoir_x",
+"w": "memoir",
+"gloss": [
+"An autobiography; a book describing the personal experiences of an author.",
+"A biography; a book describing the experiences of a subject from personal knowledge of the subject or from sources with personal knowledge of the subject.",
+"Any form of narrative describing the personal experiences of a writer."
+]
+},
+{
+"id": "affiliate_x",
+"w": "affiliate",
+"gloss": [
+"Someone or something, especially, a television station, that is associated with a larger, related organization, such as a television network; a member of a group of associated things.",
+"To adopt; to receive into a family as one's offspring",
+"to bring or receive into close connection; to ally."
+]
+},
+{
+"id": "aide_x",
+"w": "aide",
+"gloss": [
+"An assistant.",
+"An officer who acts as assistant to a more senior one; an aide-de-camp."
+]
+},
+{
+"id": "motif_x",
+"w": "motif",
+"gloss": [
+"A recurring or dominant element; an artistic theme.",
+"A short melodic or lyrical passage that is repeated in several parts of a work.",
+"A decorative figure that is repeated in a design or pattern."
+]
+},
+{
+"id": "earnestly_x",
+"w": "earnestly",
+"gloss": [
+"In an earnest manner; being very sincere; putting forth genuine effort."
+]
+},
+{
+"id": "scout_x",
+"w": "scout",
+"gloss": [
+"A person sent out to gather and bring back information; especially, one employed in war to gain information about the enemy and ground.",
+"An act of scouting or reconnoitering.",
+"A member of any number of youth organizations belonging to the international scout movement, such as the Boy Scouts of America or Girl Scouts of the United States."
+]
+},
+{
+"id": "diversification_x",
+"w": "diversification",
+"gloss": [
+"The act, or the result, of diversifying.",
+"A corporate strategy in which a company acquires or establishes a business other than that of its current product.",
+"An investment strategy involving investing in a range of assets with differing features in order to reduce specific risk."
+]
+},
+{
+"id": "dictatorship_x",
+"w": "dictatorship",
+"gloss": [
+"A type of government where absolute sovereignty is allotted to an individual or a small clique.",
+"A government which exercises autocratic rule.",
+"Any household, institution, or other organization that is run under such sovereignty or autocracy."
+]
+},
+{
+"id": "transplant_x",
+"w": "transplant",
+"gloss": [
+"To uproot (a growing plant), and plant it in another place.",
+"To remove (something) and establish its residence in another place; to resettle or relocate.",
+"To transfer (tissue or an organ) from one body to another, or from one part of a body to another."
+]
+},
+{
+"id": "habitual_x",
+"w": "habitual",
+"gloss": [
+"Of or relating to a habit; established as a habit; performed over and over again; recurrent, recurring.",
+"Regular or usual.",
+"Of a person or thing: engaging in some behaviour as a habit or regularly."
+]
+},
+{
+"id": "vengeance_x",
+"w": "vengeance",
+"gloss": [
+"Revenge taken for an insult, injury, or other wrong.",
+"Desire for revenge."
+]
+},
+{
+"id": "waive_x",
+"w": "waive",
+"gloss": [
+"To relinquish (a right etc.); to give up claim to; to forgo.",
+"To relinquish claim on a payment or fee which would otherwise be due.",
+"To release [a player] onto the waiver wire"
+]
+},
+{
+"id": "vest_x",
+"w": "vest",
+"gloss": [
+"A sleeveless garment that buttons down the front, worn over a shirt, and often as part of a suit; a waistcoat.",
+"A sleeveless garment, often with a low-cut neck, usually worn under a shirt or blouse.",
+"A sleeveless top, typically with identifying colours or logos, worn by an athlete or member of a sports team."
+]
+},
+{
+"id": "prostitution_x",
+"w": "prostitution",
+"gloss": [
+"Engaging in sexual activity with another person for pay.",
+"Engaging in sexual activity with another person in exchange for goods (not necessarily money) or services.",
+"Debasement for profit or impure motives."
+]
+},
+{
+"id": "vault_x",
+"w": "vault",
+"gloss": [
+"An arched masonry structure supporting and forming a ceiling, whether freestanding or forming part of a larger building.",
+"Any arched ceiling or roof.",
+"Anything resembling such a downward-facing concave structure, particularly caves and the sky or firmament."
+]
+},
+{
+"id": "spike_x",
+"w": "spike",
+"gloss": [
+"A sort of very large nail.",
+"A piece of pointed metal etc. set with points upward or outward.",
+"Anything resembling such a nail in shape."
+]
+},
+{
+"id": "convertible_x",
+"w": "convertible",
+"gloss": [
+"Able to be exchanged, one for the other, especially",
+"Able to be exchanged for specie.",
+"Able to be exchanged for foreign currency."
+]
+},
+{
+"id": "inconvenience_x",
+"w": "inconvenience",
+"gloss": [
+"The quality of being inconvenient.",
+"Something that is not convenient, something that bothers.",
+"To bother; to discomfort."
+]
+},
+{
+"id": "allocate_x",
+"w": "allocate",
+"gloss": [
+"To set aside for a purpose.",
+"To distribute according to a plan, generally followed by the adposition to.",
+"To reserve a portion of memory for use by a computer program."
+]
+},
+{
+"id": "syndicate_x",
+"w": "syndicate",
+"gloss": [
+"A group of individuals or companies formed to transact some specific business, or to promote a common interest; a self-coordinating group.",
+"A group of gangsters engaged in organized crime.",
+"A group of media companies, or an agency, formed to acquire content such as articles, cartoons, etc., and to publish it in multiple outlets; a chain of newspapers or other media outlets managed by such an organization."
+]
+},
+{
+"id": "socket_x",
+"w": "socket",
+"gloss": [
+"An opening into which a plug or other connecting part is designed to fit (e.g. a light bulb socket).",
+"A hollow into a bone which a part fits, such as an eye, or another bone, in the case of a joint.",
+"The socket head for a socket wrench."
+]
+},
+{
+"id": "thanksgiving_x",
+"w": "thanksgiving",
+"gloss": [
+"Thanksgiving Day, celebrated on the second Monday of October in Canada, and on the fourth Thursday of November in the United States.",
+"The long weekend which includes Thanksgiving Day; Thanksgiving weekend.",
+"An analogous celebration in other cultures, especially a harvest festival."
+]
+},
+{
+"id": "simulate_x",
+"w": "simulate",
+"gloss": [
+"To model, replicate, duplicate the behavior, appearance or properties of.",
+"Feigned; pretended."
+]
+},
+{
+"id": "omit_x",
+"w": "omit",
+"gloss": [
+"To leave out or exclude.",
+"To fail to perform.",
+"To delete or remove; to strike."
+]
+},
+{
+"id": "archer_x",
+"w": "archer",
+"gloss": [
+"One who shoots an arrow from a bow or a bolt from a crossbow.",
+"The bishop in chess.",
+"The constellation and zodiacal sign Sagittarius."
+]
+},
+{
+"id": "disgust_x",
+"w": "disgust",
+"gloss": [
+"To cause an intense dislike for something.",
+"An intense dislike or loathing someone feels for something bad or nasty."
+]
+},
+{
+"id": "hospitalization_x",
+"w": "hospitalization",
+"gloss": [
+"The hospitalizing of a patient, the condition of being hospitalized, or the period a patient stays in hospital.",
+"Insurance that pays a patient's expenses."
+]
+},
+{
+"id": "suture_x",
+"w": "suture",
+"gloss": [
+"A seam formed by sewing two edges together, especially to join pieces of skin in surgically treating a wound.",
+"Thread used to sew or stitch two edges (especially of skin) together.",
+"An area where separate terrane join together along a major fault."
+]
+},
+{
+"id": "consolidate_x",
+"w": "consolidate",
+"gloss": [
+"To combine into a single unit; to group together or join.",
+"To make stronger or more solid.",
+"With respect to debt, to pay off several debts with a single loan."
+]
+},
+{
+"id": "humility_x",
+"w": "humility",
+"gloss": [
+"The characteristic of being humble; humbleness in character and behavior."
+]
+},
+{
+"id": "landmark_x",
+"w": "landmark",
+"gloss": [
+"An object that marks the boundary of a piece of land (usually a stone, or a tree).",
+"A recognizable natural or man-made feature used for navigation.",
+"A notable location with historical, cultural, or geographical significance."
+]
+},
+{
+"id": "deter_x",
+"w": "deter",
+"gloss": [
+"To prevent something from happening.",
+"To persuade someone not to do something; to discourage.",
+"To distract someone from something."
+]
+},
+{
+"id": "dictate_x",
+"w": "dictate",
+"gloss": [
+"An order or command.",
+"To order, command, control.",
+"To speak in order for someone to write down the words."
+]
+},
+{
+"id": "lexical_x",
+"w": "lexical",
+"gloss": [
+"Concerning the vocabulary, words, sentences or morphemes of a language.",
+"Concerning lexicography or a lexicon or dictionary.",
+"Denoting a content word as opposed to a function word."
+]
+},
+{
+"id": "importer_x",
+"w": "importer",
+"gloss": [
+"One who, or that which, imports: especially a person or company importing goods into a country."
+]
+},
+{
+"id": "entail_x",
+"w": "entail",
+"gloss": [
+"To imply, require, or invoke.",
+"To settle or fix inalienably on a person or thing, or on a person and his descendants or a certain line of descendants; -- said especially of an estate; to bestow as a heritage.",
+"To appoint hereditary possessor."
+]
+},
+{
+"id": "restitution_x",
+"w": "restitution",
+"gloss": [
+"A process of compensation for losses.",
+"The act of making good or compensating for loss or injury.",
+"A return or restoration to a previous condition or position."
+]
+},
+{
+"id": "prod_x",
+"w": "prod",
+"gloss": [
+"To poke, to push, to touch.",
+"To encourage, to prompt.",
+"To prick with a goad."
+]
+},
+{
+"id": "privatization_x",
+"w": "privatization",
+"gloss": [
+"The transfer of a company or organization from government to private ownership and control.",
+"The rendering of a thought or an idea, as private in scope."
+]
+},
+{
+"id": "twilight_x",
+"w": "twilight",
+"gloss": [
+"The soft light in the sky seen before the rising and (especially) after the setting of the sun, occasioned by the illumination of the earth’s atmosphere by the direct rays of the sun and their reflection on the earth.",
+"The time when said light is visible; the period between daylight and darkness.",
+"Any faint light through which something is seen."
+]
+},
+{
+"id": "contributor_x",
+"w": "contributor",
+"gloss": [
+"A benefactor; someone who donates to charity or some cause.",
+"A person who backs, supports or champions a cause, activity or institution.",
+"A person (or thing) instrumental in the creation or growth of something."
+]
+},
+{
+"id": "tow_x",
+"w": "tow",
+"gloss": [
+"To pull something behind one, such as by using a line, chain, or tongue.",
+"To aid someone behind by shielding them from wind resistance.",
+"The act of towing and the condition of being towed."
+]
+},
+{
+"id": "infinity_x",
+"w": "infinity",
+"gloss": [
+"Endlessness, unlimitedness, absence of a beginning, end or limits to size.",
+"A number that has an infinite numerical value that cannot be counted.",
+"An idealised point which is said to be approached by sequences of values whose magnitudes increase without bound."
+]
+},
+{
+"id": "hum_x",
+"w": "hum",
+"gloss": [
+"A hummed tune, i.e. created orally with lips closed.",
+"An often indistinct sound resembling human humming.",
+"Busy activity, like the buzz of a beehive."
+]
+},
+{
+"id": "ark_x",
+"w": "ark",
+"gloss": [
+"A large box with a flat lid.",
+"The ship built by Noah to save his family and a collection of animals from the deluge; Noah's ark.",
+"Something affording protection; safety, shelter, refuge."
+]
+},
+{
+"id": "auditorium_x",
+"w": "auditorium",
+"gloss": [
+"A large room for public meetings or performances.",
+"The space where the audience is located in a theater, etc."
+]
+},
+{
+"id": "abs_x",
+"w": "abs",
+"gloss": [
+"The abdominal muscles; plural of ab.",
+"plumbing Pipes composed of this plastic.",
+"A diminutive of the female given name Abigail."
+]
+},
+{
+"id": "overflow_x",
+"w": "overflow",
+"gloss": [
+"The spillage resultant from overflowing.",
+"An outlet for escape of excess material.",
+"Excess, superabundance"
+]
+},
+{
+"id": "resale_x",
+"w": "resale",
+"gloss": [
+"Sale of something previously bought.",
+"The sale by the original seller to another purchaser of goods due to non-payment by original purchaser, often with the original purchaser liable for any shortfall between the original sale price and the price realized by the original seller."
+]
+},
+{
+"id": "ovary_x",
+"w": "ovary",
+"gloss": [
+"A female reproductive organ, often paired, that produces ova in most animals, and in mammals, secretes the hormones estrogen and progesterone.",
+"The lower part of a pistil or carpel that bears ovules and ripens into fruit."
+]
+},
+{
+"id": "pinch_x",
+"w": "pinch",
+"gloss": [
+"To squeeze a small amount of a person's skin and flesh, making it hurt.",
+"To squeeze between the thumb and forefinger.",
+"To squeeze between two objects."
+]
+},
+{
+"id": "cue_x",
+"w": "cue",
+"gloss": [
+"The name of the Latin script letter Q/q.",
+"A small portion of bread or beer; the quantity bought with a farthing or half farthing and noted with a q (for Latin quadrāns (“farthing”)) in the buttery books.",
+"An action or event that is a signal for somebody to do something."
+]
+},
+{
+"id": "reportedly_x",
+"w": "reportedly",
+"gloss": [
+"According to reports or rumors."
+]
+},
+{
+"id": "ancestral_x",
+"w": "ancestral",
+"gloss": [
+"Of, pertaining to, derived from, or possessed by, an ancestor or ancestors.",
+"An ancestor or forbear.",
+"A descendant of one's ancestors."
+]
+},
+{
+"id": "clash_x",
+"w": "clash",
+"gloss": [
+"A loud sound, like the crashing together of metal objects; a crash.",
+"A skirmish, a hostile encounter.",
+"match; a game between two sides."
+]
+},
+{
+"id": "tilt_x",
+"w": "tilt",
+"gloss": [
+"To slope or incline (something); to slant.",
+"To be at an angle.",
+"To charge (at someone) with a lance."
+]
+},
+{
+"id": "withhold_x",
+"w": "withhold",
+"gloss": [
+"To keep (a physical object that one has obtained) to oneself rather than giving it back to its owner.",
+"To keep (information, assent, etc.) to oneself rather than revealing it.",
+"To stay back, to refrain."
+]
+},
+{
+"id": "negotiable_x",
+"w": "negotiable",
+"gloss": [
+"Able to be traversed; navigable.",
+"Able to be transferred to another person, with or without endorsement, in exchange for money.",
+"Open to negotiation or bargaining."
+]
+},
+{
+"id": "affirmation_x",
+"w": "affirmation",
+"gloss": [
+"That which is affirmed; a declaration that something is true.",
+"A solemn pledge (to tell the truth, to bear allegiance, etc.), legally equivalent to an oath, taken by people who are forbidden to take a religious oath (such as Quakers) or otherwise prefer not to do so.",
+"A form of self-forced meditation or repetition; autosuggestion."
+]
+},
+{
+"id": "rig_x",
+"w": "rig",
+"gloss": [
+"The rigging of a sailing ship or other such craft.",
+"Special equipment or gear used for a particular purpose.",
+"A large truck, especially a semi-trailer truck."
+]
+},
+{
+"id": "impurity_x",
+"w": "impurity",
+"gloss": [
+"The condition of being impure; because of contamination, pollution, adulteration or insufficient purification.",
+"A component or additive that renders something else impure.",
+"A state of immorality or sin; especially the weakness of the flesh: inchastity."
+]
+},
+{
+"id": "foe_x",
+"w": "foe",
+"gloss": [
+"Hostile.",
+"An enemy.",
+"A unit of energy equal to 10⁴⁴ joules."
+]
+},
+{
+"id": "gamble_x",
+"w": "gamble",
+"gloss": [
+"A bet or wager.",
+"A significant risk, undertaken with a potential gain.",
+"A risky venture."
+]
+},
+{
+"id": "intern_x",
+"w": "intern",
+"gloss": [
+"A person who is interned, forcibly or voluntarily.",
+"To imprison somebody, usually without trial.",
+"To confine or hold (foreign military personnel who stray into the state's territory) within prescribed limits during wartime."
+]
+},
+{
+"id": "stereo_x",
+"w": "stereo",
+"gloss": [
+"A system of recording or reproducing sound that uses two or more channels, each playing a portion of the original sound at different locations in order to simulate the separation of sources along at least one spatial dimension.",
+"Any object or device equipped with audio components that reproduces sound in stereo, such as a stereo console in the home.",
+"A stereotype."
+]
+},
+{
+"id": "invasive_x",
+"w": "invasive",
+"gloss": [
+"Of or pertaining to invasion; offensive.",
+"That invades a foreign country using military force; also, militarily aggressive.",
+"Intrusive on one's privacy, rights, sphere of activity, etc."
+]
+},
+{
+"id": "imbalance_x",
+"w": "imbalance",
+"gloss": [
+"The property of not being in balance."
+]
+},
+{
+"id": "amortization_x",
+"w": "amortization",
+"gloss": [
+"The reduction of loan principal over a series of payments.",
+"The distribution of the cost of an intangible asset, such as an intellectual property right, over the projected useful life of the asset."
+]
+},
+{
+"id": "serpent_x",
+"w": "serpent",
+"gloss": [
+"A snake.",
+"A snake-like creature, such as a sea serpent.",
+"A person who is subtle, malicious, treacherous, or deceiving."
+]
+},
+{
+"id": "liberalization_x",
+"w": "liberalization",
+"gloss": [
+"The process or act of making more liberal.",
+"The lessening of government regulations and restrictions in an economy in exchange for greater participation by private entities."
+]
+},
+{
+"id": "bearer_x",
+"w": "bearer",
+"gloss": [
+"One who, or that which, bears, sustains, or carries.",
+"Someone who helps carry the coffin or a dead body during a funeral procession.",
+"One who possesses a cheque, bond, or other notes promising payment."
+]
+},
+{
+"id": "syntactic_x",
+"w": "syntactic",
+"gloss": [
+"Of, related to or connected with syntax.",
+"Containing morphemes that are combined in the same order as they would be if they were separate words e.g. greenfinch"
+]
+}
+]

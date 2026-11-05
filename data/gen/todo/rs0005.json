@@ -1,0 +1,865 @@
+[
+{
+"id": "physiology_x",
+"w": "physiology",
+"gloss": [
+"A branch of biology that deals with the functions and activities of life or of living matter (as organs, tissues, or cells) and of the physical and chemical phenomena involved.",
+"The biology or form of a living organism.",
+"The study and description of natural objects; natural science."
+]
+},
+{
+"id": "missionary_x",
+"w": "missionary",
+"gloss": [
+"One who is sent on a mission.",
+"A person who travels attempting to spread a religion or creed (Particularly used in context of Christianity).",
+"A religious messenger."
+]
+},
+{
+"id": "chap_x",
+"w": "chap",
+"gloss": [
+"A man, a fellow.",
+"A customer, a buyer.",
+"A child."
+]
+},
+{
+"id": "inevitably_x",
+"w": "inevitably",
+"gloss": [
+"In a manner that is impossible to avoid or prevent.",
+"As usual; predictably; as expected."
+]
+},
+{
+"id": "diabetes_x",
+"w": "diabetes",
+"gloss": [
+"Diabetes mellitus; any of a group of metabolic diseases whereby a person (or other animal) has high blood sugar due to an inability to produce, or inability to metabolize, sufficient quantities of the hormone insulin.",
+"Any food or beverage with a high amount of sugar.",
+"Diabetes insipidus; any condition characterized by excessive or incontinent urine, now specifically as caused by impaired production of, or response to, the antidiuretic hormone vasopressin."
+]
+},
+{
+"id": "drift_x",
+"w": "drift",
+"gloss": [
+"Anything driven at random.",
+"A mass of matter which has been driven or forced onward together in a body, or thrown together in a heap, etc., especially by wind or water.",
+"The distance through which a current flows in a given time."
+]
+},
+{
+"id": "bacterial_x",
+"w": "bacterial",
+"gloss": [
+"Of, relating to, or caused by bacteria."
+]
+},
+{
+"id": "complications_x",
+"w": "complications"
+},
+{
+"id": "constructive_x",
+"w": "constructive",
+"gloss": [
+"Relating to or causing construction.",
+"Carefully considered and meant to be helpful.",
+"Serving a useful purpose."
+]
+},
+{
+"id": "enrollment_x",
+"w": "enrollment",
+"gloss": [
+"The act of enrolling or the state of being enrolled.",
+"The people enrolled, considered as a group.",
+"The number of people enrolled."
+]
+},
+{
+"id": "covenant_x",
+"w": "covenant",
+"gloss": [
+"An agreement to do or not do a particular thing.",
+"A promise, incidental to a deed or contract, either express or implied.",
+"A pact or binding agreement between two or more parties (often one that is religious or religiously-based)."
+]
+},
+{
+"id": "postage_x",
+"w": "postage",
+"gloss": [
+"The system of transporting letters, and parcels.",
+"The charge for posting an item.",
+"The postage stamp, or similar token, affixed to an item of post as evidence of payment."
+]
+},
+{
+"id": "poorly_x",
+"w": "poorly",
+"gloss": [
+"In a poor manner or condition; without plenty, or sufficiency, or suitable provision for comfort.",
+"With little or no success; indifferently; with little profit or advantage.",
+"Meanly; without spirit."
+]
+},
+{
+"id": "manifest_x",
+"w": "manifest",
+"gloss": [
+"Evident to the senses, especially to the sight; apparent; distinctly perceived.",
+"Obvious to the understanding; apparent to the mind; easily apprehensible; plain; not obscure or hidden.",
+"Detect; convicted."
+]
+},
+{
+"id": "reorganization_x",
+"w": "reorganization",
+"gloss": [
+"The act or process of rearranging. See reorganize.",
+"The end result of such an act."
+]
+},
+{
+"id": "autonomy_x",
+"w": "autonomy",
+"gloss": [
+"The right or condition of self-government; freedom to act or function independently.",
+"A self-governing country or region.",
+"The capacity to make an informed, uncoerced decision."
+]
+},
+{
+"id": "gradient_x",
+"w": "gradient",
+"gloss": [
+"A slope or incline.",
+"A rate of inclination or declination of a slope.",
+"The ratio of the rates of change of a dependent variable and an independent variable, the slope of a curve's tangent."
+]
+},
+{
+"id": "yearly_x",
+"w": "yearly",
+"gloss": [
+"Happening once every year.",
+"Over the course of one year.",
+"Once a year."
+]
+},
+{
+"id": "momentum_x",
+"w": "momentum",
+"gloss": [
+"Of a body in motion: the tendency of a body to maintain its inertial motion; the product of its mass and velocity, or the vector sum of the products of its masses and velocities.",
+"Strength or force gained by motion or movement.",
+"The impetus, either of a body in motion, or of an idea or course of events; a moment."
+]
+},
+{
+"id": "monopoly_x",
+"w": "monopoly",
+"gloss": [
+"A situation, by legal privilege or other agreement, in which solely one party (company, cartel etc.) exclusively provides a particular product or service, dominating that market and generally exerting powerful control over it.",
+"An exclusive control over the trade or production of a commodity or service through exclusive possession.",
+"The privilege granting the exclusive right to exert such control."
+]
+},
+{
+"id": "governance_x",
+"w": "governance",
+"gloss": [
+"The process, or the power, of governing; government or administration.",
+"The specific system by which a political system is ruled.",
+"The group of people who make up an administrative body."
+]
+},
+{
+"id": "immunity_x",
+"w": "immunity",
+"gloss": [
+"Protective resistance against disease.",
+"An exemption from specified duties, such as payments or services.",
+"An exemption from prosecution."
+]
+},
+{
+"id": "sovereignty_x",
+"w": "sovereignty",
+"gloss": [
+"Of a ruler (especially a monarch): supreme authority or dominion over something.",
+"Of a nation or other polity: the state of being able to control resources, make laws independently, and otherwise govern itself without the coercion or concurrence of other polities.",
+"Of a person: the liberty to decide one's actions and thoughts."
+]
+},
+{
+"id": "alteration_x",
+"w": "alteration",
+"gloss": [
+"The act of altering or making different.",
+"A minor adjustment to clothing, such as hemming or shortening, to make it fit better.",
+"The state of being altered; a change made in the form or nature of a thing; a changed condition."
+]
+},
+{
+"id": "consistency_x",
+"w": "consistency",
+"gloss": [
+"Local coherence.",
+"Correspondence or compatibility.",
+"Reliability or uniformity; the quality of being consistent."
+]
+},
+{
+"id": "literacy_x",
+"w": "literacy",
+"gloss": [
+"The ability to read and write.",
+"The ability to understand and evaluate something."
+]
+},
+{
+"id": "propaganda_x",
+"w": "propaganda",
+"gloss": [
+"Agitation, publicity, public communication aimed at influencing an audience and furthering an agenda.",
+"The propagation of the faith by the Catholic Church by means of missionary work etc.",
+"Such communication specifically when it is biased, misleading, or provoking mainly emotional responses."
+]
+},
+{
+"id": "warehouse_x",
+"w": "warehouse",
+"gloss": [
+"A facility for storing large amounts of merchandise or products.",
+"An intermediate facility where goods are transported from the manufacturer prior to their distribution to retailers.",
+"To store in a warehouse or similar."
+]
+},
+{
+"id": "jointly_x",
+"w": "jointly",
+"gloss": [
+"Together, acting as one; collectively."
+]
+},
+{
+"id": "expiration_x",
+"w": "expiration",
+"gloss": [
+"The act or process of breathing out, or forcing air from the lungs through the nose or mouth.",
+"A single outward breath.",
+"Other similar release of volatile matter."
+]
+},
+{
+"id": "inhibition_x",
+"w": "inhibition",
+"gloss": [
+"The act of inhibiting.",
+"A personal feeling of fear or embarrassment that stops one behaving naturally.",
+"The process of stopping or retarding a reaction."
+]
+},
+{
+"id": "splendid_x",
+"w": "splendid",
+"gloss": [
+"Possessing or displaying splendor; shining; very bright.",
+"Gorgeous; magnificent; sumptuous; of remarkable beauty.",
+"Brilliant, excellent, of a very high standard."
+]
+},
+{
+"id": "portfolio_x",
+"w": "portfolio",
+"gloss": [
+"A case for carrying papers, drawings, photographs, maps and other flat documents.",
+"The collection of such documents, especially the works of an artist or photographer, or more generally, a presentation of an individual's work samples and skills (a career portfolio).",
+"The post and the responsibilities of a cabinet minister or other head of a government department."
+]
+},
+{
+"id": "reliance_x",
+"w": "reliance",
+"gloss": [
+"The act of relying (on or in someone or something); trust.",
+"The condition of being reliant or dependent.",
+"Anything on which to rely; ground of trust."
+]
+},
+{
+"id": "capitalism_x",
+"w": "capitalism",
+"gloss": [
+"A socio-economic system based on private ownership of resources, and capital and their exploitation for profit.",
+"An economic system based on private control of the means of production and the exploitation of labour by capital.",
+"An economic system based on private property and the abstraction of resources into the form of privately owned capital, with economic decisions made largely through the operation of a market unregulated by the state."
+]
+},
+{
+"id": "accommodate_x",
+"w": "accommodate",
+"gloss": [
+"To render fit, suitable, or correspondent; to adapt.",
+"To cause to come to agreement; to bring about harmony; to reconcile.",
+"To provide housing for."
+]
+},
+{
+"id": "charitable_x",
+"w": "charitable",
+"gloss": [
+"Pertaining to charity.",
+"Kind, generous.",
+"Having a purpose or character of a charity."
+]
+},
+{
+"id": "spinal_x",
+"w": "spinal",
+"gloss": [
+"Of or relating to the spine.",
+"Of or pertaining to the spinal cord.",
+"(of a frog or other experimental animal) Having a pithed brain, but an intact surgically isolated spinal cord."
+]
+},
+{
+"id": "stationary_x",
+"w": "stationary",
+"gloss": [
+"Not moving.",
+"Incapable of being moved.",
+"Unchanging."
+]
+},
+{
+"id": "beta_x",
+"w": "beta",
+"gloss": [
+"The second letter of the Greek alphabet (Β, β), preceded by alpha (Α, α) and followed by gamma, (Γ, γ). In modern Greek it represents the voiced labiodental fricative sound of v found in the English words have and vase.",
+"An academic grade better than a gamma and worse than an alpha.",
+"Average sensitivity of a security's price to overall securities market prices."
+]
+},
+{
+"id": "contingent_x",
+"w": "contingent",
+"gloss": [
+"An event which may or may not happen; that which is unforeseen, undetermined, or dependent on something in the future.",
+"That which falls to one in a division or apportionment among a number; a suitable share.",
+"A quota of troops."
+]
+},
+{
+"id": "elder_x",
+"w": "elder",
+"gloss": [
+"Closer to the dealer, i.e. receiving cards earlier than others.",
+"A leader or senior member of a tribe or community, often of considerable age, respected as an authority figure, especially in a counselling, consultative, or ceremonial role.",
+"An old person."
+]
+},
+{
+"id": "individually_x",
+"w": "individually",
+"gloss": [
+"As individuals, separately, independently."
+]
+},
+{
+"id": "defective_x",
+"w": "defective",
+"gloss": [
+"Having one or more defects.",
+"Lacking some forms; e.g., having only one tense or being usable only in the third person.",
+"Having a root whose final consonant is weak (ي, و, or ء)."
+]
+},
+{
+"id": "directive_x",
+"w": "directive",
+"gloss": [
+"That which directs; serving to direct, indicate, or guide.",
+"Relating to the directive case.",
+"An instruction or guideline that indicates how to perform an action or reach a goal."
+]
+},
+{
+"id": "variability_x",
+"w": "variability",
+"gloss": [
+"The state or characteristic of being variable.",
+"The degree to which a thing is variable. In data or statistics this is often a measurement of distance from the mean or a description of data range."
+]
+},
+{
+"id": "abdominal_x",
+"w": "abdominal",
+"gloss": [
+"Of or pertaining to the abdomen; ventral.",
+"Characterized by or possessing a large abdomen; corpulent, pot-bellied.",
+"Having the ventral fins under the abdomen and behind the pectoral fins."
+]
+},
+{
+"id": "ideological_x",
+"w": "ideological",
+"gloss": [
+"Of or pertaining to one or more ideologies.",
+"Irrational; supported by misinformation and social reinforcement, as opposed to credible evidence.",
+"Characterized by strict, uncompromising adherence to a particular political ideology, rather than what’s necessarily considered popular or practical."
+]
+},
+{
+"id": "vulnerable_x",
+"w": "vulnerable",
+"gloss": [
+"More or most likely to be exposed to the chance of being attacked or harmed, either physically or emotionally.",
+"Open to disclosing one's inner thoughts and feelings, acting in spite of one's instinct to self-preservation.",
+"More likely to be exposed to malicious programs or viruses."
+]
+},
+{
+"id": "collateral_x",
+"w": "collateral",
+"gloss": [
+"Parallel, in the same vein, side by side.",
+"Corresponding; accompanying, concomitant.",
+"Being aside from the main subject, target, or goal."
+]
+},
+{
+"id": "throne_x",
+"w": "throne",
+"gloss": [
+"An impressive seat used by a monarch, often on a raised dais in a throne room and reserved for formal occasions.",
+"Leadership, particularly the position of a monarch.",
+"The seat of a bishop in the cathedral-church of his diocese; also, the seat of a pope."
+]
+},
+{
+"id": "sensory_x",
+"w": "sensory",
+"gloss": [
+"Of the physical senses or sensation.",
+"Conveying nerve impulses from the sense organs to the nerve centers.",
+"The sensorium."
+]
+},
+{
+"id": "dominion_x",
+"w": "dominion",
+"gloss": [
+"Power or the use of power; sovereignty over something; stewardship, supremacy.",
+"Predominance; ascendancy.",
+"A kingdom, nation, or other sphere of influence; governed territory."
+]
+},
+{
+"id": "nest_x",
+"w": "nest",
+"gloss": [
+"A structure built by a bird as a place to incubate eggs and rear young.",
+"A structure built, or site modified, to incubate eggs, rear young, or shelter a colony.",
+"A temporary structure or modified site created by an animal for sleeping, resting, or protection from the elements."
+]
+},
+{
+"id": "vascular_x",
+"w": "vascular",
+"gloss": [
+"Relating to the flow of fluids, such as blood, lymph, or sap, through the body of an animal or plant, or to the vessels that carry such fluids"
+]
+},
+{
+"id": "recreational_x",
+"w": "recreational",
+"gloss": [
+"For, or relating to, recreation."
+]
+},
+{
+"id": "hormone_x",
+"w": "hormone",
+"gloss": [
+"Any substance produced by one tissue and conveyed by the bloodstream to another to effect physiological activity.",
+"A synthetic compound with the same activity.",
+"Sex hormones, as used in hormone replacement therapy for transgender or intersex people."
+]
+},
+{
+"id": "bass_x",
+"w": "bass",
+"gloss": [
+"Of sound, a voice or an instrument, low in pitch or frequency.",
+"A low spectrum of sound tones.",
+"A section of a musical group that produces low-pitched sound, lower than the baritone and tenor."
+]
+},
+{
+"id": "hierarchy_x",
+"w": "hierarchy",
+"gloss": [
+"A body of authoritative officials organized in nested ranks.",
+"A social, religious, economic or political system or organization in which people or groups of people are ranked with some superior to others based on their status, authority or some other trait.",
+"Any group of objects ranked so that every one but the topmost is subordinate to a specified one above it."
+]
+},
+{
+"id": "pipeline_x",
+"w": "pipeline",
+"gloss": [
+"A conduit made of pipes used to convey water, gas or petroleum, etc.",
+"A channel (either physical or logical) by which information is transmitted sequentially (that is, the first information in is the first information out).",
+"A system or process through which something is conducted."
+]
+},
+{
+"id": "bleeding_x",
+"w": "bleeding",
+"gloss": [
+"Losing blood.",
+"extreme, outright; bloody, blasted.",
+"used as an intensifier: Extremely."
+]
+},
+{
+"id": "sergeant_x",
+"w": "sergeant",
+"gloss": [
+"A UK army rank with NATO code OR-6, senior to corporal and junior to warrant officer ranks.",
+"The highest rank of noncommissioned officer in some non-naval military forces and police.",
+"A lawyer of the highest rank, equivalent to the doctor of civil law."
+]
+},
+{
+"id": "discrete_x",
+"w": "discrete",
+"gloss": [
+"Separate; distinct; individual; non-continuous.",
+"That can be perceived individually, not as connected to, or part of, something else.",
+"Consisting of or permitting only distinct values drawn from a finite, countable set."
+]
+},
+{
+"id": "creditor_x",
+"w": "creditor",
+"gloss": [
+"A person to whom a debt is owed.",
+"One who gives credence to something; a believer."
+]
+},
+{
+"id": "relevance_x",
+"w": "relevance",
+"gloss": [
+"The property or state of being relevant or pertinent."
+]
+},
+{
+"id": "capitalist_x",
+"w": "capitalist",
+"gloss": [
+"Of, or pertaining to, capitalism.",
+"Supporting or endorsing capitalism.",
+"American."
+]
+},
+{
+"id": "aggression_x",
+"w": "aggression",
+"gloss": [
+"The act of initiating hostilities or invasion.",
+"The practice or habit of launching attacks.",
+"Hostile or destructive behavior or actions."
+]
+},
+{
+"id": "acceleration_x",
+"w": "acceleration",
+"gloss": [
+"The act of accelerating, or the state of being accelerated; increase of motion or action; as opposed to retardation or deceleration.",
+"The amount by which a speed or velocity increases (and so a scalar quantity or a vector quantity).",
+"The change of velocity with respect to time (can include deceleration or changing direction)."
+]
+},
+{
+"id": "module_x",
+"w": "module",
+"gloss": [
+"A self-contained component of a system, often interchangeable, which has a well-defined interface to the other components.",
+"A standard unit of measure used for determining the proportions of a building.",
+"A section of a program; a subroutine or group of subroutines."
+]
+},
+{
+"id": "texture_x",
+"w": "texture",
+"gloss": [
+"The feel or shape of a surface or substance; the smoothness, roughness, softness, etc. of something.",
+"The quality given to a work of art by the composition and interaction of its parts.",
+"An image applied to a polygon to create the appearance of a surface."
+]
+},
+{
+"id": "donor_x",
+"w": "donor",
+"gloss": [
+"One who makes a donation.",
+"An object, typically broken beyond repair, that is used for spare parts.",
+"A group or molecule that donates either a radical, electrons or a moiety in a chemical reaction. Compare acceptor."
+]
+},
+{
+"id": "intact_x",
+"w": "intact",
+"gloss": [
+"Left complete or whole; not touched, defiled, sullied, or otherwise damaged.",
+"Virginal; having an intact hymen.",
+"Uncircumcised; having an intact foreskin."
+]
+},
+{
+"id": "susceptible_x",
+"w": "susceptible",
+"gloss": [
+"Likely to be affected by something.",
+"Easily influenced or tricked; credulous.",
+"Especially sensitive, particularly to a stimulus."
+]
+},
+{
+"id": "nonlinear_x",
+"w": "nonlinear",
+"gloss": [
+"Of a set of points, not lying on a straight line.",
+"Of a molecule, whose atoms do not lie in a straight line.",
+"Of a function, having a product of independent variables, or a variable with an exponent not equal to one."
+]
+},
+{
+"id": "dissolution_x",
+"w": "dissolution",
+"gloss": [
+"The termination of an organized body or legislative assembly, especially a formal dismissal.",
+"Disintegration, or decomposition into fragments.",
+"Dissolving, or going into solution."
+]
+},
+{
+"id": "appraisal_x",
+"w": "appraisal",
+"gloss": [
+"The act or process of developing an opinion of value.",
+"A judgment or assessment of the value of something, especially a formal one."
+]
+},
+{
+"id": "cerebral_x",
+"w": "cerebral",
+"gloss": [
+"Of or relating to the brain, cerebrum, or cerebral cortex.",
+"Intellectual rather than emotional or physical.",
+"Retroflex."
+]
+},
+{
+"id": "photographic_x",
+"w": "photographic",
+"gloss": [
+"Pertaining to photographs or photography.",
+"Synonym of accurate."
+]
+},
+{
+"id": "polar_x",
+"w": "polar",
+"gloss": [
+"Of, relating to, measured from, or referred to a geographic pole (the North Pole or South Pole); within the Arctic or Antarctic circles.",
+"Of an orbit that passes over, or near, one of these poles.",
+"Having a dipole; ionic."
+]
+},
+{
+"id": "tenure_x",
+"w": "tenure",
+"gloss": [
+"A status of possessing a thing or an office; an incumbency.",
+"A period of time during which something is possessed.",
+"A status of having a permanent post with enhanced job security within an academic institution."
+]
+},
+{
+"id": "enzymes_x",
+"w": "enzymes"
+},
+{
+"id": "payroll_x",
+"w": "payroll",
+"gloss": [
+"A list of employees who receive salary or wages, together with the amounts due to each.",
+"The total sum of money paid to employees.",
+"The calculation of salaries and wages and the deduction of taxes etc.; the department in a company responsible for this."
+]
+},
+{
+"id": "bilateral_x",
+"w": "bilateral",
+"gloss": [
+"Having two sides.",
+"Involving both sides equally.",
+"Binding on both of the two parties involved."
+]
+},
+{
+"id": "franchise_x",
+"w": "franchise",
+"gloss": [
+"The right to vote at a public election or referendum; see: suffrage.",
+"A right or privilege officially granted to a person, a group of people, or a company by a government.",
+"An acknowledgment of a corporation's existence and ownership."
+]
+},
+{
+"id": "redemption_x",
+"w": "redemption",
+"gloss": [
+"The act of redeeming or something redeemed.",
+"The recovery, for a fee, of a pawned article.",
+"The conversion (of a security) into cash."
+]
+},
+{
+"id": "antibody_x",
+"w": "antibody",
+"gloss": [
+"A protein produced by B-lymphocytes that binds to a specific antigen."
+]
+},
+{
+"id": "provider_x",
+"w": "provider",
+"gloss": [
+"One who, or that which, provides a service, commodity, or the means for subsistence."
+]
+},
+{
+"id": "dismissal_x",
+"w": "dismissal",
+"gloss": [
+"The act of sending someone away.",
+"Deprivation of office; the fact or process of being fired from employment or stripped of rank.",
+"A written or spoken statement of such an act."
+]
+},
+{
+"id": "initiation_x",
+"w": "initiation",
+"gloss": [
+"The act of initiating, or the process of being initiated or introduced.",
+"The form or ceremony by which a person is introduced into any society; mode of entrance into an organized body; especially, the rite of admission into a secret society or order.",
+"The first step of transcription or of transduction."
+]
+},
+{
+"id": "anatomy_x",
+"w": "anatomy",
+"gloss": [
+"The science that deals with the form and structure of organic bodies; anatomical structure or organization.",
+"The study of the parts of any organized body, to discover their situation, structure, and economy.",
+"The physical or functional organization of an organism, or part of it."
+]
+},
+{
+"id": "seemingly_x",
+"w": "seemingly",
+"gloss": [
+"As it appears; apparently.",
+"In a seemly manner; decorously; with propriety."
+]
+},
+{
+"id": "sterling_x",
+"w": "sterling",
+"gloss": [
+"An English silver penny first introduced by the Normans.",
+"A penny issued in other countries, such as Scotland.",
+"The currency of the United Kingdom, also called the pound sterling"
+]
+},
+{
+"id": "restraint_x",
+"w": "restraint",
+"gloss": [
+"Something that restrains, ties, fastens or secures.",
+"Control or caution; reserve."
+]
+},
+{
+"id": "neural_x",
+"w": "neural",
+"gloss": [
+"Of, or relating to the nerves, neurons or the nervous system.",
+"Modelled on the arrangement of neurons in the brain."
+]
+},
+{
+"id": "electoral_x",
+"w": "electoral",
+"gloss": [
+"Relating to or composed of electors.",
+"Of, or relating to elections."
+]
+},
+{
+"id": "fatty_x",
+"w": "fatty",
+"gloss": [
+"Containing, composed of, or consisting of fat.",
+"Sometimes, especially, containing excess fat.",
+"Like fat; greasy."
+]
+},
+{
+"id": "metabolic_x",
+"w": "metabolic",
+"gloss": [
+"Of or pertaining to metabolism.",
+"Of or pertaining to metamorphosis.",
+"Pertaining to or involving change."
+]
+},
+{
+"id": "generic_x",
+"w": "generic",
+"gloss": [
+"Very broad; pertaining or appropriate to large classes or groups as opposed to specific instances.",
+"Lacking in precision, often in an evasive fashion; vague; imprecise.",
+"Of a product or drug, not having a brand name; nonproprietary in design or contents; fungible with the rest of its class."
+]
+},
+{
+"id": "historically_x",
+"w": "historically",
+"gloss": [
+"In a historic manner; with reference to history or the historical record.",
+"According to history: formerly, in the past, traditionally.",
+"To an unprecedented or extremely rare degree."
+]
+},
+{
+"id": "implicit_x",
+"w": "implicit",
+"gloss": [
+"Suggested indirectly, without being directly expressed; Implied.",
+"Contained in the essential nature of something but not openly shown.",
+"Having no reservations or doubts; unquestioning or unconditional; usually said of faith or trust."
+]
+}
+]

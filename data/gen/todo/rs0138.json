@@ -1,0 +1,802 @@
+[
+{
+"id": "not-worth-a-whistle_idiom",
+"w": "not worth a whistle",
+"kind": "idiom",
+"gloss": [
+"Worthless or pointless."
+]
+},
+{
+"id": "charm-the-birds-from-the-trees_idiom",
+"w": "charm the birds from the trees",
+"kind": "idiom",
+"gloss": [
+"To behave in a very charming manner."
+]
+},
+{
+"id": "grey-power_idiom",
+"w": "grey power",
+"kind": "idiom",
+"gloss": [
+"The collective political, economic, and social influence of senior citizens, especially when they are mobilized by a common interest."
+]
+},
+{
+"id": "hell-mend-someone_idiom",
+"w": "hell mend someone",
+"kind": "idiom",
+"gloss": [
+"Expressing exasperation at someone whose behavior is likely to result in trouble but who will not heed warnings."
+]
+},
+{
+"id": "on-the-outside-looking-in_idiom",
+"w": "on the outside, looking in",
+"kind": "idiom",
+"gloss": [
+"Excluded from a group, process, or opportunity, and feeling downhearted as a result."
+]
+},
+{
+"id": "fart-in-a-windstorm_idiom",
+"w": "fart in a windstorm",
+"kind": "idiom",
+"gloss": [
+"Something utterly insignificant, ineffective, or fleeting."
+]
+},
+{
+"id": "pierian-spring_idiom",
+"w": "Pierian spring",
+"kind": "idiom",
+"gloss": [
+"The source of knowledge, inspiration, or learning."
+]
+},
+{
+"id": "get-with-the-times_idiom",
+"w": "get with the times",
+"kind": "idiom",
+"gloss": [
+"To become aware of modern trends, words or ideas."
+]
+},
+{
+"id": "which-foot-the-shoe-is-on_idiom",
+"w": "which foot the shoe is on",
+"kind": "idiom",
+"gloss": [
+"Which point of view is considered or whose interests are used as a basis."
+]
+},
+{
+"id": "pave-the-road-to-hell_idiom",
+"w": "pave the road to hell",
+"kind": "idiom",
+"gloss": [
+"To lead to a disaster by acting with good intentions."
+]
+},
+{
+"id": "pack-of-lies_idiom",
+"w": "pack of lies",
+"kind": "idiom",
+"gloss": [
+"Total lies, complete untruth"
+]
+},
+{
+"id": "slender-reed_idiom",
+"w": "slender reed",
+"kind": "idiom",
+"gloss": [
+"A person, fact, or resource on which one can rely only to a limited extent."
+]
+},
+{
+"id": "brass-ceiling_idiom",
+"w": "brass ceiling",
+"kind": "idiom",
+"gloss": [
+"An unwritten, uncodified barrier to promotion or progression for women in law enforcement or the military."
+]
+},
+{
+"id": "gut-check_idiom",
+"w": "gut check",
+"kind": "idiom",
+"gloss": [
+"An honest, reflective appraisal of one's true feelings concerning a matter of concern."
+]
+},
+{
+"id": "at-variance_idiom",
+"w": "at variance",
+"kind": "idiom",
+"gloss": [
+"Not in accord; in a state of disagreement."
+]
+},
+{
+"id": "get-thee-behind-me_idiom",
+"w": "get thee behind me",
+"kind": "idiom",
+"gloss": [
+"Do not tempt or torment me; I reject you, your statements, or your beliefs."
+]
+},
+{
+"id": "hired-muscle_idiom",
+"w": "hired muscle",
+"kind": "idiom",
+"gloss": [
+"Person who is hired or asked to perform tasks or duties requiring physical strength."
+]
+},
+{
+"id": "talk-out-of-one-s-ass_idiom",
+"w": "talk out of one's ass",
+"kind": "idiom",
+"gloss": [
+"To exaggerate, lie, or speak nonsense, often in a way that involves shooting from the hip."
+]
+},
+{
+"id": "leave-someone-holding-the-baby_idiom",
+"w": "leave someone holding the baby",
+"kind": "idiom",
+"gloss": [
+"To abandon someone and put them in a position where they must take the responsibility or blame."
+]
+},
+{
+"id": "on-one-s-lonesome_idiom",
+"w": "on one's lonesome",
+"kind": "idiom",
+"gloss": [
+"Alone; without aid or accompaniment."
+]
+},
+{
+"id": "life-is-too-short_idiom",
+"w": "life is too short",
+"kind": "idiom",
+"gloss": [
+"One should not waste time on trivial issues."
+]
+},
+{
+"id": "chinese-green_idiom",
+"w": "Chinese green",
+"kind": "idiom",
+"gloss": [
+"Synonym of lokao."
+]
+},
+{
+"id": "green-indigo_idiom",
+"w": "green indigo",
+"kind": "idiom",
+"gloss": [
+"Synonym of lokao."
+]
+},
+{
+"id": "party-hardy_idiom",
+"w": "party hardy",
+"kind": "idiom",
+"gloss": [
+"To party very hard, possibly not remembering later what happened at the party."
+]
+},
+{
+"id": "yours-trulies_idiom",
+"w": "yours trulies",
+"kind": "idiom",
+"gloss": [
+"we, us, or ourselves"
+]
+},
+{
+"id": "light-skirt_idiom",
+"w": "light skirt",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see light, skirt."
+]
+},
+{
+"id": "take-out-an-onion_idiom",
+"w": "take out an onion",
+"kind": "idiom",
+"gloss": [
+"Suggests that the performer of the action is not sincere in their grief."
+]
+},
+{
+"id": "returns-to-scale_idiom",
+"w": "returns to scale",
+"kind": "idiom",
+"gloss": [
+"a function describing how returns scale when production increases in the long run"
+]
+},
+{
+"id": "place-of-business_idiom",
+"w": "place of business",
+"kind": "idiom",
+"gloss": [
+"A place where business is conducted, such as an office or a single shop in a franchise."
+]
+},
+{
+"id": "trouble-at-mill_idiom",
+"w": "trouble at mill",
+"kind": "idiom",
+"gloss": [
+"Problems outside the household, especially in the workplace."
+]
+},
+{
+"id": "put-on-one-s-dancing-shoes_idiom",
+"w": "put on one's dancing shoes",
+"kind": "idiom",
+"gloss": [
+"To prepare for celebration or rejoicing; to put oneself in a positive frame of mind."
+]
+},
+{
+"id": "be-in-luck_idiom",
+"w": "be in luck",
+"kind": "idiom",
+"gloss": [
+"To be lucky in getting something that one wants."
+]
+},
+{
+"id": "rooting-interest_idiom",
+"w": "rooting interest",
+"kind": "idiom",
+"gloss": [
+"a desire for, or interest in, the success of a particular person or group, often a sports team"
+]
+},
+{
+"id": "wooden-spoonist_idiom",
+"w": "wooden spoonist",
+"kind": "idiom",
+"gloss": [
+"Synonym of wooden spooner: a last-place finisher."
+]
+},
+{
+"id": "sour-stomach_idiom",
+"w": "sour stomach",
+"kind": "idiom",
+"gloss": [
+"Indigestion."
+]
+},
+{
+"id": "moonlight-flit_idiom",
+"w": "moonlight flit",
+"kind": "idiom",
+"gloss": [
+"An act of secretly leaving premises without paying the rent, supposedly at night by the light of the Moon; hence, any act of escaping at night."
+]
+},
+{
+"id": "for-real-and-for-true_idiom",
+"w": "for real and for true",
+"kind": "idiom",
+"gloss": [
+"Genuinely; truly."
+]
+},
+{
+"id": "put-one-s-finger-in-the-dyke_idiom",
+"w": "put one's finger in the dyke",
+"kind": "idiom",
+"gloss": [
+"To attempt to temporarily stop or stem an impending disaster, particularly when the effort is too small to fully address the scale of the problem."
+]
+},
+{
+"id": "thumb-on-the-scale_idiom",
+"w": "thumb on the scale",
+"kind": "idiom",
+"gloss": [
+"An act of bias or a tactic for cheating which creates a situation that unfairly benefits one party involved in an interaction."
+]
+},
+{
+"id": "sex-pact_idiom",
+"w": "sex pact",
+"kind": "idiom",
+"gloss": [
+"An agreement about having sex with a particular frequency, or in a particular way regardless of circumstances."
+]
+},
+{
+"id": "work-like-a-dog_idiom",
+"w": "work like a dog",
+"kind": "idiom",
+"gloss": [
+"To work very hard."
+]
+},
+{
+"id": "corporate-welfare-bum_idiom",
+"w": "corporate welfare bum",
+"kind": "idiom",
+"gloss": [
+"A business corporation or business executive receiving significant financial assistance from government sources."
+]
+},
+{
+"id": "hand-someone-their-hat_idiom",
+"w": "hand someone their hat",
+"kind": "idiom",
+"gloss": [
+"To require someone to depart; to dismiss someone."
+]
+},
+{
+"id": "flavor-of-the-week_idiom",
+"w": "flavor of the week",
+"kind": "idiom",
+"gloss": [
+"A fad; someone or something that is held in esteem or receives attention for a short amount of time."
+]
+},
+{
+"id": "never-the-twain-shall-meet_idiom",
+"w": "never the twain shall meet",
+"kind": "idiom",
+"gloss": [
+"Used to emphasize that two subjects are so different that they cannot coexist or agree with each other."
+]
+},
+{
+"id": "punch-someone-s-lights-out_idiom",
+"w": "punch someone's lights out",
+"kind": "idiom",
+"gloss": [
+"To give someone a serious beating using one's fists; to punch someone until he or she is unconscious."
+]
+},
+{
+"id": "put-someone-s-lights-out_idiom",
+"w": "put someone's lights out",
+"kind": "idiom",
+"gloss": [
+"To cause someone to become unconscious, especially by striking him or her."
+]
+},
+{
+"id": "go-to-town-on_idiom",
+"w": "go to town on",
+"kind": "idiom",
+"gloss": [
+"To devour or consume (something); to enthusiastically or assiduously work on (something); to tear into (something)."
+]
+},
+{
+"id": "chew-the-meat-and-spit-out-the-bones_idiom",
+"w": "chew the meat and spit out the bones",
+"kind": "idiom",
+"gloss": [
+"To take in a great deal of information and selectively disregard some of it as invalid or inapplicable."
+]
+},
+{
+"id": "put-one-past_idiom",
+"w": "put one past",
+"kind": "idiom",
+"gloss": [
+"To deceive, trick, or fool (someone), especially by concealing something."
+]
+},
+{
+"id": "apple-polisher_idiom",
+"w": "apple polisher",
+"kind": "idiom",
+"gloss": [
+"A sycophant; a toady."
+]
+},
+{
+"id": "saddle-tramp_idiom",
+"w": "saddle tramp",
+"kind": "idiom",
+"gloss": [
+"In the Old West, a person who wanders from place to place on horseback."
+]
+},
+{
+"id": "get-past-oneself_idiom",
+"w": "get past oneself",
+"kind": "idiom",
+"gloss": [
+"To be able to look beyond one's own ego and negative emotions; to overcome internal and emotional obstacles."
+]
+},
+{
+"id": "rise-to-the-challenge_idiom",
+"w": "rise to the challenge",
+"kind": "idiom",
+"gloss": [
+"To show resolve or effectiveness in dealing with a difficulty."
+]
+},
+{
+"id": "riddle-me-that-batman_idiom",
+"w": "riddle me that, Batman",
+"kind": "idiom",
+"gloss": [
+"Said to demand that the listener take notice of a question or situation just mentioned, especially one that is particularly difficult to solve or explain."
+]
+},
+{
+"id": "skittles-party_idiom",
+"w": "skittles party",
+"kind": "idiom",
+"gloss": [
+"A party where teenagers or young adults bring with them a lot of random pills, take them, and see what happens"
+]
+},
+{
+"id": "blink-first_idiom",
+"w": "blink first",
+"kind": "idiom",
+"gloss": [
+"To be the first party in some situation to give in or back down."
+]
+},
+{
+"id": "skunk-at-a-garden-party_idiom",
+"w": "skunk at a garden party",
+"kind": "idiom",
+"gloss": [
+"Within a group, someone who is unwelcome and actively avoided."
+]
+},
+{
+"id": "go-play-in-the-traffic_idiom",
+"w": "go play in the traffic",
+"kind": "idiom",
+"gloss": [
+"To go elsewhere and feel free to engage in risky behavior; to get lost."
+]
+},
+{
+"id": "social-lubricant_idiom",
+"w": "social lubricant",
+"kind": "idiom",
+"gloss": [
+"A food, beverage, drug or activity that helps people feel more comfortable in social occasions."
+]
+},
+{
+"id": "go-soak-your-head_idiom",
+"w": "go soak your head",
+"kind": "idiom",
+"gloss": [
+"Synonym of get bent."
+]
+},
+{
+"id": "walk-the-floor_idiom",
+"w": "walk the floor",
+"kind": "idiom",
+"gloss": [
+"To pace back and forth restlessly, because of worry, excitement, distress, etc."
+]
+},
+{
+"id": "make-a-night-of-it_idiom",
+"w": "make a night of it",
+"kind": "idiom",
+"gloss": [
+"To continue a pleasurable social activity for the whole evening or night."
+]
+},
+{
+"id": "arse-over-tip_idiom",
+"w": "arse over tip",
+"kind": "idiom",
+"gloss": [
+"Tumbling or falling; upside-down."
+]
+},
+{
+"id": "put-on-the-ritz_idiom",
+"w": "put on the ritz",
+"kind": "idiom",
+"gloss": [
+"to make a show of luxury and extravagance"
+]
+},
+{
+"id": "come-to-a-sticky-end_idiom",
+"w": "come to a sticky end",
+"kind": "idiom",
+"gloss": [
+"To die unpleasantly due to one's actions."
+]
+},
+{
+"id": "meet-a-sticky-end_idiom",
+"w": "meet a sticky end",
+"kind": "idiom",
+"gloss": [
+"To die unpleasantly due to one's actions."
+]
+},
+{
+"id": "curb-crawler_idiom",
+"w": "curb crawler",
+"kind": "idiom",
+"gloss": [
+"A prostitute's client, especially one who travels in a car to search for a prostitute."
+]
+},
+{
+"id": "on-yer-bike_idiom",
+"w": "on yer bike",
+"kind": "idiom",
+"gloss": [
+"go away! scram!"
+]
+},
+{
+"id": "ever-after_idiom",
+"w": "ever after",
+"kind": "idiom",
+"gloss": [
+"forever, for eternity"
+]
+},
+{
+"id": "cop-oneself-on_idiom",
+"w": "cop oneself on",
+"kind": "idiom",
+"gloss": [
+"to cop on, stop behaving immaturely"
+]
+},
+{
+"id": "know-someone-from-a-can-of-paint_idiom",
+"w": "know someone from a can of paint",
+"kind": "idiom",
+"gloss": [
+"Synonym of know someone from Adam."
+]
+},
+{
+"id": "read-someone-to-filth_idiom",
+"w": "read someone to filth",
+"kind": "idiom",
+"gloss": [
+"To thoroughly insult, to comprehensively call attention to the flaws or shortcomings of (someone)."
+]
+},
+{
+"id": "reach-for-the-sky_idiom",
+"w": "reach for the sky",
+"kind": "idiom",
+"gloss": [
+"To aim for the best possible outcome."
+]
+},
+{
+"id": "civil-tongue_idiom",
+"w": "civil tongue",
+"kind": "idiom",
+"gloss": [
+"A polite manner of speaking."
+]
+},
+{
+"id": "keep-a-civil-tongue-in-one-s-head_idiom",
+"w": "keep a civil tongue in one's head",
+"kind": "idiom",
+"gloss": [
+"To maintain a polite manner of speaking."
+]
+},
+{
+"id": "second-tuesday-of-the-week_idiom",
+"w": "second Tuesday of the week",
+"kind": "idiom",
+"gloss": [
+"A time that will never come."
+]
+},
+{
+"id": "dying-quail_idiom",
+"w": "dying quail",
+"kind": "idiom",
+"gloss": [
+"A pop fly which is hit weakly and falls in front of the outfielders."
+]
+},
+{
+"id": "get-to-the-fireworks-factory_idiom",
+"w": "get to the fireworks factory",
+"kind": "idiom",
+"gloss": [
+"To reach the most interesting, eventful or important part of a storyline."
+]
+},
+{
+"id": "broken-hearted_idiom",
+"w": "broken hearted",
+"kind": "idiom",
+"gloss": [
+"Of a person, that has a broken heart."
+]
+},
+{
+"id": "holy-crap-on-a-stick_idiom",
+"w": "holy crap on a stick",
+"kind": "idiom",
+"gloss": [
+"An emphatic form of holy crap."
+]
+},
+{
+"id": "permanent-shave_idiom",
+"w": "permanent shave",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see permanent, shave."
+]
+},
+{
+"id": "get-the-dirty-water-off-one-s-chest_idiom",
+"w": "get the dirty water off one's chest",
+"kind": "idiom",
+"gloss": [
+"To get sexual satisfaction, especially after a period of abstinence."
+]
+},
+{
+"id": "talk-jockey_idiom",
+"w": "talk jockey",
+"kind": "idiom",
+"gloss": [
+"A host of a radio talk show."
+]
+},
+{
+"id": "high-strangeness_idiom",
+"w": "high strangeness",
+"kind": "idiom",
+"gloss": [
+"A quality of being peculiar, bizarre, utterly absurd."
+]
+},
+{
+"id": "good-looker_idiom",
+"w": "good looker",
+"kind": "idiom",
+"gloss": [
+"A physically attractive individual, animal, or object."
+]
+},
+{
+"id": "nearly-man_idiom",
+"w": "nearly man",
+"kind": "idiom",
+"gloss": [
+"A man who fails to achieve the success or status that he might potentially have had."
+]
+},
+{
+"id": "two-pennies-to-rub-together_idiom",
+"w": "two pennies to rub together",
+"kind": "idiom",
+"gloss": [
+"A minimal amount of money to live on; any money at all."
+]
+},
+{
+"id": "roma-locuta-est-causa-finita-est_idiom",
+"w": "Roma locuta est, causa finita est",
+"kind": "idiom",
+"gloss": [
+"The discussion is at an end."
+]
+},
+{
+"id": "unto-the-ages-of-ages_idiom",
+"w": "unto the ages of ages",
+"kind": "idiom",
+"gloss": [
+"For all time, forever."
+]
+},
+{
+"id": "not-likely_idiom",
+"w": "not likely",
+"kind": "idiom",
+"gloss": [
+"Absolutely not; under no circumstances; no way."
+]
+},
+{
+"id": "dead-men-s-shoes_idiom",
+"w": "dead men's shoes",
+"kind": "idiom",
+"gloss": [
+"A position or property that is only attainable by someone else upon the current holder's death."
+]
+},
+{
+"id": "work-like-a-dream_idiom",
+"w": "work like a dream",
+"kind": "idiom",
+"gloss": [
+"To function very efficiently and effectively, with few or no problems."
+]
+},
+{
+"id": "wrack-and-ruin_idiom",
+"w": "wrack and ruin",
+"kind": "idiom",
+"gloss": [
+"Complete destruction."
+]
+},
+{
+"id": "wear-two-hats_idiom",
+"w": "wear two hats",
+"kind": "idiom",
+"gloss": [
+"To have two different roles."
+]
+},
+{
+"id": "butter-face_idiom",
+"w": "butter face",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see butter, face."
+]
+},
+{
+"id": "mic-drop_idiom",
+"w": "mic drop",
+"kind": "idiom",
+"gloss": [
+"An instance of dropping the mic."
+]
+},
+{
+"id": "throw-stones-in-a-glass-house_idiom",
+"w": "throw stones in a glass house",
+"kind": "idiom",
+"gloss": [
+"To criticize others when one has similar weaknesses oneself."
+]
+},
+{
+"id": "one-could-do-it-in-one-s-sleep_idiom",
+"w": "one could do it in one's sleep",
+"kind": "idiom",
+"gloss": [
+"Said of something that can be done very easily or effortlessly."
+]
+},
+{
+"id": "go-down-the-khazi_idiom",
+"w": "go down the khazi",
+"kind": "idiom",
+"gloss": [
+"Synonym of go down the toilet: to fail; to degenerate rapidly."
+]
+}
+]

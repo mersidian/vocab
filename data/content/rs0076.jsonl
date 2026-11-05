@@ -1,0 +1,100 @@
+{"id":"chicken-scratch_idiom","th":"ลายมือยุ่งเหยิงอ่านไม่ออก; ลายมือไก่เขี่ย","ex":"I can't read your chicken scratch.","exTh":"ฉันอ่านลายมือไก่เขี่ยของคุณไม่ออก","note":"ภาษาพูด","c":2}
+{"id":"day-after-day_idiom","th":"วันแล้ววันเล่า; ทุกวันไม่ขาด","ex":"He ate the same lunch day after day.","exTh":"เขากินมื้อกลางวันเหมือนเดิมวันแล้ววันเล่า","c":4}
+{"id":"make-peace_idiom","th":"ทำสันติภาพ; คืนดีกัน","ex":"The two brothers finally made peace.","exTh":"สองพี่น้องก็คืนดีกันในที่สุด","c":3}
+{"id":"make-noise_idiom","th":"ส่งเสียงดัง; ก่อเสียงดัง; ออกมาพูดเรียกร้อง","ex":"Please don't make noise. The baby is sleeping.","exTh":"กรุณาอย่าส่งเสียงดัง ลูกกำลังนอนอยู่","c":3}
+{"id":"without-fail_idiom","th":"ไม่พลาด; แน่นอนเสมอ","ex":"She calls her mother every Sunday without fail.","exTh":"เธอโทรหาแม่ทุกวันอาทิตย์ไม่เคยขาด","c":3}
+{"id":"gut-feeling_idiom","th":"สัญชาตญาณ; ความรู้สึกลึกๆ","ex":"I have a gut feeling that he is lying.","exTh":"ฉันรู้สึกลึกๆ ว่าเขากำลังโกหก","c":4}
+{"id":"clear-cut_idiom","th":"ชัดเจน; แน่นอน","ex":"The rules are clear-cut.","exTh":"กฎชัดเจนมาก","c":3}
+{"id":"ivory-tower_idiom","th":"หอคอยงาช้าง; โลกส่วนตัวที่ห่างจากความเป็นจริง","ex":"Some professors live in an ivory tower.","exTh":"อาจารย์บางคนอยู่ในหอคอยงาช้าง","c":2}
+{"id":"day-in-day-out_idiom","th":"ทุกวันไม่เว้น; วันแล้ววันเล่า","ex":"He does the same boring work day in, day out.","exTh":"เขาทำงานน่าเบื่อแบบเดิมทุกวันไม่เว้น","c":3}
+{"id":"under-the-influence_idiom","th":"เมา; อยู่ใต้อิทธิพลของสุราหรือยา","ex":"He was arrested for driving under the influence.","exTh":"เขาถูกจับข้อหาเมาแล้วขับ","c":3}
+{"id":"see-red_idiom","th":"โกรธจัด; เลือดขึ้นหน้า","ex":"I saw red when he insulted my mother.","exTh":"ฉันโกรธจัดตอนที่เขาด่าแม่ของฉัน","c":3}
+{"id":"up-the-ante_idiom","th":"เพิ่มเดิมพัน; ยกระดับขึ้น","ex":"The company upped the ante with a bigger offer.","exTh":"บริษัทเพิ่มเดิมพันด้วยข้อเสนอที่ใหญ่กว่าเดิม","c":2}
+{"id":"last-resort_idiom","th":"ทางเลือกสุดท้าย","ex":"Surgery is the last resort.","exTh":"การผ่าตัดเป็นทางเลือกสุดท้าย","c":4}
+{"id":"bite-me_idiom","th":"ไปไกลๆ เลย; แล้วไง","ex":"If you don't like my cooking, bite me.","exTh":"ถ้าไม่ชอบอาหารที่ฉันทำ ก็ช่วยไม่ได้นะ","note":"คำพูดไม่สุภาพ ใช้ในภาษาพูด","c":2}
+{"id":"if-need-be_idiom","th":"ถ้าจำเป็น","ex":"I'll stay late if need be.","exTh":"ถ้าจำเป็นฉันจะอยู่ดึก","c":3}
+{"id":"soft-spot_idiom","th":"จุดอ่อนใจ; ความรักใคร่เอ็นดูเป็นพิเศษ","ex":"I have a soft spot for old dogs.","exTh":"ฉันมีความเอ็นดูเป็นพิเศษต่อสุนัขแก่ๆ","c":3}
+{"id":"carrot-and-stick_idiom","th":"ใช้ทั้งรางวัลและการลงโทษ","ex":"The school uses a carrot-and-stick approach with students.","exTh":"โรงเรียนใช้วิธีทั้งให้รางวัลและลงโทษกับนักเรียน","c":2}
+{"id":"lose-heart_idiom","th":"ท้อใจ; หมดกำลังใจ","ex":"Don't lose heart. Try again tomorrow.","exTh":"อย่าท้อใจ พรุ่งนี้ลองใหม่","c":3}
+{"id":"blink-of-an-eye_idiom","th":"ชั่วพริบตา","ex":"The summer was over in the blink of an eye.","exTh":"หน้าร้อนผ่านไปชั่วพริบตา","c":4}
+{"id":"take-a-look_idiom","th":"ลองดู; ดูหน่อย","ex":"Can you take a look at my report?","exTh":"ช่วยดูรายงานของฉันหน่อยได้ไหม","c":5}
+{"id":"shed-a-tear_idiom","th":"หลั่งน้ำตา; ร้องไห้","ex":"She didn't shed a tear at the farewell.","exTh":"เธอไม่ได้หลั่งน้ำตาตอนอำลา","c":3}
+{"id":"see-the-light_idiom","th":"ตาสว่าง; เข้าใจในที่สุด","ex":"After many mistakes, he finally saw the light.","exTh":"หลังจากทำผิดพลาดหลายครั้ง ในที่สุดเขาก็ตาสว่าง","c":3}
+{"id":"lie-in-wait_idiom","th":"ซุ่มรอ; ซ่อนตัวคอยดักโจมตี","ex":"The cat lay in wait for the mouse.","exTh":"แมวซุ่มรอหนู","c":2}
+{"id":"good-job_idiom","th":"เก่งมาก; ทำได้ดี","ex":"Good job on the presentation today!","exTh":"วันนี้พรีเซนต์ได้ดีมาก!","c":5}
+{"id":"laugh-one-s-head-off_idiom","th":"หัวเราะจนหัวหงาย; หัวเราะงอหาย","ex":"We laughed our heads off at the funny movie.","exTh":"เราหัวเราะงอหายกับหนังตลกเรื่องนั้น","c":3}
+{"id":"on-the-one-hand_idiom","th":"ในด้านหนึ่ง; ในมุมหนึ่ง","ex":"On the one hand, I want a new job, but on the other hand, I'm scared.","exTh":"ในด้านหนึ่งฉันอยากได้งานใหม่ แต่อีกด้านก็กลัว","c":4}
+{"id":"come-to-terms-with_idiom","th":"ทำใจยอมรับ; ปรับตัวยอมรับ","ex":"It took her years to come to terms with the loss.","exTh":"เธอใช้เวลาหลายปีกว่าจะทำใจยอมรับการสูญเสียได้","c":3}
+{"id":"burst-out-laughing_idiom","th":"หลุดหัวเราะออกมา; หัวเราะลั่นทันที","ex":"When I saw his hat, I burst out laughing.","exTh":"พอเห็นหมวกของเขา ฉันก็หัวเราะลั่นออกมา","c":4}
+{"id":"come-to-an-end_idiom","th":"สิ้นสุดลง; จบลง","ex":"The holiday came to an end too soon.","exTh":"วันหยุดจบลงเร็วเกินไป","c":4}
+{"id":"lightning-fast_idiom","th":"เร็วปานสายฟ้า; เร็วมาก","ex":"The new internet is lightning fast.","exTh":"อินเทอร์เน็ตใหม่เร็วปานสายฟ้า","c":3}
+{"id":"cast-pearls-before-swine_idiom","th":"ดีดพิณให้ควายฟัง; ให้ของดีกับคนที่ไม่เห็นค่า","ex":"Teaching art to him is casting pearls before swine.","exTh":"สอนศิลปะให้เขาก็เหมือนดีดพิณให้ควายฟัง","c":1}
+{"id":"turn-up-one-s-nose_idiom","th":"ดูถูก; เชิดหน้าใส่","ex":"He turned up his nose at the cheap food.","exTh":"เขาเชิดหน้าใส่อาหารราคาถูก","c":2}
+{"id":"what-is-more_idiom","th":"ยิ่งไปกว่านั้น; อีกทั้ง","ex":"The hotel is cheap, and what is more, it is clean.","exTh":"โรงแรมนี้ราคาถูก ยิ่งกว่านั้นยังสะอาดอีกด้วย","c":3}
+{"id":"out-of-line_idiom","th":"เกินขอบเขต; ไม่เหมาะสม","ex":"His comment was out of line.","exTh":"ความเห็นของเขาไม่เหมาะสม","c":4}
+{"id":"a-little-bird-told-me_idiom","th":"มีคนแอบบอก; ฉันได้ยินมาจากแหล่งที่ไม่บอก","ex":"A little bird told me it's your birthday.","exTh":"มีคนแอบบอกฉันว่าวันนี้วันเกิดคุณ","c":3}
+{"id":"away-with-the-fairies_idiom","th":"เหม่อลอย; ใจลอย","ex":"She's away with the fairies today.","exTh":"วันนี้เธอเหม่อลอยเหลือเกิน","note":"ภาษาพูดสำเนียงอังกฤษ/ไอริช","c":2}
+{"id":"apples-and-oranges_idiom","th":"เปรียบเทียบกันไม่ได้; คนละเรื่องกัน","ex":"Comparing the two cities is apples and oranges.","exTh":"การเปรียบเทียบสองเมืองนี้ไม่ได้เลย คนละเรื่องกัน","c":3}
+{"id":"and-how_idiom","th":"แน่นอนที่สุด; ใช่เลย","ex":"Was the food good? And how!","exTh":"อาหารอร่อยไหม? อร่อยสุดๆ เลย!","c":2}
+{"id":"go-to-work_idiom","th":"ไปทำงาน","ex":"I go to work by train.","exTh":"ฉันไปทำงานโดยรถไฟ","c":5}
+{"id":"ups-and-downs_idiom","th":"ขึ้นๆ ลงๆ; สุขบ้างทุกข์บ้าง","ex":"Every marriage has its ups and downs.","exTh":"ชีวิตสมรสทุกคู่ก็มีขึ้นมีลง","c":4}
+{"id":"dirty-laundry_idiom","th":"เรื่องน่าอายที่ไม่อยากให้ใครรู้","ex":"Don't wash your dirty laundry in public.","exTh":"อย่าเอาเรื่องน่าอายไปเปิดเผยต่อหน้าคนอื่น","c":3}
+{"id":"first-come-first-served_idiom","th":"มาก่อนได้ก่อน","ex":"Seats are first come, first served.","exTh":"ที่นั่งเป็นระบบมาก่อนได้ก่อน","c":4}
+{"id":"broken-heart_idiom","th":"อกหัก; หัวใจสลาย","ex":"She cried for days with a broken heart.","exTh":"เธอร้องไห้หลายวันเพราะอกหัก","c":4}
+{"id":"full-speed-ahead_idiom","th":"เดินหน้าเต็มกำลัง; เต็มสปีด","ex":"The team is going full speed ahead on the project.","exTh":"ทีมเดินหน้าโปรเจกต์เต็มกำลัง","c":3}
+{"id":"break-a-sweat_idiom","th":"เหงื่อออก; ออกแรงมาก","ex":"I didn't even break a sweat during the run.","exTh":"ตอนวิ่งฉันไม่เหนื่อยเลยแม้แต่น้อย","c":3}
+{"id":"party-animal_idiom","th":"คนชอบปาร์ตี้; สายปาร์ตี้","ex":"My cousin is a real party animal.","exTh":"ลูกพี่ลูกน้องของฉันเป็นสายปาร์ตี้ตัวจริง","c":3}
+{"id":"four-leaf-clover_idiom","th":"ใบโคลเวอร์สี่แฉก (สัญลักษณ์แห่งโชคดี)","ex":"She found a four-leaf clover in the park.","exTh":"เธอเจอใบโคลเวอร์สี่แฉกในสวน","c":2}
+{"id":"turn-upside-down_idiom","th":"พลิกคว่ำ; ทำให้ยุ่งเหยิงไปหมด","ex":"The news turned my life upside down.","exTh":"ข่าวนั้นพลิกชีวิตฉันกลับตาลปัตร","c":3}
+{"id":"let-loose_idiom","th":"ปล่อยตัว; ปลดปล่อย","ex":"After the exam, we let loose and danced all night.","exTh":"หลังสอบเสร็จ เราปล่อยตัวเต้นกันทั้งคืน","c":3}
+{"id":"come-into-being_idiom","th":"เกิดขึ้น; ถือกำเนิด","ex":"The club came into being in 1990.","exTh":"สโมสรนี้ถือกำเนิดขึ้นในปี 1990","c":2}
+{"id":"cold-day-in-hell_idiom","th":"ไม่มีวันเกิดขึ้น; ชาติหน้าตอนบ่ายๆ","ex":"I'll lend him money on a cold day in hell.","exTh":"ฉันจะให้เขายืมเงินก็ต่อเมื่อชาติหน้าตอนบ่ายๆ","c":2}
+{"id":"stumbling-block_idiom","th":"อุปสรรค; เครื่องขวางทาง","ex":"Money is the main stumbling block for the plan.","exTh":"เงินเป็นอุปสรรคหลักของแผนนี้","c":3}
+{"id":"as-the-crow-flies_idiom","th":"ระยะเส้นตรง; ระยะทางตรง","ex":"The village is five miles away as the crow flies.","exTh":"หมู่บ้านอยู่ห่างออกไปห้าไมล์ในระยะเส้นตรง","c":3}
+{"id":"close-but-no-cigar_idiom","th":"เกือบถูกแล้ว แต่ยังไม่ใช่","ex":"You guessed 99. Close but no cigar!","exTh":"คุณเดาว่า 99 เกือบถูกแล้ว แต่ยังไม่ใช่!","c":2}
+{"id":"needle-in-a-haystack_idiom","th":"งมเข็มในมหาสมุทร; หาได้ยากมาก","ex":"Finding my lost ring was like finding a needle in a haystack.","exTh":"การหาแหวนที่หายก็เหมือนงมเข็มในมหาสมุทร","c":3}
+{"id":"hook-line-and-sinker_idiom","th":"เชื่อสนิทใจ; หลงกลอย่างสมบูรณ์","ex":"He believed my joke hook, line, and sinker.","exTh":"เขาเชื่อมุกของฉันสนิทใจเลย","c":3}
+{"id":"tempest-in-a-teapot_idiom","th":"เรื่องเล็กแต่ทำเป็นเรื่องใหญ่","ex":"The argument was just a tempest in a teapot.","exTh":"การทะเลาะครั้งนี้เป็นแค่เรื่องเล็กที่ทำให้ใหญ่โต","c":2}
+{"id":"word-of-mouth_idiom","th":"การบอกต่อปากต่อปาก","ex":"The restaurant became popular by word of mouth.","exTh":"ร้านอาหารนี้ดังขึ้นมาจากการบอกต่อ","c":4}
+{"id":"yellow-press_idiom","th":"สื่อสร้างกระแส; หนังสือพิมพ์ปั่นข่าวเร้าอารมณ์","ex":"The yellow press loves celebrity gossip.","exTh":"สื่อสร้างกระแสชอบข่าวซุบซิบดารา","c":2}
+{"id":"in-the-way_idiom","th":"ขวางทาง; เกะกะ","ex":"Sorry, am I in the way?","exTh":"ขอโทษ ฉันขวางทางอยู่ไหม","c":4}
+{"id":"no-comment_idiom","th":"ไม่ขอแสดงความเห็น","ex":"When asked about the case, he said, no comment.","exTh":"เมื่อถูกถามถึงคดี เขาตอบว่าไม่ขอแสดงความเห็น","c":4}
+{"id":"doubting-thomas_idiom","th":"คนที่ต้องเห็นกับตาถึงจะเชื่อ; คนขี้สงสัย","ex":"Don't be a Doubting Thomas. It's true!","exTh":"อย่าเป็นคนไม่เชื่ออะไรง่ายๆ สิ มันเรื่องจริง!","c":2}
+{"id":"cross-the-rubicon_idiom","th":"ตัดสินใจเด็ดขาดจนไม่มีทางถอย","ex":"By signing the contract, he crossed the Rubicon.","exTh":"การเซ็นสัญญาทำให้เขาไม่มีทางถอยอีกแล้ว","c":1}
+{"id":"bury-the-hatchet_idiom","th":"เลิกทะเลาะกัน; คืนดีกัน","ex":"The neighbors decided to bury the hatchet.","exTh":"เพื่อนบ้านตัดสินใจเลิกทะเลาะกัน","c":3}
+{"id":"the-straw-that-broke-the-camel-s-back_idiom","th":"ฟางเส้นสุดท้าย; เรื่องเล็กๆ ที่ทำให้ทนไม่ไหว","ex":"The late bill was the straw that broke the camel's back.","exTh":"บิลที่ค้างชำระเป็นฟางเส้นสุดท้ายที่ทำให้ทนไม่ไหว","c":3}
+{"id":"with-bated-breath_idiom","th":"ด้วยใจจดจ่อ; กลั้นหายใจรอ","ex":"We waited with bated breath for the results.","exTh":"เรารอผลด้วยใจจดจ่อ","c":2}
+{"id":"watch-one-s-mouth_idiom","th":"ระวังคำพูด; ระวังปาก","ex":"Watch your mouth in front of the children.","exTh":"ระวังคำพูดต่อหน้าเด็กๆ ด้วย","c":3}
+{"id":"take-a-picture_idiom","th":"ถ่ายรูป","ex":"Can you take a picture of us?","exTh":"ช่วยถ่ายรูปให้พวกเราหน่อยได้ไหม","c":5}
+{"id":"in-the-know_idiom","th":"รู้เรื่องวงใน; มีข้อมูลดี","ex":"Ask Lisa. She's always in the know.","exTh":"ไปถามลิซ่าสิ เธอรู้เรื่องวงในเสมอ","c":3}
+{"id":"lose-it_idiom","th":"คุมอารมณ์ไม่อยู่; ระเบิดอารมณ์","ex":"I almost lost it when the printer broke again.","exTh":"ฉันเกือบคุมอารมณ์ไม่อยู่ตอนปริ้นเตอร์เสียอีกแล้ว","c":4}
+{"id":"open-book_idiom","th":"คนที่เปิดเผยตรงไปตรงมา; อ่านง่าย","ex":"My sister is an open book. She hides nothing.","exTh":"น้องสาวฉันเป็นคนเปิดเผย ไม่ปิดบังอะไรเลย","c":3}
+{"id":"on-the-street_idiom","th":"ไร้บ้าน; ข้างถนน","ex":"Many people lost their jobs and ended up on the street.","exTh":"หลายคนตกงานและกลายเป็นคนไร้บ้าน","c":3}
+{"id":"war-of-nerves_idiom","th":"สงครามประสาท","ex":"The two teams fought a war of nerves before the final.","exTh":"สองทีมทำสงครามประสาทกันก่อนรอบชิง","c":2}
+{"id":"as-in_idiom","th":"เช่นเดียวกับคำว่า; หมายถึง","ex":"Her name is Sara, as in the Bible.","exTh":"เธอชื่อซาร่า อย่างที่อยู่ในคัมภีร์ไบเบิล","c":3}
+{"id":"against-the-grain_idiom","th":"ขัดกับความรู้สึก; ฝืนความเคยชิน","ex":"Lying goes against the grain for me.","exTh":"การโกหกขัดกับนิสัยของฉัน","c":3}
+{"id":"it-s-about-time_idiom","th":"ได้เวลาสักที; ช้าไปแล้ว","ex":"You're finally here. It's about time!","exTh":"ในที่สุดคุณก็มา ช้าจริงๆ!","c":4}
+{"id":"get-it_idiom","th":"เข้าใจ; เก็ท","ex":"I don't get it. Can you explain again?","exTh":"ฉันไม่เก็ท อธิบายอีกครั้งได้ไหม","c":5}
+{"id":"hoist-by-one-s-own-petard_idiom","th":"กรรมตามสนอง; เสียหายเพราะแผนของตัวเอง","ex":"He was hoist by his own petard when the trick failed.","exTh":"เขาถูกกรรมตามสนองเมื่ออุบายล้มเหลว","c":1}
+{"id":"cut-to-the-chase_idiom","th":"เข้าเรื่องเลย; พูดตรงประเด็น","ex":"Let's cut to the chase. How much is it?","exTh":"เข้าเรื่องเลยดีกว่า ราคาเท่าไหร่","c":4}
+{"id":"give-up-the-ghost_idiom","th":"สิ้นใจ; เลิกทำงาน (เครื่อง); ยอมแพ้","ex":"My old car finally gave up the ghost.","exTh":"รถเก่าของฉันพังสนิทในที่สุด","c":2}
+{"id":"at-bay_idiom","th":"ยับยั้งไว้; ถูกต้อนจนมุม","ex":"The medicine helped keep the infection at bay.","exTh":"ยาช่วยยับยั้งการติดเชื้อไว้","c":3}
+{"id":"leave-someone-in-the-lurch_idiom","th":"ทิ้งให้เผชิญปัญหาตามลำพัง","ex":"He left me in the lurch just before the deadline.","exTh":"เขาทิ้งฉันไว้ตามลำพังก่อนกำหนดส่งงานไม่นาน","c":3}
+{"id":"point-blank_idiom","th":"ระยะประชิด; ตรงๆ ไม่อ้อมค้อม","ex":"I asked him point-blank if he took the money.","exTh":"ฉันถามเขาตรงๆ เลยว่าเขาเอาเงินไปหรือเปล่า","c":3}
+{"id":"on-the-sly_idiom","th":"แอบๆ; อย่างลับๆ","ex":"They met on the sly after school.","exTh":"พวกเขาแอบพบกันหลังเลิกเรียน","c":2}
+{"id":"and-all_idiom","th":"และอะไรทั้งหมดนั้น; ด้วยทุกอย่าง","ex":"He came home with the dog and all.","exTh":"เขากลับบ้านมาพร้อมกับสุนัขด้วยเลย","note":"ภาษาพูดสำเนียงอังกฤษ","c":2}
+{"id":"wet-behind-the-ears_idiom","th":"อ่อนหัด; ไร้ประสบการณ์","ex":"He's still wet behind the ears at this job.","exTh":"เขายังอ่อนหัดในงานนี้","c":3}
+{"id":"on-the-run_idiom","th":"หลบหนี; กำลังหนี","ex":"The thief is still on the run.","exTh":"โจรยังคงหลบหนีอยู่","c":4}
+{"id":"by-virtue-of_idiom","th":"ด้วยเหตุผลของ; โดยอาศัย","ex":"She got the job by virtue of her experience.","exTh":"เธอได้งานนี้เพราะประสบการณ์ของเธอ","note":"ภาษาทางการ","c":2}
+{"id":"food-for-thought_idiom","th":"เรื่องน่าคิด; ข้อคิด","ex":"His speech gave me food for thought.","exTh":"คำพูดของเขาทำให้ฉันมีข้อคิดมากมาย","c":4}
+{"id":"come-in-handy_idiom","th":"เป็นประโยชน์; มีประโยชน์ในวันข้างหน้า","ex":"Keep the box. It may come in handy.","exTh":"เก็บกล่องไว้เถอะ อาจได้ใช้","c":4}
+{"id":"fair-enough_idiom","th":"ก็สมเหตุสมผล; ก็ได้","ex":"You want to leave early? Fair enough.","exTh":"อยากกลับก่อนเหรอ? ก็สมเหตุสมผลนะ","c":5}
+{"id":"make-a-point_idiom","th":"ตั้งใจทำให้ได้; เน้นย้ำ; ยกประเด็น","ex":"I make a point of reading every night.","exTh":"ฉันตั้งใจอ่านหนังสือทุกคืน","c":3}
+{"id":"behind-closed-doors_idiom","th":"อย่างลับๆ; ภายในไม่ให้คนนอกรู้","ex":"The managers made the decision behind closed doors.","exTh":"ผู้จัดการตัดสินใจกันอย่างลับๆ","c":3}
+{"id":"pull-oneself-together_idiom","th":"ตั้งสติ; รวบรวมสติ","ex":"Pull yourself together and try again.","exTh":"ตั้งสติแล้วลองใหม่อีกครั้ง","c":3}
+{"id":"castle-in-the-air_idiom","th":"วาดวิมานในอากาศ; ความฝันลมๆ แล้งๆ","ex":"His plan to get rich quickly is just a castle in the air.","exTh":"แผนรวยเร็วของเขาเป็นแค่วิมานในอากาศ","c":2}
+{"id":"go-wrong_idiom","th":"ผิดพลาด; ไม่เป็นไปตามแผน","ex":"Everything went wrong on the first day.","exTh":"ทุกอย่างผิดพลาดไปหมดในวันแรก","c":4}
+{"id":"trial-by-fire_idiom","th":"บททดสอบที่หนักหน่วง; การพิสูจน์ด้วยสถานการณ์จริง","ex":"The new job was a trial by fire.","exTh":"งานใหม่เป็นบททดสอบที่หนักหน่วง","c":2}
+{"id":"i-ll-be-damned_idiom","th":"แปลกใจจริงๆ; ไม่น่าเชื่อ","ex":"Well, I'll be damned! You actually won.","exTh":"โอ้โห ไม่น่าเชื่อ! คุณชนะจริงๆ","note":"ภาษาพูด ค่อนข้างหยาบเล็กน้อย","c":2}
+{"id":"on-the-whole_idiom","th":"โดยรวม; โดยทั่วไป","ex":"On the whole, the trip was great.","exTh":"โดยรวมแล้วการเดินทางครั้งนี้ยอดเยี่ยม","c":4}
+{"id":"on-demand_idiom","th":"ตามความต้องการ; ตามสั่ง","ex":"You can watch movies on demand.","exTh":"คุณดูหนังตามต้องการได้","c":4}

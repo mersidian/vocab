@@ -1,0 +1,802 @@
+[
+{
+"id": "reheat-someone-s-nachos_idiom",
+"w": "reheat someone's nachos",
+"kind": "idiom",
+"gloss": [
+"To recreate or emulate something done before; to rehash; usually refers to celebrities or influencers."
+]
+},
+{
+"id": "worst-kept-secret_idiom",
+"w": "worst-kept secret",
+"kind": "idiom",
+"gloss": [
+"A situation where little or no attempt has been made to keep a matter secret."
+]
+},
+{
+"id": "butcher-s-thumb_idiom",
+"w": "butcher's thumb",
+"kind": "idiom",
+"gloss": [
+"A dishonest practice in which a butcher uses their thumb to add extra weight to a scale when weighing meat."
+]
+},
+{
+"id": "break-one-s-chops_idiom",
+"w": "break one's chops",
+"kind": "idiom",
+"gloss": [
+"To give someone a hard time, harass, nag one to do something, bother."
+]
+},
+{
+"id": "insult-one-s-intelligence_idiom",
+"w": "insult one's intelligence",
+"kind": "idiom",
+"gloss": [
+"To treat someone as if they are not intelligent or enough to understand something obvious."
+]
+},
+{
+"id": "full-tide_idiom",
+"w": "full tide",
+"kind": "idiom",
+"gloss": [
+"Strongly; with full power; full-bore."
+]
+},
+{
+"id": "herbs-and-spices_idiom",
+"w": "herbs and spices",
+"kind": "idiom",
+"gloss": [
+"A variety or a diversity of elements which combine to make something more interesting, complex, or enjoyable."
+]
+},
+{
+"id": "time-is-short_idiom",
+"w": "time is short",
+"kind": "idiom",
+"gloss": [
+"Synonym of clock is ticking."
+]
+},
+{
+"id": "pour-cold-water-over_idiom",
+"w": "pour cold water over",
+"kind": "idiom",
+"gloss": [
+"Synonym of throw cold water on."
+]
+},
+{
+"id": "what-can-i-tell-you_idiom",
+"w": "what can I tell you",
+"kind": "idiom",
+"gloss": [
+"Synonym of what can I say."
+]
+},
+{
+"id": "start-with-a-clean-sheet-of-paper_idiom",
+"w": "start with a clean sheet of paper",
+"kind": "idiom",
+"gloss": [
+"Synonym of start with a clean sheet."
+]
+},
+{
+"id": "want-someone-s-nachos_idiom",
+"w": "want someone's nachos",
+"kind": "idiom",
+"gloss": [
+"To covet another; to envy one's accomplishments or qualities."
+]
+},
+{
+"id": "mugged-by-reality_idiom",
+"w": "mugged by reality",
+"kind": "idiom",
+"gloss": [
+"Of a person, having experienced a sudden, harsh, confrontation with the truth or reality of a situation."
+]
+},
+{
+"id": "of-the-deepest-dye_idiom",
+"w": "of the deepest dye",
+"kind": "idiom",
+"gloss": [
+"Of the worst or most extreme sort or type."
+]
+},
+{
+"id": "fuck-someone-upside-down_idiom",
+"w": "fuck someone upside down",
+"kind": "idiom",
+"gloss": [
+"To give someone a bad scolding."
+]
+},
+{
+"id": "i-m-not-telling-you_idiom",
+"w": "I'm not telling you",
+"kind": "idiom",
+"gloss": [
+"Used to express that someone doesn't need to know something, typically because it is a secret (sometimes used as a way to attempt to hide someone's wrongdoing); may also be used when someone tries to ask for answers while doing an assignment or examination, or private or confidential information, including passwords."
+]
+},
+{
+"id": "lost-to-history_idiom",
+"w": "lost to history",
+"kind": "idiom",
+"gloss": [
+"Writings, objects, or knowledge from the past that no longer exist."
+]
+},
+{
+"id": "creature-of-statute_idiom",
+"w": "creature of statute",
+"kind": "idiom",
+"gloss": [
+"A body created by legislation, especially a public body."
+]
+},
+{
+"id": "in-deep_idiom",
+"w": "in deep",
+"kind": "idiom",
+"gloss": [
+"Deeply involved or invested in something, especially a troublesome situation."
+]
+},
+{
+"id": "race-riot_idiom",
+"w": "race riot",
+"kind": "idiom",
+"gloss": [
+"A riot arising from interracial conflict."
+]
+},
+{
+"id": "not-know-what-one-is-missing_idiom",
+"w": "not know what one is missing",
+"kind": "idiom",
+"gloss": [
+"To be missing out on something enjoyable."
+]
+},
+{
+"id": "cut-down-the-tall-poppy_idiom",
+"w": "cut down the tall poppy",
+"kind": "idiom",
+"gloss": [
+"To belittle or undermine someone who is perceived as superior or more successful and accomplished."
+]
+},
+{
+"id": "weaponized-incompetence_idiom",
+"w": "weaponized incompetence",
+"kind": "idiom",
+"gloss": [
+"A behavioral tactic where a person intentionally pretends to be incapable or performs tasks poorly in order to avoid responsibility and shift the workload to others."
+]
+},
+{
+"id": "long-in-coming_idiom",
+"w": "long in coming",
+"kind": "idiom",
+"gloss": [
+"Of an event or happening, that has been awaited for a considerable period, implying that its arrival is overdue or much anticipated."
+]
+},
+{
+"id": "molehill-mountaineer_idiom",
+"w": "molehill mountaineer",
+"kind": "idiom",
+"gloss": [
+"A person who habitually exaggerates or overemphasizes minor issues."
+]
+},
+{
+"id": "holy-buckets_idiom",
+"w": "holy buckets",
+"kind": "idiom",
+"gloss": [
+"An exclamation of surprise or astonishment."
+]
+},
+{
+"id": "handbags-at-ten-paces_idiom",
+"w": "handbags at ten paces",
+"kind": "idiom",
+"gloss": [
+"Synonym of handbags at dawn (“a catty squabble”)."
+]
+},
+{
+"id": "roll-tape_idiom",
+"w": "roll tape",
+"kind": "idiom",
+"gloss": [
+"To begin recording or playing back audio or video material."
+]
+},
+{
+"id": "lay-the-wood_idiom",
+"w": "lay the wood",
+"kind": "idiom",
+"gloss": [
+"to deliver a strong, powerful hit or play"
+]
+},
+{
+"id": "horseback-opinion_idiom",
+"w": "horseback opinion",
+"kind": "idiom",
+"gloss": [
+"An opinion given without thorough consideration or a firm basis, often used in a casual or speculative way."
+]
+},
+{
+"id": "death-and-taxes_idiom",
+"w": "death and taxes",
+"kind": "idiom",
+"gloss": [
+"Something which is totally certain."
+]
+},
+{
+"id": "put-a-slight-upon_idiom",
+"w": "put a slight upon",
+"kind": "idiom",
+"gloss": [
+"To insult, disrespect, or belittle someone or something."
+]
+},
+{
+"id": "catch-a-date_idiom",
+"w": "catch a date",
+"kind": "idiom",
+"gloss": [
+"Of a prostitute, to secure a client who is willing to pay for services."
+]
+},
+{
+"id": "put-one-s-legs-under-someone-s-mahogany_idiom",
+"w": "put one's legs under someone's mahogany",
+"kind": "idiom",
+"gloss": [
+"To dine with someone."
+]
+},
+{
+"id": "under-the-mahogany_idiom",
+"w": "under the mahogany",
+"kind": "idiom",
+"gloss": [
+"Drunk, intoxicated."
+]
+},
+{
+"id": "below-the-mahogany_idiom",
+"w": "below the mahogany",
+"kind": "idiom",
+"gloss": [
+"Synonym of under the mahogany."
+]
+},
+{
+"id": "new-hotness_idiom",
+"w": "new hotness",
+"kind": "idiom",
+"gloss": [
+"The new popular trend; the latest and greatest thing."
+]
+},
+{
+"id": "kill-trees_idiom",
+"w": "kill trees",
+"kind": "idiom",
+"gloss": [
+"To use paper."
+]
+},
+{
+"id": "party-cry_idiom",
+"w": "party cry",
+"kind": "idiom",
+"gloss": [
+"A distinctive slogan, chant or exclamation associated with a political party, movement or social group."
+]
+},
+{
+"id": "in-the-snap-of-one-s-fingers_idiom",
+"w": "in the snap of one's fingers",
+"kind": "idiom",
+"gloss": [
+"In a snap."
+]
+},
+{
+"id": "long-hour_idiom",
+"w": "long hour",
+"kind": "idiom",
+"gloss": [
+"Any of the late hours of the day, especially those nearing midnight, or the hours after sunset."
+]
+},
+{
+"id": "bad-looker_idiom",
+"w": "bad looker",
+"kind": "idiom",
+"gloss": [
+"Someone who is unattractive or not pleasing to the eye."
+]
+},
+{
+"id": "give-someone-beans_idiom",
+"w": "give someone beans",
+"kind": "idiom",
+"gloss": [
+"To scold or reprimand someone severely."
+]
+},
+{
+"id": "johnny-appleseed_idiom",
+"w": "Johnny Appleseed",
+"kind": "idiom",
+"gloss": [
+"A person, usually a male, who is generous, nurturing, and dedicated to positivity and helping others."
+]
+},
+{
+"id": "turn-a-setback-into-a-comeback_idiom",
+"w": "turn a setback into a comeback",
+"kind": "idiom",
+"gloss": [
+"To use a difficult situation as an opportunity to learn and come back stronger than before."
+]
+},
+{
+"id": "lost-to-time_idiom",
+"w": "lost to time",
+"kind": "idiom",
+"gloss": [
+"No longer extant because it was not preserved or could not last, after a significant period of time."
+]
+},
+{
+"id": "cloud-seven_idiom",
+"w": "cloud seven",
+"kind": "idiom",
+"gloss": [
+"Often in the phrase on cloud seven: a state of bliss, elation or happiness."
+]
+},
+{
+"id": "on-cloud-seven_idiom",
+"w": "on cloud seven",
+"kind": "idiom",
+"gloss": [
+"In a state of elation; very happy; blissful."
+]
+},
+{
+"id": "though-i-say-it-who-should-not_idiom",
+"w": "though I say it who should not",
+"kind": "idiom",
+"gloss": [
+"Appended to a statement of self-praise, as a form of modest apology."
+]
+},
+{
+"id": "of-the-same-leaven_idiom",
+"w": "of the same leaven",
+"kind": "idiom",
+"gloss": [
+"Of a kind, cut from the same cloth."
+]
+},
+{
+"id": "camp-as-a-row-of-tents_idiom",
+"w": "camp as a row of tents",
+"kind": "idiom",
+"gloss": [
+"Very camp, highly campy."
+]
+},
+{
+"id": "a-cigar-is-just-a-cigar_idiom",
+"w": "a cigar is just a cigar",
+"kind": "idiom",
+"gloss": [
+"The matter is simple and straightforward."
+]
+},
+{
+"id": "get-back-on-the-horse_idiom",
+"w": "get back on the horse",
+"kind": "idiom",
+"gloss": [
+"To return to an activity after a period of abstaining from the activity."
+]
+},
+{
+"id": "laughing-tackle_idiom",
+"w": "laughing tackle",
+"kind": "idiom",
+"gloss": [
+"Teeth."
+]
+},
+{
+"id": "holy-crud_idiom",
+"w": "holy crud",
+"kind": "idiom",
+"gloss": [
+"holy crap; holy shit"
+]
+},
+{
+"id": "stack-the-cards_idiom",
+"w": "stack the cards",
+"kind": "idiom",
+"gloss": [
+"To surreptitiously arrange something in order to gain an unfair advantage, or to alter an outcome"
+]
+},
+{
+"id": "real-quick_idiom",
+"w": "real quick",
+"kind": "idiom",
+"gloss": [
+"Quickly, right away."
+]
+},
+{
+"id": "do-the-work_idiom",
+"w": "do the work",
+"kind": "idiom",
+"gloss": [
+"To take part in social justice activism; to fight against racism, oppression, etc."
+]
+},
+{
+"id": "bring-back-to-life_idiom",
+"w": "bring back to life",
+"kind": "idiom",
+"gloss": [
+"To return someone to a state of consciousness or living after a state of unconsciousness, death or near-death."
+]
+},
+{
+"id": "whatever-butters-your-biscuit_idiom",
+"w": "whatever butters your biscuit",
+"kind": "idiom",
+"gloss": [
+"Synonym of whatever floats your boat."
+]
+},
+{
+"id": "lead-someone-to-the-altar_idiom",
+"w": "lead someone to the altar",
+"kind": "idiom",
+"gloss": [
+"To get married to someone."
+]
+},
+{
+"id": "learned-profession_idiom",
+"w": "learned profession",
+"kind": "idiom",
+"gloss": [
+"The profession of divinity, medicine, or law."
+]
+},
+{
+"id": "whatever-butters-your-bread_idiom",
+"w": "whatever butters your bread",
+"kind": "idiom",
+"gloss": [
+"Synonym of whatever floats your boat."
+]
+},
+{
+"id": "whatever-butters-your-muffin_idiom",
+"w": "whatever butters your muffin",
+"kind": "idiom",
+"gloss": [
+"Synonym of whatever floats your boat."
+]
+},
+{
+"id": "whatever-butters-your-toast_idiom",
+"w": "whatever butters your toast",
+"kind": "idiom",
+"gloss": [
+"Synonym of whatever floats your boat."
+]
+},
+{
+"id": "whatever-tickles-your-pickle_idiom",
+"w": "whatever tickles your pickle",
+"kind": "idiom",
+"gloss": [
+"Synonym of whatever floats your boat."
+]
+},
+{
+"id": "whatever-sizzles-your-bacon_idiom",
+"w": "whatever sizzles your bacon",
+"kind": "idiom",
+"gloss": [
+"Synonym of whatever floats your boat."
+]
+},
+{
+"id": "whatever-winds-your-clock_idiom",
+"w": "whatever winds your clock",
+"kind": "idiom",
+"gloss": [
+"Synonym of whatever floats your boat."
+]
+},
+{
+"id": "whatever-melts-your-butter_idiom",
+"w": "whatever melts your butter",
+"kind": "idiom",
+"gloss": [
+"Synonym of whatever floats your boat."
+]
+},
+{
+"id": "whatever-humps-your-camel_idiom",
+"w": "whatever humps your camel",
+"kind": "idiom",
+"gloss": [
+"Synonym of whatever floats your boat."
+]
+},
+{
+"id": "tools-of-trade_idiom",
+"w": "tools of trade",
+"kind": "idiom",
+"gloss": [
+"The items and equipment that a person uses in the course and scope of their profession, trade, or occupation."
+]
+},
+{
+"id": "the-finest_idiom",
+"w": "the finest",
+"kind": "idiom",
+"gloss": [
+"A city's police force, or the police officers of a particular area."
+]
+},
+{
+"id": "fall-off-one-s-chair_idiom",
+"w": "fall off one's chair",
+"kind": "idiom",
+"gloss": [
+"To experience a strong reaction of surprise, shock or disbelief."
+]
+},
+{
+"id": "poor-man-s-shilling_idiom",
+"w": "poor man's shilling",
+"kind": "idiom",
+"gloss": [
+"Honesty."
+]
+},
+{
+"id": "on-a-day-to-day-basis_idiom",
+"w": "on a day-to-day basis",
+"kind": "idiom",
+"gloss": [
+"Occurring as part of a daily routine."
+]
+},
+{
+"id": "ripe-for-the-plucking_idiom",
+"w": "ripe for the plucking",
+"kind": "idiom",
+"gloss": [
+"Synonym of ripe for the picking."
+]
+},
+{
+"id": "shit-in-someone-s-cereal_idiom",
+"w": "shit in someone's cereal",
+"kind": "idiom",
+"gloss": [
+"Synonym of piss in someone's cornflakes."
+]
+},
+{
+"id": "in-capital-letters_idiom",
+"w": "in capital letters",
+"kind": "idiom",
+"gloss": [
+"Of someone or something, emphasizing notability, significance, or exemplary status."
+]
+},
+{
+"id": "l-in-the-chat_idiom",
+"w": "L in the chat",
+"kind": "idiom",
+"gloss": [
+"A loss, failure, or unfortunate event."
+]
+},
+{
+"id": "fly-out-of-the-blocks_idiom",
+"w": "fly out of the blocks",
+"kind": "idiom",
+"gloss": [
+"To begin quickly"
+]
+},
+{
+"id": "complete-and-utter_idiom",
+"w": "complete and utter",
+"kind": "idiom",
+"gloss": [
+"Used to intensify; absolute; total."
+]
+},
+{
+"id": "thrill-of-the-hunt_idiom",
+"w": "thrill of the hunt",
+"kind": "idiom",
+"gloss": [
+"The anticipation and excitement experienced while searching for something that is difficult to obtain."
+]
+},
+{
+"id": "on-the-canvas_idiom",
+"w": "on the canvas",
+"kind": "idiom",
+"gloss": [
+"In a state of being overwhelmed, defeated, or in a challenging situation."
+]
+},
+{
+"id": "any-the-wiser_idiom",
+"w": "any the wiser",
+"kind": "idiom",
+"gloss": [
+"Knowing or understanding more about something; acquiring a deeper or more thorough understanding."
+]
+},
+{
+"id": "kao-peh-kao-bu_idiom",
+"w": "kao peh kao bu",
+"kind": "idiom",
+"gloss": [
+"To make a fuss, to complain or whine excessively, to complain to high heaven."
+]
+},
+{
+"id": "ivory-tickler_idiom",
+"w": "ivory tickler",
+"kind": "idiom",
+"gloss": [
+"A pianist"
+]
+},
+{
+"id": "shadow-of-one-s-former-self_idiom",
+"w": "shadow of one's former self",
+"kind": "idiom",
+"gloss": [
+"A person or a thing whose impression got declined drastically."
+]
+},
+{
+"id": "take-someone-out-back_idiom",
+"w": "take someone out back",
+"kind": "idiom",
+"gloss": [
+"To get rid of; to eliminate."
+]
+},
+{
+"id": "is-a-bear-catholic_idiom",
+"w": "is a bear Catholic",
+"kind": "idiom",
+"gloss": [
+"A rhetorical question in response to a question where the answer is an emphatic yes: duh!, obviously!, of course!"
+]
+},
+{
+"id": "as-the-next-person_idiom",
+"w": "as the next person",
+"kind": "idiom",
+"gloss": [
+"To a reasonable degree; as much as a typical person."
+]
+},
+{
+"id": "real-live_idiom",
+"w": "real live",
+"kind": "idiom",
+"gloss": [
+"Authentic and indisputably present."
+]
+},
+{
+"id": "simplicity-itself_idiom",
+"w": "simplicity itself",
+"kind": "idiom",
+"gloss": [
+"Something very easy to do or understand."
+]
+},
+{
+"id": "strain-at-the-leash_idiom",
+"w": "strain at the leash",
+"kind": "idiom",
+"gloss": [
+"To be very eager to do or begin something."
+]
+},
+{
+"id": "piece-of-the-puzzle_idiom",
+"w": "piece of the puzzle",
+"kind": "idiom",
+"gloss": [
+"A clue that contributes to the solution of a mystery."
+]
+},
+{
+"id": "squash-the-beef_idiom",
+"w": "squash the beef",
+"kind": "idiom",
+"gloss": [
+"To resolve a grudge."
+]
+},
+{
+"id": "quality-over-quantity_idiom",
+"w": "quality over quantity",
+"kind": "idiom",
+"gloss": [
+"An idiom emphasizing the preference for high-quality items or experiences rather than a large number of them. It suggests that focusing on excellence and value is more desirable than simply accumulating more, regardless of its worth. This principle can be applied to various aspects of life, from material possessions to personal relationships and work."
+]
+},
+{
+"id": "dial-towards_idiom",
+"w": "dial towards",
+"kind": "idiom",
+"gloss": [
+"To be oriented towards, to be figuratively moving in the direction of or aiming at a conclusion."
+]
+},
+{
+"id": "to-the-marrow_idiom",
+"w": "to the marrow",
+"kind": "idiom",
+"gloss": [
+"To the bone."
+]
+},
+{
+"id": "jump-at-the-opportunity_idiom",
+"w": "jump at the opportunity",
+"kind": "idiom",
+"gloss": [
+"To immediately seize a particular opportunity."
+]
+},
+{
+"id": "completely-and-utterly_idiom",
+"w": "completely and utterly",
+"kind": "idiom",
+"gloss": [
+"Totally; entirely."
+]
+}
+]

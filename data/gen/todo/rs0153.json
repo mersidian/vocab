@@ -1,0 +1,802 @@
+[
+{
+"id": "bandwagon-jumper_idiom",
+"w": "bandwagon jumper",
+"kind": "idiom",
+"gloss": [
+"One who jumps on the bandwagon."
+]
+},
+{
+"id": "know-someone-from-eve_idiom",
+"w": "know someone from Eve",
+"kind": "idiom",
+"gloss": [
+"To know or recognize someone at all."
+]
+},
+{
+"id": "work-with-one-s-hands_idiom",
+"w": "work with one's hands",
+"kind": "idiom",
+"gloss": [
+"To engage in difficult manual labor, especially using analog tools."
+]
+},
+{
+"id": "give-someone-their-flowers_idiom",
+"w": "give someone their flowers",
+"kind": "idiom",
+"gloss": [
+"To praise someone or to acknowledge their work or accomplishments."
+]
+},
+{
+"id": "let-me-tell-you_idiom",
+"w": "let me tell you",
+"kind": "idiom",
+"gloss": [
+"Synonym of I can tell you."
+]
+},
+{
+"id": "tulip-mania_idiom",
+"w": "tulip mania",
+"kind": "idiom",
+"gloss": [
+"Any asset bubble (such as a stock bubble), especially when the irony of human folly that it illustrates is being emphasized."
+]
+},
+{
+"id": "either-do-or-die_idiom",
+"w": "either do or die",
+"kind": "idiom",
+"gloss": [
+"To act with sufficient urgency to result in either immediate success or immediate failure."
+]
+},
+{
+"id": "sad-drunk_idiom",
+"w": "sad drunk",
+"kind": "idiom",
+"gloss": [
+"A person who is gloomy or depressed when intoxicated, unable to retain reasonable control of their mental and emotional faculties."
+]
+},
+{
+"id": "drive-someone-to-drink_idiom",
+"w": "drive someone to drink",
+"kind": "idiom",
+"gloss": [
+"To cause someone to drink lots of alcohol, as an escape from frustration."
+]
+},
+{
+"id": "pop-one-s-wad_idiom",
+"w": "pop one's wad",
+"kind": "idiom",
+"gloss": [
+"To ejaculate; to cum."
+]
+},
+{
+"id": "leave-things-be_idiom",
+"w": "leave things be",
+"kind": "idiom",
+"gloss": [
+"Synonym of let it be."
+]
+},
+{
+"id": "let-things-be_idiom",
+"w": "let things be",
+"kind": "idiom",
+"gloss": [
+"Synonym of let it be."
+]
+},
+{
+"id": "leave-things-alone_idiom",
+"w": "leave things alone",
+"kind": "idiom",
+"gloss": [
+"Synonym of let it be."
+]
+},
+{
+"id": "let-things-alone_idiom",
+"w": "let things alone",
+"kind": "idiom",
+"gloss": [
+"Synonym of let it be."
+]
+},
+{
+"id": "snap-to-attention_idiom",
+"w": "snap to attention",
+"kind": "idiom",
+"gloss": [
+"Synonym of stand at attention."
+]
+},
+{
+"id": "give-zero-fucks_idiom",
+"w": "give zero fucks",
+"kind": "idiom",
+"gloss": [
+"To not care; to not give a shit."
+]
+},
+{
+"id": "for-the-love-of-the-game_idiom",
+"w": "for the love of the game",
+"kind": "idiom",
+"gloss": [
+"Doing something for one's own enjoyment or other intrinsic desire to do so; not for other reasons such as money or other ulterior motives."
+]
+},
+{
+"id": "get-someone-s-neurons-firing_idiom",
+"w": "get someone's neurons firing",
+"kind": "idiom",
+"gloss": [
+"To stimulate brain action; to make someone think a lot."
+]
+},
+{
+"id": "in-good-sorts_idiom",
+"w": "in good sorts",
+"kind": "idiom",
+"gloss": [
+"Healthy, functional; in good condition."
+]
+},
+{
+"id": "judge-a-book-by-its-cover_idiom",
+"w": "judge a book by its cover",
+"kind": "idiom",
+"gloss": [
+"To make judgments about things or people by considering external appearances alone."
+]
+},
+{
+"id": "make-every-effort_idiom",
+"w": "make every effort",
+"kind": "idiom",
+"gloss": [
+"To do one's utmost"
+]
+},
+{
+"id": "stink-the-joint-out_idiom",
+"w": "stink the joint out",
+"kind": "idiom",
+"gloss": [
+"To perform or play very poorly."
+]
+},
+{
+"id": "love-buzz_idiom",
+"w": "love buzz",
+"kind": "idiom",
+"gloss": [
+"The feeling of love, butterflies in your stomach."
+]
+},
+{
+"id": "matter-at-hand_idiom",
+"w": "matter at hand",
+"kind": "idiom",
+"gloss": [
+"The current issue, which requires immediate attention."
+]
+},
+{
+"id": "sound-mind_idiom",
+"w": "sound mind",
+"kind": "idiom",
+"gloss": [
+"sane, rational, maintaining one's mental capability to act reasonably."
+]
+},
+{
+"id": "gift-from-heaven_idiom",
+"w": "gift from heaven",
+"kind": "idiom",
+"gloss": [
+"Synonym of gift from the gods."
+]
+},
+{
+"id": "gift-from-the-heavens_idiom",
+"w": "gift from the heavens",
+"kind": "idiom",
+"gloss": [
+"Synonym of gift from the gods."
+]
+},
+{
+"id": "gift-from-the-goddesses_idiom",
+"w": "gift from the goddesses",
+"kind": "idiom",
+"gloss": [
+"Synonym of gift from the gods."
+]
+},
+{
+"id": "write-oneself-into-a-corner_idiom",
+"w": "write oneself into a corner",
+"kind": "idiom",
+"gloss": [
+"To reach a narrative point in which the story one is writing gets stuck, leaving no good or satisfactory alternative or resolution."
+]
+},
+{
+"id": "smell-one-s-own-farts_idiom",
+"w": "smell one's own farts",
+"kind": "idiom",
+"gloss": [
+"To become conceited; to believe that one's achievements are greater than they really are."
+]
+},
+{
+"id": "finger-pointing-at-the-moon_idiom",
+"w": "finger pointing at the moon",
+"kind": "idiom",
+"gloss": [
+"Something serving to indicate, as opposed to the thing being indicated."
+]
+},
+{
+"id": "save-for-a-rainy-day_idiom",
+"w": "save for a rainy day",
+"kind": "idiom",
+"gloss": [
+"To keep some money back for possible expensive problems in the future."
+]
+},
+{
+"id": "tick-a-lot-of-boxes_idiom",
+"w": "tick a lot of boxes",
+"kind": "idiom",
+"gloss": [
+"Synonym of tick all the boxes."
+]
+},
+{
+"id": "knee-jerk-reaction_idiom",
+"w": "knee-jerk reaction",
+"kind": "idiom",
+"gloss": [
+"An instantaneous reaction made without thought."
+]
+},
+{
+"id": "in-a-fog_idiom",
+"w": "in a fog",
+"kind": "idiom",
+"gloss": [
+"In a state of mental confusion, disorientation, or a lack of clarity."
+]
+},
+{
+"id": "in-wine_idiom",
+"w": "in wine",
+"kind": "idiom",
+"gloss": [
+"In a state of intoxication where the truth is more likely to emerge."
+]
+},
+{
+"id": "we-been-knew_idiom",
+"w": "we been knew",
+"kind": "idiom",
+"gloss": [
+"a response to a statement or notion that is obvious or already widely known"
+]
+},
+{
+"id": "under-the-illusion_idiom",
+"w": "under the illusion",
+"kind": "idiom",
+"gloss": [
+"Having a mistaken belief about something."
+]
+},
+{
+"id": "get-the-runaround_idiom",
+"w": "get the runaround",
+"kind": "idiom",
+"gloss": [
+"To be given unclear, evasive, or unhelpful information, often when seeking answers, assistance or services."
+]
+},
+{
+"id": "blow-hot-air_idiom",
+"w": "blow hot air",
+"kind": "idiom",
+"gloss": [
+"To engage in empty or exaggerated talk that lacks substance, credibility, or truth; to bluster."
+]
+},
+{
+"id": "thick-end_idiom",
+"w": "thick end",
+"kind": "idiom",
+"gloss": [
+"Most; the greater part (of an amount of money)."
+]
+},
+{
+"id": "smoke-the-whole-pack_idiom",
+"w": "smoke the whole pack",
+"kind": "idiom",
+"gloss": [
+"To be made to go all in on something one only wanted a lesser amount of."
+]
+},
+{
+"id": "in-pampers_idiom",
+"w": "in pampers",
+"kind": "idiom",
+"gloss": [
+"Synonym of in diapers (“in the very early stages of development”)."
+]
+},
+{
+"id": "crazy-enough-to-work_idiom",
+"w": "crazy enough to work",
+"kind": "idiom",
+"gloss": [
+"Acknowledging that an idea, plan, or strategy seems foolish, implausible, or risky, yet might succeed precisely because of its unconventional or unexpected nature."
+]
+},
+{
+"id": "broad-brush_idiom",
+"w": "broad brush",
+"kind": "idiom",
+"gloss": [
+"A style or approach that deals with something in very general, sweeping terms, without attention to fine details or subtle nuances."
+]
+},
+{
+"id": "clap-one-s-hands-red_idiom",
+"w": "clap one's hands red",
+"kind": "idiom",
+"gloss": [
+"To clap or applaud intensely."
+]
+},
+{
+"id": "hold-one-s-mouth-right_idiom",
+"w": "hold one's mouth right",
+"kind": "idiom",
+"gloss": [
+"To act in the correct way, and have a little luck."
+]
+},
+{
+"id": "rip-off-the-bandage_idiom",
+"w": "rip off the bandage",
+"kind": "idiom",
+"gloss": [
+"To deal with a difficult situation by sudden difficult action."
+]
+},
+{
+"id": "now-more-than-ever_idiom",
+"w": "now, more than ever",
+"kind": "idiom",
+"gloss": [
+"Used to emphasize the increased urgency or importance of something in the present moment compared to any time in the past."
+]
+},
+{
+"id": "no-borax-no-glue_idiom",
+"w": "no borax, no glue",
+"kind": "idiom",
+"gloss": [
+"Denotes that the speaker is seeking or sharing a way to accomplish a difficult task that omits core ingredients or sidesteps the orthodox approaches."
+]
+},
+{
+"id": "take-the-wax-out-of-one-s-ears_idiom",
+"w": "take the wax out of one's ears",
+"kind": "idiom",
+"gloss": [
+"To listen more carefully or pay closer attention."
+]
+},
+{
+"id": "there-is-no-telling_idiom",
+"w": "there is no telling",
+"kind": "idiom",
+"gloss": [
+"Used to indicate that something cannot be known or predicted with certainty."
+]
+},
+{
+"id": "jump-street_idiom",
+"w": "jump street",
+"kind": "idiom",
+"gloss": [
+"The starting point; the very beginning."
+]
+},
+{
+"id": "one-thing-or-another_idiom",
+"w": "one thing or another",
+"kind": "idiom",
+"gloss": [
+"Various different events, tasks, duties, or contributing elements."
+]
+},
+{
+"id": "it-s-early-days_idiom",
+"w": "it's early days",
+"kind": "idiom",
+"gloss": [
+"Indicating it is too soon to know the outcome of a situation, often implying it is too early to make a judgment or prediction."
+]
+},
+{
+"id": "put-new-wine-in-old-bottles_idiom",
+"w": "put new wine in old bottles",
+"kind": "idiom",
+"gloss": [
+"To introduce a new idea, method, or innovation into an established, outdated or inflexible system or organization."
+]
+},
+{
+"id": "be-aces-with_idiom",
+"w": "be aces with",
+"kind": "idiom",
+"gloss": [
+"To be highly regarded or in good standing with someone."
+]
+},
+{
+"id": "what-happens-twice-happens-thrice_idiom",
+"w": "what happens twice happens thrice",
+"kind": "idiom",
+"gloss": [
+"An event that happens two times will happen three times."
+]
+},
+{
+"id": "not-by-a-jugful_idiom",
+"w": "not by a jugful",
+"kind": "idiom",
+"gloss": [
+"Not by a long way; not at all."
+]
+},
+{
+"id": "wait-for-the-dust-to-settle_idiom",
+"w": "wait for the dust to settle",
+"kind": "idiom",
+"gloss": [
+"To let a situation calm down, become clear or certain, before taking any action."
+]
+},
+{
+"id": "mistake-windmills-for-giants_idiom",
+"w": "mistake windmills for giants",
+"kind": "idiom",
+"gloss": [
+"To perceive ordinary, nonthreatening objects or situations as significant dangers or adversaries, often due to an overly romantic, idealistic, or deluded worldview."
+]
+},
+{
+"id": "crawl-into-a-hole_idiom",
+"w": "crawl into a hole",
+"kind": "idiom",
+"gloss": [
+"To hide or disappear due to feelings of extreme embarrassment, shame, or helplessness; to withdraw from reality."
+]
+},
+{
+"id": "blend-into-the-woodwork_idiom",
+"w": "blend into the woodwork",
+"kind": "idiom",
+"gloss": [
+"To become unnoticed and seem to disappear."
+]
+},
+{
+"id": "fickle-mistress_idiom",
+"w": "fickle mistress",
+"kind": "idiom",
+"gloss": [
+"Synonym of cruel mistress."
+]
+},
+{
+"id": "stop-a-bullet_idiom",
+"w": "stop a bullet",
+"kind": "idiom",
+"gloss": [
+"To be shot; to receive a bullet in one's body."
+]
+},
+{
+"id": "bridge-over-troubled-waters_idiom",
+"w": "bridge over troubled waters",
+"kind": "idiom",
+"gloss": [
+"Someone or something that provides support, comfort, and a means to overcome difficult times."
+]
+},
+{
+"id": "get-the-band-back-together_idiom",
+"w": "get the band back together",
+"kind": "idiom",
+"gloss": [
+"To reunite a group of people or other entities."
+]
+},
+{
+"id": "new-territory_idiom",
+"w": "new territory",
+"kind": "idiom",
+"gloss": [
+"Synonym of uncharted territory."
+]
+},
+{
+"id": "full-time-job_idiom",
+"w": "full-time job",
+"kind": "idiom",
+"gloss": [
+"An activity that consumes a great deal of time."
+]
+},
+{
+"id": "heavy-foot_idiom",
+"w": "heavy foot",
+"kind": "idiom",
+"gloss": [
+"A habit of driving fast."
+]
+},
+{
+"id": "give-it-the-big-one_idiom",
+"w": "give it the big one",
+"kind": "idiom",
+"gloss": [
+"To behave in an arrogant or self-important manner; to boast."
+]
+},
+{
+"id": "ball-of-malt_idiom",
+"w": "ball of malt",
+"kind": "idiom",
+"gloss": [
+"A glass of whiskey."
+]
+},
+{
+"id": "skinny-liz_idiom",
+"w": "skinny Liz",
+"kind": "idiom",
+"gloss": [
+"A thin or slender woman."
+]
+},
+{
+"id": "change-collars_idiom",
+"w": "change collars",
+"kind": "idiom",
+"gloss": [
+"To change or shift one's career path."
+]
+},
+{
+"id": "in-thunder_idiom",
+"w": "in thunder",
+"kind": "idiom",
+"gloss": [
+"An intensifier, chiefly used with questions."
+]
+},
+{
+"id": "marriage-penalty_idiom",
+"w": "marriage penalty",
+"kind": "idiom",
+"gloss": [
+"A situation where a married couple pays more in taxes, typically income taxes, when filing jointly, than the two individuals would pay if filing as singles separately."
+]
+},
+{
+"id": "buy-and-hold_idiom",
+"w": "buy and hold",
+"kind": "idiom",
+"gloss": [
+"A passive investment strategy where an investor purchases an asset and retains it for many years, rather than trading it frequently."
+]
+},
+{
+"id": "vr-legs_idiom",
+"w": "VR legs",
+"kind": "idiom",
+"gloss": [
+"The ability to tolerate virtual and augmented reality experiences without experiencing motion sickness."
+]
+},
+{
+"id": "keep-someone-amused_idiom",
+"w": "keep someone amused",
+"kind": "idiom",
+"gloss": [
+"To give someone entertaining or distracting things to do to prevent them from becoming bored."
+]
+},
+{
+"id": "keep-someone-busy_idiom",
+"w": "keep someone busy",
+"kind": "idiom",
+"gloss": [
+"To ensure that someone's attention is occupied, often to prevent them from becoming bored or noticing something."
+]
+},
+{
+"id": "for-fucking-out-loud_idiom",
+"w": "for fucking out loud",
+"kind": "idiom",
+"gloss": [
+"Synonym of for crying out loud."
+]
+},
+{
+"id": "as-it-gets_idiom",
+"w": "as it gets",
+"kind": "idiom",
+"gloss": [
+"As it is possible to be."
+]
+},
+{
+"id": "w-shaped-recession_idiom",
+"w": "W-shaped recession",
+"kind": "idiom",
+"gloss": [
+"An economic downturn where key indicators such as GDP and employment plummet sharply, briefly rebound, dip again, and then recover fully, forming a W pattern on a chart."
+]
+},
+{
+"id": "fold-under-zero-pressure_idiom",
+"w": "fold under zero pressure",
+"kind": "idiom",
+"gloss": [
+"To give up without or with little reason."
+]
+},
+{
+"id": "put-batteries-in-someone-s-back_idiom",
+"w": "put batteries in someone's back",
+"kind": "idiom",
+"gloss": [
+"To enable, encourage, or incite, especially in order to do one's bidding; to fuel or spur."
+]
+},
+{
+"id": "put-into-one-s-own-head_idiom",
+"w": "put into one's own head",
+"kind": "idiom",
+"gloss": [
+"to convince oneself that something is the case"
+]
+},
+{
+"id": "drag-one-s-balls-across_idiom",
+"w": "drag one's balls across",
+"kind": "idiom",
+"gloss": [
+"To exert extreme, often aggressive, power or control over; dominate."
+]
+},
+{
+"id": "thinking-man-s_idiom",
+"w": "thinking man's",
+"kind": "idiom",
+"gloss": [
+"Of someone or something, appealing to intelligent or intellectually inclined individuals."
+]
+},
+{
+"id": "on-the-right-side-of-history_idiom",
+"w": "on the right side of history",
+"kind": "idiom",
+"gloss": [
+"Aligning with positions or actions that future generations will morally endorse as just or progressive."
+]
+},
+{
+"id": "dry-january_idiom",
+"w": "Dry January",
+"kind": "idiom",
+"gloss": [
+"A popular health challenge where a person abstains from alcohol for the entire month of January."
+]
+},
+{
+"id": "nothing-short-of_idiom",
+"w": "nothing short of",
+"kind": "idiom",
+"gloss": [
+"Fully; completely."
+]
+},
+{
+"id": "student-union-politics_idiom",
+"w": "student union politics",
+"kind": "idiom",
+"gloss": [
+"Political actions seen as being unprofessional or childish; resembling those of the students' union."
+]
+},
+{
+"id": "tear-to-shreds_idiom",
+"w": "tear to shreds",
+"kind": "idiom",
+"gloss": [
+"Synonym of tear to pieces."
+]
+},
+{
+"id": "time-of-old_idiom",
+"w": "time of old",
+"kind": "idiom",
+"gloss": [
+"Synonym of time immemorial"
+]
+},
+{
+"id": "nasty-brutish-and-short_idiom",
+"w": "nasty, brutish, and short",
+"kind": "idiom",
+"gloss": [
+"Of a hypothetical state of human life, without a government or society, and marked by constant fear, violence, and insecurity."
+]
+},
+{
+"id": "different-drummer_idiom",
+"w": "different drummer",
+"kind": "idiom",
+"gloss": [
+"Someone or something that implies individuality, originality, or nonconformity."
+]
+},
+{
+"id": "power-luncher_idiom",
+"w": "power luncher",
+"kind": "idiom",
+"gloss": [
+"One who attends or participates in a power lunch."
+]
+},
+{
+"id": "power-lunching_idiom",
+"w": "power lunching",
+"kind": "idiom",
+"gloss": [
+"The act or practice of holding or organizing power lunches."
+]
+},
+{
+"id": "trust-me-bro_idiom",
+"w": "trust me bro",
+"kind": "idiom",
+"gloss": [
+"Used to express that someone is lying or is making an otherwise baseless or counterfactual claim."
+]
+},
+{
+"id": "french-fact_idiom",
+"w": "French fact",
+"kind": "idiom",
+"gloss": [
+"The presence of French Canada as a distinct cultural, linguistic, and political force within the Canadian Confederation."
+]
+}
+]

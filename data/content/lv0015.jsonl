@@ -1,0 +1,100 @@
+{"id":"condition_noun","th":"สภาพ; เงื่อนไข; อาการป่วย","ex":"The car is in very good condition.","exTh":"รถคันนี้อยู่ในสภาพดีมาก"}
+{"id":"physical_adj","th":"ทางร่างกาย; ทางกายภาพ","ex":"Regular exercise is good for physical health.","exTh":"การออกกำลังกายสม่ำเสมอดีต่อสุขภาพร่างกาย"}
+{"id":"toward_prep","th":"ไปทาง; มุ่งสู่; เข้าหา","ex":"She walked toward the bus stop.","exTh":"เธอเดินไปทางป้ายรถเมล์","note":"อังกฤษมักใช้ towards"}
+{"id":"attention_noun","th":"ความสนใจ; ความใส่ใจ","ex":"Please pay attention to the teacher.","exTh":"กรุณาตั้งใจฟังครู"}
+{"id":"final_adj","th":"สุดท้าย; ขั้นสุดท้าย; เด็ดขาด","ex":"This is the final question on the test.","exTh":"นี่เป็นข้อสุดท้ายของข้อสอบ"}
+{"id":"final_noun","th":"รอบชิงชนะเลิศ; การสอบปลายภาค","ex":"Our team reached the final this year.","exTh":"ปีนี้ทีมของเราเข้าถึงรอบชิงชนะเลิศ"}
+{"id":"across_adv","th":"ข้ามไป; อีกฝั่งหนึ่ง","ex":"The river is only ten meters across.","exTh":"แม่น้ำกว้างแค่สิบเมตรเท่านั้น"}
+{"id":"across_prep","th":"ข้าม; ตลอด; ฝั่งตรงข้าม","ex":"The bank is across the street.","exTh":"ธนาคารอยู่ฝั่งตรงข้ามถนน"}
+{"id":"outside_prep","th":"ข้างนอก; นอก","ex":"The children are playing outside the house.","exTh":"เด็กๆ กำลังเล่นอยู่นอกบ้าน"}
+{"id":"normal_adj","th":"ปกติ; ธรรมดา; ตามปกติ","ex":"My temperature is normal today.","exTh":"วันนี้อุณหภูมิร่างกายของฉันปกติ"}
+{"id":"chairman_noun","th":"ประธาน; ประธานกรรมการ","ex":"The chairman opened the meeting at nine.","exTh":"ประธานเปิดประชุมตอนเก้าโมง","note":"ปัจจุบันนิยมใช้ chair หรือ chairperson ด้วย"}
+{"id":"red_noun","th":"สีแดง","ex":"She likes to wear red.","exTh":"เธอชอบใส่สีแดง"}
+{"id":"original_adj","th":"ดั้งเดิม; ต้นฉบับ; ริเริ่ม","ex":"Keep the original box for returns.","exTh":"เก็บกล่องเดิมไว้เผื่อต้องคืนสินค้า"}
+{"id":"staff_noun","th":"พนักงาน; เจ้าหน้าที่","ex":"The hotel staff were very friendly.","exTh":"พนักงานโรงแรมเป็นมิตรมาก"}
+{"id":"blood_noun","th":"เลือด; เลือดเนื้อ","ex":"The nurse took a little blood from my arm.","exTh":"พยาบาลเจาะเลือดจากแขนฉันเล็กน้อย"}
+{"id":"product_noun","th":"ผลิตภัณฑ์; สินค้า","ex":"This shop sells many Thai products.","exTh":"ร้านนี้ขายผลิตภัณฑ์ไทยหลายอย่าง"}
+{"id":"significant_adj","th":"สำคัญ; มีนัยสำคัญ; มาก","ex":"There was a significant change in the weather.","exTh":"สภาพอากาศเปลี่ยนแปลงอย่างมีนัยสำคัญ"}
+{"id":"solution_noun","th":"ทางออก; วิธีแก้ปัญหา; สารละลาย","ex":"We need to find a solution quickly.","exTh":"เราต้องรีบหาทางออก"}
+{"id":"notice_noun","th":"ประกาศ; ใบแจ้ง; ความสังเกต","ex":"There is a notice on the door.","exTh":"มีประกาศติดอยู่ที่ประตู"}
+{"id":"agency_noun","th":"สำนักงานตัวแทน; หน่วยงาน","ex":"She works for a travel agency.","exTh":"เธอทำงานที่บริษัทตัวแทนท่องเที่ยว"}
+{"id":"whom_pron","th":"ใคร (ที่เป็นกรรม); ผู้ซึ่ง","ex":"To whom should I send this letter?","exTh":"ฉันควรส่งจดหมายฉบับนี้ถึงใคร","note":"ภาษาทางการ; ภาษาพูดมักใช้ who"}
+{"id":"recent_adj","th":"ล่าสุด; เมื่อไม่นานมานี้","ex":"Have you seen any recent movies?","exTh":"คุณดูหนังเรื่องไหนที่เพิ่งออกใหม่ไหม"}
+{"id":"feel_noun","th":"ความรู้สึกสัมผัส; บรรยากาศ","ex":"I like the soft feel of this cloth.","exTh":"ฉันชอบสัมผัสนุ่มๆ ของผ้าผืนนี้","note":"พบน้อย; ส่วนมากใช้เป็นคำกริยา"}
+{"id":"response_noun","th":"การตอบกลับ; คำตอบ; ปฏิกิริยา","ex":"I am waiting for her response.","exTh":"ฉันรอคำตอบจากเธออยู่"}
+{"id":"modern_adj","th":"ทันสมัย; สมัยใหม่","ex":"They live in a modern apartment.","exTh":"พวกเขาอาศัยอยู่ในอพาร์ตเมนต์ทันสมัย"}
+{"id":"basic_adj","th":"พื้นฐาน; เบื้องต้น","ex":"She knows basic English.","exTh":"เธอรู้ภาษาอังกฤษพื้นฐาน"}
+{"id":"likely_adj","th":"น่าจะ; มีแนวโน้ม","ex":"It is likely to rain this evening.","exTh":"เย็นนี้ฝนน่าจะตก"}
+{"id":"opinion_noun","th":"ความคิดเห็น; ทัศนะ","ex":"In my opinion, this movie is boring.","exTh":"ในความเห็นของฉัน หนังเรื่องนี้น่าเบื่อ"}
+{"id":"degree_noun","th":"องศา; ระดับ; ปริญญา","ex":"The water is thirty degrees today.","exTh":"วันนี้น้ำอุณหภูมิสามสิบองศา"}
+{"id":"front_noun","th":"ด้านหน้า; แนวหน้า","ex":"Please sit at the front of the room.","exTh":"กรุณานั่งด้านหน้าห้อง"}
+{"id":"base_noun","th":"ฐาน; ฐานที่ตั้ง; ส่วนล่าง","ex":"The lamp has a heavy base.","exTh":"โคมไฟนี้มีฐานหนัก"}
+{"id":"post_verb","th":"โพสต์; ประกาศ; ส่งไปรษณีย์","ex":"She posted a photo of her lunch online.","exTh":"เธอโพสต์รูปอาหารกลางวันลงออนไลน์"}
+{"id":"sure_adv","th":"แน่นอน; ได้เลย","ex":"Can you help me? Sure!","exTh":"ช่วยฉันหน่อยได้ไหม ได้เลย","note":"ภาษาพูด; ใช้ตอบรับ"}
+{"id":"influence_noun","th":"อิทธิพล; ผลกระทบ","ex":"Parents have a strong influence on children.","exTh":"พ่อแม่มีอิทธิพลต่อลูกอย่างมาก"}
+{"id":"finally_adv","th":"ในที่สุด; ท้ายที่สุด","ex":"We finally arrived at the hotel.","exTh":"ในที่สุดเราก็มาถึงโรงแรม"}
+{"id":"beginning_noun","th":"จุดเริ่มต้น; ตอนเริ่ม","ex":"The beginning of the book is a bit slow.","exTh":"ช่วงต้นของหนังสือค่อนข้างช้า"}
+{"id":"middle_noun","th":"ตรงกลาง; ช่วงกลาง","ex":"Put the cup in the middle of the table.","exTh":"วางถ้วยไว้ตรงกลางโต๊ะ"}
+{"id":"simple_adj","th":"ง่าย; เรียบง่าย; ธรรมดา","ex":"The recipe is simple and quick.","exTh":"สูตรอาหารนี้ง่ายและเร็ว"}
+{"id":"appropriate_adj","th":"เหมาะสม; สมควร","ex":"Is this dress appropriate for the party?","exTh":"ชุดนี้เหมาะกับงานปาร์ตี้ไหม"}
+{"id":"consider_verb","th":"พิจารณา; คิดถึง; ถือว่า","ex":"I am considering a new job.","exTh":"ฉันกำลังพิจารณาเรื่องหางานใหม่"}
+{"id":"cross_noun","th":"กากบาท; ไม้กางเขน","ex":"Put a cross next to the wrong answer.","exTh":"ทำเครื่องหมายกากบาทข้างคำตอบที่ผิด"}
+{"id":"cross_verb","th":"ข้าม; ไขว้","ex":"Look both ways before you cross the road.","exTh":"มองซ้ายขวาก่อนข้ามถนน"}
+{"id":"lead_noun","th":"ตัวนำ; การนำ; สายจูง","ex":"Our team has the lead at half time.","exTh":"ทีมเรานำอยู่ตอนพักครึ่ง","note":"ออกเสียง ลีด; ต่างจาก lead (ตะกั่ว) ออกเสียง เลด"}
+{"id":"appear_verb","th":"ปรากฏ; ดูเหมือน; มาปรากฏตัว","ex":"A rainbow appeared after the rain.","exTh":"มีรุ้งปรากฏหลังฝนตก"}
+{"id":"discussion_noun","th":"การพูดคุย; การอภิปราย","ex":"We had a long discussion about the trip.","exTh":"เราคุยกันเรื่องทริปอยู่นาน"}
+{"id":"instead_adv","th":"แทน; แทนที่","ex":"I was tired, so I went to bed instead.","exTh":"ฉันเหนื่อยเลยไปนอนแทน"}
+{"id":"wide_adj","th":"กว้าง; กว้างขวาง","ex":"The river is very wide here.","exTh":"แม่น้ำตรงนี้กว้างมาก"}
+{"id":"wide_adv","th":"กว้าง; เต็มที่","ex":"She opened the window wide.","exTh":"เธอเปิดหน้าต่างกว้าง"}
+{"id":"weight_noun","th":"น้ำหนัก","ex":"What is the weight of this box?","exTh":"กล่องนี้หนักเท่าไร"}
+{"id":"understand_verb","th":"เข้าใจ; เข้าใจดี","ex":"I don't understand this word.","exTh":"ฉันไม่เข้าใจคำนี้"}
+{"id":"beyond_prep","th":"เลยไป; พ้น; เกินกว่า","ex":"The lake is just beyond those trees.","exTh":"ทะเลสาบอยู่เลยต้นไม้พวกนั้นไปนิดเดียว"}
+{"id":"manner_noun","th":"วิธีการ; กิริยามารยาท","ex":"She spoke in a calm manner.","exTh":"เธอพูดด้วยท่าทีสงบ","note":"ความหมาย \"มารยาท\" มักใช้รูปพหูพจน์ manners"}
+{"id":"direction_noun","th":"ทิศทาง; การกำกับ","ex":"Which direction is the station?","exTh":"สถานีอยู่ทางไหน"}
+{"id":"trust_verb","th":"ไว้ใจ; เชื่อใจ; เชื่อถือ","ex":"I trust my best friend completely.","exTh":"ฉันไว้ใจเพื่อนสนิทอย่างเต็มที่"}
+{"id":"claim_verb","th":"อ้าง; เรียกร้อง; ยืนยัน","ex":"He claims that he never saw the letter.","exTh":"เขาอ้างว่าไม่เคยเห็นจดหมายฉบับนั้น"}
+{"id":"indeed_adv","th":"จริงๆ; แท้จริง; แน่นอน","ex":"It was a very hot day indeed.","exTh":"เป็นวันที่ร้อนมากจริงๆ"}
+{"id":"lost_adj","th":"หลงทาง; หาย; สูญหาย","ex":"I think I am lost in this city.","exTh":"ฉันคิดว่าฉันหลงทางในเมืองนี้"}
+{"id":"exchange_noun","th":"การแลกเปลี่ยน; การแลกเงิน","ex":"Where can I get money exchange here?","exTh":"ที่นี่ฉันแลกเงินได้ที่ไหน"}
+{"id":"credit_noun","th":"เครดิต; เงินเชื่อ; ความดีความชอบ","ex":"She got credit for the great idea.","exTh":"เธอได้รับเครดิตจากไอเดียที่ยอดเยี่ยมนั้น"}
+{"id":"patient_noun","th":"ผู้ป่วย; คนไข้","ex":"The doctor is seeing a patient now.","exTh":"ตอนนี้คุณหมอกำลังตรวจคนไข้อยู่"}
+{"id":"hundred_num","th":"หนึ่งร้อย; ร้อย","ex":"The shirt costs a hundred baht.","exTh":"เสื้อตัวนี้ราคาหนึ่งร้อยบาท"}
+{"id":"author_noun","th":"ผู้เขียน; นักเขียน","ex":"Who is the author of this book?","exTh":"ใครเป็นผู้เขียนหนังสือเล่มนี้"}
+{"id":"alone_adj","th":"อยู่คนเดียว; โดดเดี่ยว","ex":"She likes to be alone on Sundays.","exTh":"เธอชอบอยู่คนเดียวในวันอาทิตย์"}
+{"id":"writing_noun","th":"การเขียน; งานเขียน; ลายมือ","ex":"Her writing is clear and easy to read.","exTh":"งานเขียนของเธอชัดเจนและอ่านง่าย"}
+{"id":"importance_noun","th":"ความสำคัญ","ex":"Sleep is of great importance to health.","exTh":"การนอนหลับมีความสำคัญมากต่อสุขภาพ"}
+{"id":"text_noun","th":"ข้อความ; ตัวบท; เนื้อหา","ex":"Read the text and answer the questions.","exTh":"อ่านข้อความแล้วตอบคำถาม"}
+{"id":"text_verb","th":"ส่งข้อความ (SMS)","ex":"I will text you when I get there.","exTh":"ฉันจะส่งข้อความหาคุณเมื่อไปถึง"}
+{"id":"latter_adv","th":"หลัง; ช่วงหลัง","ex":"The latter half of the film is better.","exTh":"ครึ่งหลังของหนังดีกว่า","note":"ค่อนข้างหายาก; ส่วนมากใช้เป็น adj/pron"}
+{"id":"latter_pron","th":"อย่างหลัง; คนหลัง","ex":"I like tea and coffee, but I prefer the latter.","exTh":"ฉันชอบชาและกาแฟ แต่ชอบอย่างหลังมากกว่า","note":"ตรงข้ามกับ former"}
+{"id":"hold_verb","th":"ถือ; จับ; จัด (งาน)","ex":"Can you hold my bag for a minute?","exTh":"ช่วยถือกระเป๋าให้ฉันสักครู่ได้ไหม","note":"รูปผัน held, held"}
+{"id":"heat_noun","th":"ความร้อน; อากาศร้อน","ex":"I can't stand the heat in April.","exTh":"ฉันทนความร้อนเดือนเมษายนไม่ไหว"}
+{"id":"scale_noun","th":"มาตราส่วน; ขนาด; เครื่องชั่ง","ex":"Stand on the scale to check your weight.","exTh":"ยืนบนเครื่องชั่งเพื่อดูน้ำหนักของคุณ"}
+{"id":"sound_noun","th":"เสียง","ex":"I heard a strange sound outside.","exTh":"ฉันได้ยินเสียงแปลกๆ ข้างนอก"}
+{"id":"sound_verb","th":"ฟังดู; ดูเหมือน; ส่งเสียง","ex":"That sounds like a great idea.","exTh":"ฟังดูเป็นความคิดที่ดีมาก"}
+{"id":"proper_adj","th":"ถูกต้อง; เหมาะสม; สมควร","ex":"Use the proper tool for this job.","exTh":"ใช้เครื่องมือที่เหมาะสมกับงานนี้"}
+{"id":"simply_adv","th":"อย่างง่ายๆ; เพียงแค่","ex":"Simply press the green button to start.","exTh":"เพียงแค่กดปุ่มสีเขียวเพื่อเริ่ม"}
+{"id":"fall_verb","th":"ตก; ล้ม; ร่วง","ex":"Leaves fall from the trees in autumn.","exTh":"ใบไม้ร่วงจากต้นในฤดูใบไม้ร่วง","note":"รูปผัน fell, fallen"}
+{"id":"clearly_adv","th":"อย่างชัดเจน; แน่นอน","ex":"Please speak slowly and clearly.","exTh":"กรุณาพูดช้าๆ และชัดเจน"}
+{"id":"contact_noun","th":"การติดต่อ; ผู้ติดต่อ","ex":"I'm still in contact with my old teacher.","exTh":"ฉันยังติดต่อกับครูเก่าอยู่"}
+{"id":"contact_verb","th":"ติดต่อ","ex":"Please contact me by email.","exTh":"กรุณาติดต่อฉันทางอีเมล"}
+{"id":"net_adj","th":"สุทธิ","ex":"My net pay is lower than I expected.","exTh":"เงินเดือนสุทธิของฉันต่ำกว่าที่คิด"}
+{"id":"brown_noun","th":"สีน้ำตาล","ex":"Her eyes are a dark brown.","exTh":"ดวงตาของเธอเป็นสีน้ำตาลเข้ม"}
+{"id":"actually_adv","th":"จริงๆ แล้ว; ที่จริงแล้ว","ex":"I actually live in a small town.","exTh":"จริงๆ แล้วฉันอาศัยอยู่ในเมืองเล็กๆ"}
+{"id":"seem_verb","th":"ดูเหมือน; ดูเป็น","ex":"You seem tired today.","exTh":"วันนี้คุณดูเหนื่อยนะ"}
+{"id":"earth_noun","th":"โลก; ดิน","ex":"The earth goes around the sun.","exTh":"โลกโคจรรอบดวงอาทิตย์"}
+{"id":"share_noun","th":"ส่วนแบ่ง; หุ้น","ex":"Everyone got an equal share of the cake.","exTh":"ทุกคนได้เค้กส่วนแบ่งเท่าๆ กัน"}
+{"id":"produce_verb","th":"ผลิต; ก่อให้เกิด; ออก (ผลผลิต)","ex":"This farm produces fresh milk.","exTh":"ฟาร์มนี้ผลิตนมสด"}
+{"id":"nearly_adv","th":"เกือบ","ex":"It is nearly time to go home.","exTh":"เกือบถึงเวลากลับบ้านแล้ว"}
+{"id":"continue_verb","th":"ทำต่อ; ดำเนินต่อไป","ex":"Please continue reading from page ten.","exTh":"กรุณาอ่านต่อจากหน้าสิบ"}
+{"id":"green_noun","th":"สีเขียว; สนามหญ้า","ex":"Green is my favorite color.","exTh":"สีเขียวเป็นสีโปรดของฉัน"}
+{"id":"deal_noun","th":"ข้อตกลง; ดีล; ราคาพิเศษ","ex":"We made a deal to share the cost.","exTh":"เราตกลงกันว่าจะหารค่าใช้จ่าย"}
+{"id":"principal_adj","th":"สำคัญที่สุด; หลัก","ex":"Rice is the principal food in Asia.","exTh":"ข้าวเป็นอาหารหลักในเอเชีย"}
+{"id":"move_verb","th":"เคลื่อนที่; ย้าย; ขยับ","ex":"Please move your car from the door.","exTh":"กรุณาขยับรถออกจากหน้าประตู"}
+{"id":"step_noun","th":"ก้าว; ขั้นตอน; ขั้นบันได","ex":"Take one step at a time.","exTh":"ค่อยๆ ก้าวไปทีละก้าว"}
+{"id":"electric_adj","th":"ไฟฟ้า; ที่ใช้ไฟฟ้า","ex":"He bought an electric car last year.","exTh":"ปีที่แล้วเขาซื้อรถยนต์ไฟฟ้า"}
+{"id":"chemical_adj","th":"ทางเคมี; เกี่ยวกับสารเคมี","ex":"The factory makes chemical products.","exTh":"โรงงานนี้ผลิตผลิตภัณฑ์เคมี"}
+{"id":"voice_noun","th":"เสียง (พูด/ร้อง); ความคิดเห็น","ex":"She has a soft and gentle voice.","exTh":"เธอมีเสียงนุ่มนวลอ่อนโยน"}
+{"id":"deep_adv","th":"ลึก; ลึกลงไป","ex":"The fish swim deep in the sea.","exTh":"ปลาว่ายอยู่ลึกในทะเล"}
+{"id":"opportunity_noun","th":"โอกาส","ex":"This job is a great opportunity for me.","exTh":"งานนี้เป็นโอกาสที่ดีสำหรับฉัน"}
+{"id":"apply_verb","th":"สมัคร; ใช้; ทา","ex":"I want to apply for a new job.","exTh":"ฉันอยากสมัครงานใหม่"}

@@ -1,0 +1,602 @@
+[
+{
+"id": "involvement_noun",
+"w": "involvement",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "musical_noun",
+"w": "musical",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "clothing_noun",
+"w": "clothing",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "decade_noun",
+"w": "decade",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "commander_noun",
+"w": "commander",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "radical_noun",
+"w": "radical",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "reasonably_adv",
+"w": "reasonably",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "welcome_noun",
+"w": "welcome",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "saving_noun",
+"w": "saving",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "manufacturer_noun",
+"w": "manufacturer",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "candidate_noun",
+"w": "candidate",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "margin_noun",
+"w": "margin",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "recommendation_noun",
+"w": "recommendation",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "discipline_noun",
+"w": "discipline",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "regime_noun",
+"w": "regime",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "precisely_adv",
+"w": "precisely",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "excessive_adj",
+"w": "excessive",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "regardless_adv",
+"w": "regardless",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "thoroughly_adv",
+"w": "thoroughly",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "pound_verb",
+"w": "pound",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "penalty_noun",
+"w": "penalty",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "ethnic_adj",
+"w": "ethnic",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "particle_noun",
+"w": "particle",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "cool_verb",
+"w": "cool",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "rear_adj",
+"w": "rear",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "nerve_noun",
+"w": "nerve",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "theme_noun",
+"w": "theme",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "plot_noun",
+"w": "plot",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "guarantee_verb",
+"w": "guarantee",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "mathematical_adj",
+"w": "mathematical",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "mount_verb",
+"w": "mount",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "adverse_adj",
+"w": "adverse",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "virtually_adv",
+"w": "virtually",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "inflation_noun",
+"w": "inflation",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "tender_adj",
+"w": "tender",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "perception_noun",
+"w": "perception",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "likewise_adv",
+"w": "likewise",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "pine_noun",
+"w": "pine",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "governmental_adj",
+"w": "governmental",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "replacement_noun",
+"w": "replacement",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "migration_noun",
+"w": "migration",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "trace_verb",
+"w": "trace",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "abandoned_adj",
+"w": "abandoned",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "friendly_adj",
+"w": "friendly",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "recreation_noun",
+"w": "recreation",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "modification_noun",
+"w": "modification",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "dental_adj",
+"w": "dental",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "database_noun",
+"w": "database",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "reverse_verb",
+"w": "reverse",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "revolutionary_adj",
+"w": "revolutionary",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "editorial_noun",
+"w": "editorial",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "lighting_noun",
+"w": "lighting",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "privilege_noun",
+"w": "privilege",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "memorial_noun",
+"w": "memorial",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "evaluate_verb",
+"w": "evaluate",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "segment_noun",
+"w": "segment",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "fleet_noun",
+"w": "fleet",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "separately_adv",
+"w": "separately",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "powder_verb",
+"w": "powder",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "split_verb",
+"w": "split",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "laser_noun",
+"w": "laser",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "hell_noun",
+"w": "hell",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "overseas_adj",
+"w": "overseas",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "tip_verb",
+"w": "tip",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "disposition_noun",
+"w": "disposition",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "cabinet_noun",
+"w": "cabinet",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "attendance_noun",
+"w": "attendance",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "unto_prep",
+"w": "unto",
+"pos": "prep",
+"lvl": "B2"
+},
+{
+"id": "scheduled_adj",
+"w": "scheduled",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "convinced_adj",
+"w": "convinced",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "pulse_noun",
+"w": "pulse",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "injection_noun",
+"w": "injection",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "conception_noun",
+"w": "conception",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "supplement_noun",
+"w": "supplement",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "substitute_verb",
+"w": "substitute",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "initiative_noun",
+"w": "initiative",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "infant_noun",
+"w": "infant",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "programming_noun",
+"w": "programming",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "crew_noun",
+"w": "crew",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "seal_noun",
+"w": "seal",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "mix_noun",
+"w": "mix",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "beat_noun",
+"w": "beat",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "harm_noun",
+"w": "harm",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "versus_prep",
+"w": "versus",
+"pos": "prep",
+"lvl": "B2"
+},
+{
+"id": "worst_adv",
+"w": "worst",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "disorder_noun",
+"w": "disorder",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "employ_verb",
+"w": "employ",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "injured_adj",
+"w": "injured",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "fiber_noun",
+"w": "fiber",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "inspector_noun",
+"w": "inspector",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "thesis_noun",
+"w": "thesis",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "competent_adj",
+"w": "competent",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "ease_noun",
+"w": "ease",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "ease_verb",
+"w": "ease",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "exclusively_adv",
+"w": "exclusively",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "inadequate_adj",
+"w": "inadequate",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "implement_noun",
+"w": "implement",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "implement_verb",
+"w": "implement",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "assess_verb",
+"w": "assess",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "aluminum_noun",
+"w": "aluminum",
+"pos": "noun",
+"lvl": "B2"
+}
+]

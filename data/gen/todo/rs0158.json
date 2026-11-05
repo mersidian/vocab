@@ -1,0 +1,805 @@
+[
+{
+"id": "take-occasion_idiom",
+"w": "take occasion",
+"kind": "idiom",
+"gloss": [
+"To take advantage of an opportunity."
+]
+},
+{
+"id": "walk-one-s-chalks_idiom",
+"w": "walk one's chalks",
+"kind": "idiom",
+"gloss": [
+"To depart; to go away without ceremony."
+]
+},
+{
+"id": "pass-the-bottle-of-smoke_idiom",
+"w": "pass the bottle of smoke",
+"kind": "idiom",
+"gloss": [
+"To acquiesce in some falsehood; to make pretence."
+]
+},
+{
+"id": "raise-someone-s-shag_idiom",
+"w": "raise someone's shag",
+"kind": "idiom",
+"gloss": [
+"To anger or annoy someone."
+]
+},
+{
+"id": "make-someone-s-ears-sad_idiom",
+"w": "make someone's ears sad",
+"kind": "idiom",
+"gloss": [
+"To displease the ears of someone; to cause someone to hear music or sounds that are not to their liking."
+]
+},
+{
+"id": "make-pigs-and-whistles-of_idiom",
+"w": "make pigs and whistles of",
+"kind": "idiom",
+"gloss": [
+"To ruin (something); to make a severe mess of (something)."
+]
+},
+{
+"id": "electronic-superhighway_idiom",
+"w": "electronic superhighway",
+"kind": "idiom",
+"gloss": [
+"the internet"
+]
+},
+{
+"id": "according-to-cocker_idiom",
+"w": "according to Cocker",
+"kind": "idiom",
+"gloss": [
+"Properly, correctly and reliably; in accordance with proper procedure and established rules."
+]
+},
+{
+"id": "with-whole-skin_idiom",
+"w": "with whole skin",
+"kind": "idiom",
+"gloss": [
+"Safe; unscathed."
+]
+},
+{
+"id": "on-the-wrong-side-of-the-blanket_idiom",
+"w": "on the wrong side of the blanket",
+"kind": "idiom",
+"gloss": [
+"Born illegitimately, outside of wedlock."
+]
+},
+{
+"id": "have-the-law-of_idiom",
+"w": "have the law of",
+"kind": "idiom",
+"gloss": [
+"To take legal action against someone."
+]
+},
+{
+"id": "care-a-button_idiom",
+"w": "care a button",
+"kind": "idiom",
+"gloss": [
+"To care (at all)."
+]
+},
+{
+"id": "hissing-hot_idiom",
+"w": "hissing hot",
+"kind": "idiom",
+"gloss": [
+"Very hot."
+]
+},
+{
+"id": "flower-of-the-flock_idiom",
+"w": "flower of the flock",
+"kind": "idiom",
+"gloss": [
+"Something exceedingly good or the best of its type."
+]
+},
+{
+"id": "play-the-deuce-with_idiom",
+"w": "play the deuce with",
+"kind": "idiom",
+"gloss": [
+"Synonym of play the devil with."
+]
+},
+{
+"id": "make-the-best-of-one-s-way_idiom",
+"w": "make the best of one's way",
+"kind": "idiom",
+"gloss": [
+"To go by the best possible route."
+]
+},
+{
+"id": "blow-out-of-proportions_idiom",
+"w": "blow out of proportions",
+"kind": "idiom",
+"gloss": [
+"Synonym of blow out of proportion."
+]
+},
+{
+"id": "lay-one-s-tongue-to_idiom",
+"w": "lay one's tongue to",
+"kind": "idiom",
+"gloss": [
+"To say; to name; to think of to say."
+]
+},
+{
+"id": "change-one-s-battery_idiom",
+"w": "change one's battery",
+"kind": "idiom",
+"gloss": [
+"To alter the direction of attacking; to take a new approach to try to achieve an objective."
+]
+},
+{
+"id": "be-at-the-plague_idiom",
+"w": "be at the plague",
+"kind": "idiom",
+"gloss": [
+"To be bothered; to make the effort to do something."
+]
+},
+{
+"id": "homely-as-a-hedge-fence_idiom",
+"w": "homely as a hedge fence",
+"kind": "idiom",
+"gloss": [
+"Having no physically attractive characteristics, but not blatantly ugly; very plain in appearance."
+]
+},
+{
+"id": "mind-how-you-go_idiom",
+"w": "mind how you go",
+"kind": "idiom",
+"gloss": [
+"A phrase used at parting."
+]
+},
+{
+"id": "serve-the-turn_idiom",
+"w": "serve the turn",
+"kind": "idiom",
+"gloss": [
+"To suffice for one's immediate purpose or need."
+]
+},
+{
+"id": "make-garden_idiom",
+"w": "make garden",
+"kind": "idiom",
+"gloss": [
+"To plant or maintain a garden, especially a vegetable garden."
+]
+},
+{
+"id": "put-on-frills_idiom",
+"w": "put on frills",
+"kind": "idiom",
+"gloss": [
+"To act in a pretentious or snobbish way."
+]
+},
+{
+"id": "by-vice-of_idiom",
+"w": "by vice of",
+"kind": "idiom",
+"gloss": [
+"Because of (something unfavorable, immoral, negative, etc.)"
+]
+},
+{
+"id": "the-devil-a-one_idiom",
+"w": "the devil a one",
+"kind": "idiom",
+"gloss": [
+"Not a single one, none (of a number of people or things).",
+"Not; with a singular pronoun, negates the clause."
+]
+},
+{
+"id": "come-home-by-weeping-cross_idiom",
+"w": "come home by weeping cross",
+"kind": "idiom",
+"gloss": [
+"To return in disappointment, or in a spirit of contrition."
+]
+},
+{
+"id": "e-ticket_idiom",
+"w": "E ticket",
+"kind": "idiom",
+"gloss": [
+"Something very thrilling or exciting."
+]
+},
+{
+"id": "fetch-way_idiom",
+"w": "fetch way",
+"kind": "idiom",
+"gloss": [
+"To move from the proper place; to come loose."
+]
+},
+{
+"id": "blow-tomahawks_idiom",
+"w": "blow tomahawks",
+"kind": "idiom",
+"gloss": [
+"Of the wind, to blow with great violence."
+]
+},
+{
+"id": "beyond-one-s-years_idiom",
+"w": "beyond one's years",
+"kind": "idiom",
+"gloss": [
+"Extraordinary compared to most in one's age group; characteristic of an older person."
+]
+},
+{
+"id": "hop-the-wag_idiom",
+"w": "hop the wag",
+"kind": "idiom",
+"gloss": [
+"Synonym of play truant."
+]
+},
+{
+"id": "play-the-wag_idiom",
+"w": "play the wag",
+"kind": "idiom",
+"gloss": [
+"To play truant (be absent from school without permission)."
+]
+},
+{
+"id": "drown-the-miller_idiom",
+"w": "drown the miller",
+"kind": "idiom",
+"gloss": [
+"To put too much water in something; overdilute."
+]
+},
+{
+"id": "hoover-flag_idiom",
+"w": "Hoover flag",
+"kind": "idiom",
+"gloss": [
+"An empty (penniless) pocket, turned inside out, showing that someone has no money (especially during the Great Depression.)"
+]
+},
+{
+"id": "according-to-gunter_idiom",
+"w": "according to Gunter",
+"kind": "idiom",
+"gloss": [
+"Synonym of according to Cocker."
+]
+},
+{
+"id": "piping-times_idiom",
+"w": "piping times",
+"kind": "idiom",
+"gloss": [
+"A pleasant era."
+]
+},
+{
+"id": "great-balls-of-fire_idiom",
+"w": "great balls of fire",
+"kind": "idiom",
+"gloss": [
+"Expressing great surprise."
+]
+},
+{
+"id": "above-one-s-huckleberry_idiom",
+"w": "above one's huckleberry",
+"kind": "idiom",
+"gloss": [
+"Synonym of above one's bend (“beyond one's power or ability”)."
+]
+},
+{
+"id": "white-satin_idiom",
+"w": "white satin",
+"kind": "idiom",
+"gloss": [
+"Gin."
+]
+},
+{
+"id": "crack-a-crust_idiom",
+"w": "crack a crust",
+"kind": "idiom",
+"gloss": [
+"To make a living."
+]
+},
+{
+"id": "send-to-dorse_idiom",
+"w": "send to dorse",
+"kind": "idiom",
+"gloss": [
+"To throw (a person) onto their back; to knock out."
+]
+},
+{
+"id": "everlasting-staircase_idiom",
+"w": "everlasting staircase",
+"kind": "idiom",
+"gloss": [
+"A prison treadmill."
+]
+},
+{
+"id": "put-the-beggar-on-the-gentleman_idiom",
+"w": "put the beggar on the gentleman",
+"kind": "idiom",
+"gloss": [
+"To follow up something good with something inferior."
+]
+},
+{
+"id": "cut-the-pigeon-wing_idiom",
+"w": "cut the pigeon wing",
+"kind": "idiom",
+"gloss": [
+"To dance with graceful or fancy movements."
+]
+},
+{
+"id": "my-skull-s-afly_idiom",
+"w": "my skull's afly",
+"kind": "idiom",
+"gloss": [
+"I'm awake; I'm alert; I know what's happening."
+]
+},
+{
+"id": "pull-someone-s-plumes_idiom",
+"w": "pull someone's plumes",
+"kind": "idiom",
+"gloss": [
+"To humble, to puncture the pride of"
+]
+},
+{
+"id": "busy-as-a-nailer_idiom",
+"w": "busy as a nailer",
+"kind": "idiom",
+"gloss": [
+"working constantly."
+]
+},
+{
+"id": "term-of-years-determinable_idiom",
+"w": "term of years determinable",
+"kind": "idiom",
+"gloss": [
+"An estate in land held for a term of years which determined on the deaths of certain individuals, or the cessation of certain life interests.",
+"The lease under which that estate in land was held."
+]
+},
+{
+"id": "weep-irish_idiom",
+"w": "weep Irish",
+"kind": "idiom",
+"gloss": [
+"To cry insincerely or in an exaggerated manner."
+]
+},
+{
+"id": "get-one-s-panties-in-a-pretzel_idiom",
+"w": "get one's panties in a pretzel",
+"kind": "idiom",
+"gloss": [
+"Synonym of get one's knickers in a twist."
+]
+},
+{
+"id": "sneeze-on-the-truth_idiom",
+"w": "sneeze on the truth",
+"kind": "idiom",
+"gloss": [
+"To sneeze just after somebody says something, superstitiously believed to verify or validate their statement."
+]
+},
+{
+"id": "out-paramour-the-turk_idiom",
+"w": "out-paramour the Turk",
+"kind": "idiom",
+"gloss": [
+"To have many romantic affairs."
+]
+},
+{
+"id": "three-dog-night_idiom",
+"w": "three-dog night",
+"kind": "idiom",
+"gloss": [
+"A very cold night."
+]
+},
+{
+"id": "from-home_idiom",
+"w": "from home",
+"kind": "idiom",
+"gloss": [
+"Away from home, not at home; away, out."
+]
+},
+{
+"id": "row-of-pins_idiom",
+"w": "row of pins",
+"kind": "idiom",
+"gloss": [
+"An insignificant thing, a whit."
+]
+},
+{
+"id": "flesh-one-s-maiden-sword_idiom",
+"w": "flesh one's maiden sword",
+"kind": "idiom",
+"gloss": [
+"To experience or succeed in combat or struggle for the first time, as in the military or in politics."
+]
+},
+{
+"id": "help-a-lame-dog-over-a-stile_idiom",
+"w": "help a lame dog over a stile",
+"kind": "idiom",
+"gloss": [
+"to show kindness to, or to help out, someone in distress or in need"
+]
+},
+{
+"id": "step-lively_idiom",
+"w": "step lively",
+"kind": "idiom",
+"gloss": [
+"To move quickly; to hurry along."
+]
+},
+{
+"id": "worse-for-liquor_idiom",
+"w": "worse for liquor",
+"kind": "idiom",
+"gloss": [
+"Drunk, either at one particular time or often over a long period."
+]
+},
+{
+"id": "rod-in-pickle_idiom",
+"w": "rod in pickle",
+"kind": "idiom",
+"gloss": [
+"A particular punishment or penalty prepared ready to be applied in the future."
+]
+},
+{
+"id": "upon-the-instant_idiom",
+"w": "upon the instant",
+"kind": "idiom",
+"gloss": [
+"Immediately, right away."
+]
+},
+{
+"id": "at-a-draught_idiom",
+"w": "at a draught",
+"kind": "idiom",
+"gloss": [
+"In a single swallow."
+]
+},
+{
+"id": "bad-trot_idiom",
+"w": "bad trot",
+"kind": "idiom",
+"gloss": [
+"Bad luck."
+]
+},
+{
+"id": "wear-yellow-stockings_idiom",
+"w": "wear yellow stockings",
+"kind": "idiom",
+"gloss": [
+"be jealous"
+]
+},
+{
+"id": "in-the-green-tree-in-the-dry_idiom",
+"w": "in the green tree … in the dry",
+"kind": "idiom",
+"gloss": [
+"In a better situation as against a worse one; used chiefly in rhetorical questions to suggest that the current unfavorable situation will worsen in the future."
+]
+},
+{
+"id": "wash-a-blackamoor-white_idiom",
+"w": "wash a blackamoor white",
+"kind": "idiom",
+"gloss": [
+"To labour in vain, especially so as to present something as better than it really is; to whitewash."
+]
+},
+{
+"id": "make-trial-of_idiom",
+"w": "make trial of",
+"kind": "idiom",
+"gloss": [
+"To check the quality, reliability, performance or genuineness of (something or someone)."
+]
+},
+{
+"id": "throw-the-bull_idiom",
+"w": "throw the bull",
+"kind": "idiom",
+"gloss": [
+"To chat idly.",
+"To make false boastful claims."
+]
+},
+{
+"id": "scared-green_idiom",
+"w": "scared green",
+"kind": "idiom",
+"gloss": [
+"Extremely scared; terrified."
+]
+},
+{
+"id": "act-the-hypocrite_idiom",
+"w": "act the hypocrite",
+"kind": "idiom",
+"gloss": [
+"To behave deceitfully or hypocritically; to dissemble."
+]
+},
+{
+"id": "take-its-rise_idiom",
+"w": "take its rise",
+"kind": "idiom",
+"gloss": [
+"To originate"
+]
+},
+{
+"id": "rafter-snapper_idiom",
+"w": "rafter snapper",
+"kind": "idiom",
+"gloss": [
+"A very cold night."
+]
+},
+{
+"id": "not-worth-hell-room_idiom",
+"w": "not worth hell room",
+"kind": "idiom",
+"gloss": [
+"worthless"
+]
+},
+{
+"id": "hard-telling-not-knowing_idiom",
+"w": "hard telling, not knowing",
+"kind": "idiom",
+"gloss": [
+"I don't know."
+]
+},
+{
+"id": "take-bread-and-salt_idiom",
+"w": "take bread and salt",
+"kind": "idiom",
+"gloss": [
+"To practice the custom of using bread and salt to make solemn an oath or affirmation."
+]
+},
+{
+"id": "piping-times-of-peace_idiom",
+"w": "piping times of peace",
+"kind": "idiom",
+"gloss": [
+"A time of peace and goodness."
+]
+},
+{
+"id": "care-a-whit_idiom",
+"w": "care a whit",
+"kind": "idiom",
+"gloss": [
+"To care for something, to have interest or concern for something or someone."
+]
+},
+{
+"id": "in-one-s-own-good-time_idiom",
+"w": "in one's own good time",
+"kind": "idiom",
+"gloss": [
+"At one's own pace; at a pace unaffected by external influence; unhurriedly."
+]
+},
+{
+"id": "have-a-poor-time-of-it_idiom",
+"w": "have a poor time of it",
+"kind": "idiom",
+"gloss": [
+"Synonym of have a rough time of it (especially financially)"
+]
+},
+{
+"id": "turn-one-s-color_idiom",
+"w": "turn one's color",
+"kind": "idiom",
+"gloss": [
+"To change color, especially to become pale or red in the face."
+]
+},
+{
+"id": "pea-time-is-past_idiom",
+"w": "pea-time is past",
+"kind": "idiom",
+"gloss": [
+"Something is ruined or gone beyond recall."
+]
+},
+{
+"id": "in-a-foam_idiom",
+"w": "in a foam",
+"kind": "idiom",
+"gloss": [
+"Foaming at the mouth."
+]
+},
+{
+"id": "give-life-to_idiom",
+"w": "give life to",
+"kind": "idiom",
+"gloss": [
+"To render something into active use; to provide an impetus to something."
+]
+},
+{
+"id": "on-what-score_idiom",
+"w": "on what score",
+"kind": "idiom",
+"gloss": [
+"For what reason? In regard to what?"
+]
+},
+{
+"id": "green-in-earth_idiom",
+"w": "green in earth",
+"kind": "idiom",
+"gloss": [
+"Of a deceased person, recently buried."
+]
+},
+{
+"id": "drop-the-pilot_idiom",
+"w": "drop the pilot",
+"kind": "idiom",
+"gloss": [
+"To obtain a divorce."
+]
+},
+{
+"id": "butter-the-cony_idiom",
+"w": "butter the cony",
+"kind": "idiom",
+"gloss": [
+"To take advantage of an unmissable opportunity."
+]
+},
+{
+"id": "see-something-green-in-one-s-eye_idiom",
+"w": "see something green in one's eye",
+"kind": "idiom",
+"gloss": [
+"To notice or detect signs of gullibility in a person."
+]
+},
+{
+"id": "oranges-with-oranges_idiom",
+"w": "oranges with oranges",
+"kind": "idiom",
+"gloss": [
+"Synonym of apples to apples."
+]
+},
+{
+"id": "look-ahere_idiom",
+"w": "look ahere",
+"kind": "idiom",
+"gloss": [
+"Synonym of look here."
+]
+},
+{
+"id": "take-up-the-running_idiom",
+"w": "take up the running",
+"kind": "idiom",
+"gloss": [
+"To proceed at full speed."
+]
+},
+{
+"id": "cake-and-gingerbread_idiom",
+"w": "cake and gingerbread",
+"kind": "idiom",
+"gloss": [
+"An easy or pleasant task or experience; a piece of cake."
+]
+},
+{
+"id": "lord-of-gingerbread_idiom",
+"w": "lord of gingerbread",
+"kind": "idiom",
+"gloss": [
+"One who is showy but lacking substance or real authority."
+]
+},
+{
+"id": "green-old-age_idiom",
+"w": "green old age",
+"kind": "idiom",
+"gloss": [
+"A person's elderly years that are active or full of vitality."
+]
+},
+{
+"id": "yardarm-to_idiom",
+"w": "yardarm to",
+"kind": "idiom",
+"gloss": [
+"Very close to, very nearby."
+]
+},
+{
+"id": "yardarm-it_idiom",
+"w": "yardarm it",
+"kind": "idiom",
+"gloss": [
+"To begin to drink alcohol once it is late enough in the day."
+]
+},
+{
+"id": "keep-the-bones-green_idiom",
+"w": "keep the bones green",
+"kind": "idiom",
+"gloss": [
+"To maintain good health and vitality."
+]
+},
+{
+"id": "cast-snowballs_idiom",
+"w": "cast snowballs",
+"kind": "idiom",
+"gloss": [
+"To be distant or reserved."
+]
+}
+]

@@ -1,0 +1,602 @@
+[
+{
+"id": "election_noun",
+"w": "election",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "eastern_adj",
+"w": "eastern",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "foundation_noun",
+"w": "foundation",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "network_noun",
+"w": "network",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "investigation_noun",
+"w": "investigation",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "mental_adj",
+"w": "mental",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "whatever_pron",
+"w": "whatever",
+"pos": "pron",
+"lvl": "B1"
+},
+{
+"id": "laboratory_noun",
+"w": "laboratory",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "regulation_noun",
+"w": "regulation",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "determination_noun",
+"w": "determination",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "pattern_noun",
+"w": "pattern",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "concept_noun",
+"w": "concept",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "fuel_noun",
+"w": "fuel",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "completely_adv",
+"w": "completely",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "merely_adv",
+"w": "merely",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "conduct_noun",
+"w": "conduct",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "improvement_noun",
+"w": "improvement",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "representative_noun",
+"w": "representative",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "branch_verb",
+"w": "branch",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "regarding_prep",
+"w": "regarding",
+"pos": "prep",
+"lvl": "B1"
+},
+{
+"id": "forth_adv",
+"w": "forth",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "transport_noun",
+"w": "transport",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "maintain_verb",
+"w": "maintain",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "entirely_adv",
+"w": "entirely",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "frequently_adv",
+"w": "frequently",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "vice_adj",
+"w": "vice",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "constitution_noun",
+"w": "constitution",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "stress_noun",
+"w": "stress",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "comparison_noun",
+"w": "comparison",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "foot_noun",
+"w": "foot",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "coast_verb",
+"w": "coast",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "reduce_verb",
+"w": "reduce",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "despite_prep",
+"w": "despite",
+"pos": "prep",
+"lvl": "B1"
+},
+{
+"id": "ordinary_adj",
+"w": "ordinary",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "concentration_noun",
+"w": "concentration",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "desire_noun",
+"w": "desire",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "element_noun",
+"w": "element",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "railroad_noun",
+"w": "railroad",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "alternative_adj",
+"w": "alternative",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "alternative_noun",
+"w": "alternative",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "governor_noun",
+"w": "governor",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "male_adj",
+"w": "male",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "pain_noun",
+"w": "pain",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "reach_noun",
+"w": "reach",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "storage_noun",
+"w": "storage",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "criminal_noun",
+"w": "criminal",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "worth_adj",
+"w": "worth",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "setting_noun",
+"w": "setting",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "definition_noun",
+"w": "definition",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "medium_adj",
+"w": "medium",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "medium_noun",
+"w": "medium",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "conclusion_noun",
+"w": "conclusion",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "damage_noun",
+"w": "damage",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "damage_verb",
+"w": "damage",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "slightly_adv",
+"w": "slightly",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "ship_verb",
+"w": "ship",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "absence_noun",
+"w": "absence",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "permit_verb",
+"w": "permit",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "limit_noun",
+"w": "limit",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "limit_verb",
+"w": "limit",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "sort_noun",
+"w": "sort",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "search_verb",
+"w": "search",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "finding_noun",
+"w": "finding",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "railway_noun",
+"w": "railway",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "please_verb",
+"w": "please",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "waste_adj",
+"w": "waste",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "waste_noun",
+"w": "waste",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "waste_verb",
+"w": "waste",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "session_noun",
+"w": "session",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "selection_noun",
+"w": "selection",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "opening_noun",
+"w": "opening",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "finance_verb",
+"w": "finance",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "guide_noun",
+"w": "guide",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "guide_verb",
+"w": "guide",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "mail_verb",
+"w": "mail",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "moral_noun",
+"w": "moral",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "religion_noun",
+"w": "religion",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "marked_adj",
+"w": "marked",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "politics_noun",
+"w": "politics",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "stay_noun",
+"w": "stay",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "permanent_adj",
+"w": "permanent",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "broad_adj",
+"w": "broad",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "debt_noun",
+"w": "debt",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "lay_verb",
+"w": "lay",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "race_noun",
+"w": "race",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "race_verb",
+"w": "race",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "sex_noun",
+"w": "sex",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "reserve_noun",
+"w": "reserve",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "reserve_verb",
+"w": "reserve",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "marriage_noun",
+"w": "marriage",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "van_noun",
+"w": "van",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "skin_noun",
+"w": "skin",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "season_noun",
+"w": "season",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "combination_noun",
+"w": "combination",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "vote_verb",
+"w": "vote",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "gain_noun",
+"w": "gain",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "gain_verb",
+"w": "gain",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "largely_adv",
+"w": "largely",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "port_noun",
+"w": "port",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "shape_verb",
+"w": "shape",
+"pos": "verb",
+"lvl": "B1"
+}
+]

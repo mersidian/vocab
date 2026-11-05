@@ -1,0 +1,100 @@
+{"id":"chronic_x","pos":"adj","th":"เรื้อรัง; ที่เป็นมานาน","ex":"He suffers from chronic back pain.","exTh":"เขาทุกข์ทรมานจากอาการปวดหลังเรื้อรัง"}
+{"id":"horizontal_x","pos":"adj","th":"แนวนอน; ราบ","ex":"Draw a horizontal line across the page.","exTh":"ขีดเส้นแนวนอนข้ามหน้ากระดาษ"}
+{"id":"productivity_x","pos":"noun","th":"ผลผลิต; ประสิทธิภาพในการทำงาน","ex":"A good chair can improve your productivity.","exTh":"เก้าอี้ดีๆ ช่วยเพิ่มประสิทธิภาพในการทำงานได้"}
+{"id":"quarterly_x","pos":"adj","th":"ทุกสามเดือน; รายไตรมาส","ex":"The company publishes a quarterly report.","exTh":"บริษัทเผยแพร่รายงานรายไตรมาส"}
+{"id":"inter_x","pos":"verb","th":"ฝัง (ศพ); ฝังศพ","ex":"They interred him in the family cemetery.","exTh":"พวกเขาฝังศพเขาไว้ในสุสานของตระกูล","note":"ภาษาทางการ"}
+{"id":"differential_x","pos":"adj","th":"ที่แตกต่างกัน; ตามส่วนต่าง","ex":"The company uses differential pricing for students.","exTh":"บริษัทใช้การกำหนดราคาที่แตกต่างกันสำหรับนักเรียน"}
+{"id":"lateral_x","pos":"adj","th":"ด้านข้าง; ทางด้านข้าง","ex":"The car had a lateral dent on its door.","exTh":"รถมีรอยบุบด้านข้างที่ประตู"}
+{"id":"membrane_x","pos":"noun","th":"เยื่อหุ้ม; เมมเบรน","ex":"A thin membrane covers the egg.","exTh":"เยื่อบางๆ หุ้มไข่อยู่"}
+{"id":"institutional_x","pos":"adj","th":"เกี่ยวกับสถาบัน; ของสถาบัน","ex":"The hospital needs institutional change.","exTh":"โรงพยาบาลต้องการการเปลี่ยนแปลงระดับสถาบัน"}
+{"id":"inventory_x","pos":"noun","th":"สินค้าคงคลัง; รายการสินค้า","ex":"The shop counts its inventory every month.","exTh":"ร้านนับสินค้าคงคลังทุกเดือน"}
+{"id":"par_x","pos":"noun","th":"ระดับมาตรฐาน; ค่ามาตรฐาน; พาร์ (กอล์ฟ)","ex":"His work today is below par.","exTh":"งานของเขาวันนี้ต่ำกว่ามาตรฐาน","note":"มักใช้ below par / on a par with"}
+{"id":"installation_x","pos":"noun","th":"การติดตั้ง; ชุดอุปกรณ์ที่ติดตั้ง","ex":"The installation of the new software took an hour.","exTh":"การติดตั้งซอฟต์แวร์ตัวใหม่ใช้เวลาหนึ่งชั่วโมง"}
+{"id":"automobile_x","pos":"noun","th":"รถยนต์","ex":"He works in the automobile industry.","exTh":"เขาทำงานในอุตสาหกรรมรถยนต์","note":"ภาษาอเมริกัน ทางการกว่า car"}
+{"id":"crystal_x","pos":"noun","th":"ผลึก; คริสตัล","ex":"The salt formed small crystals in the bowl.","exTh":"เกลือก่อตัวเป็นผลึกเล็กๆ ในชาม"}
+{"id":"irrigation_x","pos":"noun","th":"การชลประทาน; การรดน้ำพื้นที่เกษตร","ex":"Irrigation helps farmers grow rice in dry months.","exTh":"การชลประทานช่วยให้ชาวนาปลูกข้าวได้ในหน้าแล้ง"}
+{"id":"imperial_x","pos":"adj","th":"เกี่ยวกับจักรวรรดิ; ของจักรพรรดิ","ex":"They visited the old imperial palace.","exTh":"พวกเขาไปเยี่ยมชมพระราชวังหลวงเก่า"}
+{"id":"discretion_x","pos":"noun","th":"ดุลยพินิจ; ความรอบคอบ","ex":"The manager can use her own discretion.","exTh":"ผู้จัดการใช้ดุลยพินิจของตนเองได้"}
+{"id":"taxable_x","pos":"adj","th":"ที่ต้องเสียภาษี; ที่เก็บภาษีได้","ex":"Your salary is taxable income.","exTh":"เงินเดือนของคุณเป็นรายได้ที่ต้องเสียภาษี"}
+{"id":"mortality_x","pos":"noun","th":"ความตายได้; อัตราการตาย","ex":"The infant mortality rate has fallen.","exTh":"อัตราการตายของทารกลดลง"}
+{"id":"detection_x","pos":"noun","th":"การตรวจจับ; การค้นพบ","ex":"Early detection of the disease saves lives.","exTh":"การตรวจพบโรคแต่เนิ่นๆ ช่วยชีวิตคนได้"}
+{"id":"sin_x","pos":"noun","th":"บาป; ความผิด","ex":"In his religion, lying is a sin.","exTh":"ตามศาสนาของเขา การโกหกเป็นบาป"}
+{"id":"tariff_x","pos":"noun","th":"ภาษีศุลกากร; อัตราค่าบริการ","ex":"The country put a tariff on imported steel.","exTh":"ประเทศนั้นเก็บภาษีศุลกากรเหล็กนำเข้า"}
+{"id":"magnitude_x","pos":"noun","th":"ขนาด; ความสำคัญ; ความแรง","ex":"The earthquake had a magnitude of six.","exTh":"แผ่นดินไหวครั้งนั้นมีขนาดหกริกเตอร์"}
+{"id":"comparable_x","pos":"adj","th":"เทียบเคียงได้; ใกล้เคียงกัน","ex":"The two phones have comparable prices.","exTh":"โทรศัพท์สองรุ่นนี้ราคาใกล้เคียงกัน"}
+{"id":"occurrence_x","pos":"noun","th":"เหตุการณ์; การเกิดขึ้น","ex":"Snow is a rare occurrence in this city.","exTh":"หิมะตกเป็นเหตุการณ์ที่หายากในเมืองนี้"}
+{"id":"dependence_x","pos":"noun","th":"การพึ่งพา; การติด (สิ่งเสพติด)","ex":"Our dependence on phones is growing.","exTh":"การพึ่งพาโทรศัพท์ของเรากำลังเพิ่มขึ้น"}
+{"id":"decree_x","pos":"noun","th":"พระราชกฤษฎีกา; คำสั่ง; กฤษฎีกา","ex":"The king issued a decree about taxes.","exTh":"พระราชาทรงออกพระราชกฤษฎีกาเรื่องภาษี"}
+{"id":"aggregate_x","pos":"noun","th":"ยอดรวม; มวลรวม","ex":"The team won by two goals on aggregate.","exTh":"ทีมชนะด้วยผลรวมสองประตู"}
+{"id":"drainage_x","pos":"noun","th":"การระบายน้ำ; ระบบระบายน้ำ","ex":"The street floods because of poor drainage.","exTh":"ถนนสายนี้น้ำท่วมเพราะการระบายน้ำไม่ดี"}
+{"id":"coefficient_x","pos":"noun","th":"สัมประสิทธิ์; ค่าคงที่","ex":"The coefficient of x in this equation is three.","exTh":"สัมประสิทธิ์ของ x ในสมการนี้คือสาม"}
+{"id":"calcium_x","pos":"noun","th":"แคลเซียม","ex":"Milk is rich in calcium.","exTh":"นมอุดมไปด้วยแคลเซียม"}
+{"id":"arc_x","pos":"noun","th":"ส่วนโค้ง; ส่วนโค้งของวงกลม","ex":"The ball flew in a high arc.","exTh":"ลูกบอลลอยเป็นเส้นโค้งสูง"}
+{"id":"monetary_x","pos":"adj","th":"เกี่ยวกับเงินตรา; ทางการเงิน","ex":"The bank controls the country's monetary policy.","exTh":"ธนาคารควบคุมนโยบายการเงินของประเทศ"}
+{"id":"validity_x","pos":"noun","th":"ความถูกต้อง; ความสมเหตุสมผล; การมีผลใช้ได้","ex":"The validity of this ticket ends in June.","exTh":"ตั๋วใบนี้หมดอายุการใช้ในเดือนมิถุนายน"}
+{"id":"shaft_x","pos":"noun","th":"ก้าน; ด้าม; อุโมงค์แนวตั้ง","ex":"A shaft of light came through the window.","exTh":"ลำแสงส่องผ่านหน้าต่างเข้ามา"}
+{"id":"saint_x","pos":"noun","th":"นักบุญ; คนใจบุญ","ex":"The church is named after a saint.","exTh":"โบสถ์ตั้งชื่อตามนักบุญคนหนึ่ง"}
+{"id":"pending_x","pos":"adj","th":"ที่รอการตัดสิน; ที่ยังค้างอยู่","ex":"Your request is still pending.","exTh":"คำขอของคุณยังรอการพิจารณาอยู่"}
+{"id":"orientation_x","pos":"noun","th":"การปฐมนิเทศ; ทิศทาง; แนวโน้ม","ex":"New students attend an orientation on the first day.","exTh":"นักเรียนใหม่เข้าร่วมการปฐมนิเทศในวันแรก"}
+{"id":"operational_x","pos":"adj","th":"ที่ใช้งานได้; เกี่ยวกับการดำเนินงาน","ex":"The new airport is now fully operational.","exTh":"สนามบินแห่งใหม่เปิดใช้งานเต็มรูปแบบแล้ว"}
+{"id":"dimensional_x","pos":"adj","th":"เกี่ยวกับมิติ; มีมิติ","ex":"It is a three-dimensional model of the building.","exTh":"นี่คือแบบจำลองสามมิติของอาคาร"}
+{"id":"multi_x","pos":"adj","th":"หลาย; หลายอย่าง (คำนำหน้า)","ex":"She works in a multi-national company.","exTh":"เธอทำงานในบริษัทข้ามชาติ","note":"ปกติเป็นคำนำหน้า เช่น multi-purpose"}
+{"id":"sole_x","pos":"adj","th":"เพียงหนึ่งเดียว; แต่ผู้เดียว","ex":"She is the sole owner of the shop.","exTh":"เธอเป็นเจ้าของร้านแต่เพียงผู้เดียว"}
+{"id":"rehabilitation_x","pos":"noun","th":"การฟื้นฟู; การบำบัดฟื้นฟู","ex":"He is in rehabilitation after the accident.","exTh":"เขาอยู่ในช่วงฟื้นฟูหลังอุบัติเหตุ"}
+{"id":"republican_x","pos":"adj","th":"เกี่ยวกับสาธารณรัฐ; แบบสาธารณรัฐ","ex":"France has a republican system of government.","exTh":"ฝรั่งเศสมีระบอบการปกครองแบบสาธารณรัฐ"}
+{"id":"dairy_x","pos":"noun","th":"ผลิตภัณฑ์นม; ฟาร์มโคนม","ex":"I don't eat dairy because of my allergy.","exTh":"ฉันไม่กินผลิตภัณฑ์นมเพราะแพ้"}
+{"id":"trustee_x","pos":"noun","th":"ผู้ดูแลทรัพย์สิน; ผู้รับมอบ; กรรมการมูลนิธิ","ex":"The trustee manages the money for the children.","exTh":"ผู้ดูแลทรัพย์สินจัดการเงินให้เด็กๆ"}
+{"id":"warrant_x","pos":"noun","th":"หมายศาล; หมายค้น; ใบอนุญาต","ex":"The police had a warrant to search the house.","exTh":"ตำรวจมีหมายค้นบ้านหลังนั้น"}
+{"id":"serum_x","pos":"noun","th":"ซีรัม; น้ำเลือด; เซรุ่ม","ex":"She uses a face serum every night.","exTh":"เธอใช้เซรั่มบำรุงผิวหน้าทุกคืน"}
+{"id":"congressional_x","pos":"adj","th":"เกี่ยวกับรัฐสภา; ของสภาคองเกรส","ex":"A congressional committee studied the problem.","exTh":"คณะกรรมาธิการของรัฐสภาศึกษาปัญหานี้"}
+{"id":"semi_x","pos":"noun","th":"รถบรรทุกพ่วง; บ้านแฝด","ex":"A big semi blocked the road.","exTh":"รถบรรทุกพ่วงคันใหญ่ขวางถนน","note":"ภาษาพูด ย่อมาจาก semi-trailer; ในอังกฤษหมายถึงบ้านแฝด"}
+{"id":"sensitivity_x","pos":"noun","th":"ความไวต่อสิ่งเร้า; ความอ่อนไหว","ex":"He has a sensitivity to bright light.","exTh":"เขาไวต่อแสงจ้า"}
+{"id":"operative_x","pos":"adj","th":"ที่ใช้งานได้; ที่มีผลบังคับใช้","ex":"The new law becomes operative in May.","exTh":"กฎหมายฉบับใหม่มีผลบังคับใช้ในเดือนพฤษภาคม"}
+{"id":"socialist_x","pos":"noun","th":"ผู้นิยมสังคมนิยม","ex":"His uncle is a lifelong socialist.","exTh":"ลุงของเขาเป็นผู้นิยมสังคมนิยมมาตลอดชีวิต"}
+{"id":"interface_x","pos":"noun","th":"ส่วนต่อประสาน; หน้าจอใช้งาน","ex":"The app has a simple, clear interface.","exTh":"แอปนี้มีส่วนต่อประสานที่เรียบง่ายและชัดเจน"}
+{"id":"interference_x","pos":"noun","th":"การแทรกแซง; การรบกวน","ex":"There is interference on the radio signal.","exTh":"สัญญาณวิทยุถูกรบกวน"}
+{"id":"solely_x","pos":"adv","th":"แต่เพียงผู้เดียว; เท่านั้น","ex":"The mistake was solely my fault.","exTh":"ความผิดพลาดนี้เป็นความผิดของฉันเท่านั้น"}
+{"id":"entity_x","pos":"noun","th":"หน่วยงาน; สิ่งที่มีตัวตน","ex":"The company is a separate legal entity.","exTh":"บริษัทเป็นนิติบุคคลที่แยกต่างหาก"}
+{"id":"vector_x","pos":"noun","th":"เวกเตอร์; พาหะนำโรค","ex":"Mosquitoes are a vector for many diseases.","exTh":"ยุงเป็นพาหะนำโรคหลายชนิด"}
+{"id":"foster_x","pos":"adj","th":"ที่อุปการะ; ที่ดูแลแทนพ่อแม่","ex":"She grew up in a foster home.","exTh":"เธอเติบโตในบ้านอุปถัมภ์"}
+{"id":"continental_x","pos":"adj","th":"เกี่ยวกับทวีป; ของแผ่นดินใหญ่","ex":"The continental climate is cold in winter.","exTh":"ภูมิอากาศแบบภาคพื้นทวีปหนาวในฤดูหนาว"}
+{"id":"partially_x","pos":"adv","th":"บางส่วน; ไม่สมบูรณ์","ex":"The road is partially blocked by snow.","exTh":"ถนนถูกหิมะปิดบางส่วน"}
+{"id":"taxpayer_x","pos":"noun","th":"ผู้เสียภาษี","ex":"Taxpayers pay for public roads.","exTh":"ผู้เสียภาษีเป็นผู้จ่ายค่าถนนสาธารณะ"}
+{"id":"simulation_x","pos":"noun","th":"การจำลอง; แบบจำลอง","ex":"Pilots train in a flight simulation.","exTh":"นักบินฝึกในการจำลองการบิน"}
+{"id":"colony_x","pos":"noun","th":"อาณานิคม; ฝูง; กลุ่ม","ex":"India was once a British colony.","exTh":"อินเดียเคยเป็นอาณานิคมของอังกฤษ"}
+{"id":"algorithm_x","pos":"noun","th":"อัลกอริทึม; ขั้นตอนวิธี","ex":"The app uses an algorithm to suggest songs.","exTh":"แอปใช้อัลกอริทึมแนะนำเพลง"}
+{"id":"allocation_x","pos":"noun","th":"การจัดสรร; ส่วนที่ได้รับจัดสรร","ex":"The allocation of money was fair.","exTh":"การจัดสรรเงินเป็นไปอย่างยุติธรรม"}
+{"id":"ethics_x","pos":"noun","th":"จริยธรรม; จรรยาบรรณ","ex":"Doctors must follow strict medical ethics.","exTh":"แพทย์ต้องปฏิบัติตามจริยธรรมทางการแพทย์อย่างเคร่งครัด"}
+{"id":"termination_x","pos":"noun","th":"การสิ้นสุด; การเลิกจ้าง","ex":"The termination of the contract was sudden.","exTh":"การสิ้นสุดสัญญาเกิดขึ้นอย่างกะทันหัน"}
+{"id":"majesty_x","pos":"noun","th":"ความยิ่งใหญ่ตระการตา; พระบารมี","ex":"We admired the majesty of the mountains.","exTh":"เราชื่นชมความยิ่งใหญ่ตระการตาของภูเขา","note":"Your Majesty = ใต้ฝ่าละอองธุลีพระบาท (ใช้กับกษัตริย์)"}
+{"id":"incidence_x","pos":"noun","th":"อัตราการเกิด; ความถี่ที่เกิดขึ้น","ex":"The incidence of flu rises in winter.","exTh":"อัตราการเป็นไข้หวัดใหญ่เพิ่มขึ้นในฤดูหนาว"}
+{"id":"indication_x","pos":"noun","th":"ข้อบ่งชี้; สัญญาณ","ex":"There is no indication that prices will fall.","exTh":"ไม่มีสัญญาณว่าราคาจะลดลง"}
+{"id":"cylinder_x","pos":"noun","th":"ทรงกระบอก; ถังก๊าซ; สูบ (เครื่องยนต์)","ex":"The gas comes in a metal cylinder.","exTh":"ก๊าซบรรจุมาในถังโลหะทรงกระบอก"}
+{"id":"diffusion_x","pos":"noun","th":"การแพร่กระจาย; การแพร่","ex":"The diffusion of smell through the room was slow.","exTh":"กลิ่นแพร่กระจายไปทั่วห้องอย่างช้าๆ"}
+{"id":"gravity_x","pos":"noun","th":"แรงโน้มถ่วง; ความร้ายแรง; ความเคร่งขรึม","ex":"Gravity pulls objects toward the ground.","exTh":"แรงโน้มถ่วงดึงวัตถุลงสู่พื้น"}
+{"id":"empirical_x","pos":"adj","th":"ตามประสบการณ์; เชิงประจักษ์","ex":"The study is based on empirical data.","exTh":"งานวิจัยนี้อิงข้อมูลเชิงประจักษ์"}
+{"id":"premium_x","pos":"adj","th":"ระดับพรีเมียม; คุณภาพสูง","ex":"They sell premium coffee at a high price.","exTh":"พวกเขาขายกาแฟระดับพรีเมียมในราคาสูง"}
+{"id":"analytical_x","pos":"adj","th":"เชิงวิเคราะห์; ช่างวิเคราะห์","ex":"She has a strong analytical mind.","exTh":"เธอมีความคิดเชิงวิเคราะห์ที่เข้มแข็ง"}
+{"id":"default_x","pos":"noun","th":"ค่าเริ่มต้น; การผิดนัดชำระหนี้","ex":"The default language of the phone is English.","exTh":"ภาษาเริ่มต้นของโทรศัพท์คือภาษาอังกฤษ"}
+{"id":"arbitration_x","pos":"noun","th":"การอนุญาโตตุลาการ; การไกล่เกลี่ย","ex":"The two companies went to arbitration.","exTh":"สองบริษัทนำเรื่องเข้าสู่อนุญาโตตุลาการ"}
+{"id":"purely_x","pos":"adv","th":"อย่างแท้จริง; เพียงแค่; ล้วนๆ","ex":"I did it purely out of curiosity.","exTh":"ฉันทำไปเพราะความอยากรู้ล้วนๆ"}
+{"id":"finite_x","pos":"adj","th":"จำกัด; มีขอบเขต","ex":"Our time on this trip is finite.","exTh":"เวลาของเราในการเดินทางครั้งนี้มีจำกัด"}
+{"id":"ordinance_x","pos":"noun","th":"ข้อบัญญัติ; ข้อบังคับท้องถิ่น","ex":"A city ordinance bans smoking in parks.","exTh":"ข้อบัญญัติของเมืองห้ามสูบบุหรี่ในสวนสาธารณะ"}
+{"id":"negligence_x","pos":"noun","th":"ความประมาทเลินเล่อ; การละเลย","ex":"The accident was caused by negligence.","exTh":"อุบัติเหตุเกิดจากความประมาทเลินเล่อ"}
+{"id":"coordination_x","pos":"noun","th":"การประสานงาน; การทำงานประสานกัน","ex":"Good coordination helps the team succeed.","exTh":"การประสานงานที่ดีช่วยให้ทีมประสบความสำเร็จ"}
+{"id":"pregnancy_x","pos":"noun","th":"การตั้งครรภ์; ภาวะท้อง","ex":"She felt tired during her pregnancy.","exTh":"เธอรู้สึกเหนื่อยง่ายระหว่างตั้งครรภ์"}
+{"id":"exemption_x","pos":"noun","th":"การยกเว้น; การได้รับการยกเว้น","ex":"Students get an exemption from the fee.","exTh":"นักเรียนได้รับการยกเว้นค่าธรรมเนียม"}
+{"id":"quantitative_x","pos":"adj","th":"เชิงปริมาณ","ex":"They did a quantitative study of sales data.","exTh":"พวกเขาทำการศึกษาข้อมูลยอดขายเชิงปริมาณ"}
+{"id":"surgical_x","pos":"adj","th":"เกี่ยวกับการผ่าตัด; ทางศัลยกรรม","ex":"The nurse wore a surgical mask.","exTh":"พยาบาลสวมหน้ากากอนามัยทางการแพทย์"}
+{"id":"anterior_x","pos":"adj","th":"ด้านหน้า; ส่วนหน้า","ex":"The anterior part of the brain controls thinking.","exTh":"สมองส่วนหน้าควบคุมการคิด"}
+{"id":"civilian_x","pos":"noun","th":"พลเรือน","ex":"Many civilians left the city during the war.","exTh":"พลเรือนจำนวนมากอพยพออกจากเมืองระหว่างสงคราม"}
+{"id":"bacteria_x","pos":"noun","th":"แบคทีเรีย; เชื้อโรค","ex":"Washing your hands kills bacteria.","exTh":"การล้างมือฆ่าแบคทีเรียได้","note":"เป็นพหูพจน์ของ bacterium"}
+{"id":"zinc_x","pos":"noun","th":"สังกะสี; ธาตุสังกะสี","ex":"The roof is made of zinc sheets.","exTh":"หลังคาทำจากแผ่นสังกะสี"}
+{"id":"rotation_x","pos":"noun","th":"การหมุน; การหมุนเวียน","ex":"The rotation of the Earth gives us day and night.","exTh":"การหมุนรอบตัวเองของโลกทำให้เกิดกลางวันและกลางคืน"}
+{"id":"emission_x","pos":"noun","th":"การปล่อย; ไอเสีย; ก๊าซที่ปล่อยออกมา","ex":"The city wants to cut car emissions.","exTh":"เมืองต้องการลดไอเสียจากรถยนต์"}
+{"id":"reliability_x","pos":"noun","th":"ความน่าเชื่อถือ; ความไว้ใจได้","ex":"This car is known for its reliability.","exTh":"รถรุ่นนี้เป็นที่รู้จักในเรื่องความทนทานน่าเชื่อถือ"}
+{"id":"reactor_x","pos":"noun","th":"เตาปฏิกรณ์; ถังปฏิกิริยา","ex":"The nuclear reactor was shut down for repairs.","exTh":"เตาปฏิกรณ์นิวเคลียร์ถูกปิดเพื่อซ่อมแซม"}
+{"id":"loop_x","pos":"noun","th":"บ่วง; ห่วง; วงวน","ex":"Tie the rope in a loop.","exTh":"ผูกเชือกให้เป็นห่วง"}
+{"id":"cargo_x","pos":"noun","th":"สินค้าบรรทุก; ระวางสินค้า","ex":"The ship carried a cargo of rice.","exTh":"เรือบรรทุกสินค้าเป็นข้าว"}
+{"id":"whereby_x","pos":"adv","th":"ซึ่งโดยวิธีนั้น; ตามที่","ex":"They made a deal whereby both sides would share profits.","exTh":"พวกเขาตกลงกันโดยทั้งสองฝ่ายจะแบ่งผลกำไร","note":"ภาษาทางการ"}
+{"id":"configuration_x","pos":"noun","th":"การกำหนดค่า; รูปแบบการจัดวาง","ex":"Check the configuration of your computer first.","exTh":"ตรวจดูการกำหนดค่าของคอมพิวเตอร์ของคุณก่อน"}

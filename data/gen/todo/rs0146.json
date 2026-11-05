@@ -1,0 +1,802 @@
+[
+{
+"id": "put-someone-in-a-box_idiom",
+"w": "put someone in a box",
+"kind": "idiom",
+"gloss": [
+"To judge someone unfairly as a member of a category of person, based on very few factors."
+]
+},
+{
+"id": "until-the-cows-freeze-over_idiom",
+"w": "until the cows freeze over",
+"kind": "idiom",
+"gloss": [
+"For a very long period of time."
+]
+},
+{
+"id": "out-sick_idiom",
+"w": "out sick",
+"kind": "idiom",
+"gloss": [
+"Absent from work due to an illness."
+]
+},
+{
+"id": "a-far-remove_idiom",
+"w": "a far remove",
+"kind": "idiom",
+"gloss": [
+"A great distance from something or somewhere."
+]
+},
+{
+"id": "hang-up-one-s-fiddle_idiom",
+"w": "hang up one's fiddle",
+"kind": "idiom",
+"gloss": [
+"Synonym of hang up one's boots."
+]
+},
+{
+"id": "do-the-decent-thing_idiom",
+"w": "do the decent thing",
+"kind": "idiom",
+"gloss": [
+"To take the most honorable or appropriate course of action, even if is not necessarily in the person's own interests."
+]
+},
+{
+"id": "light-someone-s-ass-up_idiom",
+"w": "light someone's ass up",
+"kind": "idiom",
+"gloss": [
+"To scold or castigate someone severely."
+]
+},
+{
+"id": "put-one-s-foot-in-someone-s-ass_idiom",
+"w": "put one's foot in someone's ass",
+"kind": "idiom",
+"gloss": [
+"To beat the shit out of someone."
+]
+},
+{
+"id": "turn-a-number-of-shades-of-red_idiom",
+"w": "turn a number of shades of red",
+"kind": "idiom",
+"gloss": [
+"To blush, especially out of embarrassment or shame."
+]
+},
+{
+"id": "fart-in-an-elevator_idiom",
+"w": "fart in an elevator",
+"kind": "idiom",
+"gloss": [
+"Something proverbially unpopular or useless."
+]
+},
+{
+"id": "have-a-gas_idiom",
+"w": "have a gas",
+"kind": "idiom",
+"gloss": [
+"Have a good time."
+]
+},
+{
+"id": "like-a-demon_idiom",
+"w": "like a demon",
+"kind": "idiom",
+"gloss": [
+"In a very forceful, fierce, frenzied or skilful way."
+]
+},
+{
+"id": "chocolate-teapot_idiom",
+"w": "chocolate teapot",
+"kind": "idiom",
+"gloss": [
+"Something totally useless."
+]
+},
+{
+"id": "on-the-drum_idiom",
+"w": "on the drum",
+"kind": "idiom",
+"gloss": [
+"Money in the form of paper currency or coins, paid immediately at the time and place of a transaction, especially to a soldier as pay or bonuses."
+]
+},
+{
+"id": "all-ends-up_idiom",
+"w": "all ends up",
+"kind": "idiom",
+"gloss": [
+"Completely; totally."
+]
+},
+{
+"id": "over-the-hump_idiom",
+"w": "over the hump",
+"kind": "idiom",
+"gloss": [
+"Past the most challenging part of something."
+]
+},
+{
+"id": "feel-like-death_idiom",
+"w": "feel like death",
+"kind": "idiom",
+"gloss": [
+"To feel extremely bad, sick, exhausted, or worn out."
+]
+},
+{
+"id": "put-daylight-between-oneself-and-someone_idiom",
+"w": "put daylight between oneself and someone",
+"kind": "idiom",
+"gloss": [
+"To increase or create distance or difference between people or objects."
+]
+},
+{
+"id": "bluebird-of-happiness_idiom",
+"w": "bluebird of happiness",
+"kind": "idiom",
+"gloss": [
+"Happiness or contentment, especially as the elusive object of a quest or as a state of affairs which is difficult to achieve."
+]
+},
+{
+"id": "shower-thought_idiom",
+"w": "shower thought",
+"kind": "idiom",
+"gloss": [
+"An idea, often some minor epiphany, that occurs while showering or otherwise going about one’s everyday routine."
+]
+},
+{
+"id": "play-the-cat-and-banjo-with_idiom",
+"w": "play the cat and banjo with",
+"kind": "idiom",
+"gloss": [
+"Synonym of play the devil with."
+]
+},
+{
+"id": "in-a-hen-s-hiney_idiom",
+"w": "in a hen's hiney",
+"kind": "idiom",
+"gloss": [
+"Under no circumstances; absolutely not."
+]
+},
+{
+"id": "in-a-pig-s-patoot_idiom",
+"w": "in a pig's patoot",
+"kind": "idiom",
+"gloss": [
+"Under no circumstances; absolutely not."
+]
+},
+{
+"id": "play-old-harry-with_idiom",
+"w": "play Old Harry with",
+"kind": "idiom",
+"gloss": [
+"Synonym of play the devil with."
+]
+},
+{
+"id": "drop-off-the-hooks_idiom",
+"w": "drop off the hooks",
+"kind": "idiom",
+"gloss": [
+"To die."
+]
+},
+{
+"id": "in-good-odor_idiom",
+"w": "in good odor",
+"kind": "idiom",
+"gloss": [
+"liked, in someone's good books."
+]
+},
+{
+"id": "back-up-the-truck_idiom",
+"w": "back up the truck",
+"kind": "idiom",
+"gloss": [
+"To take advantage of favourable pricing by purchasing a large amount."
+]
+},
+{
+"id": "keep-off-the-streets_idiom",
+"w": "keep off the streets",
+"kind": "idiom",
+"gloss": [
+"To inspire or cause (someone) to avoid idleness, unemployment, poverty, or antisocial behavior."
+]
+},
+{
+"id": "do-someone-like-that_idiom",
+"w": "do someone like that",
+"kind": "idiom",
+"gloss": [
+"to treat someone in a negative manner"
+]
+},
+{
+"id": "smell-what-someone-is-stepping-in_idiom",
+"w": "smell what someone is stepping in",
+"kind": "idiom",
+"gloss": [
+"Synonym of pick up what someone is putting down."
+]
+},
+{
+"id": "preach-in-the-desert_idiom",
+"w": "preach in the desert",
+"kind": "idiom",
+"gloss": [
+"To speak to or persuade a nearly nonexistent audience, or to an audience not listening."
+]
+},
+{
+"id": "in-the-stars_idiom",
+"w": "in the stars",
+"kind": "idiom",
+"gloss": [
+"Destined or fated to occur."
+]
+},
+{
+"id": "big-tamale_idiom",
+"w": "big tamale",
+"kind": "idiom",
+"gloss": [
+"A very important figure, especially a high-ranking person in an organization."
+]
+},
+{
+"id": "near-and-dear_idiom",
+"w": "near and dear",
+"kind": "idiom",
+"gloss": [
+"Loved or cared about greatly."
+]
+},
+{
+"id": "run-one-s-name_idiom",
+"w": "run one's name",
+"kind": "idiom",
+"gloss": [
+"To input someone’s name in a search engine or other database in order to search for additional information regarding that person."
+]
+},
+{
+"id": "out-of-the-gate_idiom",
+"w": "out of the gate",
+"kind": "idiom",
+"gloss": [
+"At or from the very beginning; from the outset; immediately upon starting."
+]
+},
+{
+"id": "do-someone-one-better_idiom",
+"w": "do someone one better",
+"kind": "idiom",
+"gloss": [
+"To do more than somebody asked for or expected."
+]
+},
+{
+"id": "get-one-s-head-straight_idiom",
+"w": "get one's head straight",
+"kind": "idiom",
+"gloss": [
+"To clear one's mind; to think clearly."
+]
+},
+{
+"id": "put-store-by_idiom",
+"w": "put store by",
+"kind": "idiom",
+"gloss": [
+"Synonym of set store by."
+]
+},
+{
+"id": "party-like-it-s-1999_idiom",
+"w": "party like it's 1999",
+"kind": "idiom",
+"gloss": [
+"To party intensely, particularly when reckless or pessimistic."
+]
+},
+{
+"id": "rally-round-the-flag_idiom",
+"w": "rally round the flag",
+"kind": "idiom",
+"gloss": [
+"To unite in order to support one's country, especially during a crisis or war."
+]
+},
+{
+"id": "dog-that-caught-the-car_idiom",
+"w": "dog that caught the car",
+"kind": "idiom",
+"gloss": [
+"A person who has unexpectedly attained an aspirational goal and is now unsure what to do with it."
+]
+},
+{
+"id": "have-none-of-something_idiom",
+"w": "have none of something",
+"kind": "idiom",
+"gloss": [
+"To be completely unwilling to accept or support something."
+]
+},
+{
+"id": "shake-the-plum-tree_idiom",
+"w": "shake the plum tree",
+"kind": "idiom",
+"gloss": [
+"To obtain a source of advantage, such as for political favors or appointments."
+]
+},
+{
+"id": "stage-business_idiom",
+"w": "stage business",
+"kind": "idiom",
+"gloss": [
+"Actions performed by an actor on stage done for dramatic effect; especially, action carried out with a prop or piece of clothing, usually away from the focus of the scene, with or without any dialogue."
+]
+},
+{
+"id": "chum-in-the-water_idiom",
+"w": "chum in the water",
+"kind": "idiom",
+"gloss": [
+"Synonym of blood in the water."
+]
+},
+{
+"id": "needle-mover_idiom",
+"w": "needle mover",
+"kind": "idiom",
+"gloss": [
+"A factor which noticeably influences a performance."
+]
+},
+{
+"id": "week-in-week-out_idiom",
+"w": "week in, week out",
+"kind": "idiom",
+"gloss": [
+"During every week; continuously."
+]
+},
+{
+"id": "night-in-night-out_idiom",
+"w": "night in, night out",
+"kind": "idiom",
+"gloss": [
+"During every night; continuously."
+]
+},
+{
+"id": "month-in-month-out_idiom",
+"w": "month in, month out",
+"kind": "idiom",
+"gloss": [
+"During every month; continuously."
+]
+},
+{
+"id": "sit-on-one-s-ass_idiom",
+"w": "sit on one's ass",
+"kind": "idiom",
+"gloss": [
+"To be very lazy and idle, especially when immediate action is required."
+]
+},
+{
+"id": "right-of-genghis-khan_idiom",
+"w": "right of Genghis Khan",
+"kind": "idiom",
+"gloss": [
+"Of political views, extremely right-wing."
+]
+},
+{
+"id": "stand-up-on-one-s-hind-legs_idiom",
+"w": "stand up on one's hind legs",
+"kind": "idiom",
+"gloss": [
+"To act boldly; to take responsibility."
+]
+},
+{
+"id": "fully-rigged_idiom",
+"w": "fully rigged",
+"kind": "idiom",
+"gloss": [
+"Well-equipped."
+]
+},
+{
+"id": "meat-on-the-bones_idiom",
+"w": "meat on the bones",
+"kind": "idiom",
+"gloss": [
+"A substantial addition to or augmentation of the content of something, especially something which is unfinished or incomplete."
+]
+},
+{
+"id": "stand-fast_idiom",
+"w": "stand fast",
+"kind": "idiom",
+"gloss": [
+"Synonym of stand firm."
+]
+},
+{
+"id": "sit-one-s-ass-down_idiom",
+"w": "sit one's ass down",
+"kind": "idiom",
+"gloss": [
+"A rude and vulgar directive requesting someone to take a seat."
+]
+},
+{
+"id": "beat-like-a-jungle-drum_idiom",
+"w": "beat like a jungle drum",
+"kind": "idiom",
+"gloss": [
+"Of a heart, to beat very fast, usually because of strong emotions."
+]
+},
+{
+"id": "catch-a-packet_idiom",
+"w": "catch a packet",
+"kind": "idiom",
+"gloss": [
+"To be fired upon."
+]
+},
+{
+"id": "everything-one-touches-turns-to-gold_idiom",
+"w": "everything one touches turns to gold",
+"kind": "idiom",
+"gloss": [
+"Everything someone uses or does succeeds or becomes better."
+]
+},
+{
+"id": "everything-one-touches-turns-to-shit_idiom",
+"w": "everything one touches turns to shit",
+"kind": "idiom",
+"gloss": [
+"Everything someone uses or does fails or becomes worse."
+]
+},
+{
+"id": "shit-on-toast_idiom",
+"w": "shit on toast",
+"kind": "idiom",
+"gloss": [
+"Vegemite on toast."
+]
+},
+{
+"id": "on-eternal-patrol_idiom",
+"w": "on eternal patrol",
+"kind": "idiom",
+"gloss": [
+"Lost at sea."
+]
+},
+{
+"id": "give-someone-their-cards_idiom",
+"w": "give someone their cards",
+"kind": "idiom",
+"gloss": [
+"To dismiss someone from employment; to fire or make redundant."
+]
+},
+{
+"id": "hand-someone-their-cards_idiom",
+"w": "hand someone their cards",
+"kind": "idiom",
+"gloss": [
+"To dismiss someone from employment; to fire or make redundant."
+]
+},
+{
+"id": "knock-on-heaven-s-door_idiom",
+"w": "knock on heaven's door",
+"kind": "idiom",
+"gloss": [
+"To die or be close to death."
+]
+},
+{
+"id": "sleeveless-errand_idiom",
+"w": "sleeveless errand",
+"kind": "idiom",
+"gloss": [
+"Synonym of fool's errand."
+]
+},
+{
+"id": "dash-someone-s-hopes_idiom",
+"w": "dash someone's hopes",
+"kind": "idiom",
+"gloss": [
+"To undercut or undermine someone's dreams or aspirations."
+]
+},
+{
+"id": "talk-to-god_idiom",
+"w": "talk to God",
+"kind": "idiom",
+"gloss": [
+"To pray"
+]
+},
+{
+"id": "go-to-prestwich_idiom",
+"w": "go to Prestwich",
+"kind": "idiom",
+"gloss": [
+"To go mad."
+]
+},
+{
+"id": "not-look-a-day-over_idiom",
+"w": "not look a day over",
+"kind": "idiom",
+"gloss": [
+"To appear to be no older chronologically than a certain age."
+]
+},
+{
+"id": "tickle-the-ear_idiom",
+"w": "tickle the ear",
+"kind": "idiom",
+"gloss": [
+"To flatter someone."
+]
+},
+{
+"id": "pull-the-ladder-up-behind-oneself_idiom",
+"w": "pull the ladder up behind oneself",
+"kind": "idiom",
+"gloss": [
+"To prevent others from attaining or benefiting from the same advantages, opportunities, or rights as oneself."
+]
+},
+{
+"id": "don-t-call-me-sir-i-work-for-a-living_idiom",
+"w": "don't call me sir, I work for a living",
+"kind": "idiom",
+"gloss": [
+"Used by senior enlisted military personnel to indicate that they are not commissioned officers."
+]
+},
+{
+"id": "wake-up-one-day_idiom",
+"w": "wake up one day",
+"kind": "idiom",
+"gloss": [
+"To undergo an overnight change, often an unplanned one (used with and)."
+]
+},
+{
+"id": "some-pumpkins_idiom",
+"w": "some pumpkins",
+"kind": "idiom",
+"gloss": [
+"A person or thing of consequence."
+]
+},
+{
+"id": "where-s-the-lie_idiom",
+"w": "where's the lie",
+"kind": "idiom",
+"gloss": [
+"Said in response to an undeniable or axiomatic truth."
+]
+},
+{
+"id": "your-boy_idiom",
+"w": "your boy",
+"kind": "idiom",
+"gloss": [
+"I, me, or myself; yours truly."
+]
+},
+{
+"id": "mister-wrong_idiom",
+"w": "Mister Wrong",
+"kind": "idiom",
+"gloss": [
+"An unsuitable male companion, especially a husband."
+]
+},
+{
+"id": "rush-to-judgement_idiom",
+"w": "rush to judgement",
+"kind": "idiom",
+"gloss": [
+"Synonym of jump to conclusions"
+]
+},
+{
+"id": "take-great-pains_idiom",
+"w": "take great pains",
+"kind": "idiom",
+"gloss": [
+"To take pains (try hard) to an especially high degree; (loosely) to take pains."
+]
+},
+{
+"id": "take-out-in-trade_idiom",
+"w": "take out in trade",
+"kind": "idiom",
+"gloss": [
+"To accept repayment of a debt in the goods or services in which the debtor deals, rather than in money."
+]
+},
+{
+"id": "chill-to-the-bone_idiom",
+"w": "chill to the bone",
+"kind": "idiom",
+"gloss": [
+"To make someone extremely cold, or to be extremely cold."
+]
+},
+{
+"id": "a-little-of-something-goes-a-long-way_idiom",
+"w": "a little of something goes a long way",
+"kind": "idiom",
+"gloss": [
+"Only a small amount of something is usually required to produce a great effect."
+]
+},
+{
+"id": "keep-it-moving_idiom",
+"w": "keep it moving",
+"kind": "idiom",
+"gloss": [
+"To continue or advance notwithstanding any issue or obstacle."
+]
+},
+{
+"id": "act-one-s-age-not-one-s-shoe-size_idiom",
+"w": "act one's age, not one's shoe size",
+"kind": "idiom",
+"gloss": [
+"Synonym of act one's age (“to behave in a mature manner; to avoid being childish”)."
+]
+},
+{
+"id": "feathered-friend_idiom",
+"w": "feathered friend",
+"kind": "idiom",
+"gloss": [
+"A bird."
+]
+},
+{
+"id": "catch-a-break_idiom",
+"w": "catch a break",
+"kind": "idiom",
+"gloss": [
+"To experience the minimal amount of good luck or a favorable outcome."
+]
+},
+{
+"id": "rip-off-the-band-aid_idiom",
+"w": "rip off the band-aid",
+"kind": "idiom",
+"gloss": [
+"To perform a painful or unpleasant, but necessary, action quickly so as to minimize the pain or fear associated with it."
+]
+},
+{
+"id": "take-a-cotton-to_idiom",
+"w": "take a cotton to",
+"kind": "idiom",
+"gloss": [
+"Synonym of take a shine to (“to become fond of something”)."
+]
+},
+{
+"id": "force-down-someone-s-throat_idiom",
+"w": "force down someone's throat",
+"kind": "idiom",
+"gloss": [
+"Synonym of shove something down someone's throat."
+]
+},
+{
+"id": "ram-something-down-someone-s-throat_idiom",
+"w": "ram something down someone's throat",
+"kind": "idiom",
+"gloss": [
+"To shove something down someone's throat."
+]
+},
+{
+"id": "sell-dearly_idiom",
+"w": "sell dearly",
+"kind": "idiom",
+"gloss": [
+"To make one's opponent pay a very high price to defeat or obtain (a person, unit, vehicle, or territory)."
+]
+},
+{
+"id": "small-dick-energy_idiom",
+"w": "small dick energy",
+"kind": "idiom",
+"gloss": [
+"A lack of self-confidence; timidity, diffidence."
+]
+},
+{
+"id": "throw-spaghetti-at-the-wall_idiom",
+"w": "throw spaghetti at the wall",
+"kind": "idiom",
+"gloss": [
+"To make a large amount of attempts or guesses, with the hope that one of them will be successful."
+]
+},
+{
+"id": "tear-up-the-dance-floor_idiom",
+"w": "tear up the dance floor",
+"kind": "idiom",
+"gloss": [
+"To engage vigorously in dancing."
+]
+},
+{
+"id": "come-from-a-cracker-jack-box_idiom",
+"w": "come from a Cracker Jack box",
+"kind": "idiom",
+"gloss": [
+"To obtain or retrieve something that is useless, cheap or fake."
+]
+},
+{
+"id": "that-dog-don-t-run_idiom",
+"w": "that dog don't run",
+"kind": "idiom",
+"gloss": [
+"An expression of disapproval or disbelief."
+]
+},
+{
+"id": "play-one-s-part_idiom",
+"w": "play one's part",
+"kind": "idiom",
+"gloss": [
+"Synonym of play a part."
+]
+},
+{
+"id": "comedy-gold_idiom",
+"w": "comedy gold",
+"kind": "idiom",
+"gloss": [
+"Something that is very funny or humorous."
+]
+}
+]

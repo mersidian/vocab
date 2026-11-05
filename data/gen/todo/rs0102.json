@@ -1,0 +1,824 @@
+[
+{
+"id": "finger-on-the-pulse_idiom",
+"w": "finger on the pulse",
+"kind": "idiom",
+"gloss": [
+"An active interest in the latest developments (of some topic)."
+]
+},
+{
+"id": "of-a-piece_idiom",
+"w": "of a piece",
+"kind": "idiom",
+"gloss": [
+"Of the same kind.",
+"Used other than figuratively or idiomatically: see of, a, piece."
+]
+},
+{
+"id": "far-post_idiom",
+"w": "far post",
+"kind": "idiom",
+"gloss": [
+"The goalpost furthest from where a cross is made."
+]
+},
+{
+"id": "head-of-steam_idiom",
+"w": "head of steam",
+"kind": "idiom",
+"gloss": [
+"A significant amount of energy, vigour or momentum, sufficient to make progress or succeed in a task.",
+"Used other than figuratively or idiomatically: see head, steam."
+]
+},
+{
+"id": "go-over-someone-s-head_idiom",
+"w": "go over someone's head",
+"kind": "idiom",
+"gloss": [
+"To take up an issue with another person's boss or other superior rather than beginning or continuing to deal with the original person.",
+"To escape someone's comprehension."
+]
+},
+{
+"id": "take-matters-into-one-s-own-hands_idiom",
+"w": "take matters into one's own hands",
+"kind": "idiom",
+"gloss": [
+"To deal with a problem alone instead of waiting on others (often persons who are responsible and have failed to deal with the issue)."
+]
+},
+{
+"id": "bright-side_idiom",
+"w": "bright side",
+"kind": "idiom",
+"gloss": [
+"A consoling aspect of a difficult situation."
+]
+},
+{
+"id": "cut-to-pieces_idiom",
+"w": "cut to pieces",
+"kind": "idiom",
+"gloss": [
+"To cut, chop, slice etc. so as to form smaller pieces.",
+"To utterly defeat or overwhelm."
+]
+},
+{
+"id": "borrowed-time_idiom",
+"w": "borrowed time",
+"kind": "idiom",
+"gloss": [
+"A period of time whose precise duration is not known but which can be expected to be quite limited, and at the end of which one's situation, benefits, or opportunities will be entirely terminated.",
+"A length of time whose duration has traditionally expired, but which continues nonetheless."
+]
+},
+{
+"id": "turn-on-one-s-heel_idiom",
+"w": "turn on one's heel",
+"kind": "idiom",
+"gloss": [
+"To suddenly turn away from someone or something in order to depart rapidly, especially as expressive of haughtiness, disapproval, or evasiveness."
+]
+},
+{
+"id": "outpope-the-pope_idiom",
+"w": "outpope the Pope",
+"kind": "idiom",
+"gloss": [
+"To act as a more authentic member of a group than one who is actually a member of the group."
+]
+},
+{
+"id": "turn-someone-s-head_idiom",
+"w": "turn someone's head",
+"kind": "idiom",
+"gloss": [
+"To influence someone in a manner that significantly changes his or her behavior.",
+"To attract someone's romantic interest."
+]
+},
+{
+"id": "throw-good-money-after-bad_idiom",
+"w": "throw good money after bad",
+"kind": "idiom",
+"gloss": [
+"To waste money in a fruitless attempt to recoup losses previously incurred."
+]
+},
+{
+"id": "set-the-bar_idiom",
+"w": "set the bar",
+"kind": "idiom",
+"gloss": [
+"To set specific standards or expectations."
+]
+},
+{
+"id": "take-for-a-spin_idiom",
+"w": "take for a spin",
+"kind": "idiom",
+"gloss": [
+"To test or try out something, especially an automobile.",
+"To take, as a companion, for a drive in a motor vehicle."
+]
+},
+{
+"id": "diminishing-returns_idiom",
+"w": "diminishing returns",
+"kind": "idiom",
+"gloss": [
+"A condition in which additional inputs into an organization, project or process produce progressively fewer or lower-quality additional outputs, and may, in extreme cases, cause the total quantity or quality of outputs to decrease."
+]
+},
+{
+"id": "bat-one-s-eyes_idiom",
+"w": "bat one's eyes",
+"kind": "idiom",
+"gloss": [
+"To signal or feign by fluttering one's eyelids, as romantic interest."
+]
+},
+{
+"id": "one-of-those-things_idiom",
+"w": "one of those things",
+"kind": "idiom",
+"gloss": [
+"An unfortunate, but unavoidable, event.",
+"A strange or surprising event for which an explanation is unavailable or not worth pursuing."
+]
+},
+{
+"id": "know-which-end-is-up_idiom",
+"w": "know which end is up",
+"kind": "idiom",
+"gloss": [
+"To possess sound judgment or common sense; to have a clear understanding of a situation."
+]
+},
+{
+"id": "whiskey-dick_idiom",
+"w": "whiskey dick",
+"kind": "idiom",
+"gloss": [
+"Impotence caused by heavy drinking."
+]
+},
+{
+"id": "breathe-a-word_idiom",
+"w": "breathe a word",
+"kind": "idiom",
+"gloss": [
+"To divulge even part of a secret (usually used with a negative)."
+]
+},
+{
+"id": "butter-one-s-bread-on-both-sides_idiom",
+"w": "butter one's bread on both sides",
+"kind": "idiom",
+"gloss": [
+"To profit from two things at the same time, especially when those things seem contradictory or incompatible."
+]
+},
+{
+"id": "some-old_idiom",
+"w": "some old",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see some, old.",
+"Some, some unspecified or yet-undetermined one (especially for emphasis)."
+]
+},
+{
+"id": "back-the-right-horse_idiom",
+"w": "back the right horse",
+"kind": "idiom",
+"gloss": [
+"To support someone who will succeed."
+]
+},
+{
+"id": "one-s-heart-in-one-s-mouth_idiom",
+"w": "one's heart in one's mouth",
+"kind": "idiom",
+"gloss": [
+"A state of nervousness."
+]
+},
+{
+"id": "build-bridges_idiom",
+"w": "build bridges",
+"kind": "idiom",
+"gloss": [
+"Often followed by between or to: to establish friendly relations or links."
+]
+},
+{
+"id": "do-one-s-business_idiom",
+"w": "do one's business",
+"kind": "idiom",
+"gloss": [
+"Especially of a house pet: to defecate or urinate."
+]
+},
+{
+"id": "pulling-power_idiom",
+"w": "pulling power",
+"kind": "idiom",
+"gloss": [
+"A person's ability to attract other people sexually.",
+"Used other than figuratively or idiomatically: see pulling, power. (capacity to exert power in a physical pull)"
+]
+},
+{
+"id": "dwarf-standing-on-the-shoulders-of-giants_idiom",
+"w": "dwarf standing on the shoulders of giants",
+"kind": "idiom",
+"gloss": [
+"One who discovers by building on previous discoveries."
+]
+},
+{
+"id": "get-some-air_idiom",
+"w": "get some air",
+"kind": "idiom",
+"gloss": [
+"To invigorate oneself by breathing refreshing outdoor air, especially after departing from a building or other enclosed space for this purpose."
+]
+},
+{
+"id": "draw-a-straight-furrow_idiom",
+"w": "draw a straight furrow",
+"kind": "idiom",
+"gloss": [
+"To live correctly or ethically, without deviating from the right line of duty."
+]
+},
+{
+"id": "rough-sleeper_idiom",
+"w": "rough sleeper",
+"kind": "idiom",
+"gloss": [
+"A homeless person who sleeps outdoors."
+]
+},
+{
+"id": "stand-trial_idiom",
+"w": "stand trial",
+"kind": "idiom",
+"gloss": [
+"To be put on trial in a court of law; go on trial.",
+"To sustain the trial or examination of a cause; not to give up without trial."
+]
+},
+{
+"id": "speak-someone-s-language_idiom",
+"w": "speak someone's language",
+"kind": "idiom",
+"gloss": [
+"To speak about concerns, feelings, ideas, etc. which someone understands well and can relate to intimately."
+]
+},
+{
+"id": "let-someone-down-gently_idiom",
+"w": "let someone down gently",
+"kind": "idiom",
+"gloss": [
+"To reject or refuse someone in a way that avoids causing hurt or disappointment."
+]
+},
+{
+"id": "know-one-s-ass-from-a-hole-in-the-ground_idiom",
+"w": "know one's ass from a hole in the ground",
+"kind": "idiom",
+"gloss": [
+"To have an adequate level of knowledge or skill; to understand what one is doing or talking about."
+]
+},
+{
+"id": "rubber-room_idiom",
+"w": "rubber room",
+"kind": "idiom",
+"gloss": [
+"A cell lined with cushions used for confinement of a mentally disturbed person.",
+"Especially in New York City, a temporary workplace assigned to a teacher who is not permitted to teach in a classroom because he or she is under disciplinary review."
+]
+},
+{
+"id": "fiddle-while-rome-burns_idiom",
+"w": "fiddle while Rome burns",
+"kind": "idiom",
+"gloss": [
+"To neglect helping when one’s time is needed most; to ignore the major problem at hand (whilst doing something less important); to be idle, inactive, or uninterested in a time of great need."
+]
+},
+{
+"id": "detective-work_idiom",
+"w": "detective work",
+"kind": "idiom",
+"gloss": [
+"Investigative research."
+]
+},
+{
+"id": "creature-of-habit_idiom",
+"w": "creature of habit",
+"kind": "idiom",
+"gloss": [
+"One who is prone to routine."
+]
+},
+{
+"id": "step-up-one-s-game_idiom",
+"w": "step up one's game",
+"kind": "idiom",
+"gloss": [
+"To improve one's performance, or the quality of one's work."
+]
+},
+{
+"id": "in-someone-s-pocket_idiom",
+"w": "in someone's pocket",
+"kind": "idiom",
+"gloss": [
+"Receiving money from, and under the influence of, a person or group of people, with the expectation that a favor or advantage will be proffered in return."
+]
+},
+{
+"id": "friends-in-high-places_idiom",
+"w": "friends in high places",
+"kind": "idiom",
+"gloss": [
+"Friends who have authority or influence and who can ensure that one's interests will be protected or furthered."
+]
+},
+{
+"id": "make-a-better-door-than-a-window_idiom",
+"w": "make a better door than a window",
+"kind": "idiom",
+"gloss": [
+"To obstruct someone's view, especially as a result of thoughtlessness."
+]
+},
+{
+"id": "kiddie-table_idiom",
+"w": "kiddie table",
+"kind": "idiom",
+"gloss": [
+"At family events, the dining table where children are seated together, separate from the table(s) reserved for adults.",
+"The gathering place, forum, or venue assigned to less prominent or less capable participants in an event."
+]
+},
+{
+"id": "element-of-surprise_idiom",
+"w": "element of surprise",
+"kind": "idiom",
+"gloss": [
+"The strategic advantage afforded to a party when its opposition may be caught by surprise."
+]
+},
+{
+"id": "eyes-on-the-ground_idiom",
+"w": "eyes on the ground",
+"kind": "idiom",
+"gloss": [
+"One or more observers in an area of interest.",
+"Gaze aimed at the ground."
+]
+},
+{
+"id": "snowed-under_idiom",
+"w": "snowed under",
+"kind": "idiom",
+"gloss": [
+"Having a lot of things to do, usually work-related; tied up."
+]
+},
+{
+"id": "at-each-other-s-throats_idiom",
+"w": "at each other's throats",
+"kind": "idiom",
+"gloss": [
+"In mutual conflict."
+]
+},
+{
+"id": "be-a-hundred-years-too-early_idiom",
+"w": "be a hundred years too early",
+"kind": "idiom",
+"gloss": [
+"To be so immature and unprepared as to have no hope of achieving an accomplishment."
+]
+},
+{
+"id": "beat-as-one_idiom",
+"w": "beat as one",
+"kind": "idiom",
+"gloss": [
+"To share the same feelings."
+]
+},
+{
+"id": "save-the-furniture_idiom",
+"w": "save the furniture",
+"kind": "idiom",
+"gloss": [
+"To salvage something positive from a calamitous situation, especially one involving the reputation or fate of a political party."
+]
+},
+{
+"id": "take-to-the-bank_idiom",
+"w": "take to the bank",
+"kind": "idiom",
+"gloss": [
+"To utterly trust, believe, or rely on."
+]
+},
+{
+"id": "heart-balm_idiom",
+"w": "heart balm",
+"kind": "idiom",
+"gloss": [
+"Something that soothes a person's fears or emotions.",
+"A fine for a breach of promise (to marry)."
+]
+},
+{
+"id": "catch-one-s-death_idiom",
+"w": "catch one's death",
+"kind": "idiom",
+"gloss": [
+"To contract a serious illness, especially a nasty cold or other respiratory ailment and especially as a result of exposure to wet or chilly weather."
+]
+},
+{
+"id": "in-the-flower-of-one-s-youth_idiom",
+"w": "in the flower of one's youth",
+"kind": "idiom",
+"gloss": [
+"When one was young and happy."
+]
+},
+{
+"id": "sing-a-different-tune_idiom",
+"w": "sing a different tune",
+"kind": "idiom",
+"gloss": [
+"To hold a different opinion or appreciation (about something); to possess a new, changed, or regenerated mindset, usually for the better."
+]
+},
+{
+"id": "where-s-the-fire_idiom",
+"w": "where's the fire",
+"kind": "idiom",
+"gloss": [
+"What's the big rush?"
+]
+},
+{
+"id": "someone-s-jaw-dropped_idiom",
+"w": "someone's jaw dropped",
+"kind": "idiom",
+"gloss": [
+"somebody was very surprised."
+]
+},
+{
+"id": "straighten-up-and-fly-right_idiom",
+"w": "straighten up and fly right",
+"kind": "idiom",
+"gloss": [
+"To start behaving properly; get one's act together."
+]
+},
+{
+"id": "whistle-in-the-wind_idiom",
+"w": "whistle in the wind",
+"kind": "idiom",
+"gloss": [
+"To attempt something that is futile; to say something that is not heeded."
+]
+},
+{
+"id": "lucky-star_idiom",
+"w": "lucky star",
+"kind": "idiom",
+"gloss": [
+"Something that appears to give a person luck."
+]
+},
+{
+"id": "bandwagon-fan_idiom",
+"w": "bandwagon fan",
+"kind": "idiom",
+"gloss": [
+"A fan who has shown no past loyalty to a team and supports them all because they are actively succeeding or trendy."
+]
+},
+{
+"id": "rise-with-the-lark_idiom",
+"w": "rise with the lark",
+"kind": "idiom",
+"gloss": [
+"To be awake and out of bed early in the morning."
+]
+},
+{
+"id": "shed-blood_idiom",
+"w": "shed blood",
+"kind": "idiom",
+"gloss": [
+"To kill or wound, or be wounded or killed, in violence."
+]
+},
+{
+"id": "dig-a-hole-for-oneself_idiom",
+"w": "dig a hole for oneself",
+"kind": "idiom",
+"gloss": [
+"To take an action or create a situation from which it is difficult to extricate."
+]
+},
+{
+"id": "go-one-s-own-way_idiom",
+"w": "go one's own way",
+"kind": "idiom",
+"gloss": [
+"To act on one's own or according to one's own wishes, without regard of the advice of others."
+]
+},
+{
+"id": "curiouser-and-curiouser_idiom",
+"w": "curiouser and curiouser",
+"kind": "idiom",
+"gloss": [
+"Used to describe or react to an increasingly mysterious or peculiar situation."
+]
+},
+{
+"id": "fist-magnet_idiom",
+"w": "fist magnet",
+"kind": "idiom",
+"gloss": [
+"Someone who makes others want to hit them, typically through being annoying or otherwise unpleasant."
+]
+},
+{
+"id": "see-for-oneself_idiom",
+"w": "see for oneself",
+"kind": "idiom",
+"gloss": [
+"To confirm a doubted claim by directly examining it."
+]
+},
+{
+"id": "prepare-the-ground_idiom",
+"w": "prepare the ground",
+"kind": "idiom",
+"gloss": [
+"To carry out any preliminary work that will enable something to occur."
+]
+},
+{
+"id": "at-a-low-ebb_idiom",
+"w": "at a low ebb",
+"kind": "idiom",
+"gloss": [
+"At a low point; in a poor state; in a state of decline or depression."
+]
+},
+{
+"id": "release-the-kraken_idiom",
+"w": "release the kraken",
+"kind": "idiom",
+"gloss": [
+"To unleash a greatly destructive force.",
+"Used other than figuratively or idiomatically: see release, Kraken."
+]
+},
+{
+"id": "orange-wine_idiom",
+"w": "orange wine",
+"kind": "idiom",
+"gloss": [
+"A type of wine made from white wine grapes whose skins are not removed.",
+"Used other than figuratively or idiomatically: see orange, wine: especially, wine made from oranges (a citrus fruit)."
+]
+},
+{
+"id": "built-different_idiom",
+"w": "built different",
+"kind": "idiom",
+"gloss": [
+"Able to do things which others cannot; extremely talented or unusual.",
+"Used other than figuratively or idiomatically: see built, different."
+]
+},
+{
+"id": "in-diapers_idiom",
+"w": "in diapers",
+"kind": "idiom",
+"gloss": [
+"In the very early stages of development.",
+"Used other than figuratively or idiomatically: wearing a diaper, or needing to wear diapers."
+]
+},
+{
+"id": "mixed-herbs_idiom",
+"w": "mixed herbs",
+"kind": "idiom",
+"gloss": [
+"A common mix of different dried herbs for general culinary use, containing some or all of basil, sage, rosemary, marjoram, oregano, thyme, and parsley."
+]
+},
+{
+"id": "fair-share_idiom",
+"w": "fair share",
+"kind": "idiom",
+"gloss": [
+"An equitable or reasonable portion, especially in regards to contributions towards a particular duty, or the dividends thereof.",
+"A significant amount, often implied to be excessive or inordinate; a great deal of something."
+]
+},
+{
+"id": "call-someone-every-name-in-the-book_idiom",
+"w": "call someone every name in the book",
+"kind": "idiom",
+"gloss": [
+"To call someone many abusive names."
+]
+},
+{
+"id": "like-a-man-possessed_idiom",
+"w": "like a man possessed",
+"kind": "idiom",
+"gloss": [
+"In an energetic or uncontrolled way."
+]
+},
+{
+"id": "throw-overboard_idiom",
+"w": "throw overboard",
+"kind": "idiom",
+"gloss": [
+"To throw off a boat into the water; to jettison",
+"To reject or expel"
+]
+},
+{
+"id": "not-to-brag_idiom",
+"w": "not to brag",
+"kind": "idiom",
+"gloss": [
+"Prepended to praise of oneself or one's own doings, as a form of modesty."
+]
+},
+{
+"id": "hold-a-grudge_idiom",
+"w": "hold a grudge",
+"kind": "idiom",
+"gloss": [
+"To stay angry (at someone or something)."
+]
+},
+{
+"id": "on-the-game_idiom",
+"w": "on the game",
+"kind": "idiom",
+"gloss": [
+"Working as a prostitute."
+]
+},
+{
+"id": "bean-counter_idiom",
+"w": "bean counter",
+"kind": "idiom",
+"gloss": [
+"A person who is excessively interested in controlling or reducing expenses, increasing profits, or in quantitative details in general."
+]
+},
+{
+"id": "at-the-best-of-times_idiom",
+"w": "at the best of times",
+"kind": "idiom",
+"gloss": [
+"Even under the most favourable conditions."
+]
+},
+{
+"id": "hit-the-bottle_idiom",
+"w": "hit the bottle",
+"kind": "idiom",
+"gloss": [
+"To drink alcohol steadily and in excess, particularly in response to a setback."
+]
+},
+{
+"id": "twenty-twenty-hindsight_idiom",
+"w": "twenty-twenty hindsight",
+"kind": "idiom",
+"gloss": [
+"A perfect understanding of events only after they have happened."
+]
+},
+{
+"id": "fall-off-a-truck_idiom",
+"w": "fall off a truck",
+"kind": "idiom",
+"gloss": [
+"Of an item of merchandise, to come into a person's possession without having been paid for; to be acquired illegally; to have been stolen."
+]
+},
+{
+"id": "mind-one-s-ps-and-qs_idiom",
+"w": "mind one's ps and qs",
+"kind": "idiom",
+"gloss": [
+"To be very careful to behave correctly."
+]
+},
+{
+"id": "gray-hat_idiom",
+"w": "gray hat",
+"kind": "idiom",
+"gloss": [
+"A morally ambiguous character; an antihero.",
+"A hybrid between a white hat and a black hat hacker, who hacks for no personal gain, and does not have malicious intentions, but does sometimes commit crimes."
+]
+},
+{
+"id": "hand-waving_idiom",
+"w": "hand waving",
+"kind": "idiom",
+"gloss": [
+"Discussion or argumentation involving approximation, vagueness, educated guessing, or the attempt to explain or excuse vagaries."
+]
+},
+{
+"id": "sticking-point_idiom",
+"w": "sticking point",
+"kind": "idiom",
+"gloss": [
+"A disputed issue or state of affairs that causes an interruption or outright impasse in progress towards some goal or resolution, especially in negotiation or argumentation."
+]
+},
+{
+"id": "breathe-easy_idiom",
+"w": "breathe easy",
+"kind": "idiom",
+"gloss": [
+"To relax or feel secure about something."
+]
+},
+{
+"id": "have-the-hots-for_idiom",
+"w": "have the hots for",
+"kind": "idiom",
+"gloss": [
+"To be attracted (sexually or romantically) to (someone); to fancy someone."
+]
+},
+{
+"id": "at-a-moment-s-notice_idiom",
+"w": "at a moment's notice",
+"kind": "idiom",
+"gloss": [
+"Immediately; instantaneously; without need of warning."
+]
+},
+{
+"id": "greasy-spoon_idiom",
+"w": "greasy spoon",
+"kind": "idiom",
+"gloss": [
+"An inexpensive diner or other informal restaurant, especially one specializing in frying or grilling."
+]
+},
+{
+"id": "try-one-s-hand_idiom",
+"w": "try one's hand",
+"kind": "idiom",
+"gloss": [
+"To attempt a skill, craft, trade, or action, possibly for the first time."
+]
+},
+{
+"id": "get-one-s-claws-into_idiom",
+"w": "get one's claws into",
+"kind": "idiom",
+"gloss": [
+"To have a controlling influence over."
+]
+},
+{
+"id": "pop-the-question_idiom",
+"w": "pop the question",
+"kind": "idiom",
+"gloss": [
+"To propose marriage."
+]
+}
+]

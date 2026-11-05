@@ -1,0 +1,100 @@
+{"id":"casualty_x","th":"ผู้บาดเจ็บหรือเสียชีวิต; ผู้ประสบภัย","ex":"There were many casualties after the earthquake.","exTh":"มีผู้บาดเจ็บและเสียชีวิตจำนวนมากหลังแผ่นดินไหว","pos":"noun"}
+{"id":"epidemic_x","th":"โรคระบาด; การแพร่ระบาด","ex":"The flu epidemic closed many schools.","exTh":"โรคไข้หวัดใหญ่ระบาดทำให้โรงเรียนหลายแห่งต้องปิด","pos":"noun"}
+{"id":"contour_x","th":"เส้นขอบ; รูปทรงภายนอก; เส้นชั้นความสูง","ex":"The map shows the contour of the hills.","exTh":"แผนที่แสดงเส้นชั้นความสูงของเนินเขา","pos":"noun"}
+{"id":"buck_x","th":"เงินดอลลาร์ (ภาษาพูด); กวางตัวผู้","ex":"This shirt only cost me ten bucks.","exTh":"เสื้อตัวนี้ราคาแค่สิบดอลลาร์เอง","pos":"noun","note":"ภาษาพูดแบบอเมริกัน; ความหมายดั้งเดิมคือสัตว์ตัวผู้ เช่น กวาง"}
+{"id":"fairness_x","th":"ความยุติธรรม; ความเป็นธรรม","ex":"Children care a lot about fairness.","exTh":"เด็กๆ ใส่ใจเรื่องความยุติธรรมมาก","pos":"noun"}
+{"id":"fraudulent_x","th":"หลอกลวง; ฉ้อโกง; ปลอม","ex":"The police caught him with a fraudulent passport.","exTh":"ตำรวจจับเขาได้พร้อมหนังสือเดินทางปลอม","pos":"adj"}
+{"id":"cardiovascular_x","th":"เกี่ยวกับหัวใจและหลอดเลือด","ex":"Running is good for cardiovascular health.","exTh":"การวิ่งดีต่อสุขภาพหัวใจและหลอดเลือด","pos":"adj"}
+{"id":"congressman_x","th":"สมาชิกสภาคองเกรส (ชาย); ส.ส. สหรัฐฯ","ex":"The congressman gave a speech about taxes.","exTh":"สมาชิกสภาคองเกรสกล่าวปราศรัยเรื่องภาษี","pos":"noun"}
+{"id":"fringe_x","th":"ชายผ้า; ขอบ; ส่วนรอบนอก","ex":"The scarf has a fringe at both ends.","exTh":"ผ้าพันคอมีชายครุยทั้งสองด้าน","pos":"noun"}
+{"id":"mainstream_x","th":"กระแสหลัก; ที่เป็นที่นิยมทั่วไป","ex":"That singer is now very mainstream.","exTh":"นักร้องคนนั้นตอนนี้เป็นที่นิยมแบบกระแสหลักแล้ว","pos":"adj"}
+{"id":"compartment_x","th":"ช่อง; ห้องแยก; ตู้โดยสาร","ex":"Put your bag in the overhead compartment.","exTh":"เอากระเป๋าของคุณใส่ในช่องเก็บของเหนือศีรษะ","pos":"noun"}
+{"id":"counselor_x","th":"ที่ปรึกษา; นักให้คำปรึกษา","ex":"The school counselor helped me choose a university.","exTh":"ที่ปรึกษาของโรงเรียนช่วยฉันเลือกมหาวิทยาลัย","pos":"noun","note":"สะกดแบบอังกฤษคือ counsellor"}
+{"id":"variant_x","th":"รูปแบบที่แตกต่าง; สายพันธุ์ย่อย; แบบอื่น","ex":"A new variant of the virus was found.","exTh":"พบไวรัสสายพันธุ์ย่อยใหม่","pos":"noun"}
+{"id":"marrow_x","th":"ไขกระดูก; น้ำเต้าชนิดหนึ่ง","ex":"The soup was made with bone marrow.","exTh":"ซุปนี้ทำจากไขกระดูก","pos":"noun"}
+{"id":"cervical_x","th":"เกี่ยวกับคอ; เกี่ยวกับปากมดลูก","ex":"She had a cervical cancer test at the clinic.","exTh":"เธอไปตรวจมะเร็งปากมดลูกที่คลินิก","pos":"adj"}
+{"id":"tort_x","th":"การละเมิด (ทางแพ่ง)","ex":"He sued the company under tort law.","exTh":"เขาฟ้องบริษัทตามกฎหมายละเมิด","pos":"noun","note":"คำศัพท์กฎหมาย"}
+{"id":"dragon_x","th":"มังกร","ex":"The children drew a picture of a dragon.","exTh":"เด็กๆ วาดภาพมังกร","pos":"noun"}
+{"id":"enlargement_x","th":"การขยาย; การทำให้ใหญ่ขึ้น; ภาพที่ขยาย","ex":"I asked for an enlargement of the photo.","exTh":"ฉันขอให้ขยายรูปภาพใบนี้","pos":"noun"}
+{"id":"poll_x","th":"การสำรวจความคิดเห็น; โพล; การลงคะแนนเสียง","ex":"A new poll shows people want cheaper bus tickets.","exTh":"โพลใหม่แสดงว่าประชาชนอยากได้ตั๋วรถเมล์ที่ถูกลง","pos":"noun"}
+{"id":"multitude_x","th":"จำนวนมาก; ฝูงชน; มวลชน","ex":"A multitude of people came to the festival.","exTh":"ผู้คนจำนวนมากมาที่เทศกาล","pos":"noun"}
+{"id":"asylum_x","th":"ที่ลี้ภัย; การขอลี้ภัย; สถานที่หลบภัย","ex":"He asked for asylum in a safe country.","exTh":"เขาขอลี้ภัยในประเทศที่ปลอดภัย","pos":"noun"}
+{"id":"iodine_x","th":"ไอโอดีน","ex":"Salt with iodine helps keep the thyroid healthy.","exTh":"เกลือผสมไอโอดีนช่วยให้ต่อมไทรอยด์แข็งแรง","pos":"noun"}
+{"id":"problematic_x","th":"เป็นปัญหา; ก่อปัญหา; น่ากังวล","ex":"The old software is problematic for new computers.","exTh":"ซอฟต์แวร์เก่าเป็นปัญหากับคอมพิวเตอร์รุ่นใหม่","pos":"adj"}
+{"id":"halt_x","th":"หยุด; ระงับ; ยุติ","ex":"The police halted traffic on the main road.","exTh":"ตำรวจหยุดการจราจรบนถนนสายหลัก","pos":"verb"}
+{"id":"neo_x","th":"ใหม่; แนวใหม่ (คำนำหน้า)","ex":"The building has a neo-classical style.","exTh":"อาคารนี้มีสไตล์นีโอคลาสสิก","pos":"adj","note":"มักใช้เป็นคำนำหน้า เช่น neo-classical"}
+{"id":"healthcare_x","th":"การดูแลสุขภาพ; บริการสาธารณสุข","ex":"Good healthcare is important for every country.","exTh":"การดูแลสุขภาพที่ดีสำคัญต่อทุกประเทศ","pos":"noun"}
+{"id":"creep_x","th":"คืบคลาน; ย่องเงียบ; ค่อยๆ เพิ่ม","ex":"The cat crept slowly toward the bird.","exTh":"แมวคืบคลานเข้าหานกอย่างช้าๆ","pos":"verb","note":"รูปผัน: crept, crept"}
+{"id":"lobe_x","th":"ติ่ง; พู (ของสมองหรือปอด); ติ่งหู","ex":"The frontal lobe of the brain controls planning.","exTh":"สมองกลีบหน้าควบคุมการวางแผน","pos":"noun"}
+{"id":"unjust_x","th":"ไม่ยุติธรรม; ไม่เป็นธรรม","ex":"The punishment was unjust and too harsh.","exTh":"การลงโทษครั้งนี้ไม่ยุติธรรมและรุนแรงเกินไป","pos":"adj"}
+{"id":"handful_x","th":"กำมือหนึ่ง; จำนวนเล็กน้อย; คนที่ดูแลยาก","ex":"Only a handful of people came to the meeting.","exTh":"มีเพียงไม่กี่คนที่มาประชุม","pos":"noun"}
+{"id":"repayment_x","th":"การชำระคืน; เงินที่จ่ายคืน","ex":"The monthly repayment on the loan is two hundred dollars.","exTh":"เงินผ่อนชำระเงินกู้รายเดือนคือสองร้อยดอลลาร์","pos":"noun"}
+{"id":"allegedly_x","th":"ถูกกล่าวหาว่า; ตามที่อ้าง","ex":"He allegedly stole money from the shop.","exTh":"เขาถูกกล่าวหาว่าขโมยเงินจากร้าน","pos":"adv"}
+{"id":"stance_x","th":"ท่าทาง; จุดยืน; ท่ายืน","ex":"The mayor has a clear stance on public transport.","exTh":"นายกเทศมนตรีมีจุดยืนชัดเจนเรื่องขนส่งสาธารณะ","pos":"noun"}
+{"id":"perpetual_x","th":"ตลอดไป; ไม่หยุดหย่อน; ถาวร","ex":"She lives in perpetual fear of failure.","exTh":"เธออยู่ท่ามกลางความกลัวความล้มเหลวอยู่ตลอดเวลา","pos":"adj"}
+{"id":"conduction_x","th":"การนำ (ความร้อนหรือไฟฟ้า); การส่งผ่าน","ex":"Metal is good at the conduction of heat.","exTh":"โลหะนำความร้อนได้ดี","pos":"noun"}
+{"id":"potter_x","th":"ช่างปั้นหม้อ; ช่างปั้นเซรามิก","ex":"The potter made a beautiful vase from clay.","exTh":"ช่างปั้นหม้อทำแจกันสวยงามจากดินเหนียว","pos":"noun"}
+{"id":"contingency_x","th":"เหตุที่อาจเกิดขึ้น; แผนสำรอง; เหตุไม่คาดฝัน","ex":"We have a contingency plan in case it rains.","exTh":"เรามีแผนสำรองไว้เผื่อฝนตก","pos":"noun"}
+{"id":"dilute_x","th":"ทำให้เจือจาง; ทำให้อ่อนลง","ex":"Dilute the juice with some water.","exTh":"เติมน้ำลงในน้ำผลไม้เพื่อให้เจือจาง","pos":"verb"}
+{"id":"precipitate_x","th":"ทำให้เกิดขึ้นอย่างฉับพลัน; ตกตะกอน","ex":"The news precipitated a crisis in the company.","exTh":"ข่าวนั้นทำให้บริษัทเกิดวิกฤตอย่างฉับพลัน","pos":"verb"}
+{"id":"ethanol_x","th":"เอทานอล; แอลกอฮอล์","ex":"Some cars can use fuel made with ethanol.","exTh":"รถบางคันใช้เชื้อเพลิงที่ผสมเอทานอลได้","pos":"noun"}
+{"id":"indifference_x","th":"ความเฉยเมย; ความไม่สนใจ","ex":"His indifference to the problem made her angry.","exTh":"ความเฉยเมยของเขาต่อปัญหาทำให้เธอโกรธ","pos":"noun"}
+{"id":"deployment_x","th":"การส่งกำลัง; การนำไปใช้; การติดตั้งระบบ","ex":"The deployment of new software took two days.","exTh":"การติดตั้งซอฟต์แวร์ใหม่ใช้เวลาสองวัน","pos":"noun"}
+{"id":"stationery_x","th":"เครื่องเขียน","ex":"I bought pens and paper at the stationery shop.","exTh":"ฉันซื้อปากกาและกระดาษที่ร้านเครื่องเขียน","pos":"noun","note":"อย่าสับสนกับ stationary (อยู่กับที่)"}
+{"id":"inward_x","th":"ภายใน; ที่มุ่งเข้าข้างใน","ex":"She felt a quiet inward joy.","exTh":"เธอรู้สึกปีติสุขเงียบๆ อยู่ภายในใจ","pos":"adj"}
+{"id":"cart_x","th":"รถเข็น; เกวียน; ตะกร้าสินค้า","ex":"He pushed the shopping cart down the aisle.","exTh":"เขาเข็นรถเข็นซื้อของไปตามทางเดิน","pos":"noun"}
+{"id":"resurrection_x","th":"การฟื้นคืนชีพ; การกลับมาอีกครั้ง","ex":"Easter celebrates the resurrection of Jesus.","exTh":"เทศกาลอีสเตอร์เฉลิมฉลองการฟื้นคืนพระชนม์ของพระเยซู","pos":"noun"}
+{"id":"workforce_x","th":"กำลังแรงงาน; พนักงานทั้งหมด","ex":"The company has a workforce of five hundred people.","exTh":"บริษัทมีพนักงานทั้งหมดห้าร้อยคน","pos":"noun"}
+{"id":"rupture_x","th":"การแตก; การฉีกขาด; การแตกหัก","ex":"A pipe rupture flooded the kitchen.","exTh":"ท่อแตกทำให้น้ำท่วมห้องครัว","pos":"noun"}
+{"id":"borrower_x","th":"ผู้กู้; ผู้ยืม","ex":"The bank checks every borrower carefully.","exTh":"ธนาคารตรวจสอบผู้กู้ทุกคนอย่างละเอียด","pos":"noun"}
+{"id":"embryo_x","th":"ตัวอ่อน; เอ็มบริโอ","ex":"An embryo grows quickly in the first weeks.","exTh":"ตัวอ่อนเติบโตเร็วในช่วงสัปดาห์แรกๆ","pos":"noun"}
+{"id":"slate_x","th":"หินชนวน; กระดานชนวน; รายชื่อผู้สมัคร","ex":"The old house has a slate roof.","exTh":"บ้านหลังเก่ามีหลังคาหินชนวน","pos":"noun"}
+{"id":"lag_x","th":"ล่าช้า; ตามหลัง; อาการหน่วง","ex":"Our team started to lag behind in the second half.","exTh":"ทีมของเราเริ่มตามหลังในครึ่งหลัง","pos":"verb","note":"ในเกมออนไลน์ lag คืออาการหน่วงของเครือข่าย"}
+{"id":"traction_x","th":"การยึดเกาะถนน; แรงดึง; ความนิยมที่เพิ่มขึ้น","ex":"Snow tires give better traction on icy roads.","exTh":"ยางสำหรับหิมะยึดเกาะถนนที่เป็นน้ำแข็งได้ดีกว่า","pos":"noun"}
+{"id":"legitimacy_x","th":"ความชอบธรรม; ความถูกต้องตามกฎหมาย","ex":"Many people questioned the legitimacy of the election.","exTh":"หลายคนตั้งคำถามถึงความชอบธรรมของการเลือกตั้ง","pos":"noun"}
+{"id":"capillary_x","th":"หลอดเลือดฝอย; เส้นเลือดฝอย","ex":"Oxygen passes through the capillary walls into the tissues.","exTh":"ออกซิเจนผ่านผนังหลอดเลือดฝอยเข้าสู่เนื้อเยื่อ","pos":"noun"}
+{"id":"arthritis_x","th":"โรคข้ออักเสบ","ex":"My grandmother has arthritis in her hands.","exTh":"ยายของฉันเป็นโรคข้ออักเสบที่มือ","pos":"noun"}
+{"id":"haul_x","th":"ลาก; ดึง; ขนส่ง","ex":"They hauled the heavy boat onto the beach.","exTh":"พวกเขาลากเรือหนักๆ ขึ้นหาด","pos":"verb"}
+{"id":"occupancy_x","th":"การเข้าพัก; การครอบครองพื้นที่; อัตราการเข้าพัก","ex":"Hotel occupancy is high during the holidays.","exTh":"อัตราการเข้าพักของโรงแรมสูงในช่วงวันหยุด","pos":"noun"}
+{"id":"token_x","th":"เหรียญ; โทเค็น; สัญลักษณ์","ex":"He gave her a small gift as a token of thanks.","exTh":"เขามอบของขวัญชิ้นเล็กๆ ให้เธอเป็นสัญลักษณ์ของความขอบคุณ","pos":"noun"}
+{"id":"intervene_x","th":"เข้าแทรกแซง; เข้ามาแทรก; ขัดจังหวะ","ex":"The teacher had to intervene in the fight.","exTh":"ครูต้องเข้าไปห้ามการทะเลาะวิวาท","pos":"verb"}
+{"id":"albeit_x","th":"ถึงแม้ว่า; แม้จะ","ex":"She finished the race, albeit very slowly.","exTh":"เธอวิ่งจบการแข่งขัน แม้จะช้ามากก็ตาม","pos":"conj","note":"ภาษาทางการ"}
+{"id":"reside_x","th":"อาศัยอยู่; พำนัก","ex":"Our grandparents reside in a small town.","exTh":"ปู่ย่าของเราอาศัยอยู่ในเมืองเล็กๆ","pos":"verb","note":"ภาษาทางการ"}
+{"id":"democrat_x","th":"ผู้นิยมประชาธิปไตย; สมาชิกพรรคเดโมแครต","ex":"My uncle is a democrat and votes every year.","exTh":"ลุงของฉันเป็นสมาชิกพรรคเดโมแครตและไปเลือกตั้งทุกปี","pos":"noun"}
+{"id":"confer_x","th":"ปรึกษา; หารือ; มอบ (ปริญญา)","ex":"The doctors conferred about the best treatment.","exTh":"หมอปรึกษากันเรื่องการรักษาที่ดีที่สุด","pos":"verb"}
+{"id":"diplomacy_x","th":"การทูต; การเจรจาอย่างมีชั้นเชิง; ไหวพริบ","ex":"The two countries solved the problem through diplomacy.","exTh":"สองประเทศแก้ปัญหาด้วยการทูต","pos":"noun"}
+{"id":"enact_x","th":"ตรากฎหมาย; บังคับใช้; แสดง","ex":"The government will enact a new law next year.","exTh":"รัฐบาลจะประกาศใช้กฎหมายใหม่ในปีหน้า","pos":"verb"}
+{"id":"innocence_x","th":"ความบริสุทธิ์; ความไร้เดียงสา; ความไม่มีความผิด","ex":"The man proved his innocence in court.","exTh":"ชายคนนั้นพิสูจน์ความบริสุทธิ์ของตนในศาล","pos":"noun"}
+{"id":"linguistics_x","th":"ภาษาศาสตร์","ex":"She studies linguistics at university.","exTh":"เธอเรียนภาษาศาสตร์ที่มหาวิทยาลัย","pos":"noun"}
+{"id":"foam_x","th":"ฟอง; โฟม; ฟองสบู่","ex":"The waves left white foam on the beach.","exTh":"คลื่นทิ้งฟองสีขาวไว้บนชายหาด","pos":"noun"}
+{"id":"mole_x","th":"ไฝ; ตัวตุ่น; สายลับฝังตัว","ex":"She has a small mole on her cheek.","exTh":"เธอมีไฝเม็ดเล็กๆ ที่แก้ม","pos":"noun"}
+{"id":"confrontation_x","th":"การเผชิญหน้า; การปะทะกัน","ex":"There was a confrontation between the two groups.","exTh":"เกิดการเผชิญหน้ากันระหว่างสองกลุ่ม","pos":"noun"}
+{"id":"commence_x","th":"เริ่ม; เริ่มต้น","ex":"The ceremony will commence at ten o'clock.","exTh":"พิธีจะเริ่มในเวลาสิบนาฬิกา","pos":"verb","note":"ภาษาทางการ"}
+{"id":"coupon_x","th":"คูปอง; บัตรส่วนลด","ex":"I used a coupon to get a cheaper pizza.","exTh":"ฉันใช้คูปองซื้อพิซซ่าในราคาถูกลง","pos":"noun"}
+{"id":"transcription_x","th":"การถอดความ; การถอดเสียง; ข้อความที่ถอดแล้ว","ex":"The transcription of the interview took three hours.","exTh":"การถอดเทปสัมภาษณ์ใช้เวลาสามชั่วโมง","pos":"noun"}
+{"id":"annals_x","th":"บันทึกเหตุการณ์ประจำปี; จดหมายเหตุ; ประวัติศาสตร์","ex":"His name is in the annals of the sport.","exTh":"ชื่อของเขาอยู่ในบันทึกประวัติศาสตร์ของกีฬานี้","pos":"noun","note":"มักใช้รูปพหูพจน์"}
+{"id":"unprecedented_x","th":"ที่ไม่เคยมีมาก่อน; ไร้แบบอย่าง","ex":"The city had an unprecedented amount of rain.","exTh":"เมืองนี้มีปริมาณฝนมากกว่าที่เคยมีมา","pos":"adj"}
+{"id":"incoming_x","th":"ที่เข้ามา; ที่กำลังมา; ที่จะมารับตำแหน่ง","ex":"I got an incoming call from my boss.","exTh":"ฉันมีสายเรียกเข้าจากเจ้านาย","pos":"adj"}
+{"id":"accomplishment_x","th":"ความสำเร็จ; ผลงาน","ex":"Finishing the marathon was a great accomplishment.","exTh":"การวิ่งมาราธอนจนจบเป็นความสำเร็จที่ยิ่งใหญ่","pos":"noun"}
+{"id":"reflex_x","th":"ปฏิกิริยาสะท้อนกลับ; การตอบสนองอัตโนมัติ","ex":"The doctor tapped my knee to test my reflex.","exTh":"หมอเคาะเข่าฉันเพื่อทดสอบปฏิกิริยาสะท้อน","pos":"noun"}
+{"id":"referral_x","th":"การส่งต่อ; ใบส่งตัว; การแนะนำ","ex":"I need a referral to see a heart doctor.","exTh":"ฉันต้องมีใบส่งตัวเพื่อพบแพทย์โรคหัวใจ","pos":"noun"}
+{"id":"disruption_x","th":"การหยุดชะงัก; การรบกวน; ความวุ่นวาย","ex":"The storm caused a disruption to train services.","exTh":"พายุทำให้บริการรถไฟหยุดชะงัก","pos":"noun"}
+{"id":"pact_x","th":"สนธิสัญญา; ข้อตกลง; สัญญาร่วมกัน","ex":"The two countries signed a peace pact.","exTh":"สองประเทศลงนามในสนธิสัญญาสันติภาพ","pos":"noun"}
+{"id":"rigorous_x","th":"เข้มงวด; รอบคอบ; เคร่งครัด","ex":"The test was rigorous, and only a few passed.","exTh":"การสอบเข้มงวดมาก มีเพียงไม่กี่คนที่ผ่าน","pos":"adj"}
+{"id":"fuck_x","th":"มีเพศสัมพันธ์ (คำหยาบ); คำสบถแสดงความโกรธ","ex":"He shouted a rude word when he dropped the box.","exTh":"เขาตะโกนคำหยาบเมื่อทำกล่องหล่น","pos":"verb","note":"คำหยาบคายมาก ไม่ควรใช้ในที่สุภาพหรือที่ทำงาน"}
+{"id":"dwell_x","th":"อาศัยอยู่; พำนัก; คิดวนเวียน","ex":"Don't dwell on your mistakes for too long.","exTh":"อย่าคิดวนเวียนอยู่กับความผิดพลาดของตัวเองนานเกินไป","pos":"verb","note":"มักใช้ dwell on แปลว่า คิดวนเวียน หรือ พูดถึงนานๆ"}
+{"id":"congestion_x","th":"ความแออัด; การจราจรติดขัด; อาการคัดจมูก","ex":"Traffic congestion is bad in the city center.","exTh":"การจราจรติดขัดหนักในใจกลางเมือง","pos":"noun"}
+{"id":"gut_x","th":"ลำไส้; ท้อง; สัญชาตญาณ","ex":"My gut feeling says that something is wrong.","exTh":"สัญชาตญาณของฉันบอกว่ามีอะไรผิดปกติ","pos":"noun"}
+{"id":"discretionary_x","th":"ตามดุลยพินิจ; ที่ใช้ได้ตามต้องการ","ex":"She spent her discretionary income on travel.","exTh":"เธอใช้เงินส่วนที่ใช้จ่ายได้อย่างอิสระไปกับการท่องเที่ยว","pos":"adj"}
+{"id":"ledger_x","th":"สมุดบัญชี; บัญชีแยกประเภท","ex":"The clerk wrote the payment in the ledger.","exTh":"เสมียนจดการจ่ายเงินลงในสมุดบัญชี","pos":"noun"}
+{"id":"skeletal_x","th":"เกี่ยวกับโครงกระดูก; ผอมแห้งเป็นโครง","ex":"The museum has a skeletal model of a dinosaur.","exTh":"พิพิธภัณฑ์มีโมเดลโครงกระดูกไดโนเสาร์","pos":"adj"}
+{"id":"mutation_x","th":"การกลายพันธุ์; การเปลี่ยนแปลง","ex":"A mutation in the gene caused the disease.","exTh":"การกลายพันธุ์ของยีนทำให้เกิดโรคนี้","pos":"noun"}
+{"id":"morphological_x","th":"เกี่ยวกับสัณฐานวิทยา; เกี่ยวกับรูปร่างโครงสร้าง","ex":"The study looked at morphological changes in the fish.","exTh":"การศึกษาดูการเปลี่ยนแปลงรูปร่างโครงสร้างของปลา","pos":"adj"}
+{"id":"sanctuary_x","th":"เขตอภัยทาน; ที่หลบภัย; สถานที่ศักดิ์สิทธิ์","ex":"The park is a sanctuary for wild elephants.","exTh":"สวนแห่งนี้เป็นเขตอภัยทานสำหรับช้างป่า","pos":"noun"}
+{"id":"intestine_x","th":"ลำไส้","ex":"Food goes into the small intestine after the stomach.","exTh":"อาหารเข้าสู่ลำไส้เล็กหลังจากกระเพาะ","pos":"noun"}
+{"id":"sexually_x","th":"ทางเพศ; ในทางเพศ","ex":"The disease is sexually transmitted.","exTh":"โรคนี้ติดต่อทางเพศสัมพันธ์","pos":"adv"}
+{"id":"digestion_x","th":"การย่อยอาหาร; ระบบย่อยอาหาร","ex":"Walking after dinner can help your digestion.","exTh":"การเดินหลังอาหารเย็นช่วยการย่อยอาหารได้","pos":"noun"}
+{"id":"anesthesia_x","th":"การดมยาสลบ; การระงับความรู้สึก; ยาชา","ex":"She was under anesthesia during the surgery.","exTh":"เธอถูกดมยาสลบระหว่างการผ่าตัด","pos":"noun","note":"สะกดแบบอังกฤษคือ anaesthesia"}
+{"id":"tier_x","th":"ระดับ; ชั้น; แถว","ex":"The stadium has three tiers of seats.","exTh":"สนามกีฬามีที่นั่งสามชั้น","pos":"noun"}
+{"id":"parity_x","th":"ความเท่าเทียมกัน; ความเสมอภาค; ค่าคู่คี่","ex":"The workers want pay parity with men.","exTh":"คนงานต้องการค่าจ้างที่เท่าเทียมกับผู้ชาย","pos":"noun"}
+{"id":"migrant_x","th":"ผู้ย้ายถิ่น; แรงงานย้ายถิ่น; นกอพยพ","ex":"Many migrant workers come here for jobs.","exTh":"แรงงานย้ายถิ่นจำนวนมากมาที่นี่เพื่อหางาน","pos":"noun"}

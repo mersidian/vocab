@@ -1,0 +1,100 @@
+{"id":"clock_noun","th":"นาฬิกา (ตั้งหรือแขวน)","ex":"The clock on the wall is five minutes slow.","exTh":"นาฬิกาบนผนังช้าไปห้านาที"}
+{"id":"excited_adj","th":"ตื่นเต้น; ดีใจ","ex":"The kids are excited about the trip.","exTh":"เด็กๆ ตื่นเต้นกับการไปเที่ยว"}
+{"id":"mom_noun","th":"แม่; คุณแม่","ex":"My mom makes the best soup.","exTh":"แม่ของฉันทำซุปอร่อยที่สุด","note":"ใช้ในอเมริกัน ส่วนอังกฤษใช้ mum"}
+{"id":"eighteen_num","th":"สิบแปด; 18","ex":"He is eighteen years old.","exTh":"เขาอายุสิบแปดปี"}
+{"id":"laugh_verb","th":"หัวเราะ","ex":"We laugh a lot when we are together.","exTh":"เราหัวเราะกันบ่อยเวลาอยู่ด้วยกัน"}
+{"id":"pink_adj","th":"สีชมพู; ชมพู","ex":"She has a pink bag.","exTh":"เธอมีกระเป๋าสีชมพู"}
+{"id":"sad_adj","th":"เศร้า; เสียใจ","ex":"I feel sad today.","exTh":"วันนี้ฉันรู้สึกเศร้า"}
+{"id":"theater_noun","th":"โรงละคร; โรงภาพยนตร์","ex":"We saw a play at the theater.","exTh":"เราไปดูละครเวทีที่โรงละคร","note":"สะกดแบบอังกฤษว่า theatre"}
+{"id":"smoking_noun","th":"การสูบบุหรี่","ex":"Smoking is not allowed here.","exTh":"ที่นี่ห้ามสูบบุหรี่"}
+{"id":"autumn_noun","th":"ฤดูใบไม้ร่วง","ex":"The leaves turn red in autumn.","exTh":"ใบไม้เปลี่ยนเป็นสีแดงในฤดูใบไม้ร่วง","note":"อเมริกันมักใช้ fall"}
+{"id":"sing_verb","th":"ร้องเพลง; ร้อง","ex":"She sings in the shower every morning.","exTh":"เธอร้องเพลงในห้องน้ำทุกเช้า","note":"รูปผันคือ sang, sung"}
+{"id":"movie_noun","th":"ภาพยนตร์; หนัง","ex":"Let's watch a movie tonight.","exTh":"คืนนี้ไปดูหนังกันเถอะ"}
+{"id":"fourteen_num","th":"สิบสี่; 14","ex":"My cousin is fourteen.","exTh":"ลูกพี่ลูกน้องของฉันอายุสิบสี่ปี"}
+{"id":"favorite_adj","th":"ที่ชอบที่สุด; โปรด","ex":"Blue is my favorite color.","exTh":"สีฟ้าเป็นสีโปรดของฉัน","note":"สะกดแบบอังกฤษว่า favourite"}
+{"id":"favorite_noun","th":"สิ่งที่ชอบที่สุด; ตัวเต็ง","ex":"This song is my favorite.","exTh":"เพลงนี้เป็นเพลงที่ฉันชอบที่สุด","note":"สะกดแบบอังกฤษว่า favourite"}
+{"id":"wake_noun","th":"คลื่นท้ายเรือ; งานเฝ้าศพ","ex":"The boat left a long wake behind it.","exTh":"เรือทิ้งคลื่นยาวไว้ข้างหลัง","note":"ไม่ใช่ความหมายว่า ตื่น ซึ่งเป็นคำกริยา"}
+{"id":"super_adj","th":"ยอดเยี่ยม; เยี่ยมมาก","ex":"We had a super time at the party.","exTh":"เราสนุกมากที่งานปาร์ตี้"}
+{"id":"holiday_noun","th":"วันหยุด; วันหยุดพักผ่อน","ex":"We go to the sea on holiday.","exTh":"เราไปทะเลในวันหยุด"}
+{"id":"hide_verb","th":"ซ่อน; หลบ","ex":"The cat likes to hide under the bed.","exTh":"แมวชอบซ่อนตัวใต้เตียง","note":"รูปผันคือ hid, hidden"}
+{"id":"knife_noun","th":"มีด","ex":"Be careful with that sharp knife.","exTh":"ระวังมีดที่คมนั่นด้วย","note":"พหูพจน์คือ knives"}
+{"id":"mouse_noun","th":"หนู; เมาส์คอมพิวเตอร์","ex":"A mouse is in the kitchen.","exTh":"มีหนูตัวหนึ่งอยู่ในครัว","note":"พหูพจน์คือ mice"}
+{"id":"jet_noun","th":"เครื่องบินเจ็ต; ลำน้ำที่พุ่งออกมา","ex":"A jet flew over our house.","exTh":"เครื่องบินเจ็ตบินผ่านเหนือบ้านเรา"}
+{"id":"pray_verb","th":"สวดมนต์; อธิษฐาน","ex":"She prays every morning.","exTh":"เธอสวดมนต์ทุกเช้า"}
+{"id":"beef_noun","th":"เนื้อวัว","ex":"I had beef soup for lunch.","exTh":"ฉันกินซุปเนื้อวัวเป็นอาหารเที่ยง"}
+{"id":"vegetable_noun","th":"ผัก","ex":"Eat more vegetables every day.","exTh":"กินผักให้มากขึ้นทุกวันนะ"}
+{"id":"sixteen_num","th":"สิบหก; 16","ex":"She will be sixteen next month.","exTh":"เดือนหน้าเธอจะอายุสิบหกปี"}
+{"id":"brush_noun","th":"แปรง; พู่กัน","ex":"I need a brush for my hair.","exTh":"ฉันต้องการแปรงสำหรับหวีผม"}
+{"id":"brush_verb","th":"แปรง; ปัด","ex":"I brush my teeth twice a day.","exTh":"ฉันแปรงฟันวันละสองครั้ง"}
+{"id":"tuesday_noun","th":"วันอังคาร","ex":"We have English class on Tuesday.","exTh":"เรามีเรียนภาษาอังกฤษวันอังคาร"}
+{"id":"shirt_noun","th":"เสื้อเชิ้ต; เสื้อ","ex":"He wears a white shirt to work.","exTh":"เขาใส่เสื้อเชิ้ตสีขาวไปทำงาน"}
+{"id":"aunt_noun","th":"ป้า; น้า; อา","ex":"My aunt makes delicious cakes.","exTh":"ป้าของฉันทำเค้กอร่อย","note":"ภาษาอังกฤษใช้ aunt แทนป้า น้า อา"}
+{"id":"anybody_pron","th":"ใครก็ได้; ใครสักคน","ex":"Is anybody home?","exTh":"มีใครอยู่บ้านไหม"}
+{"id":"excuse_noun","th":"ข้ออ้าง; ข้อแก้ตัว","ex":"He always has an excuse for being late.","exTh":"เขามีข้ออ้างเรื่องมาสายเสมอ"}
+{"id":"tonight_adv","th":"คืนนี้; เย็นนี้","ex":"I am going out tonight.","exTh":"คืนนี้ฉันจะออกไปข้างนอก"}
+{"id":"guest_noun","th":"แขก; ผู้มาเยือน","ex":"We have guests for dinner.","exTh":"เรามีแขกมากินข้าวเย็น"}
+{"id":"chicken_noun","th":"ไก่; เนื้อไก่","ex":"We had grilled chicken for lunch.","exTh":"เรากินไก่ย่างเป็นอาหารเที่ยง"}
+{"id":"bowl_noun","th":"ชาม; ถ้วย","ex":"She ate a bowl of soup.","exTh":"เธอกินซุปหนึ่งชาม"}
+{"id":"piano_noun","th":"เปียโน","ex":"My daughter plays the piano.","exTh":"ลูกสาวของฉันเล่นเปียโน"}
+{"id":"thursday_noun","th":"วันพฤหัสบดี","ex":"I have a meeting on Thursday.","exTh":"ฉันมีประชุมวันพฤหัสบดี"}
+{"id":"dictionary_noun","th":"พจนานุกรม","ex":"Look up the word in a dictionary.","exTh":"ลองเปิดหาคำนี้ในพจนานุกรม"}
+{"id":"everyday_adj","th":"ประจำวัน; ที่ใช้ทุกวัน","ex":"We learn everyday English in this class.","exTh":"เราเรียนภาษาอังกฤษในชีวิตประจำวันในชั้นเรียนนี้","note":"ต่างจาก every day ที่เขียนแยกคำ แปลว่า ทุกวัน"}
+{"id":"contest_noun","th":"การแข่งขัน; การประกวด","ex":"She won the singing contest.","exTh":"เธอชนะการประกวดร้องเพลง"}
+{"id":"kiss_noun","th":"จูบ; การจูบ","ex":"She gave her baby a kiss.","exTh":"เธอจูบลูกน้อยหนึ่งที"}
+{"id":"fan_noun","th":"พัดลม; แฟนคลับ; ผู้ชื่นชอบ","ex":"Turn on the fan, please. It's hot.","exTh":"ช่วยเปิดพัดลมหน่อย ร้อนจัง"}
+{"id":"cow_noun","th":"วัว; วัวตัวเมีย","ex":"The cow gives us milk.","exTh":"วัวให้นมแก่เรา"}
+{"id":"reporter_noun","th":"นักข่าว; ผู้สื่อข่าว","ex":"The reporter asked him some questions.","exTh":"นักข่าวถามคำถามเขาไม่กี่ข้อ"}
+{"id":"festival_noun","th":"เทศกาล; งานรื่นเริง","ex":"The music festival starts on Friday.","exTh":"เทศกาลดนตรีเริ่มวันศุกร์"}
+{"id":"wednesday_noun","th":"วันพุธ","ex":"The shop is closed on Wednesday.","exTh":"ร้านปิดทุกวันพุธ"}
+{"id":"smell_noun","th":"กลิ่น; การได้กลิ่น","ex":"I like the smell of fresh bread.","exTh":"ฉันชอบกลิ่นขนมปังอบใหม่"}
+{"id":"grammar_noun","th":"ไวยากรณ์; หลักภาษา","ex":"English grammar can be difficult.","exTh":"ไวยากรณ์ภาษาอังกฤษอาจยาก"}
+{"id":"math_noun","th":"คณิตศาสตร์; วิชาเลข","ex":"He is good at math.","exTh":"เขาเก่งคณิตศาสตร์","note":"สะกดแบบอังกฤษว่า maths"}
+{"id":"lovely_adj","th":"น่ารัก; งดงาม; น่าชื่นชม","ex":"You have a lovely garden.","exTh":"สวนของคุณน่ารักมาก"}
+{"id":"smart_adj","th":"ฉลาด; เฉลียวฉลาด; ดูดี","ex":"She is a smart student.","exTh":"เธอเป็นนักเรียนที่ฉลาด"}
+{"id":"juice_noun","th":"น้ำผลไม้; น้ำคั้น","ex":"I drink orange juice every morning.","exTh":"ฉันดื่มน้ำส้มทุกเช้า"}
+{"id":"eighty_num","th":"แปดสิบ; 80","ex":"My grandfather is eighty years old.","exTh":"คุณตาของฉันอายุแปดสิบปี"}
+{"id":"shopping_noun","th":"การช้อปปิ้ง; การซื้อของ","ex":"We went shopping on Saturday.","exTh":"เราไปช้อปปิ้งวันเสาร์"}
+{"id":"dancing_noun","th":"การเต้นรำ; การเต้น","ex":"Dancing is good exercise.","exTh":"การเต้นเป็นการออกกำลังกายที่ดี"}
+{"id":"bedroom_noun","th":"ห้องนอน","ex":"My bedroom is small but quiet.","exTh":"ห้องนอนของฉันเล็กแต่เงียบสงบ"}
+{"id":"pig_noun","th":"หมู; สุกร","ex":"The farmer has three pigs.","exTh":"ชาวนาเลี้ยงหมูสามตัว"}
+{"id":"thirteen_num","th":"สิบสาม; 13","ex":"There are thirteen students in the room.","exTh":"มีนักเรียนสิบสามคนอยู่ในห้อง"}
+{"id":"pop_noun","th":"เพลงป๊อป; น้ำอัดลม; เสียงดังปุ๊","ex":"She likes pop music.","exTh":"เธอชอบเพลงป๊อป","note":"ในอเมริกัน pop ยังหมายถึงน้ำอัดลมได้"}
+{"id":"shelf_noun","th":"ชั้นวางของ; ชั้น","ex":"Put the book on the shelf.","exTh":"วางหนังสือไว้บนชั้น","note":"พหูพจน์คือ shelves"}
+{"id":"coach_noun","th":"โค้ช; ผู้ฝึกสอน; รถทัวร์","ex":"Our coach is very kind.","exTh":"โค้ชของเราใจดีมาก"}
+{"id":"football_noun","th":"ฟุตบอล; อเมริกันฟุตบอล","ex":"My son plays football after school.","exTh":"ลูกชายของฉันเล่นฟุตบอลหลังเลิกเรียน","note":"อเมริกันใช้ football หมายถึงอเมริกันฟุตบอล ส่วนฟุตบอลทั่วไปเรียก soccer"}
+{"id":"ninety_num","th":"เก้าสิบ; 90","ex":"The old man is ninety years old.","exTh":"ชายชราอายุเก้าสิบปี"}
+{"id":"knee_noun","th":"เข่า","ex":"My knee hurts when I run.","exTh":"เข่าฉันเจ็บเวลาวิ่ง"}
+{"id":"luck_noun","th":"โชค; ความโชคดี","ex":"Good luck with your exam!","exTh":"ขอให้โชคดีกับการสอบนะ"}
+{"id":"actor_noun","th":"นักแสดง; ดารา","ex":"He wants to be an actor.","exTh":"เขาอยากเป็นนักแสดง"}
+{"id":"glasses_noun","th":"แว่นตา","ex":"I can't find my glasses.","exTh":"ฉันหาแว่นตาไม่เจอ","note":"ใช้เป็นพหูพจน์เสมอ"}
+{"id":"jump_verb","th":"กระโดด; ข้าม","ex":"The children jump on the bed.","exTh":"เด็กๆ กระโดดบนเตียง"}
+{"id":"vacation_noun","th":"วันหยุดพักผ่อน; การพักร้อน","ex":"We are going on vacation next week.","exTh":"สัปดาห์หน้าเราจะไปพักร้อน","note":"ใช้ในอเมริกัน ส่วนอังกฤษใช้ holiday"}
+{"id":"kid_noun","th":"เด็ก; ลูก","ex":"Her kids go to school by bus.","exTh":"ลูกๆ ของเธอไปโรงเรียนด้วยรถเมล์","note":"ภาษาพูด ไม่เป็นทางการ"}
+{"id":"handsome_adj","th":"หล่อ; รูปงาม","ex":"He is a handsome young man.","exTh":"เขาเป็นหนุ่มรูปหล่อ"}
+{"id":"swimming_noun","th":"การว่ายน้ำ","ex":"Swimming is my favorite sport.","exTh":"การว่ายน้ำเป็นกีฬาโปรดของฉัน"}
+{"id":"exciting_adj","th":"น่าตื่นเต้น; สนุกเร้าใจ","ex":"It was an exciting game.","exTh":"เป็นเกมที่น่าตื่นเต้นมาก"}
+{"id":"shoe_noun","th":"รองเท้า","ex":"I need a new pair of shoes.","exTh":"ฉันต้องการรองเท้าคู่ใหม่"}
+{"id":"ours_pron","th":"ของเรา","ex":"This house is ours.","exTh":"บ้านหลังนี้เป็นของเรา"}
+{"id":"purple_noun","th":"สีม่วง","ex":"Purple is her favorite color.","exTh":"สีม่วงเป็นสีโปรดของเธอ"}
+{"id":"grandfather_noun","th":"ปู่; ตา; คุณตา","ex":"My grandfather tells good stories.","exTh":"ตาของฉันเล่าเรื่องสนุกๆ","note":"ภาษาอังกฤษใช้คำเดียวทั้งปู่และตา"}
+{"id":"tooth_noun","th":"ฟัน","ex":"I have a pain in my tooth.","exTh":"ฉันปวดฟัน","note":"พหูพจน์คือ teeth"}
+{"id":"princess_noun","th":"เจ้าหญิง; องค์หญิง","ex":"The princess lives in a castle.","exTh":"เจ้าหญิงประทับอยู่ในปราสาท"}
+{"id":"coke_noun","th":"โค้ก; โคกถ่านหิน","ex":"Can I have a Coke, please?","exTh":"ขอโค้กหนึ่งแก้วได้ไหมคะ","note":"ใช้เรียกโคคา-โคล่า และยังเป็นเชื้อเพลิงจากถ่านหินได้"}
+{"id":"dirty_adj","th":"สกปรก; เปื้อน","ex":"Your shoes are dirty.","exTh":"รองเท้าของคุณสกปรก"}
+{"id":"drum_noun","th":"กลอง; ถังใหญ่","ex":"He plays the drum in a band.","exTh":"เขาตีกลองอยู่ในวงดนตรี"}
+{"id":"ticket_noun","th":"ตั๋ว; บัตร","ex":"I bought two tickets for the movie.","exTh":"ฉันซื้อตั๋วหนังสองใบ"}
+{"id":"lucky_adj","th":"โชคดี; มีโชค","ex":"You are lucky to have a good job.","exTh":"คุณโชคดีที่มีงานดีๆ ทำ"}
+{"id":"cousin_noun","th":"ญาติ; ลูกพี่ลูกน้อง","ex":"My cousin lives in Phuket.","exTh":"ลูกพี่ลูกน้องของฉันอาศัยอยู่ที่ภูเก็ต"}
+{"id":"pet_noun","th":"สัตว์เลี้ยง","ex":"Do you have a pet at home?","exTh":"ที่บ้านคุณมีสัตว์เลี้ยงไหม"}
+{"id":"concert_noun","th":"คอนเสิร์ต; การแสดงดนตรี","ex":"We went to a concert last night.","exTh":"เมื่อคืนเราไปดูคอนเสิร์ต"}
+{"id":"lion_noun","th":"สิงโต","ex":"The lion is sleeping in the shade.","exTh":"สิงโตกำลังนอนหลับอยู่ในร่มเงา"}
+{"id":"potato_noun","th":"มันฝรั่ง","ex":"I like fried potatoes.","exTh":"ฉันชอบมันฝรั่งทอด"}
+{"id":"cake_noun","th":"เค้ก; ขนมเค้ก","ex":"She made a chocolate cake.","exTh":"เธอทำเค้กช็อกโกแลต"}
+{"id":"birthday_noun","th":"วันเกิด","ex":"Today is my birthday.","exTh":"วันนี้เป็นวันเกิดของฉัน"}
+{"id":"hungry_adj","th":"หิว; หิวข้าว","ex":"I am hungry. Let's eat.","exTh":"ฉันหิวแล้ว ไปกินข้าวกันเถอะ"}
+{"id":"scientist_noun","th":"นักวิทยาศาสตร์","ex":"My uncle is a scientist.","exTh":"ลุงของฉันเป็นนักวิทยาศาสตร์"}
+{"id":"hers_pron","th":"ของเธอ","ex":"That bag is hers.","exTh":"กระเป๋าใบนั้นเป็นของเธอ"}
+{"id":"nineteen_num","th":"สิบเก้า; 19","ex":"My brother is nineteen.","exTh":"พี่ชายของฉันอายุสิบเก้าปี"}
+{"id":"shake_noun","th":"การเขย่า; มิลค์เชค","ex":"I'd like a chocolate shake.","exTh":"ขอมิลค์เชคช็อกโกแลตหนึ่งแก้ว"}
+{"id":"funny_adj","th":"ตลก; ขำขัน; แปลก","ex":"He tells very funny stories.","exTh":"เขาเล่าเรื่องตลกมาก"}
+{"id":"jacket_noun","th":"แจ็กเก็ต; เสื้อคลุมสั้น","ex":"Take a jacket. It's cold outside.","exTh":"เอาแจ็กเก็ตไปด้วยนะ ข้างนอกหนาว"}

@@ -1,0 +1,100 @@
+{"id":"intellectual_adj","th":"ทางปัญญา; ทางสติปัญญา; ใช้ความคิดมาก","ex":"Reading and writing are intellectual activities.","exTh":"การอ่านและการเขียนเป็นกิจกรรมที่ใช้สติปัญญา"}
+{"id":"intellectual_noun","th":"ปัญญาชน; ผู้มีความรู้สูง","ex":"The café was full of artists and intellectuals.","exTh":"คาเฟ่เต็มไปด้วยศิลปินและปัญญาชน"}
+{"id":"utility_noun","th":"สาธารณูปโภค; ประโยชน์ใช้สอย; โปรแกรมช่วยงาน","ex":"The rent includes all utilities, such as water and electricity.","exTh":"ค่าเช่ารวมสาธารณูปโภคทั้งหมด เช่น น้ำและไฟ"}
+{"id":"essentially_adv","th":"โดยพื้นฐาน; โดยสาระสำคัญ; โดยหลักๆ","ex":"The two phones are essentially the same.","exTh":"โทรศัพท์สองรุ่นนี้โดยพื้นฐานแล้วเหมือนกัน"}
+{"id":"manual_adj","th":"ใช้มือ; ที่ใช้แรงงาน; แบบแมนวล","ex":"He does manual work in a factory.","exTh":"เขาทำงานใช้แรงงานในโรงงาน"}
+{"id":"manual_noun","th":"คู่มือ; หนังสือคู่มือการใช้","ex":"Read the manual before using the machine.","exTh":"อ่านคู่มือก่อนใช้เครื่อง"}
+{"id":"deputy_noun","th":"รอง; ผู้ช่วย; ตัวแทน","ex":"The deputy manager answered my question.","exTh":"รองผู้จัดการตอบคำถามของฉัน"}
+{"id":"acute_adj","th":"รุนแรง; เฉียบพลัน; แหลมคม","ex":"He went to the hospital with acute stomach pain.","exTh":"เขาไปโรงพยาบาลด้วยอาการปวดท้องเฉียบพลัน"}
+{"id":"desirable_adj","th":"น่าปรารถนา; เป็นที่ต้องการ","ex":"This area is a very desirable place to live.","exTh":"ย่านนี้เป็นที่อยู่อาศัยที่ผู้คนต้องการมาก"}
+{"id":"trip_verb","th":"สะดุด; ทำให้สะดุดล้ม; พลาด","ex":"I tripped on the stairs and hurt my knee.","exTh":"ฉันสะดุดบันไดจนเข่าเจ็บ"}
+{"id":"deposit_verb","th":"ฝาก (เงิน); วาง; ทับถม","ex":"I deposited my salary into the bank this morning.","exTh":"เช้านี้ฉันฝากเงินเดือนเข้าธนาคาร"}
+{"id":"distinguished_adj","th":"โดดเด่น; มีชื่อเสียง; น่านับถือ","ex":"She is a distinguished scientist.","exTh":"เธอเป็นนักวิทยาศาสตร์ผู้มีชื่อเสียงโดดเด่น"}
+{"id":"exhibit_verb","th":"จัดแสดง; แสดง (อาการ/ลักษณะ)","ex":"The museum will exhibit paintings from the 1800s.","exTh":"พิพิธภัณฑ์จะจัดแสดงภาพวาดจากศตวรรษที่สิบเก้า","note":"เป็นกริยาออกเสียงเน้นพยางค์หลัง (ɪɡˈzɪbɪt)"}
+{"id":"functional_adj","th":"ใช้งานได้; ใช้งานง่าย; ทำงานได้","ex":"The kitchen is small but very functional.","exTh":"ห้องครัวเล็กแต่ใช้งานได้สะดวกมาก"}
+{"id":"screen_verb","th":"ฉาย (หนัง); คัดกรอง; บังไว้","ex":"The hospital screens all visitors for fever.","exTh":"โรงพยาบาลคัดกรองไข้ผู้มาเยี่ยมทุกคน"}
+{"id":"conventional_adj","th":"ตามแบบแผน; ธรรมดา; ตามธรรมเนียม","ex":"They had a conventional wedding in a temple.","exTh":"พวกเขาจัดงานแต่งงานตามประเพณีที่วัด"}
+{"id":"effectively_adv","th":"อย่างได้ผล; อย่างมีประสิทธิภาพ; โดยพฤตินัย","ex":"She uses her time very effectively.","exTh":"เธอใช้เวลาอย่างมีประสิทธิภาพมาก"}
+{"id":"criticism_noun","th":"การวิจารณ์; คำติ; คำวิจารณ์","ex":"He took the criticism calmly.","exTh":"เขารับคำวิจารณ์ด้วยความสงบ"}
+{"id":"translation_noun","th":"การแปล; งานแปล; คำแปล","ex":"The translation of the book took two years.","exTh":"การแปลหนังสือเล่มนี้ใช้เวลาสองปี"}
+{"id":"prevention_noun","th":"การป้องกัน; การยับยั้ง","ex":"Prevention is better than cure.","exTh":"การป้องกันดีกว่าการรักษา"}
+{"id":"dynamic_adj","th":"กระฉับกระเฉง; มีพลวัต; เปลี่ยนแปลงตลอดเวลา","ex":"The company is looking for a dynamic young manager.","exTh":"บริษัทกำลังมองหาผู้จัดการรุ่นใหม่ที่กระฉับกระเฉง"}
+{"id":"residence_noun","th":"ที่พักอาศัย; ถิ่นที่อยู่; การพำนัก","ex":"Please write your place of residence on the form.","exTh":"กรุณาเขียนที่อยู่อาศัยของคุณลงในแบบฟอร์ม"}
+{"id":"ph_noun","th":"ค่าพีเอช (ค่าความเป็นกรดด่าง)","ex":"The pH of pure water is seven.","exTh":"ค่าพีเอชของน้ำบริสุทธิ์คือเจ็ด","note":"อ่านว่า พี-เอช"}
+{"id":"superintendent_noun","th":"ผู้ดูแล; ผู้กำกับดูแล; ผู้อำนวยการเขต","ex":"The building superintendent fixed the broken light.","exTh":"ผู้ดูแลอาคารซ่อมไฟที่เสีย"}
+{"id":"strain_verb","th":"ฝืน; เกร็ง; ทำให้ตึงเครียด; กรอง","ex":"Reading in the dark will strain your eyes.","exTh":"การอ่านหนังสือในที่มืดจะทำให้ตาล้า"}
+{"id":"lease_noun","th":"สัญญาเช่า; การเช่า","ex":"We signed a two-year lease on the apartment.","exTh":"เราเซ็นสัญญาเช่าอพาร์ตเมนต์สองปี"}
+{"id":"sensitive_adj","th":"อ่อนไหว; ละเอียดอ่อน; แพ้ง่าย","ex":"I have sensitive skin and cannot use strong soap.","exTh":"ฉันผิวแพ้ง่ายจึงใช้สบู่แรงๆ ไม่ได้"}
+{"id":"obligation_noun","th":"ข้อผูกมัด; หน้าที่; ภาระผูกพัน","ex":"You have no obligation to buy anything.","exTh":"คุณไม่มีข้อผูกมัดที่ต้องซื้ออะไรเลย"}
+{"id":"conversion_noun","th":"การแปลง; การเปลี่ยน; การดัดแปลง","ex":"The conversion of the old factory into flats took a year.","exTh":"การดัดแปลงโรงงานเก่าเป็นอพาร์ตเมนต์ใช้เวลาหนึ่งปี"}
+{"id":"slight_adj","th":"เล็กน้อย; นิดหน่อย; บางเบา","ex":"I have a slight headache.","exTh":"ฉันปวดหัวเล็กน้อย"}
+{"id":"beam_noun","th":"คาน; ลำแสง; รอยยิ้มแฉ่ง","ex":"A wooden beam holds up the roof.","exTh":"คานไม้ค้ำหลังคาไว้"}
+{"id":"equity_noun","th":"ความเท่าเทียม; ความเป็นธรรม; หุ้น; มูลค่าส่วนของเจ้าของ","ex":"The group works for equity in education.","exTh":"กลุ่มนี้ทำงานเพื่อความเท่าเทียมทางการศึกษา"}
+{"id":"assumption_noun","th":"ข้อสันนิษฐาน; การคาดเดา; การสมมติ","ex":"You should not make assumptions without checking the facts.","exTh":"คุณไม่ควรสรุปเอาเองโดยไม่ตรวจสอบข้อเท็จจริง"}
+{"id":"vital_adj","th":"สำคัญยิ่ง; จำเป็นอย่างยิ่ง; เกี่ยวกับชีวิต","ex":"Sleep is vital for good health.","exTh":"การนอนหลับสำคัญยิ่งต่อสุขภาพที่ดี"}
+{"id":"axis_noun","th":"แกน; เส้นแกน","ex":"The Earth turns on its axis once a day.","exTh":"โลกหมุนรอบแกนของตัวเองวันละหนึ่งรอบ"}
+{"id":"valid_adj","th":"ใช้ได้; ถูกต้องตามกฎ; สมเหตุสมผล","ex":"Your passport must be valid for six months.","exTh":"หนังสือเดินทางของคุณต้องมีอายุใช้ได้อย่างน้อยหกเดือน"}
+{"id":"liberal_adj","th":"เสรีนิยม; ใจกว้าง; ให้อย่างเต็มที่","ex":"She has liberal views on education.","exTh":"เธอมีทัศนะเสรีนิยมเรื่องการศึกษา"}
+{"id":"partnership_noun","th":"ความเป็นหุ้นส่วน; ความร่วมมือ","ex":"They run the shop in partnership with a friend.","exTh":"พวกเขาเปิดร้านเป็นหุ้นส่วนกับเพื่อน"}
+{"id":"width_noun","th":"ความกว้าง","ex":"The width of the road is about six meters.","exTh":"ถนนมีความกว้างราวหกเมตร"}
+{"id":"thickness_noun","th":"ความหนา","ex":"Check the thickness of the wall before you drill.","exTh":"ตรวจดูความหนาของผนังก่อนเจาะ"}
+{"id":"submit_verb","th":"ส่ง (งาน/เอกสาร); ยื่น; ยอมจำนน","ex":"Please submit your report by Friday.","exTh":"กรุณาส่งรายงานภายในวันศุกร์"}
+{"id":"quiet_noun","th":"ความเงียบ; ความสงบ","ex":"I enjoy the quiet of the countryside.","exTh":"ฉันชอบความเงียบสงบของชนบท"}
+{"id":"colonial_adj","th":"เกี่ยวกับอาณานิคม; แบบยุคอาณานิคม","ex":"The town has many old colonial buildings.","exTh":"เมืองนี้มีอาคารแบบยุคอาณานิคมเก่าๆ หลายหลัง"}
+{"id":"cable_noun","th":"สายเคเบิล; สายไฟ; โทรเลข","ex":"I need a longer cable to charge my phone.","exTh":"ฉันต้องใช้สายยาวกว่านี้เพื่อชาร์จโทรศัพท์"}
+{"id":"roll_verb","th":"กลิ้ง; ม้วน; หมุน","ex":"The ball rolled under the table.","exTh":"ลูกบอลกลิ้งเข้าไปใต้โต๊ะ"}
+{"id":"dose_noun","th":"ขนาดยาที่ใช้; ปริมาณ (ยา)","ex":"Do not take more than the recommended dose.","exTh":"อย่ากินยาเกินขนาดที่แนะนำ"}
+{"id":"devoted_adj","th":"ทุ่มเท; ซื่อสัตย์; รักมั่น","ex":"He is a devoted father of three children.","exTh":"เขาเป็นพ่อที่ทุ่มเทให้ลูกสามคน"}
+{"id":"pension_noun","th":"เงินบำนาญ","ex":"My grandfather lives on his pension.","exTh":"คุณตาของฉันใช้ชีวิตด้วยเงินบำนาญ"}
+{"id":"formerly_adv","th":"ก่อนหน้านี้; ในอดีต; เดิมที","ex":"Sri Lanka was formerly known as Ceylon.","exTh":"ศรีลังกาเดิมรู้จักกันในชื่อซีลอน"}
+{"id":"worse_noun","th":"สิ่งที่เลวร้ายกว่า; เรื่องแย่ลง","ex":"Things went from bad to worse after the storm.","exTh":"สถานการณ์แย่ลงไปอีกหลังพายุ","note":"มักใช้ในสำนวน from bad to worse"}
+{"id":"pa_noun","th":"พ่อ; คุณพ่อ (ภาษาพูดเก่า)","ex":"Ma and Pa are coming to visit on Sunday.","exTh":"แม่กับพ่อจะมาเยี่ยมวันอาทิตย์","note":"ภาษาพูดแบบเก่า ปัจจุบันไม่ค่อยใช้"}
+{"id":"physician_noun","th":"แพทย์; หมอ (อายุรแพทย์)","ex":"The physician told him to rest for a week.","exTh":"แพทย์บอกให้เขาพักผ่อนหนึ่งสัปดาห์"}
+{"id":"cooperative_adj","th":"ให้ความร่วมมือ; ที่ร่วมมือกัน","ex":"The students were very cooperative during the test.","exTh":"นักเรียนให้ความร่วมมือดีมากระหว่างสอบ"}
+{"id":"fighting_noun","th":"การต่อสู้; การสู้รบ; การทะเลาะวิวาท","ex":"The fighting stopped after the two sides agreed to talk.","exTh":"การสู้รบยุติลงหลังทั้งสองฝ่ายตกลงเจรจากัน"}
+{"id":"execution_noun","th":"การประหารชีวิต; การปฏิบัติ; การดำเนินการ","ex":"The plan was good, but the execution was poor.","exTh":"แผนดี แต่การนำไปปฏิบัติไม่ดี"}
+{"id":"identical_adj","th":"เหมือนกันทุกอย่าง; เหมือนกันเป๊ะ","ex":"The two sisters wore identical dresses.","exTh":"สองพี่น้องใส่ชุดเหมือนกันเป๊ะ"}
+{"id":"considerably_adv","th":"อย่างมาก; ค่อนข้างมาก","ex":"It is considerably colder today than yesterday.","exTh":"วันนี้หนาวกว่าเมื่อวานมาก"}
+{"id":"consciousness_noun","th":"สติ; ความรู้สึกตัว; จิตสำนึก","ex":"He lost consciousness after hitting his head.","exTh":"เขาหมดสติหลังหัวฟาด"}
+{"id":"supervision_noun","th":"การควบคุมดูแล; การกำกับดูแล","ex":"Young children need adult supervision near water.","exTh":"เด็กเล็กต้องมีผู้ใหญ่คอยดูแลเวลาอยู่ใกล้น้ำ"}
+{"id":"row_verb","th":"พาย (เรือ); เรียงเป็นแถว","ex":"We rowed across the lake in the morning.","exTh":"เราพายเรือข้ามทะเลสาบในตอนเช้า","note":"ออกเสียงคล้าย โร (roʊ)"}
+{"id":"expert_adj","th":"ชำนาญ; เชี่ยวชาญ; เป็นผู้เชี่ยวชาญ","ex":"She gave me expert advice on buying a laptop.","exTh":"เธอให้คำแนะนำแบบผู้เชี่ยวชาญเรื่องการซื้อแล็ปท็อป"}
+{"id":"honor_verb","th":"ให้เกียรติ; ยกย่อง; ปฏิบัติตาม (สัญญา)","ex":"The school honored her for her hard work.","exTh":"โรงเรียนมอบเกียรติให้เธอจากความมุ่งมั่นทุ่มเท","note":"สะกดแบบอเมริกัน อังกฤษใช้ honour"}
+{"id":"striking_adj","th":"โดดเด่น; สะดุดตา; เห็นได้ชัด","ex":"There is a striking difference between the two photos.","exTh":"รูปสองรูปนี้ต่างกันอย่างเห็นได้ชัด"}
+{"id":"priority_noun","th":"สิ่งสำคัญอันดับแรก; ลำดับความสำคัญ","ex":"My top priority is finishing this project.","exTh":"สิ่งสำคัญอันดับแรกของฉันคือทำโครงการนี้ให้เสร็จ"}
+{"id":"completion_noun","th":"การทำให้เสร็จ; ความสมบูรณ์","ex":"The completion of the bridge is planned for May.","exTh":"สะพานมีกำหนดสร้างเสร็จในเดือนพฤษภาคม"}
+{"id":"aim_verb","th":"มุ่งหวัง; ตั้งเป้า; เล็ง","ex":"We aim to finish the work by noon.","exTh":"เราตั้งเป้าทำงานให้เสร็จก่อนเที่ยง"}
+{"id":"adoption_noun","th":"การรับเลี้ยงเป็นบุตรบุญธรรม; การนำมาใช้","ex":"The adoption of the new system saved us time.","exTh":"การนำระบบใหม่มาใช้ช่วยเราประหยัดเวลา"}
+{"id":"commonwealth_noun","th":"เครือจักรภพ; กลุ่มประเทศที่รวมกัน","ex":"Canada is a member of the Commonwealth.","exTh":"แคนาดาเป็นสมาชิกของเครือจักรภพ"}
+{"id":"effectiveness_noun","th":"ประสิทธิผล; ความได้ผล","ex":"Doctors are testing the effectiveness of the new medicine.","exTh":"แพทย์กำลังทดสอบประสิทธิผลของยาตัวใหม่"}
+{"id":"intent_adj","th":"มุ่งมั่น; จดจ่อ; ตั้งใจแน่วแน่","ex":"He was intent on winning the race.","exTh":"เขามุ่งมั่นที่จะชนะการแข่งขัน"}
+{"id":"shell_verb","th":"ปอกเปลือก; กะเทาะเปลือก; ยิงถล่ม","ex":"She shelled the peas for dinner.","exTh":"เธอแกะเปลือกถั่วลันเตาไว้ทำอาหารเย็น"}
+{"id":"suffering_noun","th":"ความทุกข์ทรมาน; ความเจ็บปวด","ex":"The medicine helped to reduce her suffering.","exTh":"ยาช่วยบรรเทาความทุกข์ทรมานของเธอ"}
+{"id":"dna_noun","th":"ดีเอ็นเอ; สารพันธุกรรม","ex":"Scientists used DNA to find the answer.","exTh":"นักวิทยาศาสตร์ใช้ดีเอ็นเอเพื่อหาคำตอบ"}
+{"id":"sufficiently_adv","th":"อย่างเพียงพอ; พอเพียง","ex":"The room was sufficiently large for ten people.","exTh":"ห้องนี้ใหญ่พอสำหรับคนสิบคน"}
+{"id":"import_verb","th":"นำเข้า; นำเข้าข้อมูล","ex":"Thailand imports a lot of oil.","exTh":"ประเทศไทยนำเข้าน้ำมันเป็นจำนวนมาก","note":"เป็นกริยาออกเสียงเน้นพยางค์หลัง (ɪmˈpɔːt)"}
+{"id":"unlike_prep","th":"ต่างจาก; ไม่เหมือน","ex":"Unlike his brother, he loves to cook.","exTh":"ต่างจากพี่ชาย เขารักการทำอาหาร"}
+{"id":"solar_adj","th":"เกี่ยวกับดวงอาทิตย์; พลังงานแสงอาทิตย์","ex":"They put solar panels on the roof.","exTh":"พวกเขาติดแผงโซลาร์เซลล์บนหลังคา"}
+{"id":"spite_noun","th":"ความอาฆาต; ความมุ่งร้าย","ex":"She broke his phone out of spite.","exTh":"เธอทุบโทรศัพท์ของเขาด้วยความอาฆาต","note":"มักใช้ in spite of = ทั้งที่"}
+{"id":"disposal_noun","th":"การกำจัด; การทิ้ง; การจัดการ","ex":"The disposal of plastic waste is a big problem.","exTh":"การกำจัดขยะพลาสติกเป็นปัญหาใหญ่"}
+{"id":"shipping_noun","th":"การขนส่ง; ค่าส่งสินค้า; การเดินเรือ","ex":"Shipping is free for orders over one thousand baht.","exTh":"ส่งฟรีสำหรับคำสั่งซื้อเกินหนึ่งพันบาท"}
+{"id":"counter_noun","th":"เคาน์เตอร์; ตัวนับ; เคาน์เตอร์ขายของ","ex":"She put the keys on the kitchen counter.","exTh":"เธอวางกุญแจไว้บนเคาน์เตอร์ครัว"}
+{"id":"ultimate_adj","th":"สูงสุด; ขั้นสุดท้าย; ที่สุด","ex":"Her ultimate goal is to open her own restaurant.","exTh":"เป้าหมายสูงสุดของเธอคือเปิดร้านอาหารของตัวเอง"}
+{"id":"ultimately_adv","th":"ท้ายที่สุด; ในที่สุด","ex":"Ultimately, the choice is yours.","exTh":"ท้ายที่สุดแล้ว การตัดสินใจเป็นของคุณ"}
+{"id":"resident_noun","th":"ผู้อาศัย; ชาวบ้านในพื้นที่; แพทย์ประจำบ้าน","ex":"Residents are asked to keep the noise down at night.","exTh":"ผู้อยู่อาศัยได้รับการขอร้องให้ลดเสียงลงตอนกลางคืน"}
+{"id":"ton_noun","th":"ตัน; (ภาษาพูด) จำนวนมาก","ex":"The truck can carry five tons of rice.","exTh":"รถบรรทุกคันนี้บรรทุกข้าวได้ห้าตัน"}
+{"id":"shock_verb","th":"ทำให้ตกใจ; ทำให้ช็อก; ทำให้ตื่นตะลึง","ex":"The news shocked everyone in the office.","exTh":"ข่าวนี้ทำให้ทุกคนในออฟฟิศตกใจ"}
+{"id":"availability_noun","th":"ความพร้อมให้ใช้; การมีอยู่; ความว่าง","ex":"Please check the availability of rooms before you book.","exTh":"กรุณาตรวจสอบว่ามีห้องว่างหรือไม่ก่อนจอง"}
+{"id":"varied_adj","th":"หลากหลาย; แตกต่างกัน","ex":"The menu has a varied choice of dishes.","exTh":"เมนูมีอาหารให้เลือกหลากหลาย"}
+{"id":"correspondence_noun","th":"การติดต่อทางจดหมาย; จดหมาย; ความสอดคล้อง","ex":"I answer all my email correspondence on Monday.","exTh":"ฉันตอบอีเมลทั้งหมดในวันจันทร์"}
+{"id":"dispute_noun","th":"ข้อพิพาท; การโต้เถียง","ex":"The two neighbors had a dispute over the fence.","exTh":"เพื่อนบ้านสองคนมีข้อพิพาทเรื่องรั้ว"}
+{"id":"profile_noun","th":"โปรไฟล์; ข้อมูลส่วนตัว; ด้านข้างของใบหน้า","ex":"Please update your profile with a new photo.","exTh":"กรุณาอัปเดตโปรไฟล์ของคุณด้วยรูปใหม่"}
+{"id":"virtue_noun","th":"คุณธรรม; ความดี; ข้อดี","ex":"Patience is a great virtue.","exTh":"ความอดทนเป็นคุณธรรมอันยิ่งใหญ่"}
+{"id":"treat_verb","th":"ปฏิบัติต่อ; รักษา; เลี้ยง","ex":"Doctors treat many patients every day.","exTh":"แพทย์รักษาผู้ป่วยหลายคนทุกวัน"}
+{"id":"thereafter_adv","th":"หลังจากนั้น; ต่อมา","ex":"He joined the company in 2015 and left soon thereafter.","exTh":"เขาเข้าบริษัทในปี 2015 และลาออกหลังจากนั้นไม่นาน","note":"ภาษาทางการ"}
+{"id":"eligible_adj","th":"มีสิทธิ์; มีคุณสมบัติครบ","ex":"You are eligible for a discount if you are a student.","exTh":"คุณมีสิทธิ์ได้ส่วนลดถ้าเป็นนักเรียน"}
+{"id":"probable_adj","th":"น่าจะเป็นไปได้; มีแนวโน้ม","ex":"The most probable cause of the fire was an old wire.","exTh":"สาเหตุที่น่าจะเป็นไปได้มากที่สุดของไฟไหม้คือสายไฟเก่า"}
+{"id":"win_noun","th":"ชัยชนะ; การชนะ","ex":"The team celebrated their first win of the season.","exTh":"ทีมฉลองชัยชนะครั้งแรกของฤดูกาล"}
+{"id":"headquarters_noun","th":"สำนักงานใหญ่; กองบัญชาการ","ex":"The company's headquarters is in Bangkok.","exTh":"สำนักงานใหญ่ของบริษัทอยู่ที่กรุงเทพฯ","note":"ใช้ได้ทั้งเอกพจน์และพหูพจน์"}
+{"id":"noble_adj","th":"สูงส่ง; มีเกียรติ; เป็นขุนนาง","ex":"Helping others is a noble thing to do.","exTh":"การช่วยเหลือผู้อื่นเป็นสิ่งที่สูงส่ง"}
+{"id":"outcome_noun","th":"ผลลัพธ์; ผลที่ตามมา","ex":"We are happy with the outcome of the meeting.","exTh":"เราพอใจกับผลของการประชุม"}

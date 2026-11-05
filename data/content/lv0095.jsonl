@@ -1,0 +1,100 @@
+{"id":"truism_noun","th":"คำกล่าวที่จริงอยู่แล้ว; ความจริงที่รู้กันทั่วไป","ex":"It is a truism that money cannot buy happiness.","exTh":"เป็นความจริงที่รู้กันอยู่แล้วว่าเงินซื้อความสุขไม่ได้"}
+{"id":"idiomatic_adj","th":"เป็นสำนวน; ตามสำนวนธรรมชาติ","ex":"Her English is fluent and very idiomatic.","exTh":"ภาษาอังกฤษของเธอคล่องและใช้สำนวนได้เป็นธรรมชาติมาก"}
+{"id":"flagging_adj","th":"ที่อ่อนแรงลง; ที่ซบเซา","ex":"The coach tried to lift the team's flagging spirits.","exTh":"โค้ชพยายามกระตุ้นขวัญกำลังใจที่ตกลงของทีม"}
+{"id":"mien_noun","th":"ท่าทาง; สีหน้าท่าที","ex":"The judge had a calm and serious mien.","exTh":"ผู้พิพากษามีท่าทีสงบและเคร่งขรึม","note":"ภาษาทางการ/วรรณกรรม"}
+{"id":"disparaging_adj","th":"ที่ดูถูก; ที่ตำหนิให้เสียหาย","ex":"He made a disparaging remark about her cooking.","exTh":"เขาพูดจาดูถูกฝีมือทำอาหารของเธอ"}
+{"id":"stoicism_noun","th":"ความอดทนไม่แสดงอารมณ์; ลัทธิสโตอิก","ex":"She accepted the bad news with quiet stoicism.","exTh":"เธอรับข่าวร้ายด้วยความอดทนอย่างสงบ"}
+{"id":"leaven_verb","th":"ทำให้เบาบางลง/มีชีวิตชีวา; ใส่ยีสต์ให้ขึ้นฟู","ex":"He leavened the serious talk with a few jokes.","exTh":"เขาทำให้บทสนทนาจริงจังผ่อนคลายลงด้วยมุกตลกสองสามอัน"}
+{"id":"magnanimity_noun","th":"ความใจกว้าง; ความมีน้ำใจสูง","ex":"He showed magnanimity by forgiving his rival.","exTh":"เขาแสดงความใจกว้างด้วยการให้อภัยคู่แข่ง"}
+{"id":"edification_noun","th":"การให้ความรู้และยกระดับจิตใจ","ex":"The museum was built for public edification.","exTh":"พิพิธภัณฑ์แห่งนี้สร้างขึ้นเพื่อให้ความรู้แก่ประชาชน","note":"ภาษาทางการ"}
+{"id":"confrontational_adj","th":"ก้าวร้าวเผชิญหน้า; ชอบโต้แย้ง","ex":"Her confrontational style upset her coworkers.","exTh":"สไตล์ชอบเผชิญหน้าของเธอทำให้เพื่อนร่วมงานไม่พอใจ"}
+{"id":"virtuosity_noun","th":"ความเชี่ยวชาญระดับเซียน; ฝีมือขั้นเยี่ยม","ex":"The violinist played with amazing virtuosity.","exTh":"นักไวโอลินเล่นด้วยฝีมือระดับเซียนอย่างน่าทึ่ง"}
+{"id":"inchoate_adj","th":"ที่เพิ่งเริ่มต้น; ยังไม่เป็นรูปเป็นร่าง","ex":"He had only an inchoate idea of what he wanted.","exTh":"เขามีเพียงความคิดที่ยังไม่เป็นรูปร่างว่าอยากได้อะไร","note":"ภาษาทางการ"}
+{"id":"recluse_noun","th":"ผู้สันโดษ; คนแยกตัวจากสังคม","ex":"The old writer lived as a recluse in the mountains.","exTh":"นักเขียนเฒ่าใช้ชีวิตสันโดษอยู่บนภูเขา"}
+{"id":"buzzard_noun","th":"นกแร้ง/เหยี่ยวบัซซาร์ด","ex":"A buzzard circled high above the field.","exTh":"เหยี่ยวบินวนอยู่สูงเหนือทุ่ง"}
+{"id":"syllabic_adj","th":"เกี่ยวกับพยางค์; เป็นพยางค์","ex":"Thai is written in a syllabic script.","exTh":"ภาษาไทยเขียนด้วยอักษรที่แบ่งเป็นพยางค์"}
+{"id":"recuperation_noun","th":"การพักฟื้น; การฟื้นตัว","ex":"Recuperation after the surgery took two months.","exTh":"การพักฟื้นหลังผ่าตัดใช้เวลาสองเดือน"}
+{"id":"arcane_adj","th":"ลึกลับเข้าใจยาก; ที่รู้กันเฉพาะกลุ่ม","ex":"The rules of the game are arcane and hard to learn.","exTh":"กฎของเกมนี้ซับซ้อนลึกลับและเรียนรู้ยาก"}
+{"id":"magnanimous_adj","th":"ใจกว้าง; มีน้ำใจสูง","ex":"The winner was magnanimous toward the losers.","exTh":"ผู้ชนะมีน้ำใจกับผู้แพ้"}
+{"id":"topple_verb","th":"ล้ม; โค่น; ทำให้ล้มลง","ex":"Strong winds toppled several old trees.","exTh":"ลมแรงทำให้ต้นไม้เก่าหลายต้นล้ม"}
+{"id":"fabled_adj","th":"ที่เลื่องลือ; ในตำนาน","ex":"They searched for the fabled city of gold.","exTh":"พวกเขาตามหาเมืองทองคำในตำนาน"}
+{"id":"rhetorically_adv","th":"ในเชิงโวหาร; เพื่อเน้นความ (ไม่ต้องการคำตอบ)","ex":"'Who cares?' she asked rhetorically.","exTh":"\"ใครสนล่ะ?\" เธอถามเชิงโวหาร ไม่ได้ต้องการคำตอบ"}
+{"id":"pyre_noun","th":"กองไฟเผาศพ; เชิงตะกอน","ex":"The body was placed on a wooden pyre.","exTh":"ร่างถูกวางบนเชิงตะกอนที่ทำจากไม้"}
+{"id":"magnate_noun","th":"เจ้าสัว; มหาเศรษฐีนักธุรกิจ","ex":"The oil magnate bought a huge house in the hills.","exTh":"เจ้าสัวน้ำมันซื้อบ้านหลังใหญ่บนเนินเขา"}
+{"id":"euphemism_noun","th":"สำนวนเลี่ยงคำ; คำพูดอ้อมค้อมให้นุ่มนวล","ex":"'Passed away' is a euphemism for 'died'.","exTh":"passed away เป็นคำพูดนุ่มนวลแทนคำว่า died"}
+{"id":"cinematography_noun","th":"การถ่ายภาพยนตร์; ศิลปะการถ่ายทำ","ex":"The cinematography of the film is beautiful.","exTh":"งานถ่ายภาพของภาพยนตร์เรื่องนี้สวยงามมาก"}
+{"id":"protrude_verb","th":"ยื่นออกมา; โผล่ออกมา","ex":"A nail protruded from the wooden board.","exTh":"ตะปูโผล่ออกมาจากแผ่นไม้"}
+{"id":"angst_noun","th":"ความกังวลใจลึกๆ; ความวิตกทุกข์","ex":"Teenage angst is common in many films.","exTh":"ความกังวลใจของวัยรุ่นพบได้ในภาพยนตร์หลายเรื่อง"}
+{"id":"economize_verb","th":"ประหยัด; ใช้จ่ายอย่างระมัดระวัง","ex":"We have to economize until the end of the month.","exTh":"เราต้องประหยัดไปจนถึงสิ้นเดือน"}
+{"id":"impressionistic_adj","th":"เป็นแบบอิมเพรสชันนิสม์; เน้นความรู้สึกมากกว่ารายละเอียด","ex":"He gave an impressionistic description of the trip.","exTh":"เขาเล่าถึงการเดินทางแบบเน้นความรู้สึกมากกว่ารายละเอียด"}
+{"id":"maggot_noun","th":"หนอนแมลงวัน; ตัวหนอน","ex":"There were maggots in the old garbage bin.","exTh":"มีหนอนอยู่ในถังขยะเก่า"}
+{"id":"posturing_noun","th":"การวางท่า; การแสดงท่าทีเพื่อเอาหน้า","ex":"The meeting was full of political posturing.","exTh":"การประชุมเต็มไปด้วยการวางท่าทางการเมือง"}
+{"id":"marketability_noun","th":"ความสามารถในการขายได้; ความเป็นที่ต้องการของตลาด","ex":"The marketability of the product is very high.","exTh":"สินค้านี้ขายได้ง่ายและตลาดต้องการสูงมาก"}
+{"id":"frolic_verb","th":"เล่นสนุกอย่างร่าเริง; วิ่งเล่น","ex":"The puppies frolicked in the garden.","exTh":"ลูกสุนัขวิ่งเล่นสนุกในสวน"}
+{"id":"vestigial_adj","th":"ที่เหลือเป็นร่องรอย; ที่เสื่อมสภาพไม่ได้ใช้แล้ว","ex":"The appendix is a vestigial organ in humans.","exTh":"ไส้ติ่งเป็นอวัยวะที่เหลือเป็นร่องรอยในมนุษย์"}
+{"id":"indiscretion_noun","th":"การกระทำที่ไม่รอบคอบ; ความผิดพลาดเล็กน้อย","ex":"A youthful indiscretion cost him his job.","exTh":"ความไม่รอบคอบในวัยหนุ่มทำให้เขาเสียงาน"}
+{"id":"babble_verb","th":"พูดจ้อ; พูดไม่เป็นเรื่อง; (น้ำ) ไหลรินเสียงดัง","ex":"The baby babbled happily in her crib.","exTh":"ทารกพูดอ้อแอ้อย่างมีความสุขในเปล"}
+{"id":"innuendo_noun","th":"คำพูดเหน็บแนม; คำพูดสองแง่สองง่าม","ex":"The joke was full of sexual innuendo.","exTh":"มุกตลกนั้นเต็มไปด้วยคำพูดสองแง่สองง่ามเชิงเพศ","note":"มักมีนัยทางลบหรือเชิงเพศ"}
+{"id":"opulence_noun","th":"ความหรูหรา; ความมั่งคั่ง","ex":"The hotel is known for its opulence.","exTh":"โรงแรมแห่งนี้มีชื่อเสียงเรื่องความหรูหรา"}
+{"id":"perversity_noun","th":"ความดื้อรั้นฝืนเหตุผล; ความวิปริต","ex":"Out of perversity, he did the opposite of what we asked.","exTh":"เพราะความดื้อรั้น เขาทำตรงข้ามกับที่เราขอ"}
+{"id":"torrential_adj","th":"(ฝน) ตกหนักมาก; เป็นสายน้ำเชี่ยว","ex":"Torrential rain flooded the streets.","exTh":"ฝนตกหนักมากทำให้ถนนน้ำท่วม"}
+{"id":"breadwinner_noun","th":"ผู้หาเลี้ยงครอบครัว; เสาหลักของบ้าน","ex":"She is the main breadwinner in her family.","exTh":"เธอเป็นเสาหลักหาเลี้ยงครอบครัว"}
+{"id":"abhorrent_adj","th":"น่ารังเกียจ; น่าชัง","ex":"Cruelty to animals is abhorrent to me.","exTh":"การทารุณสัตว์เป็นเรื่องที่ฉันรับไม่ได้อย่างยิ่ง"}
+{"id":"autonomously_adv","th":"อย่างเป็นอิสระ; ด้วยตัวเอง","ex":"The robot works autonomously in the warehouse.","exTh":"หุ่นยนต์ทำงานด้วยตัวเองในคลังสินค้า"}
+{"id":"tenaciously_adv","th":"อย่างไม่ยอมแพ้; อย่างหนักแน่น","ex":"She tenaciously held on to her dream.","exTh":"เธอยึดมั่นกับความฝันอย่างไม่ยอมแพ้"}
+{"id":"magpie_noun","th":"นกกางเขน; คนชอบสะสมของจุกจิก","ex":"A magpie stole a shiny ring from the window.","exTh":"นกกางเขนตัวหนึ่งขโมยแหวนเงาวับจากหน้าต่าง"}
+{"id":"abhor_verb","th":"เกลียดชัง; รังเกียจอย่างยิ่ง","ex":"I abhor violence of any kind.","exTh":"ฉันรังเกียจความรุนแรงทุกรูปแบบ","note":"ภาษาทางการ"}
+{"id":"disparagement_noun","th":"การดูหมิ่น; การพูดให้เสียหาย","ex":"She was hurt by his constant disparagement.","exTh":"เธอเจ็บปวดกับการที่เขาดูถูกอยู่ตลอดเวลา"}
+{"id":"exorcism_noun","th":"พิธีขับไล่ผีสางปีศาจ","ex":"The priest performed an exorcism on the house.","exTh":"บาทหลวงทำพิธีขับไล่ปีศาจในบ้านหลังนั้น"}
+{"id":"contractually_adv","th":"ตามสัญญา; โดยข้อผูกพันของสัญญา","ex":"The company is contractually bound to pay him.","exTh":"บริษัทมีหน้าที่ต้องจ่ายเงินให้เขาตามสัญญา"}
+{"id":"brimstone_noun","th":"กำมะถัน; ไฟนรก","ex":"The old preacher spoke of fire and brimstone.","exTh":"นักเทศน์เฒ่ากล่าวถึงไฟและกำมะถันแห่งนรก","note":"มักใช้ในวลี fire and brimstone"}
+{"id":"virginal_adj","th":"บริสุทธิ์; เป็นพรหมจรรย์; ไม่เคยถูกแตะต้อง","ex":"The mountain was covered in virginal white snow.","exTh":"ภูเขาถูกปกคลุมด้วยหิมะขาวบริสุทธิ์"}
+{"id":"haphazardly_adv","th":"อย่างสะเปะสะปะ; อย่างไม่มีแบบแผน","ex":"Clothes were thrown haphazardly on the bed.","exTh":"เสื้อผ้าถูกโยนทิ้งไว้บนเตียงอย่างมั่วๆ"}
+{"id":"capacious_adj","th":"จุได้มาก; กว้างขวาง","ex":"She carried a capacious bag to the market.","exTh":"เธอถือกระเป๋าใบใหญ่จุของได้เยอะไปตลาด"}
+{"id":"hysterically_adv","th":"อย่างคลุ้มคลั่ง; อย่างขำจนควบคุมไม่ได้","ex":"The audience laughed hysterically at the joke.","exTh":"ผู้ชมหัวเราะลั่นไม่หยุดกับมุกตลกนั้น"}
+{"id":"proscription_noun","th":"การห้าม; การสั่งห้าม","ex":"There is a strict proscription against smoking here.","exTh":"ที่นี่มีข้อห้ามสูบบุหรี่อย่างเข้มงวด","note":"ภาษาทางการ"}
+{"id":"anarchic_adj","th":"ไร้ระเบียบ; ปราศจากการปกครอง","ex":"The festival had an anarchic, wild atmosphere.","exTh":"งานเทศกาลมีบรรยากาศวุ่นวายเป็นอิสระสุดๆ"}
+{"id":"farcical_adj","th":"น่าขัน; ตลกโปกฮา; ไร้สาระ","ex":"The trial turned into a farcical show.","exTh":"การพิจารณาคดีกลายเป็นการแสดงที่น่าขัน"}
+{"id":"ruminant_adj","th":"เคี้ยวเอื้อง; ครุ่นคิด","ex":"Cows are ruminant animals.","exTh":"วัวเป็นสัตว์เคี้ยวเอื้อง"}
+{"id":"shimmer_verb","th":"ระยิบระยับ; เป็นประกายวิบวับ","ex":"The lake shimmered in the moonlight.","exTh":"ทะเลสาบส่องประกายระยิบระยับใต้แสงจันทร์"}
+{"id":"ingenuous_adj","th":"ซื่อใส; ไร้เดียงสา; จริงใจ","ex":"She gave an ingenuous smile and told the truth.","exTh":"เธอยิ้มอย่างซื่อใสและบอกความจริง"}
+{"id":"gravitate_verb","th":"ถูกดึงดูดไปหา; โน้มเอียงไปทาง","ex":"Young people gravitate toward big cities.","exTh":"คนหนุ่มสาวมักถูกดึงดูดไปสู่เมืองใหญ่"}
+{"id":"unnerving_adj","th":"ที่ทำให้เสียขวัญ; ที่น่าหวาดหวั่น","ex":"It was unnerving to walk alone in the dark.","exTh":"การเดินคนเดียวในที่มืดทำให้ใจไม่ดี"}
+{"id":"autopilot_noun","th":"ระบบนำร่องอัตโนมัติ; การทำโดยไม่ได้คิด","ex":"I drove home on autopilot after the long day.","exTh":"ฉันขับรถกลับบ้านแบบไม่ได้คิดอะไรหลังวันที่ยาวนาน"}
+{"id":"zoologist_noun","th":"นักสัตววิทยา","ex":"The zoologist studied monkeys in the forest.","exTh":"นักสัตววิทยาศึกษาลิงในป่า"}
+{"id":"disparage_verb","th":"ดูหมิ่น; พูดให้เสียหาย; ดูถูก","ex":"Never disparage your coworkers in public.","exTh":"อย่าพูดดูถูกเพื่อนร่วมงานต่อหน้าคนอื่น"}
+{"id":"seedy_adj","th":"สกปรกเสื่อมโทรม; ไม่น่าไว้ใจ","ex":"They stayed in a seedy hotel near the station.","exTh":"พวกเขาพักที่โรงแรมโทรมๆ ใกล้สถานี"}
+{"id":"ignominious_adj","th":"น่าอับอาย; ขายหน้า","ex":"The team suffered an ignominious defeat.","exTh":"ทีมพ่ายแพ้อย่างน่าอับอาย"}
+{"id":"puritanical_adj","th":"เคร่งครัดศีลธรรมเกินไป; เคร่งแบบเพียวริแทน","ex":"His parents had a puritanical attitude to fun.","exTh":"พ่อแม่ของเขามีทัศนคติเคร่งครัดเกินไปต่อความสนุก"}
+{"id":"disdainful_adj","th":"ดูแคลน; หยิ่งทะนงมองข้าม","ex":"She gave him a disdainful look.","exTh":"เธอมองเขาด้วยสายตาดูแคลน"}
+{"id":"methodologically_adv","th":"ในแง่ระเบียบวิธี; อย่างเป็นระบบ","ex":"The study was methodologically sound.","exTh":"งานวิจัยนี้ถูกต้องในแง่ระเบียบวิธี"}
+{"id":"smattering_noun","th":"ความรู้เพียงเล็กน้อย; จำนวนเล็กน้อย","ex":"I only know a smattering of French.","exTh":"ฉันรู้ภาษาฝรั่งเศสเพียงนิดหน่อย"}
+{"id":"pervasiveness_noun","th":"ความแพร่หลาย; ความครอบคลุมทุกที่","ex":"The pervasiveness of social media surprises me.","exTh":"ความแพร่หลายของโซเชียลมีเดียทำให้ฉันประหลาดใจ"}
+{"id":"surreptitious_adj","th":"ลับๆ ล่อๆ; แอบทำ","ex":"He took a surreptitious glance at her phone.","exTh":"เขาชำเลืองดูโทรศัพท์ของเธออย่างแอบๆ"}
+{"id":"recuperate_verb","th":"พักฟื้น; ฟื้นตัว","ex":"He is recuperating at home after the operation.","exTh":"เขากำลังพักฟื้นที่บ้านหลังผ่าตัด"}
+{"id":"connote_verb","th":"มีความหมายแฝง; สื่อนัย","ex":"The word 'home' connotes warmth and safety.","exTh":"คำว่า home สื่อถึงความอบอุ่นและปลอดภัย"}
+{"id":"fete_noun","th":"งานรื่นเริง (กลางแจ้ง); งานเลี้ยงฉลอง","ex":"The school holds a summer fete every year.","exTh":"โรงเรียนจัดงานรื่นเริงฤดูร้อนทุกปี","note":"ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"squirm_verb","th":"ดิ้นไปมา; นั่งบิดตัวอย่างอึดอัด","ex":"The child squirmed in his seat during the long speech.","exTh":"เด็กนั่งบิดตัวไปมาบนเก้าอี้ระหว่างคำปราศรัยยาวๆ"}
+{"id":"nonchalantly_adv","th":"อย่างไม่ยี่หระ; อย่างเฉยเมย","ex":"He nonchalantly walked past the camera.","exTh":"เขาเดินผ่านกล้องไปอย่างไม่ยี่หระ"}
+{"id":"reptilian_adj","th":"เกี่ยวกับสัตว์เลื้อยคลาน; คล้ายสัตว์เลื้อยคลาน","ex":"The lizard has cold reptilian eyes.","exTh":"กิ้งก่ามีดวงตาเย็นชาแบบสัตว์เลื้อยคลาน"}
+{"id":"unadulterated_adj","th":"บริสุทธิ์; ไม่ผสมปน; แท้ล้วนๆ","ex":"It was unadulterated joy to see her again.","exTh":"การได้พบเธออีกครั้งเป็นความสุขล้วนๆ"}
+{"id":"flit_verb","th":"บินว่อน; ขยับไปมาอย่างรวดเร็วและเบา","ex":"Butterflies flitted from flower to flower.","exTh":"ผีเสื้อบินว่อนจากดอกไม้ดอกหนึ่งไปอีกดอกหนึ่ง"}
+{"id":"gambit_noun","th":"กลยุทธ์เปิดเกม; อุบายที่เริ่มต้นไว้","ex":"His opening gambit was to offer a lower price.","exTh":"กลยุทธ์แรกของเขาคือการเสนอราคาที่ต่ำลง"}
+{"id":"wallow_verb","th":"นอนกลิ้ง (ในโคลน); จมอยู่กับ (ความรู้สึก)","ex":"Pigs love to wallow in the mud.","exTh":"หมูชอบนอนกลิ้งในโคลน"}
+{"id":"verisimilitude_noun","th":"ความดูสมจริง; ความเหมือนจริง","ex":"The film's costumes add verisimilitude to the story.","exTh":"เครื่องแต่งกายในภาพยนตร์ทำให้เรื่องดูสมจริงมากขึ้น","note":"ภาษาทางการ"}
+{"id":"euphoric_adj","th":"ปลาบปลื้มสุดขีด; มีความสุขล้นพ้น","ex":"The fans were euphoric after the win.","exTh":"แฟนๆ ปลาบปลื้มสุดขีดหลังชัยชนะ"}
+{"id":"maelstrom_noun","th":"น้ำวนขนาดใหญ่; ความวุ่นวายสับสน","ex":"She was caught in a maelstrom of emotions.","exTh":"เธอตกอยู่ท่ามกลางพายุอารมณ์ที่ปั่นป่วน"}
+{"id":"blubber_noun","th":"ไขมันสัตว์ทะเล (ปลาวาฬ แมวน้ำ)","ex":"Whales keep warm with a thick layer of blubber.","exTh":"ปลาวาฬรักษาความอบอุ่นด้วยชั้นไขมันหนา"}
+{"id":"consign_verb","th":"ส่งมอบ; ทิ้งไป; ฝากไว้","ex":"She consigned the old letters to the trash.","exTh":"เธอทิ้งจดหมายเก่าลงถังขยะ"}
+{"id":"unpromising_adj","th":"ไม่มีทีท่าว่าจะดี; ไม่น่าหวัง","ex":"It was an unpromising start to the season.","exTh":"เป็นการเริ่มต้นฤดูกาลที่ไม่ค่อยน่าหวัง"}
+{"id":"revelatory_adj","th":"ที่เปิดเผยสิ่งใหม่; ที่ทำให้กระจ่าง","ex":"The documentary was a revelatory look at prison life.","exTh":"สารคดีเรื่องนี้เปิดเผยชีวิตในเรือนจำให้เห็นอย่างกระจ่าง"}
+{"id":"derisive_adj","th":"เยาะเย้ย; เย้ยหยัน","ex":"The crowd gave a derisive laugh.","exTh":"ฝูงชนหัวเราะเยาะเย้ย"}
+{"id":"unobtrusively_adv","th":"อย่างไม่สะดุดตา; อย่างไม่รบกวน","ex":"She slipped unobtrusively into the back of the room.","exTh":"เธอเดินเข้าไปนั่งท้ายห้องอย่างไม่ให้ใครสังเกต"}
+{"id":"prise_verb","th":"งัด; แงะ","ex":"He prised the lid off the tin with a knife.","exTh":"เขาใช้มีดงัดฝากระป๋องออก","note":"สะกดแบบอังกฤษ (อเมริกัน: pry)"}
+{"id":"snobbery_noun","th":"ความถือตัวว่าสูงกว่า; ความจองหอง","ex":"There is a lot of snobbery in the fashion world.","exTh":"วงการแฟชั่นมีความถือตัวอยู่มาก"}
+{"id":"denotation_noun","th":"ความหมายตรงตัว; การชี้เฉพาะ","ex":"The denotation of 'home' is the place where you live.","exTh":"ความหมายตรงตัวของ home คือสถานที่ที่คุณอยู่อาศัย"}
+{"id":"lassitude_noun","th":"ความอ่อนเพลีย; ความเฉื่อยชา","ex":"A feeling of lassitude came over him in the heat.","exTh":"ความอ่อนเพลียเข้าครอบงำเขาท่ามกลางความร้อน","note":"ภาษาทางการ"}
+{"id":"relegate_verb","th":"ลดชั้น; ลดตำแหน่ง; โยกไปอยู่ในฐานะต่ำกว่า","ex":"The team was relegated to the second division.","exTh":"ทีมตกชั้นไปอยู่ดิวิชันสอง"}
+{"id":"contraption_noun","th":"เครื่องประหลาด; อุปกรณ์ที่ดูซับซ้อนแปลกๆ","ex":"He built a strange contraption to water his plants.","exTh":"เขาประดิษฐ์เครื่องแปลกๆ ไว้รดน้ำต้นไม้"}
+{"id":"feign_verb","th":"แกล้งทำ; เสแสร้ง","ex":"She feigned illness to avoid going to school.","exTh":"เธอแกล้งป่วยเพื่อไม่ต้องไปโรงเรียน"}
+{"id":"calamitous_adj","th":"หายนะ; เลวร้ายอย่างยิ่ง","ex":"The flood had calamitous effects on the town.","exTh":"น้ำท่วมสร้างความเสียหายอย่างหนักแก่เมือง"}

@@ -1,0 +1,835 @@
+[
+{
+"id": "voice-in-the-wilderness_idiom",
+"w": "voice in the wilderness",
+"kind": "idiom",
+"gloss": [
+"A person, publication, or other source of assertions that expresses an opinion, doctrine, or point of view which is ignored or rejected by almost all others; the actual utterance of an unpopular opinion, doctrine, or point of view."
+]
+},
+{
+"id": "wrong-crowd_idiom",
+"w": "wrong crowd",
+"kind": "idiom",
+"gloss": [
+"A group of people deemed to have a negative influence on a person's behavior; a bad crowd."
+]
+},
+{
+"id": "push-up-daisies_idiom",
+"w": "push up daisies",
+"kind": "idiom",
+"gloss": [
+"To be dead."
+]
+},
+{
+"id": "butter-wouldn-t-melt-in-someone-s-mouth_idiom",
+"w": "butter wouldn't melt in someone's mouth",
+"kind": "idiom",
+"gloss": [
+"The identified person appears to be benign, mild-mannered, or calm (but with an integral suggestion that, to the contrary, they really are untrustworthy, disagreeable, or mean-spirited).",
+"The identified person is prim and proper, standoffish, cool, or dispassionate."
+]
+},
+{
+"id": "in-the-line-of-duty_idiom",
+"w": "in the line of duty",
+"kind": "idiom",
+"gloss": [
+"As part of or while performing official duties, usually of the military or police personnel, or of government officials.",
+"Used other than figuratively or idiomatically: see in, the, line, of, duty."
+]
+},
+{
+"id": "pocket-dial_idiom",
+"w": "pocket dial",
+"kind": "idiom",
+"gloss": [
+"A situation in which one's cellphone makes a call from one's pocket when its buttons are inadvertently pressed.",
+"To accidentally make a call this way."
+]
+},
+{
+"id": "in-the-interest-of-justice_idiom",
+"w": "in the interest of justice",
+"kind": "idiom",
+"gloss": [
+"The legal principle which allows judges to exercise discretion to ensure fairness and equity in a case, rather than adhere to rigid procedural rules.",
+"The reason of case dismissal used when the judge decides that justice will be best served when the case is dismissed. This reason can also be used with other than dismissal motions.",
+"Used other than figuratively or idiomatically: see in, the, interest, of, justice."
+]
+},
+{
+"id": "put-the-fear-of-god-into_idiom",
+"w": "put the fear of God into",
+"kind": "idiom",
+"gloss": [
+"To cause someone to repent through fear of the wrath of God.",
+"To cause someone to fear abjectly in other contexts; to terrify completely.",
+"To cause someone to obey through fear in other contexts; to terrify into submission."
+]
+},
+{
+"id": "see-past-the-end-of-one-s-nose_idiom",
+"w": "see past the end of one's nose",
+"kind": "idiom",
+"gloss": [
+"To have insight into underlying facts or consequences; to possess common sense or a vision for the future."
+]
+},
+{
+"id": "like-talking-to-a-wall_idiom",
+"w": "like talking to a wall",
+"kind": "idiom",
+"gloss": [
+"A futile or unsuccessful attempt at communication due to the ignorance or stubbornness of the other party."
+]
+},
+{
+"id": "take-no-prisoners_idiom",
+"w": "take no prisoners",
+"kind": "idiom",
+"gloss": [
+"To be uncompromising.",
+"Used other than figuratively or idiomatically: see take, prisoner."
+]
+},
+{
+"id": "slow-on-the-uptake_idiom",
+"w": "slow on the uptake",
+"kind": "idiom",
+"gloss": [
+"Of a person, slow to comprehend or process intellectually."
+]
+},
+{
+"id": "love-of-one-s-life_idiom",
+"w": "love of one's life",
+"kind": "idiom",
+"gloss": [
+"A soulmate; a one and only."
+]
+},
+{
+"id": "render-unto-caesar_idiom",
+"w": "render unto Caesar",
+"kind": "idiom",
+"gloss": [
+"To give (something) to one's state or government, especially in the form of a tax payment."
+]
+},
+{
+"id": "duty-calls_idiom",
+"w": "duty calls",
+"kind": "idiom",
+"gloss": [
+"Expresses that the speaker must go and deal with something."
+]
+},
+{
+"id": "on-a-first-name-basis_idiom",
+"w": "on a first-name basis",
+"kind": "idiom",
+"gloss": [
+"Having enough familiarity with another person to call them by their first name, as opposed to their surname."
+]
+},
+{
+"id": "not-one-s-first-rodeo_idiom",
+"w": "not one's first rodeo",
+"kind": "idiom",
+"gloss": [
+"Not the first time one has been in a particular situation; used to indicate past experience."
+]
+},
+{
+"id": "load-of-shit_idiom",
+"w": "load of shit",
+"kind": "idiom",
+"gloss": [
+"Something that is not true, a mass of lies (refers to bullshit).",
+"Any worthless structure or device.",
+"An event that did not go well or fell far short of what was expected or intended."
+]
+},
+{
+"id": "words-fail-someone_idiom",
+"w": "words fail someone",
+"kind": "idiom",
+"gloss": [
+"Someone is incapable of describing something with words, especially due to fear, shock, or surprise."
+]
+},
+{
+"id": "make-a-big-thing-out-of_idiom",
+"w": "make a big thing out of",
+"kind": "idiom",
+"gloss": [
+"To call attention to or publicize; to make a fuss about, especially unnecessarily."
+]
+},
+{
+"id": "call-roll_idiom",
+"w": "call roll",
+"kind": "idiom",
+"gloss": [
+"To make a roll call; to take attendance."
+]
+},
+{
+"id": "hazard-a-guess_idiom",
+"w": "hazard a guess",
+"kind": "idiom",
+"gloss": [
+"To make a guess; to guess."
+]
+},
+{
+"id": "kick-rocks_idiom",
+"w": "kick rocks",
+"kind": "idiom",
+"gloss": [
+"To leave or run away; to skedaddle; to waste one's own time (with some other meaningless task) rather than waste the speaker's time with something equally irritating or pointless. (often used imperatively and dismissively)."
+]
+},
+{
+"id": "find-one-s-place_idiom",
+"w": "find one's place",
+"kind": "idiom",
+"gloss": [
+"To discover one's vocation, purpose, and/or sense of belonging to or passion for something.",
+"To locate where (in a work of print) (one) had most recently stopped reading, in order to resume reading."
+]
+},
+{
+"id": "on-a-plate_idiom",
+"w": "on a plate",
+"kind": "idiom",
+"gloss": [
+"Within easy reach; easily achieved."
+]
+},
+{
+"id": "catch-someone-s-drift_idiom",
+"w": "catch someone's drift",
+"kind": "idiom",
+"gloss": [
+"To understand the meaning or implications of someone’s pronouncement."
+]
+},
+{
+"id": "put-a-gun-to-someone-s-head_idiom",
+"w": "put a gun to someone's head",
+"kind": "idiom",
+"gloss": [
+"To compel someone (to do something); to create a situation in which someone has no alternative course of action."
+]
+},
+{
+"id": "learn-to-walk-before-one-can-run_idiom",
+"w": "learn to walk before one can run",
+"kind": "idiom",
+"gloss": [
+"To learn how to perform simple tasks before one can perform a more complicated task.",
+"Used other than figuratively or idiomatically: see learn, walk, before, run."
+]
+},
+{
+"id": "run-at-the-mouth_idiom",
+"w": "run at the mouth",
+"kind": "idiom",
+"gloss": [
+"To speak ceaselessly or without end."
+]
+},
+{
+"id": "two-left-hands_idiom",
+"w": "two left hands",
+"kind": "idiom",
+"gloss": [
+"Lack of dexterity in either hand; being ambilevous.",
+"Used other than figuratively or idiomatically: see two, left, hands."
+]
+},
+{
+"id": "change-of-scenery_idiom",
+"w": "change of scenery",
+"kind": "idiom",
+"gloss": [
+"A movement from one location to another."
+]
+},
+{
+"id": "take-down-a-notch_idiom",
+"w": "take down a notch",
+"kind": "idiom",
+"gloss": [
+"To cause a person's or group's self-esteem or importance to be decreased.",
+"To cause the quantity, degree, or intensity of something to be decreased."
+]
+},
+{
+"id": "at-any-given-moment_idiom",
+"w": "at any given moment",
+"kind": "idiom",
+"gloss": [
+"At any point in time."
+]
+},
+{
+"id": "wear-sackcloth-and-ashes_idiom",
+"w": "wear sackcloth and ashes",
+"kind": "idiom",
+"gloss": [
+"To publicly express regret for something done wrong."
+]
+},
+{
+"id": "in-bad-taste_idiom",
+"w": "in bad taste",
+"kind": "idiom",
+"gloss": [
+"Offensive or inappropriate (of an action, often of jokes)."
+]
+},
+{
+"id": "suspended-congress_idiom",
+"w": "suspended congress",
+"kind": "idiom",
+"gloss": [
+"A sex position which consists of one participant carrying the other while penetrating them."
+]
+},
+{
+"id": "stick-in-someone-s-craw_idiom",
+"w": "stick in someone's craw",
+"kind": "idiom",
+"gloss": [
+"To cause lasting annoyance, irritation, or hard feelings."
+]
+},
+{
+"id": "blue-sky-thinking_idiom",
+"w": "blue-sky thinking",
+"kind": "idiom",
+"gloss": [
+"A form of thinking that is not grounded or in touch with the realities of the present, and can thus benefit from creative imagination."
+]
+},
+{
+"id": "how-s-tricks_idiom",
+"w": "how's tricks",
+"kind": "idiom",
+"gloss": [
+"Informal greeting roughly equivalent to How are you? or How's it going?"
+]
+},
+{
+"id": "psyched-up_idiom",
+"w": "psyched up",
+"kind": "idiom",
+"gloss": [
+"In a state of heightened mental preparedness for a difficult or hazardous enterprise, or one where success is particularly sought.",
+"Enthusiastic."
+]
+},
+{
+"id": "busted-flush_idiom",
+"w": "busted flush",
+"kind": "idiom",
+"gloss": [
+"A potential flush which ultimately was not filled.",
+"Anything which ends up worthless despite great potential."
+]
+},
+{
+"id": "monkey-wrench_idiom",
+"w": "monkey wrench",
+"kind": "idiom",
+"gloss": [
+"To apply a monkey wrench, e.g. to tighten or loosen nuts.",
+"To introduce problems, to create unexpected trouble, to sabotage."
+]
+},
+{
+"id": "out-of-the-way_idiom",
+"w": "out of the way",
+"kind": "idiom",
+"gloss": [
+"So as not to obstruct or hinder; not in the way.",
+"Taken care of; handled."
+]
+},
+{
+"id": "until-one-is-blue-in-the-face_idiom",
+"w": "until one is blue in the face",
+"kind": "idiom",
+"gloss": [
+"For a hopelessly long time; used especially in respect to discussing, explaining, insisting, etc."
+]
+},
+{
+"id": "what-s-the-good-of_idiom",
+"w": "what's the good of",
+"kind": "idiom",
+"gloss": [
+"What is the purpose or advantage of"
+]
+},
+{
+"id": "give-someone-the-runaround_idiom",
+"w": "give someone the runaround",
+"kind": "idiom",
+"gloss": [
+"To delay, dodge, or frustrate (someone), especially by providing useless information or directions."
+]
+},
+{
+"id": "hot-on-someone-s-heels_idiom",
+"w": "hot on someone's heels",
+"kind": "idiom",
+"gloss": [
+"Close behind; pursuing or following closely."
+]
+},
+{
+"id": "beats-me_idiom",
+"w": "beats me",
+"kind": "idiom",
+"gloss": [
+"I don't know; I have no idea.",
+"Used other than figuratively or idiomatically: see beats, me."
+]
+},
+{
+"id": "under-the-wire_idiom",
+"w": "under the wire",
+"kind": "idiom",
+"gloss": [
+"Across the finish line.",
+"At the last minute; before the deadline; barely on time; nearly late."
+]
+},
+{
+"id": "on-a-shoestring_idiom",
+"w": "on a shoestring",
+"kind": "idiom",
+"gloss": [
+"On a very tight budget; with few resources or little money."
+]
+},
+{
+"id": "raise-cain_idiom",
+"w": "raise Cain",
+"kind": "idiom",
+"gloss": [
+"Synonym of raise hell."
+]
+},
+{
+"id": "charm-offensive_idiom",
+"w": "charm offensive",
+"kind": "idiom",
+"gloss": [
+"A campaign of deliberately using charm and flattery in order to achieve some goal, especially in a political or diplomatic field."
+]
+},
+{
+"id": "snowball-s-chance-in-hell_idiom",
+"w": "snowball's chance in hell",
+"kind": "idiom",
+"gloss": [
+"Almost no chance at all of an occurrence or success."
+]
+},
+{
+"id": "kill-the-fatted-calf_idiom",
+"w": "kill the fatted calf",
+"kind": "idiom",
+"gloss": [
+"To begin a festive celebration and rejoice for someone's long-awaited return."
+]
+},
+{
+"id": "smoking-gun_idiom",
+"w": "smoking gun",
+"kind": "idiom",
+"gloss": [
+"Evidence, particularly of a crime, that is difficult or impossible to dispute."
+]
+},
+{
+"id": "here-goes-nothing_idiom",
+"w": "here goes nothing",
+"kind": "idiom",
+"gloss": [
+"Indicates a lack of confidence or certainty about the activity about to be tried, but that it will be attempted nonetheless."
+]
+},
+{
+"id": "leave-someone-high-and-dry_idiom",
+"w": "leave someone high and dry",
+"kind": "idiom",
+"gloss": [
+"To abandon somebody; to stop providing assistance at a crucial moment."
+]
+},
+{
+"id": "count-sheep_idiom",
+"w": "count sheep",
+"kind": "idiom",
+"gloss": [
+"To attempt to go to sleep by thinking of something boring, traditionally by counting imaginary sheep."
+]
+},
+{
+"id": "push-the-envelope_idiom",
+"w": "push the envelope",
+"kind": "idiom",
+"gloss": [
+"To go beyond established limits; to pioneer."
+]
+},
+{
+"id": "run-around-like-a-chicken-with-its-head-cut-off_idiom",
+"w": "run around like a chicken with its head cut off",
+"kind": "idiom",
+"gloss": [
+"To act in a haphazard or aimless way; to act frantically or without control."
+]
+},
+{
+"id": "sweat-bullets_idiom",
+"w": "sweat bullets",
+"kind": "idiom",
+"gloss": [
+"To sweat profusely; especially, to be very nervous or anxious."
+]
+},
+{
+"id": "get-with-the-program_idiom",
+"w": "get with the program",
+"kind": "idiom",
+"gloss": [
+"To become organized, current, or aware; to adopt the prevailing viewpoint.",
+"To work productively toward the objective of a shared enterprise, especially after the objective or the environment has changed.",
+"To comply with the norms of a social group, especially a shared enterprise; to comply with the accepted or prevailing way of doing things."
+]
+},
+{
+"id": "not-the-end-of-the-world_idiom",
+"w": "not the end of the world",
+"kind": "idiom",
+"gloss": [
+"(It's of) minor importance, at least not as important as it first seemed."
+]
+},
+{
+"id": "for-crying-out-loud_idiom",
+"w": "for crying out loud",
+"kind": "idiom",
+"gloss": [
+"Used to express frustration, exasperation, or annoyance."
+]
+},
+{
+"id": "shoot-em-up_idiom",
+"w": "shoot 'em up",
+"kind": "idiom",
+"gloss": [
+"A piece of media which depicts considerable gunplay.",
+"A video game in which one plays as a character moving and shooting in an autoscrolling two-dimensional world, with emphasis on dodging bullets and predicting enemy movement patterns."
+]
+},
+{
+"id": "hang-up-one-s-boots_idiom",
+"w": "hang up one's boots",
+"kind": "idiom",
+"gloss": [
+"to retire, call it a day (used especially in the context of sports)."
+]
+},
+{
+"id": "stew-in-one-s-juices_idiom",
+"w": "stew in one's juices",
+"kind": "idiom",
+"gloss": [
+"To be alone and self-absorbed in an uncomfortable state of mind, especially while experiencing the unpleasant effects of one's own actions."
+]
+},
+{
+"id": "fingers-crossed_idiom",
+"w": "fingers crossed",
+"kind": "idiom",
+"gloss": [
+"Hopefully.",
+"Used to express that one is expectant and hoping."
+]
+},
+{
+"id": "backhanded-compliment_idiom",
+"w": "backhanded compliment",
+"kind": "idiom",
+"gloss": [
+"An insult disguised as a compliment; a compliment which can be interpreted as an insult."
+]
+},
+{
+"id": "herd-cats_idiom",
+"w": "herd cats",
+"kind": "idiom",
+"gloss": [
+"To attempt to control the uncontrollable; to attempt to manage a great many unruly factors or people to a single end.",
+"Used other than figuratively or idiomatically: see herd, cat."
+]
+},
+{
+"id": "point-the-finger-at_idiom",
+"w": "point the finger at",
+"kind": "idiom",
+"gloss": [
+"To accuse or blame (someone)."
+]
+},
+{
+"id": "on-the-button_idiom",
+"w": "on the button",
+"kind": "idiom",
+"gloss": [
+"Exactly, precisely."
+]
+},
+{
+"id": "in-a-pig-s-eye_idiom",
+"w": "in a pig's eye",
+"kind": "idiom",
+"gloss": [
+"Under very unlikely circumstances; probably never."
+]
+},
+{
+"id": "everything-but-the-kitchen-sink_idiom",
+"w": "everything but the kitchen sink",
+"kind": "idiom",
+"gloss": [
+"Almost everything, whether needed or not."
+]
+},
+{
+"id": "walk-the-plank_idiom",
+"w": "walk the plank",
+"kind": "idiom",
+"gloss": [
+"To be forced to resign from a position in an organization."
+]
+},
+{
+"id": "give-the-lie-to_idiom",
+"w": "give the lie to",
+"kind": "idiom",
+"gloss": [
+"To reveal or prove (something) to be false; to refute."
+]
+},
+{
+"id": "grunt-work_idiom",
+"w": "grunt work",
+"kind": "idiom",
+"gloss": [
+"Work (especially that which is heavy, repetitive or mindless) that is considered undesirable and therefore delegated to underlings."
+]
+},
+{
+"id": "poster-child_idiom",
+"w": "poster child",
+"kind": "idiom",
+"gloss": [
+"One who is a prototypical or quintessential example of something."
+]
+},
+{
+"id": "not-a-chance_idiom",
+"w": "not a chance",
+"kind": "idiom",
+"gloss": [
+"Absolutely not; no way."
+]
+},
+{
+"id": "sit-still_idiom",
+"w": "sit still",
+"kind": "idiom",
+"gloss": [
+"To remain motionless.",
+"To accept, tolerate, or acquiesce."
+]
+},
+{
+"id": "oh-my-gosh_idiom",
+"w": "oh my gosh",
+"kind": "idiom",
+"gloss": [
+"oh my God!"
+]
+},
+{
+"id": "on-the-double_idiom",
+"w": "on the double",
+"kind": "idiom",
+"gloss": [
+"Rapidly or immediately."
+]
+},
+{
+"id": "ghetto-bird_idiom",
+"w": "ghetto bird",
+"kind": "idiom",
+"gloss": [
+"A police helicopter, specifically in the context of patrolling or searching impoverished, high-crime urban areas (the ghetto)."
+]
+},
+{
+"id": "straight-face_idiom",
+"w": "straight face",
+"kind": "idiom",
+"gloss": [
+"A face that is expressionless, especially not laughing."
+]
+},
+{
+"id": "get-to-grips-with_idiom",
+"w": "get to grips with",
+"kind": "idiom",
+"gloss": [
+"To deal (with something) decisively, or to confront (it) head on.",
+"To battle (with something).",
+"To gain an understanding (of something)."
+]
+},
+{
+"id": "tough-luck_idiom",
+"w": "tough luck",
+"kind": "idiom",
+"gloss": [
+"Bad luck.",
+"Bad luck (often an unsympathetic retort to someone who is suffering a misfortune)."
+]
+},
+{
+"id": "on-the-back-foot_idiom",
+"w": "on the back foot",
+"kind": "idiom",
+"gloss": [
+"Having the weight on the back foot in order to play a defensive stroke",
+"in a defensive posture; on the defensive; off balance; at a disadvantage."
+]
+},
+{
+"id": "save-the-day_idiom",
+"w": "save the day",
+"kind": "idiom",
+"gloss": [
+"To rescue a person or situation from imminent danger or major failure."
+]
+},
+{
+"id": "swallow-one-s-pride_idiom",
+"w": "swallow one's pride",
+"kind": "idiom",
+"gloss": [
+"To set aside one's feelings of pride and adopt a more humble or appropriate stance."
+]
+},
+{
+"id": "strut-one-s-stuff_idiom",
+"w": "strut one's stuff",
+"kind": "idiom",
+"gloss": [
+"To behave or perform in a showy or ostentatious manner, as if to impress others; to show off."
+]
+},
+{
+"id": "down-in-the-dumps_idiom",
+"w": "down in the dumps",
+"kind": "idiom",
+"gloss": [
+"Sad; lacking engagement or enthusiasm."
+]
+},
+{
+"id": "blow-out-of-proportion_idiom",
+"w": "blow out of proportion",
+"kind": "idiom",
+"gloss": [
+"To overreact to or overstate; to treat too seriously or be overly concerned with."
+]
+},
+{
+"id": "private-eye_idiom",
+"w": "private eye",
+"kind": "idiom",
+"gloss": [
+"A private personal detective, employed to gather information about someone."
+]
+},
+{
+"id": "sex-machine_idiom",
+"w": "sex machine",
+"kind": "idiom",
+"gloss": [
+"Someone with considerable sexual prowess.",
+"Any machine that is used for sexual pleasure."
+]
+},
+{
+"id": "evil-twin_idiom",
+"w": "evil twin",
+"kind": "idiom",
+"gloss": [
+"A duplicate or counterpart that acts in a contrary, nefarious, or insidious manner.",
+"A rogue wireless access point installed near a legitimate one for purposes of eavesdropping or phishing."
+]
+},
+{
+"id": "hard-feelings_idiom",
+"w": "hard feelings",
+"kind": "idiom",
+"gloss": [
+"Resentment, anger."
+]
+},
+{
+"id": "anything-goes_idiom",
+"w": "anything goes",
+"kind": "idiom",
+"gloss": [
+"There are no rules or restrictions."
+]
+},
+{
+"id": "make-no-bones-about_idiom",
+"w": "make no bones about",
+"kind": "idiom",
+"gloss": [
+"To do, indicate, or say something clearly and without hesitation, even if it may be unpleasant."
+]
+},
+{
+"id": "camel-through-the-eye-of-a-needle_idiom",
+"w": "camel through the eye of a needle",
+"kind": "idiom",
+"gloss": [
+"Hyperbole to illustrate something that is impossible to do or to make happen."
+]
+},
+{
+"id": "loaded-for-bear_idiom",
+"w": "loaded for bear",
+"kind": "idiom",
+"gloss": [
+"Thoroughly equipped, as for a demanding task or confrontation.",
+"Mentally prepared for a daunting situation or confrontation."
+]
+}
+]

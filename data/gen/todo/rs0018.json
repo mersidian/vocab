@@ -1,0 +1,825 @@
+[
+{
+"id": "drowsy_x",
+"w": "drowsy",
+"gloss": [
+"Inclined to drowse; heavy with sleepiness",
+"Causing someone to fall sleep or feel sleepy; lulling; soporific.",
+"Boring."
+]
+},
+{
+"id": "downside_x",
+"w": "downside",
+"gloss": [
+"A disadvantageous aspect of something that is normally advantageous.",
+"A downward tendency, especially in the price of shares etc.",
+"The side of something that is at the bottom, or that is intended to face downward."
+]
+},
+{
+"id": "alveoli_x",
+"w": "alveoli"
+},
+{
+"id": "reps_x",
+"w": "reps",
+"gloss": [
+"Rep."
+]
+},
+{
+"id": "gladness_x",
+"w": "gladness",
+"gloss": [
+"The state of being glad; joy."
+]
+},
+{
+"id": "pant_x",
+"w": "pant",
+"gloss": [
+"A quick breathing; a catching of the breath; a gasp: the panting of animals such as a dog with their tong hung out- as a form of thermoregulation.",
+"Eager longing.",
+"A violent palpitation of the heart."
+]
+},
+{
+"id": "rooster_x",
+"w": "rooster",
+"gloss": [
+"A male domestic chicken (Gallus gallus domesticus) or other gallinaceous bird.",
+"A bird or bat which roosts or is roosting.",
+"An informer."
+]
+},
+{
+"id": "customize_x",
+"w": "customize",
+"gloss": [
+"To build or alter according to personal preferences or specifications."
+]
+},
+{
+"id": "entrust_x",
+"w": "entrust",
+"gloss": [
+"To trust to the care of."
+]
+},
+{
+"id": "login_x",
+"w": "login",
+"gloss": [
+"Credentials: the combination of a user's identification and password used to enter a computer, program, network, etc.",
+"The process or an instance of logging in.",
+"A surname."
+]
+},
+{
+"id": "glutamine_x",
+"w": "glutamine",
+"gloss": [
+"A nonessential amino acid C₅H₁₀N₂O₃ found in most animal and plant proteins."
+]
+},
+{
+"id": "payback_x",
+"w": "payback",
+"gloss": [
+"An act of revenge.",
+"A benefit, reward, a form of recompense.",
+"A return on investment."
+]
+},
+{
+"id": "cookbook_x",
+"w": "cookbook",
+"gloss": [
+"A book or an encyclopedia of recipes and cookery tips.",
+"Any book or set of strategies and tips."
+]
+},
+{
+"id": "cistern_x",
+"w": "cistern",
+"gloss": [
+"A reservoir or tank for holding water, especially for catching and holding rainwater for later use.",
+"In a flush toilet, the container in which the water used for flushing is held; a toilet tank.",
+"A shallow, typically oval, vessel made of porcelain, pottery, or glass."
+]
+},
+{
+"id": "walkway_x",
+"w": "walkway",
+"gloss": [
+"A clearly defined path for pedestrians."
+]
+},
+{
+"id": "separatist_x",
+"w": "separatist",
+"gloss": [
+"Someone who advocates separation from the established Church; a member of any of various sects or schismatic movements.",
+"A person who advocates or seeks the splitting of one country or territory into two politically independent countries or territories.",
+"Advocating ecclesiastical separation."
+]
+},
+{
+"id": "mumps_x",
+"w": "mumps",
+"gloss": [
+"A contagious disease caused by the Mumps virus of the genus Rubulavirus, mostly occurring in childhood, which causes swelling of glands in the face and neck.",
+"A gloomy or sullen silence."
+]
+},
+{
+"id": "carcinogen_x",
+"w": "carcinogen",
+"gloss": [
+"A substance or agent that can cause cancer."
+]
+},
+{
+"id": "lyre_x",
+"w": "lyre",
+"gloss": [
+"An ancient stringed musical instrument (a yoke lute chordophone) of Greek origin, consisting of two arms extending from a body to a crossbar (a yoke), and strings, parallel to the soundboard, connecting the body to the yoke.",
+"Any instrument of the same musicological classification; any yoke lute.",
+"A lyre-shaped sheet music holder that attaches to a wind instrument when a music stand is impractical."
+]
+},
+{
+"id": "urology_x",
+"w": "urology",
+"gloss": [
+"The surgical specialty of medicine that treats disorders of the urinary tract and the urogenital system."
+]
+},
+{
+"id": "prophesy_x",
+"w": "prophesy",
+"gloss": [
+"To speak or write with divine inspiration; to act as prophet.",
+"To predict, to foretell (with or without divine inspiration).",
+"To foreshow; to herald; to prefigure."
+]
+},
+{
+"id": "contestant_x",
+"w": "contestant",
+"gloss": [
+"A participant in a contest; specifically, a person who plays a game, as on a TV game show.",
+"One who brings a legal challenge (such as a will, verdict, or decision)."
+]
+},
+{
+"id": "entrant_x",
+"w": "entrant",
+"gloss": [
+"A participant who enters something, such as a contest.",
+"A newcomer."
+]
+},
+{
+"id": "knuckle_x",
+"w": "knuckle",
+"gloss": [
+"Any of the joints between the bones of the fingers.",
+"A mechanical joint.",
+"The curved part of the cushion at the entrance to the pockets on a cue sports table."
+]
+},
+{
+"id": "entice_x",
+"w": "entice",
+"gloss": [
+"To lure; to attract by arousing desire or hope."
+]
+},
+{
+"id": "incite_x",
+"w": "incite",
+"gloss": [
+"To call into action.",
+"To entreat an act.",
+"To instigate a specific incident."
+]
+},
+{
+"id": "refundable_x",
+"w": "refundable",
+"gloss": [
+"Able to be refunded in case of customer dissatisfaction, loss, breakage etc.",
+"Something that is eligible to be refunded."
+]
+},
+{
+"id": "kindle_x",
+"w": "kindle",
+"gloss": [
+"To start (a fire) or light (a torch, a match, coals, etc.).",
+"To arouse or inspire (a passion, etc).",
+"To begin to grow or take hold."
+]
+},
+{
+"id": "scorpion_x",
+"w": "scorpion",
+"gloss": [
+"Any of the order Scorpiones of arachnids related to spiders, characterised by two large front pincers and a curved tail with a venomous sting at the end.",
+"An ancient military engine for hurling stones and other missiles.",
+"A very spiteful or vindictive person."
+]
+},
+{
+"id": "unfaithful_x",
+"w": "unfaithful",
+"gloss": [
+"Not having religious faith.",
+"Not keeping good faith; disloyal; not faithful.",
+"Adulterous."
+]
+},
+{
+"id": "letterhead_x",
+"w": "letterhead",
+"gloss": [
+"A portion of text at the top of a letter, identifying the sender and often giving their address etc., used for formal correspondence.",
+"Paper marked with a letterhead."
+]
+},
+{
+"id": "binge_x",
+"w": "binge",
+"gloss": [
+"A short period of excessive consumption, especially of food, alcohol, narcotics, etc.",
+"A compressed period of an activity done in excess, such as watching a television show.",
+"To engage in a short period of excessive consumption, especially of excessive alcohol or media consumption."
+]
+},
+{
+"id": "turban_x",
+"w": "turban",
+"gloss": [
+"A man's headdress made by winding a length of cloth round the head.",
+"A woman's close-fitting hat with little or no brim.",
+"The complete set of whorls of a spiral shell."
+]
+},
+{
+"id": "paramilitary_x",
+"w": "paramilitary",
+"gloss": [
+"A group of civilians trained and organized in a military fashion, but which do not represent the formal forces of a sovereign power.",
+"A member of a paramilitary group.",
+"Relating to a paramilitary."
+]
+},
+{
+"id": "dismantle_x",
+"w": "dismantle",
+"gloss": [
+"To take apart; to disassemble; to take to pieces.",
+"To disprove a discourse, claim or argument.",
+"To divest, strip of dress or covering."
+]
+},
+{
+"id": "amenity_x",
+"w": "amenity",
+"gloss": [
+"Pleasantness.",
+"Convenience.",
+"A unit pertaining to the infrastructure of a community, such as a public toilet, a postbox, a library, among others."
+]
+},
+{
+"id": "storeroom_x",
+"w": "storeroom",
+"gloss": [
+"A room used for storage."
+]
+},
+{
+"id": "inexperience_x",
+"w": "inexperience",
+"gloss": [
+"A lack of experience."
+]
+},
+{
+"id": "payout_x",
+"w": "payout",
+"gloss": [
+"An amount of money paid out.",
+"The value of dividends paid to shareholders."
+]
+},
+{
+"id": "deceitful_x",
+"w": "deceitful",
+"gloss": [
+"Deliberately misleading or cheating.",
+"Deceptive, two-faced."
+]
+},
+{
+"id": "manna_x",
+"w": "manna",
+"gloss": [
+"Food miraculously produced for the Israelites in the desert in the book of Exodus.",
+"Any boon which comes into one's hands by good luck.",
+"The sugary sap of the manna gum tree which oozes out from holes drilled by insects and falls to the ground around the tree."
+]
+},
+{
+"id": "endoscopy_x",
+"w": "endoscopy",
+"gloss": [
+"The examination of a bodily orifice, canal or organ using an endoscope."
+]
+},
+{
+"id": "thumping_x",
+"w": "thumping",
+"gloss": [
+"Exceptional in some degree.",
+"Exceptionally. Very.",
+"A dull, heavy sound."
+]
+},
+{
+"id": "persevere_x",
+"w": "persevere",
+"gloss": [
+"To persist steadfastly in pursuit of an undertaking, task, journey, or goal, even if hindered by distraction, difficulty, obstacles, or discouragement.",
+"To stay constant; to continue in a certain state; to remain."
+]
+},
+{
+"id": "scoundrel_x",
+"w": "scoundrel",
+"gloss": [
+"A mean, worthless fellow; a rascal; a villain; a person without honor or virtue."
+]
+},
+{
+"id": "showroom_x",
+"w": "showroom",
+"gloss": [
+"A room in a business set aside for the display of the company's products.",
+"A room or apartment where a show is exhibited.",
+"To inspect merchandise in a physical store, then purchase the identical product from an online merchant; to use a physical store as a showroom for an online merchant."
+]
+},
+{
+"id": "cramp_x",
+"w": "cramp",
+"gloss": [
+"A painful contraction of a muscle which cannot be controlled; (sometimes) a similar pain even without noticeable contraction.",
+"That which confines or contracts.",
+"A clamp for carpentry or masonry."
+]
+},
+{
+"id": "treadmill_x",
+"w": "treadmill",
+"gloss": [
+"A piece of indoor sporting equipment used to allow for the motions of running or walking while staying in one place.",
+"A mill worked by persons treading upon steps on the periphery of a wide wheel having a horizontal axis. It was used principally as a means of prison discipline.",
+"A mill worked by horses, dogs, etc., treading an endless belt."
+]
+},
+{
+"id": "wrinkle_x",
+"w": "wrinkle",
+"gloss": [
+"A small furrow, ridge or crease in an otherwise smooth surface.",
+"A line or crease in the skin, especially when caused by age or fatigue.",
+"A fault, imperfection or bug especially in a new system or product; typically, they will need to be ironed out."
+]
+},
+{
+"id": "flatten_x",
+"w": "flatten",
+"gloss": [
+"To make something flat or flatter.",
+"To press one's body tightly against a surface, such as a wall or floor, especially in order to avoid being seen or harmed.",
+"To knock down or lay low."
+]
+},
+{
+"id": "rehearse_x",
+"w": "rehearse",
+"gloss": [
+"To repeat, as what has been already said; to tell over again; to recite.",
+"To narrate; to relate; to tell; to recount.",
+"To practise by recitation or repetition in private for experiment and improvement, prior to a public representation, especially in theater."
+]
+},
+{
+"id": "creatine_x",
+"w": "creatine",
+"gloss": [
+"An amino acid, 2-(carbamimidoyl-methyl- amino)acetic acid, which naturally occurs in vertebrates and helps to supply energy to muscle and nerve cells."
+]
+},
+{
+"id": "oesophagus_x",
+"w": "oesophagus",
+"gloss": [
+"The tube that carries food from the pharynx to the stomach."
+]
+},
+{
+"id": "oust_x",
+"w": "oust",
+"gloss": [
+"To expel; to remove."
+]
+},
+{
+"id": "crayon_x",
+"w": "crayon",
+"gloss": [
+"A stick of colored chalk or wax used for drawing.",
+"A colored pencil, a colouring pencil",
+"A crayon drawing, or a drawing with colored lines."
+]
+},
+{
+"id": "drunkard_x",
+"w": "drunkard",
+"gloss": [
+"A person who is habitually drunk."
+]
+},
+{
+"id": "arrhythmia_x",
+"w": "arrhythmia",
+"gloss": [
+"An irregular heartbeat; a lack of a regular pulse.",
+"A disease entity involving such beats, such as atrial fibrillation, ventricular tachycardia, AV nodal reentrant tachycardia, or others."
+]
+},
+{
+"id": "spam_x",
+"w": "spam",
+"gloss": [
+"Unsolicited bulk electronic messages.",
+"Any undesired electronic content automatically generated for commercial purposes.",
+"Excessive, often unwanted and repeated online messages."
+]
+},
+{
+"id": "dealership_x",
+"w": "dealership",
+"gloss": [
+"A place that sells items, especially cars."
+]
+},
+{
+"id": "goodbye_x",
+"w": "goodbye",
+"gloss": [
+"Farewell; a formula used to another person or persons when the speaker, writer, or person addressed is departing.",
+"An utterance of goodbye, the wishing of farewell to someone.",
+"To say goodbye; to wish somebody farewell on parting."
+]
+},
+{
+"id": "scrotum_x",
+"w": "scrotum",
+"gloss": [
+"The sac of skin and muscle that contains and protects the testicles in most placental mammals.",
+"The pouch or volva of certain fungi."
+]
+},
+{
+"id": "darken_x",
+"w": "darken",
+"gloss": [
+"To make dark or darker by reducing light.",
+"To become dark or darker (having less light).",
+"To get dark (referring to the sky, either in the evening or as a result of cloud)."
+]
+},
+{
+"id": "outage_x",
+"w": "outage",
+"gloss": [
+"A temporary suspension of operation, especially of electrical power supply.",
+"The amount of something lost in storage or transportation."
+]
+},
+{
+"id": "shred_x",
+"w": "shred",
+"gloss": [
+"A fragment of something; a particle; a piece; also, a very small amount.",
+"A long, narrow piece (especially of fabric) cut or torn off; a strip; specifically, a piece of cloth or clothing.",
+"A thin strand or wisp, as of a cloud, mist, etc."
+]
+},
+{
+"id": "fortify_x",
+"w": "fortify",
+"gloss": [
+"To give power, strength, or vigour to (oneself or someone, or to something); to strengthen.",
+"To support (one's or someone's opinion, statement, etc.) by producing evidence, etc.; to confirm, to corroborate.",
+"To increase the nutritional value of (food) by adding ingredients, especially minerals or vitamins."
+]
+},
+{
+"id": "tuple_x",
+"w": "tuple",
+"gloss": [
+"A finite sequence of terms.",
+"A single row in a relational database.",
+"A set of comma-separated values passed to a program or operating system as a parameter to a function call."
+]
+},
+{
+"id": "demonstrator_x",
+"w": "demonstrator",
+"gloss": [
+"One who demonstrates anything, or proves beyond doubt.",
+"The forefinger.",
+"One who takes part in a demonstration; a protester."
+]
+},
+{
+"id": "favoritism_x",
+"w": "favoritism"
+},
+{
+"id": "spokesperson_x",
+"w": "spokesperson",
+"gloss": [
+"A person who acts as the voice of another person or a group of people."
+]
+},
+{
+"id": "firstborn_x",
+"w": "firstborn",
+"gloss": [
+"The first child to be born to a parent or family.",
+"Born as the first one in a family, flock or the like.",
+"Most excellent; most distinguished or exalted."
+]
+},
+{
+"id": "restate_x",
+"w": "restate",
+"gloss": [
+"to state again (without changing)",
+"to state differently; to rephrase"
+]
+},
+{
+"id": "blameless_x",
+"w": "blameless",
+"gloss": [
+"Free from blame; without fault; innocent.",
+"Not meriting blame or censure; undeserving of reproof."
+]
+},
+{
+"id": "wasteland_x",
+"w": "wasteland",
+"gloss": [
+"A place with no remaining resources; a desert.",
+"Any barren or uninteresting place.",
+"A devastated, uninhabitable area."
+]
+},
+{
+"id": "bloated_x",
+"w": "bloated",
+"gloss": [
+"Swollen with fluid or gas.",
+"Excessively or extremely large or wealthy.",
+"Excessively overloaded with features, like bloatware."
+]
+},
+{
+"id": "paycheck_x",
+"w": "paycheck",
+"gloss": [
+"A periodic payment, usually in the form of a paper check, received by an employee from an employer for work performed."
+]
+},
+{
+"id": "hardworking_x",
+"w": "hardworking",
+"gloss": [
+"Of a person, taking their work seriously and doing it well and rapidly."
+]
+},
+{
+"id": "ejaculation_x",
+"w": "ejaculation",
+"gloss": [
+"The act of ejecting or suddenly throwing fluid or some other substance from a duct or other body structure.",
+"A reflex in human beings and other mammals in response to sexual stimulation involving the forcible ejection from the urethra of, in males, semen; and, in females, vaginal fluid.",
+"The act of throwing or darting out with a sudden force and rapid flight."
+]
+},
+{
+"id": "freighter_x",
+"w": "freighter",
+"gloss": [
+"One who loads a ship.",
+"One who charters and loads a ship.",
+"One employed in receiving and forwarding freight."
+]
+},
+{
+"id": "excruciating_x",
+"w": "excruciating",
+"gloss": [
+"Causing great pain or anguish, agonizing",
+"Exceedingly intense; extreme"
+]
+},
+{
+"id": "grimace_x",
+"w": "grimace",
+"gloss": [
+"A contorted facial expression, often expressing contempt or pain.",
+"Affectation, pretence.",
+"To make grimaces; to distort one's face; to make faces."
+]
+},
+{
+"id": "enema_x",
+"w": "enema",
+"gloss": [
+"An injection of fluid into the large intestine by way of the rectum, usually for medical purposes.",
+"The fluid so injected.",
+"A device for administering such an injection."
+]
+},
+{
+"id": "hallucination_x",
+"w": "hallucination",
+"gloss": [
+"A sensory perception of something that does not exist, often arising from disorder of the nervous system, as in delirium tremens.",
+"The act of hallucinating; a wandering of the mind; an error, mistake or blunder.",
+"A confident but incorrect response given by an artificial intelligence; a confabulation."
+]
+},
+{
+"id": "extinguisher_x",
+"w": "extinguisher",
+"gloss": [
+"A fire extinguisher.",
+"A small hollow conical instrument for putting out a candle."
+]
+},
+{
+"id": "underwrite_x",
+"w": "underwrite",
+"gloss": [
+"To write below or under; subscribe.",
+"To subscribe (a document, policy etc.) with one's name.",
+"To sign; to put one's name to."
+]
+},
+{
+"id": "cleric_x",
+"w": "cleric",
+"gloss": [
+"A member of a clergy.",
+"A spellcaster class that receives their spells (especially healing) from their deity.",
+"Of or pertaining to the clergy."
+]
+},
+{
+"id": "chakra_x",
+"w": "chakra",
+"gloss": [
+"Any of (at least) seven centres of spiritual energy in or near the body, according to Ayurveda philosophy.",
+"Synonym of hackery."
+]
+},
+{
+"id": "hurl_x",
+"w": "hurl",
+"gloss": [
+"To throw (something) with force.",
+"To utter (harsh or derogatory speech), especially at its target.",
+"To participate in the sport of hurling."
+]
+},
+{
+"id": "swab_x",
+"w": "swab",
+"gloss": [
+"A small piece of soft, absorbent material, such as gauze, used to clean wounds, apply medicine, or take samples of body fluids. Often attached to a stick or wire to aid access.",
+"A sample taken with a swab (piece of absorbent material).",
+"A piece of material used for cleaning or sampling other items like musical instruments or guns."
+]
+},
+{
+"id": "disobey_x",
+"w": "disobey",
+"gloss": [
+"To refuse or (intentionally) fail to adhere to (a rule) or to obey an order from (somebody).",
+"To refuse or (intentionally) fail to obey."
+]
+},
+{
+"id": "myopia_x",
+"w": "myopia",
+"gloss": [
+"A disorder of the vision where distant objects appear blurred because the eye focuses their images in front of the retina instead of on it.",
+"A lack of imagination, discernment or long-range perspective in thinking or planning."
+]
+},
+{
+"id": "wow_x",
+"w": "wow",
+"gloss": [
+"An indication of excitement, surprise, astonishment, or pleasure.",
+"An expression of amazement, awe, or admiration.",
+"Used sarcastically to express disapproval of something."
+]
+},
+{
+"id": "amen_x",
+"w": "amen",
+"gloss": [
+"At the end of a religious prayer: so be it.",
+"Used to indicate emphatic agreement.",
+"Certainly; verily."
+]
+},
+{
+"id": "exhale_x",
+"w": "exhale",
+"gloss": [
+"To expel air from the lungs through the nose or mouth by action of the diaphragm, to breathe out.",
+"To expel (something, such as tobacco smoke) from the lungs by action of the diaphragm.",
+"To pass off in the form of vapour; to emerge."
+]
+},
+{
+"id": "physiotherapy_x",
+"w": "physiotherapy",
+"gloss": [
+"Therapy that uses physical techniques such as massage, ultrasound, heat, and exercise."
+]
+},
+{
+"id": "triglyceride_x",
+"w": "triglyceride",
+"gloss": [
+"A lipid, an ester of glycerol and three fatty acids (the same or different); the major constituent of animal and vegetable fats."
+]
+},
+{
+"id": "antifungal_x",
+"w": "antifungal",
+"gloss": [
+"That inhibits the growth of fungi; antimycotic.",
+"A drug that inhibits the growth of fungi."
+]
+},
+{
+"id": "clavicle_x",
+"w": "clavicle",
+"gloss": [
+"The collarbone; the prominent bone at the top of the chest between the shoulder and the neck connecting the shoulder and the breastbone.",
+"A bone in fish.",
+"The upper part of a spiral shell."
+]
+},
+{
+"id": "conspire_x",
+"w": "conspire",
+"gloss": [
+"To secretly plot or make plans together, often with the intention to bring bad or illegal results; to collude, to connive, to plot.",
+"To agree, to concur to one end.",
+"To work together to bring about."
+]
+},
+{
+"id": "centurion_x",
+"w": "centurion",
+"gloss": [
+"An officer of the ancient Roman army, in command of a century of soldiers.",
+"A player who scores a century.",
+"A pilot in the United States Navy who has performed one hundred night landings on an aircraft carrier."
+]
+},
+{
+"id": "bureaucrat_x",
+"w": "bureaucrat",
+"gloss": [
+"An official who is part of a bureaucracy.",
+"A user on a wiki with the right to change users' access levels."
+]
+}
+]

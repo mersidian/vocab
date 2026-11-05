@@ -1,0 +1,602 @@
+[
+{
+"id": "download_verb",
+"w": "download",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "wheelchair_noun",
+"w": "wheelchair",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "pasta_noun",
+"w": "pasta",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "mushroom_noun",
+"w": "mushroom",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "rumor_noun",
+"w": "rumor",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "sweetheart_noun",
+"w": "sweetheart",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "annoying_adj",
+"w": "annoying",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "rap_noun",
+"w": "rap",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "teenager_noun",
+"w": "teenager",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "cafeteria_noun",
+"w": "cafeteria",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "skiing_noun",
+"w": "skiing",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "surname_noun",
+"w": "surname",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "hike_noun",
+"w": "hike",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "pence_noun",
+"w": "pence",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "luckily_adv",
+"w": "luckily",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "snack_noun",
+"w": "snack",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "splash_verb",
+"w": "splash",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "granddaughter_noun",
+"w": "granddaughter",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "stair_noun",
+"w": "stair",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "dishonest_adj",
+"w": "dishonest",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "cupboard_noun",
+"w": "cupboard",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "hey_interj",
+"w": "hey",
+"pos": "interj",
+"lvl": "A2"
+},
+{
+"id": "wallet_noun",
+"w": "wallet",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "mug_noun",
+"w": "mug",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "clone_verb",
+"w": "clone",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "rugby_noun",
+"w": "rugby",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "carrot_noun",
+"w": "carrot",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "suitcase_noun",
+"w": "suitcase",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "timetable_noun",
+"w": "timetable",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "sweater_noun",
+"w": "sweater",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "scarf_noun",
+"w": "scarf",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "overweight_adj",
+"w": "overweight",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "sunflower_noun",
+"w": "sunflower",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "playful_adj",
+"w": "playful",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "alright_adj",
+"w": "alright",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "alright_adv",
+"w": "alright",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "midday_noun",
+"w": "midday",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "thirsty_adj",
+"w": "thirsty",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "sew_verb",
+"w": "sew",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "skating_noun",
+"w": "skating",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "dizzy_adj",
+"w": "dizzy",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "centimeter_noun",
+"w": "centimeter",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "clown_noun",
+"w": "clown",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "beginner_noun",
+"w": "beginner",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "chili_noun",
+"w": "chili",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "tidy_adj",
+"w": "tidy",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "tidy_verb",
+"w": "tidy",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "bra_noun",
+"w": "bra",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "quiz_noun",
+"w": "quiz",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "tram_noun",
+"w": "tram",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "frighten_verb",
+"w": "frighten",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "kilogram_noun",
+"w": "kilogram",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "recycle_verb",
+"w": "recycle",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "windy_adj",
+"w": "windy",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "seaside_noun",
+"w": "seaside",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "flea_noun",
+"w": "flea",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "armchair_noun",
+"w": "armchair",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "granny_noun",
+"w": "granny",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "blackboard_noun",
+"w": "blackboard",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "napkin_noun",
+"w": "napkin",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "yeah_adv",
+"w": "yeah",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "fridge_noun",
+"w": "fridge",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "grilled_adj",
+"w": "grilled",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "racket_noun",
+"w": "racket",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "guidebook_noun",
+"w": "guidebook",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "barbecue_noun",
+"w": "barbecue",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "receptionist_noun",
+"w": "receptionist",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "spaghetti_noun",
+"w": "spaghetti",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "kilometer_noun",
+"w": "kilometer",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "melon_noun",
+"w": "melon",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "sunglasses_noun",
+"w": "sunglasses",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "thunderstorm_noun",
+"w": "thunderstorm",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "cooker_noun",
+"w": "cooker",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "dinosaur_noun",
+"w": "dinosaur",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "bookshop_noun",
+"w": "bookshop",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "sightseeing_noun",
+"w": "sightseeing",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "kilo_noun",
+"w": "kilo",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "grandchild_noun",
+"w": "grandchild",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "unforgettable_adj",
+"w": "unforgettable",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "roundabout_noun",
+"w": "roundabout",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "shampoo_noun",
+"w": "shampoo",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "surfing_noun",
+"w": "surfing",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "lemonade_noun",
+"w": "lemonade",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "annoy_verb",
+"w": "annoy",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "astronaut_noun",
+"w": "astronaut",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "motorway_noun",
+"w": "motorway",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "sleepless_adj",
+"w": "sleepless",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "disco_noun",
+"w": "disco",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "sock_noun",
+"w": "sock",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "laziness_noun",
+"w": "laziness",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "weekday_noun",
+"w": "weekday",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "skate_noun",
+"w": "skate",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "lunchtime_noun",
+"w": "lunchtime",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "handbag_noun",
+"w": "handbag",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "superlative_noun",
+"w": "superlative",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "chimpanzee_noun",
+"w": "chimpanzee",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "bookcase_noun",
+"w": "bookcase",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "drugstore_noun",
+"w": "drugstore",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "escalator_noun",
+"w": "escalator",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "bookshelf_noun",
+"w": "bookshelf",
+"pos": "noun",
+"lvl": "A2"
+}
+]

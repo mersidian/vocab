@@ -1,0 +1,100 @@
+{"id":"trade_noun","th":"การค้า; การซื้อขาย; อาชีพช่าง","ex":"Trade between the two countries is growing.","exTh":"การค้าระหว่างสองประเทศกำลังเติบโต"}
+{"id":"position_noun","th":"ตำแหน่ง; ที่ตั้ง; ท่าทาง","ex":"She applied for a position at the bank.","exTh":"เธอสมัครงานตำแหน่งหนึ่งที่ธนาคาร"}
+{"id":"cent_noun","th":"เซนต์ (หน่วยเงินดอลลาร์)","ex":"This candy costs only fifty cents.","exTh":"ลูกอมนี้ราคาแค่ห้าสิบเซนต์"}
+{"id":"done_verb","th":"เสร็จแล้ว; ทำแล้ว","ex":"I have done all my homework.","exTh":"ฉันทำการบ้านเสร็จหมดแล้ว","note":"รูป past participle ของ do"}
+{"id":"bill_noun","th":"ใบเรียกเก็บเงิน; บิล; ธนบัตร","ex":"Can we have the bill, please?","exTh":"ขอเช็กบิลหน่อยได้ไหมครับ"}
+{"id":"material_noun","th":"วัสดุ; เนื้อผ้า; ข้อมูล","ex":"This bag is made of strong material.","exTh":"กระเป๋าใบนี้ทำจากวัสดุที่แข็งแรง"}
+{"id":"show_noun","th":"รายการ; การแสดง; งานแสดง","ex":"We watched a funny show on TV.","exTh":"เราดูรายการตลกทางทีวี"}
+{"id":"view_noun","th":"ทิวทัศน์; ความคิดเห็น; มุมมอง","ex":"The hotel room has a great sea view.","exTh":"ห้องพักโรงแรมมีวิวทะเลสวยมาก"}
+{"id":"association_noun","th":"สมาคม; ความเกี่ยวข้อง","ex":"He joined a local football association.","exTh":"เขาเข้าร่วมสมาคมฟุตบอลท้องถิ่น"}
+{"id":"himself_pron","th":"ตัวเขาเอง; ด้วยตนเอง","ex":"He made the cake by himself.","exTh":"เขาทำเค้กด้วยตัวเอง"}
+{"id":"help_noun","th":"ความช่วยเหลือ; ผู้ช่วย","ex":"Thank you for your help today.","exTh":"ขอบคุณสำหรับความช่วยเหลือของคุณวันนี้"}
+{"id":"nature_noun","th":"ธรรมชาติ; ลักษณะนิสัย","ex":"I love walking in nature on weekends.","exTh":"ฉันชอบเดินเล่นในธรรมชาติวันหยุดสุดสัปดาห์"}
+{"id":"method_noun","th":"วิธี; วิธีการ","ex":"This is an easy method to learn words.","exTh":"นี่เป็นวิธีง่ายๆ ในการเรียนคำศัพท์"}
+{"id":"market_noun","th":"ตลาด; ตลาดซื้อขาย","ex":"We buy fresh fish at the market.","exTh":"เราซื้อปลาสดที่ตลาด"}
+{"id":"half_det","th":"ครึ่ง; ครึ่งหนึ่งของ","ex":"I waited for half an hour.","exTh":"ฉันรอครึ่งชั่วโมง"}
+{"id":"half_pron","th":"ครึ่งหนึ่ง; ส่วนครึ่ง","ex":"Half of the class is absent today.","exTh":"วันนี้นักเรียนครึ่งห้องขาดเรียน"}
+{"id":"west_adj","th":"ทางตะวันตก; ตะวันตก","ex":"The west side of town is quieter.","exTh":"ฝั่งตะวันตกของเมืองเงียบกว่า"}
+{"id":"west_adv","th":"ไปทางตะวันตก; ทางทิศตะวันตก","ex":"We drove west along the coast.","exTh":"เราขับรถไปทางตะวันตกตามแนวชายฝั่ง"}
+{"id":"west_noun","th":"ทิศตะวันตก; ตะวันตก","ex":"The sun goes down in the west.","exTh":"ดวงอาทิตย์ตกทางทิศตะวันตก"}
+{"id":"major_adj","th":"สำคัญ; ใหญ่; หลัก","ex":"Traffic is a major problem in big cities.","exTh":"การจราจรเป็นปัญหาใหญ่ในเมืองใหญ่"}
+{"id":"third_adj","th":"ที่สาม; ลำดับที่สาม","ex":"My office is on the third floor.","exTh":"ออฟฟิศของฉันอยู่ชั้นสาม"}
+{"id":"along_prep","th":"ตาม; ไปตาม; ริม","ex":"We walked along the river after dinner.","exTh":"เราเดินเล่นริมแม่น้ำหลังอาหารเย็น"}
+{"id":"member_noun","th":"สมาชิก; สมาชิกในกลุ่ม","ex":"She is a member of the school choir.","exTh":"เธอเป็นสมาชิกของคณะนักร้องประสานเสียงโรงเรียน"}
+{"id":"similar_adj","th":"คล้ายกัน; คล้าย","ex":"My sister and I have similar tastes.","exTh":"พี่สาวกับฉันมีรสนิยมคล้ายกัน"}
+{"id":"secretary_noun","th":"เลขานุการ; รัฐมนตรี","ex":"The secretary booked a meeting room for us.","exTh":"เลขานุการจองห้องประชุมให้เรา"}
+{"id":"force_noun","th":"แรง; กำลัง; การบังคับ","ex":"The wind blew with great force.","exTh":"ลมพัดมาด้วยแรงมาก"}
+{"id":"model_noun","th":"แบบ; รุ่น; นางแบบ/นายแบบ","ex":"This is the newest model of the phone.","exTh":"นี่คือโทรศัพท์รุ่นใหม่ล่าสุด"}
+{"id":"bank_verb","th":"ฝากเงินกับธนาคาร; เอียง (เครื่องบิน)","ex":"Who do you bank with these days?","exTh":"ตอนนี้คุณใช้ธนาคารไหน","note":"ความหมายนี้พบน้อย; ส่วนมากใช้เป็นคำนาม"}
+{"id":"short_noun","th":"กางเกงขาสั้น (shorts); ไฟฟ้าลัดวงจร","ex":"He wore shorts to the beach.","exTh":"เขาใส่กางเกงขาสั้นไปชายหาด","note":"พบน้อย; มักใช้รูปพหูพจน์ shorts"}
+{"id":"account_noun","th":"บัญชี; เรื่องราว; รายงาน","ex":"I opened a bank account last week.","exTh":"สัปดาห์ที่แล้วฉันเปิดบัญชีธนาคาร"}
+{"id":"experience_noun","th":"ประสบการณ์","ex":"She has five years of work experience.","exTh":"เธอมีประสบการณ์ทำงานห้าปี"}
+{"id":"average_adj","th":"เฉลี่ย; โดยเฉลี่ย; ปานกลาง","ex":"The average age of the class is twenty.","exTh":"อายุเฉลี่ยของนักเรียนในห้องคือยี่สิบปี"}
+{"id":"average_noun","th":"ค่าเฉลี่ย; ค่ากลาง","ex":"The average of two and four is three.","exTh":"ค่าเฉลี่ยของสองกับสี่คือสาม"}
+{"id":"death_noun","th":"ความตาย; การเสียชีวิต","ex":"The death of her pet made her sad.","exTh":"การตายของสัตว์เลี้ยงทำให้เธอเสียใจ"}
+{"id":"purpose_noun","th":"จุดประสงค์; เจตนา","ex":"What is the purpose of your visit?","exTh":"จุดประสงค์ในการมาเยือนของคุณคืออะไร"}
+{"id":"single_adj","th":"โสด; เดี่ยว; เพียงหนึ่งเดียว","ex":"He is single and lives alone.","exTh":"เขาโสดและอยู่คนเดียว"}
+{"id":"face_verb","th":"เผชิญหน้า; หันหน้าไปทาง","ex":"My room faces the garden.","exTh":"ห้องของฉันหันหน้าไปทางสวน"}
+{"id":"itself_pron","th":"ตัวมันเอง; ด้วยตัวมันเอง","ex":"The cat washed itself in the sun.","exTh":"แมวเลียทำความสะอาดตัวเองกลางแดด"}
+{"id":"include_verb","th":"รวม; รวมถึง; มีอยู่ด้วย","ex":"The price includes breakfast and tax.","exTh":"ราคานี้รวมอาหารเช้าและภาษีแล้ว"}
+{"id":"enough_adv","th":"พอ; เพียงพอ","ex":"Is the room big enough for six people?","exTh":"ห้องนี้ใหญ่พอสำหรับหกคนไหม","note":"วางหลังคำคุณศัพท์"}
+{"id":"enough_det","th":"พอ; เพียงพอ","ex":"We have enough food for everyone.","exTh":"เรามีอาหารพอสำหรับทุกคน"}
+{"id":"enough_pron","th":"พอแล้ว; เพียงพอ","ex":"Thanks, that's enough for me.","exTh":"ขอบคุณ แค่นี้ก็พอสำหรับฉันแล้ว"}
+{"id":"specific_adj","th":"เฉพาะเจาะจง; ชัดเจน","ex":"Do you have a specific question?","exTh":"คุณมีคำถามที่เฉพาะเจาะจงไหม"}
+{"id":"oil_noun","th":"น้ำมัน; น้ำมันพืช","ex":"Heat the oil in a pan first.","exTh":"ตั้งน้ำมันในกระทะให้ร้อนก่อน"}
+{"id":"private_adj","th":"ส่วนตัว; เป็นความลับ; เอกชน","ex":"This is a private room, please knock.","exTh":"นี่เป็นห้องส่วนตัว กรุณาเคาะประตูก่อน"}
+{"id":"knowledge_noun","th":"ความรู้; ความเข้าใจ","ex":"He has good knowledge of computers.","exTh":"เขามีความรู้เรื่องคอมพิวเตอร์ดี"}
+{"id":"ever_adv","th":"เคย; เคยๆ; เมื่อไรก็ตาม","ex":"Have you ever eaten Thai food?","exTh":"คุณเคยกินอาหารไทยไหม"}
+{"id":"natural_adj","th":"เป็นธรรมชาติ; ตามธรรมชาติ","ex":"This juice has only natural sugar.","exTh":"น้ำผลไม้นี้มีแต่น้ำตาลตามธรรมชาติ"}
+{"id":"million_num","th":"ล้าน","ex":"About one million people live in this city.","exTh":"มีคนอาศัยอยู่ในเมืองนี้ประมาณหนึ่งล้านคน"}
+{"id":"training_noun","th":"การฝึกอบรม; การฝึกซ้อม","ex":"New staff get a week of training.","exTh":"พนักงานใหม่ได้รับการฝึกอบรมหนึ่งสัปดาห์"}
+{"id":"population_noun","th":"ประชากร; จำนวนประชากร","ex":"The population of the town is small.","exTh":"ประชากรของเมืองนี้มีไม่มาก"}
+{"id":"mind_verb","th":"ถือสา; รังเกียจ; ใส่ใจ","ex":"Do you mind if I open the window?","exTh":"คุณจะว่าอะไรไหมถ้าฉันเปิดหน้าต่าง","note":"มักใช้ในประโยคคำถามสุภาพ"}
+{"id":"structure_noun","th":"โครงสร้าง; สิ่งก่อสร้าง","ex":"The structure of the sentence is simple.","exTh":"โครงสร้างของประโยคนี้เรียบง่าย"}
+{"id":"cause_verb","th":"ทำให้เกิด; เป็นสาเหตุของ","ex":"Heavy rain can cause floods.","exTh":"ฝนตกหนักอาจทำให้เกิดน้ำท่วม"}
+{"id":"range_noun","th":"ช่วง; ขอบเขต; ชนิดที่หลากหลาย","ex":"The shop sells a wide range of shoes.","exTh":"ร้านนี้ขายรองเท้าหลากหลายแบบ"}
+{"id":"kind_adj","th":"ใจดี; มีน้ำใจ","ex":"The old man was kind to us.","exTh":"ชายชราใจดีกับพวกเรา"}
+{"id":"labor_noun","th":"แรงงาน; การใช้แรง; การคลอดบุตร","ex":"Labor costs are high in this country.","exTh":"ค่าแรงในประเทศนี้สูง","note":"สะกดแบบอเมริกัน; อังกฤษ = labour"}
+{"id":"addition_noun","th":"การเพิ่ม; สิ่งที่เพิ่มเข้ามา; การบวก","ex":"The new teacher is a great addition to our school.","exTh":"ครูคนใหม่เป็นผู้ที่เพิ่มเข้ามาเสริมโรงเรียนของเราได้ดีมาก"}
+{"id":"plant_noun","th":"พืช; ต้นไม้; โรงงาน","ex":"I water the plants every morning.","exTh":"ฉันรดน้ำต้นไม้ทุกเช้า"}
+{"id":"east_adj","th":"ทางตะวันออก; ตะวันออก","ex":"The east door leads to the garden.","exTh":"ประตูทางทิศตะวันออกเปิดไปสู่สวน"}
+{"id":"east_adv","th":"ไปทางตะวันออก; ทางทิศตะวันออก","ex":"The road goes east for ten miles.","exTh":"ถนนสายนี้ไปทางตะวันออกสิบไมล์"}
+{"id":"east_noun","th":"ทิศตะวันออก; ตะวันออก","ex":"The sun rises in the east.","exTh":"ดวงอาทิตย์ขึ้นทางทิศตะวันออก"}
+{"id":"issue_noun","th":"ประเด็น; ปัญหา; ฉบับ (หนังสือ)","ex":"Pollution is an important issue today.","exTh":"มลพิษเป็นประเด็นสำคัญในปัจจุบัน"}
+{"id":"capital_noun","th":"เมืองหลวง; ทุน; ตัวพิมพ์ใหญ่","ex":"Bangkok is the capital of Thailand.","exTh":"กรุงเทพฯ เป็นเมืองหลวงของประเทศไทย"}
+{"id":"medical_adj","th":"ทางการแพทย์; เกี่ยวกับการรักษา","ex":"She is studying at a medical school.","exTh":"เธอเรียนอยู่ที่โรงเรียนแพทย์"}
+{"id":"century_noun","th":"ศตวรรษ; หนึ่งร้อยปี","ex":"This temple is over a century old.","exTh":"วัดนี้มีอายุเกินหนึ่งศตวรรษ"}
+{"id":"center_noun","th":"ศูนย์กลาง; ศูนย์","ex":"The shopping center is in the middle of town.","exTh":"ศูนย์การค้าอยู่ใจกลางเมือง","note":"สะกดแบบอเมริกัน; อังกฤษ = centre"}
+{"id":"especially_adv","th":"โดยเฉพาะอย่างยิ่ง; เป็นพิเศษ","ex":"I love fruit, especially mangoes.","exTh":"ฉันชอบผลไม้ โดยเฉพาะมะม่วง"}
+{"id":"except_conj","th":"เว้นแต่; นอกจากว่า","ex":"I like all food except that I hate onions.","exTh":"ฉันกินได้หมด ยกเว้นว่าฉันเกลียดหัวหอม","note":"ใช้น้อยในฐานะคำสันธาน"}
+{"id":"except_prep","th":"ยกเว้น; นอกจาก","ex":"The shop is open every day except Monday.","exTh":"ร้านเปิดทุกวันยกเว้นวันจันทร์"}
+{"id":"themselves_pron","th":"ตัวพวกเขาเอง; ด้วยตัวเอง","ex":"The kids made lunch by themselves.","exTh":"เด็กๆ ทำอาหารกลางวันกันเอง"}
+{"id":"space_noun","th":"พื้นที่; ที่ว่าง; อวกาศ","ex":"There is no space for another chair.","exTh":"ไม่มีที่ว่างสำหรับเก้าอี้อีกตัว"}
+{"id":"clear_adj","th":"ชัดเจน; ใส; โล่ง","ex":"The water in the lake is very clear.","exTh":"น้ำในทะเลสาบใสมาก"}
+{"id":"quality_noun","th":"คุณภาพ; คุณลักษณะ","ex":"This shop sells good quality shoes.","exTh":"ร้านนี้ขายรองเท้าคุณภาพดี"}
+{"id":"perhaps_adv","th":"บางที; อาจจะ","ex":"Perhaps we should leave early.","exTh":"บางทีเราควรออกเดินทางแต่เช้า"}
+{"id":"mean_adj","th":"ใจร้าย; ขี้เหนียว; ใจแคบ","ex":"It was mean of him to laugh at her.","exTh":"เขาใจร้ายที่หัวเราะเยาะเธอ"}
+{"id":"statement_noun","th":"คำแถลง; ข้อความ; ใบแจ้งยอด","ex":"The company made a short statement today.","exTh":"วันนี้บริษัทออกแถลงการณ์สั้นๆ"}
+{"id":"quite_adv","th":"ค่อนข้าง; ทีเดียว; สิ้นเชิง","ex":"The soup is quite hot, so be careful.","exTh":"ซุปค่อนข้างร้อน ระวังด้วยนะ"}
+{"id":"gas_noun","th":"แก๊ส; น้ำมันเบนซิน (อเมริกัน)","ex":"We cook with gas at home.","exTh":"ที่บ้านเราทำอาหารด้วยแก๊ส"}
+{"id":"record_verb","th":"บันทึก; อัด (เสียง/ภาพ)","ex":"I recorded the song on my phone.","exTh":"ฉันอัดเพลงนั้นไว้ในโทรศัพท์"}
+{"id":"function_verb","th":"ทำงาน; ทำหน้าที่","ex":"The old machine still functions well.","exTh":"เครื่องเก่านี้ยังทำงานได้ดี"}
+{"id":"sense_noun","th":"สัมผัส; ความรู้สึก; สามัญสำนึก","ex":"Dogs have a strong sense of smell.","exTh":"สุนัขมีประสาทสัมผัสด้านกลิ่นที่ดีมาก"}
+{"id":"pressure_noun","th":"ความดัน; แรงกดดัน","ex":"The doctor checked my blood pressure.","exTh":"หมอวัดความดันโลหิตให้ฉัน"}
+{"id":"complete_adj","th":"สมบูรณ์; ครบถ้วน; เสร็จสิ้น","ex":"The set is not complete yet.","exTh":"ชุดนี้ยังไม่ครบ"}
+{"id":"probably_adv","th":"น่าจะ; คงจะ","ex":"It will probably rain tomorrow.","exTh":"พรุ่งนี้ฝนน่าจะตก"}
+{"id":"call_verb","th":"โทรหา; เรียก; ตั้งชื่อ","ex":"I will call you after lunch.","exTh":"ฉันจะโทรหาคุณหลังอาหารกลางวัน"}
+{"id":"road_noun","th":"ถนน; หนทาง","ex":"Be careful when you cross the road.","exTh":"ระวังตอนข้ามถนนนะ"}
+{"id":"title_noun","th":"ชื่อเรื่อง; ตำแหน่ง; คำนำหน้าชื่อ","ex":"What is the title of that book?","exTh":"หนังสือเล่มนั้นชื่ออะไร"}
+{"id":"temperature_noun","th":"อุณหภูมิ; ไข้","ex":"The temperature is thirty degrees today.","exTh":"วันนี้อุณหภูมิสามสิบองศา"}
+{"id":"source_noun","th":"แหล่งที่มา; ต้นกำเนิด","ex":"Milk is a good source of calcium.","exTh":"นมเป็นแหล่งแคลเซียมที่ดี"}
+{"id":"additional_adj","th":"เพิ่มเติม; เพิ่มขึ้น","ex":"There is an additional charge for bags.","exTh":"มีค่าธรรมเนียมเพิ่มเติมสำหรับกระเป๋า"}
+{"id":"return_noun","th":"การกลับ; การคืน; ผลตอบแทน","ex":"We look forward to your return.","exTh":"เรารอคอยการกลับมาของคุณ"}
+{"id":"return_verb","th":"กลับ; คืน; ส่งคืน","ex":"I will return this book to the library.","exTh":"ฉันจะคืนหนังสือเล่มนี้ที่ห้องสมุด"}
+{"id":"direct_adj","th":"ตรง; โดยตรง; ตรงไปตรงมา","ex":"There is a direct flight to Tokyo.","exTh":"มีเที่ยวบินตรงไปโตเกียว"}
+{"id":"performance_noun","th":"การแสดง; ผลงาน; ประสิทธิภาพ","ex":"The band gave a great performance last night.","exTh":"เมื่อคืนวงดนตรีแสดงได้ยอดเยี่ยม"}
+{"id":"developed_adj","th":"พัฒนาแล้ว; เจริญแล้ว","ex":"Japan is a highly developed country.","exTh":"ญี่ปุ่นเป็นประเทศที่พัฒนาแล้วอย่างสูง"}
+{"id":"military_adj","th":"ทางทหาร; ของทหาร","ex":"He served in the military band.","exTh":"เขารับราชการในวงดุริยางค์ทหาร"}
+{"id":"situation_noun","th":"สถานการณ์; สภาพการณ์","ex":"The situation is getting better now.","exTh":"สถานการณ์กำลังดีขึ้นแล้ว"}
+{"id":"director_noun","th":"ผู้อำนวยการ; ผู้กำกับ","ex":"The film director won a big prize.","exTh":"ผู้กำกับภาพยนตร์ได้รับรางวัลใหญ่"}
+{"id":"unit_noun","th":"หน่วย; ส่วน; แผนก","ex":"A meter is a unit of length.","exTh":"เมตรเป็นหน่วยของความยาว"}

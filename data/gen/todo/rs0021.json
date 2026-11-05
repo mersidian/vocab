@@ -1,0 +1,798 @@
+[
+{
+"id": "charioteer_x",
+"w": "charioteer",
+"gloss": [
+"A person who drives a chariot.",
+"To drive a chariot.",
+"To drive someone in a chariot."
+]
+},
+{
+"id": "displease_x",
+"w": "displease",
+"gloss": [
+"To make not pleased; to cause a feeling of disapprobation or dislike in; to be disagreeable to; to vex slightly.",
+"To give displeasure or offense.",
+"To fail to satisfy; to miss of."
+]
+},
+{
+"id": "waistline_x",
+"w": "waistline",
+"gloss": [
+"a line around the body at the waist; its measurement",
+"the narrowest part of a garment, usually at the waist, but may be above or below depending on the dictates of fashion or the whim of the designer",
+"person having a large waistline"
+]
+},
+{
+"id": "privatize_x",
+"w": "privatize",
+"gloss": [
+"To release government control (of a business or industry) to private industry.",
+"To render (a variable, etc.) private in scope.",
+"To render a thought or an idea, private in scope."
+]
+},
+{
+"id": "headquarter_x",
+"w": "headquarter",
+"gloss": [
+"To provide (an organization) with headquarters.",
+"To establish headquarters."
+]
+},
+{
+"id": "whiplash_x",
+"w": "whiplash",
+"gloss": [
+"The lash of a whip.",
+"An injury to the upper spine connected to a violent jerk of the head in either a backward or forward or side to side direction, resembling the motion of a whip.",
+"An abrupt and unexpected change, or the resulting feeling of shock."
+]
+},
+{
+"id": "hiker_x",
+"w": "hiker",
+"gloss": [
+"One who hikes, especially frequently."
+]
+},
+{
+"id": "bondholder_x",
+"w": "bondholder",
+"gloss": [
+"The registered owner of a financial bond."
+]
+},
+{
+"id": "huh_x",
+"w": "huh",
+"gloss": [
+"Used to express doubt or confusion.",
+"Used to express amusement or subtle surprise.",
+"Used to reinforce a question."
+]
+},
+{
+"id": "thresh_x",
+"w": "thresh",
+"gloss": [
+"To separate the grain from the straw or husks (chaff) by mechanical beating, with a flail or machinery, or by driving animals over them.",
+"To be so separated, or to be capable of being so separated.",
+"To beat soundly, usually with some tool such as a stick or whip; to drub."
+]
+},
+{
+"id": "proofread_x",
+"w": "proofread",
+"gloss": [
+"To check a written text for errors in spelling, grammar, syntax, and punctuation.",
+"Synonym of proofreading."
+]
+},
+{
+"id": "foreskin_x",
+"w": "foreskin",
+"gloss": [
+"The nerve-dense, retractable fold of skin which covers and protects the glans of the penis in humans and some other mammals.",
+"To remove the foreskin.",
+"To sexually stimulate by manipulating the foreskin."
+]
+},
+{
+"id": "shrivel_x",
+"w": "shrivel",
+"gloss": [
+"To collapse inward; to crumble.",
+"To become wrinkled.",
+"To draw into wrinkles."
+]
+},
+{
+"id": "rejuvenate_x",
+"w": "rejuvenate",
+"gloss": [
+"To render young again.",
+"To give new energy or vigour to; to revitalise."
+]
+},
+{
+"id": "vroom_x",
+"w": "vroom",
+"gloss": [
+"The sound of an engine, especially when it is revving up.",
+"The sound of an engine revving up.",
+"To move with great speed; to zoom."
+]
+},
+{
+"id": "uptight_x",
+"w": "uptight",
+"gloss": [
+"Excessively concerned with rules and order, always serious.",
+"Emotionally repressed; nervous and tense.",
+"Sexually repressed."
+]
+},
+{
+"id": "eardrum_x",
+"w": "eardrum",
+"gloss": [
+"A thin membrane that separates the outer ear from the middle ear and transmits sound from the air to the malleus."
+]
+},
+{
+"id": "cymbal_x",
+"w": "cymbal",
+"gloss": [
+"A concave plate of metal, usually brass or bronze, that produces a sharp, ringing sound when struck: played either in pairs, by striking them together, or singly by striking with a drumstick or the like."
+]
+},
+{
+"id": "mammogram_x",
+"w": "mammogram",
+"gloss": [
+"An X-ray picture of the breasts (mammaries), used to screen for breast cancer."
+]
+},
+{
+"id": "sumo_x",
+"w": "sumo",
+"gloss": [
+"A stylised Japanese form of wrestling in which a wrestler loses if he is forced from the ring, or if any part of his body except the soles of his feet touches the ground.",
+"A rikishi (sumo wrestler).",
+"A Misumalpan language of Nicaragua."
+]
+},
+{
+"id": "reschedule_x",
+"w": "reschedule",
+"gloss": [
+"To schedule again or at a different time.",
+"To reclassify; to change the schedule (division into which something is classified) of."
+]
+},
+{
+"id": "uncircumcised_x",
+"w": "uncircumcised",
+"gloss": [
+"Not circumcised, intact.",
+"Not Jewish or not Muslim; gentile.",
+"Spiritually impure; irreligious."
+]
+},
+{
+"id": "writhe_x",
+"w": "writhe",
+"gloss": [
+"To twist, wring (something).",
+"To contort (a part of the body).",
+"To twist bodily; to contort one's self; to be distorted."
+]
+},
+{
+"id": "instep_x",
+"w": "instep",
+"gloss": [
+"The arched part of the top of the foot between the toes and the ankle.",
+"A section of any footwear covering that part of the foot.",
+"In horses, the hind leg from the ham to the pastern joint."
+]
+},
+{
+"id": "unfaithfulness_x",
+"w": "unfaithfulness",
+"gloss": [
+"The characteristic of being unfaithful."
+]
+},
+{
+"id": "vend_x",
+"w": "vend",
+"gloss": [
+"Synonym of sell, (now especially) to sell through a vending machine.",
+"To provide or export functionality, especially from an API.",
+"The act of vending or selling; a sale."
+]
+},
+{
+"id": "detox_x",
+"w": "detox",
+"gloss": [
+"Detoxification, especially of the body from alcohol or addictive drugs.",
+"A detoxification unit.",
+"To detoxify, especially from alcohol or recreational drugs."
+]
+},
+{
+"id": "lewdness_x",
+"w": "lewdness",
+"gloss": [
+"The quality, state or instance of being lewd; promiscuous."
+]
+},
+{
+"id": "periodization_x",
+"w": "periodization",
+"gloss": [
+"The process of categorizing something (e.g. history) into named periods.",
+"Training in segments of a few weeks or months, so that training begins at lower intensity and is gradually increased to high intensity.",
+"The operation of forming a periodic function from a non-periodic function."
+]
+},
+{
+"id": "interlace_x",
+"w": "interlace",
+"gloss": [
+"A decorative element found especially in early medieval art",
+"A technique of improving the picture quality of a video signal primarily on CRT devices without consuming extra bandwidth.",
+"To cross one with another."
+]
+},
+{
+"id": "facedown_x",
+"w": "facedown"
+},
+{
+"id": "descendent_x",
+"w": "descendent"
+},
+{
+"id": "nationalize_x",
+"w": "nationalize",
+"gloss": [
+"To make into, or to become, a nation.",
+"To bring a private company, or an industry comprising such companies, under the control of a specific government.",
+"To bring a concept such as a political issue or commercial campaign to the attention of the entire country."
+]
+},
+{
+"id": "shekel_x",
+"w": "shekel",
+"gloss": [
+"A currency unit of both ancient and modern Israel.",
+"Money.",
+"An ancient unit of weight equivalent to one-fiftieth of a mina."
+]
+},
+{
+"id": "gloat_x",
+"w": "gloat",
+"gloss": [
+"To exhibit a conspicuous (sometimes malevolent) pleasure or sense of self-satisfaction, often at an adversary's misfortune.",
+"To triumph, crow, relish, glory, revel.",
+"An act or instance of gloating."
+]
+},
+{
+"id": "pastureland_x",
+"w": "pastureland",
+"gloss": [
+"Land used for pasture, on which livestock can graze."
+]
+},
+{
+"id": "undervalue_x",
+"w": "undervalue",
+"gloss": [
+"To underestimate, or assign too low a value to (something or someone); to have too little regard for.",
+"An undervaluation; a price or rate below the actual worth."
+]
+},
+{
+"id": "jawbone_x",
+"w": "jawbone",
+"gloss": [
+"The bone of the lower jaw; the mandible.",
+"Any of the bones in the lower or upper jaw.",
+"A shaken musical instrument (an idiophone) made from the jawbone of an animal and shaken such that the teeth vibrate in their sockets to produce sound."
+]
+},
+{
+"id": "stapler_x",
+"w": "stapler",
+"gloss": [
+"A device which binds together sheets of paper by driving a thin metal staple through the sheets and simultaneously folding over the ends of the staple against the back surface of the paper.",
+"Any device for stapling with (small or large) staples, including any office stapler, staple gun, or hammer tacker.",
+"A dealer in staple goods."
+]
+},
+{
+"id": "gluteus_x",
+"w": "gluteus",
+"gloss": [
+"Any of the several muscles of the nates, each of which arises from the pelvis and inserts into a femur."
+]
+},
+{
+"id": "censer_x",
+"w": "censer",
+"gloss": [
+"An ornamental container for burning incense, especially during religious ceremonies.",
+"A person who censes, a person who perfumes with incense."
+]
+},
+{
+"id": "kundalini_x",
+"w": "kundalini",
+"gloss": [
+"An energy said to lie coiled at the base of the spine and to be released by yoga."
+]
+},
+{
+"id": "ceremonially_x",
+"w": "ceremonially",
+"gloss": [
+"In a ceremonial manner."
+]
+},
+{
+"id": "curtsy_x",
+"w": "curtsy"
+},
+{
+"id": "flog_x",
+"w": "flog",
+"gloss": [
+"To whip or scourge as punishment.",
+"To use something to extreme; to abuse.",
+"To sell."
+]
+},
+{
+"id": "breastbone_x",
+"w": "breastbone",
+"gloss": [
+"The central narrow bone in the front of the chest, connecting the collarbone and the top ribs."
+]
+},
+{
+"id": "recline_x",
+"w": "recline",
+"gloss": [
+"To cause to lean back; to bend back.",
+"To put in a resting position.",
+"To lean back."
+]
+},
+{
+"id": "policymaker_x",
+"w": "policymaker",
+"gloss": [
+"One involved in the formulation of policies, especially politicians, lobbyists, and activists."
+]
+},
+{
+"id": "worshiper_x",
+"w": "worshiper"
+},
+{
+"id": "freewill_x",
+"w": "freewill",
+"gloss": [
+"Voluntary, done of one's own accord."
+]
+},
+{
+"id": "adulterer_x",
+"w": "adulterer",
+"gloss": [
+"A spouse who has sex with a non-spouse.",
+"Someone who cheats on their spouse or monogamous significant other.",
+"A male adulterer specifically."
+]
+},
+{
+"id": "cheekbone_x",
+"w": "cheekbone",
+"gloss": [
+"The small prominent bone of the cheek."
+]
+},
+{
+"id": "jackknife_x",
+"w": "jackknife",
+"gloss": [
+"A resampling method that applies estimators to all subsamples that each omit a single different group (possibly of a single datapoint) of the original sample to provide a sample distribution of the estimate."
+]
+},
+{
+"id": "mudra_x",
+"w": "mudra",
+"gloss": [
+"Any of several formal symbolic hand postures used in classical dance of India and in Hindu and Buddhist iconography.",
+"Any of the formal body positions and postures used in yoga and meditation."
+]
+},
+{
+"id": "engrave_x",
+"w": "engrave",
+"gloss": [
+"To carve text or symbols into (something), usually for the purposes of identification or art.",
+"To carve (something) into a material.",
+"To put in a grave, to bury."
+]
+},
+{
+"id": "dehydrate_x",
+"w": "dehydrate",
+"gloss": [
+"To remove water from; to dry up.",
+"To lose water from one's body; to become dehydrated."
+]
+},
+{
+"id": "satrap_x",
+"w": "satrap",
+"gloss": [
+"A governor of a Persian province.",
+"A subordinative ruler."
+]
+},
+{
+"id": "overhand_x",
+"w": "overhand",
+"gloss": [
+"Executed with the hand brought forward and down from above the shoulders.",
+"Sewn with close, vertical stitches that draw the edges of a seam together.",
+"With the working part on top of the standing part."
+]
+},
+{
+"id": "blaspheme_x",
+"w": "blaspheme",
+"gloss": [
+"To commit blasphemy; to speak against God or religious doctrine.",
+"To speak of, or address, with impious irreverence; to revile impiously (anything sacred).",
+"To calumniate; to revile; to abuse."
+]
+},
+{
+"id": "ensnare_x",
+"w": "ensnare",
+"gloss": [
+"To entrap; to catch in a snare or trap.",
+"To entangle; to enmesh."
+]
+},
+{
+"id": "audiologist_x",
+"w": "audiologist",
+"gloss": [
+"A healthcare professional who diagnoses, treats and/or manages hearing and balance disorders."
+]
+},
+{
+"id": "ephod_x",
+"w": "ephod",
+"gloss": [
+"A priestly vestment, without sleeves, worn girdled at the waist."
+]
+},
+{
+"id": "gosh_x",
+"w": "gosh",
+"gloss": [
+"A mild expression of surprise or enthusiasm.",
+"A surname."
+]
+},
+{
+"id": "barbell_x",
+"w": "barbell",
+"gloss": [
+"A wide steel bar with premeasured weights counterpoised at either end, with the central span open for the hands of the weightlifter.",
+"A piece of jewellery composed of a straight bar with a bead on each end, used as a piercing."
+]
+},
+{
+"id": "hyssop_x",
+"w": "hyssop",
+"gloss": [
+"Any of several aromatic bushy herbs, of the genus Hyssopus, native to Southern Europe and once used medicinally.",
+"Any of several similar plants",
+"Agastache foeniculum, blue giant hyssop."
+]
+},
+{
+"id": "gargle_x",
+"w": "gargle",
+"gloss": [
+"To clean one's mouth by holding water or some other liquid in the back of the mouth and blowing air out from the lungs.",
+"To make a sound like the one made while gargling.",
+"To clean a specific part of the body by gargling (almost always throat or mouth)."
+]
+},
+{
+"id": "warmup_x",
+"w": "warmup"
+},
+{
+"id": "predetermine_x",
+"w": "predetermine",
+"gloss": [
+"To determine or decide in advance.",
+"To doom by previous decree; to foredoom."
+]
+},
+{
+"id": "attendee_x",
+"w": "attendee",
+"gloss": [
+"A person who is in attendance or in the audience of an event.",
+"A person who is attended."
+]
+},
+{
+"id": "dislocate_x",
+"w": "dislocate",
+"gloss": [
+"To put something out of its usual place.",
+"To emotionally jar, unsettle, or disorient.",
+"To (accidentally) dislodge a skeletal bone from its joint."
+]
+},
+{
+"id": "cheeseburger_x",
+"w": "cheeseburger",
+"gloss": [
+"A hamburger containing cheese (usually one or more slices of processed cheese).",
+"The BLU-82 bomb.",
+"To transform, top, or enrich something ordinary with melted cheese."
+]
+},
+{
+"id": "bodyweight_x",
+"w": "bodyweight",
+"gloss": [
+"The weight or mass of an organism.",
+"Employing (only) a person's own weight as resistance to movement for the purpose of physical exercise."
+]
+},
+{
+"id": "photocopier_x",
+"w": "photocopier",
+"gloss": [
+"A machine which reproduces documents by photographing the original over a glass plate and printing duplicates."
+]
+},
+{
+"id": "denominate_x",
+"w": "denominate",
+"gloss": [
+"To name; to designate.",
+"To express in a denomination (i.e., a monetary unit).",
+"Having a specific name or denomination; specified in the concrete as opposed to abstract; thus, 7 feet is a denominate quantity, while 7 is mere abstract quantity or number."
+]
+},
+{
+"id": "quadrillion_x",
+"w": "quadrillion",
+"gloss": [
+"A thousand trillion (logic: 1,000 × 1,000⁴): 1 followed by fifteen zeros, 10¹⁵.",
+"A million trillion (logic: 1,000,000⁴): 1 followed by twenty-four zeros, 10²⁴.",
+"Any very large number, exceeding normal description."
+]
+},
+{
+"id": "encamp_x",
+"w": "encamp",
+"gloss": [
+"To establish a camp or temporary shelter.",
+"To form into a camp."
+]
+},
+{
+"id": "bicep_x",
+"w": "bicep",
+"gloss": [
+"A biceps."
+]
+},
+{
+"id": "whoa_x",
+"w": "whoa",
+"gloss": [
+"Stop (especially when commanding a horse or imitative thereof); calm down; slow down.",
+"An expression of surprise.",
+"Used as a meaningless filler in song lyrics."
+]
+},
+{
+"id": "desecrate_x",
+"w": "desecrate",
+"gloss": [
+"To profane or violate the sacredness or sanctity of something.",
+"To remove the consecration from someone or something; to deconsecrate.",
+"To change in an inappropriate and destructive manner."
+]
+},
+{
+"id": "lats_x",
+"w": "lats",
+"gloss": [
+"Latrines: rudimentary or military facilities for urination and defecation.",
+"The latissimus dorsi muscles."
+]
+},
+{
+"id": "kneecap_x",
+"w": "kneecap",
+"gloss": [
+"The flat, roundish bone in the knee.",
+"A metal cover trim that fits over a panel rib after it has been cut and bent.",
+"A cap or strong covering for the knees, used chiefly for horses, to protect their knees in case of a fall."
+]
+},
+{
+"id": "forefather_x",
+"w": "forefather",
+"gloss": [
+"An ancestor.",
+"A cultural ancestor; one who originated an idea or tradition."
+]
+},
+{
+"id": "asana_x",
+"w": "asana",
+"gloss": [
+"A body position, typically associated with the practice of yoga.",
+"A moth of species Melese asana, of tropical South America.",
+"Pterocarpus indicus (syn. Pterocarpus echinatus), found from southeastern Asia to northern Australia, the Solomon Islands, and the Ryukyu Islands."
+]
+},
+{
+"id": "anabolism_x",
+"w": "anabolism",
+"gloss": [
+"The constructive metabolism of the body, as distinguished from catabolism."
+]
+},
+{
+"id": "distend_x",
+"w": "distend",
+"gloss": [
+"To extend or expand, as from internal pressure; to swell",
+"To extend; to stretch out; to spread out.",
+"To cause to swell."
+]
+},
+{
+"id": "painkiller_x",
+"w": "painkiller",
+"gloss": [
+"A drug that numbs the pain in the body."
+]
+},
+{
+"id": "sluggard_x",
+"w": "sluggard",
+"gloss": [
+"A person who is lazy, stupid, or idle by habit.",
+"A person slow to begin necessary work, a slothful person.",
+"A fearful or cowardly person, a poltroon."
+]
+},
+{
+"id": "ooh_x",
+"w": "ooh",
+"gloss": [
+"An expression of surprise.",
+"An expression of awe.",
+"A sound made to imitate a ghost."
+]
+},
+{
+"id": "cartwheel_x",
+"w": "cartwheel",
+"gloss": [
+"The wheel of a cart.",
+"A gymnastic maneuver whereby the gymnast rotates to one side or the other while keeping arms and legs outstretched, spinning for one or more revolutions.",
+"A crown coin; its value, 5 shillings."
+]
+},
+{
+"id": "superset_x",
+"w": "superset",
+"gloss": [
+"(symbol: ⊇) With respect to another set, a set such that each of the elements of the other set is also an element of the set.",
+"Two or more different physical exercises performed back to back (i.e., without a period of rest between them). The exercises may employ the same muscle group, or opposing muscle groups.",
+"To perform (different physical exercises) back to back, without a period of rest between them."
+]
+},
+{
+"id": "ephah_x",
+"w": "ephah",
+"gloss": [
+"A former Hebrew unit of dry volume (about 23 L)."
+]
+},
+{
+"id": "toiletry_x",
+"w": "toiletry",
+"gloss": [
+"Any item used for personal hygiene or grooming (for one's toilet)."
+]
+},
+{
+"id": "obliques_x",
+"w": "obliques",
+"gloss": [
+"Collectively, the abdominal muscles responsible for rotation of the trunk."
+]
+},
+{
+"id": "lampstand_x",
+"w": "lampstand",
+"gloss": [
+"A menorah or other holder or stand for a lamp."
+]
+},
+{
+"id": "impale_x",
+"w": "impale",
+"gloss": [
+"To pierce (something) with any long, pointed object.",
+"To place two coats of arms side by side on the same shield (often those of two spouses upon marriage).",
+"To pierce with a pale; to put to death by fixing on a sharp stake."
+]
+},
+{
+"id": "mindfully_x",
+"w": "mindfully",
+"gloss": [
+"In a mindful manner."
+]
+},
+{
+"id": "menstruate_x",
+"w": "menstruate",
+"gloss": [
+"To stain with or as if with menses.",
+"To undergo menstruation, to have a period.",
+"Menstrual."
+]
+},
+{
+"id": "circumcise_x",
+"w": "circumcise",
+"gloss": [
+"To surgically remove the foreskin (prepuce) from the penis of.",
+"To surgically remove the clitoris (clitoridectomy), clitoral hood, or labia.",
+"To trim off the portion of the barrel liner of a large-caliber naval gun that protrudes from the end of the barrel as a result of the liner slowly stretching from prolonged fire."
+]
+},
+{
+"id": "flextime_x",
+"w": "flextime"
+},
+{
+"id": "cupbearer_x",
+"w": "cupbearer",
+"gloss": [
+"One who ceremonially fills and hands out the cups in which a drink is served."
+]
+}
+]

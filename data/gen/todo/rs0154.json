@@ -1,0 +1,802 @@
+[
+{
+"id": "affair-partner_idiom",
+"w": "affair partner",
+"kind": "idiom",
+"gloss": [
+"A person with whom one is having an extramarital or unfaithful relationship; the third party in an affair."
+]
+},
+{
+"id": "all-over-the-world_idiom",
+"w": "all over the world",
+"kind": "idiom",
+"gloss": [
+"throughout the world, everywhere, worldwide, globally."
+]
+},
+{
+"id": "no-and-low_idiom",
+"w": "no and low",
+"kind": "idiom",
+"gloss": [
+"Designating drinks that contain little or no alcohol."
+]
+},
+{
+"id": "recipe-for-disaster_idiom",
+"w": "recipe for disaster",
+"kind": "idiom",
+"gloss": [
+"A plan that sounds as though it will end disastrously."
+]
+},
+{
+"id": "pull-back-the-curtain_idiom",
+"w": "pull back the curtain",
+"kind": "idiom",
+"gloss": [
+"To reveal an underlying truth."
+]
+},
+{
+"id": "slick-rick_idiom",
+"w": "slick Rick",
+"kind": "idiom",
+"gloss": [
+"A fast-talker, charmer, or clever person."
+]
+},
+{
+"id": "positive-polly_idiom",
+"w": "positive Polly",
+"kind": "idiom",
+"gloss": [
+"Someone who is excessively upbeat, encouraging and optimistic, often to the point where it may seem overly cheerful or naive."
+]
+},
+{
+"id": "have-one-s-shit-together_idiom",
+"w": "have one's shit together",
+"kind": "idiom",
+"gloss": [
+"Synonym of have one's act together"
+]
+},
+{
+"id": "let-that-sink-in_idiom",
+"w": "let that sink in",
+"kind": "idiom",
+"gloss": [
+"Used to urge someone to take ample time to fully process or comprehend a surprising, shocking, or impactful statement."
+]
+},
+{
+"id": "jane-average_idiom",
+"w": "Jane Average",
+"kind": "idiom",
+"gloss": [
+"A hypothetical female average or female generic individual; the common woman."
+]
+},
+{
+"id": "moonlight-and-roses_idiom",
+"w": "moonlight and roses",
+"kind": "idiom",
+"gloss": [
+"A very pleasant, sentimental, or romantic situation or atmosphere."
+]
+},
+{
+"id": "whatcha-know-good_idiom",
+"w": "whatcha know good",
+"kind": "idiom",
+"gloss": [
+"What's happening? How are you doing?"
+]
+},
+{
+"id": "long-fuse_idiom",
+"w": "long fuse",
+"kind": "idiom",
+"gloss": [
+"The personality trait of being slow to anger."
+]
+},
+{
+"id": "soup-s-on_idiom",
+"w": "soup's on",
+"kind": "idiom",
+"gloss": [
+"The food or meal is ready to eat."
+]
+},
+{
+"id": "buy-the-rumor_idiom",
+"w": "buy the rumor",
+"kind": "idiom",
+"gloss": [
+"To purchase an asset based on positive speculation or unconfirmed reports, anticipating a price rise before the positive development leading to it is confirmed by official news."
+]
+},
+{
+"id": "get-one-s-priorities-straight_idiom",
+"w": "get one's priorities straight",
+"kind": "idiom",
+"gloss": [
+"Synonym of get one's act together."
+]
+},
+{
+"id": "read-the-car_idiom",
+"w": "read the car",
+"kind": "idiom",
+"gloss": [
+"Of a rideshare driver, to assess the mood, energy, or preferences of a passenger immediately after they enter the vehicle."
+]
+},
+{
+"id": "get-one-s-priorities-right_idiom",
+"w": "get one's priorities right",
+"kind": "idiom",
+"gloss": [
+"Synonym of get one's priorities straight."
+]
+},
+{
+"id": "private-credit_idiom",
+"w": "private credit",
+"kind": "idiom",
+"gloss": [
+"An aspect of the shadow banking system involving assets defined by non-bank lending where the debt is not issued or traded on the public markets, unlike corporate bonds and municipal bonds."
+]
+},
+{
+"id": "do-the-mahi_idiom",
+"w": "do the mahi",
+"kind": "idiom",
+"gloss": [
+"To work towards a public good; to do the work."
+]
+},
+{
+"id": "last-refuge_idiom",
+"w": "last refuge",
+"kind": "idiom",
+"gloss": [
+"Synonym of last resort."
+]
+},
+{
+"id": "the-vultures-are-circling_idiom",
+"w": "the vultures are circling",
+"kind": "idiom",
+"gloss": [
+"Something is about to go wrong."
+]
+},
+{
+"id": "put-one-s-own-oxygen-mask-on-first_idiom",
+"w": "put one's own oxygen mask on first",
+"kind": "idiom",
+"gloss": [
+"To practice self-care and focus on one's own needs to avoid burnout when caring for others."
+]
+},
+{
+"id": "cheek-for-chowl_idiom",
+"w": "cheek for chowl",
+"kind": "idiom",
+"gloss": [
+"Synonym of cheek by jowl (“in very close physical proximity; crowded together; side by side”)."
+]
+},
+{
+"id": "drink-someone-s-bathwater_idiom",
+"w": "drink someone's bathwater",
+"kind": "idiom",
+"gloss": [
+"To be excessively adoring of someone."
+]
+},
+{
+"id": "bicycle-chain_idiom",
+"w": "bicycle chain",
+"kind": "idiom",
+"gloss": [
+"The endless chain, of roller chain type, that transmits power from the pedals to the driven wheel of a bicycle via a sprocket attached to each of those."
+]
+},
+{
+"id": "miss-wrong_idiom",
+"w": "Miss Wrong",
+"kind": "idiom",
+"gloss": [
+"An unsuitable female companion, especially a wife."
+]
+},
+{
+"id": "silver-handshake_idiom",
+"w": "silver handshake",
+"kind": "idiom",
+"gloss": [
+"A severance package offered to an employee, often a middle manager or long-term staff member, who is forced into early retirement or leave due to company restructuring."
+]
+},
+{
+"id": "as-it-goes_idiom",
+"w": "as it goes",
+"kind": "idiom",
+"gloss": [
+"Synonym of as it happens; by coincidence; incidentally."
+]
+},
+{
+"id": "chuck-it_idiom",
+"w": "chuck it",
+"kind": "idiom",
+"gloss": [
+"To rain heavily"
+]
+},
+{
+"id": "on-velvet_idiom",
+"w": "on velvet",
+"kind": "idiom",
+"gloss": [
+"In a cushy or profitable position; well off."
+]
+},
+{
+"id": "beyond-a-joke_idiom",
+"w": "beyond a joke",
+"kind": "idiom",
+"gloss": [
+"Increasingly serious or harmful."
+]
+},
+{
+"id": "black-lie_idiom",
+"w": "black lie",
+"kind": "idiom",
+"gloss": [
+"A deliberately untrue statement made with malicious or unethical intent."
+]
+},
+{
+"id": "climb-the-ladder_idiom",
+"w": "climb the ladder",
+"kind": "idiom",
+"gloss": [
+"To advance one's career, social status, or position in life or a situation."
+]
+},
+{
+"id": "in-the-limit_idiom",
+"w": "in the limit",
+"kind": "idiom",
+"gloss": [
+"In the extreme case; pushed to the very edge of what is possible or reasonable."
+]
+},
+{
+"id": "light-of-one-s-life_idiom",
+"w": "light of one's life",
+"kind": "idiom",
+"gloss": [
+"Somebody, especially a lover, who is the most precious person to one."
+]
+},
+{
+"id": "length-and-breadth_idiom",
+"w": "length and breadth",
+"kind": "idiom",
+"gloss": [
+"The entirety of a place being searched or traversed."
+]
+},
+{
+"id": "put-through-hoops_idiom",
+"w": "put through hoops",
+"kind": "idiom",
+"gloss": [
+"To make (a person) exert great effort to meet requirements, usually arbitrary."
+]
+},
+{
+"id": "in-the-back-seat_idiom",
+"w": "in the back seat",
+"kind": "idiom",
+"gloss": [
+"In a subordinate, secondary, or less important position."
+]
+},
+{
+"id": "blow-this-taco-stand_idiom",
+"w": "blow this taco stand",
+"kind": "idiom",
+"gloss": [
+"To exit or remove oneself from a less than exciting location or environment."
+]
+},
+{
+"id": "little-shit_idiom",
+"w": "little shit",
+"kind": "idiom",
+"gloss": [
+"An annoying or misbehaving person, usually a child."
+]
+},
+{
+"id": "put-someone-hip_idiom",
+"w": "put someone hip",
+"kind": "idiom",
+"gloss": [
+"To enlighten or inform, especially to fill someone in on something exclusive, unknown, or new."
+]
+},
+{
+"id": "bust-a-u_idiom",
+"w": "bust a U",
+"kind": "idiom",
+"gloss": [
+"Synonym of hang a uey"
+]
+},
+{
+"id": "piss-in-someone-s-cereal_idiom",
+"w": "piss in someone's cereal",
+"kind": "idiom",
+"gloss": [
+"Synonym of piss in someone's cornflakes."
+]
+},
+{
+"id": "shit-in-someone-s-cornflakes_idiom",
+"w": "shit in someone's cornflakes",
+"kind": "idiom",
+"gloss": [
+"Synonym of piss in someone's cornflakes."
+]
+},
+{
+"id": "crack-hardy_idiom",
+"w": "crack hardy",
+"kind": "idiom",
+"gloss": [
+"To keep a brave face, to suppress one's feelings, to grin and bear it."
+]
+},
+{
+"id": "horizontal-slam-dance_idiom",
+"w": "horizontal slam dance",
+"kind": "idiom",
+"gloss": [
+"Sexual intercourse."
+]
+},
+{
+"id": "lift-one-s-hand-against_idiom",
+"w": "lift one's hand against",
+"kind": "idiom",
+"gloss": [
+"To assault physically."
+]
+},
+{
+"id": "slip-of-the-keyboard_idiom",
+"w": "slip of the keyboard",
+"kind": "idiom",
+"gloss": [
+"A typing error where an individual accidentally presses the incorrect keys, often due to finger slips, muscle memory, or a momentary distraction."
+]
+},
+{
+"id": "when-the-music-stops_idiom",
+"w": "when the music stops",
+"kind": "idiom",
+"gloss": [
+"At the moment when a period of activity, or excitement ends, forcing a sometimes uncomfortable return to reality."
+]
+},
+{
+"id": "give-it-a-red-hot-crack_idiom",
+"w": "give it a red-hot crack",
+"kind": "idiom",
+"gloss": [
+"To attempt something with maximum effort, even when success seems uncertain."
+]
+},
+{
+"id": "look-askance_idiom",
+"w": "look askance",
+"kind": "idiom",
+"gloss": [
+"To express doubt."
+]
+},
+{
+"id": "when-two-fridays-come-together_idiom",
+"w": "when two Fridays come together",
+"kind": "idiom",
+"gloss": [
+"Used to indicate that something will never happen or is virtually impossible."
+]
+},
+{
+"id": "put-one-s-neck-out_idiom",
+"w": "put one's neck out",
+"kind": "idiom",
+"gloss": [
+"Synonym of stick one's neck out"
+]
+},
+{
+"id": "tough-beans_idiom",
+"w": "tough beans",
+"kind": "idiom",
+"gloss": [
+"Tough luck; too bad (often an unsympathetic retort to someone who is suffering a misfortune)."
+]
+},
+{
+"id": "what-s-wrong-with-this-picture_idiom",
+"w": "what’s wrong with this picture?",
+"kind": "idiom",
+"gloss": [
+"Pointing out that a current situation, plan, or set of circumstances does not make sense, or contains an obvious flaw."
+]
+},
+{
+"id": "bake-something-blind_idiom",
+"w": "bake something blind",
+"kind": "idiom",
+"gloss": [
+"To bake an unfilled pie crust or tart shell."
+]
+},
+{
+"id": "not-worth-beans_idiom",
+"w": "not worth beans",
+"kind": "idiom",
+"gloss": [
+"Entirely, worthless, insignificant, or of no value."
+]
+},
+{
+"id": "wash-one-s-elbows_idiom",
+"w": "wash one's elbows",
+"kind": "idiom",
+"gloss": [
+"To masturbate by stimulating one's penis."
+]
+},
+{
+"id": "have-fun-with-dick-and-jane_idiom",
+"w": "have fun with Dick and Jane",
+"kind": "idiom",
+"gloss": [
+"To masturbate by stimulating one's penis."
+]
+},
+{
+"id": "tickle-the-sausage_idiom",
+"w": "tickle the sausage",
+"kind": "idiom",
+"gloss": [
+"To masturbate by stimulating one's penis."
+]
+},
+{
+"id": "slap-the-salami_idiom",
+"w": "slap the salami",
+"kind": "idiom",
+"gloss": [
+"To masturbate by stimulating one's penis."
+]
+},
+{
+"id": "snap-of-the-fingers_idiom",
+"w": "snap of the fingers",
+"kind": "idiom",
+"gloss": [
+"An action that happens almost instantly and with little to no effort."
+]
+},
+{
+"id": "click-of-the-fingers_idiom",
+"w": "click of the fingers",
+"kind": "idiom",
+"gloss": [
+"Synonym of snap of the fingers"
+]
+},
+{
+"id": "dip-one-s-finger-in_idiom",
+"w": "dip one's finger in",
+"kind": "idiom",
+"gloss": [
+"To take a small, cautious sample of something, or to become minimally involved in an activity, process, or project."
+]
+},
+{
+"id": "within-one-s-fingers_idiom",
+"w": "within one's fingers",
+"kind": "idiom",
+"gloss": [
+"Fully within one's control, easily accessible, or within one's grasp."
+]
+},
+{
+"id": "with-one-s-finger-up-one-s-ass_idiom",
+"w": "with one's finger up one's ass",
+"kind": "idiom",
+"gloss": [
+"Doing absolutely nothing, being entirely unproductive, or sitting around in a vacant state of inaction."
+]
+},
+{
+"id": "in-one-s-fingers_idiom",
+"w": "in one's fingers",
+"kind": "idiom",
+"gloss": [
+"Understaning or executing a skill easily or naturally."
+]
+},
+{
+"id": "have-one-s-foot-in-the-door_idiom",
+"w": "have one's foot in the door",
+"kind": "idiom",
+"gloss": [
+"To have an advantage or upper hand in something."
+]
+},
+{
+"id": "put-the-finger-on_idiom",
+"w": "put the finger on",
+"kind": "idiom",
+"gloss": [
+"Synonym of finger (“to report to or identify for the authorities; to inform on”)"
+]
+},
+{
+"id": "lift-a-finger-against_idiom",
+"w": "lift a finger against",
+"kind": "idiom",
+"gloss": [
+"To threaten, attack, or inflict violence toward someone."
+]
+},
+{
+"id": "out-of-one-s-fingers_idiom",
+"w": "out of one's fingers",
+"kind": "idiom",
+"gloss": [
+"That has escaped or been carelessly let go."
+]
+},
+{
+"id": "one-s-fingers-itch_idiom",
+"w": "one's fingers itch",
+"kind": "idiom",
+"gloss": [
+"Used to imply that one has a strong, restless desire to do or get involved in something; used to describe an eager urge to take action."
+]
+},
+{
+"id": "one-s-fingers-are-all-thumbs_idiom",
+"w": "one's fingers are all thumbs",
+"kind": "idiom",
+"gloss": [
+"Used to imply that someone is extremely clumsy, awkward, or uncoordinated when using their hands to do something."
+]
+},
+{
+"id": "let-one-s-fingers-do-the-walking_idiom",
+"w": "let one's fingers do the walking",
+"kind": "idiom",
+"gloss": [
+"To use the phone or internet to find information, contact someone, or make a purchase instead of physically traveling to a store or location."
+]
+},
+{
+"id": "put-on-the-long-finger_idiom",
+"w": "put on the long finger",
+"kind": "idiom",
+"gloss": [
+"To delay, postpone or procrastinate something."
+]
+},
+{
+"id": "have-green-fingers_idiom",
+"w": "have green fingers",
+"kind": "idiom",
+"gloss": [
+"To be naturally talented at gardening and have a special ability to make plants grow and thrive."
+]
+},
+{
+"id": "look-through-one-s-fingers_idiom",
+"w": "look through one's fingers",
+"kind": "idiom",
+"gloss": [
+"To deliberately ignore, overlook, or turn a blind eye to someone's mistake or misconduct, rather than taking corrective action."
+]
+},
+{
+"id": "put-one-s-finger-in-the-fire_idiom",
+"w": "put one's finger in the fire",
+"kind": "idiom",
+"gloss": [
+"To suffer unpleasant, painful, or costly consequences as a result of becoming involved in a risky or ill-advised situation."
+]
+},
+{
+"id": "put-a-finger-to-the-wind_idiom",
+"w": "put a finger to the wind",
+"kind": "idiom",
+"gloss": [
+"To gauge current opinions, trends, or circumstances before making a decision."
+]
+},
+{
+"id": "pull-one-s-finger-out-of-one-s-arse_idiom",
+"w": "pull one's finger out of one's arse",
+"kind": "idiom",
+"gloss": [
+"Synonym of pull one's finger out"
+]
+},
+{
+"id": "put-up-a-brick_idiom",
+"w": "put up a brick",
+"kind": "idiom",
+"gloss": [
+"Taking a bad shot that strongly misses the target and clanks loudly off the rim or backboard."
+]
+},
+{
+"id": "high-living_idiom",
+"w": "high living",
+"kind": "idiom",
+"gloss": [
+"A luxurious, extravagant and often expensive lifestyle."
+]
+},
+{
+"id": "wear-many-hats_idiom",
+"w": "wear many hats",
+"kind": "idiom",
+"gloss": [
+"To have multiple roles or responsibilites, often in the same job or situation."
+]
+},
+{
+"id": "squirrels-in-the-attic_idiom",
+"w": "squirrels in the attic",
+"kind": "idiom",
+"gloss": [
+"Insanity or craziness."
+]
+},
+{
+"id": "made-for-life_idiom",
+"w": "made for life",
+"kind": "idiom",
+"gloss": [
+"Having enough wealth to live the rest of one's life without any further income."
+]
+},
+{
+"id": "many-moons-from-now_idiom",
+"w": "many moons from now",
+"kind": "idiom",
+"gloss": [
+"A (very) long time in the future."
+]
+},
+{
+"id": "golden-days_idiom",
+"w": "golden days",
+"kind": "idiom",
+"gloss": [
+"Synonym of good old days or golden age."
+]
+},
+{
+"id": "flick-on-the-afterburners_idiom",
+"w": "flick on the afterburners",
+"kind": "idiom",
+"gloss": [
+"Synonym of switch on the afterburners."
+]
+},
+{
+"id": "hit-the-gold_idiom",
+"w": "hit the gold",
+"kind": "idiom",
+"gloss": [
+"To shoot an arrow that lands in the center yellow ring of the target."
+]
+},
+{
+"id": "shoot-the-gold_idiom",
+"w": "shoot the gold",
+"kind": "idiom",
+"gloss": [
+"Synonym of hit the gold"
+]
+},
+{
+"id": "they-should-have-sent-a-poet_idiom",
+"w": "they should have sent a poet",
+"kind": "idiom",
+"gloss": [
+"Indicates something is too profound, beautiful, awe-inspiring or wondrous for an ordinary person to describe in ordinary words."
+]
+},
+{
+"id": "hit-below-the-belt_idiom",
+"w": "hit below the belt",
+"kind": "idiom",
+"gloss": [
+"To act unfairly, unscrupulously, or to make a cruel, personal attack during an argument or competition."
+]
+},
+{
+"id": "hit-the-pan_idiom",
+"w": "hit the pan",
+"kind": "idiom",
+"gloss": [
+"To use a pressed powder product (such as eyeshadow or blush) extensively over time until the product is depleted to the point that the metal or plastic container base becomes visibly exposed."
+]
+},
+{
+"id": "newspaperman-s-newspaper_idiom",
+"w": "newspaperman's newspaper",
+"kind": "idiom",
+"gloss": [
+"A newspaper well regarded by journalists."
+]
+},
+{
+"id": "heady-days_idiom",
+"w": "heady days",
+"kind": "idiom",
+"gloss": [
+"A period of time characterized by excitement, rapid success, high energy or optimism."
+]
+},
+{
+"id": "centrelink-time_idiom",
+"w": "Centrelink time",
+"kind": "idiom",
+"gloss": [
+"A frustratingly long, unpredictable, and often tedious waiting time spent when dealing with the Australian government's welfare and social services agency."
+]
+},
+{
+"id": "sweet-stuff_idiom",
+"w": "sweet stuff",
+"kind": "idiom",
+"gloss": [
+"A romantic partner."
+]
+},
+{
+"id": "useless-as-teats-on-a-boar-hog_idiom",
+"w": "useless as teats on a boar hog",
+"kind": "idiom",
+"gloss": [
+"Ineffectual, pointless."
+]
+},
+{
+"id": "gun-to-your-head_idiom",
+"w": "gun to your head",
+"kind": "idiom",
+"gloss": [
+"Introduces a situation in which the listener is forced to make an immediate choice or state a preference under pressure, especially where neither option is strongly preferred."
+]
+}
+]

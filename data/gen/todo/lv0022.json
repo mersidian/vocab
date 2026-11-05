@@ -1,0 +1,602 @@
+[
+{
+"id": "inspiration_noun",
+"w": "inspiration",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "regret_verb",
+"w": "regret",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "lover_noun",
+"w": "lover",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "photography_noun",
+"w": "photography",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "lip_noun",
+"w": "lip",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "screw_noun",
+"w": "screw",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "boss_noun",
+"w": "boss",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "globe_noun",
+"w": "globe",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "noon_noun",
+"w": "noon",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "coin_noun",
+"w": "coin",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "leisure_noun",
+"w": "leisure",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "anniversary_noun",
+"w": "anniversary",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "envelope_noun",
+"w": "envelope",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "fool_noun",
+"w": "fool",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "rhythm_noun",
+"w": "rhythm",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "asleep_adj",
+"w": "asleep",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "golf_noun",
+"w": "golf",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "diary_noun",
+"w": "diary",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "upset_adj",
+"w": "upset",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "pepper_noun",
+"w": "pepper",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "crazy_adj",
+"w": "crazy",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "visitor_noun",
+"w": "visitor",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "painter_noun",
+"w": "painter",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "singular_adj",
+"w": "singular",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "singular_noun",
+"w": "singular",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "romance_noun",
+"w": "romance",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "crowded_adj",
+"w": "crowded",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "tourist_noun",
+"w": "tourist",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "oven_noun",
+"w": "oven",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "soap_noun",
+"w": "soap",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "chin_noun",
+"w": "chin",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "fortunately_adv",
+"w": "fortunately",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "vocabulary_noun",
+"w": "vocabulary",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "adventure_noun",
+"w": "adventure",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "cigarette_noun",
+"w": "cigarette",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "sink_noun",
+"w": "sink",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "tear_noun",
+"w": "tear",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "brake_noun",
+"w": "brake",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "kindly_adj",
+"w": "kindly",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "cheek_noun",
+"w": "cheek",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "pity_noun",
+"w": "pity",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "elevator_noun",
+"w": "elevator",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "brave_adj",
+"w": "brave",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "fork_noun",
+"w": "fork",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "beg_verb",
+"w": "beg",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "horror_noun",
+"w": "horror",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "midnight_noun",
+"w": "midnight",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "script_noun",
+"w": "script",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "email_verb",
+"w": "email",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "episode_noun",
+"w": "episode",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "tap_noun",
+"w": "tap",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "disappear_verb",
+"w": "disappear",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "earthquake_noun",
+"w": "earthquake",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "remind_verb",
+"w": "remind",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "lend_verb",
+"w": "lend",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "advertisement_noun",
+"w": "advertisement",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "climb_verb",
+"w": "climb",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "bargain_noun",
+"w": "bargain",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "mysterious_adj",
+"w": "mysterious",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "softly_adv",
+"w": "softly",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "panic_noun",
+"w": "panic",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "gram_noun",
+"w": "gram",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "basket_noun",
+"w": "basket",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "quit_verb",
+"w": "quit",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "harmful_adj",
+"w": "harmful",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "bonus_noun",
+"w": "bonus",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "semester_noun",
+"w": "semester",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "invite_verb",
+"w": "invite",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "fare_noun",
+"w": "fare",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "oppose_verb",
+"w": "oppose",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "spell_verb",
+"w": "spell",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "bride_noun",
+"w": "bride",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "soda_noun",
+"w": "soda",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "sauce_noun",
+"w": "sauce",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "tune_noun",
+"w": "tune",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "blanket_noun",
+"w": "blanket",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "medal_noun",
+"w": "medal",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "disadvantage_noun",
+"w": "disadvantage",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "relaxed_adj",
+"w": "relaxed",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "frightened_adj",
+"w": "frightened",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "hurry_verb",
+"w": "hurry",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "supper_noun",
+"w": "supper",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "bloom_noun",
+"w": "bloom",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "sunlight_noun",
+"w": "sunlight",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "treasure_noun",
+"w": "treasure",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "anymore_adv",
+"w": "anymore",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "importantly_adv",
+"w": "importantly",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "kit_noun",
+"w": "kit",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "awful_adj",
+"w": "awful",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "garage_noun",
+"w": "garage",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "creativity_noun",
+"w": "creativity",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "noun_noun",
+"w": "noun",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "unhappy_adj",
+"w": "unhappy",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "ruin_verb",
+"w": "ruin",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "sailing_noun",
+"w": "sailing",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "sweat_verb",
+"w": "sweat",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "statue_noun",
+"w": "statue",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "bite_noun",
+"w": "bite",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "ambition_noun",
+"w": "ambition",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "disappointed_adj",
+"w": "disappointed",
+"pos": "adj",
+"lvl": "A2"
+}
+]

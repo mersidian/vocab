@@ -1,0 +1,865 @@
+[
+{
+"id": "casualty_x",
+"w": "casualty",
+"gloss": [
+"Something that happens by chance, especially an unfortunate event; an accident, a disaster.",
+"A person suffering from injuries or who has been killed due to an accident or through an act of violence.",
+"Specifically, a person who has been killed (not only injured) due to an accident or through an act of violence; a fatality."
+]
+},
+{
+"id": "epidemic_x",
+"w": "epidemic",
+"gloss": [
+"A widespread disease that affects many humans in a population.",
+"An occurrence of a disease or disorder in a human population at a frequency higher than that expected in a given time period; an episode of outbreak and subsequent high prevalence.",
+"A heightened occurrence of anything harmful."
+]
+},
+{
+"id": "contour_x",
+"w": "contour",
+"gloss": [
+"An outline, boundary or border, usually of curved shape.",
+"A line on a map or chart delineating those points which have the same altitude or other plotted quantity: a contour line or isopleth; (metonymically) the landform or its surface.",
+"a speech sound which behaves as a single segment, but which makes an internal transition from one quality, place, or manner to another."
+]
+},
+{
+"id": "buck_x",
+"w": "buck",
+"gloss": [
+"A male deer, antelope, sheep, goat, rabbit, hare, and sometimes the male of other animals such as the hamster, ferret, salmonid, shad, skunk and kangaroo.",
+"An uncastrated sheep, a ram.",
+"An antelope of either sex; compare with Afrikaans bok."
+]
+},
+{
+"id": "fairness_x",
+"w": "fairness",
+"gloss": [
+"The property of being fair or equitable.",
+"The property of being fair or beautiful."
+]
+},
+{
+"id": "fraudulent_x",
+"w": "fraudulent",
+"gloss": [
+"Dishonest; based on fraud or deception.",
+"False, phony."
+]
+},
+{
+"id": "cardiovascular_x",
+"w": "cardiovascular",
+"gloss": [
+"Relating to the circulatory system, that is the heart and blood vessels."
+]
+},
+{
+"id": "congressman_x",
+"w": "congressman",
+"gloss": [
+"A male member of congress.",
+"A male member of the House of Representatives.",
+"The title for someone who is elected to be a congressman."
+]
+},
+{
+"id": "fringe_x",
+"w": "fringe",
+"gloss": [
+"A decorative border.",
+"A border or edging.",
+"A marginal or peripheral part."
+]
+},
+{
+"id": "mainstream_x",
+"w": "mainstream",
+"gloss": [
+"Used or accepted broadly rather than by small portions of population, market, scientific community, etc.",
+"The principal current in a flow, such as a river or flow of air",
+"That which is common; the norm."
+]
+},
+{
+"id": "compartment_x",
+"w": "compartment",
+"gloss": [
+"A room, or section, or chamber, typically within a vehicle.",
+"One of the parts into which an area is subdivided.",
+"The part of a protein that serves a specific function."
+]
+},
+{
+"id": "counselor_x",
+"w": "counselor",
+"gloss": [
+"A professional who counsels people, especially on personal problems.",
+"A school counselor, often in a specialty such as careers, education, or health.",
+"An attorney."
+]
+},
+{
+"id": "variant_x",
+"w": "variant",
+"gloss": [
+"Showing variety, diverse.",
+"Showing deviation or disagreement.",
+"Variable."
+]
+},
+{
+"id": "marrow_x",
+"w": "marrow",
+"gloss": [
+"The substance inside bones which produces blood cells.",
+"A kind of vegetable similar to a large courgette, zucchini or squash; the mature fruit of certain Cucurbita pepo cultivars.",
+"The pith of certain plants."
+]
+},
+{
+"id": "cervical_x",
+"w": "cervical",
+"gloss": [
+"Of or pertaining to the neck.",
+"Of or pertaining to the cervix."
+]
+},
+{
+"id": "tort_x",
+"w": "tort",
+"gloss": [
+"A wrongful act, whether intentional or negligent, regarded as non-criminal and unrelated to a contract, which causes an injury and can be remedied in civil court, usually through the awarding of damages.",
+"An injury or wrong.",
+"Twisted."
+]
+},
+{
+"id": "dragon_x",
+"w": "dragon",
+"gloss": [
+"In European mythologies, a gigantic beast, typically reptilian with leathery bat-like wings, lion-like claws, scaly skin and a lizard-like body, often a monster with fiery breath.",
+"In Eastern Asian mythologies, a large, snake-like monster with the eyes of a hare, the horns of a stag and the claws of a tiger, usually beneficent.",
+"A very large snake; a python."
+]
+},
+{
+"id": "enlargement_x",
+"w": "enlargement",
+"gloss": [
+"An act or instance of making something larger.",
+"A making more obvious or serious; exacerbation.",
+"An image, particularly a photograph, that has been enlarged."
+]
+},
+{
+"id": "poll_x",
+"w": "poll",
+"gloss": [
+"A survey of people, usually statistically analyzed to gauge wider public opinion.",
+"A formal vote held in order to ascertain the most popular choice.",
+"A polling place (usually as plural, polling places)."
+]
+},
+{
+"id": "multitude_x",
+"w": "multitude",
+"gloss": [
+"A great amount or number, often of people; abundance, myriad, profusion.",
+"The mass of ordinary people; the masses, the populace."
+]
+},
+{
+"id": "asylum_x",
+"w": "asylum",
+"gloss": [
+"A place of safety or refuge.",
+"The protection, physical and legal, afforded by such a place (as, for example, for political refugees).",
+"A place of protection or restraint for one or more classes of the disadvantaged, especially the mentally ill."
+]
+},
+{
+"id": "iodine_x",
+"w": "iodine",
+"gloss": [
+"A chemical element (symbol: I) with an atomic number of 53; one of the halogens.",
+"An antiseptic incorporating the element.",
+"An iodide."
+]
+},
+{
+"id": "problematic_x",
+"w": "problematic",
+"gloss": [
+"Difficult to overcome, solve, or decide.",
+"Not settled, uncertain, of uncertain outcome; debatable, questionable, open to doubt.",
+"Contributing (especially if subtly) to discrimination (such as racism, sexism, homophobia, transphobia, or ageism)."
+]
+},
+{
+"id": "halt_x",
+"w": "halt",
+"gloss": [
+"To stop marching.",
+"To stop either temporarily or permanently.",
+"To bring to a stop."
+]
+},
+{
+"id": "neo_x",
+"w": "neo",
+"gloss": [
+"A unisex given name originating as a coinage.",
+"A surname.",
+"An optimized German keyboard layout supporting nearly all Latin-based alphabets."
+]
+},
+{
+"id": "healthcare_x",
+"w": "healthcare"
+},
+{
+"id": "creep_x",
+"w": "creep",
+"gloss": [
+"To move slowly with the abdomen close to the ground.",
+"To grow across a surface rather than upwards.",
+"To move slowly and quietly in a particular direction."
+]
+},
+{
+"id": "lobe_x",
+"w": "lobe",
+"gloss": [
+"Any projection or division, especially one of a somewhat rounded form.",
+"A clear division of an organ that can be determined at the gross anatomy level, especially one of the parts of the brain, liver or lung.",
+"A semicircular pattern left on the ice as the skater travels across it."
+]
+},
+{
+"id": "unjust_x",
+"w": "unjust",
+"gloss": [
+"Not fair, just or right."
+]
+},
+{
+"id": "handful_x",
+"w": "handful",
+"gloss": [
+"The amount that a hand will grasp or contain.",
+"A hand's breadth; four inches.",
+"A small number, usually approximately five."
+]
+},
+{
+"id": "repayment_x",
+"w": "repayment",
+"gloss": [
+"The act of repaying.",
+"The money or other item that is repaid.",
+"The act of revenge, an act of revenge."
+]
+},
+{
+"id": "allegedly_x",
+"w": "allegedly",
+"gloss": [
+"According to allegation(s); supposedly, reportedly."
+]
+},
+{
+"id": "stance_x",
+"w": "stance",
+"gloss": [
+"The manner, pose, or posture in which one stands.",
+"One's opinion or point of view.",
+"A place to stand; a position, a site, a station."
+]
+},
+{
+"id": "perpetual_x",
+"w": "perpetual",
+"gloss": [
+"Lasting forever, or for an indefinitely long time.",
+"Set up to be in effect or have tenure for an unlimited duration.",
+"Continuing; uninterrupted."
+]
+},
+{
+"id": "conduction_x",
+"w": "conduction",
+"gloss": [
+"The conveying of heat or electricity through material.",
+"The act of leading or guiding.",
+"The act of training up."
+]
+},
+{
+"id": "potter_x",
+"w": "potter",
+"gloss": [
+"One who makes pots and other ceramic wares.",
+"One who places flowers or other plants inside their pots.",
+"One who pots meats or other eatables."
+]
+},
+{
+"id": "contingency_x",
+"w": "contingency",
+"gloss": [
+"The quality of being contingent, of happening by chance.",
+"A possibility; something which may or may not happen. A chance occurrence, especially in finance, unexpected expenses.",
+"An amount of money which a party to a contract has to pay to the other party (usually the supplier of a major project to the client) if they do not fulfill the contract according to the specification."
+]
+},
+{
+"id": "dilute_x",
+"w": "dilute",
+"gloss": [
+"To make thinner by adding solvent to a solution, especially by adding water.",
+"To weaken, especially by adding a foreign substance.",
+"To cause the value of individual shares or the stake of a shareholder to decrease by increasing the total number of shares."
+]
+},
+{
+"id": "precipitate_x",
+"w": "precipitate",
+"gloss": [
+"To make something happen suddenly and quickly.",
+"To throw an object or person from a great height.",
+"To send violently into a certain state or condition."
+]
+},
+{
+"id": "ethanol_x",
+"w": "ethanol",
+"gloss": [
+"A simple aliphatic alcohol formally derived from ethane by replacing one hydrogen atom with a hydroxyl group: CH₃-CH₂-OH.",
+"Specifically, this form of alcohol as a fuel."
+]
+},
+{
+"id": "indifference_x",
+"w": "indifference",
+"gloss": [
+"The state of being indifferent.",
+"Unbiased impartiality.",
+"Unemotional apathy."
+]
+},
+{
+"id": "deployment_x",
+"w": "deployment",
+"gloss": [
+"An arrangement or classification of things.",
+"An implementation, or putting into use, of something.",
+"The distribution of military forces, especially prior to battle."
+]
+},
+{
+"id": "stationery_x",
+"w": "stationery",
+"gloss": [
+"Writing materials, envelopes, office materials."
+]
+},
+{
+"id": "inward_x",
+"w": "inward",
+"gloss": [
+"Situated on the inside; that is within, inner; belonging to the inside.",
+"Not superficially obvious, inner, not expressed, especially relating to mental or spiritual faculties as opposed to external ones.",
+"Moving or tending toward the inside."
+]
+},
+{
+"id": "cart_x",
+"w": "cart",
+"gloss": [
+"A small, open, wheeled vehicle, drawn or pushed by a person or animal, often with two wheels on one axle, more often used for transporting goods than passengers.",
+"A small motor vehicle resembling a car; a go-cart.",
+"A shopping cart."
+]
+},
+{
+"id": "resurrection_x",
+"w": "resurrection",
+"gloss": [
+"The act of arising from the dead and becoming alive again.",
+"The act of being raised from the dead into immortal life (as distinguished from a resuscitation into ordinary mortal life).",
+"The general resurrection."
+]
+},
+{
+"id": "workforce_x",
+"w": "workforce",
+"gloss": [
+"All the workers employed by a specific organization or state, or on a specific project.",
+"The total population of a country or region that is employed or employable."
+]
+},
+{
+"id": "rupture_x",
+"w": "rupture",
+"gloss": [
+"A burst, split, or break.",
+"A social breach or break, between individuals or groups.",
+"A break or tear in soft tissue, such as a muscle."
+]
+},
+{
+"id": "borrower_x",
+"w": "borrower",
+"gloss": [
+"One who borrows."
+]
+},
+{
+"id": "embryo_x",
+"w": "embryo",
+"gloss": [
+"In the reproductive cycle, the stage after the fertilization of the egg that precedes the development into a fetus.",
+"An organism in the earlier stages of development before it emerges from the egg, or before metamorphosis.",
+"In a viviparous animal, the young animal's earliest stages in the mother's body."
+]
+},
+{
+"id": "slate_x",
+"w": "slate",
+"gloss": [
+"A piece of such stone, usually cut into a rectangular shape, used as a tile for flooring, roofing, etc.; (uncountable) such tiles collectively, or the material from which they are made.",
+"A piece of other material used as a roofing tile.",
+"A generally rectangular piece, originally of certain types of stone and now of other materials, often in a frame, used for writing on with a thin rod of the same or another stone (a slate pencil) or with chalk; a small chalkboard."
+]
+},
+{
+"id": "lag_x",
+"w": "lag",
+"gloss": [
+"Late.",
+"Last; long-delayed.",
+"Last made; hence, made of refuse; inferior."
+]
+},
+{
+"id": "traction_x",
+"w": "traction",
+"gloss": [
+"The act of pulling something along a surface using motive power.",
+"The condition of being so pulled.",
+"Grip."
+]
+},
+{
+"id": "legitimacy_x",
+"w": "legitimacy",
+"gloss": [
+"The quality or state of being legitimate or valid; validity.",
+"Public acceptance of an institution, such as a government, corporation, or system.",
+"Lawfulness of birth or origin; directness of descent as affecting the royal succession."
+]
+},
+{
+"id": "capillary_x",
+"w": "capillary",
+"gloss": [
+"Resembling or pertaining to hair, especially in slenderness or fineness.",
+"Of or pertaining to a narrow tube.",
+"Of, relating to, or caused by surface tension."
+]
+},
+{
+"id": "arthritis_x",
+"w": "arthritis",
+"gloss": [
+"Inflammation of a joint or joints causing pain and/or disability, swelling and stiffness, and due to various causes such as infection, trauma, degenerative changes or metabolic disorders: any of several disease entities."
+]
+},
+{
+"id": "haul_x",
+"w": "haul",
+"gloss": [
+"To transport by drawing or pulling, as with horses or oxen, or a motor vehicle.",
+"To draw or pull something heavy.",
+"To carry or transport something, with a connotation that the item is heavy or otherwise difficult to move."
+]
+},
+{
+"id": "occupancy_x",
+"w": "occupancy",
+"gloss": [
+"The act of occupying, the state of being occupied or the state of being an occupant or tenant.",
+"The period of time during which someone rents or otherwise occupies certain land or premises.",
+"The specific use to which something occupied is put."
+]
+},
+{
+"id": "token_x",
+"w": "token",
+"gloss": [
+"Something serving as an expression of something else.",
+"A keepsake.",
+"A piece of stamped metal or plastic, etc., used as a form of currency; a voucher that can be exchanged for goods or services."
+]
+},
+{
+"id": "intervene_x",
+"w": "intervene",
+"gloss": [
+"To become involved in a situation, so as to alter or prevent an action.",
+"To occur, fall, or come between, points of time, or events.",
+"To occur or act as an obstacle or delay."
+]
+},
+{
+"id": "albeit_x",
+"w": "albeit",
+"gloss": [
+"Although, despite (it) being."
+]
+},
+{
+"id": "reside_x",
+"w": "reside",
+"gloss": [
+"To dwell permanently or for a considerable time; to have a settled abode for a time; to remain for a long time.",
+"To have a seat or fixed position; to inhere; to lie or be as in attribute or element.",
+"To sink; to settle, as sediment."
+]
+},
+{
+"id": "democrat_x",
+"w": "democrat",
+"gloss": [
+"A supporter of democracy; an advocate of democratic politics (originally (historical) as opposed to the aristocrats in Revolutionary France).",
+"Someone who rules a representative democracy.",
+"A large light uncovered wagon with two or more seats."
+]
+},
+{
+"id": "confer_x",
+"w": "confer",
+"gloss": [
+"To grant as a possession; to bestow.",
+"To talk together, to consult, discuss; to collogue.",
+"To compare."
+]
+},
+{
+"id": "diplomacy_x",
+"w": "diplomacy",
+"gloss": [
+"The art and practice of conducting international relations by negotiating alliances, treaties, agreements etc., bilaterally or multilaterally, between states and sometimes international organizations, or even between polities with varying status, such as those of monarchs and their princely vassals.",
+"Tact and subtle skill in dealing with people so as to avoid or settle hostility."
+]
+},
+{
+"id": "enact_x",
+"w": "enact",
+"gloss": [
+"To make (a bill) into law.",
+"To act the part of; to play.",
+"To do; to effect."
+]
+},
+{
+"id": "innocence_x",
+"w": "innocence",
+"gloss": [
+"Absence of responsibility for a crime, tort, etc.",
+"Lack of understanding about sensitive subjects such as sexuality and crime.",
+"Lack of ability or intention to harm or damage."
+]
+},
+{
+"id": "linguistics_x",
+"w": "linguistics",
+"gloss": [
+"The systematic and scholarly study of language."
+]
+},
+{
+"id": "foam_x",
+"w": "foam",
+"gloss": [
+"A substance composed of a large collection of bubbles or their solidified remains, especially",
+"A collection of small bubbles created when the surface of a body of water is moved by tides, wind, etc.",
+"A collection of small bubbles formed from bodily fluids such as saliva or sweat."
+]
+},
+{
+"id": "mole_x",
+"w": "mole",
+"gloss": [
+"A naevus, a pigmented, slightly raised, and sometimes hairy spot on the skin.",
+"Any of several small, burrowing, insectivorous mammals of the family Talpidae.",
+"Any of the burrowing rodents also called mole-rats."
+]
+},
+{
+"id": "confrontation_x",
+"w": "confrontation",
+"gloss": [
+"The act of confronting or challenging another, especially face to face.",
+"A conflict between armed forces."
+]
+},
+{
+"id": "commence_x",
+"w": "commence",
+"gloss": [
+"To begin, start.",
+"To begin or start.",
+"To begin to be, or to act as."
+]
+},
+{
+"id": "coupon_x",
+"w": "coupon",
+"gloss": [
+"A section of a ticket, showing the holder to be entitled to some specified accommodation or service, as to a passage over a designated line of travel, a particular seat in a theater, a discount, etc.",
+"A voucher issued by a manufacturer or retailer which offers a discount on a particular product.",
+"A certificate of interest due, printed at the bottom of transferable bonds (state, railroad, etc.), given for a term of years, designed to be cut off and presented for payment when the interest is due; an interest warrant."
+]
+},
+{
+"id": "transcription_x",
+"w": "transcription",
+"gloss": [
+"The act or process of transcribing, or converting spoken (or sometimes signed) language to the written form.",
+"An adaptation of a composition.",
+"A recorded radio or television programme."
+]
+},
+{
+"id": "annals_x",
+"w": "annals",
+"gloss": [
+"A relation of events in chronological order, each event being recorded under the year in which it happened.",
+"Historical records; chronicles; history.",
+"A periodic publication, containing records of discoveries, transactions of societies, etc."
+]
+},
+{
+"id": "unprecedented_x",
+"w": "unprecedented",
+"gloss": [
+"Never before seen, done, or experienced; without precedent."
+]
+},
+{
+"id": "incoming_x",
+"w": "incoming",
+"gloss": [
+"Coming (or about to come) in; arriving.",
+"Succeeding to an office or other position.",
+"A warning that something is coming towards the addressee, especially enemy artillery fire."
+]
+},
+{
+"id": "accomplishment_x",
+"w": "accomplishment",
+"gloss": [
+"The act of accomplishing; completion; fulfilment.",
+"That which completes, perfects, or equips thoroughly; acquirement; attainment; that which constitutes excellence of mind, or elegance of manners, acquired by education or training.",
+"Something accomplished; an achievement."
+]
+},
+{
+"id": "reflex_x",
+"w": "reflex",
+"gloss": [
+"An automatic response to a simple stimulus which does not require mental processing.",
+"The descendant of an earlier language element, such as a word or phoneme, in a daughter language.",
+"The ancestor word corresponding to a descendant."
+]
+},
+{
+"id": "referral_x",
+"w": "referral",
+"gloss": [
+"The act or process of transferring someone or something to another, of sending by reference, or referring.",
+"A document used by schools detailing some form of a student's misbehavior and listing the actions taken before and after the student's receipt of the referral."
+]
+},
+{
+"id": "disruption_x",
+"w": "disruption",
+"gloss": [
+"An interruption to the regular flow or sequence of something.",
+"A continuing act of disorder.",
+"A breaking or bursting apart; a breach."
+]
+},
+{
+"id": "pact_x",
+"w": "pact",
+"gloss": [
+"An agreement; a compact; a covenant.",
+"An agreement between two or more nations.",
+"An alliance or coalition."
+]
+},
+{
+"id": "rigorous_x",
+"w": "rigorous",
+"gloss": [
+"Showing, causing, or favoring rigour/rigor; scrupulously accurate or strict; thorough.",
+"Severe; intense."
+]
+},
+{
+"id": "fuck_x",
+"w": "fuck",
+"gloss": [
+"To have sexual intercourse; to copulate.",
+"To have sexual intercourse with.",
+"To have penetrative sex (as opposed to oral sex, etc.)."
+]
+},
+{
+"id": "dwell_x",
+"w": "dwell",
+"gloss": [
+"A period of time in which a system or component remains in a given state.",
+"A brief pause in the motion of part of a mechanism to allow an operation to be completed.",
+"A planned delay in a timed control program."
+]
+},
+{
+"id": "congestion_x",
+"w": "congestion",
+"gloss": [
+"An accumulation or buildup, the act of gathering into a heap or mass.",
+"Blocking up of the capillary and other blood vessels, etc., in any locality or organ (often producing other morbid symptoms); local hyperemia, active or passive.",
+"An excess of traffic; usually not a complete standstill of traffic, so usually not synonymous with traffic jam."
+]
+},
+{
+"id": "gut_x",
+"w": "gut",
+"gloss": [
+"The alimentary canal, especially the intestine.",
+"The abdomen of a person, especially one that is enlarged.",
+"The intestines of an animal used to make strings of a tennis racket or violin, etc."
+]
+},
+{
+"id": "discretionary_x",
+"w": "discretionary",
+"gloss": [
+"Available at one's discretion; able to be used as one chooses; left to or regulated by one's own discretion or judgment."
+]
+},
+{
+"id": "ledger_x",
+"w": "ledger",
+"gloss": [
+"A book for keeping notes; a record book, a register.",
+"A book or other scheme for keeping accounting records.",
+"A distributed ledger, a public financial transaction database, typically using a blockchain."
+]
+},
+{
+"id": "skeletal_x",
+"w": "skeletal",
+"gloss": [
+"Shorthand for skeletal diagram (a black-and-white drawing of a [usually extinct] animal’s skeleton to be used as a reference for paleoart)",
+"of, or relating to the skeleton",
+"haggard, cadaverous, emaciated or gaunt"
+]
+},
+{
+"id": "mutation_x",
+"w": "mutation",
+"gloss": [
+"Any alteration or change.",
+"Any heritable change of the base-pair sequence of genetic material.",
+"A mutant."
+]
+},
+{
+"id": "morphological_x",
+"w": "morphological",
+"gloss": [
+"Of, or pertaining to, morphology."
+]
+},
+{
+"id": "sanctuary_x",
+"w": "sanctuary",
+"gloss": [
+"A place of safety, refuge, or protection.",
+"An area set aside for protection.",
+"A state of being protected, asylum."
+]
+},
+{
+"id": "intestine_x",
+"w": "intestine",
+"gloss": [
+"The alimentary canal of an animal through which food passes after having passed all stomachs.",
+"One of certain subdivisions of this part of the alimentary canal, such as the small or large intestine in human beings.",
+"Domestic; taking place within a given country or region."
+]
+},
+{
+"id": "sexually_x",
+"w": "sexually",
+"gloss": [
+"In a sexual manner; erotically.",
+"With respect to sex (either of the two divisions of organisms).",
+"With respect to sexual intercourse."
+]
+},
+{
+"id": "digestion_x",
+"w": "digestion",
+"gloss": [
+"The process, in the gastrointestinal tract, by which food is converted into substances that can be used by the body.",
+"The result of this process.",
+"The ability to use this process."
+]
+},
+{
+"id": "anesthesia_x",
+"w": "anesthesia",
+"gloss": [
+"An artificial method of preventing sensation, used to eliminate pain without causing loss of vital functions, by the administration of one or more agents which block pain impulses before transmitted to the brain.",
+"The loss or prevention of sensation, as caused by anesthesia (in the above sense), or by a lesion in the nervous system, or by another physical abnormality.",
+"A medication that provides the service of temporarily blocking sensation."
+]
+},
+{
+"id": "tier_x",
+"w": "tier",
+"gloss": [
+"One who ties (knots, etc.).",
+"Something that ties.",
+"A child's apron."
+]
+},
+{
+"id": "parity_x",
+"w": "parity",
+"gloss": [
+"Equality; comparability of strength or intensity.",
+"A set with the property of having all of its elements belonging to one of two disjoint subsets, especially a set of integers split in subsets of even and odd elements.",
+"The classification of an element of a set with parity into one of the two sets."
+]
+},
+{
+"id": "migrant_x",
+"w": "migrant",
+"gloss": [
+"A migratory animal, in particular a migratory bird.",
+"Traveller or worker who moves from one region or country to another.",
+"A person who leaves one place in order to permanently settle in another."
+]
+}
+]

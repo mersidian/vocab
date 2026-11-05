@@ -1,0 +1,100 @@
+{"id":"nevertheless_adv","th":"อย่างไรก็ตาม; แต่ถึงกระนั้น","ex":"It was raining; nevertheless, we went for a walk.","exTh":"ฝนตก แต่ถึงอย่างนั้นเราก็ยังออกไปเดินเล่น"}
+{"id":"radiation_noun","th":"รังสี; การแผ่รังสี","ex":"Doctors use radiation to treat some diseases.","exTh":"แพทย์ใช้รังสีรักษาโรคบางชนิด"}
+{"id":"trouble_verb","th":"รบกวน; ทำให้กังวล; ทำให้ลำบาก","ex":"Sorry to trouble you, but could you help me?","exTh":"ขอโทษที่รบกวน ช่วยฉันหน่อยได้ไหม"}
+{"id":"crop_noun","th":"พืชผล; ผลผลิตทางการเกษตร","ex":"Rice is the main crop in this area.","exTh":"ข้าวเป็นพืชผลหลักของพื้นที่นี้"}
+{"id":"award_verb","th":"มอบรางวัล; ให้รางวัล","ex":"The school awarded her a prize for her essay.","exTh":"โรงเรียนมอบรางวัลให้เธอจากเรียงความของเธอ"}
+{"id":"possession_noun","th":"ของที่ครอบครอง; ทรัพย์สิน; การครอบครอง","ex":"He lost all his possessions in the fire.","exTh":"เขาสูญเสียทรัพย์สินทั้งหมดในเหตุไฟไหม้"}
+{"id":"avenue_noun","th":"ถนนใหญ่; ทางเลือก; หนทาง","ex":"Our hotel is on a wide avenue near the park.","exTh":"โรงแรมของเราอยู่บนถนนสายกว้างใกล้สวนสาธารณะ"}
+{"id":"height_noun","th":"ความสูง; ส่วนสูง; ที่สูง","ex":"What is your height?","exTh":"คุณสูงเท่าไร"}
+{"id":"expense_noun","th":"ค่าใช้จ่าย; รายจ่าย","ex":"Rent is my biggest monthly expense.","exTh":"ค่าเช่าเป็นรายจ่ายที่ใหญ่ที่สุดของฉันในแต่ละเดือน"}
+{"id":"cycle_noun","th":"วงจร; วัฏจักร; รอบ","ex":"The water cycle is taught in school.","exTh":"วัฏจักรของน้ำถูกสอนในโรงเรียน"}
+{"id":"cycle_verb","th":"ปั่นจักรยาน; หมุนเวียน","ex":"I cycle to work every morning.","exTh":"ฉันปั่นจักรยานไปทำงานทุกเช้า"}
+{"id":"obvious_adj","th":"ชัดเจน; เห็นได้ชัด","ex":"It was obvious that she was tired.","exTh":"เห็นได้ชัดว่าเธอเหนื่อย"}
+{"id":"sheet_noun","th":"ผ้าปูที่นอน; แผ่น (กระดาษ)","ex":"Please give me a clean sheet of paper.","exTh":"ช่วยให้กระดาษสะอาดแก่ฉันหนึ่งแผ่นหน่อย"}
+{"id":"proposal_noun","th":"ข้อเสนอ; แผนที่เสนอ; การขอแต่งงาน","ex":"The manager accepted our proposal.","exTh":"ผู้จัดการยอมรับข้อเสนอของเรา"}
+{"id":"suddenly_adv","th":"ทันใด; อย่างกะทันหัน","ex":"Suddenly, the lights went out.","exTh":"ทันใดนั้นไฟก็ดับ"}
+{"id":"measurement_noun","th":"การวัด; ขนาด; ค่าที่วัดได้","ex":"I took the measurements of the room.","exTh":"ฉันวัดขนาดของห้อง"}
+{"id":"superior_adj","th":"เหนือกว่า; ดีกว่า; อาวุโสกว่า","ex":"This phone is superior to the old one.","exTh":"โทรศัพท์เครื่องนี้ดีกว่าเครื่องเก่า"}
+{"id":"inspection_noun","th":"การตรวจสอบ; การตรวจตรา","ex":"The kitchen passed the health inspection.","exTh":"ห้องครัวผ่านการตรวจสุขอนามัย"}
+{"id":"conservation_noun","th":"การอนุรักษ์; การรักษา","ex":"Forest conservation is important for animals.","exTh":"การอนุรักษ์ป่าไม้สำคัญต่อสัตว์ต่างๆ"}
+{"id":"democratic_adj","th":"เป็นประชาธิปไตย; เกี่ยวกับประชาธิปไตย","ex":"The country held a democratic election.","exTh":"ประเทศนั้นจัดการเลือกตั้งแบบประชาธิปไตย"}
+{"id":"emphasis_noun","th":"การเน้น; ความสำคัญ; น้ำหนัก","ex":"The school puts emphasis on reading.","exTh":"โรงเรียนให้ความสำคัญกับการอ่าน"}
+{"id":"requirement_noun","th":"ข้อกำหนด; สิ่งที่จำเป็น; คุณสมบัติที่ต้องมี","ex":"A passport is a requirement for travel abroad.","exTh":"หนังสือเดินทางเป็นสิ่งจำเป็นสำหรับการเดินทางไปต่างประเทศ"}
+{"id":"capable_adj","th":"มีความสามารถ; สามารถ","ex":"She is a capable and kind teacher.","exTh":"เธอเป็นครูที่มีความสามารถและใจดี"}
+{"id":"decrease_noun","th":"การลดลง; ปริมาณที่ลดลง","ex":"There was a decrease in the number of visitors.","exTh":"จำนวนผู้เข้าชมลดลง"}
+{"id":"decrease_verb","th":"ลดลง; ลด","ex":"Prices decrease in the summer sale.","exTh":"ราคาลดลงในช่วงลดราคาฤดูร้อน"}
+{"id":"slow_adv","th":"ช้า; อย่างช้าๆ","ex":"Please drive slow near the school.","exTh":"กรุณาขับช้าๆ ใกล้โรงเรียน","note":"ใช้ในภาษาพูด ทางการใช้ slowly"}
+{"id":"slow_verb","th":"ชะลอ; ทำให้ช้าลง","ex":"The car slowed down at the corner.","exTh":"รถชะลอความเร็วที่หัวมุม","note":"มักใช้ slow down"}
+{"id":"equally_adv","th":"เท่าๆ กัน; อย่างเท่าเทียม","ex":"They shared the cake equally.","exTh":"พวกเขาแบ่งเค้กกันเท่าๆ กัน"}
+{"id":"witness_verb","th":"เป็นพยาน; เห็นเหตุการณ์","ex":"Many people witnessed the accident.","exTh":"หลายคนเห็นเหตุการณ์อุบัติเหตุ"}
+{"id":"tissue_noun","th":"เนื้อเยื่อ; กระดาษทิชชู","ex":"Can I have a tissue, please?","exTh":"ขอกระดาษทิชชูหน่อยได้ไหม"}
+{"id":"secure_adj","th":"ปลอดภัย; มั่นคง; แน่นหนา","ex":"Your money is secure in this bank.","exTh":"เงินของคุณปลอดภัยในธนาคารนี้"}
+{"id":"valuable_adj","th":"มีค่า; มีราคา; มีประโยชน์","ex":"Please keep your valuable things in the safe.","exTh":"กรุณาเก็บของมีค่าไว้ในตู้เซฟ"}
+{"id":"scope_noun","th":"ขอบเขต; ช่วงกว้าง","ex":"The scope of this project is quite large.","exTh":"ขอบเขตของโครงการนี้ค่อนข้างกว้าง"}
+{"id":"significance_noun","th":"ความสำคัญ; นัยสำคัญ","ex":"This day has special significance for our family.","exTh":"วันนี้มีความสำคัญเป็นพิเศษสำหรับครอบครัวของเรา"}
+{"id":"characteristic_noun","th":"ลักษณะเฉพาะ; คุณลักษณะ","ex":"Honesty is her best characteristic.","exTh":"ความซื่อสัตย์เป็นลักษณะเด่นที่สุดของเธอ"}
+{"id":"extra_noun","th":"ของเพิ่ม; สิ่งที่เพิ่มเข้ามา; ค่าใช้จ่ายพิเศษ","ex":"The room costs more with extras like breakfast.","exTh":"ห้องพักราคาสูงขึ้นถ้ามีของเสริมอย่างอาหารเช้า"}
+{"id":"fifth_noun","th":"หนึ่งในห้า; ลำดับที่ห้า","ex":"A fifth of the class was absent today.","exTh":"วันนี้นักเรียนหนึ่งในห้าของห้องขาดเรียน"}
+{"id":"resource_noun","th":"ทรัพยากร; แหล่งข้อมูล","ex":"Water is an important natural resource.","exTh":"น้ำเป็นทรัพยากรธรรมชาติที่สำคัญ"}
+{"id":"diameter_noun","th":"เส้นผ่านศูนย์กลาง","ex":"The pipe has a diameter of ten centimeters.","exTh":"ท่อนี้มีเส้นผ่านศูนย์กลางสิบเซนติเมตร"}
+{"id":"vision_noun","th":"สายตา; การมองเห็น; วิสัยทัศน์","ex":"He has poor vision without his glasses.","exTh":"เขาสายตาไม่ดีถ้าไม่ใส่แว่น"}
+{"id":"steam_noun","th":"ไอน้ำ","ex":"Steam came out of the hot pot.","exTh":"ไอน้ำพวยพุ่งออกมาจากหม้อร้อน"}
+{"id":"feed_verb","th":"ให้อาหาร; เลี้ยง; ป้อน","ex":"I feed the cat twice a day.","exTh":"ฉันให้อาหารแมววันละสองครั้ง","note":"รูปอดีตคือ fed"}
+{"id":"facility_noun","th":"สิ่งอำนวยความสะดวก; สถานที่","ex":"The hotel has a free sports facility.","exTh":"โรงแรมมีสถานที่ออกกำลังกายให้ใช้ฟรี","note":"มักใช้พหูพจน์ facilities"}
+{"id":"enemy_noun","th":"ศัตรู; ข้าศึก","ex":"The two countries were enemies for many years.","exTh":"สองประเทศเป็นศัตรูกันมาหลายปี"}
+{"id":"strike_verb","th":"ตี; โจมตี; นัดหยุดงาน","ex":"The workers decided to strike for better pay.","exTh":"คนงานตัดสินใจนัดหยุดงานเพื่อเรียกร้องค่าจ้างที่ดีขึ้น","note":"รูปอดีตคือ struck"}
+{"id":"unable_adj","th":"ไม่สามารถ; ทำไม่ได้","ex":"I am unable to come to the meeting.","exTh":"ฉันไม่สามารถมาประชุมได้","note":"ใช้ unable to + กริยา"}
+{"id":"interaction_noun","th":"การมีปฏิสัมพันธ์; การโต้ตอบ","ex":"Children learn through interaction with others.","exTh":"เด็กเรียนรู้ผ่านการมีปฏิสัมพันธ์กับผู้อื่น"}
+{"id":"unique_adj","th":"เป็นเอกลักษณ์; ไม่เหมือนใคร; ที่เดียวในโลก","ex":"Every snowflake is unique.","exTh":"เกล็ดหิมะทุกเกล็ดไม่เหมือนกัน"}
+{"id":"via_prep","th":"ผ่านทาง; โดยทาง","ex":"We flew to Tokyo via Hong Kong.","exTh":"เราบินไปโตเกียวผ่านฮ่องกง"}
+{"id":"sleep_noun","th":"การนอนหลับ; ความหลับ","ex":"I need more sleep tonight.","exTh":"คืนนี้ฉันต้องการนอนให้มากขึ้น"}
+{"id":"efficient_adj","th":"มีประสิทธิภาพ; ทำงานเร็วและประหยัด","ex":"This new machine is very efficient.","exTh":"เครื่องใหม่นี้มีประสิทธิภาพมาก"}
+{"id":"till_conj","th":"จนกระทั่ง; จนถึง","ex":"Wait here till I come back.","exTh":"รอที่นี่จนกว่าฉันจะกลับมา"}
+{"id":"curve_noun","th":"เส้นโค้ง; ทางโค้ง","ex":"The road has a sharp curve ahead.","exTh":"ข้างหน้ามีทางโค้งหักศอก"}
+{"id":"fight_verb","th":"ต่อสู้; ทะเลาะ; สู้","ex":"The two boys fight about everything.","exTh":"เด็กชายสองคนทะเลาะกันทุกเรื่อง","note":"รูปอดีตคือ fought"}
+{"id":"angle_noun","th":"มุม; แง่มุม","ex":"Draw a ninety degree angle on the paper.","exTh":"วาดมุมเก้าสิบองศาบนกระดาษ"}
+{"id":"economics_noun","th":"เศรษฐศาสตร์","ex":"She studies economics at university.","exTh":"เธอเรียนเศรษฐศาสตร์ที่มหาวิทยาลัย"}
+{"id":"remove_verb","th":"เอาออก; ถอดออก; ย้ายออก","ex":"Please remove your shoes at the door.","exTh":"กรุณาถอดรองเท้าที่หน้าประตู"}
+{"id":"flat_adj","th":"แบน; ราบ; เรียบ","ex":"The land here is flat and wide.","exTh":"ที่ดินตรงนี้ราบและกว้าง"}
+{"id":"organic_adj","th":"อินทรีย์; ออร์แกนิก","ex":"I buy organic vegetables at the market.","exTh":"ฉันซื้อผักออร์แกนิกที่ตลาด"}
+{"id":"temporary_adj","th":"ชั่วคราว","ex":"This is only a temporary job.","exTh":"นี่เป็นเพียงงานชั่วคราว"}
+{"id":"sequence_noun","th":"ลำดับ; ชุดที่ต่อเนื่องกัน","ex":"Put the pictures in the right sequence.","exTh":"เรียงภาพให้อยู่ในลำดับที่ถูกต้อง"}
+{"id":"experienced_adj","th":"มีประสบการณ์; ช่ำชอง","ex":"We need an experienced driver.","exTh":"เราต้องการคนขับที่มีประสบการณ์"}
+{"id":"category_noun","th":"ประเภท; หมวดหมู่","ex":"This book is in the cooking category.","exTh":"หนังสือเล่มนี้อยู่ในหมวดอาหาร"}
+{"id":"circle_verb","th":"วนรอบ; ล้อมวง; วงกลม","ex":"Birds circle over the lake every evening.","exTh":"นกบินวนเหนือทะเลสาบทุกเย็น"}
+{"id":"currently_adv","th":"ในขณะนี้; ปัจจุบัน","ex":"She is currently working in Chiang Mai.","exTh":"ตอนนี้เธอกำลังทำงานอยู่ที่เชียงใหม่"}
+{"id":"violence_noun","th":"ความรุนแรง","ex":"The film has too much violence for children.","exTh":"ภาพยนตร์เรื่องนี้มีความรุนแรงมากเกินไปสำหรับเด็ก"}
+{"id":"count_noun","th":"การนับ; จำนวนที่นับได้","ex":"The final count was two hundred people.","exTh":"จำนวนที่นับได้สุดท้ายคือสองร้อยคน"}
+{"id":"suppose_verb","th":"สมมติ; คิดว่า; คาดว่า","ex":"I suppose he is still at work.","exTh":"ฉันคิดว่าเขาคงยังอยู่ที่ทำงาน"}
+{"id":"confidence_noun","th":"ความมั่นใจ; ความเชื่อมั่น","ex":"She spoke with great confidence.","exTh":"เธอพูดด้วยความมั่นใจอย่างมาก"}
+{"id":"stream_noun","th":"ลำธาร; กระแส; สายน้ำ","ex":"We sat by a small stream and had lunch.","exTh":"เรานั่งกินข้าวกลางวันริมลำธารเล็กๆ"}
+{"id":"stream_verb","th":"ไหล; สตรีม; หลั่งไหล","ex":"I stream music on my phone every day.","exTh":"ฉันสตรีมเพลงบนโทรศัพท์ทุกวัน"}
+{"id":"lie_noun","th":"คำโกหก; เรื่องโกหก","ex":"It was a lie, and everyone knew it.","exTh":"นั่นเป็นคำโกหก และทุกคนก็รู้"}
+{"id":"belief_noun","th":"ความเชื่อ; ความศรัทธา","ex":"It is my belief that honesty is important.","exTh":"ฉันเชื่อว่าความซื่อสัตย์เป็นสิ่งสำคัญ"}
+{"id":"contrary_adj","th":"ตรงกันข้าม; ขัดแย้ง","ex":"Their ideas are contrary to mine.","exTh":"ความคิดของพวกเขาตรงข้ามกับของฉัน","note":"มักใช้ contrary to"}
+{"id":"eventually_adv","th":"ในที่สุด","ex":"We eventually found the right house.","exTh":"ในที่สุดเราก็หาบ้านหลังที่ถูกต้องเจอ"}
+{"id":"ad_noun","th":"โฆษณา","ex":"I saw an ad for a new phone online.","exTh":"ฉันเห็นโฆษณาโทรศัพท์รุ่นใหม่ทางออนไลน์","note":"ย่อมาจาก advertisement"}
+{"id":"opposition_noun","th":"การต่อต้าน; ฝ่ายค้าน; ฝ่ายตรงข้าม","ex":"There was strong opposition to the new plan.","exTh":"มีการต่อต้านแผนใหม่นี้อย่างรุนแรง"}
+{"id":"arrangement_noun","th":"การจัดการ; การเตรียมการ; การจัดวาง","ex":"We made arrangements for the trip.","exTh":"เราเตรียมการสำหรับการเดินทาง"}
+{"id":"absolute_adj","th":"เด็ดขาด; แน่นอน; สมบูรณ์","ex":"I have absolute trust in my team.","exTh":"ฉันไว้ใจทีมของฉันอย่างเต็มที่"}
+{"id":"crisis_noun","th":"วิกฤต; ภาวะวิกฤติ","ex":"The country faced an economic crisis.","exTh":"ประเทศเผชิญกับวิกฤตเศรษฐกิจ","note":"พหูพจน์คือ crises"}
+{"id":"vessel_noun","th":"เรือ; ภาชนะ; หลอดเลือด","ex":"A large vessel entered the port.","exTh":"เรือลำใหญ่เข้าสู่ท่าเรือ"}
+{"id":"narrow_adj","th":"แคบ","ex":"The street is too narrow for big cars.","exTh":"ถนนแคบเกินไปสำหรับรถคันใหญ่"}
+{"id":"household_noun","th":"ครัวเรือน; คนในบ้าน","ex":"Every household received a letter.","exTh":"ทุกครัวเรือนได้รับจดหมายหนึ่งฉบับ"}
+{"id":"alcohol_noun","th":"แอลกอฮอล์; เครื่องดื่มมึนเมา","ex":"He does not drink alcohol.","exTh":"เขาไม่ดื่มแอลกอฮอล์"}
+{"id":"shift_verb","th":"ย้าย; เปลี่ยน; เลื่อน","ex":"Can you shift the chair to the left?","exTh":"ช่วยขยับเก้าอี้ไปทางซ้ายหน่อยได้ไหม"}
+{"id":"shop_verb","th":"ซื้อของ; จับจ่ายใช้สอย","ex":"I shop for groceries every weekend.","exTh":"ฉันไปซื้อของใช้ทุกสุดสัปดาห์"}
+{"id":"oxygen_noun","th":"ออกซิเจน","ex":"We need oxygen to live.","exTh":"เราต้องการออกซิเจนเพื่อมีชีวิตอยู่"}
+{"id":"wire_noun","th":"ลวด; สายไฟ","ex":"Do not touch the loose wire.","exTh":"อย่าจับสายไฟที่หลุดอยู่"}
+{"id":"literary_adj","th":"เกี่ยวกับวรรณกรรม; เชิงวรรณกรรม","ex":"She won a famous literary prize.","exTh":"เธอได้รับรางวัลวรรณกรรมที่มีชื่อเสียง"}
+{"id":"pipe_noun","th":"ท่อ; ไปป์ (สูบยา)","ex":"A water pipe broke in our kitchen.","exTh":"ท่อน้ำในครัวของเราแตก"}
+{"id":"observation_noun","th":"การสังเกต; ข้อสังเกต","ex":"His observation about the weather was correct.","exTh":"ข้อสังเกตของเขาเกี่ยวกับสภาพอากาศถูกต้อง"}
+{"id":"electron_noun","th":"อิเล็กตรอน","ex":"An electron has a negative charge.","exTh":"อิเล็กตรอนมีประจุลบ"}
+{"id":"holy_adj","th":"ศักดิ์สิทธิ์; บริสุทธิ์","ex":"Many people visit the holy temple each year.","exTh":"หลายคนไปเยี่ยมชมวัดศักดิ์สิทธิ์ทุกปี"}
+{"id":"behalf_noun","th":"ในนามของ; แทน (ใช้ on behalf of)","ex":"I am writing on behalf of my manager.","exTh":"ฉันเขียนมาในนามของผู้จัดการของฉัน","note":"ใช้ในสำนวน on behalf of"}
+{"id":"obviously_adv","th":"อย่างชัดเจน; แน่นอน; เห็นได้ชัด","ex":"He was obviously very happy.","exTh":"เห็นได้ชัดว่าเขามีความสุขมาก"}
+{"id":"tend_verb","th":"มีแนวโน้ม; มักจะ; ดูแล","ex":"I tend to wake up early.","exTh":"ฉันมักจะตื่นเช้า","note":"มักใช้ tend to + กริยา"}
+{"id":"mile_noun","th":"ไมล์ (ประมาณ 1.6 กิโลเมตร)","ex":"The beach is two miles from here.","exTh":"ชายหาดอยู่ห่างจากที่นี่สองไมล์"}
+{"id":"touch_verb","th":"สัมผัส; แตะ; จับ","ex":"Please do not touch the paintings.","exTh":"กรุณาอย่าสัมผัสภาพวาด"}
+{"id":"secret_adj","th":"ลับ; เป็นความลับ","ex":"They kept the party secret from her.","exTh":"พวกเขาเก็บงานปาร์ตี้เป็นความลับจากเธอ"}
+{"id":"visual_adj","th":"เกี่ยวกับการมองเห็น; ทางภาพ","ex":"Pictures are a good visual aid for children.","exTh":"รูปภาพเป็นสื่อทางภาพที่ดีสำหรับเด็ก"}

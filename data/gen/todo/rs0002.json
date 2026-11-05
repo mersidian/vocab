@@ -1,0 +1,884 @@
+[
+{
+"id": "chronic_x",
+"w": "chronic",
+"gloss": [
+"Being problematic over an extended period of time.",
+"Prolonged or slow to heal.",
+"Of a person, suffering from an affliction that is prolonged or slow to heal."
+]
+},
+{
+"id": "horizontal_x",
+"w": "horizontal",
+"gloss": [
+"Perpendicular to the vertical; parallel to the plane of the horizon; level, flat.",
+"Relating to horizontal markets",
+"Pertaining to the horizon."
+]
+},
+{
+"id": "productivity_x",
+"w": "productivity",
+"gloss": [
+"The state of being productive, fertile, or efficient.",
+"The rate at which goods or services are produced by a standard population of workers; those workers' degree of efficiency.",
+"The rate at which crops are grown on a standard area of land."
+]
+},
+{
+"id": "quarterly_x",
+"w": "quarterly",
+"gloss": [
+"Occurring once every quarter year (three months); taking place quarter-yearly.",
+"(of a coat of arms) Divided into four parts crosswise.",
+"A periodical publication that appears four times per year."
+]
+},
+{
+"id": "inter_x",
+"w": "inter",
+"gloss": [
+"To bury in a grave.",
+"To confine, as in a prison.",
+"Inter Milan."
+]
+},
+{
+"id": "differential_x",
+"w": "differential",
+"gloss": [
+"Of or pertaining to a difference.",
+"Dependent on, or making a difference; distinctive.",
+"Having differences in speed or direction of motion."
+]
+},
+{
+"id": "lateral_x",
+"w": "lateral",
+"gloss": [
+"Situated on one side or other of the body or of an organ, especially in the region furthest from the median plane.",
+"Affecting the side or sides of the body, or confined to one side of the body.",
+"Acting or placed at right angles to a line of motion or strain."
+]
+},
+{
+"id": "membrane_x",
+"w": "membrane",
+"gloss": [
+"A mechanical, thin, flat flexible part that can deform or vibrate when excited by an external force.",
+"A flexible or semiflexible covering or waterproofing whose primary function is to exclude water.",
+"A microscopic double layer of lipids and proteins forming the boundary of cells or organelles."
+]
+},
+{
+"id": "institutional_x",
+"w": "institutional",
+"gloss": [
+"Of, pertaining to, characteristic of, or organized along the lines of an institution.",
+"Instituted by authority.",
+"Pertaining to the policies and practices of an institution, organization or government."
+]
+},
+{
+"id": "inventory_x",
+"w": "inventory",
+"gloss": [
+"The stock of an item on hand at a particular location or business.",
+"A detailed list of all of the items on hand.",
+"The process of producing or updating such a list."
+]
+},
+{
+"id": "par_x",
+"w": "par",
+"gloss": [
+"By; with.",
+"Equal value; equality of nominal and actual value; the value expressed on the face or in the words of a certificate of value, as a bond or other commercial paper.",
+"Equality of condition or circumstances."
+]
+},
+{
+"id": "installation_x",
+"w": "installation",
+"gloss": [
+"An act of installing.",
+"Something installed, especially the whole of a system of machines, apparatus, and accessories, when set up and arranged for practical working, as in electric lighting, transmission of power, etc.",
+"A work of installation art."
+]
+},
+{
+"id": "automobile_x",
+"w": "automobile",
+"gloss": [
+"A type of motor vehicle designed to move on the ground under its own stored power and intended to carry a driver, a small number of additional passengers, and a very limited amount of other load.",
+"To travel by automobile.",
+"Self-moving; self-propelled."
+]
+},
+{
+"id": "crystal_x",
+"w": "crystal",
+"gloss": [
+"A solid composed of an array of atoms or molecules possessing long-range order and arranged in a pattern which is periodic in three dimensions.",
+"A piece of glimmering, shining mineral resembling ice or glass.",
+"A fine type of glassware, or the material used to make it."
+]
+},
+{
+"id": "irrigation_x",
+"w": "irrigation",
+"gloss": [
+"The act or process of irrigating, or the state of being irrigated; especially, the operation of causing water to flow over lands, for nourishing plants."
+]
+},
+{
+"id": "imperial_x",
+"w": "imperial",
+"gloss": [
+"Related to an empire, emperor, or empress.",
+"Relating to the British imperial system of measurement.",
+"Very grand or fine."
+]
+},
+{
+"id": "discretion_x",
+"w": "discretion",
+"gloss": [
+"The quality of being discreet.",
+"The ability to make wise choices or decisions.",
+"The freedom to make one's own judgements."
+]
+},
+{
+"id": "taxable_x",
+"w": "taxable",
+"gloss": [
+"That can be taxed.",
+"Subject to taxation.",
+"Something on which tax must be paid."
+]
+},
+{
+"id": "mortality_x",
+"w": "mortality",
+"gloss": [
+"The state of being susceptible to death.",
+"The quality of being punishable by death.",
+"The quality of causing death."
+]
+},
+{
+"id": "detection_x",
+"w": "detection",
+"gloss": [
+"The act or process of detecting, uncovering, or finding out, the discovery of something new, hidden, or disguised.",
+"Synonym of accusation, the exposure of concealed information about a crime or heresy.",
+"The act or process of finding or detecting an electrical signal in a carrier wave."
+]
+},
+{
+"id": "sin_x",
+"w": "sin",
+"gloss": [
+"A violation of divine will or religious law.",
+"Sinfulness, depravity, iniquity.",
+"A misdeed or wrong."
+]
+},
+{
+"id": "tariff_x",
+"w": "tariff",
+"gloss": [
+"A system of government-imposed duties levied on imported or exported goods; a list of such duties, or the duties themselves.",
+"A schedule of rates, fees or prices.",
+"A sentence determined according to a scale of standard penalties for certain categories of crime."
+]
+},
+{
+"id": "magnitude_x",
+"w": "magnitude",
+"gloss": [
+"The absolute or relative size, extent or importance of something.",
+"An order of magnitude.",
+"A number, assigned to something, such that it may be compared to others numerically"
+]
+},
+{
+"id": "comparable_x",
+"w": "comparable",
+"gloss": [
+"Able to be compared (to).",
+"Similar (to); like.",
+"Constituting a pair in a particular partial order."
+]
+},
+{
+"id": "occurrence_x",
+"w": "occurrence",
+"gloss": [
+"An actual instance when a situation occurs; an event or happening.",
+"The lexical aspect (aktionsart) of verbs or predicates that change in or over time."
+]
+},
+{
+"id": "dependence_x",
+"w": "dependence",
+"gloss": [
+"The state of being dependent, of relying upon another.",
+"An irresistible physical or psychological need, especially for a chemical substance."
+]
+},
+{
+"id": "decree_x",
+"w": "decree",
+"gloss": [
+"An edict or law.",
+"The judicial decision in a litigated cause rendered by a court of equity.",
+"The determination of a cause in a court of admiralty or court of probate."
+]
+},
+{
+"id": "aggregate_x",
+"w": "aggregate",
+"gloss": [
+"A mass, assemblage, or sum of particulars; something consisting of elements but considered as a whole.",
+"A mass formed by the union of homogeneous particles; – in distinction from a compound, formed by the union of heterogeneous particles.",
+"A set (collection of objects)."
+]
+},
+{
+"id": "drainage_x",
+"w": "drainage",
+"gloss": [
+"A natural or artificial means for the removal of fluids from a given area by its draining away.",
+"A system of drains.",
+"A downward wind."
+]
+},
+{
+"id": "coefficient_x",
+"w": "coefficient",
+"gloss": [
+"Cooperating.",
+"A constant by which an algebraic term is multiplied.",
+"An entry of a matrix."
+]
+},
+{
+"id": "calcium_x",
+"w": "calcium",
+"gloss": [
+"The chemical element (symbol Ca) with atomic number 20: a soft, silvery-white alkaline earth metal which occurs naturally as carbonate in limestone and as silicate in many rocks.",
+"An atom of this element."
+]
+},
+{
+"id": "arc_x",
+"w": "arc",
+"gloss": [
+"That part of a circle which a heavenly body appears to pass through as it moves above and below the horizon.",
+"A continuous part of the circumference of a circle (circular arc) or of another curve.",
+"A curve, in general."
+]
+},
+{
+"id": "monetary_x",
+"w": "monetary",
+"gloss": [
+"Of, pertaining to, or consisting of money."
+]
+},
+{
+"id": "validity_x",
+"w": "validity",
+"gloss": [
+"The state of being valid, authentic or genuine.",
+"State of having legal force.",
+"A quality of a measurement indicating the degree to which the measure reflects the underlying construct, that is, whether it measures what it purports to measure (see reliability)."
+]
+},
+{
+"id": "shaft_x",
+"w": "shaft",
+"gloss": [
+"The entire body of a long weapon, such as an arrow.",
+"The long, narrow, central body of a spear, arrow, or javelin.",
+"Anything cast or thrown as a spear or javelin."
+]
+},
+{
+"id": "saint_x",
+"w": "saint",
+"gloss": [
+"A deceased person whom a church or another religious group has officially recognised as especially holy or godly; one eminent for piety and virtue.",
+"One of the blessed in heaven.",
+"A Christian; a faithful believer in the present world."
+]
+},
+{
+"id": "pending_x",
+"w": "pending",
+"gloss": [
+"Awaiting a conclusion or a confirmation.",
+"Begun but not completed.",
+"About to happen; imminent or impending."
+]
+},
+{
+"id": "orientation_x",
+"w": "orientation",
+"gloss": [
+"The determination of the relative position of something or someone.",
+"The relative physical position or direction of something.",
+"The construction of a Christian church to have its aisle in an east-west direction with the altar at the east end."
+]
+},
+{
+"id": "operational_x",
+"w": "operational",
+"gloss": [
+"Of or relating to operations, especially military operations.",
+"Functioning and ready for use.",
+"Effective or operative."
+]
+},
+{
+"id": "dimensional_x",
+"w": "dimensional",
+"gloss": [
+"Of or pertaining to dimensions.",
+"Having dimension or dimensions; three-dimensional.",
+"Appended to cardinal numbers or algebraic symbols to form adjectives meaning \"having the stated number of dimensions\"."
+]
+},
+{
+"id": "multi_x",
+"w": "multi",
+"gloss": [
+"A multituberculate.",
+"Neolamprologus multifasciatus (small shell-dwelling cichlid endemic to Lake Tanganyika, popular as aquarium fish)",
+"A contract bridge convention whereby the opening bid of 2♦ shows several possible types of hands."
+]
+},
+{
+"id": "sole_x",
+"w": "sole",
+"gloss": [
+"Only.",
+"Unmarried (especially of a woman); widowed.",
+"Unique; unsurpassed."
+]
+},
+{
+"id": "rehabilitation_x",
+"w": "rehabilitation",
+"gloss": [
+"The process of rehabilitating somebody or something."
+]
+},
+{
+"id": "republican_x",
+"w": "republican",
+"gloss": [
+"Advocating or supporting a republic as a form of government, advocating or supporting republicanism.",
+"Of or belonging to a republic.",
+"Someone who favors a republic as a form of government."
+]
+},
+{
+"id": "dairy_x",
+"w": "dairy",
+"gloss": [
+"(also dairy products or dairy produce) Products produced from milk.",
+"A place, often on a farm, where milk is processed and turned into products such as butter and cheese.",
+"A dairy farm."
+]
+},
+{
+"id": "trustee_x",
+"w": "trustee",
+"gloss": [
+"A person to whom property is legally committed in trust, to be applied either for the benefit of specified individuals (beneficiaries), or for public uses; one who is intrusted with property for the benefit of another.",
+"A person in whose hands the effects of another are attached in a trustee process.",
+"To commit (property) to the care of a trustee."
+]
+},
+{
+"id": "warrant_x",
+"w": "warrant",
+"gloss": [
+"Authorization or certification; a sanction, as given by a superior.",
+"Something that provides assurance or confirmation; a guarantee or proof.",
+"An order that serves as authorization; especially a voucher authorizing payment or receipt of money."
+]
+},
+{
+"id": "serum_x",
+"w": "serum",
+"gloss": [
+"Blood serum used as a blood product, in the practice of medicine: blood serum from the tissues of immunized animals (human or nonhuman), containing antibodies and used to transfer immunity to another individual (human or nonhuman).",
+"A watery liquid from animal tissue, especially one that moistens the surface of serous membranes or that is exuded by such membranes when they become inflamed, such as in edema or a blister.",
+"The watery portion of certain other animal fluids, such as milk; whey."
+]
+},
+{
+"id": "congressional_x",
+"w": "congressional",
+"gloss": [
+"Of or relating to a congress.",
+"Of or pertaining to the United States Congress."
+]
+},
+{
+"id": "semi_x",
+"w": "semi",
+"gloss": [
+"A semi-detached house.",
+"A semi-trailer; a tractor-trailer; an eighteen-wheeler; an artic.",
+"A semifinal."
+]
+},
+{
+"id": "sensitivity_x",
+"w": "sensitivity",
+"gloss": [
+"The quality or state of being sensitive; sensitiveness.",
+"The ability of an organism or organ to respond to external stimuli.",
+"Vulnerability to medical treatment: Synonym of susceptibility."
+]
+},
+{
+"id": "operative_x",
+"w": "operative",
+"gloss": [
+"Effectual or important.",
+"Functional, in working order.",
+"Having the power of acting; hence, exerting force, physical or moral; active in the production of effects."
+]
+},
+{
+"id": "socialist_x",
+"w": "socialist",
+"gloss": [
+"Of, relating to, supporting, or advocating socialism.",
+"One who supports or advocates socialism.",
+"Of, belonging to, or constituting a party or political group that advocates socialism."
+]
+},
+{
+"id": "interface_x",
+"w": "interface",
+"gloss": [
+"The point of interconnection or contact between entities.",
+"A thin layer or boundary between different substances or two phases of a single substance.",
+"The point of interconnection between systems or subsystems."
+]
+},
+{
+"id": "interference_x",
+"w": "interference",
+"gloss": [
+"The act of interfering with something, or something that interferes.",
+"The illegal obstruction of an opponent in some ball games.",
+"An effect caused by the superposition of two systems of waves."
+]
+},
+{
+"id": "solely_x",
+"w": "solely",
+"gloss": [
+"Alone; exclusively."
+]
+},
+{
+"id": "entity_x",
+"w": "entity",
+"gloss": [
+"That which has a distinct existence as an individual unit, often used for organizations which have no physical form.",
+"The existence of something considered apart from its properties.",
+"Anything about which information or data can be stored in a database; in particular, one item in an organised array or set of individual elements or parts of the same type."
+]
+},
+{
+"id": "vector_x",
+"w": "vector",
+"gloss": [
+"A directed quantity, one with both magnitude and direction; the signed difference between two points.",
+"Any member of a (generalized) vector space.",
+"An ordered tuple, originally one representing a directed quantity, but by extension any one-dimensional matrix."
+]
+},
+{
+"id": "foster_x",
+"w": "foster",
+"gloss": [
+"Providing parental care to children not related to oneself.",
+"Receiving such care.",
+"Related by such care."
+]
+},
+{
+"id": "continental_x",
+"w": "continental",
+"gloss": [
+"Of or relating to a continent or continents.",
+"Of the mainland, as opposed to an island offshore.",
+"Relating to, or characteristic of, continental Europe."
+]
+},
+{
+"id": "partially_x",
+"w": "partially",
+"gloss": [
+"To a partial degree or extent, incompletely."
+]
+},
+{
+"id": "taxpayer_x",
+"w": "taxpayer",
+"gloss": [
+"A person who is subject to, liable for, or pays tax."
+]
+},
+{
+"id": "simulation_x",
+"w": "simulation",
+"gloss": [
+"Something that simulates a system or environment in order to predict actual behaviour.",
+"The process of simulating.",
+"A video game designed to convey a more or less realistic experience, as of a sport or warfare."
+]
+},
+{
+"id": "colony_x",
+"w": "colony",
+"gloss": [
+"A geographical area under the remote control of a country; especially to extract resources or exploit labor from that area.",
+"A group of people who settle an area and maintain ties to their country of origin.",
+"A group of people with similar interests, occupations, or characteristics, living in a particular area; the area such people occupy."
+]
+},
+{
+"id": "algorithm_x",
+"w": "algorithm",
+"gloss": [
+"A collection of ordered steps that solve a mathematical problem. A precise step-by-step plan for a computational procedure that possibly begins with an input value and yields an output value in a finite number of steps.",
+"A flow chart illustrating a decision-making process for human users, especially health care professionals.",
+"Calculation with Arabic numerals; algorism."
+]
+},
+{
+"id": "allocation_x",
+"w": "allocation",
+"gloss": [
+"The process or procedure for allocating things, especially money or other resources.",
+"That which is allocated; allowance, entitlement.",
+"Restriction of an embryonic cell and its clonal descendants to a particular cell type or body region."
+]
+},
+{
+"id": "ethics_x",
+"w": "ethics",
+"gloss": [
+"Morality.",
+"The standards that govern the conduct of a person, especially a member of a profession.",
+"The study of principles relating to right and wrong conduct."
+]
+},
+{
+"id": "termination_x",
+"w": "termination",
+"gloss": [
+"The process of terminating or the state of being terminated.",
+"The process of firing an employee; ending one's employment at a business for any reason.",
+"An end in time; a conclusion."
+]
+},
+{
+"id": "majesty_x",
+"w": "majesty",
+"gloss": [
+"The quality of being impressive, great, dignified, powerful, sovereign, or any combination thereof.",
+"a term of address for royalty and imperiality"
+]
+},
+{
+"id": "incidence_x",
+"w": "incidence",
+"gloss": [
+"The act of something happening; occurrence.",
+"The extent or the relative frequency of something happening.",
+"The manner of falling; bearing or onus, as of a tax that falls unequally."
+]
+},
+{
+"id": "indication_x",
+"w": "indication",
+"gloss": [
+"An act of pointing out or indicating.",
+"A fact that shows that something exists or may happen.",
+"A mark or another symbol used to represent something."
+]
+},
+{
+"id": "cylinder_x",
+"w": "cylinder",
+"gloss": [
+"A surface created by projecting a closed two-dimensional curve along an axis intersecting the plane of the curve.",
+"A solid figure bounded by a cylinder and two parallel planes intersecting the cylinder.",
+"Any object in the form of a circular cylinder."
+]
+},
+{
+"id": "diffusion_x",
+"w": "diffusion",
+"gloss": [
+"The act of diffusing or dispersing something, or the property of being diffused or dispersed; dispersion.",
+"The scattering of light by reflection from a rough surface, or by passage through a translucent medium.",
+"The intermingling of the molecules of a fluid due to random thermal agitation."
+]
+},
+{
+"id": "gravity_x",
+"w": "gravity",
+"gloss": [
+"Of an activity such as a ceremony, a person's conduct, etc.: the quality of being deeply serious and solemn, especially in a dignified manner; seriousness, solemnity; (countable, archaic or obsolete) a serious or solemn thing, such as a matter, a comment, etc.",
+"Of an activity, situation, words, etc.: the quality of having important or serious consequences; importance, seriousness.",
+"Authority, influence, weight; also, used as a title for a person with authority or influence."
+]
+},
+{
+"id": "empirical_x",
+"w": "empirical",
+"gloss": [
+"Pertaining to or based on experience, as opposed to theory.",
+"Pertaining to, derived from, or testable by observations made using the physical senses or using instruments which extend the senses.",
+"Verifiable by means of scientific experimentation."
+]
+},
+{
+"id": "premium_x",
+"w": "premium",
+"gloss": [
+"Superior in quality; higher in price or value.",
+"High-end; belonging to the market segment between mid-market and luxury.",
+"A prize or award."
+]
+},
+{
+"id": "analytical_x",
+"w": "analytical",
+"gloss": [
+"Of or pertaining to analysis; resolving into elements or constituent parts",
+"Using analytic reasoning as opposed to synthetic."
+]
+},
+{
+"id": "default_x",
+"w": "default",
+"gloss": [
+"The condition of failing to meet an obligation.",
+"The condition of being an obligation that has not been met.",
+"the original software programming settings as set by the factory"
+]
+},
+{
+"id": "arbitration_x",
+"w": "arbitration",
+"gloss": [
+"The act or process of arbitrating.",
+"A process through which two or more parties use an arbitrator or arbiter in order to resolve a dispute.",
+"In general, a form of justice where both parties designate a person whose ruling they will accept formally. More specifically in Market Anarchist (market anarchy) theory, arbitration designates the process by which two agencies pre-negotiate a set of common rules in anticipation of cases where a customer from each agency is involved in a dispute."
+]
+},
+{
+"id": "purely_x",
+"w": "purely",
+"gloss": [
+"Wholly; really, completely.",
+"Solely; exclusively; merely, simply.",
+"Chastely, innocently; in a sinless manner, without fault."
+]
+},
+{
+"id": "finite_x",
+"w": "finite",
+"gloss": [
+"Having an end or limit; (of a quantity) constrained by bounds; (of a set) whose number of elements is a natural number.",
+"Limited by (i.e. inflected for) person or number.",
+"finitely generated (as a module)."
+]
+},
+{
+"id": "ordinance_x",
+"w": "ordinance",
+"gloss": [
+"A local law, passed by e.g. a city.",
+"Prior to the Third English Civil War, a decree of Parliament.",
+"Detailed legislation that translates the broad principles of the university's charter and statutes into practical effect."
+]
+},
+{
+"id": "negligence_x",
+"w": "negligence",
+"gloss": [
+"The state of being negligent.",
+"The tort whereby a duty of reasonable care was breached, causing damage: any conduct short of intentional or reckless action that falls below the legal standard for preventing unreasonable injury.",
+"The breach of a duty of care: the failure to exercise a standard of care that a reasonable person would have in a similar situation."
+]
+},
+{
+"id": "coordination_x",
+"w": "coordination",
+"gloss": [
+"The act of coordinating, making different people or things work together for a goal or effect.",
+"The resulting state of working together; cooperation; synchronization.",
+"The ability to coordinate one's senses and physical movements in order to act skillfully."
+]
+},
+{
+"id": "pregnancy_x",
+"w": "pregnancy",
+"gloss": [
+"The condition of being pregnant; an instance of this.",
+"The period of time this condition prevails.",
+"The progression of stages from conception to birth."
+]
+},
+{
+"id": "exemption_x",
+"w": "exemption",
+"gloss": [
+"An act of exempting.",
+"The state of being exempt; immunity.",
+"A deduction from the normal amount of taxes."
+]
+},
+{
+"id": "quantitative_x",
+"w": "quantitative",
+"gloss": [
+"Of a measurements and data types: based on some quantity or number rather than on some quality.",
+"Of logical analysis: based on quantification as well as qualification, rather than solely the latter: thus, not ignorant of magnitudes (large or small).",
+"Of a form of analysis, that determines the amount of some element or compound in a sample."
+]
+},
+{
+"id": "surgical_x",
+"w": "surgical",
+"gloss": [
+"Of, relating to, used in, or resulting from surgery.",
+"Precise or very accurate.",
+"Excruciatingly or wearyingly drawn-out."
+]
+},
+{
+"id": "anterior_x",
+"w": "anterior",
+"gloss": [
+"Nearer the forward end, especially in the front of the body; nearer the head or forepart of an animal.",
+"(of a part of a flower or leaf) Situated further away from the mainstem.",
+"Pronounced with an obstruction located in front of the palato-alveolar region of the mouth, e.g. b, p, d, t."
+]
+},
+{
+"id": "civilian_x",
+"w": "civilian",
+"gloss": [
+"A person following the pursuits of civil life, especially one who is not an active member of the armed forces.",
+"A person who does not belong to a particular group or engage in a particular activity, an outsider.",
+"One skilled in civil law."
+]
+},
+{
+"id": "bacteria_x",
+"w": "bacteria",
+"gloss": [
+"A type, species, or strain of bacterium.",
+"Lowlife, slob (could be treated as plural or singular).",
+"An oval bacterium, as distinguished from a spherical coccus or rod-shaped bacillus."
+]
+},
+{
+"id": "zinc_x",
+"w": "zinc",
+"gloss": [
+"A chemical element (symbol Zn) with an atomic number of 30, a blue-silvery metal that is slightly brittle at room temperature and tarnishes slightly in moist air.",
+"An atom of this element.",
+"A corrugated iron roof."
+]
+},
+{
+"id": "rotation_x",
+"w": "rotation",
+"gloss": [
+"The act of turning around a centre or an axis.",
+"A single complete cycle around a centre or an axis.",
+"A regular variation in a sequence, such as to even out wear, or people taking turns in a task; a duty roster."
+]
+},
+{
+"id": "emission_x",
+"w": "emission",
+"gloss": [
+"Something which is emitted or sent out; issue.",
+"The act of emitting; the act of sending forth or putting into circulation.",
+"A show; a program."
+]
+},
+{
+"id": "reliability_x",
+"w": "reliability",
+"gloss": [
+"The quality of being reliable, dependable, or trustworthy.",
+"the ability to measure the same thing consistently (of a measurement indicating the degree to which the measure is consistent); that is, repeated measurements would give the same result (See also validity).",
+"measurable time of work before failure"
+]
+},
+{
+"id": "reactor_x",
+"w": "reactor",
+"gloss": [
+"A person who responds to a suggestion, stimulation or other influence.",
+"A structure used to contain chemical or other reactions.",
+"A device which uses atomic energy to produce heat."
+]
+},
+{
+"id": "loop_x",
+"w": "loop",
+"gloss": [
+"A length of thread, line or rope that is doubled over to make an opening.",
+"The opening so formed.",
+"A shape produced by a curve that bends around and crosses itself."
+]
+},
+{
+"id": "cargo_x",
+"w": "cargo",
+"gloss": [
+"Freight carried by a ship, aircraft, or motor vehicle.",
+"Western material goods.",
+"To load with freight."
+]
+},
+{
+"id": "whereby_x",
+"w": "whereby",
+"gloss": [
+"By what, in which direction; how.",
+"By which.",
+"Where, wherein, in which."
+]
+},
+{
+"id": "configuration_x",
+"w": "configuration",
+"gloss": [
+"The form of a thing, as depending on the relative placement of the parts of a thing's shape.",
+"The relative positions of a set of things; the way things are arranged or put together;",
+"The aspect of the planets; the face of the horoscope, according to the relative positions of the planets at any time."
+]
+}
+]

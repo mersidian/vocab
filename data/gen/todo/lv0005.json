@@ -1,0 +1,602 @@
+[
+{
+"id": "idea_noun",
+"w": "idea",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "answer_noun",
+"w": "answer",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "answer_verb",
+"w": "answer",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "story_noun",
+"w": "story",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "front_adj",
+"w": "front",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "doing_verb",
+"w": "doing",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "son_noun",
+"w": "son",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "post_noun",
+"w": "post",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "sure_adj",
+"w": "sure",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "run_noun",
+"w": "run",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "run_verb",
+"w": "run",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "sea_noun",
+"w": "sea",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "ten_num",
+"w": "ten",
+"pos": "num",
+"lvl": "A1"
+},
+{
+"id": "meet_verb",
+"w": "meet",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "august_noun",
+"w": "August",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "middle_adj",
+"w": "middle",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "leave_verb",
+"w": "leave",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "reading_noun",
+"w": "reading",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "month_noun",
+"w": "month",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "moment_noun",
+"w": "moment",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "difference_noun",
+"w": "difference",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "twenty_num",
+"w": "twenty",
+"pos": "num",
+"lvl": "A1"
+},
+{
+"id": "behind_adv",
+"w": "behind",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "behind_prep",
+"w": "behind",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "character_noun",
+"w": "character",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "stage_noun",
+"w": "stage",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "big_adj",
+"w": "big",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "cut_verb",
+"w": "cut",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "play_noun",
+"w": "play",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "play_verb",
+"w": "play",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "live_verb",
+"w": "live",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "wife_noun",
+"w": "wife",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "officer_noun",
+"w": "officer",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "address_noun",
+"w": "address",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "door_noun",
+"w": "door",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "site_noun",
+"w": "site",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "november_noun",
+"w": "November",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "hospital_noun",
+"w": "hospital",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "poor_adj",
+"w": "poor",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "box_noun",
+"w": "box",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "fine_adj",
+"w": "fine",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "alone_adv",
+"w": "alone",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "car_noun",
+"w": "car",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "survey_noun",
+"w": "survey",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "music_noun",
+"w": "music",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "bring_verb",
+"w": "bring",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "culture_noun",
+"w": "culture",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "ask_verb",
+"w": "ask",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "february_noun",
+"w": "February",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "hold_noun",
+"w": "hold",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "station_noun",
+"w": "station",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "hope_noun",
+"w": "hope",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "sale_noun",
+"w": "sale",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "brown_adj",
+"w": "brown",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "share_verb",
+"w": "share",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "student_noun",
+"w": "student",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "green_adj",
+"w": "green",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "key_adj",
+"w": "key",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "key_noun",
+"w": "key",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "farm_noun",
+"w": "farm",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "move_noun",
+"w": "move",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "hour_noun",
+"w": "hour",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "computer_noun",
+"w": "computer",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "step_verb",
+"w": "step",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "morning_noun",
+"w": "morning",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "news_noun",
+"w": "news",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "judge_verb",
+"w": "judge",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "wall_noun",
+"w": "wall",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "ago_adv",
+"w": "ago",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "peace_noun",
+"w": "peace",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "everything_pron",
+"w": "everything",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "lot_adv",
+"w": "lot",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "lot_pron",
+"w": "lot",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "seven_num",
+"w": "seven",
+"pos": "num",
+"lvl": "A1"
+},
+{
+"id": "island_noun",
+"w": "island",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "start_noun",
+"w": "start",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "start_verb",
+"w": "start",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "machine_noun",
+"w": "machine",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "collection_noun",
+"w": "collection",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "eight_num",
+"w": "eight",
+"pos": "num",
+"lvl": "A1"
+},
+{
+"id": "cover_noun",
+"w": "cover",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "smith_noun",
+"w": "smith",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "friend_noun",
+"w": "friend",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "else_adv",
+"w": "else",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "write_verb",
+"w": "write",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "heavy_adj",
+"w": "heavy",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "park_noun",
+"w": "park",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "fish_noun",
+"w": "fish",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "try_noun",
+"w": "try",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "gold_adj",
+"w": "gold",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "summer_noun",
+"w": "summer",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "fair_adj",
+"w": "fair",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "dark_adj",
+"w": "dark",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "add_verb",
+"w": "add",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "stand_noun",
+"w": "stand",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "inside_prep",
+"w": "inside",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "talk_verb",
+"w": "talk",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "floor_noun",
+"w": "floor",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "spring_noun",
+"w": "spring",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "cold_adj",
+"w": "cold",
+"pos": "adj",
+"lvl": "A1"
+}
+]

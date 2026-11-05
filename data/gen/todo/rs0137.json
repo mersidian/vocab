@@ -1,0 +1,802 @@
+[
+{
+"id": "happy-as-a-pig-in-mud_idiom",
+"w": "happy as a pig in mud",
+"kind": "idiom",
+"gloss": [
+"Very happy or content."
+]
+},
+{
+"id": "beautiful-people_idiom",
+"w": "beautiful people",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see beautiful, people."
+]
+},
+{
+"id": "in-the-nip_idiom",
+"w": "in the nip",
+"kind": "idiom",
+"gloss": [
+"Nude."
+]
+},
+{
+"id": "vim-and-vigor_idiom",
+"w": "vim and vigor",
+"kind": "idiom",
+"gloss": [
+"energetic spirit, zeal, vitality"
+]
+},
+{
+"id": "bright-young-thing_idiom",
+"w": "bright young thing",
+"kind": "idiom",
+"gloss": [
+"One who is youthful, clever, eager, and high-spirited in manner and attractive in appearance."
+]
+},
+{
+"id": "not-know-one-is-born_idiom",
+"w": "not know one is born",
+"kind": "idiom",
+"gloss": [
+"To be spoiled; to have an easy life without appreciating it."
+]
+},
+{
+"id": "dog-s-chance_idiom",
+"w": "dog's chance",
+"kind": "idiom",
+"gloss": [
+"Little or no likelihood."
+]
+},
+{
+"id": "off-one-s-tree_idiom",
+"w": "off one's tree",
+"kind": "idiom",
+"gloss": [
+"Crazy; unhinged; irrational."
+]
+},
+{
+"id": "first-up_idiom",
+"w": "first up",
+"kind": "idiom",
+"gloss": [
+"Firstly; before anything else."
+]
+},
+{
+"id": "first-off_idiom",
+"w": "first off",
+"kind": "idiom",
+"gloss": [
+"Firstly; before anything else. Often used to introduce the first in a list of points to be made in conversation."
+]
+},
+{
+"id": "silky-smooth_idiom",
+"w": "silky smooth",
+"kind": "idiom",
+"gloss": [
+"Extremely smooth"
+]
+},
+{
+"id": "lay-eyes-on_idiom",
+"w": "lay eyes on",
+"kind": "idiom",
+"gloss": [
+"To see; look at; glimpse."
+]
+},
+{
+"id": "bring-out-in-a-rash_idiom",
+"w": "bring out in a rash",
+"kind": "idiom",
+"gloss": [
+"To rile someone up."
+]
+},
+{
+"id": "live-over-the-brush_idiom",
+"w": "live over the brush",
+"kind": "idiom",
+"gloss": [
+"To cohabit without being married."
+]
+},
+{
+"id": "hill-to-die-on_idiom",
+"w": "hill to die on",
+"kind": "idiom",
+"gloss": [
+"An issue to pursue with a wholehearted conviction or a single-minded focus, with little or no regard to the cost and no intent of equivocation or compromise."
+]
+},
+{
+"id": "honor-in-the-breach_idiom",
+"w": "honor in the breach",
+"kind": "idiom",
+"gloss": [
+"To demonstrate (a rule, law, or policy) by breaking or breaching it."
+]
+},
+{
+"id": "damn-right_idiom",
+"w": "damn right",
+"kind": "idiom",
+"gloss": [
+"Expresses enthusiastic support or opposition, agreement or disagreement, certainty or emphasis."
+]
+},
+{
+"id": "not-worth-a-continental_idiom",
+"w": "not worth a Continental",
+"kind": "idiom",
+"gloss": [
+"worthless, lacking in value, especially due to economic inflation."
+]
+},
+{
+"id": "taste-of-one-s-own-poison_idiom",
+"w": "taste of one's own poison",
+"kind": "idiom",
+"gloss": [
+"Synonym of taste of one's own medicine."
+]
+},
+{
+"id": "not-see-someone-for-dust_idiom",
+"w": "not see someone for dust",
+"kind": "idiom",
+"gloss": [
+"To not see someone at all; implying a hasty departure."
+]
+},
+{
+"id": "on-the-gripping-hand_idiom",
+"w": "on the gripping hand",
+"kind": "idiom",
+"gloss": [
+"from a third point of view"
+]
+},
+{
+"id": "win-one-for-the-gipper_idiom",
+"w": "win one for the Gipper",
+"kind": "idiom",
+"gloss": [
+"To do something in memory of another person."
+]
+},
+{
+"id": "cherry-on-top_idiom",
+"w": "cherry on top",
+"kind": "idiom",
+"gloss": [
+"Synonym of icing on the cake (“a thing which intensifies the appreciation of something already good, or (ironic) the regretting of something already bad”)."
+]
+},
+{
+"id": "bear-oneself_idiom",
+"w": "bear oneself",
+"kind": "idiom",
+"gloss": [
+"To behave and conduct oneself in a particular manner."
+]
+},
+{
+"id": "when-two-sundays-meet_idiom",
+"w": "when two Sundays meet",
+"kind": "idiom",
+"gloss": [
+"never"
+]
+},
+{
+"id": "when-two-sundays-come-together_idiom",
+"w": "when two Sundays come together",
+"kind": "idiom",
+"gloss": [
+"never"
+]
+},
+{
+"id": "higher-than-a-kite_idiom",
+"w": "higher than a kite",
+"kind": "idiom",
+"gloss": [
+"Very much under the influence of drugs."
+]
+},
+{
+"id": "speak-in-circles_idiom",
+"w": "speak in circles",
+"kind": "idiom",
+"gloss": [
+"Synonym of talk in circles."
+]
+},
+{
+"id": "blind-with-science_idiom",
+"w": "blind with science",
+"kind": "idiom",
+"gloss": [
+"To overwhelm someone with details in order to influence or mislead them."
+]
+},
+{
+"id": "cry-foul_idiom",
+"w": "cry foul",
+"kind": "idiom",
+"gloss": [
+"To protest about something which appears to be unjust."
+]
+},
+{
+"id": "to-the-nth-degree_idiom",
+"w": "to the nth degree",
+"kind": "idiom",
+"gloss": [
+"As much as possible, to the greatest extent."
+]
+},
+{
+"id": "inside-the-box_idiom",
+"w": "inside the box",
+"kind": "idiom",
+"gloss": [
+"Restricted by convention."
+]
+},
+{
+"id": "eyes-on-the-prize_idiom",
+"w": "eyes on the prize",
+"kind": "idiom",
+"gloss": [
+"Concentration on one's goal; mindfulness of the desired outcome."
+]
+},
+{
+"id": "break-the-cycle_idiom",
+"w": "break the cycle",
+"kind": "idiom",
+"gloss": [
+"To act so as to end a repeating pattern of harmful or otherwise negative behavior."
+]
+},
+{
+"id": "keep-one-s-pants-on_idiom",
+"w": "keep one's pants on",
+"kind": "idiom",
+"gloss": [
+"To stay calm."
+]
+},
+{
+"id": "three-stooges_idiom",
+"w": "Three Stooges",
+"kind": "idiom",
+"gloss": [
+"A group of three stupid people."
+]
+},
+{
+"id": "put-on-a-clinic_idiom",
+"w": "put on a clinic",
+"kind": "idiom",
+"gloss": [
+"To perform excellently; to put on a show of brilliance."
+]
+},
+{
+"id": "richard-roe_idiom",
+"w": "Richard Roe",
+"kind": "idiom",
+"gloss": [
+"Synonym of John Doe."
+]
+},
+{
+"id": "bane-of-someone-s-existence_idiom",
+"w": "bane of someone's existence",
+"kind": "idiom",
+"gloss": [
+"Someone or something that poses a significant problem to someone."
+]
+},
+{
+"id": "get-through-one-s-head_idiom",
+"w": "get through one's head",
+"kind": "idiom",
+"gloss": [
+"To come to terms with a fact, a state of affairs, etc. that one was previously unable or refusing to accept."
+]
+},
+{
+"id": "take-the-bitter-with-the-sweet_idiom",
+"w": "take the bitter with the sweet",
+"kind": "idiom",
+"gloss": [
+"To accept positive things with negative things."
+]
+},
+{
+"id": "loaded-language_idiom",
+"w": "loaded language",
+"kind": "idiom",
+"gloss": [
+"Language using words, set phrases or idioms that have strong positive or negative connotations beyond their ordinary definitions."
+]
+},
+{
+"id": "milieu-control_idiom",
+"w": "milieu control",
+"kind": "idiom",
+"gloss": [
+"tactics that control environment and human communication through the use of peer pressure and group language."
+]
+},
+{
+"id": "teething-problem_idiom",
+"w": "teething problem",
+"kind": "idiom",
+"gloss": [
+"A problem encountered with any new and untried product, system, or venture."
+]
+},
+{
+"id": "no-bones-about-it_idiom",
+"w": "no bones about it",
+"kind": "idiom",
+"gloss": [
+"Without any doubt."
+]
+},
+{
+"id": "make-beautiful-music-together_idiom",
+"w": "make beautiful music together",
+"kind": "idiom",
+"gloss": [
+"To have a great romantic relationship with each other."
+]
+},
+{
+"id": "keep-one-s-chin-up_idiom",
+"w": "keep one's chin up",
+"kind": "idiom",
+"gloss": [
+"To remain positive and cheerful."
+]
+},
+{
+"id": "no-horse-in-this-race_idiom",
+"w": "no horse in this race",
+"kind": "idiom",
+"gloss": [
+"No vested interest in the outcome of a contest or debate."
+]
+},
+{
+"id": "true-to-form_idiom",
+"w": "true to form",
+"kind": "idiom",
+"gloss": [
+"According to one's nature; as expected."
+]
+},
+{
+"id": "turn-of-the-screw_idiom",
+"w": "turn of the screw",
+"kind": "idiom",
+"gloss": [
+"One step in a gradual imposition of restrictions."
+]
+},
+{
+"id": "down-on-one-s-uppers_idiom",
+"w": "down on one's uppers",
+"kind": "idiom",
+"gloss": [
+"impecunious, lacking money"
+]
+},
+{
+"id": "with-one-s-dick-in-one-s-hand_idiom",
+"w": "with one's dick in one's hand",
+"kind": "idiom",
+"gloss": [
+"In a state of being unprepared, powerless, or idle; in any case, getting nothing done."
+]
+},
+{
+"id": "faceless-bureaucrat_idiom",
+"w": "faceless bureaucrat",
+"kind": "idiom",
+"gloss": [
+"A stereotypical anonymous, interchangeable and unaccountable government official."
+]
+},
+{
+"id": "patience-of-a-saint_idiom",
+"w": "patience of a saint",
+"kind": "idiom",
+"gloss": [
+"Synonym of patience of an angel."
+]
+},
+{
+"id": "chink-in-the-armor_idiom",
+"w": "chink in the armor",
+"kind": "idiom",
+"gloss": [
+"A weakness; a weak point (particularly of something formerly considered near-invincible or perfect)."
+]
+},
+{
+"id": "knock-some-sense-into_idiom",
+"w": "knock some sense into",
+"kind": "idiom",
+"gloss": [
+"To reprimand or reform someone vigorously."
+]
+},
+{
+"id": "flip-shit_idiom",
+"w": "flip shit",
+"kind": "idiom",
+"gloss": [
+"To freak out."
+]
+},
+{
+"id": "sad-panda_idiom",
+"w": "sad panda",
+"kind": "idiom",
+"gloss": [
+"An unhappy or disappointed person."
+]
+},
+{
+"id": "go-big-or-go-home_idiom",
+"w": "go big or go home",
+"kind": "idiom",
+"gloss": [
+"One must either try to go all the way or not try at all; a high-risk, high-reward strategy."
+]
+},
+{
+"id": "until-the-last-dog-is-hung_idiom",
+"w": "until the last dog is hung",
+"kind": "idiom",
+"gloss": [
+"Until the last moment."
+]
+},
+{
+"id": "tug-one-s-forelock_idiom",
+"w": "tug one's forelock",
+"kind": "idiom",
+"gloss": [
+"To show deference or obsequious respect."
+]
+},
+{
+"id": "take-it-upon-oneself_idiom",
+"w": "take it upon oneself",
+"kind": "idiom",
+"gloss": [
+"To assume personal responsibility for a task or action."
+]
+},
+{
+"id": "while-we-re-young_idiom",
+"w": "while we're young",
+"kind": "idiom",
+"gloss": [
+"soon, without much delay (urging someone to hurry up)"
+]
+},
+{
+"id": "belly-up-to-the-bar_idiom",
+"w": "belly up to the bar",
+"kind": "idiom",
+"gloss": [
+"To commit oneself to a challenge or task; to accept a responsibility; to acknowledge a fact."
+]
+},
+{
+"id": "gather-rosebuds_idiom",
+"w": "gather rosebuds",
+"kind": "idiom",
+"gloss": [
+"To enjoy life's immediate pleasures; to behave in a relaxed, carefree manner."
+]
+},
+{
+"id": "disgusted-of-tunbridge-wells_idiom",
+"w": "Disgusted of Tunbridge Wells",
+"kind": "idiom",
+"gloss": [
+"A stereotypical vocal conservative curmudgeon."
+]
+},
+{
+"id": "fast-times_idiom",
+"w": "fast times",
+"kind": "idiom",
+"gloss": [
+"A period of time characterized by quickly-paced activity, especially involving extravagant or risky conduct, sexual behavior, or other exciting events."
+]
+},
+{
+"id": "fix-the-roof-while-the-sun-is-shining_idiom",
+"w": "fix the roof while the sun is shining",
+"kind": "idiom",
+"gloss": [
+"To deal with a problem or potential problem while conditions are favorable."
+]
+},
+{
+"id": "hook-it_idiom",
+"w": "hook it",
+"kind": "idiom",
+"gloss": [
+"To depart in a hurry; to clear out."
+]
+},
+{
+"id": "temper-temper_idiom",
+"w": "temper temper",
+"kind": "idiom",
+"gloss": [
+"Used to tell someone to mind their (bad) temper"
+]
+},
+{
+"id": "stuff-you_idiom",
+"w": "stuff you",
+"kind": "idiom",
+"gloss": [
+"Used in place of fuck you."
+]
+},
+{
+"id": "off-and-running_idiom",
+"w": "off and running",
+"kind": "idiom",
+"gloss": [
+"Launched or launching vigorously into a course of action."
+]
+},
+{
+"id": "kill-one-s-darlings_idiom",
+"w": "kill one's darlings",
+"kind": "idiom",
+"gloss": [
+"To destroy things or characters, particularly in art, of which one is fond, often reluctantly in order to improve one's artistic output."
+]
+},
+{
+"id": "nothing-for-it_idiom",
+"w": "nothing for it",
+"kind": "idiom",
+"gloss": [
+"No alternative; nothing else to be done or to have recourse to."
+]
+},
+{
+"id": "make-bricks-without-straw_idiom",
+"w": "make bricks without straw",
+"kind": "idiom",
+"gloss": [
+"To accomplish a task without the proper materials or under unreasonable conditions; to do the impossible."
+]
+},
+{
+"id": "speed-merchant_idiom",
+"w": "speed merchant",
+"kind": "idiom",
+"gloss": [
+"Someone who runs, drives or moves in a given way very fast."
+]
+},
+{
+"id": "bad-company_idiom",
+"w": "bad company",
+"kind": "idiom",
+"gloss": [
+"The wrong crowd."
+]
+},
+{
+"id": "get-into-the-wrong-hands_idiom",
+"w": "get into the wrong hands",
+"kind": "idiom",
+"gloss": [
+"To fall into the wrong hands."
+]
+},
+{
+"id": "more-than-one-bargained-for_idiom",
+"w": "more than one bargained for",
+"kind": "idiom",
+"gloss": [
+"An unexpected and (usually) unwanted result of a decision or action."
+]
+},
+{
+"id": "up-and-at-em_idiom",
+"w": "up and at 'em",
+"kind": "idiom",
+"gloss": [
+"Vigorously launched or launching into an activity."
+]
+},
+{
+"id": "let-one-go_idiom",
+"w": "let one go",
+"kind": "idiom",
+"gloss": [
+"To fart."
+]
+},
+{
+"id": "name-one-s-poison_idiom",
+"w": "name one's poison",
+"kind": "idiom",
+"gloss": [
+"To indicate what type of alcoholic beverage one wishes to be served."
+]
+},
+{
+"id": "time-thief_idiom",
+"w": "time thief",
+"kind": "idiom",
+"gloss": [
+"Something or someone that consumes an inordinate amount of time, especially without achieving anything productive."
+]
+},
+{
+"id": "time-burglar_idiom",
+"w": "time burglar",
+"kind": "idiom",
+"gloss": [
+"Something or someone that consumes an inordinate amount of time, especially without achieving anything productive."
+]
+},
+{
+"id": "time-bandit_idiom",
+"w": "time bandit",
+"kind": "idiom",
+"gloss": [
+"Something or someone that consumes an inordinate amount of time, especially without achieving anything productive."
+]
+},
+{
+"id": "sleep-camel_idiom",
+"w": "sleep camel",
+"kind": "idiom",
+"gloss": [
+"A person who habitually does with little to no sleep during the week and then makes up by sleeping a lot during the weekend."
+]
+},
+{
+"id": "woulda-coulda-shoulda_idiom",
+"w": "woulda, coulda, shoulda",
+"kind": "idiom",
+"gloss": [
+"An instance or moment of regret, hindsight, or futile pondering over a missed opportunity."
+]
+},
+{
+"id": "for-two-pins_idiom",
+"w": "for two pins",
+"kind": "idiom",
+"gloss": [
+"Readily, with only the slightest encouragement."
+]
+},
+{
+"id": "worm-food_idiom",
+"w": "worm food",
+"kind": "idiom",
+"gloss": [
+"One or more corpses, especially in a state of decay; remains."
+]
+},
+{
+"id": "drop-the-mic_idiom",
+"w": "drop the mic",
+"kind": "idiom",
+"gloss": [
+"To do or say something decisive, meaningful, or impressive."
+]
+},
+{
+"id": "pour-fuel-on-the-fire_idiom",
+"w": "pour fuel on the fire",
+"kind": "idiom",
+"gloss": [
+"Synonym of add fuel to the fire."
+]
+},
+{
+"id": "suit-down-to-the-ground_idiom",
+"w": "suit down to the ground",
+"kind": "idiom",
+"gloss": [
+"To suit perfectly."
+]
+},
+{
+"id": "slap-leather_idiom",
+"w": "slap leather",
+"kind": "idiom",
+"gloss": [
+"To make a quick motion to draw one's handgun from its holster, especially in a duel in the Old West."
+]
+},
+{
+"id": "cock-in-the-henhouse_idiom",
+"w": "cock in the henhouse",
+"kind": "idiom",
+"gloss": [
+"A man in a situation where he has access to many women, presumably intending to seduce them."
+]
+},
+{
+"id": "count-to-ten_idiom",
+"w": "count to ten",
+"kind": "idiom",
+"gloss": [
+"An expression used to describe or recommend a process for pausing to regain one's composure when one is on the verge of losing one's temper."
+]
+},
+{
+"id": "within-living-memory_idiom",
+"w": "within living memory",
+"kind": "idiom",
+"gloss": [
+"In living memory."
+]
+},
+{
+"id": "word-is-bond_idiom",
+"w": "word is bond",
+"kind": "idiom",
+"gloss": [
+"indicates that the speaker purports that they have told the truth or is trustworthy."
+]
+},
+{
+"id": "bust-the-dust_idiom",
+"w": "bust the dust",
+"kind": "idiom",
+"gloss": [
+"To clean dust off something, such as with a vacuum cleaner."
+]
+},
+{
+"id": "bite-of-the-cherry_idiom",
+"w": "bite of the cherry",
+"kind": "idiom",
+"gloss": [
+"A chance; an attempt at something, especially something that can or should only be done once."
+]
+},
+{
+"id": "make-shit-of_idiom",
+"w": "make shit of",
+"kind": "idiom",
+"gloss": [
+"To ruin or destroy."
+]
+}
+]

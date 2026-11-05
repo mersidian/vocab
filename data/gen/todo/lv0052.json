@@ -1,0 +1,602 @@
+[
+{
+"id": "reference_noun",
+"w": "reference",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "potential_adj",
+"w": "potential",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "planning_noun",
+"w": "planning",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "influence_verb",
+"w": "influence",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "expected_adj",
+"w": "expected",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "technical_adj",
+"w": "technical",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "conference_noun",
+"w": "conference",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "prior_adj",
+"w": "prior",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "motion_noun",
+"w": "motion",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "risk_verb",
+"w": "risk",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "primary_adj",
+"w": "primary",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "commercial_noun",
+"w": "commercial",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "trial_noun",
+"w": "trial",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "trust_noun",
+"w": "trust",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "equal_noun",
+"w": "equal",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "equal_verb",
+"w": "equal",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "fine_adv",
+"w": "fine",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "fine_verb",
+"w": "fine",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "latter_adj",
+"w": "latter",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "acid_noun",
+"w": "acid",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "soil_noun",
+"w": "soil",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "learning_noun",
+"w": "learning",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "investment_noun",
+"w": "investment",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "payment_noun",
+"w": "payment",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "content_adj",
+"w": "content",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "existing_adj",
+"w": "existing",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "sound_adj",
+"w": "sound",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "facilities_noun",
+"w": "facilities",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "environment_noun",
+"w": "environment",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "minister_noun",
+"w": "minister",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "actual_adj",
+"w": "actual",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "understanding_adj",
+"w": "understanding",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "understanding_noun",
+"w": "understanding",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "procedure_noun",
+"w": "procedure",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "principal_noun",
+"w": "principal",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "mass_noun",
+"w": "mass",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "factor_noun",
+"w": "factor",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "phase_noun",
+"w": "phase",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "transfer_noun",
+"w": "transfer",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "balance_verb",
+"w": "balance",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "deep_adj",
+"w": "deep",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "regard_noun",
+"w": "regard",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "joint_noun",
+"w": "joint",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "access_verb",
+"w": "access",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "progress_verb",
+"w": "progress",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "executive_adj",
+"w": "executive",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "executive_noun",
+"w": "executive",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "separate_verb",
+"w": "separate",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "benefit_verb",
+"w": "benefit",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "senator_noun",
+"w": "senator",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "object_verb",
+"w": "object",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "index_noun",
+"w": "index",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "professional_noun",
+"w": "professional",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "appeal_verb",
+"w": "appeal",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "estate_noun",
+"w": "estate",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "official_noun",
+"w": "official",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "portion_noun",
+"w": "portion",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "provision_noun",
+"w": "provision",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "formation_noun",
+"w": "formation",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "initial_adj",
+"w": "initial",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "fixed_adj",
+"w": "fixed",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "resolution_noun",
+"w": "resolution",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "lack_verb",
+"w": "lack",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "adopted_adj",
+"w": "adopted",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "constant_adj",
+"w": "constant",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "domestic_adj",
+"w": "domestic",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "budget_adj",
+"w": "budget",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "inside_adj",
+"w": "inside",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "inside_noun",
+"w": "inside",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "estimated_adj",
+"w": "estimated",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "concerning_prep",
+"w": "concerning",
+"pos": "prep",
+"lvl": "B2"
+},
+{
+"id": "file_verb",
+"w": "file",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "growing_adj",
+"w": "growing",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "personnel_noun",
+"w": "personnel",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "employee_noun",
+"w": "employee",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "master_noun",
+"w": "master",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "round_prep",
+"w": "round",
+"pos": "prep",
+"lvl": "B2"
+},
+{
+"id": "round_verb",
+"w": "round",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "output_noun",
+"w": "output",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "commerce_noun",
+"w": "commerce",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "assembly_noun",
+"w": "assembly",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "neither_adv",
+"w": "neither",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "neither_conj",
+"w": "neither",
+"pos": "conj",
+"lvl": "B2"
+},
+{
+"id": "neither_det",
+"w": "neither",
+"pos": "det",
+"lvl": "B2"
+},
+{
+"id": "neither_pron",
+"w": "neither",
+"pos": "pron",
+"lvl": "B2"
+},
+{
+"id": "legislation_noun",
+"w": "legislation",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "reaction_noun",
+"w": "reaction",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "doubt_verb",
+"w": "doubt",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "assessment_noun",
+"w": "assessment",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "picture_verb",
+"w": "picture",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "administrative_adj",
+"w": "administrative",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "revenue_noun",
+"w": "revenue",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "fiscal_adj",
+"w": "fiscal",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "urban_adj",
+"w": "urban",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "soviet_noun",
+"w": "Soviet",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "evaluation_noun",
+"w": "evaluation",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "compensation_noun",
+"w": "compensation",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "purchase_noun",
+"w": "purchase",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "purchase_verb",
+"w": "purchase",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "rural_adj",
+"w": "rural",
+"pos": "adj",
+"lvl": "B2"
+}
+]

@@ -1,0 +1,100 @@
+{"id":"gravy_noun","th":"น้ำเกรวี; น้ำราดเนื้อ","ex":"He poured hot gravy over the potatoes.","exTh":"เขาราดน้ำเกรวีร้อนๆ ลงบนมันฝรั่ง"}
+{"id":"unify_verb","th":"รวมเป็นหนึ่ง; ทำให้เป็นอันหนึ่งอันเดียวกัน","ex":"The new leader wanted to unify the country.","exTh":"ผู้นำคนใหม่ต้องการรวมประเทศให้เป็นหนึ่งเดียว"}
+{"id":"stylish_adj","th":"ทันสมัย; เก๋; มีสไตล์","ex":"She always wears stylish clothes.","exTh":"เธอแต่งตัวทันสมัยอยู่เสมอ"}
+{"id":"burglar_noun","th":"หัวขโมย; ขโมยย่องเบา","ex":"A burglar broke into the house last night.","exTh":"หัวขโมยงัดเข้าบ้านเมื่อคืนนี้"}
+{"id":"furthest_adv","th":"ไกลที่สุด","ex":"Who traveled furthest to get here today?","exTh":"วันนี้ใครเดินทางมาไกลที่สุด"}
+{"id":"wither_verb","th":"เหี่ยว; เหี่ยวเฉา; ร่วงโรย","ex":"The flowers began to wither without water.","exTh":"ดอกไม้เริ่มเหี่ยวเฉาเพราะไม่มีน้ำ"}
+{"id":"enthusiast_noun","th":"ผู้คลั่งไคล้; ผู้ที่ชื่นชอบ","ex":"My father is a keen fishing enthusiast.","exTh":"พ่อของฉันเป็นผู้คลั่งไคล้การตกปลา"}
+{"id":"comedian_noun","th":"นักแสดงตลก; ตลก","ex":"The comedian made everyone laugh.","exTh":"นักแสดงตลกทำให้ทุกคนหัวเราะ"}
+{"id":"someplace_adv","th":"ที่ใดที่หนึ่ง; สักแห่ง","ex":"Let's go someplace quiet to talk.","exTh":"ไปคุยกันที่ไหนสักแห่งที่เงียบๆ เถอะ","note":"ภาษาพูดแบบอเมริกัน"}
+{"id":"uplifted_adj","th":"รู้สึกยกระดับจิตใจ; มีกำลังใจขึ้น","ex":"I felt uplifted after hearing her kind words.","exTh":"ฉันรู้สึกมีกำลังใจขึ้นหลังได้ฟังคำพูดดีๆ ของเธอ"}
+{"id":"categorize_verb","th":"จัดหมวดหมู่; แบ่งประเภท","ex":"We categorize the books by subject.","exTh":"เราจัดหมวดหมู่หนังสือตามหัวข้อ"}
+{"id":"disappoint_verb","th":"ทำให้ผิดหวัง","ex":"I don't want to disappoint my parents.","exTh":"ฉันไม่อยากทำให้พ่อแม่ผิดหวัง"}
+{"id":"ironing_noun","th":"การรีดผ้า; ผ้าที่ต้องรีด","ex":"I have a pile of ironing to do today.","exTh":"วันนี้ฉันมีผ้าที่ต้องรีดเป็นกองเลย"}
+{"id":"rainforest_noun","th":"ป่าดิบชื้น; ป่าฝน","ex":"Many rare animals live in the rainforest.","exTh":"สัตว์หายากหลายชนิดอาศัยอยู่ในป่าดิบชื้น"}
+{"id":"rudely_adv","th":"อย่างหยาบคาย; อย่างไม่สุภาพ","ex":"He rudely walked away without saying thank you.","exTh":"เขาเดินจากไปอย่างไม่สุภาพโดยไม่พูดขอบคุณ"}
+{"id":"disable_verb","th":"ปิดการใช้งาน; ทำให้ใช้ไม่ได้","ex":"You can disable the sound in the settings.","exTh":"คุณสามารถปิดเสียงได้ในหน้าตั้งค่า"}
+{"id":"tiring_adj","th":"น่าเหนื่อย; ที่ทำให้เหนื่อย","ex":"It was a long and tiring journey.","exTh":"เป็นการเดินทางที่ยาวนานและเหนื่อยล้า"}
+{"id":"jumper_noun","th":"เสื้อสเวตเตอร์; เสื้อกันหนาวถัก","ex":"I wore a warm jumper because it was cold.","exTh":"ฉันใส่เสื้อสเวตเตอร์อุ่นๆ เพราะอากาศหนาว","note":"คำแบบอังกฤษ (อเมริกันใช้ sweater)"}
+{"id":"jogging_noun","th":"การวิ่งเหยาะๆ; การจ๊อกกิ้ง","ex":"Jogging in the park is good exercise.","exTh":"การวิ่งเหยาะๆ ในสวนสาธารณะเป็นการออกกำลังกายที่ดี"}
+{"id":"mailbox_noun","th":"ตู้ไปรษณีย์; กล่องรับจดหมาย","ex":"I checked the mailbox for letters.","exTh":"ฉันเช็กตู้จดหมายว่ามีจดหมายไหม"}
+{"id":"memorize_verb","th":"ท่องจำ; จดจำ","ex":"I need to memorize these words for the test.","exTh":"ฉันต้องท่องจำคำเหล่านี้สำหรับการสอบ"}
+{"id":"safari_noun","th":"ซาฟารี; การเดินทางชมสัตว์ป่า","ex":"They went on a safari in Africa.","exTh":"พวกเขาไปซาฟารีที่แอฟริกา"}
+{"id":"thump_verb","th":"ทุบ; ตุบ; เต้นแรง","ex":"My heart began to thump with fear.","exTh":"หัวใจของฉันเริ่มเต้นตุบๆ ด้วยความกลัว"}
+{"id":"giggle_noun","th":"เสียงหัวเราะคิกคัก","ex":"The girls let out a giggle.","exTh":"เด็กผู้หญิงหัวเราะคิกคักออกมา"}
+{"id":"swimmer_noun","th":"นักว่ายน้ำ; คนว่ายน้ำ","ex":"She is a strong swimmer.","exTh":"เธอเป็นนักว่ายน้ำที่เก่ง"}
+{"id":"storyteller_noun","th":"นักเล่าเรื่อง; ผู้เล่านิทาน","ex":"My grandfather is a great storyteller.","exTh":"คุณตาของฉันเป็นนักเล่าเรื่องที่เยี่ยมมาก"}
+{"id":"uninteresting_adj","th":"ไม่น่าสนใจ; น่าเบื่อ","ex":"I found the lecture uninteresting.","exTh":"ฉันรู้สึกว่าการบรรยายไม่น่าสนใจ"}
+{"id":"loudspeaker_noun","th":"ลำโพง; เครื่องขยายเสียง","ex":"The announcement came over the loudspeaker.","exTh":"ประกาศดังมาจากลำโพง"}
+{"id":"rearrange_verb","th":"จัดใหม่; เปลี่ยนตำแหน่ง","ex":"We rearranged the furniture in the living room.","exTh":"เราจัดเฟอร์นิเจอร์ในห้องนั่งเล่นใหม่"}
+{"id":"gorilla_noun","th":"กอริลลา","ex":"The gorilla sat quietly and ate leaves.","exTh":"กอริลลานั่งกินใบไม้อย่างเงียบๆ"}
+{"id":"checkout_noun","th":"จุดชำระเงิน; เคาน์เตอร์จ่ายเงิน; การเช็กเอาต์","ex":"There was a long line at the checkout.","exTh":"มีคิวยาวที่จุดชำระเงิน"}
+{"id":"sticker_noun","th":"สติกเกอร์; ป้ายกาว","ex":"The child put a sticker on his notebook.","exTh":"เด็กน้อยติดสติกเกอร์ลงบนสมุดของเขา"}
+{"id":"inhale_verb","th":"หายใจเข้า; สูดเข้า","ex":"Inhale slowly and then breathe out.","exTh":"หายใจเข้าช้าๆ แล้วค่อยหายใจออก"}
+{"id":"skate_verb","th":"เล่นสเก็ต; เล่นสเก็ตน้ำแข็ง","ex":"We skate on the lake in winter.","exTh":"เราเล่นสเก็ตบนทะเลสาบในฤดูหนาว"}
+{"id":"handshake_noun","th":"การจับมือ; การทักทายด้วยการจับมือ","ex":"He greeted me with a firm handshake.","exTh":"เขาทักทายฉันด้วยการจับมืออย่างแน่น"}
+{"id":"interviewee_noun","th":"ผู้ถูกสัมภาษณ์; ผู้เข้ารับการสัมภาษณ์","ex":"The interviewee answered every question clearly.","exTh":"ผู้ถูกสัมภาษณ์ตอบทุกคำถามอย่างชัดเจน"}
+{"id":"thriller_noun","th":"หนังระทึกขวัญ; นิยายระทึกขวัญ","ex":"I stayed up late to finish the thriller.","exTh":"ฉันอดนอนเพื่อดูหนังระทึกขวัญให้จบ"}
+{"id":"calmness_noun","th":"ความสงบ; ความนิ่งสงบ","ex":"He spoke with great calmness.","exTh":"เขาพูดด้วยความสงบอย่างยิ่ง"}
+{"id":"postman_noun","th":"บุรุษไปรษณีย์; คนส่งจดหมาย","ex":"The postman comes at ten every morning.","exTh":"บุรุษไปรษณีย์มาตอนสิบโมงทุกเช้า"}
+{"id":"diaper_noun","th":"ผ้าอ้อม","ex":"The baby needs a new diaper.","exTh":"ทารกต้องเปลี่ยนผ้าอ้อมใหม่","note":"คำแบบอเมริกัน (อังกฤษใช้ nappy)"}
+{"id":"jog_verb","th":"วิ่งเหยาะๆ; จ๊อกกิ้ง","ex":"I jog around the lake every morning.","exTh":"ฉันวิ่งเหยาะๆ รอบทะเลสาบทุกเช้า"}
+{"id":"glint_noun","th":"ประกายแวบ; แสงวาบ","ex":"There was a glint of gold in the sand.","exTh":"มีประกายสีทองวาบขึ้นมาในผืนทราย"}
+{"id":"motherland_noun","th":"มาตุภูมิ; ประเทศบ้านเกิด","ex":"He was proud to return to his motherland.","exTh":"เขาภูมิใจที่ได้กลับสู่มาตุภูมิ"}
+{"id":"adorable_adj","th":"น่ารักน่าเอ็นดู; น่าชื่นชม","ex":"What an adorable little baby!","exTh":"ทารกน้อยน่ารักน่าเอ็นดูอะไรอย่างนี้"}
+{"id":"onstage_adj","th":"บนเวที; ที่เกิดขึ้นบนเวที","ex":"The onstage lights were very bright.","exTh":"ไฟบนเวทีสว่างมาก"}
+{"id":"brainstorming_noun","th":"การระดมสมอง","ex":"We had a brainstorming session for new ideas.","exTh":"เรามีการประชุมระดมสมองหาไอเดียใหม่ๆ"}
+{"id":"faraway_adj","th":"ไกลโพ้น; ห่างไกล","ex":"She dreams of visiting faraway places.","exTh":"เธอฝันอยากไปเยือนสถานที่ห่างไกล"}
+{"id":"climber_noun","th":"นักปีนเขา; ผู้ปีนป่าย","ex":"The climber reached the top of the mountain.","exTh":"นักปีนเขาขึ้นถึงยอดเขา"}
+{"id":"adverbial_adj","th":"เกี่ยวกับคำกริยาวิเศษณ์; ที่ทำหน้าที่เป็นกริยาวิเศษณ์","ex":"In the morning is an adverbial phrase.","exTh":"In the morning เป็นวลีกริยาวิเศษณ์","note":"คำศัพท์ไวยากรณ์"}
+{"id":"oppress_verb","th":"กดขี่; ข่มเหง","ex":"The government oppressed the people for years.","exTh":"รัฐบาลกดขี่ประชาชนมาหลายปี"}
+{"id":"quake_noun","th":"แผ่นดินไหว; การสั่นสะเทือน","ex":"A strong quake shook the city this morning.","exTh":"แผ่นดินไหวรุนแรงทำให้เมืองสั่นสะเทือนเมื่อเช้านี้","note":"ย่อมาจาก earthquake"}
+{"id":"campsite_noun","th":"พื้นที่ตั้งแคมป์; ที่ตั้งค่ายพัก","ex":"We found a nice campsite by the river.","exTh":"เราพบที่ตั้งแคมป์ดีๆ ริมแม่น้ำ"}
+{"id":"innovator_noun","th":"นักนวัตกรรม; ผู้คิดค้นสิ่งใหม่","ex":"She is a famous innovator in the world of technology.","exTh":"เธอเป็นนักนวัตกรรมที่มีชื่อเสียงในวงการเทคโนโลยี"}
+{"id":"irritate_verb","th":"ทำให้รำคาญ; ระคายเคือง","ex":"The loud noise began to irritate me.","exTh":"เสียงดังเริ่มทำให้ฉันรำคาญ"}
+{"id":"toothpaste_noun","th":"ยาสีฟัน","ex":"I need to buy some toothpaste.","exTh":"ฉันต้องซื้อยาสีฟัน"}
+{"id":"untidy_adj","th":"รก; ไม่เป็นระเบียบ","ex":"His desk is always untidy.","exTh":"โต๊ะทำงานของเขารกอยู่เสมอ"}
+{"id":"penniless_adj","th":"ไม่มีเงินสักแดง; ยากจนข้นแค้น","ex":"He arrived in the city penniless.","exTh":"เขามาถึงเมืองโดยไม่มีเงินสักแดงเดียว"}
+{"id":"noisily_adv","th":"อย่างเสียงดัง; อย่างอึกทึก","ex":"The children ran noisily down the stairs.","exTh":"เด็กๆ วิ่งลงบันไดมาอย่างเสียงดัง"}
+{"id":"guitarist_noun","th":"มือกีตาร์; นักกีตาร์","ex":"The guitarist played a beautiful solo.","exTh":"มือกีตาร์เล่นโซโลได้ไพเราะ"}
+{"id":"undress_verb","th":"ถอดเสื้อผ้า; เปลื้องผ้า","ex":"She helped the baby undress before the bath.","exTh":"เธอช่วยถอดเสื้อผ้าทารกก่อนอาบน้ำ"}
+{"id":"dishwasher_noun","th":"เครื่องล้างจาน; คนล้างจาน","ex":"I put the plates in the dishwasher.","exTh":"ฉันใส่จานลงในเครื่องล้างจาน"}
+{"id":"schoolteacher_noun","th":"ครูโรงเรียน","ex":"Her mother is a schoolteacher in a small town.","exTh":"แม่ของเธอเป็นครูโรงเรียนในเมืองเล็กๆ"}
+{"id":"talkative_adj","th":"ช่างพูด; พูดมาก","ex":"My little sister is very talkative.","exTh":"น้องสาวตัวเล็กของฉันช่างพูดมาก"}
+{"id":"overjoyed_adj","th":"ดีใจสุดๆ; ปลื้มปีติมาก","ex":"She was overjoyed to see her old friend.","exTh":"เธอดีใจสุดๆ ที่ได้เจอเพื่อนเก่า"}
+{"id":"intermission_noun","th":"ช่วงพัก; เวลาพักครึ่ง","ex":"We bought drinks during the intermission.","exTh":"เราซื้อเครื่องดื่มในช่วงพัก"}
+{"id":"firefighter_noun","th":"พนักงานดับเพลิง; นักผจญเพลิง","ex":"The firefighter saved the cat from the tree.","exTh":"พนักงานดับเพลิงช่วยแมวลงมาจากต้นไม้"}
+{"id":"tasteless_adj","th":"จืดชืด; ไม่มีรสชาติ; ไม่มีรสนิยม","ex":"The soup was cold and tasteless.","exTh":"ซุปทั้งเย็นและจืดชืด"}
+{"id":"shopper_noun","th":"ผู้ซื้อของ; ลูกค้าที่มาจับจ่าย","ex":"The mall was full of shoppers on Saturday.","exTh":"ห้างสรรพสินค้าเต็มไปด้วยผู้มาจับจ่ายในวันเสาร์"}
+{"id":"uninterested_adj","th":"ไม่สนใจ; เฉยๆ","ex":"He seemed uninterested in the news.","exTh":"เขาดูเหมือนไม่สนใจข่าวนั้น"}
+{"id":"entertainer_noun","th":"ผู้ให้ความบันเทิง; นักแสดง","ex":"The entertainer sang and told jokes.","exTh":"ผู้ให้ความบันเทิงร้องเพลงและเล่าเรื่องตลก"}
+{"id":"golfer_noun","th":"นักกอล์ฟ; คนเล่นกอล์ฟ","ex":"My uncle is a keen golfer.","exTh":"ลุงของฉันเป็นนักกอล์ฟตัวยง"}
+{"id":"unwell_adj","th":"ไม่สบาย; ไม่ค่อยสบาย","ex":"I felt unwell, so I went home early.","exTh":"ฉันรู้สึกไม่สบาย เลยกลับบ้านเร็ว"}
+{"id":"scold_verb","th":"ดุ; ตำหนิ; ว่ากล่าว","ex":"She scolded her son for coming home late.","exTh":"เธอดุลูกชายที่กลับบ้านดึก"}
+{"id":"fluently_adv","th":"อย่างคล่องแคล่ว; อย่างราบรื่น","ex":"He speaks English fluently.","exTh":"เขาพูดภาษาอังกฤษได้อย่างคล่องแคล่ว"}
+{"id":"skyscraper_noun","th":"ตึกระฟ้า","ex":"The city is full of tall skyscrapers.","exTh":"เมืองนี้เต็มไปด้วยตึกระฟ้าสูงใหญ่"}
+{"id":"advert_noun","th":"โฆษณา; ประกาศ","ex":"I saw an advert for a new phone on TV.","exTh":"ฉันเห็นโฆษณาโทรศัพท์รุ่นใหม่ทางทีวี","note":"ภาษาพูดแบบอังกฤษ ย่อจาก advertisement"}
+{"id":"upload_verb","th":"อัปโหลด; ส่งข้อมูลขึ้นเว็บ","ex":"I will upload the photos to the website tonight.","exTh":"คืนนี้ฉันจะอัปโหลดรูปขึ้นเว็บไซต์"}
+{"id":"thunderous_adj","th":"ดังกึกก้อง; ดังสนั่น","ex":"The singer received thunderous applause.","exTh":"นักร้องได้รับเสียงปรบมือดังกึกก้อง"}
+{"id":"narrate_verb","th":"เล่าเรื่อง; บรรยาย","ex":"A famous actor will narrate the film.","exTh":"นักแสดงชื่อดังจะเป็นผู้บรรยายภาพยนตร์เรื่องนี้"}
+{"id":"sandal_noun","th":"รองเท้าแตะ; รองเท้าสวมแบบเปิด","ex":"I wear sandals in the summer.","exTh":"ฉันใส่รองเท้าแตะในฤดูร้อน"}
+{"id":"snowstorm_noun","th":"พายุหิมะ","ex":"The snowstorm closed the airport for two days.","exTh":"พายุหิมะทำให้สนามบินปิดสองวัน"}
+{"id":"procrastination_noun","th":"การผัดวันประกันพรุ่ง; การเลื่อนเวลาทำ","ex":"Procrastination makes it hard to finish my work.","exTh":"การผัดวันประกันพรุ่งทำให้ฉันทำงานให้เสร็จได้ยาก"}
+{"id":"dazzle_noun","th":"แสงเจิดจ้า; ความตระการตา","ex":"The dazzle of the lights hurt my eyes.","exTh":"แสงไฟเจิดจ้าทำให้ตาของฉันเจ็บ"}
+{"id":"feverishly_adv","th":"อย่างรีบร้อนลนลาน; อย่างเร่งรีบ","ex":"She worked feverishly to finish before dawn.","exTh":"เธอทำงานอย่างลนลานเพื่อให้เสร็จก่อนรุ่งเช้า"}
+{"id":"giraffe_noun","th":"ยีราฟ","ex":"A giraffe has a very long neck.","exTh":"ยีราฟมีคอที่ยาวมาก"}
+{"id":"daze_noun","th":"อาการมึนงง; ภาวะงุนงง","ex":"He walked around in a daze after the accident.","exTh":"เขาเดินไปมาด้วยอาการมึนงงหลังเกิดอุบัติเหตุ"}
+{"id":"overwork_noun","th":"การทำงานหนักเกินไป","ex":"Overwork can make you ill.","exTh":"การทำงานหนักเกินไปอาจทำให้คุณป่วยได้"}
+{"id":"nightlife_noun","th":"ชีวิตกลางคืน; แหล่งบันเทิงยามค่ำคืน","ex":"This city is famous for its exciting nightlife.","exTh":"เมืองนี้มีชื่อเสียงเรื่องชีวิตกลางคืนที่คึกคัก"}
+{"id":"hairdresser_noun","th":"ช่างทำผม; ช่างตัดผม","ex":"I have an appointment with my hairdresser at noon.","exTh":"ฉันมีนัดกับช่างทำผมตอนเที่ยง"}
+{"id":"unpack_verb","th":"แกะของออกจากกระเป๋า; เก็บของ","ex":"I will unpack my bags when we arrive.","exTh":"ฉันจะเก็บของออกจากกระเป๋าเมื่อเรามาถึง"}
+{"id":"sneeze_noun","th":"การจาม; เสียงจาม","ex":"He gave a loud sneeze in the quiet room.","exTh":"เขาจามเสียงดังในห้องที่เงียบสงบ"}
+{"id":"sweatshirt_noun","th":"เสื้อสเวตเชิร์ต; เสื้อกันหนาวผ้าฝ้ายหนา","ex":"He wore a gray sweatshirt to the gym.","exTh":"เขาใส่เสื้อสเวตเชิร์ตสีเทาไปยิม"}
+{"id":"barman_noun","th":"บาร์เทนเดอร์; พนักงานชงเครื่องดื่มที่บาร์","ex":"The barman gave us two cold drinks.","exTh":"บาร์เทนเดอร์ยื่นเครื่องดื่มเย็นๆ ให้เราสองแก้ว"}
+{"id":"doze_noun","th":"การงีบหลับ; การหลับสั้นๆ","ex":"I had a short doze on the sofa.","exTh":"ฉันงีบหลับสั้นๆ บนโซฟา"}
+{"id":"unafraid_adj","th":"ไม่กลัว; กล้าหาญ","ex":"The little girl was unafraid of the dark.","exTh":"เด็กหญิงตัวน้อยไม่กลัวความมืด"}
+{"id":"windscreen_noun","th":"กระจกบังลมหน้ารถ","ex":"Rain ran down the windscreen of the car.","exTh":"ฝนไหลลงมาตามกระจกบังลมหน้ารถ","note":"คำแบบอังกฤษ (อเมริกันใช้ windshield)"}
+{"id":"environmentalist_noun","th":"นักอนุรักษ์สิ่งแวดล้อม","ex":"The environmentalist asked people to plant more trees.","exTh":"นักอนุรักษ์สิ่งแวดล้อมขอให้ผู้คนปลูกต้นไม้เพิ่ม"}
+{"id":"teammate_noun","th":"เพื่อนร่วมทีม","ex":"My teammate passed the ball to me.","exTh":"เพื่อนร่วมทีมส่งบอลมาให้ฉัน"}
+{"id":"underage_adj","th":"ต่ำกว่าเกณฑ์อายุตามกฎหมาย; ยังไม่บรรลุนิติภาวะ","ex":"Underage people cannot buy alcohol in shops.","exTh":"ผู้ที่อายุต่ำกว่าเกณฑ์ไม่สามารถซื้อเครื่องดื่มแอลกอฮอล์ในร้านได้"}
+{"id":"easygoing_adj","th":"ใจเย็น; สบายๆ; ไม่จู้จี้","ex":"My boss is very easygoing and kind.","exTh":"เจ้านายของฉันใจเย็นและใจดีมาก"}

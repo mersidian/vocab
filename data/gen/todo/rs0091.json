@@ -1,0 +1,860 @@
+[
+{
+"id": "busy-as-a-bee_idiom",
+"w": "busy as a bee",
+"kind": "idiom",
+"gloss": [
+"Very active; working constantly."
+]
+},
+{
+"id": "have-other-fish-to-fry_idiom",
+"w": "have other fish to fry",
+"kind": "idiom",
+"gloss": [
+"To have more important things to do."
+]
+},
+{
+"id": "potty-mouth_idiom",
+"w": "potty mouth",
+"kind": "idiom",
+"gloss": [
+"A tendency to use vulgar language regularly, especially strong profanities.",
+"A person who uses vulgar language."
+]
+},
+{
+"id": "acquired-taste_idiom",
+"w": "acquired taste",
+"kind": "idiom",
+"gloss": [
+"A taste which is not natural or innate, but which has developed through habit or learning.",
+"Something that is appreciated only after having initially been regarded as unappealing or unpleasant; a person who is regarded as difficult or dislikable but of whom at least some have grown to approve."
+]
+},
+{
+"id": "high-road_idiom",
+"w": "high road",
+"kind": "idiom",
+"gloss": [
+"A main road or highway.",
+"A course of action which is dignified, honourable, or respectable.",
+"Used other than figuratively or idiomatically: see high, road."
+]
+},
+{
+"id": "trick-of-the-trade_idiom",
+"w": "trick of the trade",
+"kind": "idiom",
+"gloss": [
+"A shortcut or other quick, or very effective way of doing things, that professional workers learn from experience."
+]
+},
+{
+"id": "spin-a-yarn_idiom",
+"w": "spin a yarn",
+"kind": "idiom",
+"gloss": [
+"To tell or create a story, especially one which is lengthy or far-fetched."
+]
+},
+{
+"id": "take-the-wheel_idiom",
+"w": "take the wheel",
+"kind": "idiom",
+"gloss": [
+"To be in control of the steering wheel of a vehicle or a vessel.",
+"To assume control of a situation."
+]
+},
+{
+"id": "keep-one-s-cards-close-to-one-s-chest_idiom",
+"w": "keep one's cards close to one's chest",
+"kind": "idiom",
+"gloss": [
+"To avoid revealing one's thoughts, circumstances, or plans.",
+"To hold one's hand close to one's chest so that other players cannot see the cards."
+]
+},
+{
+"id": "away-game_idiom",
+"w": "away game",
+"kind": "idiom",
+"gloss": [
+"An athletic contest played away from the team's home field."
+]
+},
+{
+"id": "proud-as-a-peacock_idiom",
+"w": "proud as a peacock",
+"kind": "idiom",
+"gloss": [
+"Extremely proud."
+]
+},
+{
+"id": "in-all-one-s-glory_idiom",
+"w": "in all one's glory",
+"kind": "idiom",
+"gloss": [
+"In full splendour and power (e.g. of a deity or monarch).",
+"Completely naked."
+]
+},
+{
+"id": "dog-in-the-manger_idiom",
+"w": "dog in the manger",
+"kind": "idiom",
+"gloss": [
+"Someone who denies to others something that the denier cannot use."
+]
+},
+{
+"id": "throw-cold-water-on_idiom",
+"w": "throw cold water on",
+"kind": "idiom",
+"gloss": [
+"(of an achievement, emotion, idea, suggestion, etc.) To belittle or dismiss; to cast doubt upon; to debunk."
+]
+},
+{
+"id": "cold-fish_idiom",
+"w": "cold fish",
+"kind": "idiom",
+"gloss": [
+"A heartless individual; a person lacking empathy and emotion.",
+"A sexual partner who, during sex, lacks vigor or emotional reciprocity."
+]
+},
+{
+"id": "the-ball-is-in-someone-s-court_idiom",
+"w": "the ball is in someone's court",
+"kind": "idiom",
+"gloss": [
+"It is someone's turn to do something; often making a decision."
+]
+},
+{
+"id": "take-to-the-grave_idiom",
+"w": "take to the grave",
+"kind": "idiom",
+"gloss": [
+"To never reveal (a secret)."
+]
+},
+{
+"id": "jump-someone-s-bones_idiom",
+"w": "jump someone's bones",
+"kind": "idiom",
+"gloss": [
+"To have sex with someone; to initiate the physical move.",
+"To attack someone suddenly."
+]
+},
+{
+"id": "stone-dead_idiom",
+"w": "stone dead",
+"kind": "idiom",
+"gloss": [
+"Utterly dead."
+]
+},
+{
+"id": "marriage-bed_idiom",
+"w": "marriage bed",
+"kind": "idiom",
+"gloss": [
+"The bed shared by a newly-married couple.",
+"Sexual activity between a married couple."
+]
+},
+{
+"id": "back-at-you_idiom",
+"w": "back at you",
+"kind": "idiom",
+"gloss": [
+"Used to return a greeting or insult."
+]
+},
+{
+"id": "fishing-expedition_idiom",
+"w": "fishing expedition",
+"kind": "idiom",
+"gloss": [
+"A search for information, especially incriminating information, that is conducted without specific direction or goal, in the hope that something may turn up.",
+"Used other than figuratively or idiomatically: see fishing, expedition. (an outing for catching fish)"
+]
+},
+{
+"id": "know-beans-about_idiom",
+"w": "know beans about",
+"kind": "idiom",
+"gloss": [
+"To know something, even if only a little, about.",
+"To know nothing, or almost nothing, about."
+]
+},
+{
+"id": "eat-my-shorts_idiom",
+"w": "eat my shorts",
+"kind": "idiom",
+"gloss": [
+"An irreverent rebuke or dismissal."
+]
+},
+{
+"id": "trouble-in-paradise_idiom",
+"w": "trouble in paradise",
+"kind": "idiom",
+"gloss": [
+"An unexpected problem in a supposedly positive situation, especially in a marital or romantic relationship."
+]
+},
+{
+"id": "in-someone-s-face_idiom",
+"w": "in someone's face",
+"kind": "idiom",
+"gloss": [
+"Onto or into someone's face.",
+"In front of someone's face; before someone's eyes."
+]
+},
+{
+"id": "what-can-i-say_idiom",
+"w": "what can I say",
+"kind": "idiom",
+"gloss": [
+"Indicating that nothing that could be said would add to or improve the situation."
+]
+},
+{
+"id": "na-na-na-na-boo-boo_idiom",
+"w": "na-na na-na boo-boo",
+"kind": "idiom",
+"gloss": [
+"A taunt or putdown, typically used to indicate that the speaker believes they has beaten the listener in a competition or is better in some other way or in a general sense; or an expression of satisfaction that the listener has received some supposedly deserved minor punishment or misfortune (that is to say, schadenfreude)."
+]
+},
+{
+"id": "stay-tuned_idiom",
+"w": "stay tuned",
+"kind": "idiom",
+"gloss": [
+"To remain as a listener or viewer of the particular radio station or television channel to which one is currently paying attention.",
+"To wait or remain alert (for new developments or for further information)."
+]
+},
+{
+"id": "raise-eyebrows_idiom",
+"w": "raise eyebrows",
+"kind": "idiom",
+"gloss": [
+"To cause surprise.",
+"To cause mild disapproval.",
+"Used other than figuratively or idiomatically: see raise, eyebrows."
+]
+},
+{
+"id": "have-a-mind-of-one-s-own_idiom",
+"w": "have a mind of one's own",
+"kind": "idiom",
+"gloss": [
+"To form one's personal opinions and choose one's actions without being governed by the views or choices of others; to be independently minded; to think for oneself.",
+"To seem to possess animate qualities or a conscious will, especially a will to misbehave."
+]
+},
+{
+"id": "connect-the-dots_idiom",
+"w": "connect the dots",
+"kind": "idiom",
+"gloss": [
+"To attempt to complete a puzzle in which dots on a paper must be connected in a specific order so that the joining lines form a picture.",
+"To make connections in one's mind, in order to arrive at a more holistic understanding of a situation."
+]
+},
+{
+"id": "friendship-with-benefits_idiom",
+"w": "friendship with benefits",
+"kind": "idiom",
+"gloss": [
+"A platonic friendship where the partners engage in sexual activities, but do not consider themselves a couple."
+]
+},
+{
+"id": "work-like-a-horse_idiom",
+"w": "work like a horse",
+"kind": "idiom",
+"gloss": [
+"To work very hard; to toil."
+]
+},
+{
+"id": "fall-into-place_idiom",
+"w": "fall into place",
+"kind": "idiom",
+"gloss": [
+"To assume a clear and complete form when separate elements come together; to be fully realized at last."
+]
+},
+{
+"id": "final-nail-in-the-coffin_idiom",
+"w": "final nail in the coffin",
+"kind": "idiom",
+"gloss": [
+"Something that is ultimately responsible for a previously prospective demise or failure."
+]
+},
+{
+"id": "with-one-s-head-held-high_idiom",
+"w": "with one's head held high",
+"kind": "idiom",
+"gloss": [
+"Proudly, with pride."
+]
+},
+{
+"id": "feel-the-pinch_idiom",
+"w": "feel the pinch",
+"kind": "idiom",
+"gloss": [
+"To suffer a hardship, especially significant financial pressure."
+]
+},
+{
+"id": "boiling-hot_idiom",
+"w": "boiling hot",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see boiling, hot: very hot in a way that involves boiling of water or other liquids.",
+"Extremely hot (having a high temperature: of an object, the weather, a living creature)."
+]
+},
+{
+"id": "in-the-lead_idiom",
+"w": "in the lead",
+"kind": "idiom",
+"gloss": [
+"in first place in a contest, or parade."
+]
+},
+{
+"id": "take-a-turn-for-the-worse_idiom",
+"w": "take a turn for the worse",
+"kind": "idiom",
+"gloss": [
+"To start to become worse; to worsen."
+]
+},
+{
+"id": "come-to-a-close_idiom",
+"w": "come to a close",
+"kind": "idiom",
+"gloss": [
+"To draw toward a conclusion; to end."
+]
+},
+{
+"id": "bust-a-nut_idiom",
+"w": "bust a nut",
+"kind": "idiom",
+"gloss": [
+"To ejaculate.",
+"To work very hard; to put in a lot of effort."
+]
+},
+{
+"id": "play-for-time_idiom",
+"w": "play for time",
+"kind": "idiom",
+"gloss": [
+"To delay a situation until one is prepared."
+]
+},
+{
+"id": "quick-buck_idiom",
+"w": "quick buck",
+"kind": "idiom",
+"gloss": [
+"A large sum of money earned easily and quickly."
+]
+},
+{
+"id": "change-someone-s-mind_idiom",
+"w": "change someone's mind",
+"kind": "idiom",
+"gloss": [
+"To convince someone to make a choice or develop a preference differing from their previous one."
+]
+},
+{
+"id": "slow-march_idiom",
+"w": "slow march",
+"kind": "idiom",
+"gloss": [
+"A controlled walking pace in a deliberate, steady, rhythmic manner.",
+"A march with a relatively slow tempo.",
+"A progression or unfolding of events which occurs in an unhurried, steady, deliberate manner."
+]
+},
+{
+"id": "follow-the-crowd_idiom",
+"w": "follow the crowd",
+"kind": "idiom",
+"gloss": [
+"To conform to majority beliefs, opinions, or practices."
+]
+},
+{
+"id": "to-no-avail_idiom",
+"w": "to no avail",
+"kind": "idiom",
+"gloss": [
+"With no success or benefit; unsuccessfully; to no effect."
+]
+},
+{
+"id": "steal-someone-s-thunder_idiom",
+"w": "steal someone's thunder",
+"kind": "idiom",
+"gloss": [
+"To appropriate someone's ideas or information, typically in order to look better at that person's expense.",
+"To detract from someone's accomplishments or glory; to undermine."
+]
+},
+{
+"id": "say-no-more_idiom",
+"w": "say no more",
+"kind": "idiom",
+"gloss": [
+"What has already been said conveys all the meaning and information needed to draw a conclusion concerning a matter which it would be imprudent to discuss further.",
+"A standard formula to end a conversation, i.e. bye, see you soon."
+]
+},
+{
+"id": "winged-word_idiom",
+"w": "winged word",
+"kind": "idiom",
+"gloss": [
+"A word or statement which is very apt for an occasion, or memorable."
+]
+},
+{
+"id": "stay-in-one-s-lane_idiom",
+"w": "stay in one's lane",
+"kind": "idiom",
+"gloss": [
+"In a way whereby one avoids dilettantism: avoiding giving an opinion in domains where one's skills and knowledge are not at an expert level.",
+"In a way whereby one avoids interfering in others' interests, regardless of skill level.",
+"To keep to one's own kind; to avoid intermixing or associating with other types of people."
+]
+},
+{
+"id": "open-wide_idiom",
+"w": "open wide",
+"kind": "idiom",
+"gloss": [
+"To open one's mouth wide, to gape.",
+"Used other than figuratively or idiomatically: see open, wide."
+]
+},
+{
+"id": "say-when_idiom",
+"w": "say when",
+"kind": "idiom",
+"gloss": [
+"An imperative form used to request that the interlocutor indicate when one should stop doing something, esp. pouring a drink, because one has reached a sufficient amount."
+]
+},
+{
+"id": "new-wine-in-an-old-bottle_idiom",
+"w": "new wine in an old bottle",
+"kind": "idiom",
+"gloss": [
+"A significant change introduced to an entrenched system or method.",
+"A new thing passed off as old."
+]
+},
+{
+"id": "piece-of-the-pie_idiom",
+"w": "piece of the pie",
+"kind": "idiom",
+"gloss": [
+"A personal share of a limited resource.",
+"A piece of the action, usually of one's share from the financial proceeds of an illicit activity.",
+"Used other than figuratively or idiomatically: see piece, pie."
+]
+},
+{
+"id": "off-the-face-of-the-earth_idiom",
+"w": "off the face of the earth",
+"kind": "idiom",
+"gloss": [
+"Used to emphasize the state of cessation, destruction, termination, etc."
+]
+},
+{
+"id": "shot-heard-round-the-world_idiom",
+"w": "shot heard round the world",
+"kind": "idiom",
+"gloss": [
+"The opening volleys of the Battles of Lexington and Concord during the American Revolution.",
+"The shooting of Archduke Franz Ferdinand and Duchess Sophie on 28 June 1914 that was the casus belli of the Great War.",
+"A 1951 home run by Bobby Thomson of the New York Giants"
+]
+},
+{
+"id": "deep-dive_idiom",
+"w": "deep dive",
+"kind": "idiom",
+"gloss": [
+"An act of deep diving.",
+"An in-depth examination or analysis of a topic.",
+"Used other than figuratively or idiomatically: see deep, dive."
+]
+},
+{
+"id": "think-out-loud_idiom",
+"w": "think out loud",
+"kind": "idiom",
+"gloss": [
+"To utter what one is thinking.",
+"To voice one's ideas; to brainstorm."
+]
+},
+{
+"id": "talk-to-a-brick-wall_idiom",
+"w": "talk to a brick wall",
+"kind": "idiom",
+"gloss": [
+"To be completely ignored or disregarded by someone, as if speaking to an inanimate object."
+]
+},
+{
+"id": "everybody-and-his-brother_idiom",
+"w": "everybody and his brother",
+"kind": "idiom",
+"gloss": [
+"Everybody, everyone; also, a large number of people; most people."
+]
+},
+{
+"id": "make-sport-of_idiom",
+"w": "make sport of",
+"kind": "idiom",
+"gloss": [
+"To make fun of someone or something.",
+"Used other than figuratively or idiomatically: see make, sport, of."
+]
+},
+{
+"id": "one-s-place_idiom",
+"w": "one's place",
+"kind": "idiom",
+"gloss": [
+"One's position (location, post, rank stance, status, situation) in life.",
+"One's position in a team, company, etc.",
+"One's social position in a hierarchy."
+]
+},
+{
+"id": "on-the-bubble_idiom",
+"w": "on the bubble",
+"kind": "idiom",
+"gloss": [
+"Holding the last qualifying position with qualification still in progress, and thus liable to lose that position.",
+"Having qualification for an event depend on the upcoming performances of other competitors; hence, at risk of being eliminated, and reversely, being close to qualification; on the verge.",
+"Uncertain of success."
+]
+},
+{
+"id": "on-end_idiom",
+"w": "on end",
+"kind": "idiom",
+"gloss": [
+"without interruption, without stopping, continuously"
+]
+},
+{
+"id": "round-of-applause_idiom",
+"w": "round of applause",
+"kind": "idiom",
+"gloss": [
+"An outburst of clapping among a group or audience."
+]
+},
+{
+"id": "laundry-list_idiom",
+"w": "laundry list",
+"kind": "idiom",
+"gloss": [
+"A long and often tedious list of items.",
+"An unrealistic list of skills, qualifications and experiences, as demanded by employers when hiring staff, or claimed by a candidate on a résumé."
+]
+},
+{
+"id": "aye-aye-sir_idiom",
+"w": "aye aye, sir",
+"kind": "idiom",
+"gloss": [
+"The correct and seamanlike reply, onboard a Royal Navy and US Navy ship, on receipt of an order from someone of senior rank or authority. It means \"I understand the command and hasten to comply with the order.\""
+]
+},
+{
+"id": "bitter-end_idiom",
+"w": "bitter end",
+"kind": "idiom",
+"gloss": [
+"That part of an anchor cable which is abaft the bitts and thus remains inboard when a ship is riding at anchor.",
+"The final six fathoms (11 m) of anchor chain before the point of attachment in the chain locker of modern US naval vessels.",
+"The end of a long and difficult process."
+]
+},
+{
+"id": "get-one-s-wires-crossed_idiom",
+"w": "get one's wires crossed",
+"kind": "idiom",
+"gloss": [
+"To get confused or mixed up about another person's intentions; to misunderstand one another."
+]
+},
+{
+"id": "get-someone-s-goat_idiom",
+"w": "get someone's goat",
+"kind": "idiom",
+"gloss": [
+"To annoy or infuriate someone."
+]
+},
+{
+"id": "get-one-s-ass-in-gear_idiom",
+"w": "get one's ass in gear",
+"kind": "idiom",
+"gloss": [
+"To exert effective effort; to get going; to get moving; to start producing."
+]
+},
+{
+"id": "burst-someone-s-bubble_idiom",
+"w": "burst someone's bubble",
+"kind": "idiom",
+"gloss": [
+"To disillusion; to disabuse someone of a false notion or rationalization that has grown comfortable."
+]
+},
+{
+"id": "easy-street_idiom",
+"w": "easy street",
+"kind": "idiom",
+"gloss": [
+"Chiefly preceded by on: a carefree lifestyle, especially as a result of becoming wealthy, or an easy situation."
+]
+},
+{
+"id": "go-downhill_idiom",
+"w": "go downhill",
+"kind": "idiom",
+"gloss": [
+"To worsen or degenerate."
+]
+},
+{
+"id": "rest-assured_idiom",
+"w": "rest assured",
+"kind": "idiom",
+"gloss": [
+"Be sure; not need to worry; trust."
+]
+},
+{
+"id": "sight-unseen_idiom",
+"w": "sight unseen",
+"kind": "idiom",
+"gloss": [
+"Not having seen the object beforehand."
+]
+},
+{
+"id": "best-of-both-worlds_idiom",
+"w": "best of both worlds",
+"kind": "idiom",
+"gloss": [
+"A combination of two seemingly contradictory benefits."
+]
+},
+{
+"id": "up-to-speed_idiom",
+"w": "up to speed",
+"kind": "idiom",
+"gloss": [
+"Fully informed; current.",
+"Functioning adequately."
+]
+},
+{
+"id": "in-the-works_idiom",
+"w": "in the works",
+"kind": "idiom",
+"gloss": [
+"Being planned or worked upon.",
+"Used other than figuratively or idiomatically: In a mechanism or machine."
+]
+},
+{
+"id": "jump-the-shark_idiom",
+"w": "jump the shark",
+"kind": "idiom",
+"gloss": [
+"Of television program or other narrative, to undergo a storyline development which heralds a fundamental and generally disappointing change in direction.",
+"To experience a decline in quality, appeal, popularity, etc."
+]
+},
+{
+"id": "get-a-life_idiom",
+"w": "get a life",
+"kind": "idiom",
+"gloss": [
+"To begin having a more interesting, eventful, or worthwhile existence."
+]
+},
+{
+"id": "busy-work_idiom",
+"w": "busy work",
+"kind": "idiom",
+"gloss": [
+"Work or activity performed with the intention or result of occupying time, and not necessarily to accomplish something productive; routine work of low priority undertaken for the sake of avoiding idleness."
+]
+},
+{
+"id": "leave-someone-to-their-own-devices_idiom",
+"w": "leave someone to their own devices",
+"kind": "idiom",
+"gloss": [
+"to leave alone, unsupervised, without assistance."
+]
+},
+{
+"id": "up-for-grabs_idiom",
+"w": "up for grabs",
+"kind": "idiom",
+"gloss": [
+"Available for anyone to obtain, claim, decide, or win."
+]
+},
+{
+"id": "take-no-notice-of_idiom",
+"w": "take no notice of",
+"kind": "idiom",
+"gloss": [
+"To ignore."
+]
+},
+{
+"id": "under-glass_idiom",
+"w": "under glass",
+"kind": "idiom",
+"gloss": [
+"In a greenhouse, a cold frame, or a similar structure; said of the propagation and growth of plants.",
+"In a glass case, like an item in a museum.",
+"In jail."
+]
+},
+{
+"id": "gender-bender_idiom",
+"w": "gender bender",
+"kind": "idiom",
+"gloss": [
+"A person who dresses in the clothes of another sex, or in clothes which make their gender identity ambiguous.",
+"An event where people are encouraged to dress in the clothes of another sex, even if they would normally not.",
+"A person capable of changing their physical sex."
+]
+},
+{
+"id": "make-headway_idiom",
+"w": "make headway",
+"kind": "idiom",
+"gloss": [
+"To progress; to move forward."
+]
+},
+{
+"id": "to-the-death_idiom",
+"w": "to the death",
+"kind": "idiom",
+"gloss": [
+"That will continue until one of the contestants dies.",
+"To the utmost degree."
+]
+},
+{
+"id": "play-ball_idiom",
+"w": "play ball",
+"kind": "idiom",
+"gloss": [
+"To start anything tumultuous.",
+"To work together; to cooperate.",
+"An expression used at the beginning of a game of baseball or softball."
+]
+},
+{
+"id": "cut-one-s-teeth_idiom",
+"w": "cut one's teeth",
+"kind": "idiom",
+"gloss": [
+"To begin; to gain early experience."
+]
+},
+{
+"id": "join-the-club_idiom",
+"w": "join the club",
+"kind": "idiom",
+"gloss": [
+"An expression of sympathy for a shared experience."
+]
+},
+{
+"id": "snake-eyes_idiom",
+"w": "snake eyes",
+"kind": "idiom",
+"gloss": [
+"Two ones, after rolling two dice.",
+"A 7-10 split."
+]
+},
+{
+"id": "i-tell-a-lie_idiom",
+"w": "I tell a lie",
+"kind": "idiom",
+"gloss": [
+"I am mistaken; I thought that what I said (or wrote) was true, but I have just realised that it is not."
+]
+},
+{
+"id": "mister-right_idiom",
+"w": "Mister Right",
+"kind": "idiom",
+"gloss": [
+"A perfect, ideal or suitable male companion, especially a husband."
+]
+},
+{
+"id": "shark-bait_idiom",
+"w": "shark bait",
+"kind": "idiom",
+"gloss": [
+"One who is in a precarious or vulnerable position.",
+"One who has been, or is likely to be, attacked by a shark.",
+"A lone swimmer or surfer far from shore."
+]
+},
+{
+"id": "who-shot-john_idiom",
+"w": "who shot John",
+"kind": "idiom",
+"gloss": [
+"Long and involved explanation, finger-pointing, or assignment of credit or blame.",
+"Nonsense; rubbish.",
+"Something bad; a mess."
+]
+}
+]

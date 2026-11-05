@@ -1,0 +1,100 @@
+{"id":"pawn-upon_pv","th":"หลอกให้เชื่อเรื่องโกหก","ex":"He pawned a false story upon the old man.","exTh":"เขาหลอกให้ชายชราเชื่อเรื่องเท็จ","c":1,"note":"ภาษาเก่า"}
+{"id":"pansy-up_pv","th":"แต่งตัวให้ดูอ่อนช้อย","ex":"They pansied up the room with flowers.","exTh":"พวกเขาแต่งห้องให้ดูหวานด้วยดอกไม้","c":1,"note":"สแลงเชิงดูแคลน ควรระวังการใช้"}
+{"id":"kissy-up_pv","th":"ประจบสอพลอ","ex":"He always kissy-ups to the manager.","exTh":"เขาประจบผู้จัดการอยู่เสมอ","c":1,"note":"เหมือน kiss up"}
+{"id":"prank-up_pv","th":"แต่งตัวประดับประดา","ex":"She pranked up before the party.","exTh":"เธอแต่งตัวประดับประดาก่อนไปงานเลี้ยง","c":1,"note":"ภาษาเก่า"}
+{"id":"how-are-you_idiom","th":"สบายดีไหม; เป็นอย่างไรบ้าง","ex":"Hi, how are you? I'm fine, thanks.","exTh":"สวัสดี สบายดีไหม ฉันสบายดี ขอบคุณ","c":5,"note":"คำทักทาย ไม่ต้องตอบละเอียด"}
+{"id":"give-birth_idiom","th":"คลอดบุตร; ให้กำเนิด","ex":"She gave birth to a baby girl last week.","exTh":"เธอคลอดลูกสาวเมื่อสัปดาห์ที่แล้ว","c":4}
+{"id":"fall-asleep_idiom","th":"หลับไป; เผลอหลับ","ex":"I fell asleep on the sofa last night.","exTh":"เมื่อคืนฉันเผลอหลับบนโซฟา","c":5,"note":"รูปผัน fell, fallen"}
+{"id":"fuck-you_idiom","th":"ไปตายซะ; ไปให้พ้น (แสดงความโกรธหรือดูถูก)","ex":"The word is rude and should be avoided at work.","exTh":"คำนี้หยาบคายและไม่ควรใช้ในที่ทำงาน","c":4,"note":"คำหยาบมาก"}
+{"id":"see-you-later_idiom","th":"แล้วเจอกันนะ; ไว้เจอกัน","ex":"I have to go now. See you later!","exTh":"ตอนนี้ฉันต้องไปแล้ว แล้วเจอกันนะ","c":5}
+{"id":"what-s-up_idiom","th":"เป็นไงบ้าง; มีอะไรเหรอ","ex":"Hey, what's up? Do you want to eat out?","exTh":"เฮ้ เป็นไงบ้าง ไปกินข้าวข้างนอกกันไหม","c":5,"note":"ภาษาพูดไม่เป็นทางการ"}
+{"id":"son-of-a-bitch_idiom","th":"ไอ้เลว; ไอ้สารเลว","ex":"He called the thief a son of a bitch.","exTh":"เขาด่าขโมยว่าเป็นไอ้สารเลว","c":4,"note":"คำหยาบ"}
+{"id":"and-so-forth_idiom","th":"และอื่นๆ; เป็นต้น","ex":"We sell shirts, pants, shoes, and so forth.","exTh":"เราขายเสื้อ กางเกง รองเท้า และอื่นๆ","c":4}
+{"id":"never-mind_idiom","th":"ช่างมันเถอะ; ไม่เป็นไร","ex":"Never mind, I will do it myself.","exTh":"ช่างเถอะ ฉันทำเองก็ได้","c":5}
+{"id":"once-again_idiom","th":"อีกครั้งหนึ่ง","ex":"Once again, thank you for your help.","exTh":"ขอบคุณสำหรับความช่วยเหลืออีกครั้งนะ","c":4}
+{"id":"in-vain_idiom","th":"อย่างไร้ผล; เปล่าประโยชน์","ex":"We waited for hours, but it was in vain.","exTh":"เรารอเป็นชั่วโมงแต่ก็ไร้ผล","c":4}
+{"id":"no-way_idiom","th":"ไม่มีทาง; ไม่จริงน่า","ex":"No way! I don't believe you.","exTh":"ไม่มีทาง! ฉันไม่เชื่อเธอ","c":5}
+{"id":"take-part_idiom","th":"เข้าร่วม; มีส่วนร่วม","ex":"Many students took part in the contest.","exTh":"นักเรียนหลายคนเข้าร่วมการแข่งขัน","c":5,"note":"มักใช้ take part in"}
+{"id":"bless-you_idiom","th":"ขอให้พระเจ้าอวยพร (พูดเมื่อมีคนจาม)","ex":"She sneezed, and I said, \"Bless you.\"","exTh":"เธอจาม ฉันจึงพูดว่า \"ขอให้โชคดี\"","c":5}
+{"id":"dead-end_idiom","th":"ทางตัน; ทางตันที่ไปต่อไม่ได้","ex":"The road ends at a dead end.","exTh":"ถนนสายนี้สิ้นสุดที่ทางตัน","c":4}
+{"id":"by-the-way_idiom","th":"ว่าแต่; อนึ่ง; ไหนๆ ก็พูดถึง","ex":"By the way, are you free on Friday?","exTh":"ว่าแต่ วันศุกร์เธอว่างไหม","c":5}
+{"id":"make-fun-of_idiom","th":"ล้อเลียน; เยาะเย้ย","ex":"Don't make fun of her accent.","exTh":"อย่าล้อสำเนียงของเธอ","c":5}
+{"id":"end-of-the-world_idiom","th":"วันสิ้นโลก; เรื่องร้ายแรงที่สุด","ex":"Losing one game is not the end of the world.","exTh":"แพ้เกมเดียวไม่ใช่จุดจบของโลก","c":4}
+{"id":"get-used_idiom","th":"ชินกับ; คุ้นเคยกับ","ex":"I'm getting used to the cold weather.","exTh":"ฉันเริ่มชินกับอากาศหนาวแล้ว","c":5,"note":"มักใช้ get used to"}
+{"id":"crocodile-tear_idiom","th":"น้ำตาจระเข้; น้ำตาเสแสร้ง","ex":"His crocodile tears did not fool anyone.","exTh":"น้ำตาจระเข้ของเขาหลอกใครไม่ได้","c":3}
+{"id":"at-home_idiom","th":"อยู่บ้าน; สบายใจ เหมือนอยู่บ้าน","ex":"Please make yourself at home.","exTh":"ทำตัวตามสบายเหมือนอยู่บ้านนะ","c":5}
+{"id":"get-lost_idiom","th":"ไปให้พ้น; หลงทาง","ex":"Get lost! I'm busy right now.","exTh":"ไปให้พ้น! ตอนนี้ฉันยุ่งอยู่","c":4,"note":"ไม่สุภาพ"}
+{"id":"here-you-are_idiom","th":"นี่ครับ; เชิญครับ (ตอนยื่นของให้)","ex":"Here you are, your coffee.","exTh":"นี่ค่ะ กาแฟของคุณ","c":5}
+{"id":"black-market_idiom","th":"ตลาดมืด","ex":"Tickets were sold on the black market.","exTh":"ตั๋วถูกขายในตลาดมืด","c":4}
+{"id":"keep-quiet_idiom","th":"เงียบไว้; เก็บเป็นความลับ","ex":"Please keep quiet during the movie.","exTh":"กรุณาเงียบระหว่างดูหนัง","c":5}
+{"id":"by-no-means_idiom","th":"ไม่ใช่เลย; ไม่มีทางเป็นเช่นนั้น","ex":"This is by no means an easy job.","exTh":"นี่ไม่ใช่งานง่ายเลย","c":3,"note":"ภาษาค่อนข้างทางการ"}
+{"id":"little-girl_idiom","th":"เด็กหญิงตัวเล็ก; ลูกสาวตัวน้อย","ex":"The little girl waved at her mother.","exTh":"เด็กหญิงตัวน้อยโบกมือให้แม่","c":5}
+{"id":"on-purpose_idiom","th":"โดยตั้งใจ","ex":"I didn't break it on purpose.","exTh":"ฉันไม่ได้ตั้งใจทำมันพัง","c":5}
+{"id":"in-any-case_idiom","th":"อย่างไรก็ตาม; ยังไงก็ตาม","ex":"In any case, we should leave soon.","exTh":"ยังไงเราก็ควรไปเร็วๆ นี้","c":4}
+{"id":"god-forbid_idiom","th":"ขออย่าให้เกิดขึ้นเลย","ex":"God forbid, but what if he gets sick?","exTh":"ขออย่าให้เป็นอย่างนั้น แต่ถ้าเขาป่วยล่ะ","c":3}
+{"id":"when-pigs-fly_idiom","th":"หมูเห็นเห่าหอน; ไม่มีวันเกิดขึ้น","ex":"He'll clean his room when pigs fly.","exTh":"เขาจะเก็บห้องเมื่อไหร่ก็เมื่อหมูบินได้","c":3}
+{"id":"beat-around-the-bush_idiom","th":"พูดอ้อมค้อม","ex":"Stop beating around the bush and tell me.","exTh":"เลิกพูดอ้อมค้อมแล้วบอกฉันมาเลย","c":4}
+{"id":"as-well_idiom","th":"ด้วยเช่นกัน; ด้วย","ex":"I'd like some tea as well.","exTh":"ฉันขอชาด้วยเหมือนกัน","c":5}
+{"id":"from-time-to-time_idiom","th":"เป็นครั้งคราว","ex":"We visit our grandparents from time to time.","exTh":"เราไปเยี่ยมปู่ย่าเป็นครั้งคราว","c":5}
+{"id":"as-soon-as_idiom","th":"ทันทีที่; ทันทีเมื่อ","ex":"Call me as soon as you arrive.","exTh":"โทรหาฉันทันทีที่เธอถึง","c":5}
+{"id":"holy-shit_idiom","th":"โอ้โห; บ้าไปแล้ว (ตกใจมาก)","ex":"The line was long, and he said, \"Holy shit.\"","exTh":"แถวยาวมาก เขาก็อุทานด้วยความตกใจ","c":4,"note":"คำหยาบ"}
+{"id":"middle-of-nowhere_idiom","th":"ที่ห่างไกลปืนเที่ยง; กลางป่ากลางเขา","ex":"Their house is in the middle of nowhere.","exTh":"บ้านของพวกเขาอยู่ไกลปืนเที่ยง","c":4}
+{"id":"at-last_idiom","th":"ในที่สุด","ex":"At last, the bus arrived.","exTh":"ในที่สุดรถเมล์ก็มาถึง","c":5}
+{"id":"right-away_idiom","th":"ทันที; เดี๋ยวนี้","ex":"I'll do it right away.","exTh":"ฉันจะทำเดี๋ยวนี้เลย","c":5}
+{"id":"make-sense_idiom","th":"สมเหตุสมผล; เข้าใจได้","ex":"His story does not make sense.","exTh":"เรื่องที่เขาเล่าฟังไม่สมเหตุสมผล","c":5}
+{"id":"let-alone_idiom","th":"ไม่ต้องพูดถึง; อย่าว่าแต่","ex":"I can't swim, let alone dive.","exTh":"ฉันว่ายน้ำยังไม่เป็น อย่าว่าแต่ดำน้ำ","c":4}
+{"id":"kick-the-bucket_idiom","th":"ตาย (ภาษาสแลง)","ex":"The old car finally kicked the bucket.","exTh":"รถเก่าคันนั้นในที่สุดก็เจ๊ง","c":3,"note":"สแลงเชิงตลก"}
+{"id":"not-at-all_idiom","th":"ไม่เลย; ไม่เป็นไร ไม่ต้องขอบคุณ","ex":"\"Thanks for your help.\" \"Not at all.\"","exTh":"\"ขอบคุณที่ช่วยนะ\" \"ไม่เป็นไรเลย\"","c":4}
+{"id":"bit-by-bit_idiom","th":"ทีละนิด; ค่อยเป็นค่อยไป","ex":"He learned English bit by bit.","exTh":"เขาเรียนภาษาอังกฤษไปทีละนิด","c":4}
+{"id":"if-only_idiom","th":"ถ้าเพียงแต่; รู้อย่างนี้","ex":"If only I had more time!","exTh":"ถ้าฉันมีเวลามากกว่านี้นะ","c":4}
+{"id":"kick-ass_idiom","th":"เจ๋งสุดๆ; ชนะขาด","ex":"That movie was totally kick-ass.","exTh":"หนังเรื่องนั้นเจ๋งสุดๆ","c":3,"note":"สแลง ค่อนข้างหยาบ"}
+{"id":"now-and-then_idiom","th":"บางครั้งบางคราว","ex":"We eat out now and then.","exTh":"เรากินข้าวนอกบ้านบางครั้งบางคราว","c":5}
+{"id":"at-all_idiom","th":"เลย; แม้แต่น้อย","ex":"I don't like it at all.","exTh":"ฉันไม่ชอบมันเลย","c":5}
+{"id":"so-far_idiom","th":"จนถึงตอนนี้; ที่ผ่านมา","ex":"So far, everything is going well.","exTh":"จนถึงตอนนี้ทุกอย่างราบรื่นดี","c":5}
+{"id":"get-out-of-here_idiom","th":"ไปให้พ้น; ไม่จริงน่า","ex":"Get out of here! You won the lottery?","exTh":"ไม่จริงน่า! เธอถูกลอตเตอรี่เหรอ","c":4,"note":"ภาษาพูด"}
+{"id":"on-the-other-hand_idiom","th":"ในทางกลับกัน; อีกแง่หนึ่ง","ex":"It's cheap. On the other hand, it's slow.","exTh":"มันถูก แต่ในอีกแง่หนึ่งมันช้า","c":5}
+{"id":"long-time-no-see_idiom","th":"ไม่เจอกันนานเลยนะ","ex":"Hey, long time no see!","exTh":"เฮ้ ไม่เจอกันนานเลย","c":5,"note":"ภาษาพูดไม่เป็นทางการ"}
+{"id":"after-all_idiom","th":"ท้ายที่สุดแล้ว; ก็เพราะ","ex":"He was right after all.","exTh":"ท้ายที่สุดเขาก็พูดถูก","c":5}
+{"id":"chess-piece_idiom","th":"ตัวหมากรุก; หมากในเกมการเมือง","ex":"He was only a chess piece in their plan.","exTh":"เขาเป็นแค่หมากตัวหนึ่งในแผนของพวกเขา","c":3}
+{"id":"pot-calling-the-kettle-black_idiom","th":"ขี้ใต้ถุนยังไม่รู้ ใครว่าคนอื่นเหม็น","ex":"You calling me lazy is the pot calling the kettle black.","exTh":"เธอว่าฉันขี้เกียจ นี่มันหม้อว่ากาดำชัดๆ","c":3}
+{"id":"what-s-the-matter_idiom","th":"เป็นอะไรไป; มีปัญหาอะไร","ex":"What's the matter? You look sad.","exTh":"เป็นอะไรไป ดูเศร้าจัง","c":5}
+{"id":"green-light_idiom","th":"ไฟเขียว; อนุมัติ","ex":"The boss gave the project the green light.","exTh":"หัวหน้าให้ไฟเขียวโครงการนี้","c":4}
+{"id":"between-a-rock-and-a-hard-place_idiom","th":"อยู่ในสถานการณ์คับขัน; เข้าตาจน","ex":"I'm between a rock and a hard place.","exTh":"ฉันตกอยู่ในสถานการณ์เข้าตาจน","c":3}
+{"id":"brain-drain_idiom","th":"สมองไหล","ex":"The country suffers from a brain drain.","exTh":"ประเทศนี้ประสบปัญหาสมองไหล","c":4}
+{"id":"feel-like_idiom","th":"รู้สึกอยากทำ; รู้สึกเหมือน","ex":"I don't feel like cooking tonight.","exTh":"คืนนี้ฉันไม่อยากทำอาหาร","c":5}
+{"id":"out-of-order_idiom","th":"เสีย ใช้ไม่ได้; ผิดลำดับ","ex":"The elevator is out of order.","exTh":"ลิฟต์เสีย","c":5}
+{"id":"how-s-the-weather_idiom","th":"อากาศเป็นยังไงบ้าง","ex":"How's the weather in Chiang Mai today?","exTh":"วันนี้อากาศที่เชียงใหม่เป็นยังไงบ้าง","c":4}
+{"id":"it-s-all-greek-to-me_idiom","th":"ฉันไม่เข้าใจเลยสักนิด","ex":"This contract is all Greek to me.","exTh":"สัญญานี้ฉันไม่เข้าใจเลย","c":3}
+{"id":"queen-bee_idiom","th":"ผึ้งนางพญา; ผู้หญิงที่เป็นใหญ่ในกลุ่ม","ex":"She is the queen bee of the office.","exTh":"เธอเป็นใหญ่ในกลุ่มที่ทำงาน","c":3}
+{"id":"don-t-worry_idiom","th":"ไม่ต้องกังวล; ไม่เป็นไร","ex":"Don't worry, I'll help you.","exTh":"ไม่ต้องห่วง ฉันจะช่วยเอง","c":5}
+{"id":"kill-two-birds-with-one-stone_idiom","th":"ยิงปืนนัดเดียวได้นกสองตัว","ex":"Cycling to work kills two birds with one stone.","exTh":"ปั่นจักรยานไปทำงานได้ประโยชน์สองอย่างพร้อมกัน","c":4}
+{"id":"pay-attention_idiom","th":"ตั้งใจฟัง; ใส่ใจ","ex":"Please pay attention to the teacher.","exTh":"กรุณาตั้งใจฟังครู","c":5}
+{"id":"first-love_idiom","th":"รักแรก","ex":"She never forgot her first love.","exTh":"เธอไม่เคยลืมรักแรกของเธอ","c":4}
+{"id":"hit-and-run_idiom","th":"ชนแล้วหนี","ex":"The driver was arrested for a hit-and-run.","exTh":"คนขับถูกจับข้อหาชนแล้วหนี","c":4}
+{"id":"catch-a-cold_idiom","th":"เป็นหวัด","ex":"I caught a cold after the rain.","exTh":"ฉันเป็นหวัดหลังตากฝน","c":5}
+{"id":"change-one-s-mind_idiom","th":"เปลี่ยนใจ","ex":"She changed her mind about the trip.","exTh":"เธอเปลี่ยนใจเรื่องการเดินทาง","c":5}
+{"id":"gold-mine_idiom","th":"เหมืองทอง; แหล่งทำเงิน","ex":"Their small shop is a gold mine.","exTh":"ร้านเล็กๆ ของพวกเขาเป็นแหล่งทำเงิน","c":4}
+{"id":"cheat-sheet_idiom","th":"โพยสรุป; แผ่นสรุปย่อ","ex":"I made a cheat sheet for the exam.","exTh":"ฉันทำโพยสรุปไว้สำหรับสอบ","c":4}
+{"id":"the-other-day_idiom","th":"เมื่อวันก่อน","ex":"I saw your brother the other day.","exTh":"เมื่อวันก่อนฉันเจอพี่ชายเธอ","c":5}
+{"id":"on-the-way_idiom","th":"กำลังเดินทางไป; ระหว่างทาง","ex":"I'm on the way to your house.","exTh":"ฉันกำลังไปบ้านเธอ","c":5}
+{"id":"eye-for-an-eye_idiom","th":"ตาต่อตา; ฟันต่อฟัน","ex":"An eye for an eye leaves everyone blind.","exTh":"ตาต่อตาทำให้ทุกคนตาบอด","c":3}
+{"id":"call-it-a-day_idiom","th":"เลิกงานวันนี้; พอแค่นี้","ex":"We're tired, so let's call it a day.","exTh":"เราเหนื่อยแล้ว เลิกแค่นี้เถอะ","c":4}
+{"id":"rain-cats-and-dogs_idiom","th":"ฝนตกหนักมาก","ex":"It was raining cats and dogs outside.","exTh":"ข้างนอกฝนตกหนักมาก","c":4}
+{"id":"food-chain_idiom","th":"ห่วงโซ่อาหาร","ex":"Small fish are low in the food chain.","exTh":"ปลาตัวเล็กอยู่ต่ำในห่วงโซ่อาหาร","c":4}
+{"id":"in-spite-of_idiom","th":"ทั้งๆ ที่; แม้ว่า","ex":"They played in spite of the rain.","exTh":"พวกเขาเล่นต่อทั้งที่ฝนตก","c":5}
+{"id":"banana-republic_idiom","th":"ประเทศกล้วย (ประเทศเล็กที่การเมืองไม่มั่นคง)","ex":"Critics called the country a banana republic.","exTh":"นักวิจารณ์เรียกประเทศนั้นว่าเป็นประเทศกล้วย","c":3}
+{"id":"at-large_idiom","th":"หลบหนีอยู่; โดยรวม","ex":"The thief is still at large.","exTh":"ขโมยยังหลบหนีอยู่","c":4}
+{"id":"turning-point_idiom","th":"จุดเปลี่ยน","ex":"That year was a turning point in his life.","exTh":"ปีนั้นเป็นจุดเปลี่ยนในชีวิตของเขา","c":4}
+{"id":"first-of-all_idiom","th":"ก่อนอื่น; อันดับแรก","ex":"First of all, wash your hands.","exTh":"ก่อนอื่นให้ล้างมือก่อน","c":5}
+{"id":"at-first_idiom","th":"ตอนแรก; ในตอนต้น","ex":"At first, I didn't like the food.","exTh":"ตอนแรกฉันไม่ชอบอาหารนี้","c":5}
+{"id":"night-owl_idiom","th":"คนนอนดึก; นกฮูกกลางคืน","ex":"My sister is a night owl.","exTh":"น้องสาวของฉันเป็นคนนอนดึก","c":4}
+{"id":"in-order_idiom","th":"เรียงตามลำดับ; เรียบร้อย","ex":"Please put the cards in order.","exTh":"กรุณาเรียงการ์ดตามลำดับ","c":5}
+{"id":"beat-it_idiom","th":"ไปให้พ้น","ex":"Beat it! I'm trying to sleep.","exTh":"ไปให้พ้น! ฉันกำลังจะนอน","c":3,"note":"สแลง ไม่สุภาพ"}
+{"id":"pardon-me_idiom","th":"ขอโทษนะ; ขออภัย","ex":"Pardon me, is this seat taken?","exTh":"ขอโทษนะคะ ที่นั่งนี้มีคนจองไหม","c":5}
+{"id":"say-goodbye_idiom","th":"บอกลา","ex":"We said goodbye at the station.","exTh":"เราบอกลากันที่สถานี","c":5}
+{"id":"about-to_idiom","th":"กำลังจะ","ex":"The movie is about to start.","exTh":"หนังกำลังจะเริ่มแล้ว","c":5}
+{"id":"think-tank_idiom","th":"คลังสมอง; สถาบันวิจัยนโยบาย","ex":"A think tank published a report on housing.","exTh":"คลังสมองแห่งหนึ่งเผยแพร่รายงานเรื่องที่อยู่อาศัย","c":4}
+{"id":"heat-wave_idiom","th":"คลื่นความร้อน","ex":"A heat wave hit the city this week.","exTh":"คลื่นความร้อนเข้าปกคลุมเมืองสัปดาห์นี้","c":4}
+{"id":"speak-of-the-devil_idiom","th":"พูดถึงใครคนนั้นก็มาพอดี","ex":"Speak of the devil, here comes Tom.","exTh":"พูดถึงใครคนนั้นก็มาพอดี ทอมมาแล้ว","c":4}
+{"id":"piece-of-cake_idiom","th":"ง่ายนิดเดียว","ex":"The test was a piece of cake.","exTh":"ข้อสอบง่ายนิดเดียว","c":5}
+{"id":"big-deal_idiom","th":"เรื่องใหญ่; เรื่องสำคัญ","ex":"It's no big deal. Don't worry.","exTh":"ไม่ใช่เรื่องใหญ่หรอก ไม่ต้องกังวล","c":5}

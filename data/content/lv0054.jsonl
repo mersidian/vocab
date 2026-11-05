@@ -1,0 +1,100 @@
+{"id":"extensive_adj","th":"กว้างขวาง; ครอบคลุม; มากมาย","ex":"The storm caused extensive damage to the town.","exTh":"พายุสร้างความเสียหายอย่างกว้างขวางให้กับเมือง"}
+{"id":"attached_adj","th":"ผูกพัน; แนบมา; ติดอยู่","ex":"She is very attached to her grandmother.","exTh":"เธอผูกพันกับคุณย่ามาก"}
+{"id":"copper_noun","th":"ทองแดง","ex":"Copper is often used in electric wires.","exTh":"ทองแดงมักใช้ทำสายไฟฟ้า"}
+{"id":"inch_verb","th":"ค่อยๆ ขยับ; คืบไปทีละน้อย","ex":"The traffic inched forward slowly.","exTh":"รถติดค่อยๆ ขยับไปข้างหน้าทีละนิด"}
+{"id":"user_noun","th":"ผู้ใช้; ผู้ใช้งาน","ex":"The app has over a million active users.","exTh":"แอปนี้มีผู้ใช้งานจริงมากกว่าหนึ่งล้านคน"}
+{"id":"recognition_noun","th":"การยอมรับ; การจดจำ; การยกย่อง","ex":"She received recognition for her hard work.","exTh":"เธอได้รับการยกย่องในความทุ่มเทของเธอ"}
+{"id":"treaty_noun","th":"สนธิสัญญา; ข้อตกลงระหว่างประเทศ","ex":"The two countries signed a peace treaty.","exTh":"สองประเทศลงนามในสนธิสัญญาสันติภาพ"}
+{"id":"consistent_adj","th":"สม่ำเสมอ; คงเส้นคงวา; สอดคล้องกัน","ex":"She is a consistent player who rarely makes mistakes.","exTh":"เธอเป็นนักกีฬาที่เล่นได้สม่ำเสมอและไม่ค่อยพลาด"}
+{"id":"identify_verb","th":"ระบุ; ชี้ตัว; จำได้","ex":"Can you identify the man in this photo?","exTh":"คุณระบุได้ไหมว่าผู้ชายในรูปนี้เป็นใคร"}
+{"id":"certificate_noun","th":"ใบรับรอง; วุฒิบัตร; ใบประกาศนียบัตร","ex":"You need a birth certificate to apply for a passport.","exTh":"คุณต้องมีใบสูติบัตรเพื่อขอทำหนังสือเดินทาง"}
+{"id":"sentence_verb","th":"ตัดสินโทษ; พิพากษา","ex":"The judge sentenced him to two years in prison.","exTh":"ผู้พิพากษาตัดสินจำคุกเขาสองปี"}
+{"id":"input_noun","th":"ข้อมูลที่ป้อนเข้า; ความคิดเห็น; ปัจจัยนำเข้า","ex":"We would like your input on the new design.","exTh":"เราอยากได้ความคิดเห็นของคุณต่อการออกแบบใหม่"}
+{"id":"necessarily_adv","th":"จำเป็นต้อง; แน่นอนเสมอไป","ex":"Expensive food is not necessarily better.","exTh":"อาหารแพงไม่จำเป็นต้องดีกว่าเสมอไป"}
+{"id":"core_noun","th":"แกนกลาง; แก่น; แกนผลไม้","ex":"Remove the core of the apple before you cut it.","exTh":"เอาแกนแอปเปิลออกก่อนหั่น"}
+{"id":"version_noun","th":"ฉบับ; รุ่น; เวอร์ชัน; เรื่องเล่าในมุมของแต่ละคน","ex":"I downloaded the latest version of the app.","exTh":"ฉันดาวน์โหลดแอปเวอร์ชันล่าสุดแล้ว"}
+{"id":"witness_noun","th":"พยาน; ผู้เห็นเหตุการณ์","ex":"A witness saw the accident and called the police.","exTh":"พยานเห็นอุบัติเหตุและโทรแจ้งตำรวจ"}
+{"id":"consent_noun","th":"ความยินยอม; การอนุญาต","ex":"Children need their parents' consent to join the trip.","exTh":"เด็กๆ ต้องได้รับความยินยอมจากผู้ปกครองจึงจะไปทริปได้"}
+{"id":"interior_noun","th":"ภายใน; ส่วนใน; ภายในประเทศ","ex":"The interior of the car smells new.","exTh":"ภายในรถมีกลิ่นของใหม่"}
+{"id":"characteristic_adj","th":"ซึ่งเป็นลักษณะเฉพาะ; ที่เป็นเอกลักษณ์","ex":"She spoke with her characteristic honesty.","exTh":"เธอพูดด้วยความตรงไปตรงมาแบบที่เป็นลักษณะของเธอ"}
+{"id":"creation_noun","th":"การสร้าง; ผลงาน; สิ่งสร้างสรรค์","ex":"The creation of the website took three months.","exTh":"การสร้างเว็บไซต์ใช้เวลาสามเดือน"}
+{"id":"variation_noun","th":"ความแตกต่าง; ความหลากหลาย; รูปแบบที่ต่างไป","ex":"There is a lot of variation in prices between shops.","exTh":"ราคาแต่ละร้านต่างกันมาก"}
+{"id":"campaign_noun","th":"การรณรงค์; แคมเปญ","ex":"The city launched a campaign to keep streets clean.","exTh":"เมืองเริ่มรณรงค์ให้ถนนสะอาด"}
+{"id":"exception_noun","th":"ข้อยกเว้น; กรณียกเว้น","ex":"Everyone came on time, with one exception.","exTh":"ทุกคนมาตรงเวลา ยกเว้นคนเดียว"}
+{"id":"navy_noun","th":"กองทัพเรือ; สีน้ำเงินเข้ม","ex":"My uncle served in the navy for ten years.","exTh":"ลุงของฉันรับราชการในกองทัพเรือสิบปี"}
+{"id":"fluid_adj","th":"ที่เป็นของเหลว; ลื่นไหล; เปลี่ยนแปลงได้","ex":"The plan is still fluid and may change.","exTh":"แผนยังไม่ตายตัวและอาจเปลี่ยนแปลงได้"}
+{"id":"frame_verb","th":"ใส่กรอบ; วางกรอบ; ใส่ร้าย","ex":"She framed the photo and hung it on the wall.","exTh":"เธอใส่กรอบรูปแล้วแขวนบนผนัง"}
+{"id":"cast_noun","th":"นักแสดง; ทีมนักแสดง; เฝือก","ex":"The whole cast came on stage at the end.","exTh":"นักแสดงทั้งหมดขึ้นเวทีตอนจบ"}
+{"id":"cast_verb","th":"ทอด; โยน; เลือกนักแสดง","ex":"He cast a net into the river.","exTh":"เขาทอดแหลงในแม่น้ำ","note":"รูปผันคือ cast, cast"}
+{"id":"significantly_adv","th":"อย่างมีนัยสำคัญ; อย่างมาก","ex":"Prices have risen significantly this year.","exTh":"ราคาสูงขึ้นอย่างมากในปีนี้"}
+{"id":"flat_adv","th":"ราบ; เรียบ; ตรงๆ; พอดี","ex":"He lay flat on his back and looked at the sky.","exTh":"เขานอนราบกับพื้นแล้วมองท้องฟ้า"}
+{"id":"route_noun","th":"เส้นทาง; เส้นทางเดินรถ; ทางผ่าน","ex":"What is the fastest route to the airport?","exTh":"เส้นทางไปสนามบินที่เร็วที่สุดคือทางไหน"}
+{"id":"identification_noun","th":"การระบุตัวตน; บัตรประจำตัว; หลักฐานแสดงตัว","ex":"Please show some identification at the door.","exTh":"กรุณาแสดงบัตรประจำตัวที่ประตู"}
+{"id":"necessity_noun","th":"ความจำเป็น; สิ่งจำเป็น","ex":"Water is a basic necessity of life.","exTh":"น้ำเป็นสิ่งจำเป็นพื้นฐานของชีวิต"}
+{"id":"prime_adj","th":"หลัก; สำคัญที่สุด; ดีเลิศ","ex":"The prime reason for the delay was bad weather.","exTh":"สาเหตุหลักของความล่าช้าคือสภาพอากาศไม่ดี"}
+{"id":"substance_noun","th":"สาร; สสาร; เนื้อหาสาระ","ex":"This substance can be dangerous if you touch it.","exTh":"สารชนิดนี้อาจเป็นอันตรายถ้าสัมผัส"}
+{"id":"dated_adj","th":"ล้าสมัย; เชยไปแล้ว; ระบุวันที่","ex":"The design of this room looks very dated.","exTh":"การตกแต่งห้องนี้ดูล้าสมัยมาก"}
+{"id":"track_verb","th":"ติดตาม; ตามรอย; ตรวจสอบสถานะ","ex":"You can track your package online.","exTh":"คุณติดตามพัสดุของคุณทางออนไลน์ได้"}
+{"id":"parliament_noun","th":"รัฐสภา; สภา","ex":"Parliament will vote on the new law tomorrow.","exTh":"รัฐสภาจะลงมติกฎหมายฉบับใหม่ในวันพรุ่งนี้"}
+{"id":"earnings_noun","th":"รายได้; ผลกำไร; เงินที่หามาได้","ex":"His earnings from the shop are quite low.","exTh":"รายได้ของเขาจากร้านค่อนข้างน้อย","note":"ใช้เป็นรูปพหูพจน์เสมอ"}
+{"id":"transition_noun","th":"การเปลี่ยนผ่าน; การเปลี่ยนแปลง","ex":"The transition to a new job can be stressful.","exTh":"การเปลี่ยนไปทำงานใหม่อาจทำให้เครียดได้"}
+{"id":"psychology_noun","th":"จิตวิทยา; ความคิดและพฤติกรรม","ex":"She studies psychology at university.","exTh":"เธอเรียนจิตวิทยาที่มหาวิทยาลัย"}
+{"id":"creek_noun","th":"ลำธารเล็ก; ลำห้วย","ex":"The children played by the creek behind the house.","exTh":"เด็กๆ เล่นที่ลำธารหลังบ้าน"}
+{"id":"comprehensive_adj","th":"ครอบคลุม; ละเอียดครบถ้วน","ex":"The guide gives a comprehensive list of hotels.","exTh":"คู่มือเล่มนี้มีรายชื่อโรงแรมครบถ้วนครอบคลุม"}
+{"id":"shift_noun","th":"กะทำงาน; การเปลี่ยนแปลง; การเลื่อน","ex":"She works the night shift at the hospital.","exTh":"เธอทำงานกะกลางคืนที่โรงพยาบาล"}
+{"id":"transmission_noun","th":"การส่งต่อ; การถ่ายทอด; ระบบเกียร์","ex":"The transmission of the virus is very fast.","exTh":"การแพร่เชื้อไวรัสนี้เร็วมาก"}
+{"id":"perspective_noun","th":"มุมมอง; ทัศนคติ; ทัศนียภาพ","ex":"Try to see the problem from her perspective.","exTh":"ลองมองปัญหานี้ในมุมของเธอดู"}
+{"id":"wire_verb","th":"เดินสายไฟ; โอนเงินผ่านธนาคาร; ต่อสาย","ex":"He wired the house himself.","exTh":"เขาเดินสายไฟในบ้านด้วยตัวเอง"}
+{"id":"wait_noun","th":"การรอ; ช่วงเวลาที่รอ","ex":"The wait for a table was almost an hour.","exTh":"ต้องรอโต๊ะเกือบหนึ่งชั่วโมง"}
+{"id":"contemporary_adj","th":"ร่วมสมัย; ปัจจุบัน; ในยุคเดียวกัน","ex":"The museum has a lot of contemporary art.","exTh":"พิพิธภัณฑ์มีงานศิลปะร่วมสมัยมากมาย"}
+{"id":"challenge_verb","th":"ท้าทาย; ตั้งคำถาม; โต้แย้ง","ex":"Students should challenge ideas they don't agree with.","exTh":"นักเรียนควรตั้งคำถามกับความคิดที่ไม่เห็นด้วย"}
+{"id":"preliminary_adj","th":"เบื้องต้น; ขั้นต้น; เตรียมการ","ex":"The preliminary results look very good.","exTh":"ผลเบื้องต้นดูดีมาก"}
+{"id":"mill_noun","th":"โรงสี; โรงงาน; เครื่องบด","ex":"The old mill by the river is now a café.","exTh":"โรงสีเก่าริมแม่น้ำตอนนี้เป็นคาเฟ่"}
+{"id":"client_noun","th":"ลูกค้า; ผู้ใช้บริการ; ลูกความ","ex":"I have a meeting with a client at ten.","exTh":"ฉันมีนัดประชุมกับลูกค้าตอนสิบโมง"}
+{"id":"select_verb","th":"เลือก; คัดเลือก","ex":"Please select your seat on the screen.","exTh":"กรุณาเลือกที่นั่งของคุณบนหน้าจอ"}
+{"id":"wheat_noun","th":"ข้าวสาลี","ex":"Bread is made from wheat flour.","exTh":"ขนมปังทำจากแป้งข้าวสาลี"}
+{"id":"stability_noun","th":"เสถียรภาพ; ความมั่นคง","ex":"Many people want job stability.","exTh":"หลายคนต้องการความมั่นคงในหน้าที่การงาน"}
+{"id":"applicant_noun","th":"ผู้สมัคร; ผู้ยื่นคำขอ","ex":"There were fifty applicants for the job.","exTh":"มีผู้สมัครงานตำแหน่งนี้ห้าสิบคน"}
+{"id":"satisfactory_adj","th":"น่าพอใจ; เป็นที่ยอมรับได้","ex":"Your work is satisfactory, but it could be better.","exTh":"งานของคุณอยู่ในเกณฑ์น่าพอใจ แต่ยังพัฒนาได้อีก"}
+{"id":"guard_verb","th":"เฝ้า; ป้องกัน; คุ้มกัน","ex":"A big dog guards the house at night.","exTh":"สุนัขตัวใหญ่เฝ้าบ้านตอนกลางคืน"}
+{"id":"biological_adj","th":"ทางชีววิทยา; เกี่ยวกับสิ่งมีชีวิต; ทางสายเลือด","ex":"He met his biological father for the first time.","exTh":"เขาพบพ่อแท้ๆ เป็นครั้งแรก"}
+{"id":"fellow_adj","th":"เพื่อน-; ร่วม-; ที่เป็นพวกเดียวกัน","ex":"I talked with my fellow students after class.","exTh":"ฉันคุยกับเพื่อนนักเรียนหลังเลิกเรียน"}
+{"id":"mixture_noun","th":"ส่วนผสม; สิ่งที่ผสมกัน","ex":"Add the mixture of flour and eggs to the pan.","exTh":"ใส่ส่วนผสมแป้งกับไข่ลงในกระทะ"}
+{"id":"willing_adj","th":"เต็มใจ; ยินดี","ex":"Are you willing to work on weekends?","exTh":"คุณยินดีทำงานวันหยุดสุดสัปดาห์ไหม"}
+{"id":"universal_adj","th":"สากล; ทั่วไป; ใช้ได้กับทุกคน","ex":"Music is a universal language.","exTh":"ดนตรีเป็นภาษาสากล"}
+{"id":"considering_conj","th":"เมื่อพิจารณาว่า; เมื่อคำนึงถึงว่า","ex":"He did well, considering he had no time to prepare.","exTh":"เขาทำได้ดีทีเดียว เมื่อคิดว่าเขาไม่มีเวลาเตรียมตัว"}
+{"id":"considering_prep","th":"เมื่อพิจารณาถึง; เมื่อเทียบกับ","ex":"Considering the weather, the trip went well.","exTh":"เมื่อคำนึงถึงสภาพอากาศ ทริปนี้ก็ผ่านไปด้วยดี"}
+{"id":"struggle_verb","th":"ดิ้นรน; ต่อสู้; พยายามอย่างยากลำบาก","ex":"Many students struggle with math at first.","exTh":"นักเรียนหลายคนลำบากกับวิชาคณิตศาสตร์ตอนแรกๆ"}
+{"id":"province_noun","th":"จังหวัด; แคว้น; มณฑล","ex":"Chiang Mai is a province in northern Thailand.","exTh":"เชียงใหม่เป็นจังหวัดทางภาคเหนือของประเทศไทย"}
+{"id":"dear_noun","th":"ที่รัก; คนที่น่ารัก","ex":"Thank you, dear, you are so kind.","exTh":"ขอบคุณนะจ๊ะที่รัก ใจดีจริงๆ","note":"ใช้เรียกคนที่สนิท"}
+{"id":"practically_adv","th":"เกือบจะ; ในทางปฏิบัติ; แทบจะ","ex":"The test was practically impossible.","exTh":"ข้อสอบนี้แทบจะเป็นไปไม่ได้เลย"}
+{"id":"operator_noun","th":"ผู้ควบคุม (เครื่อง); พนักงานรับโทรศัพท์; ผู้ให้บริการ","ex":"The operator connected me to the right department.","exTh":"พนักงานรับสายต่อสายฉันไปยังแผนกที่ถูกต้อง"}
+{"id":"adjustment_noun","th":"การปรับ; การปรับตัว; การแก้ไขเล็กน้อย","ex":"I made a small adjustment to the schedule.","exTh":"ฉันปรับตารางเวลาเล็กน้อย"}
+{"id":"retirement_noun","th":"การเกษียณ; ชีวิตหลังเกษียณ","ex":"He is looking forward to his retirement.","exTh":"เขาตั้งตารอการเกษียณอายุ"}
+{"id":"legislature_noun","th":"สภานิติบัญญัติ; องค์กรออกกฎหมาย","ex":"The state legislature passed a new law on schools.","exTh":"สภานิติบัญญัติของรัฐผ่านกฎหมายใหม่เรื่องโรงเรียน"}
+{"id":"decline_verb","th":"ลดลง; ปฏิเสธ (อย่างสุภาพ); เสื่อมลง","ex":"She politely declined the invitation.","exTh":"เธอปฏิเสธคำเชิญอย่างสุภาพ"}
+{"id":"evolution_noun","th":"วิวัฒนาการ; พัฒนาการ","ex":"Darwin is famous for his theory of evolution.","exTh":"ดาร์วินมีชื่อเสียงจากทฤษฎีวิวัฒนาการ"}
+{"id":"mortgage_noun","th":"สินเชื่อบ้าน; การจำนอง","ex":"They pay their mortgage every month.","exTh":"พวกเขาผ่อนสินเชื่อบ้านทุกเดือน"}
+{"id":"salary_noun","th":"เงินเดือน","ex":"Her salary goes up every year.","exTh":"เงินเดือนของเธอขึ้นทุกปี"}
+{"id":"readily_adv","th":"อย่างง่ายดาย; อย่างเต็มใจ","ex":"These books are readily available in most shops.","exTh":"หนังสือเหล่านี้หาซื้อได้ง่ายในร้านส่วนใหญ่"}
+{"id":"spot_verb","th":"มองเห็น; สังเกตเห็น; พบ","ex":"I spotted my friend in the crowd.","exTh":"ฉันเห็นเพื่อนในฝูงชน"}
+{"id":"naval_adj","th":"เกี่ยวกับกองทัพเรือ; ทางทะเล","ex":"The naval base is near the coast.","exTh":"ฐานทัพเรือตั้งอยู่ใกล้ชายฝั่ง"}
+{"id":"oral_adj","th":"ด้วยปาก; ด้วยวาจา; เกี่ยวกับช่องปาก","ex":"I have an oral exam in English tomorrow.","exTh":"พรุ่งนี้ฉันมีสอบปากเปล่าภาษาอังกฤษ"}
+{"id":"acquisition_noun","th":"การได้มา; การเข้าซื้อกิจการ; การเรียนรู้","ex":"The company announced the acquisition of a small startup.","exTh":"บริษัทประกาศซื้อกิจการสตาร์ทอัพขนาดเล็กแห่งหนึ่ง"}
+{"id":"peak_noun","th":"ยอด; จุดสูงสุด; ช่วงที่ดีที่สุด","ex":"We reached the peak of the mountain at sunrise.","exTh":"เราขึ้นถึงยอดเขาตอนพระอาทิตย์ขึ้น"}
+{"id":"draft_noun","th":"ร่าง; ฉบับร่าง; ลมพัดเข้า","ex":"I wrote the first draft of my essay today.","exTh":"วันนี้ฉันเขียนร่างแรกของเรียงความเสร็จ"}
+{"id":"originally_adv","th":"แต่เดิม; ตอนแรก; ตั้งแต่ต้น","ex":"The building was originally a school.","exTh":"อาคารนี้เดิมทีเป็นโรงเรียน"}
+{"id":"exceed_verb","th":"เกิน; เกินกว่า; เหนือกว่า","ex":"Do not exceed the speed limit.","exTh":"ห้ามขับเกินอัตราความเร็วที่กำหนด"}
+{"id":"faculty_noun","th":"คณะ (ในมหาวิทยาลัย); คณาจารย์; ความสามารถ","ex":"She teaches in the faculty of engineering.","exTh":"เธอสอนในคณะวิศวกรรมศาสตร์"}
+{"id":"enterprise_noun","th":"กิจการ; ธุรกิจ; ความกล้าริเริ่ม","ex":"He started a small enterprise selling coffee.","exTh":"เขาเริ่มกิจการเล็กๆ ขายกาแฟ"}
+{"id":"comment_verb","th":"แสดงความคิดเห็น; วิจารณ์; ให้ความเห็น","ex":"The mayor refused to comment on the news.","exTh":"นายกเทศมนตรีปฏิเสธที่จะแสดงความเห็นต่อข่าวนี้"}
+{"id":"sharp_adv","th":"ตรงเวลาพอดี; อย่างฉับพลัน","ex":"Please arrive at nine o'clock sharp.","exTh":"กรุณามาถึงตอนเก้าโมงตรงเป๊ะ"}
+{"id":"manufacture_noun","th":"การผลิต; การทำ (ในโรงงาน)","ex":"The manufacture of cars needs many workers.","exTh":"การผลิตรถยนต์ต้องใช้แรงงานจำนวนมาก"}
+{"id":"manufacture_verb","th":"ผลิต; ผลิตในโรงงาน","ex":"This factory manufactures shoes for export.","exTh":"โรงงานนี้ผลิตรองเท้าเพื่อส่งออก"}
+{"id":"burden_verb","th":"เป็นภาระ; ทำให้ลำบาก","ex":"I don't want to burden my parents with my problems.","exTh":"ฉันไม่อยากเป็นภาระให้พ่อแม่ด้วยปัญหาของฉัน"}
+{"id":"fat_noun","th":"ไขมัน; มันสัตว์","ex":"This food has a lot of fat in it.","exTh":"อาหารนี้มีไขมันอยู่มาก"}
+{"id":"accordingly_adv","th":"ตามนั้น; ดังนั้น; อย่างเหมาะสม","ex":"The rules have changed, so please act accordingly.","exTh":"กฎเปลี่ยนแล้ว ดังนั้นกรุณาปฏิบัติตามนั้น"}
+{"id":"panel_noun","th":"แผง; คณะกรรมการ; แผ่นบอร์ด","ex":"A panel of experts answered questions from the audience.","exTh":"คณะผู้เชี่ยวชาญตอบคำถามจากผู้ชม"}
+{"id":"evil_adj","th":"ชั่วร้าย; เลวทราม; ร้ายกาจ","ex":"The story is about an evil king.","exTh":"เรื่องนี้เกี่ยวกับกษัตริย์ผู้ชั่วร้าย"}
+{"id":"evil_noun","th":"ความชั่วร้าย; ความเลว; สิ่งชั่วร้าย","ex":"The film is about good and evil.","exTh":"หนังเรื่องนี้เกี่ยวกับความดีและความชั่ว"}
+{"id":"abuse_noun","th":"การล่วงละเมิด; การทารุณ; การใช้ในทางที่ผิด","ex":"The group helps children who have suffered abuse.","exTh":"กลุ่มนี้ช่วยเหลือเด็กที่ถูกทารุณกรรม"}

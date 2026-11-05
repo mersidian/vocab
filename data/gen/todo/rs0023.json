@@ -1,0 +1,602 @@
+[
+{
+"id": "eyedrops_x",
+"w": "eyedrops"
+},
+{
+"id": "fallopian-tubes_x",
+"w": "fallopian tubes"
+},
+{
+"id": "fat-free_x",
+"w": "fat-free",
+"gloss": [
+"Not containing fat."
+]
+},
+{
+"id": "firstfruit_x",
+"w": "firstfruit",
+"gloss": [
+"An offering of the first of the harvest; firstfruits.",
+"The first growth, allegory for the first people to receive the message.",
+"Ceremony in Southern Africa, notably among the Zulu and Swazi peoples, in which the paramount chief is the first to eat from the new harvest."
+]
+},
+{
+"id": "flashcard_x",
+"w": "flashcard",
+"gloss": [
+"A card used to aid rote memorization. One side of the card contains data of one kind, or a question, and the other side contains the associated response which one wants to memorize. For example, one side could contain an English word, and the other side the Spanish translation.",
+"A solid-state digital memory storage format, commonly found on computers, digital cameras and cellphones."
+]
+},
+{
+"id": "flu-influenza_x",
+"w": "flu (influenza)"
+},
+{
+"id": "fraternal-twins_x",
+"w": "fraternal twins"
+},
+{
+"id": "frontal-lobes_x",
+"w": "frontal lobes"
+},
+{
+"id": "general-anesthetic_x",
+"w": "general anesthetic",
+"gloss": [
+"An anesthetic (anesthetic substance) that causes loss of sensation to the whole body, usually to the point of unconsciousness."
+]
+},
+{
+"id": "general-practitioner_x",
+"w": "general practitioner",
+"gloss": [
+"A physician who provides primary care; treating acute and chronic illnesses and providing preventive care and health education."
+]
+},
+{
+"id": "german-measles_x",
+"w": "German measles",
+"gloss": [
+"Rubella."
+]
+},
+{
+"id": "glutes_x",
+"w": "glutes"
+},
+{
+"id": "hair-follicle_x",
+"w": "hair follicle",
+"gloss": [
+"An organ found in mammalian skin, residing in the dermal layer of the skin."
+]
+},
+{
+"id": "hay-fever_x",
+"w": "hay fever",
+"gloss": [
+"An allergy to the pollen of grass or other plants that causes symptoms similar to those of a cold; pollinosis."
+]
+},
+{
+"id": "hazardous-materials_x",
+"w": "hazardous materials"
+},
+{
+"id": "heavy-smoker_x",
+"w": "heavy smoker"
+},
+{
+"id": "high-fiber_x",
+"w": "high-fiber",
+"gloss": [
+"Consisting of a high amount of dietary fiber."
+]
+},
+{
+"id": "hiv-aids_x",
+"w": "HIV / AIDS"
+},
+{
+"id": "hot-flushes_x",
+"w": "hot flushes"
+},
+{
+"id": "housekeep_x",
+"w": "housekeep",
+"gloss": [
+"To carry out the domestic duties of housekeeping.",
+"To perform the general tasks of housekeeping.",
+"The person in charge of a house; a housekeeper or innkeeper."
+]
+},
+{
+"id": "icu-intensive-care-unit_x",
+"w": "ICU (intensive care unit)"
+},
+{
+"id": "identical-twins_x",
+"w": "identical twins"
+},
+{
+"id": "immune-system_x",
+"w": "immune system",
+"gloss": [
+"The system that differentiates self from non-self and protects the body from foreign substances and pathogenic organisms by producing an immune response. It includes organs such as the thymus, the spleen and lymph nodes; tissue such as bone marrow, and lymphoid tissues such as the tonsils; cells such as lymphocytes including the B cells and T cells, and cell products such as antibodies."
+]
+},
+{
+"id": "immunisations_x",
+"w": "immunisations"
+},
+{
+"id": "intestinal-parasites_x",
+"w": "intestinal parasites"
+},
+{
+"id": "iron-deficient_x",
+"w": "iron deficient"
+},
+{
+"id": "irregular-bowel-movements_x",
+"w": "irregular bowel movements"
+},
+{
+"id": "kettlebell_x",
+"w": "kettlebell",
+"gloss": [
+"A weight consisting of a cast iron ball with a single handle for gripping the weight during exercise."
+]
+},
+{
+"id": "kickbox_x",
+"w": "kickbox",
+"gloss": [
+"To take part in the martial art of kickboxing.",
+"To fight (a person) using kickboxing techniques."
+]
+},
+{
+"id": "kidney-stone_x",
+"w": "kidney stone",
+"gloss": [
+"A calculus in the kidney."
+]
+},
+{
+"id": "large-intestine_x",
+"w": "large intestine",
+"gloss": [
+"The second to last part of the digestive system, comprising the cecum, colon and rectum."
+]
+},
+{
+"id": "lean-back-forward_x",
+"w": "lean back / forward"
+},
+{
+"id": "left-handed_x",
+"w": "left-handed",
+"gloss": [
+"Using one's left hand in preference to, or more skillfully than, one's right.",
+"Intended to be worn on, or used by, the left hand.",
+"Turning or spiraling from right to left; anticlockwise."
+]
+},
+{
+"id": "lifestyle-change_x",
+"w": "lifestyle change"
+},
+{
+"id": "light-headed_x",
+"w": "light-headed",
+"gloss": [
+"Dizzy or feeling faint, usually as a result of a drop in blood pressure to the brain; delirious.",
+"Thoughtless; volatile; frivolous."
+]
+},
+{
+"id": "localized-pain_x",
+"w": "localized pain"
+},
+{
+"id": "low-calorie_x",
+"w": "low-calorie",
+"gloss": [
+"Of a diet, involving eating a lower number of calories than would normally eaten, usually with the intention of losing weight.",
+"Of a food or drink, having fewer calories than its standard form."
+]
+},
+{
+"id": "low-fat-diet_x",
+"w": "low-fat diet"
+},
+{
+"id": "lymph-node_x",
+"w": "lymph node",
+"gloss": [
+"Each of the small oval bodies of the lymphatic system, distributed along the lymphatic vessels, that are clustered in the armpits, groin, neck, chest and abdomen. They act as filters, with an internal honeycomb of connective tissue filled with lymphocytes and macrophages that collect and destroy bacteria, viruses and foreign matter from lymph. When the body is fighting an infection, these lymphocytes multiply rapidly and produce a characteristic swelling of the lymph nodes."
+]
+},
+{
+"id": "ma-am_x",
+"w": "ma'am",
+"gloss": [
+"A form of address for a woman: contraction of madam.",
+"A polite and formal way to address a woman.",
+"A respectful term of address to a woman of higher rank or position."
+]
+},
+{
+"id": "manic-depressive-psychosis_x",
+"w": "manic depressive psychosis"
+},
+{
+"id": "mri-magnetic-resonance-imaging_x",
+"w": "MRI (magnetic resonance imaging)"
+},
+{
+"id": "muscle-relaxant_x",
+"w": "muscle relaxant",
+"gloss": [
+"Any drug which affects skeletal muscle function and decreases the muscle tone."
+]
+},
+{
+"id": "muscular-dystrophy_x",
+"w": "muscular dystrophy",
+"gloss": [
+"A group of genetic diseases which cause progressive skeletal muscle weakness, defects in muscle proteins, and the death of muscle cells and tissue."
+]
+},
+{
+"id": "myofascial_x",
+"w": "myofascial",
+"gloss": [
+"Of or relating to the layer of loose tissue (fascia) surrounding the muscle tissues."
+]
+},
+{
+"id": "nagging-pain_x",
+"w": "nagging pain"
+},
+{
+"id": "narcotic-addiction_x",
+"w": "narcotic addiction"
+},
+{
+"id": "nasal-bleeding_x",
+"w": "nasal bleeding"
+},
+{
+"id": "night-sweats_x",
+"w": "night sweats",
+"gloss": [
+"The repeated occurrence of excessive sweating during sleep."
+]
+},
+{
+"id": "nose-bleed_x",
+"w": "nose bleed"
+},
+{
+"id": "obstetrics-and-gynecology_x",
+"w": "obstetrics and gynecology"
+},
+{
+"id": "occupational-therapy_x",
+"w": "occupational therapy",
+"gloss": [
+"The therapeutic practice of encouraging better quality of life through the pursuit of work or other occupations.",
+"Busy work.",
+"Sensory play for children often involving an obstacle course to relieve stress while the therapist works to nurture the patient's basic life skills."
+]
+},
+{
+"id": "on-the-pill_x",
+"w": "on the pill",
+"gloss": [
+"Using oral contraceptives."
+]
+},
+{
+"id": "optic-nerve_x",
+"w": "optic nerve",
+"gloss": [
+"Each of the second pair of cranial nerves that carry visual information from the retina to the brain."
+]
+},
+{
+"id": "outsource_x",
+"w": "outsource",
+"gloss": [
+"To transfer the management or day-to-day execution of a business function to a third-party service provider."
+]
+},
+{
+"id": "outstretch_x",
+"w": "outstretch",
+"gloss": [
+"To extend by stretching."
+]
+},
+{
+"id": "over-the-counter_x",
+"w": "over-the-counter",
+"gloss": [
+"Of medicine and other treatments, legal for sale or distribution without the requirement of a prescription.",
+"Involving direct interaction between two parties without an intermediary, and denoting any market where items such as stocks or currency are bought and sold by direct arrangement between counterparties, or through a private broker, rather than on a public stock exchange or other exchange."
+]
+},
+{
+"id": "overtrain_x",
+"w": "overtrain",
+"gloss": [
+"To train too much or too long."
+]
+},
+{
+"id": "parkinson-s-disease_x",
+"w": "Parkinson's disease",
+"gloss": [
+"A chronic neurological disorder affecting movement, characterized by tremors, slowness of movement (bradykinesia), cogwheel or lead-pipe rigidity, and postural instability."
+]
+},
+{
+"id": "physical-therapist_x",
+"w": "physical therapist",
+"gloss": [
+"A therapist who treats physical injury or dysfunction, usually with exercise."
+]
+},
+{
+"id": "pins-and-needles_x",
+"w": "pins and needles",
+"gloss": [
+"A tingling or prickling sensation, felt in a limb when a nerve compression is relieved and in other situations."
+]
+},
+{
+"id": "podcast_x",
+"w": "podcast",
+"gloss": [
+"A program, especially an audio program, produced on a regular basis, delivered over the Internet in a compressed digital format and designed for playback on computers or portable devices such as mobile phones.",
+"An individual episode of such a program.",
+"To deliver (information) in the form of a program, especially an audio program, over the Internet on a regular basis for playback on computers or portable devices such as mobile phones."
+]
+},
+{
+"id": "premature-birth_x",
+"w": "premature birth",
+"gloss": [
+"The birth of an infant prior to the completion of its prenatal development.",
+"Childbirth occurring earlier than 37 completed weeks of gestation, but later than 20th week, which is regarded a miscarriage."
+]
+},
+{
+"id": "premenstrual-cycle_x",
+"w": "premenstrual cycle"
+},
+{
+"id": "prescription-drug_x",
+"w": "prescription drug",
+"gloss": [
+"A licensed medicine that is regulated by legislation to require a prescription before it can be obtained."
+]
+},
+{
+"id": "press-up-down_x",
+"w": "press up / down"
+},
+{
+"id": "prone-to_x",
+"w": "prone to",
+"gloss": [
+"Inclined to; having a tendency to.",
+"Having the potential to."
+]
+},
+{
+"id": "pros-and-cons_x",
+"w": "pros and cons",
+"gloss": [
+"The advantages and disadvantages or positives and negatives regarding a specific choice or situation."
+]
+},
+{
+"id": "psychosomatic-diseases_x",
+"w": "psychosomatic diseases"
+},
+{
+"id": "pubic-bone_x",
+"w": "pubic bone",
+"gloss": [
+"The pubis (bone)."
+]
+},
+{
+"id": "put-it-in-plaster_x",
+"w": "put it in plaster"
+},
+{
+"id": "quadricep_x",
+"w": "quadricep",
+"gloss": [
+"quadriceps"
+]
+},
+{
+"id": "radial-nerve_x",
+"w": "radial nerve",
+"gloss": [
+"A large nerve, carrying both sensory and motor neurones, that supplies the dorsal aspect of the forearm and arm"
+]
+},
+{
+"id": "radiating-pain_x",
+"w": "radiating pain"
+},
+{
+"id": "radiation-therapy_x",
+"w": "radiation therapy",
+"gloss": [
+"The use of ionizing radiation to treat disease, especially cancer."
+]
+},
+{
+"id": "recreational-drug_x",
+"w": "recreational drug",
+"gloss": [
+"A psychoactive drug taken deliberately for the effect it has on the mind rather than for its medicinal effects."
+]
+},
+{
+"id": "regain-use-of_x",
+"w": "regain use of"
+},
+{
+"id": "repairperson_x",
+"w": "repairperson",
+"gloss": [
+"Synonym of repairer, a person who repairs things."
+]
+},
+{
+"id": "reproductive-system_x",
+"w": "reproductive system",
+"gloss": [
+"The system of organs within an organism which work together for the purpose of reproduction."
+]
+},
+{
+"id": "rheumatic-fever_x",
+"w": "rheumatic fever",
+"gloss": [
+"An inflammation of the joints and the heart following a respiratory infection with streptococcus."
+]
+},
+{
+"id": "rheumatic-pain_x",
+"w": "rheumatic pain"
+},
+{
+"id": "rib-cage_x",
+"w": "rib cage",
+"gloss": [
+"A part of the skeleton within the thoracic area consisting of ribs, sternum and thoracic vertebrae.",
+"The enclosed area created by and within the ribs."
+]
+},
+{
+"id": "ribcage_x",
+"w": "ribcage"
+},
+{
+"id": "rubbing-alcohol_x",
+"w": "rubbing alcohol",
+"gloss": [
+"Synonym of surgical spirit.",
+"Synonym of isopropanol."
+]
+},
+{
+"id": "run-its-their-course_x",
+"w": "run its / their course"
+},
+{
+"id": "runny-nose_x",
+"w": "runny nose",
+"gloss": [
+"A condition of discharge of mucus from the nose, often a symptom of the common cold."
+]
+},
+{
+"id": "r-sum_x",
+"w": "r�sum�"
+},
+{
+"id": "salivary-glands_x",
+"w": "salivary glands"
+},
+{
+"id": "saturated-fats_x",
+"w": "saturated fats"
+},
+{
+"id": "sciatic-nerve_x",
+"w": "sciatic nerve",
+"gloss": [
+"A large nerve that starts in the lower back and runs through the buttock and down the lower limb."
+]
+},
+{
+"id": "self-esteem_x",
+"w": "self-esteem",
+"gloss": [
+"Confidence in one's own worth; self-respect."
+]
+},
+{
+"id": "shavasana_x",
+"w": "shavasana",
+"gloss": [
+"A resting pose in which one lies flat on one's back with the arms and legs slightly spread and eyes closed."
+]
+},
+{
+"id": "shortness-of-breath_x",
+"w": "shortness of breath",
+"gloss": [
+"A difficulty in breathing."
+]
+},
+{
+"id": "shoulder-blade_x",
+"w": "shoulder blade",
+"gloss": [
+"Either of the large flat bones at the back of the shoulder."
+]
+},
+{
+"id": "skeletal-muscular-system_x",
+"w": "skeletal-muscular system"
+},
+{
+"id": "skin-graft_x",
+"w": "skin graft",
+"gloss": [
+"An operation to graft a piece of skin, moving it from one place to another; a dermoplasty.",
+"A piece of skin grafted during such a surgery.",
+"To perform such an operation upon."
+]
+},
+{
+"id": "slight-fever_x",
+"w": "slight fever"
+},
+{
+"id": "small-intestine_x",
+"w": "small intestine",
+"gloss": [
+"The upper part of the intestine, between the stomach and the large intestine, divided into the duodenum, the jejunum and the ileum."
+]
+},
+{
+"id": "smartphone_x",
+"w": "smartphone",
+"gloss": [
+"A mobile phone with more advanced features and greater computing capacity than a feature phone."
+]
+},
+{
+"id": "sound-asleep_x",
+"w": "sound asleep",
+"gloss": [
+"Sleeping still and silently."
+]
+}
+]

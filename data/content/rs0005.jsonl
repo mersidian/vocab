@@ -1,0 +1,100 @@
+{"id":"physiology_x","th":"สรีรวิทยา; การทำงานของร่างกาย","ex":"She studies human physiology at medical school.","exTh":"เธอเรียนสรีรวิทยาของมนุษย์ที่โรงเรียนแพทย์","pos":"noun"}
+{"id":"missionary_x","th":"มิชชันนารี; ผู้เผยแผ่ศาสนา","ex":"The missionary lived in a small village for ten years.","exTh":"มิชชันนารีอาศัยอยู่ในหมู่บ้านเล็กๆ เป็นเวลาสิบปี","pos":"noun"}
+{"id":"chap_x","th":"ผู้ชาย; หนุ่ม; เพื่อน (ภาษาพูดแบบอังกฤษ)","ex":"He is a nice chap, and everyone likes him.","exTh":"เขาเป็นหนุ่มใจดี ใครๆ ก็ชอบ","pos":"noun","note":"ภาษาพูดแบบอังกฤษ"}
+{"id":"inevitably_x","th":"อย่างหลีกเลี่ยงไม่ได้; ย่อมต้อง","ex":"If you never study, you will inevitably fail.","exTh":"ถ้าคุณไม่เคยอ่านหนังสือเลย ก็ย่อมสอบตกอย่างหลีกเลี่ยงไม่ได้","pos":"adv"}
+{"id":"diabetes_x","th":"โรคเบาหวาน","ex":"My grandfather has diabetes, so he avoids sugar.","exTh":"ปู่ของฉันเป็นโรคเบาหวาน เขาจึงเลี่ยงน้ำตาล","pos":"noun"}
+{"id":"drift_x","th":"ลอยไป; เคลื่อนไปเรื่อยๆ; ล่องลอย","ex":"The boat began to drift away from the shore.","exTh":"เรือเริ่มลอยออกห่างจากฝั่ง","pos":"verb"}
+{"id":"bacterial_x","th":"เกี่ยวกับแบคทีเรีย; ที่เกิดจากแบคทีเรีย","ex":"The doctor said it was a bacterial infection.","exTh":"หมอบอกว่าเป็นการติดเชื้อแบคทีเรีย","pos":"adj"}
+{"id":"complications_x","th":"ภาวะแทรกซ้อน; ความยุ่งยาก; ปัญหาที่ซับซ้อนขึ้น","ex":"The surgery went well, with no complications.","exTh":"การผ่าตัดผ่านไปด้วยดี ไม่มีภาวะแทรกซ้อน","pos":"noun","note":"รูปพหูพจน์ของ complication"}
+{"id":"constructive_x","th":"สร้างสรรค์; เป็นประโยชน์","ex":"Thank you for your constructive feedback.","exTh":"ขอบคุณสำหรับคำติชมที่สร้างสรรค์ของคุณ","pos":"adj"}
+{"id":"enrollment_x","th":"การลงทะเบียน; จำนวนนักเรียนที่ลงทะเบียน","ex":"Enrollment for the new course starts next month.","exTh":"การลงทะเบียนเรียนหลักสูตรใหม่เริ่มเดือนหน้า","pos":"noun","note":"สะกดแบบอังกฤษคือ enrolment"}
+{"id":"covenant_x","th":"พันธสัญญา; สัญญา; ข้อตกลง","ex":"The old covenant bound both families for years.","exTh":"พันธสัญญาเก่าผูกมัดทั้งสองครอบครัวมาหลายปี","pos":"noun"}
+{"id":"postage_x","th":"ค่าไปรษณีย์; ค่าส่งทางไปรษณีย์","ex":"The postage for this parcel is ten dollars.","exTh":"ค่าส่งพัสดุชิ้นนี้สิบดอลลาร์","pos":"noun"}
+{"id":"poorly_x","th":"ไม่ดี; แย่; ย่ำแย่","ex":"He did poorly on the test.","exTh":"เขาทำข้อสอบได้ไม่ดี","pos":"adv"}
+{"id":"manifest_x","th":"ชัดเจน; ปรากฏชัด; แสดงออก","ex":"Her joy was manifest to everyone in the room.","exTh":"ความดีใจของเธอชัดเจนต่อทุกคนในห้อง","pos":"adj"}
+{"id":"reorganization_x","th":"การจัดระเบียบใหม่; การปรับโครงสร้าง","ex":"The company announced a big reorganization this year.","exTh":"บริษัทประกาศปรับโครงสร้างครั้งใหญ่ในปีนี้","pos":"noun"}
+{"id":"autonomy_x","th":"ความเป็นอิสระ; อำนาจในการปกครองตนเอง","ex":"Workers here have a lot of autonomy.","exTh":"พนักงานที่นี่มีอิสระในการทำงานมาก","pos":"noun"}
+{"id":"gradient_x","th":"ความลาดชัน; ระดับความชัน; ไล่ระดับสี","ex":"The road has a steep gradient near the top.","exTh":"ถนนมีความลาดชันสูงใกล้ยอดเขา","pos":"noun"}
+{"id":"yearly_x","th":"ประจำปี; ทุกปี","ex":"We have a yearly meeting in December.","exTh":"เรามีการประชุมประจำปีในเดือนธันวาคม","pos":"adj"}
+{"id":"momentum_x","th":"แรงส่ง; โมเมนตัม; ความเร็วต่อเนื่อง","ex":"The team has gained momentum after three wins.","exTh":"ทีมมีแรงส่งมากขึ้นหลังชนะสามนัดติด","pos":"noun"}
+{"id":"monopoly_x","th":"การผูกขาด; ผู้ผูกขาด","ex":"One company has a monopoly on water here.","exTh":"บริษัทเดียวผูกขาดธุรกิจน้ำที่นี่","pos":"noun"}
+{"id":"governance_x","th":"การปกครอง; การบริหารจัดการ; ธรรมาภิบาล","ex":"Good governance is important for a strong country.","exTh":"การบริหารจัดการที่ดีสำคัญต่อประเทศที่เข้มแข็ง","pos":"noun"}
+{"id":"immunity_x","th":"ภูมิคุ้มกัน; ความคุ้มกัน; การได้รับยกเว้น","ex":"The vaccine gives you immunity to the virus.","exTh":"วัคซีนทำให้คุณมีภูมิคุ้มกันต่อไวรัส","pos":"noun"}
+{"id":"sovereignty_x","th":"อำนาจอธิปไตย; ความเป็นเอกราช","ex":"The country is proud of its sovereignty.","exTh":"ประเทศนี้ภูมิใจในอธิปไตยของตน","pos":"noun"}
+{"id":"alteration_x","th":"การเปลี่ยนแปลง; การแก้ไข; การตัดแก้เสื้อผ้า","ex":"The dress needs a small alteration at the waist.","exTh":"ชุดนี้ต้องแก้เล็กน้อยที่เอว","pos":"noun"}
+{"id":"consistency_x","th":"ความสม่ำเสมอ; ความข้นหนืด; ความสอดคล้อง","ex":"Consistency is the key to learning a language.","exTh":"ความสม่ำเสมอคือกุญแจสู่การเรียนภาษา","pos":"noun"}
+{"id":"literacy_x","th":"ความสามารถในการอ่านออกเขียนได้; ความรู้ความเข้าใจ","ex":"The village has improved its literacy rate.","exTh":"หมู่บ้านนี้มีอัตราการอ่านออกเขียนได้ดีขึ้น","pos":"noun"}
+{"id":"propaganda_x","th":"การโฆษณาชวนเชื่อ","ex":"The film was used as war propaganda.","exTh":"ภาพยนตร์เรื่องนี้ถูกใช้เป็นการโฆษณาชวนเชื่อในสงคราม","pos":"noun"}
+{"id":"warehouse_x","th":"โกดัง; คลังสินค้า","ex":"The goods are stored in a large warehouse.","exTh":"สินค้าถูกเก็บไว้ในโกดังขนาดใหญ่","pos":"noun"}
+{"id":"jointly_x","th":"ร่วมกัน; โดยรวม","ex":"The two schools jointly organized the event.","exTh":"สองโรงเรียนร่วมกันจัดงานนี้","pos":"adv"}
+{"id":"expiration_x","th":"การหมดอายุ; วันหมดอายุ","ex":"Check the expiration date on the milk.","exTh":"ตรวจวันหมดอายุบนนมดูหน่อย","pos":"noun"}
+{"id":"inhibition_x","th":"ความยับยั้งชั่งใจ; ความเขินอาย; การยับยั้ง","ex":"He sang loudly without any inhibition.","exTh":"เขาร้องเพลงเสียงดังโดยไม่เขินอายเลย","pos":"noun"}
+{"id":"splendid_x","th":"ยอดเยี่ยม; งดงาม; ตระการตา","ex":"We had a splendid view of the mountains.","exTh":"เรามองเห็นทิวทัศน์ภูเขาได้อย่างงดงาม","pos":"adj"}
+{"id":"portfolio_x","th":"แฟ้มผลงาน; พอร์ตการลงทุน","ex":"She showed her design portfolio at the interview.","exTh":"เธอนำแฟ้มผลงานการออกแบบไปแสดงในการสัมภาษณ์","pos":"noun"}
+{"id":"reliance_x","th":"การพึ่งพา; ความไว้วางใจ","ex":"Our reliance on phones has grown a lot.","exTh":"การพึ่งพาโทรศัพท์ของเราเพิ่มขึ้นมาก","pos":"noun"}
+{"id":"capitalism_x","th":"ระบบทุนนิยม; ทุนนิยม","ex":"Many countries today use a system of capitalism.","exTh":"หลายประเทศในปัจจุบันใช้ระบบทุนนิยม","pos":"noun"}
+{"id":"accommodate_x","th":"รองรับ; จัดที่พักให้; ปรับให้เหมาะ","ex":"This hotel can accommodate two hundred guests.","exTh":"โรงแรมนี้รองรับแขกได้สองร้อยคน","pos":"verb"}
+{"id":"charitable_x","th":"เกี่ยวกับการกุศล; ใจบุญ; เมตตา","ex":"She gives money to charitable groups every year.","exTh":"เธอบริจาคเงินให้องค์กรการกุศลทุกปี","pos":"adj"}
+{"id":"spinal_x","th":"เกี่ยวกับกระดูกสันหลัง; เกี่ยวกับไขสันหลัง","ex":"He had a spinal injury after the accident.","exTh":"เขาบาดเจ็บที่กระดูกสันหลังหลังเกิดอุบัติเหตุ","pos":"adj"}
+{"id":"stationary_x","th":"อยู่กับที่; หยุดนิ่ง","ex":"The car was stationary at the red light.","exTh":"รถหยุดนิ่งอยู่ที่ไฟแดง","pos":"adj","note":"อย่าสับสนกับ stationery (เครื่องเขียน)"}
+{"id":"beta_x","th":"เบต้า (อักษรตัวที่สองของกรีก); รุ่นทดลอง","ex":"The app is still in beta, so it has some bugs.","exTh":"แอปนี้ยังเป็นรุ่นทดลอง จึงมีข้อบกพร่องอยู่บ้าง","pos":"noun"}
+{"id":"contingent_x","th":"คณะตัวแทน; กลุ่มคน; เหตุการณ์ที่อาจเกิดขึ้น","ex":"A large contingent of fans traveled to the match.","exTh":"แฟนบอลกลุ่มใหญ่เดินทางไปดูการแข่งขัน","pos":"noun"}
+{"id":"elder_x","th":"ผู้อาวุโส; ผู้สูงวัย; อายุมากกว่า","ex":"The village elders made the final decision.","exTh":"ผู้อาวุโสของหมู่บ้านเป็นผู้ตัดสินใจขั้นสุดท้าย","pos":"noun"}
+{"id":"individually_x","th":"เป็นรายบุคคล; ทีละคน; แยกกัน","ex":"The teacher spoke to each student individually.","exTh":"ครูคุยกับนักเรียนแต่ละคนเป็นรายบุคคล","pos":"adv"}
+{"id":"defective_x","th":"ชำรุด; บกพร่อง; มีตำหนิ","ex":"I returned the defective toaster to the shop.","exTh":"ฉันเอาเครื่องปิ้งขนมปังที่ชำรุดไปคืนที่ร้าน","pos":"adj"}
+{"id":"directive_x","th":"คำสั่ง; ข้อกำหนด; แนวปฏิบัติ","ex":"The manager sent a new directive to all staff.","exTh":"ผู้จัดการส่งคำสั่งใหม่ถึงพนักงานทุกคน","pos":"noun"}
+{"id":"variability_x","th":"ความแปรปรวน; ความเปลี่ยนแปลงได้","ex":"There is great variability in the weather here.","exTh":"สภาพอากาศที่นี่แปรปรวนมาก","pos":"noun"}
+{"id":"abdominal_x","th":"เกี่ยวกับช่องท้อง; บริเวณท้อง","ex":"She felt a sharp abdominal pain.","exTh":"เธอรู้สึกปวดท้องแบบแปลบๆ","pos":"adj"}
+{"id":"ideological_x","th":"เกี่ยวกับอุดมการณ์; ในเชิงแนวคิดทางการเมือง","ex":"The two parties have a deep ideological difference.","exTh":"สองพรรคมีความแตกต่างทางอุดมการณ์อย่างลึกซึ้ง","pos":"adj"}
+{"id":"vulnerable_x","th":"เปราะบาง; ถูกทำร้ายได้ง่าย; อ่อนแอ","ex":"Young children are vulnerable to the cold.","exTh":"เด็กเล็กเปราะบางต่ออากาศหนาว","pos":"adj"}
+{"id":"collateral_x","th":"หลักประกัน; ทรัพย์สินค้ำประกัน","ex":"He used his house as collateral for the loan.","exTh":"เขาใช้บ้านเป็นหลักประกันเงินกู้","pos":"noun"}
+{"id":"throne_x","th":"บัลลังก์; ราชบัลลังก์","ex":"The king sat on his golden throne.","exTh":"พระราชาประทับบนบัลลังก์ทอง","pos":"noun"}
+{"id":"sensory_x","th":"เกี่ยวกับประสาทสัมผัส; ทางความรู้สึก","ex":"Babies learn through sensory play.","exTh":"ทารกเรียนรู้ผ่านการเล่นที่กระตุ้นประสาทสัมผัส","pos":"adj"}
+{"id":"dominion_x","th":"อำนาจปกครอง; อาณาเขตปกครอง; การครอบครอง","ex":"The king had dominion over a large land.","exTh":"พระราชามีอำนาจปกครองเหนือแผ่นดินกว้างใหญ่","pos":"noun"}
+{"id":"nest_x","th":"รังนก; รัง; ที่อยู่อาศัยอบอุ่น","ex":"A bird built a nest in our tree.","exTh":"นกตัวหนึ่งสร้างรังบนต้นไม้ของเรา","pos":"noun"}
+{"id":"vascular_x","th":"เกี่ยวกับหลอดเลือด; เกี่ยวกับท่อลำเลียง","ex":"He is a doctor who treats vascular diseases.","exTh":"เขาเป็นหมอที่รักษาโรคหลอดเลือด","pos":"adj"}
+{"id":"recreational_x","th":"เพื่อการพักผ่อนหย่อนใจ; เพื่อความบันเทิง","ex":"The park has a recreational area for families.","exTh":"สวนสาธารณะมีพื้นที่พักผ่อนสำหรับครอบครัว","pos":"adj"}
+{"id":"hormone_x","th":"ฮอร์โมน","ex":"Stress can change the hormones in your body.","exTh":"ความเครียดอาจเปลี่ยนฮอร์โมนในร่างกายของคุณ","pos":"noun"}
+{"id":"bass_x","th":"เสียงทุ้มต่ำ; เบส; นักร้องเสียงต่ำ","ex":"He plays the bass in a small band.","exTh":"เขาเล่นเบสในวงดนตรีวงเล็กๆ","pos":"noun","note":"ออกเสียง /beɪs/ ต่างจาก bass ที่เป็นปลา"}
+{"id":"hierarchy_x","th":"ลำดับชั้น; ระบบลำดับขั้น","ex":"There is a clear hierarchy in the company.","exTh":"บริษัทมีลำดับชั้นที่ชัดเจน","pos":"noun"}
+{"id":"pipeline_x","th":"ท่อส่ง (น้ำมัน, ก๊าซ); สายงาน; ขั้นตอนที่กำลังดำเนินอยู่","ex":"A new oil pipeline will cross the desert.","exTh":"ท่อส่งน้ำมันสายใหม่จะผ่านทะเลทราย","pos":"noun"}
+{"id":"bleeding_x","th":"การตกเลือด; เลือดออก","ex":"The nurse stopped the bleeding with a bandage.","exTh":"พยาบาลห้ามเลือดด้วยผ้าพันแผล","pos":"noun"}
+{"id":"sergeant_x","th":"จ่า; ยศจ่า","ex":"The sergeant gave orders to the soldiers.","exTh":"จ่าออกคำสั่งให้ทหาร","pos":"noun"}
+{"id":"discrete_x","th":"แยกจากกัน; เป็นอิสระต่อกัน; ไม่ต่อเนื่อง","ex":"The report has four discrete sections.","exTh":"รายงานมีสี่ส่วนที่แยกจากกัน","pos":"adj","note":"อย่าสับสนกับ discreet (รอบคอบ)"}
+{"id":"creditor_x","th":"เจ้าหนี้","ex":"He owes money to several creditors.","exTh":"เขาเป็นหนี้เจ้าหนี้หลายราย","pos":"noun"}
+{"id":"relevance_x","th":"ความเกี่ยวข้อง; ความสำคัญที่เกี่ยวเนื่อง","ex":"I don't see the relevance of this question.","exTh":"ฉันไม่เห็นว่าคำถามนี้เกี่ยวข้องอะไร","pos":"noun"}
+{"id":"capitalist_x","th":"นายทุน; ผู้นิยมทุนนิยม","ex":"The capitalist invested in many new businesses.","exTh":"นายทุนลงทุนในธุรกิจใหม่หลายแห่ง","pos":"noun"}
+{"id":"aggression_x","th":"การรุกราน; ความก้าวร้าว","ex":"The country condemned the act of aggression.","exTh":"ประเทศนั้นประณามการรุกรานครั้งนี้","pos":"noun"}
+{"id":"acceleration_x","th":"การเร่งความเร็ว; ความเร่ง","ex":"This car has very fast acceleration.","exTh":"รถคันนี้เร่งความเร็วได้เร็วมาก","pos":"noun"}
+{"id":"module_x","th":"โมดูล; หน่วยการเรียน; ส่วนประกอบ","ex":"The course has six modules to complete.","exTh":"หลักสูตรนี้มีหกโมดูลที่ต้องเรียนให้จบ","pos":"noun"}
+{"id":"texture_x","th":"เนื้อสัมผัส; พื้นผิว","ex":"I like the soft texture of this cake.","exTh":"ฉันชอบเนื้อสัมผัสนุ่มๆ ของเค้กชิ้นนี้","pos":"noun"}
+{"id":"donor_x","th":"ผู้บริจาค; ผู้ให้","ex":"A kind donor gave blood to the hospital.","exTh":"ผู้บริจาคใจดีบริจาคเลือดให้โรงพยาบาล","pos":"noun"}
+{"id":"intact_x","th":"ครบถ้วน; ไม่เสียหาย; สมบูรณ์","ex":"The old vase arrived intact after the trip.","exTh":"แจกันเก่าถึงที่หมายโดยไม่เสียหายเลย","pos":"adj"}
+{"id":"susceptible_x","th":"ได้ง่าย; อ่อนไหวต่อ; ติดได้ง่าย","ex":"Old people are susceptible to the flu.","exTh":"ผู้สูงอายุเป็นไข้หวัดใหญ่ได้ง่าย","pos":"adj"}
+{"id":"nonlinear_x","th":"ไม่เป็นเส้นตรง; ไม่เป็นเชิงเส้น","ex":"The story has a nonlinear plot with jumps in time.","exTh":"เรื่องนี้มีโครงเรื่องไม่เป็นเส้นตรงที่สลับเวลาไปมา","pos":"adj"}
+{"id":"dissolution_x","th":"การยุบ; การสลายตัว; การสิ้นสุด","ex":"The dissolution of the parliament was announced today.","exTh":"มีการประกาศยุบสภาในวันนี้","pos":"noun"}
+{"id":"appraisal_x","th":"การประเมินราคา; การประเมินผล","ex":"The house had an appraisal before it was sold.","exTh":"บ้านหลังนี้ถูกประเมินราคาก่อนขาย","pos":"noun"}
+{"id":"cerebral_x","th":"เกี่ยวกับสมอง; ใช้สติปัญญา; ใช้ความคิด","ex":"Chess is a very cerebral game.","exTh":"หมากรุกเป็นเกมที่ต้องใช้สมองมาก","pos":"adj"}
+{"id":"photographic_x","th":"เกี่ยวกับการถ่ายภาพ; แม่นยำเหมือนภาพถ่าย","ex":"She has a photographic memory for faces.","exTh":"เธอมีความจำแม่นยำเหมือนภาพถ่ายเรื่องใบหน้าคน","pos":"adj"}
+{"id":"polar_x","th":"เกี่ยวกับขั้วโลก; ตรงข้ามกันสุดขั้ว","ex":"Polar bears live in very cold places.","exTh":"หมีขั้วโลกอาศัยอยู่ในที่ที่หนาวมาก","pos":"adj"}
+{"id":"tenure_x","th":"วาระการดำรงตำแหน่ง; การครอบครอง; ตำแหน่งประจำ","ex":"During her tenure, the school grew a lot.","exTh":"ในช่วงที่เธอดำรงตำแหน่ง โรงเรียนเติบโตขึ้นมาก","pos":"noun"}
+{"id":"enzymes_x","th":"เอนไซม์","ex":"Enzymes in your stomach help break down food.","exTh":"เอนไซม์ในกระเพาะช่วยย่อยอาหาร","pos":"noun","note":"รูปพหูพจน์ของ enzyme"}
+{"id":"payroll_x","th":"บัญชีเงินเดือน; รายชื่อพนักงานที่ได้รับค่าจ้าง","ex":"The company has fifty people on its payroll.","exTh":"บริษัทมีพนักงานในบัญชีเงินเดือนห้าสิบคน","pos":"noun"}
+{"id":"bilateral_x","th":"สองฝ่าย; ทวิภาคี; สองข้าง","ex":"The two countries signed a bilateral trade deal.","exTh":"สองประเทศลงนามข้อตกลงการค้าทวิภาคี","pos":"adj"}
+{"id":"franchise_x","th":"สิทธิแฟรนไชส์; ร้านสาขาแฟรนไชส์; สิทธิเลือกตั้ง","ex":"He bought a franchise of a famous coffee shop.","exTh":"เขาซื้อแฟรนไชส์ร้านกาแฟชื่อดัง","pos":"noun"}
+{"id":"redemption_x","th":"การไถ่ถอน; การแลกคืน; การไถ่บาป","ex":"You can use this coupon for redemption at any store.","exTh":"คุณใช้คูปองนี้แลกรับสิทธิ์ที่ร้านไหนก็ได้","pos":"noun"}
+{"id":"antibody_x","th":"แอนติบอดี; ภูมิต้านทาน","ex":"The vaccine helps your body make antibodies.","exTh":"วัคซีนช่วยให้ร่างกายสร้างแอนติบอดี","pos":"noun"}
+{"id":"provider_x","th":"ผู้ให้บริการ; ผู้จัดหา","ex":"I changed my internet provider last month.","exTh":"ฉันเปลี่ยนผู้ให้บริการอินเทอร์เน็ตเมื่อเดือนที่แล้ว","pos":"noun"}
+{"id":"dismissal_x","th":"การไล่ออก; การปลด; การปัดตก","ex":"His dismissal from the job surprised everyone.","exTh":"การที่เขาถูกไล่ออกจากงานทำให้ทุกคนแปลกใจ","pos":"noun"}
+{"id":"initiation_x","th":"การเริ่มต้น; พิธีรับเข้า; การเริ่มดำเนินการ","ex":"The initiation of the project took place in May.","exTh":"โครงการเริ่มต้นขึ้นในเดือนพฤษภาคม","pos":"noun"}
+{"id":"anatomy_x","th":"กายวิภาคศาสตร์; โครงสร้างร่างกาย","ex":"Medical students must learn human anatomy.","exTh":"นักศึกษาแพทย์ต้องเรียนกายวิภาคของมนุษย์","pos":"noun"}
+{"id":"seemingly_x","th":"ดูเหมือนว่า; ดูจากภายนอก","ex":"The test was seemingly easy, but many students failed.","exTh":"ข้อสอบดูเหมือนง่าย แต่นักเรียนหลายคนสอบตก","pos":"adv"}
+{"id":"sterling_x","th":"เงินปอนด์สเตอร์ลิง; ยอดเยี่ยม","ex":"The price is fifty pounds sterling.","exTh":"ราคาห้าสิบปอนด์สเตอร์ลิง","pos":"noun","note":"หมายถึงเงินปอนด์ของอังกฤษ"}
+{"id":"restraint_x","th":"การยับยั้งชั่งใจ; การควบคุม; เครื่องพันธนาการ","ex":"He showed great restraint and did not shout.","exTh":"เขาแสดงการข่มใจอย่างมากและไม่ตะโกน","pos":"noun"}
+{"id":"neural_x","th":"เกี่ยวกับเส้นประสาท; เกี่ยวกับระบบประสาท","ex":"The brain is full of neural connections.","exTh":"สมองเต็มไปด้วยการเชื่อมต่อของเซลล์ประสาท","pos":"adj"}
+{"id":"electoral_x","th":"เกี่ยวกับการเลือกตั้ง","ex":"The country is changing its electoral system.","exTh":"ประเทศกำลังเปลี่ยนระบบการเลือกตั้ง","pos":"adj"}
+{"id":"fatty_x","th":"มีไขมันมาก; อ้วนมัน","ex":"Try to eat less fatty food.","exTh":"พยายามกินอาหารที่มีไขมันสูงให้น้อยลง","pos":"adj"}
+{"id":"metabolic_x","th":"เกี่ยวกับการเผาผลาญ; เมแทบอลิก","ex":"He has a slow metabolic rate.","exTh":"เขามีอัตราการเผาผลาญช้า","pos":"adj"}
+{"id":"generic_x","th":"ทั่วไป; ไม่เจาะจงยี่ห้อ; ทั่วๆ ไป","ex":"I bought a generic version of the medicine.","exTh":"ฉันซื้อยาชนิดสามัญแทนยี่ห้อดัง","pos":"adj"}
+{"id":"historically_x","th":"ในทางประวัติศาสตร์; ในอดีต","ex":"Historically, this town was a trading port.","exTh":"ในทางประวัติศาสตร์ เมืองนี้เคยเป็นท่าเรือการค้า","pos":"adv"}
+{"id":"implicit_x","th":"โดยนัย; ที่แฝงอยู่; ไม่ได้พูดตรงๆ","ex":"There was an implicit warning in his words.","exTh":"คำพูดของเขาแฝงคำเตือนไว้","pos":"adj"}

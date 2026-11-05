@@ -1,0 +1,602 @@
+[
+{
+"id": "toothbrush_noun",
+"w": "toothbrush",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "pollute_verb",
+"w": "pollute",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "spaceship_noun",
+"w": "spaceship",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "badminton_noun",
+"w": "badminton",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "toothache_noun",
+"w": "toothache",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "raincoat_noun",
+"w": "raincoat",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "superstar_noun",
+"w": "superstar",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "tights_noun",
+"w": "tights",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "brainstorm_noun",
+"w": "brainstorm",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "chirp_noun",
+"w": "chirp",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "schoolwork_noun",
+"w": "schoolwork",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "earring_noun",
+"w": "earring",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "omelet_noun",
+"w": "omelet",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "terrify_verb",
+"w": "terrify",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "granddad_noun",
+"w": "granddad",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "swimsuit_noun",
+"w": "swimsuit",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "businesswoman_noun",
+"w": "businesswoman",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "footballer_noun",
+"w": "footballer",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "policewoman_noun",
+"w": "policewoman",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "headphone_noun",
+"w": "headphone",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "skateboarding_noun",
+"w": "skateboarding",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "stomachache_noun",
+"w": "stomachache",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "schoolchild_noun",
+"w": "schoolchild",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "alarm-clock_noun",
+"w": "alarm clock",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "board-game_noun",
+"w": "board game",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "bus-station_noun",
+"w": "bus station",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "bus-stop_noun",
+"w": "bus stop",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "capital-letter_noun",
+"w": "capital letter",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "car-park_noun",
+"w": "car park",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "classical-music_noun",
+"w": "classical music",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "department-store_noun",
+"w": "department store",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "digital-camera_noun",
+"w": "digital camera",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "driver-s-license_noun",
+"w": "driver's license",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "fast-food_noun",
+"w": "fast food",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "first-name_noun",
+"w": "first name",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "good-looking_adj",
+"w": "good-looking",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "grocery-store_noun",
+"w": "grocery store",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "half-price_adj",
+"w": "half-price",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "half-price_adv",
+"w": "half-price",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "headteacher_noun",
+"w": "headteacher",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "high-school_noun",
+"w": "high school",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "hip-hop_noun",
+"w": "hip hop",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "id-card_noun",
+"w": "ID card",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "left-hand_adj",
+"w": "left-hand",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "main-course_noun",
+"w": "main course",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "make-up_noun",
+"w": "make-up",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "mineral-water_noun",
+"w": "mineral water",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "mp3-player_noun",
+"w": "MP3 player",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "ms_noun",
+"w": "Ms.",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "next-to_prep",
+"w": "next to",
+"pos": "prep",
+"lvl": "A2"
+},
+{
+"id": "no-one_pron",
+"w": "no one",
+"pos": "pron",
+"lvl": "A2"
+},
+{
+"id": "olive-oil_noun",
+"w": "olive oil",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "out-of_prep",
+"w": "out of",
+"pos": "prep",
+"lvl": "A2"
+},
+{
+"id": "penfriend_noun",
+"w": "penfriend",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "petrol-station_noun",
+"w": "petrol station",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "police-officer_noun",
+"w": "police officer",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "police-station_noun",
+"w": "police station",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "post-office_noun",
+"w": "post office",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "right-hand_adj",
+"w": "right-hand",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "shop-assistant_noun",
+"w": "shop assistant",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "sitting-room_noun",
+"w": "sitting room",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "snowboarding_noun",
+"w": "snowboarding",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "soft-drink_noun",
+"w": "soft drink",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "sports-center_noun",
+"w": "sports center",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "swimming-costume_noun",
+"w": "swimming costume",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "table-tennis_noun",
+"w": "table tennis",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "text-message_noun",
+"w": "text message",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "tour-guide_noun",
+"w": "tour guide",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "traffic-light_noun",
+"w": "traffic light",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "video-game_noun",
+"w": "video game",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "washing-machine_noun",
+"w": "washing machine",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "washing-up_noun",
+"w": "washing-up",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "web-page_noun",
+"w": "web page",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "website_noun",
+"w": "website",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "well-known_adj",
+"w": "well-known",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "but_prep",
+"w": "but",
+"pos": "prep",
+"lvl": "B1"
+},
+{
+"id": "more_adv",
+"w": "more",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "after_conj",
+"w": "after",
+"pos": "conj",
+"lvl": "B1"
+},
+{
+"id": "through_adv",
+"w": "through",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "like_conj",
+"w": "like",
+"pos": "conj",
+"lvl": "B1"
+},
+{
+"id": "general_adj",
+"w": "general",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "general_noun",
+"w": "general",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "even_adj",
+"w": "even",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "per_prep",
+"w": "per",
+"pos": "prep",
+"lvl": "B1"
+},
+{
+"id": "public_adj",
+"w": "public",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "act_verb",
+"w": "act",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "while_noun",
+"w": "while",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "service_noun",
+"w": "service",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "service_verb",
+"w": "service",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "own_verb",
+"w": "own",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "back_verb",
+"w": "back",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "development_noun",
+"w": "development",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "since_conj",
+"w": "since",
+"pos": "conj",
+"lvl": "B1"
+},
+{
+"id": "take_noun",
+"w": "take",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "present_adj",
+"w": "present",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "place_verb",
+"w": "place",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "little_det",
+"w": "little",
+"pos": "det",
+"lvl": "B1"
+},
+{
+"id": "little_pron",
+"w": "little",
+"pos": "pron",
+"lvl": "B1"
+},
+{
+"id": "total_adj",
+"w": "total",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "total_noun",
+"w": "total",
+"pos": "noun",
+"lvl": "B1"
+}
+]

@@ -1,0 +1,802 @@
+[
+{
+"id": "drama-king_idiom",
+"w": "drama king",
+"kind": "idiom",
+"gloss": [
+"An overly or exaggeratedly dramatic person, especially a man or a boy."
+]
+},
+{
+"id": "lick-into-shape_idiom",
+"w": "lick into shape",
+"kind": "idiom",
+"gloss": [
+"To exert considerable effort to change (someone or something) into a desired state."
+]
+},
+{
+"id": "win-the-battle-but-lose-the-war_idiom",
+"w": "win the battle, but lose the war",
+"kind": "idiom",
+"gloss": [
+"To achieve a portion of a goal, but fail to achieve the entire goal."
+]
+},
+{
+"id": "state-line_idiom",
+"w": "state line",
+"kind": "idiom",
+"gloss": [
+"The border between two states in the United States of America."
+]
+},
+{
+"id": "show-one-s-ass_idiom",
+"w": "show one's ass",
+"kind": "idiom",
+"gloss": [
+"To act or behave in a rude or obnoxious manner; to misbehave."
+]
+},
+{
+"id": "spoil-someone-rotten_idiom",
+"w": "spoil someone rotten",
+"kind": "idiom",
+"gloss": [
+"To overindulge someone, especially when it results in making them selfish and demanding."
+]
+},
+{
+"id": "paddle-one-s-own-canoe_idiom",
+"w": "paddle one's own canoe",
+"kind": "idiom",
+"gloss": [
+"To independently make the decisions or perform the duties, tasks, etc. which are one's own responsibility and which affect oneself."
+]
+},
+{
+"id": "make-a-noise-in-the-world_idiom",
+"w": "make a noise in the world",
+"kind": "idiom",
+"gloss": [
+"To attract great notoriety."
+]
+},
+{
+"id": "get-ink_idiom",
+"w": "get ink",
+"kind": "idiom",
+"gloss": [
+"To receive publicity."
+]
+},
+{
+"id": "suck-and-blow_idiom",
+"w": "suck and blow",
+"kind": "idiom",
+"gloss": [
+"To perform two incompatible actions; to hold views which are in contradiction."
+]
+},
+{
+"id": "sell-one-s-life-dearly_idiom",
+"w": "sell one's life dearly",
+"kind": "idiom",
+"gloss": [
+"To do great injury to the enemy before being killed by them."
+]
+},
+{
+"id": "leave-someone-out-in-the-cold_idiom",
+"w": "leave someone out in the cold",
+"kind": "idiom",
+"gloss": [
+"To deliberately fail to provide someone with support; to ignore or neglect."
+]
+},
+{
+"id": "pull-the-rug-out-from-under_idiom",
+"w": "pull the rug out from under",
+"kind": "idiom",
+"gloss": [
+"To suddenly remove support from."
+]
+},
+{
+"id": "warmest-regards_idiom",
+"w": "warmest regards",
+"kind": "idiom",
+"gloss": [
+"Used as a polite closing of a letter"
+]
+},
+{
+"id": "peel-the-onion_idiom",
+"w": "peel the onion",
+"kind": "idiom",
+"gloss": [
+"To investigate a matter more deeply, usually step by step, each step leading to a new discovery."
+]
+},
+{
+"id": "take-the-bread-out-of-someone-s-mouth_idiom",
+"w": "take the bread out of someone's mouth",
+"kind": "idiom",
+"gloss": [
+"To deprive someone of the means of living."
+]
+},
+{
+"id": "loosen-someone-s-tongue_idiom",
+"w": "loosen someone's tongue",
+"kind": "idiom",
+"gloss": [
+"To cause one to speak more freely; to cause one to discuss a subject that would not usually be discussed."
+]
+},
+{
+"id": "bouquets-and-brickbats_idiom",
+"w": "bouquets and brickbats",
+"kind": "idiom",
+"gloss": [
+"Praise and criticism; complimentary and uncomplimentary feedback (to the same or to different targets)."
+]
+},
+{
+"id": "lick-someone-s-boots_idiom",
+"w": "lick someone's boots",
+"kind": "idiom",
+"gloss": [
+"To try hard to please someone."
+]
+},
+{
+"id": "sharp-elbows_idiom",
+"w": "sharp elbows",
+"kind": "idiom",
+"gloss": [
+"A willingness to sacrifice others to advance one's own ambitions."
+]
+},
+{
+"id": "in-a-big-way_idiom",
+"w": "in a big way",
+"kind": "idiom",
+"gloss": [
+"To a great extent, emphatically, or with great passion."
+]
+},
+{
+"id": "the-curtain-falls_idiom",
+"w": "the curtain falls",
+"kind": "idiom",
+"gloss": [
+"The end of something has come."
+]
+},
+{
+"id": "contain-multitudes_idiom",
+"w": "contain multitudes",
+"kind": "idiom",
+"gloss": [
+"To have a complex and apparently paradoxical nature; to be inconsistent, especially in a way that is ultimately admirable or noble."
+]
+},
+{
+"id": "ripe-for-the-picking_idiom",
+"w": "ripe for the picking",
+"kind": "idiom",
+"gloss": [
+"Ready to be taken or exploited."
+]
+},
+{
+"id": "hit-like-a-truck_idiom",
+"w": "hit like a truck",
+"kind": "idiom",
+"gloss": [
+"To hit in an extremely powerful manner; to hit with a lot of force."
+]
+},
+{
+"id": "down-with-the-kids_idiom",
+"w": "down with the kids",
+"kind": "idiom",
+"gloss": [
+"who attempts (especially in vain) to appeal to young people by imitating them"
+]
+},
+{
+"id": "take-someone-s-part_idiom",
+"w": "take someone's part",
+"kind": "idiom",
+"gloss": [
+"To show support for or defend the actions of someone in the course of a debate, argument, etc."
+]
+},
+{
+"id": "go-on-the-mitch_idiom",
+"w": "go on the mitch",
+"kind": "idiom",
+"gloss": [
+"to skip school; to play truant"
+]
+},
+{
+"id": "morally-bankrupt_idiom",
+"w": "morally bankrupt",
+"kind": "idiom",
+"gloss": [
+"Having no morals, unethical."
+]
+},
+{
+"id": "the-half-of-it_idiom",
+"w": "the half of it",
+"kind": "idiom",
+"gloss": [
+"Only a part of something; not the full picture. Typically it is implied to be the most important part."
+]
+},
+{
+"id": "at-one-s-feet_idiom",
+"w": "at one's feet",
+"kind": "idiom",
+"gloss": [
+"At one's disposition; easily controlled by someone due to their power, affluence, charm, etc."
+]
+},
+{
+"id": "live-rent-free-in-someone-s-head_idiom",
+"w": "live rent-free in someone's head",
+"kind": "idiom",
+"gloss": [
+"To be the perpetual focus of someone's thoughts, with that person having no control over this situation."
+]
+},
+{
+"id": "build-character_idiom",
+"w": "build character",
+"kind": "idiom",
+"gloss": [
+"To improve a person's character by developing personality traits such as resilience or responsibility."
+]
+},
+{
+"id": "keep-one-s-head-on-a-swivel_idiom",
+"w": "keep one's head on a swivel",
+"kind": "idiom",
+"gloss": [
+"To be on the alert, to be watchful."
+]
+},
+{
+"id": "and-i-don-t-mean-maybe_idiom",
+"w": "and I don't mean maybe",
+"kind": "idiom",
+"gloss": [
+"Indicating that one is serious and not joking about a matter."
+]
+},
+{
+"id": "move-someone-to-tears_idiom",
+"w": "move someone to tears",
+"kind": "idiom",
+"gloss": [
+"to cause to cry"
+]
+},
+{
+"id": "come-down-in-stair-rods_idiom",
+"w": "come down in stair rods",
+"kind": "idiom",
+"gloss": [
+"To rain heavily in long streaks."
+]
+},
+{
+"id": "all-over-bar-the-shouting_idiom",
+"w": "all over bar the shouting",
+"kind": "idiom",
+"gloss": [
+"Of an activity where the result is known, but may be subject to change, due to it not being officially finished or announced."
+]
+},
+{
+"id": "drop-in-the-sea_idiom",
+"w": "drop in the sea",
+"kind": "idiom",
+"gloss": [
+"A very small or insignificant amount; something of little importance."
+]
+},
+{
+"id": "f-in-the-chat_idiom",
+"w": "F in the chat",
+"kind": "idiom",
+"gloss": [
+"condolences, regret, or sympathy."
+]
+},
+{
+"id": "on-someone-s-radar_idiom",
+"w": "on someone's radar",
+"kind": "idiom",
+"gloss": [
+"Within someone's awareness, attention or consideration."
+]
+},
+{
+"id": "jewel-in-the-crown_idiom",
+"w": "jewel in the crown",
+"kind": "idiom",
+"gloss": [
+"The most valuable or important thing or person among others of its kind."
+]
+},
+{
+"id": "mercy-sake-s-alive_idiom",
+"w": "mercy sake's alive",
+"kind": "idiom",
+"gloss": [
+"A mild oath."
+]
+},
+{
+"id": "fire-the-starting-gun_idiom",
+"w": "fire the starting gun",
+"kind": "idiom",
+"gloss": [
+"To launch or trigger an event or situation."
+]
+},
+{
+"id": "i-don-t-know-about-that_idiom",
+"w": "I don't know about that",
+"kind": "idiom",
+"gloss": [
+"I am not sure that I agree; expressing doubt or skepticism."
+]
+},
+{
+"id": "shift-the-dial_idiom",
+"w": "shift the dial",
+"kind": "idiom",
+"gloss": [
+"To make a significant change or impact in a particular situation or context."
+]
+},
+{
+"id": "leave-something-to-be-desired_idiom",
+"w": "leave something to be desired",
+"kind": "idiom",
+"gloss": [
+"to be insufficient in some aspect."
+]
+},
+{
+"id": "learn-one-s-place_idiom",
+"w": "learn one's place",
+"kind": "idiom",
+"gloss": [
+"To be made aware, by experience, of one's inferior rank or status."
+]
+},
+{
+"id": "go-shit-yourself_idiom",
+"w": "go shit yourself",
+"kind": "idiom",
+"gloss": [
+"To go away; get lost; leave."
+]
+},
+{
+"id": "keep-up-with-the-times_idiom",
+"w": "keep up with the times",
+"kind": "idiom",
+"gloss": [
+"To change one's ideas, views or way of living in order to stay current or modern."
+]
+},
+{
+"id": "to-a-greater-extent_idiom",
+"w": "to a greater extent",
+"kind": "idiom",
+"gloss": [
+"Occurring somewhat more."
+]
+},
+{
+"id": "sleep-funny_idiom",
+"w": "sleep funny",
+"kind": "idiom",
+"gloss": [
+"To sleep in a position resulting in muscle or joint pain upon waking."
+]
+},
+{
+"id": "in-reaction_idiom",
+"w": "in reaction",
+"kind": "idiom",
+"gloss": [
+"By being partially or entirely a response to a stimulus or other event, without which there would be a diminished or no such action or statement.; (while under) duress; by dint of; in the face of; in light of; in return; (in) response;."
+]
+},
+{
+"id": "leave-someone-to-their-fate_idiom",
+"w": "leave someone to their fate",
+"kind": "idiom",
+"gloss": [
+"to abandon; to give up on; to leave on their own – chiefly in regard to avoid upcoming misfortune"
+]
+},
+{
+"id": "ready-or-not_idiom",
+"w": "ready or not",
+"kind": "idiom",
+"gloss": [
+"Determined, regardless of readiness or preparedness."
+]
+},
+{
+"id": "for-fear-that_idiom",
+"w": "for fear that",
+"kind": "idiom",
+"gloss": [
+"In order to attempt to prevent the risk that (a particular incident or event might occur)."
+]
+},
+{
+"id": "on-bad-terms_idiom",
+"w": "on bad terms",
+"kind": "idiom",
+"gloss": [
+"being unfriendly; having bad relations."
+]
+},
+{
+"id": "yes-virginia_idiom",
+"w": "yes, Virginia",
+"kind": "idiom",
+"gloss": [
+"Used to express that something is true, despite skepticism by some people."
+]
+},
+{
+"id": "from-hand-to-hand_idiom",
+"w": "from hand to hand",
+"kind": "idiom",
+"gloss": [
+"From one individual to another."
+]
+},
+{
+"id": "to-the-limit_idiom",
+"w": "to the limit",
+"kind": "idiom",
+"gloss": [
+"To the greatest possible extent."
+]
+},
+{
+"id": "living-soul_idiom",
+"w": "living soul",
+"kind": "idiom",
+"gloss": [
+"A person"
+]
+},
+{
+"id": "buckley-s-chance_idiom",
+"w": "Buckley's chance",
+"kind": "idiom",
+"gloss": [
+"A very small chance; no chance at all."
+]
+},
+{
+"id": "get-a-move-on_idiom",
+"w": "get a move on",
+"kind": "idiom",
+"gloss": [
+"To hurry up, to get moving."
+]
+},
+{
+"id": "put-out-feelers_idiom",
+"w": "put out feelers",
+"kind": "idiom",
+"gloss": [
+"To explore or watch for; to ask around; to investigate."
+]
+},
+{
+"id": "can-it_idiom",
+"w": "can it",
+"kind": "idiom",
+"gloss": [
+"To shut up, to be quiet; to quit doing something; to put an end to something."
+]
+},
+{
+"id": "light-a-fire-under_idiom",
+"w": "light a fire under",
+"kind": "idiom",
+"gloss": [
+"To motivate or encourage (someone) to start sooner or move faster."
+]
+},
+{
+"id": "one-hundred-and-one_idiom",
+"w": "one hundred and one",
+"kind": "idiom",
+"gloss": [
+"A great many; numerous."
+]
+},
+{
+"id": "hold-over-someone-s-head_idiom",
+"w": "hold over someone's head",
+"kind": "idiom",
+"gloss": [
+"To harp on; to remind continuously (especially of a misstep or defeat)."
+]
+},
+{
+"id": "oh-dark-thirty_idiom",
+"w": "oh dark thirty",
+"kind": "idiom",
+"gloss": [
+"Some unspecified hour in the early morning (implying an unpleasant time to be awake)."
+]
+},
+{
+"id": "hang-a-louie_idiom",
+"w": "hang a Louie",
+"kind": "idiom",
+"gloss": [
+"To make a left turn while driving a vehicle (←)."
+]
+},
+{
+"id": "hang-a-ralph_idiom",
+"w": "hang a Ralph",
+"kind": "idiom",
+"gloss": [
+"To make a right turn while driving a vehicle (→)."
+]
+},
+{
+"id": "babe-magnet_idiom",
+"w": "babe magnet",
+"kind": "idiom",
+"gloss": [
+"Synonym of chick magnet"
+]
+},
+{
+"id": "forty-minutes-of-hell_idiom",
+"w": "forty minutes of hell",
+"kind": "idiom",
+"gloss": [
+"The NCAA strategy of playing a suffocating full-court press and aggressive offense for the entirety of a game."
+]
+},
+{
+"id": "charity-mugger_idiom",
+"w": "charity mugger",
+"kind": "idiom",
+"gloss": [
+"A person employed by a charity, or by an intermediary fundraising agency employed by the charity, who stands in the street and invites passersby to set up standing orders or direct debits to make regular donations to the charity."
+]
+},
+{
+"id": "not-on-your-nelly_idiom",
+"w": "not on your nelly",
+"kind": "idiom",
+"gloss": [
+"Absolutely not; under no circumstances."
+]
+},
+{
+"id": "brass-monkey_idiom",
+"w": "brass monkey",
+"kind": "idiom",
+"gloss": [
+"Very cold."
+]
+},
+{
+"id": "in-dutch_idiom",
+"w": "in Dutch",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see in, Dutch."
+]
+},
+{
+"id": "all-over-the-board_idiom",
+"w": "all over the board",
+"kind": "idiom",
+"gloss": [
+"All over the map."
+]
+},
+{
+"id": "spank-the-monkey_idiom",
+"w": "spank the monkey",
+"kind": "idiom",
+"gloss": [
+"To masturbate by stimulating one's penis."
+]
+},
+{
+"id": "in-two-shakes-of-a-lamb-s-tail_idiom",
+"w": "in two shakes of a lamb's tail",
+"kind": "idiom",
+"gloss": [
+"Synonym of in two shakes."
+]
+},
+{
+"id": "you-what_idiom",
+"w": "you what",
+"kind": "idiom",
+"gloss": [
+"An intensified version of what or huh."
+]
+},
+{
+"id": "than-a-bygod_idiom",
+"w": "than a bygod",
+"kind": "idiom",
+"gloss": [
+"Used with a comparative to express extreme heat or cold."
+]
+},
+{
+"id": "zip-one-s-lip_idiom",
+"w": "zip one's lip",
+"kind": "idiom",
+"gloss": [
+"To refrain from or to stop talking; to be quiet; shut up."
+]
+},
+{
+"id": "nervous-hit_idiom",
+"w": "nervous hit",
+"kind": "idiom",
+"gloss": [
+"A production which receives generally favorable notice, but is not assured of success."
+]
+},
+{
+"id": "take-guard_idiom",
+"w": "take guard",
+"kind": "idiom",
+"gloss": [
+"(For a new batsman, with help from the umpire) to mark a point on the popping crease in front of his wicket so that he knows where it is behind him; to guard."
+]
+},
+{
+"id": "go-batshit_idiom",
+"w": "go batshit",
+"kind": "idiom",
+"gloss": [
+"To become completely irrational; to react in an irrationally extreme manner."
+]
+},
+{
+"id": "not-in-kansas-anymore_idiom",
+"w": "not in Kansas anymore",
+"kind": "idiom",
+"gloss": [
+"No longer in quiet and comfortable surroundings."
+]
+},
+{
+"id": "close-the-face_idiom",
+"w": "close the face",
+"kind": "idiom",
+"gloss": [
+"To turn the face of the bat inwards, in order to hit the ball to the leg side."
+]
+},
+{
+"id": "rough-trot_idiom",
+"w": "rough trot",
+"kind": "idiom",
+"gloss": [
+"A series of difficult circumstances."
+]
+},
+{
+"id": "cut-red-tape_idiom",
+"w": "cut red tape",
+"kind": "idiom",
+"gloss": [
+"To reduce bureaucracy."
+]
+},
+{
+"id": "base-over-apex_idiom",
+"w": "base over apex",
+"kind": "idiom",
+"gloss": [
+"Falling over in a jumbled heap."
+]
+},
+{
+"id": "babe-in-the-woods_idiom",
+"w": "babe in the woods",
+"kind": "idiom",
+"gloss": [
+"A person who is innocent, naive, inexperienced, or helpless, especially with respect to an unfamiliar situation or environment."
+]
+},
+{
+"id": "bar-star_idiom",
+"w": "bar star",
+"kind": "idiom",
+"gloss": [
+"A woman who frequents bars or lounges, usually late at night."
+]
+},
+{
+"id": "fall-off-the-back-of-a-lorry_idiom",
+"w": "fall off the back of a lorry",
+"kind": "idiom",
+"gloss": [
+"Of an item of merchandise, to come into a person's possession without having been paid for; to have been acquired illegally."
+]
+},
+{
+"id": "boy-in-the-boat_idiom",
+"w": "boy in the boat",
+"kind": "idiom",
+"gloss": [
+"The human clitoris."
+]
+},
+{
+"id": "brass-monkeys_idiom",
+"w": "brass monkeys",
+"kind": "idiom",
+"gloss": [
+"Very cold."
+]
+},
+{
+"id": "green-fingers_idiom",
+"w": "green fingers",
+"kind": "idiom",
+"gloss": [
+"A seemingly natural gardening ability."
+]
+},
+{
+"id": "bare-poles_idiom",
+"w": "bare poles",
+"kind": "idiom",
+"gloss": [
+"The condition of a sailing boat when all of its sails have been taken in."
+]
+},
+{
+"id": "quick-on-the-uptake_idiom",
+"w": "quick on the uptake",
+"kind": "idiom",
+"gloss": [
+"Able to readily understand things; aware and intelligent."
+]
+},
+{
+"id": "flannelled-fool_idiom",
+"w": "flannelled fool",
+"kind": "idiom",
+"gloss": [
+"A cricketer (from the white flannel trousers they traditionally wear)."
+]
+}
+]

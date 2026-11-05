@@ -1,0 +1,100 @@
+{"id":"non_x","pos":"adj","th":"ไม่; ที่ไม่ใช่ (คำนำหน้า)","ex":"This is a non-stop flight to Bangkok.","exTh":"นี่คือเที่ยวบินตรงไม่แวะพักไปกรุงเทพฯ","note":"โดยปกติเป็นคำนำหน้า เขียนต่อกับคำอื่น เช่น non-stop"}
+{"id":"fig_x","pos":"noun","th":"มะเดื่อฝรั่ง; ผลมะเดื่อ","ex":"I put a fresh fig on my salad.","exTh":"ฉันวางมะเดื่อฝรั่งสดลงบนสลัด"}
+{"id":"lord_x","pos":"noun","th":"เจ้านาย; ขุนนาง; พระเจ้า","ex":"In the past, a lord owned the land and the village.","exTh":"ในอดีต ขุนนางเป็นเจ้าของที่ดินและหมู่บ้าน"}
+{"id":"defendant_x","pos":"noun","th":"จำเลย","ex":"The defendant said he was not guilty.","exTh":"จำเลยบอกว่าเขาไม่ผิด"}
+{"id":"born_x","pos":"adj","th":"โดยกำเนิด; ที่เกิดมา","ex":"She is a born singer.","exTh":"เธอเป็นนักร้องโดยกำเนิด"}
+{"id":"amendment_x","pos":"noun","th":"การแก้ไข; การปรับปรุงแก้ไข; ข้อแก้ไข","ex":"The council voted for an amendment to the law.","exTh":"สภาลงมติเห็นชอบการแก้ไขกฎหมาย"}
+{"id":"plaintiff_x","pos":"noun","th":"โจทก์","ex":"The plaintiff asked the court for compensation.","exTh":"โจทก์ขอให้ศาลชดใช้ค่าเสียหาย"}
+{"id":"ratio_x","pos":"noun","th":"อัตราส่วน; สัดส่วน","ex":"The ratio of boys to girls in the class is two to three.","exTh":"อัตราส่วนเด็กชายต่อเด็กหญิงในห้องคือสองต่อสาม"}
+{"id":"experimental_x","pos":"adj","th":"ซึ่งเป็นการทดลอง; เชิงทดลอง","ex":"The company is testing an experimental medicine.","exTh":"บริษัทกำลังทดสอบยาทดลอง"}
+{"id":"attorney_x","pos":"noun","th":"ทนายความ; ตัวแทนตามกฎหมาย","ex":"She hired an attorney to help with the case.","exTh":"เธอจ้างทนายความมาช่วยคดีนี้"}
+{"id":"respectively_x","pos":"adv","th":"ตามลำดับ; ตามที่กล่าวไว้","ex":"Tom and Anna are 20 and 25, respectively.","exTh":"ทอมและแอนนาอายุ 20 และ 25 ตามลำดับ"}
+{"id":"accordance_x","pos":"noun","th":"ความสอดคล้อง; ความเป็นไปตาม","ex":"We acted in accordance with the rules.","exTh":"เราปฏิบัติตามกฎ","note":"มักใช้ in accordance with"}
+{"id":"statute_x","pos":"noun","th":"กฎหมายลายลักษณ์อักษร; พระราชบัญญัติ","ex":"The statute makes it illegal to park here.","exTh":"กฎหมายนี้ห้ามจอดรถที่นี่"}
+{"id":"subsequent_x","pos":"adj","th":"ที่ตามมา; ภายหลัง","ex":"Subsequent events proved that he was right.","exTh":"เหตุการณ์ที่ตามมาพิสูจน์ว่าเขาถูกต้อง"}
+{"id":"commissioner_x","pos":"noun","th":"กรรมาธิการ; ผู้บัญชาการ; กรรมการ","ex":"The police commissioner spoke to reporters.","exTh":"ผู้บัญชาการตำรวจพูดกับผู้สื่อข่าว"}
+{"id":"pre_x","pos":"prep","th":"ก่อน; ก่อนหน้า","ex":"The pre-game show starts at six.","exTh":"รายการก่อนเกมเริ่มตอนหกโมง","note":"ส่วนใหญ่ใช้เป็นคำนำหน้า เช่น pre-game"}
+{"id":"liability_x","pos":"noun","th":"ความรับผิดชอบตามกฎหมาย; หนี้สิน; ภาระ","ex":"The company has no liability for lost bags.","exTh":"บริษัทไม่ต้องรับผิดชอบต่อกระเป๋าที่สูญหาย"}
+{"id":"applicable_x","pos":"adj","th":"ที่ใช้ได้; ที่เกี่ยวข้อง","ex":"This rule is not applicable to children.","exTh":"กฎข้อนี้ไม่ใช้กับเด็ก"}
+{"id":"sub_x","pos":"verb","th":"ทำหน้าที่แทน; เปลี่ยนตัว","ex":"The coach subbed the tired player at halftime.","exTh":"โค้ชเปลี่ยนตัวผู้เล่นที่เหนื่อยออกตอนพักครึ่ง","note":"ภาษาพูด ย่อมาจาก substitute"}
+{"id":"density_x","pos":"noun","th":"ความหนาแน่น","ex":"The city has a high population density.","exTh":"เมืองนี้มีความหนาแน่นของประชากรสูง"}
+{"id":"protein_x","pos":"noun","th":"โปรตีน","ex":"Eggs and fish are good sources of protein.","exTh":"ไข่และปลาเป็นแหล่งโปรตีนที่ดี"}
+{"id":"equivalent_x","pos":"adj","th":"เท่ากัน; เทียบเท่า","ex":"One dollar is equivalent to about thirty baht.","exTh":"หนึ่งดอลลาร์เทียบเท่ากับประมาณสามสิบบาท"}
+{"id":"parallel_x","pos":"adj","th":"ขนาน; ที่ไปทางเดียวกัน","ex":"The two roads are parallel to each other.","exTh":"ถนนสองสายนี้ขนานกัน"}
+{"id":"pursuant_x","pos":"adj","th":"ตามที่; สอดคล้องกับ","ex":"Pursuant to the contract, payment is due in May.","exTh":"ตามสัญญา ต้องชำระเงินภายในเดือนพฤษภาคม","note":"ภาษาทางการ มักใช้ pursuant to"}
+{"id":"variable_x","pos":"adj","th":"ที่เปลี่ยนแปลงได้; ไม่แน่นอน","ex":"The weather here is highly variable.","exTh":"อากาศที่นี่แปรปรวนมาก"}
+{"id":"petition_x","pos":"noun","th":"คำร้อง; ใบลงชื่อเรียกร้อง","ex":"Residents signed a petition against the new road.","exTh":"ชาวบ้านลงชื่อในคำร้องคัดค้านถนนสายใหม่"}
+{"id":"machinery_x","pos":"noun","th":"เครื่องจักร; เครื่องยนต์กลไก","ex":"The factory bought new machinery last year.","exTh":"โรงงานซื้อเครื่องจักรใหม่เมื่อปีที่แล้ว"}
+{"id":"ministry_x","pos":"noun","th":"กระทรวง","ex":"She works for the Ministry of Education.","exTh":"เธอทำงานให้กระทรวงศึกษาธิการ"}
+{"id":"ought_x","pos":"verb","th":"ควรจะ; สมควร","ex":"You ought to see a doctor about that cough.","exTh":"คุณควรไปหาหมอเรื่องอาการไอนั้น","note":"ใช้ ought to + กริยาช่องที่ 1"}
+{"id":"chamber_x","pos":"noun","th":"ห้อง; ห้องประชุม; สภา","ex":"The council met in a small chamber.","exTh":"สภาประชุมกันในห้องเล็กๆ ห้องหนึ่ง"}
+{"id":"representation_x","pos":"noun","th":"การเป็นตัวแทน; การนำเสนอภาพ","ex":"The film improved the representation of women.","exTh":"ภาพยนตร์เรื่องนี้ช่วยยกระดับการนำเสนอภาพของผู้หญิง"}
+{"id":"statistical_x","pos":"adj","th":"ทางสถิติ; เกี่ยวกับสถิติ","ex":"The report includes a statistical analysis of sales.","exTh":"รายงานมีการวิเคราะห์ทางสถิติของยอดขาย"}
+{"id":"mode_x","pos":"noun","th":"รูปแบบ; โหมด; วิธี","ex":"Please put your phone in silent mode.","exTh":"กรุณาตั้งโทรศัพท์เป็นโหมดเงียบ"}
+{"id":"municipal_x","pos":"adj","th":"ของเทศบาล; ของเมือง","ex":"The municipal library opens at nine.","exTh":"ห้องสมุดเทศบาลเปิดเก้าโมง"}
+{"id":"exposure_x","pos":"noun","th":"การสัมผัส; การถูกเปิดเผย; การได้รับรู้","ex":"Too much exposure to the sun can hurt your skin.","exTh":"การสัมผัสแสงแดดมากเกินไปอาจทำร้ายผิว"}
+{"id":"respondent_x","pos":"noun","th":"ผู้ตอบแบบสอบถาม; จำเลย (ในบางคดี)","ex":"Most respondents said they liked the new design.","exTh":"ผู้ตอบแบบสอบถามส่วนใหญ่บอกว่าชอบการออกแบบใหม่"}
+{"id":"appendix_x","pos":"noun","th":"ภาคผนวก; ไส้ติ่ง","ex":"The full data is in the appendix.","exTh":"ข้อมูลทั้งหมดอยู่ในภาคผนวก"}
+{"id":"expenditure_x","pos":"noun","th":"รายจ่าย; ค่าใช้จ่าย","ex":"The government cut its expenditure on roads.","exTh":"รัฐบาลลดรายจ่ายด้านถนน"}
+{"id":"implementation_x","pos":"noun","th":"การนำไปปฏิบัติ; การดำเนินการ","ex":"The implementation of the plan will take a year.","exTh":"การนำแผนไปปฏิบัติจะใช้เวลาหนึ่งปี"}
+{"id":"mid_x","pos":"adj","th":"กลาง; ตรงกลาง","ex":"He is in his mid thirties.","exTh":"เขาอายุราวกลางสามสิบ","note":"มักเป็นคำนำหน้า เช่น mid-air"}
+{"id":"removal_x","pos":"noun","th":"การนำออก; การย้ายออก; การปลด","ex":"The removal of the old tree took two hours.","exTh":"การตัดต้นไม้เก่าออกใช้เวลาสองชั่วโมง"}
+{"id":"distinct_x","pos":"adj","th":"ชัดเจน; แตกต่างกัน","ex":"There is a distinct smell of smoke here.","exTh":"ที่นี่มีกลิ่นควันชัดเจน"}
+{"id":"boundary_x","pos":"noun","th":"เขตแดน; ขอบเขต","ex":"A river forms the boundary between the two towns.","exTh":"แม่น้ำเป็นเขตแดนระหว่างสองเมือง"}
+{"id":"enforcement_x","pos":"noun","th":"การบังคับใช้; การปฏิบัติตามกฎหมาย","ex":"Law enforcement is the job of the police.","exTh":"การบังคับใช้กฎหมายเป็นหน้าที่ของตำรวจ"}
+{"id":"judicial_x","pos":"adj","th":"เกี่ยวกับตุลาการ; เกี่ยวกับศาล","ex":"The judicial system must be fair to everyone.","exTh":"ระบบตุลาการต้องยุติธรรมกับทุกคน"}
+{"id":"constitutional_x","pos":"adj","th":"ตามรัฐธรรมนูญ; เกี่ยวกับรัฐธรรมนูญ","ex":"Free speech is a constitutional right.","exTh":"เสรีภาพในการพูดเป็นสิทธิตามรัฐธรรมนูญ"}
+{"id":"treasury_x","pos":"noun","th":"กระทรวงการคลัง; คลังสมบัติ","ex":"The treasury plans to raise taxes next year.","exTh":"กระทรวงการคลังวางแผนขึ้นภาษีปีหน้า"}
+{"id":"census_x","pos":"noun","th":"การสำมะโนประชากร","ex":"The country holds a census every ten years.","exTh":"ประเทศนี้จัดสำมะโนประชากรทุกสิบปี"}
+{"id":"zero_x","pos":"num","th":"ศูนย์; เลขศูนย์","ex":"The temperature dropped to zero last night.","exTh":"เมื่อคืนอุณหภูมิลดลงเหลือศูนย์องศา"}
+{"id":"theoretical_x","pos":"adj","th":"ตามทฤษฎี; ในเชิงทฤษฎี","ex":"It is only a theoretical possibility.","exTh":"นั่นเป็นเพียงความเป็นไปได้ในเชิงทฤษฎี"}
+{"id":"ex_x","pos":"noun","th":"แฟนเก่า; อดีตคู่รัก","ex":"I met my ex at the supermarket.","exTh":"ฉันเจอแฟนเก่าที่ซูเปอร์มาร์เก็ต","note":"ภาษาพูด"}
+{"id":"clay_x","pos":"noun","th":"ดินเหนียว","ex":"The children made small cups from clay.","exTh":"เด็กๆ ปั้นถ้วยเล็กๆ จากดินเหนียว"}
+{"id":"patent_x","pos":"noun","th":"สิทธิบัตร","ex":"He got a patent for his new invention.","exTh":"เขาได้สิทธิบัตรสำหรับสิ่งประดิษฐ์ใหม่ของเขา"}
+{"id":"framework_x","pos":"noun","th":"โครงสร้าง; กรอบการทำงาน","ex":"The team built a framework for the project.","exTh":"ทีมสร้างกรอบการทำงานสำหรับโครงการ"}
+{"id":"velocity_x","pos":"noun","th":"ความเร็ว (มีทิศทาง); ความเร็วต้น","ex":"The velocity of the car increased quickly.","exTh":"ความเร็วของรถเพิ่มขึ้นอย่างรวดเร็ว"}
+{"id":"ma_x","pos":"noun","th":"แม่; คุณแม่","ex":"Ma made soup for all of us.","exTh":"แม่ทำซุปให้พวกเราทุกคน","note":"ภาษาพูด ใช้เรียกแม่"}
+{"id":"subsection_x","pos":"noun","th":"หมวดย่อย; ข้อย่อย","ex":"Please read subsection three of the contract.","exTh":"กรุณาอ่านข้อย่อยสามของสัญญา"}
+{"id":"jack_x","pos":"noun","th":"แม่แรงยกรถ; ไพ่แจ็ค; ผู้ชาย","ex":"He used a jack to lift the car.","exTh":"เขาใช้แม่แรงยกรถขึ้น"}
+{"id":"ownership_x","pos":"noun","th":"ความเป็นเจ้าของ; กรรมสิทธิ์","ex":"The ownership of the house passed to her.","exTh":"กรรมสิทธิ์ของบ้านตกเป็นของเธอ"}
+{"id":"namely_x","pos":"adv","th":"นั่นคือ; ได้แก่","ex":"Two students failed, namely Sam and Lee.","exTh":"นักเรียนสองคนสอบตก ได้แก่ แซมและลี"}
+{"id":"thermal_x","pos":"adj","th":"เกี่ยวกับความร้อน; ให้ความอบอุ่น","ex":"She wore thermal socks in the snow.","exTh":"เธอใส่ถุงเท้ากันหนาวในหิมะ"}
+{"id":"intensity_x","pos":"noun","th":"ความรุนแรง; ความเข้มข้น","ex":"The intensity of the storm surprised everyone.","exTh":"ความรุนแรงของพายุทำให้ทุกคนประหลาดใจ"}
+{"id":"collective_x","pos":"adj","th":"ร่วมกัน; ที่เป็นส่วนรวม","ex":"It was a collective decision by the whole team.","exTh":"นั่นเป็นการตัดสินใจร่วมกันของทั้งทีม"}
+{"id":"violation_x","pos":"noun","th":"การละเมิด; การฝ่าฝืน","ex":"Parking here is a violation of the rules.","exTh":"การจอดรถที่นี่เป็นการฝ่าฝืนกฎ"}
+{"id":"matrix_x","pos":"noun","th":"เมทริกซ์; แม่แบบ; โครงสร้าง","ex":"The teacher drew a matrix on the board.","exTh":"ครูวาดเมทริกซ์บนกระดาน"}
+{"id":"diagnosis_x","pos":"noun","th":"การวินิจฉัย; ผลการวินิจฉัย","ex":"The doctor gave her a clear diagnosis.","exTh":"หมอให้ผลการวินิจฉัยที่ชัดเจนแก่เธอ"}
+{"id":"founded_x","pos":"adj","th":"ที่มีเหตุผลรองรับ; ที่ก่อตั้งขึ้น","ex":"His fears were well founded.","exTh":"ความกลัวของเขามีเหตุผลรองรับดี","note":"มักใช้ well-founded / ill-founded"}
+{"id":"doctrine_x","pos":"noun","th":"หลักคำสอน; ลัทธิ; หลักการ","ex":"The church teaches its own doctrine.","exTh":"โบสถ์สอนหลักคำสอนของตนเอง"}
+{"id":"thou_x","pos":"pron","th":"เจ้า; ท่าน (คำเก่า)","ex":"\"Thou art kind,\" the old poem says.","exTh":"บทกวีเก่าเขียนว่า \"เจ้าช่างใจดี\"","note":"คำโบราณ พบในพระคัมภีร์และบทกวี"}
+{"id":"administrator_x","pos":"noun","th":"ผู้บริหาร; ผู้ดูแลระบบ","ex":"The network administrator fixed the problem.","exTh":"ผู้ดูแลระบบเครือข่ายแก้ปัญหาได้แล้ว"}
+{"id":"communist_x","pos":"noun","th":"ผู้นิยมลัทธิคอมมิวนิสต์; คอมมิวนิสต์","ex":"His grandfather was a communist in the 1950s.","exTh":"ปู่ของเขาเป็นคอมมิวนิสต์ในช่วงทศวรรษ 1950"}
+{"id":"statutory_x","pos":"adj","th":"ตามกฎหมาย; ที่กฎหมายกำหนด","ex":"Workers have statutory rights to paid leave.","exTh":"ลูกจ้างมีสิทธิลาหยุดโดยได้รับค่าจ้างตามกฎหมาย"}
+{"id":"surplus_x","pos":"noun","th":"ส่วนเกิน; ส่วนที่เหลือ","ex":"The farm sold its surplus rice.","exTh":"ฟาร์มขายข้าวส่วนเกิน"}
+{"id":"payable_x","pos":"adj","th":"ที่ต้องจ่าย; ถึงกำหนดชำระ","ex":"The bill is payable within thirty days.","exTh":"ใบแจ้งหนี้ต้องชำระภายในสามสิบวัน"}
+{"id":"amend_x","pos":"verb","th":"แก้ไข; ปรับปรุง","ex":"The government plans to amend the law.","exTh":"รัฐบาลวางแผนจะแก้ไขกฎหมาย"}
+{"id":"sodium_x","pos":"noun","th":"โซเดียม","ex":"Salt contains a lot of sodium.","exTh":"เกลือมีโซเดียมอยู่มาก"}
+{"id":"ion_x","pos":"noun","th":"ไอออน","ex":"An ion has an electric charge.","exTh":"ไอออนมีประจุไฟฟ้า"}
+{"id":"subsequently_x","pos":"adv","th":"ต่อมา; หลังจากนั้น","ex":"He was subsequently promoted to manager.","exTh":"ต่อมาเขาได้รับการเลื่อนตำแหน่งเป็นผู้จัดการ"}
+{"id":"hydrogen_x","pos":"noun","th":"ไฮโดรเจน","ex":"Water is made of hydrogen and oxygen.","exTh":"น้ำประกอบด้วยไฮโดรเจนและออกซิเจน"}
+{"id":"hereby_x","pos":"adv","th":"ด้วยการนี้; ขอ ณ ที่นี้","ex":"I hereby declare the meeting open.","exTh":"ข้าพเจ้าขอประกาศเปิดการประชุม ณ ที่นี้","note":"ภาษาทางการ"}
+{"id":"molecular_x","pos":"adj","th":"เกี่ยวกับโมเลกุล","ex":"She studies molecular biology at university.","exTh":"เธอเรียนชีววิทยาโมเลกุลที่มหาวิทยาลัย"}
+{"id":"spectrum_x","pos":"noun","th":"สเปกตรัม; ช่วงกว้าง","ex":"A rainbow shows the colors of the spectrum.","exTh":"รุ้งกินน้ำแสดงสีต่างๆ ของสเปกตรัม"}
+{"id":"plasma_x","pos":"noun","th":"พลาสมา; น้ำเลือด","ex":"Plasma is the liquid part of blood.","exTh":"พลาสมาเป็นส่วนที่เป็นของเหลวของเลือด"}
+{"id":"taxation_x","pos":"noun","th":"การเก็บภาษี; ระบบภาษี","ex":"High taxation worries small businesses.","exTh":"การเก็บภาษีสูงทำให้ธุรกิจขนาดเล็กกังวล"}
+{"id":"nitrogen_x","pos":"noun","th":"ไนโตรเจน","ex":"Air is mostly nitrogen.","exTh":"อากาศส่วนใหญ่ประกอบด้วยไนโตรเจน"}
+{"id":"random_x","pos":"adj","th":"สุ่ม; ตามบุญตามกรรม; ไม่มีรูปแบบ","ex":"The winner was chosen at random.","exTh":"ผู้ชนะถูกเลือกโดยการสุ่ม","note":"ในภาษาพูดยังหมายถึง แปลกๆ ไม่เกี่ยวกัน"}
+{"id":"absorption_x","pos":"noun","th":"การดูดซึม; การดูดซับ","ex":"The absorption of water by the soil is slow.","exTh":"การดูดซึมน้ำของดินเกิดขึ้นช้า"}
+{"id":"timber_x","pos":"noun","th":"ไม้แปรรูป; ไม้ซุง; ป่าไม้","ex":"The house is built from local timber.","exTh":"บ้านหลังนี้สร้างจากไม้ในท้องถิ่น"}
+{"id":"freight_x","pos":"noun","th":"สินค้าที่ขนส่ง; การขนส่งสินค้า","ex":"The freight train carries goods across the country.","exTh":"รถไฟขนสินค้าบรรทุกสินค้าไปทั่วประเทศ"}
+{"id":"domain_x","pos":"noun","th":"โดเมน; ขอบเขต; แวดวง","ex":"Cooking is her domain in the house.","exTh":"การทำครัวเป็นแวดวงของเธอในบ้าน","note":"ในอินเทอร์เน็ต domain คือชื่อเว็บไซต์"}
+{"id":"optical_x","pos":"adj","th":"เกี่ยวกับการมองเห็น; เกี่ยวกับแสง","ex":"The camera has a good optical zoom.","exTh":"กล้องนี้มีซูมแบบออปติคัลที่ดี"}
+{"id":"valve_x","pos":"noun","th":"วาล์ว; ลิ้นควบคุม","ex":"Turn the valve to stop the water.","exTh":"หมุนวาล์วเพื่อปิดน้ำ"}
+{"id":"liable_x","pos":"adj","th":"ต้องรับผิดชอบ; มีแนวโน้มที่จะ","ex":"The driver is liable for the damage.","exTh":"คนขับต้องรับผิดชอบต่อความเสียหาย"}
+{"id":"respective_x","pos":"adj","th":"ของแต่ละคน; ตามลำดับ","ex":"They went back to their respective rooms.","exTh":"พวกเขากลับเข้าห้องของตนเอง"}
+{"id":"adjacent_x","pos":"adj","th":"ติดกัน; ที่อยู่ข้างเคียง","ex":"Our hotel is adjacent to the beach.","exTh":"โรงแรมของเราอยู่ติดกับชายหาด"}
+{"id":"trans_x","pos":"adj","th":"ข้ามเพศ; ข้าม; ทรานส์","ex":"She is a trans woman and works as a teacher.","exTh":"เธอเป็นผู้หญิงข้ามเพศและทำงานเป็นครู","note":"ย่อจาก transgender; ในวิชาเคมียังหมายถึงรูปแบบทรานส์"}
+{"id":"app_x","pos":"noun","th":"แอป; แอปพลิเคชัน","ex":"I downloaded a new app for learning English.","exTh":"ฉันดาวน์โหลดแอปใหม่สำหรับเรียนภาษาอังกฤษ"}
+{"id":"unity_x","pos":"noun","th":"ความสามัคคี; ความเป็นหนึ่งเดียว","ex":"The team showed great unity after the loss.","exTh":"ทีมแสดงความสามัคคีอย่างมากหลังความพ่ายแพ้"}
+{"id":"intervention_x","pos":"noun","th":"การเข้าแทรกแซง; การเข้าช่วยเหลือ","ex":"Early intervention can help children with reading problems.","exTh":"การเข้าช่วยเหลือแต่เนิ่นๆ ช่วยเด็กที่มีปัญหาด้านการอ่านได้"}
+{"id":"transaction_x","pos":"noun","th":"ธุรกรรม; การซื้อขาย","ex":"The bank sent me a list of every transaction.","exTh":"ธนาคารส่งรายการธุรกรรมทั้งหมดมาให้ฉัน"}

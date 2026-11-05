@@ -1,0 +1,881 @@
+[
+{
+"id": "asset_x",
+"w": "asset",
+"gloss": [
+"A thing or quality that has value, especially one that generates cash flows.",
+"Any item recorded on the left-hand side of a balance sheet.",
+"Any component, model, process or framework of value that can be leveraged or reused."
+]
+},
+{
+"id": "chloride_x",
+"w": "chloride",
+"gloss": [
+"Any binary compound of chlorine and another element or radical.",
+"Any salt of hydrochloric acid.",
+"The anionic form of a chlorine atom."
+]
+},
+{
+"id": "reservoir_x",
+"w": "reservoir",
+"gloss": [
+"A place where anything is kept in store.",
+"A large natural or artificial lake used as a source of water supply.",
+"A small intercellular space, often containing resin, essential oil, or some other secreted matter."
+]
+},
+{
+"id": "receiver_x",
+"w": "receiver",
+"gloss": [
+"An official whose job is to receive taxes or other monies; a tax collector, a treasurer.",
+"A person who receives something in a general sense; a recipient.",
+"A person who accepts stolen goods."
+]
+},
+{
+"id": "aviation_x",
+"w": "aviation",
+"gloss": [
+"The art or science of making and flying aircraft.",
+"Flying, operating, or operation of aircraft.",
+"Industry that produces aircraft."
+]
+},
+{
+"id": "reconstruction_x",
+"w": "reconstruction",
+"gloss": [
+"The action of reconstructing something, not necessarily to the earlier state.",
+"The act of restoring something to an earlier state.",
+"The recreation or retelling of the (purported) events leading up to a certain outcome."
+]
+},
+{
+"id": "livestock_x",
+"w": "livestock",
+"gloss": [
+"Farm animals; animals domesticated for cultivation."
+]
+},
+{
+"id": "parish_x",
+"w": "parish",
+"gloss": [
+"An administrative part of a diocese that has its own church.",
+"The community attending that church; the members of the parish.",
+"An ecclesiastical society, usually not bounded by territorial limits, but composed of those persons who choose to unite under the charge of a particular priest, clergyman, or minister; also, loosely, the territory in which the members of a congregation live."
+]
+},
+{
+"id": "insert_x",
+"w": "insert",
+"gloss": [
+"To put in between or into.",
+"An image inserted into text.",
+"A promotional or instructive leaflet inserted into a magazine, newspaper, tape or disk package, etc."
+]
+},
+{
+"id": "prosecution_x",
+"w": "prosecution",
+"gloss": [
+"The act of prosecuting a scheme or endeavor.",
+"The institution of legal proceedings (particularly criminal) against a person.",
+"The prosecuting party."
+]
+},
+{
+"id": "vacuum_x",
+"w": "vacuum",
+"gloss": [
+"A region of space that contains no matter.",
+"The condition of rarefaction, or reduction of pressure below that of the atmosphere, in a vessel, such as the condenser of a steam engine, which is nearly exhausted of air or steam, etc.",
+"A spacetime having tensors of zero magnitude."
+]
+},
+{
+"id": "presently_x",
+"w": "presently",
+"gloss": [
+"At present; now; currently.",
+"Immediately, at once; quickly.",
+"Before long; soon."
+]
+},
+{
+"id": "posterior_x",
+"w": "posterior",
+"gloss": [
+"Relating to or denoting presentation of a fetus in which the rear or caudal end is nearest the cervix and emerges first at birth.",
+"Next to, or facing the main stem or axis.",
+"Following in order or in time."
+]
+},
+{
+"id": "exempt_x",
+"w": "exempt",
+"gloss": [
+"Free from a duty, obligation, rule, law, etc.",
+"Not entitled to overtime pay when working overtime.",
+"Cut off; set apart."
+]
+},
+{
+"id": "manuscript_x",
+"w": "manuscript",
+"gloss": [
+"Handwritten, or by extension manually typewritten, as opposed to being mechanically reproduced.",
+"A book, composition or any other document, written by hand (or manually typewritten), not mechanically reproduced.",
+"A single, original copy of a book, article, composition etc, written by hand or even printed, submitted as original for (copy-editing and) reproductive publication."
+]
+},
+{
+"id": "disclosure_x",
+"w": "disclosure",
+"gloss": [
+"The act of revealing something.",
+"The making known of a previously hidden fact or series of facts to another party; the act of disclosing.",
+"That which is disclosed; a previously hidden fact or series of facts that is made known."
+]
+},
+{
+"id": "rod_x",
+"w": "rod",
+"gloss": [
+"A straight, round stick, shaft, bar, cane, or staff.",
+"A longitudinal pole used for forming part of a framework such as an awning or tent.",
+"A long slender usually tapering pole used for angling; fishing rod."
+]
+},
+{
+"id": "directory_x",
+"w": "directory",
+"gloss": [
+"A list of names, addresses etc, of specific classes of people or organizations, often in alphabetical order or in some classification.",
+"A structured listing of the names and characteristics of the files on a storage device.",
+"A virtual container in a computer's file system, in which files and other directories may be stored. The files and subdirectories in a directory are usually related."
+]
+},
+{
+"id": "array_x",
+"w": "array",
+"gloss": [
+"Clothing and ornamentation; raiment.",
+"A collection laid out to be viewed in full.",
+"An orderly series, arrangement or sequence."
+]
+},
+{
+"id": "handbook_x",
+"w": "handbook",
+"gloss": [
+"A topically organized book of reference on a certain field of knowledge, regardless of size, but archetypally one to be kept readily at hand.",
+"A place where illicit bets can be placed."
+]
+},
+{
+"id": "breach_x",
+"w": "breach",
+"gloss": [
+"A gap or opening made by breaking or battering, as in a wall, fortification or levee / embankment; the space between the parts of a solid body rent by violence.",
+"The act of breaking, in a figurative sense.",
+"A breaking or infraction of a law, or of any obligation or tie; violation; non-fulfillment."
+]
+},
+{
+"id": "threshold_x",
+"w": "threshold",
+"gloss": [
+"The lowermost part of a doorway that one crosses to enter; a sill.",
+"An entrance; the door or gate of a house.",
+"Any end or boundary."
+]
+},
+{
+"id": "memorandum_x",
+"w": "memorandum",
+"gloss": [
+"A short note serving as a reminder.",
+"A written business communication.",
+"A brief diplomatic communication."
+]
+},
+{
+"id": "wholesale_x",
+"w": "wholesale",
+"gloss": [
+"The sale of products, often in large quantities, to retailers or other merchants.",
+"Of or relating to sale in large quantities, for resale.",
+"Extensive, indiscriminate, all-encompassing; blanket."
+]
+},
+{
+"id": "theorem_x",
+"w": "theorem",
+"gloss": [
+"A mathematical statement of some importance that has been proven to be true. Minor theorems are often called propositions. Theorems which are not very interesting in themselves but are an essential part of a bigger theorem's proof are called lemmas.",
+"A mathematical statement that is expected to be true.",
+"A syntactically correct expression that is deducible from the given axioms of a deductive system."
+]
+},
+{
+"id": "mar_x",
+"w": "mar",
+"gloss": [
+"To spoil; to ruin; to scathe; to damage.",
+"A blemish.",
+"An earldom in the Scottish peerage."
+]
+},
+{
+"id": "valuation_x",
+"w": "valuation",
+"gloss": [
+"An estimation of something's worth.",
+"The process of estimating the value of a financial asset or liability.",
+"An assignment of truth values to propositional variables, with a corresponding assignment of truth values to all propositional formulas with those variables (obtained through the recursive application of truth-valued functions corresponding to the logical connectives making up those formulas)."
+]
+},
+{
+"id": "protocol_x",
+"w": "protocol",
+"gloss": [
+"The minutes, or official record, of a negotiation or transaction; especially a document drawn up officially which forms the legal basis for subsequent agreements based on it.",
+"An official record of a diplomatic meeting or negotiation; later specifically, a draft document setting out agreements to be signed into force by a subsequent formal treaty.",
+"An amendment to an official treaty."
+]
+},
+{
+"id": "integrity_x",
+"w": "integrity",
+"gloss": [
+"Steadfast adherence to a strict moral or ethical code.",
+"The state of being wholesome; unimpaired",
+"The quality or condition of being complete; pure"
+]
+},
+{
+"id": "depreciation_x",
+"w": "depreciation",
+"gloss": [
+"The state of being depreciated; disparagement.",
+"The decline in value of assets.",
+"The measurement of the decline in value of assets. Not to be confused with impairment, which is the measurement of the unplanned, extraordinary decline in value of assets."
+]
+},
+{
+"id": "litigation_x",
+"w": "litigation",
+"gloss": [
+"The conduct of a lawsuit."
+]
+},
+{
+"id": "furnace_x",
+"w": "furnace",
+"gloss": [
+"An industrial heating device, such as for smelting metal or firing ceramics.",
+"A device that provides heat for a building.",
+"Any area that is excessively hot."
+]
+},
+{
+"id": "static_x",
+"w": "static",
+"gloss": [
+"Unchanging; that cannot or does not change.",
+"Making no progress; stalled, without movement or advancement.",
+"Immobile; fixed in place; having no motion."
+]
+},
+{
+"id": "median_x",
+"w": "median",
+"gloss": [
+"A central vein or nerve, especially the median vein or median nerve running through the forearm and arm.",
+"A line segment joining the vertex of triangle to the midpoint of the opposing side.",
+"A number separating the higher half from the lower half of a data sample, population, or probability distribution. The median of a finite list of numbers can be found by arranging all the observations from lowest value to highest value and picking the middle one (e.g., the median of {3, 3, 5, 9, 11} is 5). If there is an even number of observations, then there is no single middle value; the median is then usually defined to be the mean of the two middle values."
+]
+},
+{
+"id": "combat_x",
+"w": "combat",
+"gloss": [
+"A battle, a fight (often one in which weapons are used).",
+"a struggle for victory",
+"To fight; to struggle against."
+]
+},
+{
+"id": "optimal_x",
+"w": "optimal",
+"gloss": [
+"The best, most favourable or desirable, especially under some restriction.",
+"The best of its kind"
+]
+},
+{
+"id": "reproduction_x",
+"w": "reproduction",
+"gloss": [
+"The act of reproducing new individuals biologically.",
+"The act of making copies.",
+"A copy of something, as in a piece of art; a duplicate."
+]
+},
+{
+"id": "lesser_x",
+"w": "lesser",
+"gloss": [
+"Of two (or, rarely, more than two) things: smaller in size (littler), in value, in importance etc.",
+"In plant and animal names, denotes a smaller kind.",
+"Denotes the smaller geographic or administrative area that encompasses or belongs to a place."
+]
+},
+{
+"id": "enzyme_x",
+"w": "enzyme",
+"gloss": [
+"A biomolecule that catalyses a biological chemical reaction: either a globular protein with this function or an RNA molecule with this function.",
+"The protein type specifically.",
+"Leavened bread, as opposed to azyme."
+]
+},
+{
+"id": "developmental_x",
+"w": "developmental",
+"gloss": [
+"Related to development.",
+"A trainee flight controller."
+]
+},
+{
+"id": "compact_x",
+"w": "compact",
+"gloss": [
+"An agreement or contract.",
+"To form an agreement or contract.",
+"Agreed, contracted."
+]
+},
+{
+"id": "void_x",
+"w": "void",
+"gloss": [
+"Containing nothing; empty; not occupied or filled.",
+"Having no incumbent; unoccupied; said of offices etc.",
+"Being without; destitute; devoid."
+]
+},
+{
+"id": "duly_x",
+"w": "duly",
+"gloss": [
+"In a due, fit, or becoming manner; as it ought to be; suitably; properly.",
+"Regularly; at the proper time."
+]
+},
+{
+"id": "authorization_x",
+"w": "authorization",
+"gloss": [
+"An act of authorizing.",
+"The state of being authorized to do something or to be somewhere; formally granted permission.",
+"A document giving formal sanction, permission or warrant."
+]
+},
+{
+"id": "infrastructure_x",
+"w": "infrastructure",
+"gloss": [
+"An underlying base or foundation for a building, organization, or system.",
+"The facilities, services and installations needed for the functioning of a community or society."
+]
+},
+{
+"id": "arbitrary_x",
+"w": "arbitrary",
+"gloss": [
+"Based on individual discretion or judgment; not based on any objective distinction, perhaps even made at random.",
+"Determined by impulse rather than reason; often connoting heavy-handedness.",
+"Any, out of all that are possible."
+]
+},
+{
+"id": "diagnostic_x",
+"w": "diagnostic",
+"gloss": [
+"Of, or relating to diagnosis.",
+"Characteristic of a particular disease.",
+"Serving to indicate or specify a particular item or thing within a group of similar things."
+]
+},
+{
+"id": "textile_x",
+"w": "textile",
+"gloss": [
+"Any material made of interlacing or matted fibres, including carpeting and geotextiles, woven or nonwoven.",
+"A non-nudist.",
+"Clothing compulsive."
+]
+},
+{
+"id": "gospel_x",
+"w": "gospel",
+"gloss": [
+"The first section of the Christian New Testament scripture, comprising the books of Matthew, Mark, Luke and John, concerned with the birth, ministry, passion, and resurrection of Jesus.",
+"An account of those aspects of Jesus' life, generally written during the first several centuries of the Common Era.",
+"The teaching of Divine grace as distinguished from the Law or Divine commandments."
+]
+},
+{
+"id": "auto_x",
+"w": "auto",
+"gloss": [
+"A setting for automatic operation.",
+"An automatic gearbox/transmission.",
+"A car with an automatic gearbox/transmission."
+]
+},
+{
+"id": "dual_x",
+"w": "dual",
+"gloss": [
+"Characterized by having two (usually equivalent) components.",
+"Pertaining to two, pertaining to a pair of.",
+"Pertaining to a grammatical number in certain languages that refers to two of something, such as a pair of shoes."
+]
+},
+{
+"id": "placement_x",
+"w": "placement",
+"gloss": [
+"The act of placing or putting in place; the act of locating or positioning; the state of being placed.",
+"A location or position.",
+"The act of matching a person with a job."
+]
+},
+{
+"id": "subscription_x",
+"w": "subscription",
+"gloss": [
+"Access to a resource for a period of time, generally for payment.",
+"Available only by means of such access.",
+"The formal acceptance of something, especially when verified with a signature."
+]
+},
+{
+"id": "bias_x",
+"w": "bias",
+"gloss": [
+"Inclination towards something.",
+"The diagonal line between warp and weft in a woven fabric.",
+"A wedge-shaped piece of cloth taken out of a garment (such as the waist of a dress) to diminish its circumference."
+]
+},
+{
+"id": "potassium_x",
+"w": "potassium",
+"gloss": [
+"A soft, waxy, silvery reactive metal that is never found unbound in nature; an element with atomic number 19 and atomic weight of 39.0983.",
+"An atom of this element."
+]
+},
+{
+"id": "amino_x",
+"w": "amino",
+"gloss": [
+"Relating to an amine.",
+"The amine functional group.",
+"An amino acid."
+]
+},
+{
+"id": "gasoline_x",
+"w": "gasoline",
+"gloss": [
+"A flammable liquid consisting of a mixture of refined petroleum hydrocarbons, mainly used as a motor fuel; petrol.",
+"Any specific kind of this fuel.",
+"Marijuana, especially very potent or of high quality."
+]
+},
+{
+"id": "parliamentary_x",
+"w": "parliamentary",
+"gloss": [
+"Of, relating to, or enacted by a parliament.",
+"Having the supreme executive and legislative power resting with a cabinet of ministers chosen from, and responsible to a parliament.",
+"Of a class of train which, by an act of parliament, ran both ways along a line, at least once each day, at the rate of one penny per mile."
+]
+},
+{
+"id": "selective_x",
+"w": "selective",
+"gloss": [
+"Of or relating to the process of selection.",
+"Of or relating to natural selection.",
+"Choosy, fussy or discriminating when selecting."
+]
+},
+{
+"id": "behavioral_x",
+"w": "behavioral",
+"gloss": [
+"Of or relating to behavior."
+]
+},
+{
+"id": "suite_x",
+"w": "suite",
+"gloss": [
+"A group or train of attendants, servants etc.; a retinue.",
+"A connected series or succession of objects; a number of things used or classed together.",
+"A group of connected rooms, usually separable from other rooms by means of access."
+]
+},
+{
+"id": "offset_x",
+"w": "offset",
+"gloss": [
+"Anything that acts as counterbalance; a compensating equivalent.",
+"A form of countertrade arrangement, in which the seller agrees to purchase within a set time frame products of a certain value from the buying country. This kind of agreement may be used in large international public sector contracts such as arms sales.",
+"A time at which something begins; outset."
+]
+},
+{
+"id": "rigid_x",
+"w": "rigid",
+"gloss": [
+"Stiff, rather than flexible.",
+"Having inflexible thoughts, opinions, or beliefs.",
+"Fixed, rather than moving."
+]
+},
+{
+"id": "maturity_x",
+"w": "maturity",
+"gloss": [
+"The state of being mature, ready or ripe; the prime state of productibility and self expression.",
+"When bodily growth has completed and/or reproduction can begin.",
+"The state of a debt obligation at the end of the term of maturation thereof, once all interest and any applicable fees have accrued to the principal."
+]
+},
+{
+"id": "infinite_x",
+"w": "infinite",
+"gloss": [
+"Indefinably large, countlessly great; immense.",
+"Boundless, endless, without end or limits; innumerable.",
+"Infinitely many."
+]
+},
+{
+"id": "composite_x",
+"w": "composite",
+"gloss": [
+"Made up of multiple components; compound or complex.",
+"Being a mixture of Ionic and Corinthian styles.",
+"Having factors other than itself and one; not prime and not one."
+]
+},
+{
+"id": "accumulation_x",
+"w": "accumulation",
+"gloss": [
+"The act of amassing or gathering, as into a pile.",
+"The process of growing into a heap or a large amount.",
+"A mass of something piled up or collected."
+]
+},
+{
+"id": "metabolism_x",
+"w": "metabolism",
+"gloss": [
+"The chemical processes that occur within a living organism in order to maintain life.",
+"The rate at which these processes occur for a given organism",
+"The processes that maintain any dynamic system."
+]
+},
+{
+"id": "displacement_x",
+"w": "displacement",
+"gloss": [
+"The act of displacing, or the state of being displaced; a putting out of place.",
+"The weight of a ship or other floating vessel, traditionally measured or calculated by finding the volume of the vessel below the waterline when afloat, the weight of the displaced liquid being equal to that of the whole displacing body.",
+"The process of extracting soluble substances from organic material and the like, whereby a quantity of saturated solvent is displaced, or removed, for another quantity of the solvent."
+]
+},
+{
+"id": "renewal_x",
+"w": "renewal",
+"gloss": [
+"The act of renewing.",
+"An offensive action made immediately after a parried one."
+]
+},
+{
+"id": "temporal_x",
+"w": "temporal",
+"gloss": [
+"Of or relating to the material world, as opposed to sacred or clerical.",
+"Of limited time, transient, passing, not perpetual, as opposed to eternal.",
+"Lasting for a short time only."
+]
+},
+{
+"id": "resistant_x",
+"w": "resistant",
+"gloss": [
+"A person who resists; especially a member of a resistance movement.",
+"A thing which resists.",
+"Which makes resistance or offers opposition."
+]
+},
+{
+"id": "justification_x",
+"w": "justification",
+"gloss": [
+"A reason, explanation, or excuse which someone believes provides convincing, morally acceptable support for behavior or for a belief or occurrence.",
+"The forgiveness of sin.",
+"The alignment of text to the left margin (left justification), the right margin (right justification), or both margins (full justification)."
+]
+},
+{
+"id": "explicit_x",
+"w": "explicit",
+"gloss": [
+"Very specific, clear, or detailed.",
+"Containing material (e.g. language or film footage) that might be deemed offensive or graphic through clear and direct expressions.",
+"The final few words of a text."
+]
+},
+{
+"id": "tenant_x",
+"w": "tenant",
+"gloss": [
+"One who holds a lease (a tenancy).",
+"One who has possession of any place.",
+"Any of a number of customers serviced through the same instance of an application."
+]
+},
+{
+"id": "radius_x",
+"w": "radius",
+"gloss": [
+"The long bone in the forearm, on the side of the thumb.",
+"The lighter bone (or fused portion of bone) in the forelimb of an animal.",
+"One of the major veins of the insect wing, between the subcosta and the media; the vein running along the costal edge of the discal cell."
+]
+},
+{
+"id": "mercury_x",
+"w": "mercury",
+"gloss": [
+"A silvery-coloured, metallic chemical element with the atomic number 80; it is liquid at room temperature, and toxic.",
+"Preceded by the: mercury (noun sense 1) as used in the column of a barometer or thermometer, its fall or rise thus indicating the decrease or increase of ambient pressure or temperature.",
+"A preparation containing mercury (noun sense 1), especially calomel (mercurous chloride) or corrosive sublimate (mercuric chloride), formerly used as a medicine to treat syphilis, etc."
+]
+},
+{
+"id": "variance_x",
+"w": "variance",
+"gloss": [
+"The act of varying or the state of being variable.",
+"A difference between what is expected and what is observed; deviation.",
+"The state of differing or being in conflict."
+]
+},
+{
+"id": "elimination_x",
+"w": "elimination",
+"gloss": [
+"The act of eliminating, expelling or throwing off.",
+"The act of excluding a losing contestant from a match, tournament, or other competition.",
+"The act of voting off or throwing off a contestant in a reality television competition."
+]
+},
+{
+"id": "subsidiary_x",
+"w": "subsidiary",
+"gloss": [
+"Auxiliary or supplemental.",
+"Secondary or subordinate.",
+"Of or relating to a subsidy."
+]
+},
+{
+"id": "thrust_x",
+"w": "thrust",
+"gloss": [
+"An attack made by moving the sword parallel to its length and landing with the point.",
+"A push, stab, or lunge forward.",
+"The force generated by propulsion, as in a jet engine."
+]
+},
+{
+"id": "oxidation_x",
+"w": "oxidation",
+"gloss": [
+"The combination of a substance with oxygen.",
+"A reaction in which the atoms of an element lose electrons and the oxidation state of the element increases."
+]
+},
+{
+"id": "forum_x",
+"w": "forum",
+"gloss": [
+"A place for discussion.",
+"A gathering for the purpose of discussion; a symposium.",
+"A form of discussion involving a panel of presenters and often participation by members of the audience."
+]
+},
+{
+"id": "activation_x",
+"w": "activation",
+"gloss": [
+"Making active and effective; bringing into a state of activity.",
+"The process of making a radioisotope by bombarding a stable element with neutrons or protons.",
+"The process by which molecules are made able to react."
+]
+},
+{
+"id": "custody_x",
+"w": "custody",
+"gloss": [
+"The legal right to take care of something or somebody, especially children.",
+"Temporary possession or care of somebody else's property.",
+"The state of being imprisoned or detained, usually pending a trial."
+]
+},
+{
+"id": "purchaser_x",
+"w": "purchaser",
+"gloss": [
+"One who purchases."
+]
+},
+{
+"id": "renal_x",
+"w": "renal",
+"gloss": [
+"Pertaining to the kidneys."
+]
+},
+{
+"id": "flux_x",
+"w": "flux",
+"gloss": [
+"The act of flowing; a continuous moving on or passing by, as of a flowing stream.",
+"A state of ongoing change.",
+"A chemical agent for cleaning metal prior to soldering or welding."
+]
+},
+{
+"id": "inferior_x",
+"w": "inferior",
+"gloss": [
+"Lower in rank, status, or quality.",
+"Of low rank, standard or quality.",
+"(of a court or tribunal) Susceptible to having its decisions overturned by a higher court."
+]
+},
+{
+"id": "junction_x",
+"w": "junction",
+"gloss": [
+"The act of joining, or the state of being joined.",
+"A place where two things meet, especially where two roads meet.",
+"A place where two or more railways or railroads meet."
+]
+},
+{
+"id": "lens_x",
+"w": "lens",
+"gloss": [
+"An object, usually made of glass, that focuses or defocuses the light that passes through it.",
+"A device which focuses or defocuses other waves or radiation, such as microwave radiation, electron beams, sound waves (acoustic lenses), or explosions (explosive lenses).",
+"A convex shape bounded by two circular arcs, joined at their endpoints, the corresponding concave shape being a lune."
+]
+},
+{
+"id": "phosphate_x",
+"w": "phosphate",
+"gloss": [
+"Any salt or ester of phosphoric acid.",
+"Any fertiliser containing phosphate compounds.",
+"Guano (containing high levels of phosphates and harvested for the fertiliser industry)."
+]
+},
+{
+"id": "documentation_x",
+"w": "documentation",
+"gloss": [
+"Something transposed from a thought to a document; the written account of an idea.",
+"Documentary evidence and sources.",
+"Documents that explain the operation of a particular machine or software program."
+]
+},
+{
+"id": "minimal_x",
+"w": "minimal",
+"gloss": [
+"The smallest possible amount, quantity, or degree.",
+"Among elements of some collection, such that no other element is greater (with respect to some given partial order).",
+"Characterised by the use of simple form or structures."
+]
+},
+{
+"id": "periodic_x",
+"w": "periodic",
+"gloss": [
+"Relative to a period or periods.",
+"Having repeated cycles.",
+"Occurring at regular intervals."
+]
+},
+{
+"id": "pulmonary_x",
+"w": "pulmonary",
+"gloss": [
+"Pertaining to, having, or affecting the lungs."
+]
+},
+{
+"id": "longitudinal_x",
+"w": "longitudinal",
+"gloss": [
+"Running across a set direction of an object.",
+"Running in the direction of the long axis of a body.",
+"Relating to the geographical longitude."
+]
+},
+{
+"id": "debtor_x",
+"w": "debtor",
+"gloss": [
+"A person or firm that owes money; one in debt; one who owes a debt.",
+"One who owes another anything, or is under obligation, arising from express agreement, implication of law, or principles of natural justice, to pay money or to fulfill some other obligation; in bankruptcy or similar proceedings, the person who is the subject of the proceeding."
+]
+},
+{
+"id": "fracture_x",
+"w": "fracture",
+"gloss": [
+"An instance of breaking, a place where something has broken.",
+"A break in bone or cartilage.",
+"A fault or crack in a rock."
+]
+},
+{
+"id": "denial_x",
+"w": "denial",
+"gloss": [
+"An assertion of untruth.",
+"The negation in logic.",
+"A refusal or failure to provide or grant something that is requested or desired."
+]
+}
+]

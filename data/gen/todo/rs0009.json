@@ -1,0 +1,858 @@
+[
+{
+"id": "locus_x",
+"w": "locus",
+"gloss": [
+"A place or locality, especially a centre of activity or the scene of a crime.",
+"The set of all points whose coordinates satisfy a given equation or condition.",
+"A fixed position on a string of DNA or RNA, especially a chromosome, that may be occupied by one or more genes."
+]
+},
+{
+"id": "siege_x",
+"w": "siege",
+"gloss": [
+"A prolonged military assault or a blockade of a city or fortress with the intent of conquering by force or attrition.",
+"A period of struggle or difficulty, especially from illness.",
+"A prolonged assault or attack."
+]
+},
+{
+"id": "counterpart_x",
+"w": "counterpart",
+"gloss": [
+"Either of two parts that fit together or otherwise complement one another.",
+"A duplicate of a legal document.",
+"One who or that which resembles another."
+]
+},
+{
+"id": "grocery_x",
+"w": "grocery",
+"gloss": [
+"Retail foodstuffs and other household supplies.",
+"A shop or store that sells groceries; a grocery store.",
+"To go grocery shopping."
+]
+},
+{
+"id": "deflection_x",
+"w": "deflection",
+"gloss": [
+"The act of deflecting or something deflected.",
+"Deviation (of a needle or other indicator or mechanism) from a previous position.",
+"The act of refusing to address something (questions, criticism, etc.)."
+]
+},
+{
+"id": "corrective_x",
+"w": "corrective",
+"gloss": [
+"Of or pertaining to correction; serving to correct.",
+"Qualifying; limiting.",
+"Something that corrects or counteracts something."
+]
+},
+{
+"id": "hereditary_x",
+"w": "hereditary",
+"gloss": [
+"Passed on as an inheritance, by last will or intestate.",
+"Of a title, honor or right: legally granted to somebody's descendant after that person's death.",
+"Of a person: holding a legally hereditary title or rank."
+]
+},
+{
+"id": "lad_x",
+"w": "lad",
+"gloss": [
+"A boy or young man.",
+"A hedonistic or irresponsible young man; a Jack the lad.",
+"A familiar term of address for a young man."
+]
+},
+{
+"id": "devise_x",
+"w": "devise",
+"gloss": [
+"To use one’s intellect to plan or design (something).",
+"To leave (property) in a will.",
+"To form a scheme; to lay a plan; to contrive; to consider."
+]
+},
+{
+"id": "digit_x",
+"w": "digit",
+"gloss": [
+"A position in a sequence of numerals representing a place value in a positional number system.",
+"A distinct symbol representing a natural number in a positional number system.",
+"¹⁄₁₂ the apparent diameter of the sun or moon, (chiefly) as a measure of the totality of an eclipse."
+]
+},
+{
+"id": "dispatch_x",
+"w": "dispatch",
+"gloss": [
+"To send (a shipment) with promptness.",
+"To send (a person) away hastily.",
+"To send (an important official message) promptly, by means of a diplomat or military officer."
+]
+},
+{
+"id": "bail_x",
+"w": "bail",
+"gloss": [
+"Security, usually a sum of money, exchanged for the release of an arrested person as a guarantee of that person's appearance for trial.",
+"Release from imprisonment on payment of such money.",
+"The person providing such payment."
+]
+},
+{
+"id": "syntax_x",
+"w": "syntax",
+"gloss": [
+"A set of rules that govern how words are combined to form phrases and sentences.",
+"The formal rules of formulating the statements of a computer language.",
+"The study of the structure of phrases, sentences, and language."
+]
+},
+{
+"id": "lender_x",
+"w": "lender",
+"gloss": [
+"One who lends, especially money; specifically, a bank or other entity that specializes in granting loans.",
+"A surname from German."
+]
+},
+{
+"id": "eventual_x",
+"w": "eventual",
+"gloss": [
+"Finally resulting or occurring (after a period of time); inevitable.",
+"Pertaining to events; event-related, evential.",
+"Possible, potential."
+]
+},
+{
+"id": "marketplace_x",
+"w": "marketplace",
+"gloss": [
+"An open area in a town housing a public market.",
+"The space, actual or metaphorical, in which a market operates.",
+"The world of commerce and trade."
+]
+},
+{
+"id": "mini_x",
+"w": "mini",
+"gloss": [
+"Miniature, tiny, small.",
+"A very young dancer.",
+"A small bottle of perfume."
+]
+},
+{
+"id": "randomly_x",
+"w": "randomly",
+"gloss": [
+"In a random manner.",
+"By random access; at any point at a given time; not sequentially."
+]
+},
+{
+"id": "globalization_x",
+"w": "globalization",
+"gloss": [
+"American and Oxford British English standard spelling of globalisation."
+]
+},
+{
+"id": "pigment_x",
+"w": "pigment",
+"gloss": [
+"Any color in plant or animal cells.",
+"A dry colorant, usually an insoluble powder.",
+"Wine flavoured with spices and honey."
+]
+},
+{
+"id": "prudent_x",
+"w": "prudent",
+"gloss": [
+"Sagacious in adapting means to ends; circumspect in action, or in determining any line of conduct.",
+"Practically wise, judicious, shrewd.",
+"Frugal; economical; not extravagant."
+]
+},
+{
+"id": "referendum_x",
+"w": "referendum",
+"gloss": [
+"A direct popular vote on a proposed law or constitutional amendment.",
+"An action, choice, etc., which is perceived as passing judgment on another matter."
+]
+},
+{
+"id": "transparency_x",
+"w": "transparency",
+"gloss": [
+"The quality of being transparent.",
+"Openness; accessibility to scrutiny.",
+"A transparent artwork, viewable by shining light through it."
+]
+},
+{
+"id": "famine_x",
+"w": "famine",
+"gloss": [
+"Extreme shortage of food in a region.",
+"A period of extreme shortage of food in a region.",
+"Starvation or malnutrition."
+]
+},
+{
+"id": "specialization_x",
+"w": "specialization",
+"gloss": [
+"The act or process of specializing.",
+"The area in which someone specializes.",
+"The adaptation of an organism to a specific environment, or adaptation of an organ to a particular function."
+]
+},
+{
+"id": "curb_x",
+"w": "curb",
+"gloss": [
+"A concrete margin along the edge of a road; a kerb (UK, Australia, New Zealand).",
+"A raised margin along the edge of something, such as a well or the eye of a dome, as a strengthening.",
+"Something that checks or restrains; a restraint."
+]
+},
+{
+"id": "setup_x",
+"w": "setup",
+"gloss": [
+"Equipment designed for a particular purpose; an apparatus.",
+"The fashion in which something is organized or arranged.",
+"A situation orchestrated to frame someone; a covert effort to place the blame on somebody."
+]
+},
+{
+"id": "deduct_x",
+"w": "deduct",
+"gloss": [
+"To take one thing from another; remove from; make smaller or less by some amount."
+]
+},
+{
+"id": "renewable_x",
+"w": "renewable",
+"gloss": [
+"Able to be renewed; capable of renewal.",
+"Sustainable; able to be regrown or renewed; having an ongoing or continuous source of supply.",
+"A renewable resource or source of energy."
+]
+},
+{
+"id": "uterus_x",
+"w": "uterus",
+"gloss": [
+"A reproductive organ of therian mammals in which the young are conceived and develop until birth.",
+"A similar part in some non-mammals."
+]
+},
+{
+"id": "macro_x",
+"w": "macro",
+"gloss": [
+"Very large in scale or scope.",
+"In the context of macrophilia, one who is abnormally very large.",
+"A comparatively human-friendly abbreviation of complex input to a computer program."
+]
+},
+{
+"id": "internally_x",
+"w": "internally",
+"gloss": [
+"In an internal manner; within or inside of external limits; in an inner part or situation.",
+"With regard to internal affairs.",
+"Inwardly; spiritually."
+]
+},
+{
+"id": "asthma_x",
+"w": "asthma",
+"gloss": [
+"A long-term respiratory condition, in which the airways may unexpectedly and suddenly narrow, often in response to an allergen, cold air, exercise, or emotional stress. Symptoms include wheezing, shortness of breath, chest tightness, and coughing."
+]
+},
+{
+"id": "morale_x",
+"w": "morale",
+"gloss": [
+"The mental and emotional state of a person or group, especially their level of confidence, enthusiasm, and loyalty with regard to a function or task."
+]
+},
+{
+"id": "fearful_x",
+"w": "fearful",
+"gloss": [
+"Frightening; causing fear.",
+"Tending to fear; timid.",
+"Terrible; shockingly bad."
+]
+},
+{
+"id": "inhibit_x",
+"w": "inhibit",
+"gloss": [
+"To hold in or hold back; to keep in check; restrain.",
+"To recuse."
+]
+},
+{
+"id": "receivable_x",
+"w": "receivable",
+"gloss": [
+"Capable of being received, especially of a debt, from the perspective of the creditor.",
+"A debt owed, usually to a business, from the perspective of that business.",
+"A debt arising from a sale on account or on credit."
+]
+},
+{
+"id": "differentiate_x",
+"w": "differentiate",
+"gloss": [
+"To modify so as to create a difference or distinction.",
+"To show or be the difference or distinction between things.",
+"To recognize as different or distinct."
+]
+},
+{
+"id": "relocation_x",
+"w": "relocation",
+"gloss": [
+"The act of moving from one place to another.",
+"Renewal of a lease.",
+"The assigning of addresses to variables either at linkage editing, or at runtime."
+]
+},
+{
+"id": "maximize_x",
+"w": "maximize",
+"gloss": [
+"To make as large as possible.",
+"To expand (a window) to fill the main display area."
+]
+},
+{
+"id": "sperm_x",
+"w": "sperm",
+"gloss": [
+"The reproductive cell or gamete of the male; a spermatozoon.",
+"Semen; the generative substance of male animals.",
+"Sperm oil; whale oil from a sperm whale; spermaceti."
+]
+},
+{
+"id": "invaluable_x",
+"w": "invaluable",
+"gloss": [
+"Having great or incalculable value.",
+"Not valuable; valueless; worthless."
+]
+},
+{
+"id": "halfway_x",
+"w": "halfway",
+"gloss": [
+"Half of the way between two points.",
+"Moderately; somewhat.",
+"Middle; midway; being in the middle of the way or distance."
+]
+},
+{
+"id": "replication_x",
+"w": "replication",
+"gloss": [
+"The process by which an object, person, place or idea may be copied mimicked or reproduced.",
+"Copy; reproduction.",
+"A response from the plaintiff to the defendant's plea."
+]
+},
+{
+"id": "logistics_x",
+"w": "logistics",
+"gloss": [
+"The process of planning, implementing, and controlling the efficient, effective flow and storage of goods, services and related information from their point of origin to point of consumption for the purpose of satisfying customer requirements.",
+"The procurement, supply, maintenance, and transportation of equipment, facilities, and personnel."
+]
+},
+{
+"id": "hepatitis_x",
+"w": "hepatitis",
+"gloss": [
+"Inflammation of the liver, sometimes caused by a viral infection."
+]
+},
+{
+"id": "interestingly_x",
+"w": "interestingly",
+"gloss": [
+"In an interesting way.",
+"It is interesting to note that…"
+]
+},
+{
+"id": "developer_x",
+"w": "developer",
+"gloss": [
+"A person or entity engaged in the creation or improvement of certain classes of products.",
+"A real estate developer; a person or company who prepares a parcel of land for sale, or creates structures on that land.",
+"A film developer; a person who uses chemicals to create photographs from photograph negatives."
+]
+},
+{
+"id": "raid_x",
+"w": "raid",
+"gloss": [
+"A quick hostile or predatory incursion or invasion in a battle.",
+"An attack or invasion for the purpose of making arrests, seizing property, or plundering.",
+"An attacking movement."
+]
+},
+{
+"id": "technician_x",
+"w": "technician",
+"gloss": [
+"A person who studies or practises technology; an expert in a particular technology."
+]
+},
+{
+"id": "anemia_x",
+"w": "anemia",
+"gloss": [
+"A medical condition in which the capacity of the blood to transport oxygen to the tissues is reduced, either because of too few red blood cells, or because of too little hemoglobin, resulting in pallor and fatigue.",
+"A disease or condition that has anemia as a symptom.",
+"Ischemia."
+]
+},
+{
+"id": "veto_x",
+"w": "veto",
+"gloss": [
+"A political right to disapprove of (and thereby stop) the process of a decision, a law etc.",
+"An invocation of that right.",
+"An authoritative prohibition or negative; a forbidding; an interdiction."
+]
+},
+{
+"id": "fiduciary_x",
+"w": "fiduciary",
+"gloss": [
+"Relating to an entity that owes to another good faith, accountability and trust, often in the context of trusts and trustees.",
+"Pertaining to paper money whose value depends on public confidence or securities.",
+"Accepted as a trusted reference such as a point, value, or marker; fiducial."
+]
+},
+{
+"id": "ordination_x",
+"w": "ordination",
+"gloss": [
+"The act of ordaining or the state of being ordained.",
+"The ceremony in which a priest is consecrated, considered a sacrament in the Catholic and Orthodox churches.",
+"the ceremony in which a bhikkhu or bhikkhuni is ordained into the sangha"
+]
+},
+{
+"id": "subset_x",
+"w": "subset",
+"gloss": [
+"A set A such that every element of A is also an element of S.",
+"A group of things or people, all of which are in a specified larger group.",
+"To take a subset of."
+]
+},
+{
+"id": "forgiveness_x",
+"w": "forgiveness",
+"gloss": [
+"The action of forgiving.",
+"A readiness to forgive."
+]
+},
+{
+"id": "fury_x",
+"w": "fury",
+"gloss": [
+"Extreme anger.",
+"Strength or violence in action.",
+"An angry or malignant person."
+]
+},
+{
+"id": "bile_x",
+"w": "bile",
+"gloss": [
+"A bitter brownish-yellow or greenish-yellow secretion produced by the liver, stored in the gall bladder, and discharged into the duodenum where it aids the process of digestion.",
+"Bitterness of temper; ill humour; irascibility.",
+"Either of two of the four humours, black bile or yellow bile, in ancient and medieval physiology."
+]
+},
+{
+"id": "flush_x",
+"w": "flush",
+"gloss": [
+"A group of birds that have suddenly started up from undergrowth, trees, etc.",
+"To cause to take flight from concealment.",
+"To take suddenly to flight, especially from cover."
+]
+},
+{
+"id": "baptism_x",
+"w": "baptism",
+"gloss": [
+"A Christian sacrament, by which one is received into a church and sometimes given a name, generally involving the candidate to be anointed with or submerged in water.",
+"A similar ceremony of initiation, purification or naming.",
+"The moment at which an object is first assigned a proper name."
+]
+},
+{
+"id": "sac_x",
+"w": "sac",
+"gloss": [
+"A bag or pouch inside a plant or animal that typically contains a fluid.",
+"To sacrifice.",
+"A sacrifice."
+]
+},
+{
+"id": "lace_x",
+"w": "lace",
+"gloss": [
+"A light fabric containing patterns of holes, usually built up from a single thread.",
+"A cord or ribbon passed through eyelets in a shoe or garment, pulled tight and tied to fasten the shoe or garment firmly.",
+"A snare or gin, especially one made of interwoven cords; a net."
+]
+},
+{
+"id": "discrepancy_x",
+"w": "discrepancy",
+"gloss": [
+"An inconsistency between facts or sentiments.",
+"The state or quality of being discrepant."
+]
+},
+{
+"id": "dent_x",
+"w": "dent",
+"gloss": [
+"A shallow deformation in the surface of an object, produced by an impact.",
+"A minor effect made upon something.",
+"A type of maize/corn with a relatively soft outer hull, and a soft type of starch that shrinks at maturity to leave an indentation in the surface of the kernel."
+]
+},
+{
+"id": "zeal_x",
+"w": "zeal",
+"gloss": [
+"The fervour or tireless devotion for a person, cause, or ideal and determination in its furtherance; diligent enthusiasm; powerful interest.",
+"A person who exhibits such fervour or tireless devotion.",
+"A group of zebras."
+]
+},
+{
+"id": "pesticide_x",
+"w": "pesticide",
+"gloss": [
+"Anything, especially a synthetic substance but also any substance (e.g. sulfur), or virus, bacterium, or other organism, which kills or suppresses the activities of pests."
+]
+},
+{
+"id": "diagonal_x",
+"w": "diagonal",
+"gloss": [
+"Joining two nonadjacent vertices (of a polygon or polyhedron).",
+"Having slanted or oblique lines or markings.",
+"Having a slanted or oblique direction."
+]
+},
+{
+"id": "maximal_x",
+"w": "maximal",
+"gloss": [
+"Largest, greatest (in magnitude), highest, most.",
+"Larger than any previous term in the sequence.",
+"Such that no other element is greater (with respect to the given partial order)."
+]
+},
+{
+"id": "exponential_x",
+"w": "exponential",
+"gloss": [
+"Expressed in terms of an exponent (power of a base), the base often being 10 or e.",
+"Characterised by a rate of change that is proportional to the value of the varying quantity, or, equivalently, by a doubling or halving over successive fixed intervals of time or other parameter, described as exponential growth or exponential decay.",
+"Characterised by a very rapid rate of change, especially increase, or merely a very large amount or degree."
+]
+},
+{
+"id": "banner_x",
+"w": "banner",
+"gloss": [
+"A flag or standard used by a military commander, monarch or nation.",
+"The military unit under such a flag or standard.",
+"A military or administrative subdivision."
+]
+},
+{
+"id": "witch_x",
+"w": "witch",
+"gloss": [
+"A person (now usually particularly a woman) who uses magical or supernatural powers to influence or predict events, particularly one with malicious motives.",
+"A person of any gender who harmfully employs magical power (especially innate rather than ritual)",
+"A person who follows Wicca or similar New Age pagan beliefs."
+]
+},
+{
+"id": "template_x",
+"w": "template",
+"gloss": [
+"A physical object whose shape is used as a guide to make other objects.",
+"A generic model or pattern from which other objects are based or derived.",
+"A file or document serving as a basis for others."
+]
+},
+{
+"id": "info_x",
+"w": "info",
+"gloss": [
+"information."
+]
+},
+{
+"id": "reluctance_x",
+"w": "reluctance",
+"gloss": [
+"Unwillingness to do something.",
+"Hesitancy in taking some action.",
+"Defiance, disobedience."
+]
+},
+{
+"id": "yen_x",
+"w": "yen",
+"gloss": [
+"The unit of Japanese currency (symbol: ¥) since 1871, divided into 100 sen.",
+"A coin or note worth one yen.",
+"A strong desire, urge, or yearning."
+]
+},
+{
+"id": "prognosis_x",
+"w": "prognosis",
+"gloss": [
+"A forecast of the future course or outcome of a situation based on what is presently known; a prediction.",
+"A forecast of the future course or outcome of a disease or disorder based on current medical knowledge."
+]
+},
+{
+"id": "rabbi_x",
+"w": "rabbi",
+"gloss": [
+"A Jewish scholar or teacher of halacha (Jewish law), capable of making halachic decisions.",
+"A Jew who is the leader or is qualified to be the leader of a Jewish congregation.",
+"A senior officer who acts as a mentor."
+]
+},
+{
+"id": "carbohydrate_x",
+"w": "carbohydrate",
+"gloss": [
+"A sugar, starch, or cellulose that is a food source of energy for an animal or plant.",
+"Any food rich in starch or other carbohydrates."
+]
+},
+{
+"id": "closet_x",
+"w": "closet",
+"gloss": [
+"A small room within a house used to store clothing, food, or other household supplies.",
+"Any private space, (particularly) bowers in the open air.",
+"Any private or inner room, (particularly)"
+]
+},
+{
+"id": "unfavorable_x",
+"w": "unfavorable"
+},
+{
+"id": "memo_x",
+"w": "memo",
+"gloss": [
+"A short note; a memorandum.",
+"A record of partial results that can be reused later without recomputation.",
+"To record something; to make a note of something."
+]
+},
+{
+"id": "fragile_x",
+"w": "fragile",
+"gloss": [
+"Easily broken, not sturdy; of delicate material.",
+"Readily disrupted or destroyed.",
+"Feeling weak or easily disturbed as a result of illness."
+]
+},
+{
+"id": "fungus_x",
+"w": "fungus",
+"gloss": [
+"A eukaryotic organism of the kingdom Fungi typically having chitin cell walls but no chlorophyll or plastids. Fungi may be unicellular or multicellular.",
+"The flesh of such an organism.",
+"A spongy, abnormal excrescence, such as excessive granulation tissue formed in a wound."
+]
+},
+{
+"id": "installment_x",
+"w": "installment",
+"gloss": [
+"One of a series of parts, whether equal or unequal to the other parts of the series, of a given entity or a given process, which part presents or is presented at a particular scheduled interval.",
+"Any of a series of portions of a debt or sum of money, which portions may or may not be equal in amount (depending in part on whether the interest rate is fixed or variable), and payment of which takes place at regular intervals toward satisfaction of the total. Payments are generally mensual, quarterly, triannual, biannual, or annual.",
+"A part of a published or broadcast serial."
+]
+},
+{
+"id": "urea_x",
+"w": "urea",
+"gloss": [
+"A water-soluble organic compound, CO(NH₂)₂, formed by the metabolism of proteins and excreted in the urine.",
+"Any N-substituted derivative of urea, with the general formula (R₁R₂N)CO(NR₃R₄)."
+]
+},
+{
+"id": "relational_x",
+"w": "relational",
+"gloss": [
+"Relating to relations.",
+"Friendly and peaceful.",
+"Of a database technology using tables and adhering to Codd’s 12 rules."
+]
+},
+{
+"id": "righteous_x",
+"w": "righteous",
+"gloss": [
+"Free from sin or guilt.",
+"Moral and virtuous, perhaps to the point of sanctimony.",
+"Justified morally."
+]
+},
+{
+"id": "diaphragm_x",
+"w": "diaphragm",
+"gloss": [
+"In mammals, a sheet of muscle separating the thorax from the abdomen, contracted and relaxed in respiration to draw air into and expel air from the lungs.",
+"Any of various membranes or sheets of muscle or ligament which separate one cavity from another.",
+"A contraceptive device consisting of a flexible cup, used to cover the cervix during intercourse."
+]
+},
+{
+"id": "spleen_x",
+"w": "spleen",
+"gloss": [
+"In vertebrates, including humans, a ductless vascular gland, located in the upper left abdomen near the stomach, which destroys old red blood cells, removes debris from the bloodstream, acts as a reservoir of blood, and produces lymphocytes.",
+"A bad mood; spitefulness. Compare gall.",
+"A sudden motion or action; a fit; a freak; a whim."
+]
+},
+{
+"id": "hawk_x",
+"w": "hawk",
+"gloss": [
+"A diurnal predatory bird of the family Accipitridae, smaller than an eagle.",
+"Any diurnal predatory terrestrial bird of similar size and appearance to the accipitrid hawks, such as a falcon.",
+"Any of various species of dragonfly of the genera Apocordulia and Austrocordulia, endemic to Australia."
+]
+},
+{
+"id": "butt_x",
+"w": "butt",
+"gloss": [
+"The buttocks or anus (used as a minced oath in idiomatic expressions; less objectionable than arse/ass).",
+"The whole buttocks and pelvic region that includes one's private parts.",
+"Body; self."
+]
+},
+{
+"id": "issuer_x",
+"w": "issuer",
+"gloss": [
+"One who issues, emits, or publishes."
+]
+},
+{
+"id": "nationally_x",
+"w": "nationally",
+"gloss": [
+"In a way relating to the whole nation."
+]
+},
+{
+"id": "electrolyte_x",
+"w": "electrolyte",
+"gloss": [
+"A substance that, in solution or when molten, ionizes and conducts electricity.",
+"A solution containing such substances, which therefore also conducts electricity.",
+"Any of the various ions in such a solution, or (metonymically) their concentration therein."
+]
+},
+{
+"id": "prophecy_x",
+"w": "prophecy",
+"gloss": [
+"A prediction, especially one made by a prophet or under divine inspiration.",
+"The public interpretation of Scripture."
+]
+},
+{
+"id": "deductible_x",
+"w": "deductible",
+"gloss": [
+"Eligible to be deducted.",
+"An amount of expenses that must be paid out of pocket before an insurer will pay further expenses."
+]
+},
+{
+"id": "dissent_x",
+"w": "dissent",
+"gloss": [
+"To disagree; to withhold assent. Construed with from (or, formerly, to).",
+"To differ from, especially in opinion, beliefs, etc.",
+"To be different; to have contrary characteristics."
+]
+},
+{
+"id": "faithfully_x",
+"w": "faithfully",
+"gloss": [
+"In a faithful manner.",
+"A conventional formula for ending a letter, used when the salutation addresses the person for whom the letter is intended using an honorific."
+]
+},
+{
+"id": "regulator_x",
+"w": "regulator",
+"gloss": [
+"A device that controls or limits something.",
+"A person or group that sets standards of practice, especially regulatory law as sanctioned by statutory law.",
+"A very accurate clock, used by clockmakers to measure the timekeeping of each newly made clock."
+]
+},
+{
+"id": "imminent_x",
+"w": "imminent",
+"gloss": [
+"About to happen, occur, or take place very soon, especially of something which won't last long."
+]
+}
+]

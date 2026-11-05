@@ -1,0 +1,802 @@
+[
+{
+"id": "off-one-s-own-bat_idiom",
+"w": "off one's own bat",
+"kind": "idiom",
+"gloss": [
+"At one's own instigation, of one's own accord."
+]
+},
+{
+"id": "almighty-dollar_idiom",
+"w": "almighty dollar",
+"kind": "idiom",
+"gloss": [
+"The dollar, satirically characterized as a god."
+]
+},
+{
+"id": "bent-on-a-splice_idiom",
+"w": "bent on a splice",
+"kind": "idiom",
+"gloss": [
+"About to be married."
+]
+},
+{
+"id": "on-the-wane_idiom",
+"w": "on the wane",
+"kind": "idiom",
+"gloss": [
+"in a period of decrease or decline"
+]
+},
+{
+"id": "whistle-walk_idiom",
+"w": "whistle walk",
+"kind": "idiom",
+"gloss": [
+"The path slaves took to deliver food from the kitchen building of a plantation to the main dining room. Stories claim that slaves were expected to whistle during this walk in order to assure their masters that they were not eating the food."
+]
+},
+{
+"id": "long-pork_idiom",
+"w": "long pork",
+"kind": "idiom",
+"gloss": [
+"Human flesh."
+]
+},
+{
+"id": "sharp-cookie_idiom",
+"w": "sharp cookie",
+"kind": "idiom",
+"gloss": [
+"One who is intelligent, bright, or sharp; especially, one who can identify attempts to deceive or mislead."
+]
+},
+{
+"id": "spark-spread_idiom",
+"w": "spark spread",
+"kind": "idiom",
+"gloss": [
+"The difference between the cost of the fuel required to produce a unit of electricity, and the price of that same unit of electricity."
+]
+},
+{
+"id": "stepping-razor_idiom",
+"w": "stepping razor",
+"kind": "idiom",
+"gloss": [
+"A dangerous person, who is not to be messed with."
+]
+},
+{
+"id": "salad-year_idiom",
+"w": "salad year",
+"kind": "idiom",
+"gloss": [
+"The inexperienced, youthful prime of a person, group, organization, or entity."
+]
+},
+{
+"id": "talk-turkey_idiom",
+"w": "talk turkey",
+"kind": "idiom",
+"gloss": [
+"To talk or negotiate plainly, frankly, or seriously."
+]
+},
+{
+"id": "deadstick-landing_idiom",
+"w": "deadstick landing",
+"kind": "idiom",
+"gloss": [
+"A forced landing without propulsion of an aircraft that normally operates with propulsion."
+]
+},
+{
+"id": "stop-and-smell-the-roses_idiom",
+"w": "stop and smell the roses",
+"kind": "idiom",
+"gloss": [
+"To relax; to take time out of one's busy schedule to enjoy or appreciate the beauty of life."
+]
+},
+{
+"id": "couldn-t-happen-to-a-nicer_idiom",
+"w": "couldn't happen to a nicer",
+"kind": "idiom",
+"gloss": [
+"Sarcastically asserts that those in question thoroughly deserve their fate."
+]
+},
+{
+"id": "merry-andrew_idiom",
+"w": "Merry Andrew",
+"kind": "idiom",
+"gloss": [
+"A person who clowns publicly; a buffoon; an entertainer's assistant."
+]
+},
+{
+"id": "make-someone-s-teeth-itch_idiom",
+"w": "make someone's teeth itch",
+"kind": "idiom",
+"gloss": [
+"To bother or unsettle a person; to put someone on edge."
+]
+},
+{
+"id": "off-the-bat_idiom",
+"w": "off the bat",
+"kind": "idiom",
+"gloss": [
+"From the start; immediately; right away."
+]
+},
+{
+"id": "off-the-wagon_idiom",
+"w": "off the wagon",
+"kind": "idiom",
+"gloss": [
+"No longer maintaining a program of self-improvement or abstinence from an undesirable habit, especially drinking alcohol."
+]
+},
+{
+"id": "three-sheets-to-the-wind_idiom",
+"w": "three sheets to the wind",
+"kind": "idiom",
+"gloss": [
+"Unsteady from drink."
+]
+},
+{
+"id": "working-girl_idiom",
+"w": "working girl",
+"kind": "idiom",
+"gloss": [
+"A female prostitute."
+]
+},
+{
+"id": "hang-out-one-s-shingle_idiom",
+"w": "hang out one's shingle",
+"kind": "idiom",
+"gloss": [
+"To open an office or business, especially in a profession."
+]
+},
+{
+"id": "ear-tunnel_idiom",
+"w": "ear tunnel",
+"kind": "idiom",
+"gloss": [
+"A round piece of jewelry with a hole in the middle, which fits into a stretched earlobe."
+]
+},
+{
+"id": "go-the-way-of-the-dinosaurs_idiom",
+"w": "go the way of the dinosaurs",
+"kind": "idiom",
+"gloss": [
+"To go extinct or become obsolete; to fall out of common use or practice; to become a thing of the past."
+]
+},
+{
+"id": "tickled-pink_idiom",
+"w": "tickled pink",
+"kind": "idiom",
+"gloss": [
+"Very pleased; delighted; thrilled."
+]
+},
+{
+"id": "buy-straw-hats-in-winter_idiom",
+"w": "buy straw hats in winter",
+"kind": "idiom",
+"gloss": [
+"Of stocks, to buy when both demand and price are low, so as to sell when demand and price are high."
+]
+},
+{
+"id": "full-of-hot-air_idiom",
+"w": "full of hot air",
+"kind": "idiom",
+"gloss": [
+"Talking a lot, especially without saying anything of value or meaning."
+]
+},
+{
+"id": "full-of-it_idiom",
+"w": "full of it",
+"kind": "idiom",
+"gloss": [
+"Minced oath of full of shit."
+]
+},
+{
+"id": "catch-some-z-s_idiom",
+"w": "catch some z's",
+"kind": "idiom",
+"gloss": [
+"To sleep."
+]
+},
+{
+"id": "fall-through-the-cracks_idiom",
+"w": "fall through the cracks",
+"kind": "idiom",
+"gloss": [
+"To be missed; to escape the necessary notice or attention."
+]
+},
+{
+"id": "all-the-marbles_idiom",
+"w": "all the marbles",
+"kind": "idiom",
+"gloss": [
+"everything; all that is to be had."
+]
+},
+{
+"id": "put-one-s-feet-up_idiom",
+"w": "put one's feet up",
+"kind": "idiom",
+"gloss": [
+"To relax."
+]
+},
+{
+"id": "at-a-canter_idiom",
+"w": "at a canter",
+"kind": "idiom",
+"gloss": [
+"Without much effort; effortlessly; easily."
+]
+},
+{
+"id": "spin-doctor_idiom",
+"w": "spin doctor",
+"kind": "idiom",
+"gloss": [
+"To generate spin (a favorable interpretation or bias)."
+]
+},
+{
+"id": "on-the-horn_idiom",
+"w": "on the horn",
+"kind": "idiom",
+"gloss": [
+"On the telephone."
+]
+},
+{
+"id": "side-issue_idiom",
+"w": "side issue",
+"kind": "idiom",
+"gloss": [
+"An issue or topic which is not of direct significance to a primary concern."
+]
+},
+{
+"id": "spin-one-s-wheels_idiom",
+"w": "spin one's wheels",
+"kind": "idiom",
+"gloss": [
+"To make no progress despite making an effort; to get nowhere."
+]
+},
+{
+"id": "go-for-a-song_idiom",
+"w": "go for a song",
+"kind": "idiom",
+"gloss": [
+"To be sold at a very low price."
+]
+},
+{
+"id": "high-on-the-hog_idiom",
+"w": "high on the hog",
+"kind": "idiom",
+"gloss": [
+"Well off; living comfortably or extravagantly due to great wealth or financial security."
+]
+},
+{
+"id": "all-over-but-the-shouting_idiom",
+"w": "all over but the shouting",
+"kind": "idiom",
+"gloss": [
+"Such that the substance of the contest is complete, leaving only the cheering."
+]
+},
+{
+"id": "all-the-way-to-egery-and-back_idiom",
+"w": "all the way to Egery and back",
+"kind": "idiom",
+"gloss": [
+"The long way; a roundabout route; a long distance to travel."
+]
+},
+{
+"id": "party-to_idiom",
+"w": "party to",
+"kind": "idiom",
+"gloss": [
+"Privy to; having knowledge of."
+]
+},
+{
+"id": "as-all-get-out_idiom",
+"w": "as all get-out",
+"kind": "idiom",
+"gloss": [
+"Extremely; to a superlative degree; very much."
+]
+},
+{
+"id": "bits-and-bobs_idiom",
+"w": "bits and bobs",
+"kind": "idiom",
+"gloss": [
+"A random assortment of things; small remaining pieces and items."
+]
+},
+{
+"id": "ahead-of-the-game_idiom",
+"w": "ahead of the game",
+"kind": "idiom",
+"gloss": [
+"Having completed a task before it is due; ready, prepared, or anticipating."
+]
+},
+{
+"id": "beat-a-dead-horse_idiom",
+"w": "beat a dead horse",
+"kind": "idiom",
+"gloss": [
+"To persist or continue far beyond any purpose, interest or reason."
+]
+},
+{
+"id": "arse-over-tit_idiom",
+"w": "arse over tit",
+"kind": "idiom",
+"gloss": [
+"Tumbling; falling; upside-down, unstable or unbalanced."
+]
+},
+{
+"id": "ace-in-the-hole_idiom",
+"w": "ace in the hole",
+"kind": "idiom",
+"gloss": [
+"Synonym of ace up one's sleeve."
+]
+},
+{
+"id": "all-over-hell-s-half-acre_idiom",
+"w": "all over hell's half acre",
+"kind": "idiom",
+"gloss": [
+"All over the place; everywhere."
+]
+},
+{
+"id": "at-this-point-in-time_idiom",
+"w": "at this point in time",
+"kind": "idiom",
+"gloss": [
+"right now, or in the near and foreseeable future"
+]
+},
+{
+"id": "all-hat-and-no-cattle_idiom",
+"w": "all hat and no cattle",
+"kind": "idiom",
+"gloss": [
+"Full of big talk but lacking action, power, or substance; pretentious."
+]
+},
+{
+"id": "brown-bread_idiom",
+"w": "brown bread",
+"kind": "idiom",
+"gloss": [
+"Dead."
+]
+},
+{
+"id": "zig-when-one-should-zag_idiom",
+"w": "zig when one should zag",
+"kind": "idiom",
+"gloss": [
+"To misstep or err."
+]
+},
+{
+"id": "all-fur-coat-and-no-knickers_idiom",
+"w": "all fur coat and no knickers",
+"kind": "idiom",
+"gloss": [
+"Having a superficially positive appearance that is belied by the reality, e.g., superficially elegant and beautiful but actually common."
+]
+},
+{
+"id": "amber-nectar_idiom",
+"w": "amber nectar",
+"kind": "idiom",
+"gloss": [
+"Beer."
+]
+},
+{
+"id": "hold-the-phone_idiom",
+"w": "hold the phone",
+"kind": "idiom",
+"gloss": [
+"stop; wait; whoa."
+]
+},
+{
+"id": "spur-of-the-moment_idiom",
+"w": "spur of the moment",
+"kind": "idiom",
+"gloss": [
+"An impulse; a short notice; a lack of planning."
+]
+},
+{
+"id": "whole-shooting-match_idiom",
+"w": "whole shooting match",
+"kind": "idiom",
+"gloss": [
+"Everything; the entire collection, endeavor, or activity."
+]
+},
+{
+"id": "winter-rat_idiom",
+"w": "winter rat",
+"kind": "idiom",
+"gloss": [
+"An old, unattractive automobile, purchased for little money, to be driven during brutal Great Lakes winters while the owner's \"good\" car remains garaged and protected from corrosive road salt for the season."
+]
+},
+{
+"id": "rain-buckets_idiom",
+"w": "rain buckets",
+"kind": "idiom",
+"gloss": [
+"To rain heavily"
+]
+},
+{
+"id": "small-potatoes_idiom",
+"w": "small potatoes",
+"kind": "idiom",
+"gloss": [
+"One or more persons or things of relatively little consequence, importance, or value."
+]
+},
+{
+"id": "closed-book_idiom",
+"w": "closed book",
+"kind": "idiom",
+"gloss": [
+"A person or thing that cannot be easily understood; someone or something incomprehensible or puzzling."
+]
+},
+{
+"id": "train-wreck_idiom",
+"w": "train wreck",
+"kind": "idiom",
+"gloss": [
+"To ruin utterly and catastrophically, to cause to end in disaster."
+]
+},
+{
+"id": "sex-on-legs_idiom",
+"w": "sex on legs",
+"kind": "idiom",
+"gloss": [
+"A person or persons considered to be very sexually attractive."
+]
+},
+{
+"id": "come-to-terms_idiom",
+"w": "come to terms",
+"kind": "idiom",
+"gloss": [
+"To reach an agreement or settle a dispute."
+]
+},
+{
+"id": "off-the-radar_idiom",
+"w": "off the radar",
+"kind": "idiom",
+"gloss": [
+"Unlikely to happen or be important in the near future, or tending to escape detection or attention."
+]
+},
+{
+"id": "take-to-task_idiom",
+"w": "take to task",
+"kind": "idiom",
+"gloss": [
+"To lecture, berate, admonish, or hold somebody accountable for his or her actions."
+]
+},
+{
+"id": "go-in-the-out-door_idiom",
+"w": "go in the out door",
+"kind": "idiom",
+"gloss": [
+"To engage in anal sex."
+]
+},
+{
+"id": "up-to-scratch_idiom",
+"w": "up to scratch",
+"kind": "idiom",
+"gloss": [
+"sufficient; adequate; of acceptable or satisfactory quality"
+]
+},
+{
+"id": "keep-tabs-on_idiom",
+"w": "keep tabs on",
+"kind": "idiom",
+"gloss": [
+"To monitor; to keep track of; to watch."
+]
+},
+{
+"id": "come-out-of-the-woodwork_idiom",
+"w": "come out of the woodwork",
+"kind": "idiom",
+"gloss": [
+"To appear or emerge unexpectedly or inexplicably, frequently in large numbers or quantity."
+]
+},
+{
+"id": "sticker-shock_idiom",
+"w": "sticker shock",
+"kind": "idiom",
+"gloss": [
+"Disgust, shock, or fright upon learning the price of an item offered for sale."
+]
+},
+{
+"id": "whoop-it-up_idiom",
+"w": "whoop it up",
+"kind": "idiom",
+"gloss": [
+"To have a great time; to party or revel whole-heartedly or noisily."
+]
+},
+{
+"id": "top-oneself_idiom",
+"w": "top oneself",
+"kind": "idiom",
+"gloss": [
+"To outdo oneself or do more than one's previous best."
+]
+},
+{
+"id": "top-banana_idiom",
+"w": "top banana",
+"kind": "idiom",
+"gloss": [
+"The boss, the leader."
+]
+},
+{
+"id": "catch-as-catch-can_idiom",
+"w": "catch as catch can",
+"kind": "idiom",
+"gloss": [
+"To use any available means or methods."
+]
+},
+{
+"id": "take-silk_idiom",
+"w": "take silk",
+"kind": "idiom",
+"gloss": [
+"to be appointed as a Queen's Counsel (QC) or King's Counsel (KC)"
+]
+},
+{
+"id": "take-something-in-one-s-stride_idiom",
+"w": "take something in one's stride",
+"kind": "idiom",
+"gloss": [
+"Not to allow oneself to be set back, daunted, upset or embarrassed by unpleasant or undesirable circumstances."
+]
+},
+{
+"id": "hell-on-wheels_idiom",
+"w": "hell on wheels",
+"kind": "idiom",
+"gloss": [
+"A situation that is tough, aggressive, lawless, and wild."
+]
+},
+{
+"id": "size-queen_idiom",
+"w": "size queen",
+"kind": "idiom",
+"gloss": [
+"One who prefers sexual partners with large penises."
+]
+},
+{
+"id": "crunch-numbers_idiom",
+"w": "crunch numbers",
+"kind": "idiom",
+"gloss": [
+"To figure; to do the math."
+]
+},
+{
+"id": "economical-with-the-truth_idiom",
+"w": "economical with the truth",
+"kind": "idiom",
+"gloss": [
+"Not telling the whole truth, especially in order to present a false image of a situation; untruthful; lying. Often used with sarcasm or satire."
+]
+},
+{
+"id": "cast-up-one-s-accounts_idiom",
+"w": "cast up one's accounts",
+"kind": "idiom",
+"gloss": [
+"To come to an accounting; to examine and strike the balance of debt and credit; reckon."
+]
+},
+{
+"id": "adam-s-ale_idiom",
+"w": "Adam's ale",
+"kind": "idiom",
+"gloss": [
+"Water."
+]
+},
+{
+"id": "all-hollow_idiom",
+"w": "all hollow",
+"kind": "idiom",
+"gloss": [
+"As a foregone conclusion."
+]
+},
+{
+"id": "one-s-back-is-up_idiom",
+"w": "one's back is up",
+"kind": "idiom",
+"gloss": [
+"One is offended or angry."
+]
+},
+{
+"id": "squint-like-a-bag-of-nails_idiom",
+"w": "squint like a bag of nails",
+"kind": "idiom",
+"gloss": [
+"To squint very much, as though one's eyes were directed as many ways as the points of a bag of nails."
+]
+},
+{
+"id": "balum-rancum_idiom",
+"w": "balum rancum",
+"kind": "idiom",
+"gloss": [
+"A dance, performed by a company of prostitutes naked."
+]
+},
+{
+"id": "beat-banaghan_idiom",
+"w": "beat Banaghan",
+"kind": "idiom",
+"gloss": [
+"To tell wonderful stories, or something which is amazing and remarkable."
+]
+},
+{
+"id": "hot-desking_idiom",
+"w": "hot desking",
+"kind": "idiom",
+"gloss": [
+"The working practice of sharing desks or workstations between workers, as a means of saving space and resources."
+]
+},
+{
+"id": "number-one-with-a-bullet_idiom",
+"w": "number one with a bullet",
+"kind": "idiom",
+"gloss": [
+"Superlative; impossible to beat."
+]
+},
+{
+"id": "rearrange-the-deck-chairs-on-the-titanic_idiom",
+"w": "rearrange the deck chairs on the Titanic",
+"kind": "idiom",
+"gloss": [
+"To do something pointless or insignificant that will soon be overtaken by events, or that contributes nothing to the solution of a current problem."
+]
+},
+{
+"id": "on-the-uptake_idiom",
+"w": "on the uptake",
+"kind": "idiom",
+"gloss": [
+"In understanding or in the ability to absorb new information; especially in the phrases \"quick on the uptake\" and \"slow on the uptake\"."
+]
+},
+{
+"id": "give-chase_idiom",
+"w": "give chase",
+"kind": "idiom",
+"gloss": [
+"To begin chasing or pursuing someone or something, whether on foot or by vehicle."
+]
+},
+{
+"id": "light-bucket_idiom",
+"w": "light bucket",
+"kind": "idiom",
+"gloss": [
+"A reflecting telescope, especially one with a relatively large aperture and suitable for observing deep sky objects such as nebulae and galaxies."
+]
+},
+{
+"id": "smart-arse_idiom",
+"w": "smart arse",
+"kind": "idiom",
+"gloss": [
+"One who is particularly flippant or insolent or tends to make snide remarks or jokes."
+]
+},
+{
+"id": "bust-chops_idiom",
+"w": "bust chops",
+"kind": "idiom",
+"gloss": [
+"To nag; to berate or hound in an effort to elicit action."
+]
+},
+{
+"id": "way-out-of-a-paper-bag_idiom",
+"w": "way out of a paper bag",
+"kind": "idiom",
+"gloss": [
+"A minimal level of competence or effectiveness, as used in phrases where one is unable to perform."
+]
+},
+{
+"id": "white-on-rice_idiom",
+"w": "white on rice",
+"kind": "idiom",
+"gloss": [
+"a descriptive analogy of closeness. See like white on rice."
+]
+},
+{
+"id": "go-off-half-cocked_idiom",
+"w": "go off half-cocked",
+"kind": "idiom",
+"gloss": [
+"To take a premature or ill-considered action."
+]
+},
+{
+"id": "go-back-to-the-drawing-board_idiom",
+"w": "go back to the drawing board",
+"kind": "idiom",
+"gloss": [
+"To start again; to scrap a previous idea or plan and try again from the beginning."
+]
+}
+]

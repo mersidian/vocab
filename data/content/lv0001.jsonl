@@ -1,0 +1,100 @@
+{"id":"the_det","th":"(คำนำหน้านามเฉพาะเจาะจง) ไม่แปล; นั้น; นี้","ex":"The book on the table is mine.","exTh":"หนังสือบนโต๊ะเล่มนั้นเป็นของฉัน"}
+{"id":"of_prep","th":"ของ; แห่ง; จาก","ex":"This is a picture of my family.","exTh":"นี่คือรูปครอบครัวของฉัน"}
+{"id":"and_conj","th":"และ; กับ; แล้ว","ex":"I like tea and coffee.","exTh":"ฉันชอบชาและกาแฟ"}
+{"id":"to_particle","th":"(ใช้นำหน้ากริยาแท้) ไม่แปล; เพื่อที่จะ","ex":"I want to eat now.","exTh":"ตอนนี้ฉันอยากกินข้าว"}
+{"id":"to_prep","th":"ไปยัง; ถึง; ต่อ","ex":"We go to school every day.","exTh":"เราไปโรงเรียนทุกวัน"}
+{"id":"in_prep","th":"ใน; ที่; ในช่วง","ex":"My phone is in my bag.","exTh":"โทรศัพท์ของฉันอยู่ในกระเป๋า"}
+{"id":"a_det","th":"หนึ่ง; (คำนำหน้านามไม่เจาะจง) ไม่แปล","ex":"She has a red car.","exTh":"เธอมีรถสีแดงคันหนึ่ง"}
+{"id":"is_verb","th":"เป็น; อยู่; คือ","ex":"My brother is at home.","exTh":"พี่ชายของฉันอยู่ที่บ้าน","note":"รูปของ be ใช้กับ he/she/it"}
+{"id":"that_conj","th":"ว่า; ที่","ex":"I think that he is right.","exTh":"ฉันคิดว่าเขาพูดถูก"}
+{"id":"that_det","th":"นั้น; โน้น","ex":"That house is very big.","exTh":"บ้านหลังนั้นใหญ่มาก"}
+{"id":"that_pron","th":"นั่น; นั้น; สิ่งนั้น","ex":"That is my teacher.","exTh":"นั่นคือครูของฉัน"}
+{"id":"for_prep","th":"เพื่อ; สำหรับ; เป็นเวลา","ex":"This gift is for you.","exTh":"ของขวัญนี้สำหรับคุณ"}
+{"id":"as_prep","th":"ในฐานะ; เป็น","ex":"She works as a nurse.","exTh":"เธอทำงานเป็นพยาบาล"}
+{"id":"it_pron","th":"มัน; สิ่งนั้น; (ประธานทั่วไป) ไม่แปล","ex":"I have a dog. It is very small.","exTh":"ฉันมีสุนัขตัวหนึ่ง มันตัวเล็กมาก"}
+{"id":"with_prep","th":"กับ; พร้อมกับ; ด้วย","ex":"I live with my parents.","exTh":"ฉันอาศัยอยู่กับพ่อแม่"}
+{"id":"on_prep","th":"บน; ที่; ในวัน","ex":"The cup is on the table.","exTh":"ถ้วยอยู่บนโต๊ะ"}
+{"id":"be_verb","th":"เป็น; อยู่; คือ","ex":"I want to be a doctor.","exTh":"ฉันอยากเป็นหมอ","note":"รูปผันคือ am/is/are, was/were, been"}
+{"id":"by_prep","th":"โดย; ข้างๆ; ด้วย (วิธี)","ex":"I go to work by bus.","exTh":"ฉันไปทำงานโดยรถเมล์"}
+{"id":"was_verb","th":"เป็น; อยู่ (อดีต)","ex":"I was tired last night.","exTh":"เมื่อคืนฉันเหนื่อยมาก","note":"รูปอดีตของ be ใช้กับ I/he/she/it"}
+{"id":"not_adv","th":"ไม่; มิใช่","ex":"I am not hungry.","exTh":"ฉันไม่หิว"}
+{"id":"or_conj","th":"หรือ; หรือไม่ก็","ex":"Do you want tea or coffee?","exTh":"คุณอยากดื่มชาหรือกาแฟ"}
+{"id":"this_det","th":"นี้; นี่","ex":"This bag is new.","exTh":"กระเป๋าใบนี้ใหม่"}
+{"id":"this_pron","th":"นี่; สิ่งนี้","ex":"This is my friend.","exTh":"นี่คือเพื่อนของฉัน"}
+{"id":"are_verb","th":"เป็น; อยู่; คือ","ex":"You are my best friend.","exTh":"คุณเป็นเพื่อนที่ดีที่สุดของฉัน","note":"รูปของ be ใช้กับ you/we/they"}
+{"id":"i_pron","th":"ฉัน; ผม; ดิฉัน","ex":"I like music.","exTh":"ฉันชอบดนตรี"}
+{"id":"at_prep","th":"ที่; ตอน (เวลา)","ex":"We meet at school at eight.","exTh":"เราพบกันที่โรงเรียนตอนแปดโมง"}
+{"id":"from_prep","th":"จาก; ตั้งแต่","ex":"I am from Thailand.","exTh":"ฉันมาจากประเทศไทย"}
+{"id":"he_pron","th":"เขา (ผู้ชาย); ผู้ชายคนนั้น","ex":"He is my brother.","exTh":"เขาเป็นพี่ชายของฉัน"}
+{"id":"which_det","th":"ไหน; อันไหน","ex":"Which color do you like?","exTh":"คุณชอบสีไหน"}
+{"id":"which_pron","th":"อันไหน; ซึ่ง; ที่","ex":"Which is your bag?","exTh":"อันไหนคือกระเป๋าของคุณ"}
+{"id":"an_det","th":"หนึ่ง; (คำนำหน้านามไม่เจาะจง) ไม่แปล","ex":"I eat an apple every day.","exTh":"ฉันกินแอปเปิลหนึ่งผลทุกวัน","note":"ใช้แทน a หน้าคำที่ขึ้นต้นด้วยเสียงสระ"}
+{"id":"have_verb","th":"มี; กิน; ได้รับ","ex":"I have two sisters.","exTh":"ฉันมีน้องสาวสองคน"}
+{"id":"his_det","th":"ของเขา","ex":"His car is very old.","exTh":"รถของเขาเก่ามาก"}
+{"id":"his_pron","th":"ของเขา","ex":"This pen is his.","exTh":"ปากกาด้ามนี้เป็นของเขา"}
+{"id":"but_conj","th":"แต่; แต่ว่า","ex":"I like tea, but I don't like coffee.","exTh":"ฉันชอบชา แต่ไม่ชอบกาแฟ"}
+{"id":"you_pron","th":"คุณ; เธอ; เจ้า","ex":"Can you help me?","exTh":"คุณช่วยฉันได้ไหม"}
+{"id":"were_verb","th":"เป็น; อยู่ (อดีต)","ex":"We were at home yesterday.","exTh":"เมื่อวานเราอยู่บ้าน","note":"รูปอดีตของ be ใช้กับ you/we/they"}
+{"id":"we_pron","th":"เรา; พวกเรา","ex":"We live in Bangkok.","exTh":"พวกเราอาศัยอยู่ในกรุงเทพฯ"}
+{"id":"they_pron","th":"พวกเขา; พวกมัน","ex":"They are my friends.","exTh":"พวกเขาเป็นเพื่อนของฉัน"}
+{"id":"had_verb","th":"มี; กิน; ได้รับ (อดีต)","ex":"I had rice for lunch.","exTh":"ฉันกินข้าวเป็นมื้อเที่ยง","note":"รูปอดีตของ have (had, had)"}
+{"id":"all_det","th":"ทั้งหมด; ทุก","ex":"All the students are here.","exTh":"นักเรียนทุกคนอยู่ที่นี่"}
+{"id":"all_pron","th":"ทั้งหมด; ทุกคน; ทุกอย่าง","ex":"We all like the movie.","exTh":"พวกเราทุกคนชอบหนังเรื่องนี้"}
+{"id":"one_det","th":"หนึ่ง; คนหนึ่ง; อันหนึ่ง","ex":"I have one brother.","exTh":"ฉันมีพี่ชายหนึ่งคน"}
+{"id":"one_num","th":"หนึ่ง; เลขหนึ่ง","ex":"I need one more minute.","exTh":"ฉันขออีกหนึ่งนาที"}
+{"id":"has_verb","th":"มี; กิน; ได้รับ","ex":"She has a small dog.","exTh":"เธอมีสุนัขตัวเล็กหนึ่งตัว","note":"รูปของ have ใช้กับ he/she/it"}
+{"id":"their_det","th":"ของพวกเขา","ex":"Their house is near the park.","exTh":"บ้านของพวกเขาอยู่ใกล้สวนสาธารณะ"}
+{"id":"will_modal","th":"จะ; คงจะ","ex":"I will call you tomorrow.","exTh":"พรุ่งนี้ฉันจะโทรหาคุณ"}
+{"id":"can_modal","th":"สามารถ; ได้; ขอ (อนุญาต)","ex":"I can swim very well.","exTh":"ฉันว่ายน้ำเก่งมาก"}
+{"id":"there_adv","th":"ที่นั่น; ตรงนั้น","ex":"Put the box there, please.","exTh":"กรุณาวางกล่องไว้ตรงนั้น"}
+{"id":"other_det","th":"อื่น; อีก","ex":"I have no other plans today.","exTh":"วันนี้ฉันไม่มีแผนอื่นแล้ว"}
+{"id":"if_conj","th":"ถ้า; หาก; หรือไม่","ex":"If it rains, we stay home.","exTh":"ถ้าฝนตก เราจะอยู่บ้าน"}
+{"id":"would_modal","th":"จะ (อดีต/สมมติ); อยาก (สุภาพ)","ex":"Would you like some water?","exTh":"คุณอยากดื่มน้ำไหม"}
+{"id":"her_det","th":"ของเธอ","ex":"Her bag is on the chair.","exTh":"กระเป๋าของเธออยู่บนเก้าอี้"}
+{"id":"her_pron","th":"เธอ (กรรม); ผู้หญิงคนนั้น","ex":"I know her very well.","exTh":"ฉันรู้จักเธอดีมาก"}
+{"id":"more_det","th":"มากกว่า; เพิ่มอีก","ex":"I need more time.","exTh":"ฉันต้องการเวลาเพิ่มอีก"}
+{"id":"more_pron","th":"มากกว่า; เพิ่มอีก","ex":"Would you like some more?","exTh":"คุณอยากได้เพิ่มอีกไหม"}
+{"id":"may_modal","th":"อาจจะ; ขออนุญาต","ex":"It may rain this afternoon.","exTh":"บ่ายนี้ฝนอาจจะตก"}
+{"id":"may_noun","th":"เดือนพฤษภาคม","ex":"My birthday is in May.","exTh":"วันเกิดของฉันอยู่ในเดือนพฤษภาคม"}
+{"id":"when_adv","th":"เมื่อไร; ตอนไหน","ex":"When do you go home?","exTh":"คุณกลับบ้านตอนไหน"}
+{"id":"when_conj","th":"เมื่อ; ตอนที่","ex":"I was happy when I saw her.","exTh":"ฉันดีใจตอนที่เห็นเธอ"}
+{"id":"its_det","th":"ของมัน","ex":"The cat is washing its face.","exTh":"แมวกำลังล้างหน้าของมัน"}
+{"id":"its_pron","th":"ของมัน","ex":"The dog is happy, and the bone is its.","exTh":"สุนัขดีใจ และกระดูกนั้นเป็นของมัน","note":"ใช้น้อยมาก ส่วนใหญ่ใช้ its เป็น det"}
+{"id":"no_adv","th":"ไม่; ไม่ใช่","ex":"No, I am not ready yet.","exTh":"ไม่ ฉันยังไม่พร้อม"}
+{"id":"no_det","th":"ไม่มี; ไม่มีเลย","ex":"I have no money today.","exTh":"วันนี้ฉันไม่มีเงินเลย"}
+{"id":"these_det","th":"เหล่านี้; พวกนี้","ex":"These shoes are too small.","exTh":"รองเท้าคู่นี้เล็กเกินไป"}
+{"id":"these_pron","th":"เหล่านี้; พวกนี้","ex":"These are my keys.","exTh":"นี่คือกุญแจของฉัน"}
+{"id":"new_adj","th":"ใหม่","ex":"I have a new phone.","exTh":"ฉันมีโทรศัพท์เครื่องใหม่"}
+{"id":"she_pron","th":"เธอ (ผู้หญิง); ผู้หญิงคนนั้น","ex":"She is a teacher.","exTh":"เธอเป็นครู"}
+{"id":"so_conj","th":"ดังนั้น; เพราะฉะนั้น","ex":"It was late, so we went home.","exTh":"ดึกแล้ว เราจึงกลับบ้านกัน"}
+{"id":"who_pron","th":"ใคร; ผู้ที่","ex":"Who is that man?","exTh":"ผู้ชายคนนั้นเป็นใคร"}
+{"id":"time_noun","th":"เวลา; ครั้ง; ช่วงเวลา","ex":"What time is it now?","exTh":"ตอนนี้กี่โมงแล้ว"}
+{"id":"than_conj","th":"กว่า; มากกว่า","ex":"She is taller than I am.","exTh":"เธอสูงกว่าฉัน"}
+{"id":"than_prep","th":"กว่า","ex":"My brother is older than me.","exTh":"พี่ชายของฉันอายุมากกว่าฉัน"}
+{"id":"any_det","th":"ใดๆ; บ้าง; เลย","ex":"Do you have any questions?","exTh":"คุณมีคำถามอะไรบ้างไหม"}
+{"id":"any_pron","th":"ใดๆ; บ้าง; อันไหนก็ได้","ex":"I need milk, but there isn't any.","exTh":"ฉันต้องการนม แต่ไม่มีเลย"}
+{"id":"do_verb","th":"ทำ; กระทำ","ex":"I do my homework after dinner.","exTh":"ฉันทำการบ้านหลังกินข้าวเย็น","note":"ใช้เป็นกริยาช่วยในประโยคคำถามและปฏิเสธด้วย"}
+{"id":"what_det","th":"อะไร; อะไรบ้าง","ex":"What color is your car?","exTh":"รถของคุณสีอะไร"}
+{"id":"what_pron","th":"อะไร; สิ่งที่","ex":"What do you want to eat?","exTh":"คุณอยากกินอะไร"}
+{"id":"some_det","th":"บ้าง; บางส่วน; สักหน่อย","ex":"I want some water.","exTh":"ฉันอยากได้น้ำสักหน่อย"}
+{"id":"some_pron","th":"บางส่วน; บางคน; บางอัน","ex":"I like these cakes. Please take some.","exTh":"ฉันชอบเค้กพวกนี้ เชิญหยิบไปบ้างนะ"}
+{"id":"also_adv","th":"ด้วย; เช่นกัน; อีกทั้ง","ex":"I also like football.","exTh":"ฉันก็ชอบฟุตบอลเหมือนกัน"}
+{"id":"about_adv","th":"ประมาณ; ราวๆ","ex":"It costs about ten dollars.","exTh":"ราคาประมาณสิบดอลลาร์"}
+{"id":"about_prep","th":"เกี่ยวกับ; เรื่อง","ex":"This book is about animals.","exTh":"หนังสือเล่มนี้เกี่ยวกับสัตว์"}
+{"id":"only_adj","th":"เดียว; เพียงอย่างเดียว","ex":"She is the only child in the family.","exTh":"เธอเป็นลูกคนเดียวของครอบครัว"}
+{"id":"only_adv","th":"เท่านั้น; เพียง","ex":"I only have five dollars.","exTh":"ฉันมีเงินแค่ห้าดอลลาร์เท่านั้น"}
+{"id":"into_prep","th":"เข้าไปใน; เข้าสู่","ex":"She walked into the room.","exTh":"เธอเดินเข้าไปในห้อง"}
+{"id":"out_adv","th":"ออก; ข้างนอก","ex":"The children went out to play.","exTh":"เด็กๆ ออกไปเล่นข้างนอก"}
+{"id":"two_num","th":"สอง; เลขสอง","ex":"I have two cats.","exTh":"ฉันมีแมวสองตัว"}
+{"id":"my_det","th":"ของฉัน; ของผม","ex":"My mother is a nurse.","exTh":"แม่ของฉันเป็นพยาบาล"}
+{"id":"up_prep","th":"ขึ้น; ขึ้นไปบน","ex":"They walked up the hill.","exTh":"พวกเขาเดินขึ้นเนิน"}
+{"id":"them_pron","th":"พวกเขา; พวกมัน (กรรม)","ex":"I see them every day.","exTh":"ฉันเจอพวกเขาทุกวัน"}
+{"id":"him_pron","th":"เขา (ผู้ชาย, กรรม)","ex":"I know him well.","exTh":"ฉันรู้จักเขาดี"}
+{"id":"first_adj","th":"แรก; ที่หนึ่ง; อันดับแรก","ex":"This is my first day at work.","exTh":"วันนี้เป็นวันแรกที่ฉันทำงาน"}
+{"id":"first_adv","th":"ก่อน; ก่อนอื่น; เป็นครั้งแรก","ex":"First, wash your hands.","exTh":"ก่อนอื่นให้ล้างมือก่อน"}
+{"id":"see_verb","th":"เห็น; มอง; พบ","ex":"I can see a bird in the tree.","exTh":"ฉันเห็นนกตัวหนึ่งอยู่บนต้นไม้","note":"รูปผัน: saw, seen"}
+{"id":"our_det","th":"ของเรา; ของพวกเรา","ex":"Our teacher is very kind.","exTh":"ครูของเราใจดีมาก"}
+{"id":"under_prep","th":"ใต้; ข้างใต้; ต่ำกว่า","ex":"The cat is under the table.","exTh":"แมวอยู่ใต้โต๊ะ"}
+{"id":"should_modal","th":"ควร; น่าจะ","ex":"You should drink more water.","exTh":"คุณควรดื่มน้ำให้มากขึ้น"}
+{"id":"could_modal","th":"สามารถ (อดีต); น่าจะ; ขอ (สุภาพ)","ex":"Could you open the door, please?","exTh":"ช่วยเปิดประตูให้หน่อยได้ไหมครับ"}
+{"id":"after_prep","th":"หลัง; หลังจาก","ex":"We eat dinner after work.","exTh":"เรากินข้าวเย็นหลังเลิกงาน"}

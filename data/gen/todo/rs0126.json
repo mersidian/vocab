@@ -1,0 +1,802 @@
+[
+{
+"id": "stiff-upper-lip_idiom",
+"w": "stiff upper lip",
+"kind": "idiom",
+"gloss": [
+"The quality of being resolute and showing self-restraint, stereotypically associated with the British; especially as keep a stiff upper lip."
+]
+},
+{
+"id": "life-of-its-own_idiom",
+"w": "life of its own",
+"kind": "idiom",
+"gloss": [
+"An independent existence with some characteristics of life, such as dynamism."
+]
+},
+{
+"id": "but-seriously-folks_idiom",
+"w": "but seriously folks",
+"kind": "idiom",
+"gloss": [
+"Used to redirect attention to immediately preceding a failed attempt at humor."
+]
+},
+{
+"id": "cross-of-gold_idiom",
+"w": "cross of gold",
+"kind": "idiom",
+"gloss": [
+"A public policy which puts the interests of the rich ahead of those of the poor."
+]
+},
+{
+"id": "four-score-and-seven-years-ago_idiom",
+"w": "four score and seven years ago",
+"kind": "idiom",
+"gloss": [
+"Used (sometimes sarcastically) to indicate that a past event being mentioned is particularly important: a long time ago; many years ago."
+]
+},
+{
+"id": "go-the-way-of_idiom",
+"w": "go the way of",
+"kind": "idiom",
+"gloss": [
+"To end up the same way as; to undergo the same fate as."
+]
+},
+{
+"id": "talk-in-circles_idiom",
+"w": "talk in circles",
+"kind": "idiom",
+"gloss": [
+"To argue a point by repetition of the same theme, sometimes by using different words, but without making any progress."
+]
+},
+{
+"id": "arm-candy_idiom",
+"w": "arm candy",
+"kind": "idiom",
+"gloss": [
+"An attractive, seemingly romantic companion who accompanies a person in public solely so that one or both of the individuals can gain attention, enhance social status, or create an impression of sexual appeal."
+]
+},
+{
+"id": "dictated-but-not-read_idiom",
+"w": "dictated but not read",
+"kind": "idiom",
+"gloss": [
+"Dictated, as to a secretary or stenographer, but not proofread by the person who dictated it."
+]
+},
+{
+"id": "dog-and-cat_idiom",
+"w": "dog and cat",
+"kind": "idiom",
+"gloss": [
+"A team comprising one male and one female, either working as associates or having one as the second-in-command to the other."
+]
+},
+{
+"id": "old-fogey_idiom",
+"w": "old fogey",
+"kind": "idiom",
+"gloss": [
+"An old and overly conservative person."
+]
+},
+{
+"id": "protestant-work-ethic_idiom",
+"w": "Protestant work ethic",
+"kind": "idiom",
+"gloss": [
+"A Calvinist value emphasizing the necessity of constant labor in a person's calling as a sign of personal salvation."
+]
+},
+{
+"id": "for-the-love-of_idiom",
+"w": "for the love of",
+"kind": "idiom",
+"gloss": [
+"Used to form interjections expressing exasperation."
+]
+},
+{
+"id": "it-s-all-good_idiom",
+"w": "it's all good",
+"kind": "idiom",
+"gloss": [
+"Used to express unconcern."
+]
+},
+{
+"id": "riddle-wrapped-in-an-enigma_idiom",
+"w": "riddle wrapped in an enigma",
+"kind": "idiom",
+"gloss": [
+"Something very mysterious and hidden."
+]
+},
+{
+"id": "on-the-outs_idiom",
+"w": "on the outs",
+"kind": "idiom",
+"gloss": [
+"On unfriendly terms; estranged."
+]
+},
+{
+"id": "lone-ranger_idiom",
+"w": "Lone Ranger",
+"kind": "idiom",
+"gloss": [
+"A solitary, sometimes mysterious or heroic, person."
+]
+},
+{
+"id": "turn-loose_idiom",
+"w": "turn loose",
+"kind": "idiom",
+"gloss": [
+"To release or let go; to permit (someone or something) to roam freely or to act freely."
+]
+},
+{
+"id": "rule-ok_idiom",
+"w": "rule OK",
+"kind": "idiom",
+"gloss": [
+"To be popularly accepted, or supported by the general majority of people."
+]
+},
+{
+"id": "haul-someone-over-the-coals_idiom",
+"w": "haul someone over the coals",
+"kind": "idiom",
+"gloss": [
+"To express anger with someone in no uncertain terms when they do something wrong."
+]
+},
+{
+"id": "take-a-gamble_idiom",
+"w": "take a gamble",
+"kind": "idiom",
+"gloss": [
+"To try something risky."
+]
+},
+{
+"id": "you-know-it_idiom",
+"w": "you know it",
+"kind": "idiom",
+"gloss": [
+"Indicates agreement, approval, encouragement."
+]
+},
+{
+"id": "unring-a-bell_idiom",
+"w": "unring a bell",
+"kind": "idiom",
+"gloss": [
+"To reverse the irreversible; to perform the impossible."
+]
+},
+{
+"id": "bowl-of-cherries_idiom",
+"w": "bowl of cherries",
+"kind": "idiom",
+"gloss": [
+"An enjoyable experience."
+]
+},
+{
+"id": "behind-the-bit_idiom",
+"w": "behind the bit",
+"kind": "idiom",
+"gloss": [
+"Evading the bit."
+]
+},
+{
+"id": "do-exactly-what-it-says-on-the-tin_idiom",
+"w": "do exactly what it says on the tin",
+"kind": "idiom",
+"gloss": [
+"To do what is described or what one would expect, with no further explanation needed."
+]
+},
+{
+"id": "hate-someone-s-guts_idiom",
+"w": "hate someone's guts",
+"kind": "idiom",
+"gloss": [
+"To despise; to hate intensely or passionately."
+]
+},
+{
+"id": "keep-one-s-eye-on-the-ball_idiom",
+"w": "keep one's eye on the ball",
+"kind": "idiom",
+"gloss": [
+"To maintain one's concentration fixed on one important theme."
+]
+},
+{
+"id": "take-one-s-eye-off-the-ball_idiom",
+"w": "take one's eye off the ball",
+"kind": "idiom",
+"gloss": [
+"To lose one's concentration on what is most important."
+]
+},
+{
+"id": "take-a-bullet_idiom",
+"w": "take a bullet",
+"kind": "idiom",
+"gloss": [
+"To purposely receive a gunshot that was intended for another."
+]
+},
+{
+"id": "no-screaming-hell_idiom",
+"w": "no screaming hell",
+"kind": "idiom",
+"gloss": [
+"Not particularly effective or impressive; below expectations."
+]
+},
+{
+"id": "dawn-of-a-new-day_idiom",
+"w": "dawn of a new day",
+"kind": "idiom",
+"gloss": [
+"A new beginning; a fresh start; an important, promising turning point."
+]
+},
+{
+"id": "i-ll-be_idiom",
+"w": "I'll be",
+"kind": "idiom",
+"gloss": [
+"Expressing surprise."
+]
+},
+{
+"id": "yellow-brick-road_idiom",
+"w": "yellow brick road",
+"kind": "idiom",
+"gloss": [
+"A proverbial path to a Promised Land of one's hopes and dreams."
+]
+},
+{
+"id": "from-here-to-sunday_idiom",
+"w": "from here to Sunday",
+"kind": "idiom",
+"gloss": [
+"Everywhere; all over the place."
+]
+},
+{
+"id": "old-stick_idiom",
+"w": "old stick",
+"kind": "idiom",
+"gloss": [
+"A person."
+]
+},
+{
+"id": "have-a-good-time_idiom",
+"w": "have a good time",
+"kind": "idiom",
+"gloss": [
+"To enjoy oneself."
+]
+},
+{
+"id": "charmed-life_idiom",
+"w": "charmed life",
+"kind": "idiom",
+"gloss": [
+"A life in which one is always lucky and safe from danger."
+]
+},
+{
+"id": "on-the-cards_idiom",
+"w": "on the cards",
+"kind": "idiom",
+"gloss": [
+"Likely to occur, probable."
+]
+},
+{
+"id": "get-one-s-marching-orders_idiom",
+"w": "get one's marching orders",
+"kind": "idiom",
+"gloss": [
+"To be dismissed disgracefully."
+]
+},
+{
+"id": "see-yellow_idiom",
+"w": "see yellow",
+"kind": "idiom",
+"gloss": [
+"To receive a yellow card."
+]
+},
+{
+"id": "been-to-the-rodeo_idiom",
+"w": "been to the rodeo",
+"kind": "idiom",
+"gloss": [
+"Been exposed to conmen and hucksters; experienced."
+]
+},
+{
+"id": "crying-shame_idiom",
+"w": "crying shame",
+"kind": "idiom",
+"gloss": [
+"A situation that is considered to be a disgrace, or deplorable."
+]
+},
+{
+"id": "cradle-robber_idiom",
+"w": "cradle robber",
+"kind": "idiom",
+"gloss": [
+"A person who marries or becomes romantically involved with someone who is much younger, or who employs or otherwise engages a young person for a purpose inappropriate for his or her age."
+]
+},
+{
+"id": "top-drawer_idiom",
+"w": "top drawer",
+"kind": "idiom",
+"gloss": [
+"Of the highest quality."
+]
+},
+{
+"id": "in-the-toilet_idiom",
+"w": "in the toilet",
+"kind": "idiom",
+"gloss": [
+"Finished; at an ignoble end."
+]
+},
+{
+"id": "lend-an-ear_idiom",
+"w": "lend an ear",
+"kind": "idiom",
+"gloss": [
+"To listen to someone."
+]
+},
+{
+"id": "flap-one-s-gums_idiom",
+"w": "flap one's gums",
+"kind": "idiom",
+"gloss": [
+"To speak (idly); to talk without effect."
+]
+},
+{
+"id": "time-and-material_idiom",
+"w": "time and material",
+"kind": "idiom",
+"gloss": [
+"A form of contractual compensation involving payment for materials used and at agreed rates for the those involved in performing the services."
+]
+},
+{
+"id": "horse-s-mouth_idiom",
+"w": "horse's mouth",
+"kind": "idiom",
+"gloss": [
+"An authentic source; someone who directly experienced or witnessed something."
+]
+},
+{
+"id": "hot-sheet_idiom",
+"w": "hot sheet",
+"kind": "idiom",
+"gloss": [
+"A list of items of high current interest."
+]
+},
+{
+"id": "low-road_idiom",
+"w": "low road",
+"kind": "idiom",
+"gloss": [
+"A course of action which is undignified, wrongful, or otherwise unseemly."
+]
+},
+{
+"id": "keep-on-truckin_idiom",
+"w": "keep on truckin'",
+"kind": "idiom",
+"gloss": [
+"To continue or persist, regardless of circumstances or setbacks; to keep trying or striving."
+]
+},
+{
+"id": "what-s-eating_idiom",
+"w": "what's eating",
+"kind": "idiom",
+"gloss": [
+"What is wrong with...? What is the problem with... (somebody)? Inquired regarding somebody who seems upset, worried, angry, etc."
+]
+},
+{
+"id": "keep-straight_idiom",
+"w": "keep straight",
+"kind": "idiom",
+"gloss": [
+"To avoid confusing or mixing up something; to keep something clear or organized."
+]
+},
+{
+"id": "oh-my_idiom",
+"w": "oh my",
+"kind": "idiom",
+"gloss": [
+"oh my God"
+]
+},
+{
+"id": "golden-ticket_idiom",
+"w": "golden ticket",
+"kind": "idiom",
+"gloss": [
+"A qualification, person or thing that can provide positive opportunities."
+]
+},
+{
+"id": "burn-a-hole-in-someone-s-pocket_idiom",
+"w": "burn a hole in someone's pocket",
+"kind": "idiom",
+"gloss": [
+"To cause someone to spend money or be tempted to spend money."
+]
+},
+{
+"id": "loaded-word_idiom",
+"w": "loaded word",
+"kind": "idiom",
+"gloss": [
+"Any word, set phrase or idiom that has strong positive or negative connotations beyond its ordinary definition."
+]
+},
+{
+"id": "trip-to-the-woodshed_idiom",
+"w": "trip to the woodshed",
+"kind": "idiom",
+"gloss": [
+"An occasion on which a reprimand or punishment is administered privately."
+]
+},
+{
+"id": "fruit-of-the-union_idiom",
+"w": "fruit of the union",
+"kind": "idiom",
+"gloss": [
+"A child, especially from a marriage or similar union."
+]
+},
+{
+"id": "good-times_idiom",
+"w": "good times",
+"kind": "idiom",
+"gloss": [
+"Referring to a specific period of time, whether the speaker’s present circumstances or a past era recalled with nostalgia, as agreeable or enjoyable, occasionally with an ironic connotation."
+]
+},
+{
+"id": "come-down-to-us_idiom",
+"w": "come down to us",
+"kind": "idiom",
+"gloss": [
+"To survive to the present day; to be extant in some form."
+]
+},
+{
+"id": "play-the-same-tape_idiom",
+"w": "play the same tape",
+"kind": "idiom",
+"gloss": [
+"To repeat exactly what one previously said or did."
+]
+},
+{
+"id": "sacked-out_idiom",
+"w": "sacked out",
+"kind": "idiom",
+"gloss": [
+"Sound asleep, usually from a healthy exhaustion."
+]
+},
+{
+"id": "dummy-run_idiom",
+"w": "dummy run",
+"kind": "idiom",
+"gloss": [
+"A trial or practice before the real attempt."
+]
+},
+{
+"id": "knocking-on-heaven-s-door_idiom",
+"w": "knocking on heaven's door",
+"kind": "idiom",
+"gloss": [
+"Dying, close to death."
+]
+},
+{
+"id": "bone-hard_idiom",
+"w": "bone hard",
+"kind": "idiom",
+"gloss": [
+"As hard as a bone, rock hard."
+]
+},
+{
+"id": "worth-every-penny_idiom",
+"w": "worth every penny",
+"kind": "idiom",
+"gloss": [
+"Completely worth the money paid for it."
+]
+},
+{
+"id": "suck-donkey-balls_idiom",
+"w": "suck donkey balls",
+"kind": "idiom",
+"gloss": [
+"To be terrible, of extremely poor quality."
+]
+},
+{
+"id": "welfare-cadillac_idiom",
+"w": "welfare Cadillac",
+"kind": "idiom",
+"gloss": [
+"The case of a person or group receiving public benefits, although the benefits are not actually needed by the recipient or are obtained by fraud."
+]
+},
+{
+"id": "thumb-a-ride_idiom",
+"w": "thumb a ride",
+"kind": "idiom",
+"gloss": [
+"To hitchhike."
+]
+},
+{
+"id": "cap-over-the-windmill_idiom",
+"w": "cap over the windmill",
+"kind": "idiom",
+"gloss": [
+"In a bizarre or eccentric manner."
+]
+},
+{
+"id": "that-s-just-me_idiom",
+"w": "that's just me",
+"kind": "idiom",
+"gloss": [
+"Indicates the expression of a personal opinion, but often used ironically as an understatement."
+]
+},
+{
+"id": "somewhere-along-the-line_idiom",
+"w": "somewhere along the line",
+"kind": "idiom",
+"gloss": [
+"At some point in a process or in a series of events; at some unspecified or unknown time; eventually."
+]
+},
+{
+"id": "shiver-me-timbers_idiom",
+"w": "shiver me timbers",
+"kind": "idiom",
+"gloss": [
+"A sarcastic remark indicating that the speaker is not scared."
+]
+},
+{
+"id": "poke-one-s-nose-into_idiom",
+"w": "poke one's nose into",
+"kind": "idiom",
+"gloss": [
+"Synonym of stick one's nose into."
+]
+},
+{
+"id": "not-quite_idiom",
+"w": "not quite",
+"kind": "idiom",
+"gloss": [
+"almost, very nearly"
+]
+},
+{
+"id": "throw-one-s-weight-around_idiom",
+"w": "throw one's weight around",
+"kind": "idiom",
+"gloss": [
+"To exercise influence or authority, especially to an excessive degree or in an objectionable manner."
+]
+},
+{
+"id": "coon-s-age_idiom",
+"w": "coon's age",
+"kind": "idiom",
+"gloss": [
+"A very long time."
+]
+},
+{
+"id": "get-the-sack_idiom",
+"w": "get the sack",
+"kind": "idiom",
+"gloss": [
+"To be dismissed from employment."
+]
+},
+{
+"id": "wind-back-the-clock_idiom",
+"w": "wind back the clock",
+"kind": "idiom",
+"gloss": [
+"To return in time to an earlier period of history."
+]
+},
+{
+"id": "stem-the-tide_idiom",
+"w": "stem the tide",
+"kind": "idiom",
+"gloss": [
+"To slow or stop the flow of something."
+]
+},
+{
+"id": "laugh-all-the-way-to-the-bank_idiom",
+"w": "laugh all the way to the bank",
+"kind": "idiom",
+"gloss": [
+"To make a large income easily, especially at the expense of others or by doing something that lacks significant merit or effort."
+]
+},
+{
+"id": "kiss-and-make-up_idiom",
+"w": "kiss and make up",
+"kind": "idiom",
+"gloss": [
+"To settle one's differences and forgive."
+]
+},
+{
+"id": "delhi-belly_idiom",
+"w": "Delhi belly",
+"kind": "idiom",
+"gloss": [
+"Digestive illness or diarrhea, especially if suffered by a visitor to India."
+]
+},
+{
+"id": "give-a-light_idiom",
+"w": "give a light",
+"kind": "idiom",
+"gloss": [
+"To care."
+]
+},
+{
+"id": "tall-story_idiom",
+"w": "tall story",
+"kind": "idiom",
+"gloss": [
+"Synonym of tall tale (“a tale or story which is fantastic and greatly exaggerated; also, an account of questionable veracity; a lie, an untruth”)."
+]
+},
+{
+"id": "may-as-well_idiom",
+"w": "may as well",
+"kind": "idiom",
+"gloss": [
+"Used to express reluctance, to express that if one hypothetical or possible action happened, it would not make any notable difference."
+]
+},
+{
+"id": "run-rampant_idiom",
+"w": "run rampant",
+"kind": "idiom",
+"gloss": [
+"To go unchecked or without control; to be wild or excessive."
+]
+},
+{
+"id": "take-the-stand_idiom",
+"w": "take the stand",
+"kind": "idiom",
+"gloss": [
+"To testify as a witness in a trial."
+]
+},
+{
+"id": "take-leave-of-one-s-senses_idiom",
+"w": "take leave of one's senses",
+"kind": "idiom",
+"gloss": [
+"To go crazy; to stop behaving rationally."
+]
+},
+{
+"id": "hell-or-high-water_idiom",
+"w": "hell or high water",
+"kind": "idiom",
+"gloss": [
+"Highly adverse circumstances; acts of God."
+]
+},
+{
+"id": "have-a-heart_idiom",
+"w": "have a heart",
+"kind": "idiom",
+"gloss": [
+"To be kind or sympathetic; to treat others kindly."
+]
+},
+{
+"id": "pray-to-the-porcelain-god_idiom",
+"w": "pray to the porcelain god",
+"kind": "idiom",
+"gloss": [
+"Synonym of worship the porcelain god (“to vomit into a toilet bowl”)."
+]
+},
+{
+"id": "go-by-the-wayside_idiom",
+"w": "go by the wayside",
+"kind": "idiom",
+"gloss": [
+"To become obsolete or outmoded."
+]
+},
+{
+"id": "staff-of-life_idiom",
+"w": "staff of life",
+"kind": "idiom",
+"gloss": [
+"Bread or some other staple foodstuff."
+]
+},
+{
+"id": "flip-one-s-lid_idiom",
+"w": "flip one's lid",
+"kind": "idiom",
+"gloss": [
+"To become explosively angry, to lose one's temper."
+]
+},
+{
+"id": "give-the-devil-his-due_idiom",
+"w": "give the devil his due",
+"kind": "idiom",
+"gloss": [
+"To acknowledge the positive qualities of a person who is unpleasant or disliked."
+]
+},
+{
+"id": "up-the-yin-yang_idiom",
+"w": "up the yin-yang",
+"kind": "idiom",
+"gloss": [
+"Synonym of out the wazoo."
+]
+}
+]

@@ -1,0 +1,100 @@
+{"id":"reach_verb","th":"ไปถึง; เอื้อมไปหยิบ; ติดต่อ","ex":"We will reach the hotel before dinner.","exTh":"เราจะไปถึงโรงแรมก่อนมื้อเย็น"}
+{"id":"fear_noun","th":"ความกลัว; ความหวาดกลัว","ex":"Many children have a fear of dogs.","exTh":"เด็กหลายคนกลัวสุนัข"}
+{"id":"plate_noun","th":"จาน; ป้ายทะเบียน","ex":"Please put the rice on my plate.","exTh":"ช่วยตักข้าวใส่จานของฉันหน่อย"}
+{"id":"style_noun","th":"สไตล์; แบบ; รูปแบบ","ex":"I like her style of dressing.","exTh":"ฉันชอบสไตล์การแต่งตัวของเธอ"}
+{"id":"wrong_adv","th":"ผิด; ผิดพลาด","ex":"The game went wrong from the start.","exTh":"เกมนี้ผิดพลาดตั้งแต่เริ่มต้น"}
+{"id":"village_noun","th":"หมู่บ้าน; ชุมชนชนบท","ex":"My grandmother lives in a small village.","exTh":"คุณยายของฉันอาศัยอยู่ในหมู่บ้านเล็กๆ"}
+{"id":"send_verb","th":"ส่ง; ส่งไป","ex":"Please send me a message tonight.","exTh":"คืนนี้ช่วยส่งข้อความมาหาฉันหน่อย"}
+{"id":"married_adj","th":"แต่งงานแล้ว; สมรสแล้ว","ex":"My sister is married and has two kids.","exTh":"พี่สาวของฉันแต่งงานแล้วและมีลูกสองคน"}
+{"id":"advanced_adj","th":"ก้าวหน้า; ขั้นสูง; ล้ำหน้า","ex":"She is in an advanced English class.","exTh":"เธออยู่ในชั้นเรียนภาษาอังกฤษขั้นสูง"}
+{"id":"valley_noun","th":"หุบเขา; ที่ราบระหว่างภูเขา","ex":"The village is in a green valley.","exTh":"หมู่บ้านนี้อยู่ในหุบเขาสีเขียว"}
+{"id":"enter_verb","th":"เข้า; เข้าไป; ป้อนข้อมูล","ex":"Please enter the room quietly.","exTh":"กรุณาเข้าห้องอย่างเงียบๆ"}
+{"id":"advantage_noun","th":"ข้อได้เปรียบ; ข้อดี; ประโยชน์","ex":"Speaking English is an advantage in this job.","exTh":"การพูดภาษาอังกฤษได้เป็นข้อได้เปรียบในงานนี้"}
+{"id":"search_noun","th":"การค้นหา; การสืบค้น","ex":"The search for the lost key took an hour.","exTh":"การค้นหากุญแจที่หายไปใช้เวลาหนึ่งชั่วโมง"}
+{"id":"avoid_verb","th":"หลีกเลี่ยง; เลี่ยง","ex":"I try to avoid sugar in my coffee.","exTh":"ฉันพยายามเลี่ยงน้ำตาลในกาแฟ"}
+{"id":"royal_adj","th":"เกี่ยวกับราชวงศ์; แห่งราชวงศ์; หลวง","ex":"The royal family waved to the crowd.","exTh":"พระราชวงศ์ทรงโบกพระหัตถ์ให้ฝูงชน"}
+{"id":"represent_verb","th":"เป็นตัวแทน; แสดงถึง; สื่อถึง","ex":"She will represent our school at the contest.","exTh":"เธอจะเป็นตัวแทนโรงเรียนของเราในการแข่งขัน"}
+{"id":"argument_noun","th":"การโต้เถียง; การทะเลาะ; ข้อโต้แย้ง","ex":"They had an argument about money.","exTh":"พวกเขาทะเลาะกันเรื่องเงิน"}
+{"id":"pacific_adj","th":"เกี่ยวกับมหาสมุทรแปซิฟิก; สงบ","ex":"They sailed across the Pacific Ocean.","exTh":"พวกเขาล่องเรือข้ามมหาสมุทรแปซิฟิก","note":"มักใช้ตัวพิมพ์ใหญ่ P เมื่อหมายถึงมหาสมุทร"}
+{"id":"drive_verb","th":"ขับ; ขับรถ; ผลักดัน","ex":"I drive to work every morning.","exTh":"ฉันขับรถไปทำงานทุกเช้า","note":"drove, driven"}
+{"id":"suggest_verb","th":"แนะนำ; เสนอ; บอกเป็นนัย","ex":"I suggest we meet at six o'clock.","exTh":"ฉันเสนอว่าเราควรเจอกันตอนหกโมง"}
+{"id":"accept_verb","th":"ยอมรับ; รับ; ตกลงรับ","ex":"She accepted the gift with a smile.","exTh":"เธอรับของขวัญด้วยรอยยิ้ม"}
+{"id":"exist_verb","th":"มีอยู่; ดำรงอยู่; ปรากฏอยู่","ex":"Dinosaurs no longer exist today.","exTh":"ไดโนเสาร์ไม่มีอยู่ในปัจจุบันแล้ว"}
+{"id":"attack_noun","th":"การโจมตี; การบุก; อาการกำเริบ","ex":"The attack happened late at night.","exTh":"การโจมตีเกิดขึ้นตอนดึก"}
+{"id":"attack_verb","th":"โจมตี; ทำร้าย; บุก","ex":"The dog attacked the stranger.","exTh":"สุนัขทำร้ายคนแปลกหน้า"}
+{"id":"impossible_adj","th":"เป็นไปไม่ได้; ไม่มีทางเป็นไปได้","ex":"It is impossible to finish this by noon.","exTh":"เป็นไปไม่ได้ที่จะทำเรื่องนี้เสร็จก่อนเที่ยง"}
+{"id":"competition_noun","th":"การแข่งขัน; การประกวด; คู่แข่ง","ex":"She won first prize in the singing competition.","exTh":"เธอได้รางวัลที่หนึ่งในการประกวดร้องเพลง"}
+{"id":"shape_noun","th":"รูปร่าง; รูปทรง","ex":"The cake has the shape of a heart.","exTh":"เค้กนี้มีรูปทรงเป็นหัวใจ"}
+{"id":"bit_noun","th":"นิดหน่อย; ชิ้นเล็กๆ; ส่วนหนึ่ง","ex":"Could I have a bit of sugar?","exTh":"ขอน้ำตาลนิดหน่อยได้ไหม"}
+{"id":"travel_noun","th":"การเดินทาง; การท่องเที่ยว","ex":"Travel is my favorite hobby.","exTh":"การท่องเที่ยวเป็นงานอดิเรกที่ฉันชอบที่สุด"}
+{"id":"editor_noun","th":"บรรณาธิการ; ผู้แก้ไข; โปรแกรมแก้ไข","ex":"The editor changed the title of my article.","exTh":"บรรณาธิการเปลี่ยนชื่อเรื่องบทความของฉัน"}
+{"id":"native_adj","th":"โดยกำเนิด; เป็นของพื้นเมือง; ภาษาแม่","ex":"English is not my native language.","exTh":"ภาษาอังกฤษไม่ใช่ภาษาแม่ของฉัน"}
+{"id":"usual_adj","th":"ปกติ; ธรรมดา; เป็นประจำ","ex":"I got up at the usual time today.","exTh":"วันนี้ฉันตื่นตามเวลาปกติ"}
+{"id":"apparently_adv","th":"ดูเหมือนว่า; เห็นได้ชัดว่า; ได้ยินมาว่า","ex":"Apparently, the shop closed last week.","exTh":"ดูเหมือนว่าร้านนั้นจะปิดไปเมื่อสัปดาห์ที่แล้ว"}
+{"id":"explain_verb","th":"อธิบาย; ชี้แจง","ex":"Can you explain this word to me?","exTh":"คุณช่วยอธิบายคำนี้ให้ฉันฟังได้ไหม"}
+{"id":"load_noun","th":"ภาระ; สิ่งที่บรรทุก; น้ำหนักบรรทุก","ex":"The truck carried a heavy load of rice.","exTh":"รถบรรทุกขนข้าวสารหนักมาก"}
+{"id":"chance_noun","th":"โอกาส; ความเป็นไปได้; โชค","ex":"This is your chance to try something new.","exTh":"นี่คือโอกาสของคุณที่จะลองสิ่งใหม่ๆ"}
+{"id":"kingdom_noun","th":"อาณาจักร; ราชอาณาจักร","ex":"The story is about a king and his kingdom.","exTh":"เรื่องนี้เกี่ยวกับกษัตริย์และอาณาจักรของพระองค์"}
+{"id":"improve_verb","th":"ปรับปรุง; ทำให้ดีขึ้น; ดีขึ้น","ex":"I want to improve my English.","exTh":"ฉันอยากพัฒนาภาษาอังกฤษของฉันให้ดีขึ้น"}
+{"id":"plus_prep","th":"บวก; รวมกับ","ex":"Two plus three is five.","exTh":"สองบวกสามเท่ากับห้า"}
+{"id":"contrast_noun","th":"ความแตกต่าง; ความตรงข้าม","ex":"There is a big contrast between the two cities.","exTh":"สองเมืองนี้มีความแตกต่างกันมาก"}
+{"id":"express_noun","th":"รถด่วน; ระบบขนส่งด่วน; ไปรษณีย์ด่วน","ex":"We took the express to Chiang Mai.","exTh":"เรานั่งรถด่วนไปเชียงใหม่"}
+{"id":"generation_noun","th":"รุ่น; คนรุ่นหนึ่ง; การผลิต","ex":"My generation grew up without smartphones.","exTh":"คนรุ่นของฉันโตมาโดยไม่มีสมาร์ตโฟน"}
+{"id":"release_noun","th":"การปล่อย; การเปิดตัว; การเผยแพร่","ex":"The release of the new film is next week.","exTh":"หนังเรื่องใหม่จะเข้าฉายสัปดาห์หน้า"}
+{"id":"zone_noun","th":"เขต; โซน; พื้นที่","ex":"This is a quiet zone, so please whisper.","exTh":"ที่นี่เป็นเขตเงียบ กรุณากระซิบ"}
+{"id":"appearance_noun","th":"รูปลักษณ์; ลักษณะภายนอก; การปรากฏตัว","ex":"He cares a lot about his appearance.","exTh":"เขาใส่ใจรูปลักษณ์ภายนอกของตัวเองมาก"}
+{"id":"detail_noun","th":"รายละเอียด; ส่วนปลีกย่อย","ex":"Please give me more detail about the trip.","exTh":"ช่วยบอกรายละเอียดเกี่ยวกับการเดินทางเพิ่มเติมหน่อย"}
+{"id":"passage_noun","th":"ข้อความตอนหนึ่ง; ทางเดิน; การผ่าน","ex":"Read the passage and answer the questions.","exTh":"อ่านข้อความตอนนี้แล้วตอบคำถาม"}
+{"id":"suitable_adj","th":"เหมาะสม; เหมาะ","ex":"This dress is not suitable for work.","exTh":"ชุดนี้ไม่เหมาะกับการทำงาน"}
+{"id":"organized_adj","th":"เป็นระเบียบ; มีการจัดการดี; จัดตั้งขึ้น","ex":"She is very organized and always on time.","exTh":"เธอเป็นระเบียบมากและตรงเวลาเสมอ"}
+{"id":"wave_noun","th":"คลื่น; การโบกมือ","ex":"A big wave hit the beach.","exTh":"คลื่นลูกใหญ่ซัดเข้าชายหาด"}
+{"id":"museum_noun","th":"พิพิธภัณฑ์","ex":"We visited a museum on Sunday.","exTh":"เราไปเที่ยวพิพิธภัณฑ์ในวันอาทิตย์"}
+{"id":"fresh_adj","th":"สด; สดใหม่; สดชื่น","ex":"I bought fresh fish at the market.","exTh":"ฉันซื้อปลาสดที่ตลาด"}
+{"id":"salt_noun","th":"เกลือ","ex":"Add a little salt to the soup.","exTh":"ใส่เกลือลงในซุปนิดหน่อย"}
+{"id":"exactly_adv","th":"ตรงเผง; แน่นอน; เป๊ะ","ex":"It is exactly three o'clock now.","exTh":"ตอนนี้บ่ายสามโมงตรงพอดี"}
+{"id":"silver_adj","th":"สีเงิน; ทำด้วยเงิน","ex":"She wore a silver ring on her finger.","exTh":"เธอสวมแหวนเงินที่นิ้ว"}
+{"id":"silver_noun","th":"เงิน (โลหะ); สีเงิน; เครื่องเงิน","ex":"The spoon is made of silver.","exTh":"ช้อนนี้ทำจากเงิน"}
+{"id":"background_noun","th":"ฉากหลัง; ภูมิหลัง; พื้นหลัง","ex":"There are mountains in the background of the photo.","exTh":"ในฉากหลังของรูปมีภูเขา"}
+{"id":"crime_noun","th":"อาชญากรรม; การกระทำผิดกฎหมาย","ex":"Crime in this area has gone down.","exTh":"อาชญากรรมในพื้นที่นี้ลดลง"}
+{"id":"safe_adj","th":"ปลอดภัย; ไม่เป็นอันตราย","ex":"Is it safe to swim here?","exTh":"ว่ายน้ำที่นี่ปลอดภัยไหม"}
+{"id":"ancient_adj","th":"โบราณ; เก่าแก่","ex":"We visited an ancient temple in Ayutthaya.","exTh":"เราไปเที่ยววัดโบราณในอยุธยา"}
+{"id":"ill_adj","th":"ป่วย; ไม่สบาย","ex":"He stayed home because he was ill.","exTh":"เขาอยู่บ้านเพราะไม่สบาย","note":"ill ใช้หลัง be เป็นหลัก ส่วน sick ใช้ได้กว้างกว่าในภาษาอเมริกัน"}
+{"id":"youth_noun","th":"วัยเยาว์; ความเยาว์วัย; เยาวชน","ex":"He spent his youth in a small town.","exTh":"เขาใช้ชีวิตวัยเยาว์ในเมืองเล็กๆ"}
+{"id":"adult_adj","th":"ซึ่งเป็นผู้ใหญ่; สำหรับผู้ใหญ่","ex":"An adult ticket costs ten dollars.","exTh":"ตั๋วผู้ใหญ่ราคาสิบดอลลาร์"}
+{"id":"adult_noun","th":"ผู้ใหญ่; คนที่โตเต็มวัย","ex":"Children must come with an adult.","exTh":"เด็กต้องมากับผู้ใหญ่"}
+{"id":"bay_noun","th":"อ่าว","ex":"Many small boats are in the bay.","exTh":"มีเรือเล็กจำนวนมากอยู่ในอ่าว"}
+{"id":"bear_verb","th":"ทนได้; แบกรับ; ให้กำเนิด","ex":"I cannot bear this hot weather.","exTh":"ฉันทนอากาศร้อนแบบนี้ไม่ไหว","note":"bore, borne/born"}
+{"id":"schedule_noun","th":"ตารางเวลา; กำหนดการ","ex":"My schedule is full this week.","exTh":"สัปดาห์นี้ตารางงานของฉันเต็มหมด"}
+{"id":"path_noun","th":"ทางเดิน; เส้นทาง; แนวทาง","ex":"A narrow path leads to the lake.","exTh":"ทางเดินแคบๆ นำไปสู่ทะเลสาบ"}
+{"id":"spread_noun","th":"การแพร่กระจาย; การขยายตัว; ของทาขนมปัง","ex":"Washing hands slows the spread of germs.","exTh":"การล้างมือช่วยชะลอการแพร่กระจายของเชื้อโรค"}
+{"id":"strategy_noun","th":"กลยุทธ์; แผนการ","ex":"We need a new strategy for the project.","exTh":"เราต้องมีกลยุทธ์ใหม่สำหรับโครงการนี้"}
+{"id":"straight_adj","th":"ตรง; เรียบตรง","ex":"Draw a straight line with a ruler.","exTh":"ใช้ไม้บรรทัดลากเส้นตรง"}
+{"id":"expect_verb","th":"คาดหวัง; คาดว่า; รอคอย","ex":"I expect to arrive before noon.","exTh":"ฉันคาดว่าจะไปถึงก่อนเที่ยง"}
+{"id":"die_verb","th":"ตาย; เสียชีวิต; (พืช) เหี่ยวเฉา","ex":"The flowers will die without water.","exTh":"ดอกไม้จะตายถ้าไม่มีน้ำ"}
+{"id":"emergency_noun","th":"เหตุฉุกเฉิน; ภาวะฉุกเฉิน","ex":"Call this number in an emergency.","exTh":"โทรเบอร์นี้เมื่อเกิดเหตุฉุกเฉิน"}
+{"id":"break_noun","th":"การพัก; ช่วงพัก; รอยแตก","ex":"Let's take a short break.","exTh":"เรามาพักสั้นๆ กันเถอะ"}
+{"id":"highway_noun","th":"ทางหลวง; ถนนสายหลัก","ex":"The highway was busy this morning.","exTh":"เช้านี้ทางหลวงรถติดมาก"}
+{"id":"difficulty_noun","th":"ความยาก; ความลำบาก; ปัญหา","ex":"She had difficulty finding the right bus.","exTh":"เธอหารถเมล์สายที่ถูกต้องได้ยาก"}
+{"id":"feature_noun","th":"คุณสมบัติเด่น; จุดเด่น; ลักษณะ","ex":"This phone has a great camera feature.","exTh":"โทรศัพท์เครื่องนี้มีฟีเจอร์กล้องที่ยอดเยี่ยม"}
+{"id":"fit_adj","th":"แข็งแรง; สมบูรณ์ฟิต; เหมาะสม","ex":"He runs every day to stay fit.","exTh":"เขาวิ่งทุกวันเพื่อให้ร่างกายแข็งแรง"}
+{"id":"mainly_adv","th":"ส่วนใหญ่; โดยหลักๆ","ex":"I mainly eat vegetables for lunch.","exTh":"มื้อกลางวันฉันกินผักเป็นหลัก"}
+{"id":"apart_adv","th":"ห่างกัน; แยกจากกัน; เป็นชิ้นๆ","ex":"The two houses are far apart.","exTh":"บ้านสองหลังนี้อยู่ห่างกันมาก"}
+{"id":"train_verb","th":"ฝึก; ฝึกฝน; อบรม","ex":"She trains at the gym three times a week.","exTh":"เธอฝึกที่ยิมสัปดาห์ละสามครั้ง"}
+{"id":"perfect_adj","th":"สมบูรณ์แบบ; ไร้ที่ติ; เหมาะที่สุด","ex":"The weather is perfect for a picnic.","exTh":"อากาศเหมาะกับการไปปิกนิกที่สุด"}
+{"id":"possibly_adv","th":"อาจจะ; บางที; เป็นไปได้ว่า","ex":"He is possibly the best cook I know.","exTh":"เขาอาจเป็นพ่อครัวที่เก่งที่สุดเท่าที่ฉันรู้จัก"}
+{"id":"clerk_noun","th":"เสมียน; พนักงานขาย; เจ้าหน้าที่","ex":"The clerk at the hotel was very kind.","exTh":"พนักงานต้อนรับที่โรงแรมใจดีมาก"}
+{"id":"opposite_adj","th":"ตรงกันข้าม; ตรงข้าม","ex":"They walked in opposite directions.","exTh":"พวกเขาเดินไปคนละทิศทาง"}
+{"id":"opposite_prep","th":"ตรงข้าม; อยู่ฝั่งตรงข้าม","ex":"The bank is opposite the post office.","exTh":"ธนาคารอยู่ตรงข้ามที่ทำการไปรษณีย์"}
+{"id":"instrument_noun","th":"เครื่องดนตรี; เครื่องมือ; อุปกรณ์","ex":"Can you play a musical instrument?","exTh":"คุณเล่นเครื่องดนตรีได้ไหม"}
+{"id":"trouble_noun","th":"ปัญหา; ความยุ่งยาก; ความลำบาก","ex":"I had trouble with my car this morning.","exTh":"เช้านี้รถของฉันมีปัญหา"}
+{"id":"award_noun","th":"รางวัล; ของรางวัล","ex":"The film won an award last year.","exTh":"หนังเรื่องนี้ได้รับรางวัลเมื่อปีที่แล้ว"}
+{"id":"frank_adj","th":"ตรงไปตรงมา; จริงใจ; เปิดเผย","ex":"Let me be frank with you about this.","exTh":"ให้ฉันพูดตรงๆ กับคุณเรื่องนี้นะ"}
+{"id":"column_noun","th":"เสา; คอลัมน์; แถวตั้ง","ex":"A tall column stands in front of the building.","exTh":"เสาสูงตั้งอยู่หน้าอาคาร"}
+{"id":"extremely_adv","th":"อย่างยิ่ง; สุดๆ; มากที่สุด","ex":"The soup was extremely hot.","exTh":"ซุปร้อนมากสุดๆ"}
+{"id":"suit_noun","th":"สูท; ชุดสูท","ex":"He wore a dark suit to the interview.","exTh":"เขาใส่สูทสีเข้มไปสัมภาษณ์งาน"}
+{"id":"suit_verb","th":"เหมาะกับ; เข้ากับ; ถูกใจ","ex":"That color really suits you.","exTh":"สีนั้นเข้ากับคุณมากจริงๆ"}
+{"id":"perform_verb","th":"แสดง; ปฏิบัติ; ทำ","ex":"The band will perform on Saturday night.","exTh":"วงดนตรีจะแสดงคืนวันเสาร์"}
+{"id":"inch_noun","th":"นิ้ว (หน่วยวัดความยาว)","ex":"The snow was six inches deep.","exTh":"หิมะลึกหกนิ้ว","note":"1 นิ้ว = ประมาณ 2.54 เซนติเมตร"}
+{"id":"soft_adj","th":"นุ่ม; อ่อนนุ่ม; เบา","ex":"This pillow is very soft.","exTh":"หมอนใบนี้นุ่มมาก"}
+{"id":"attitude_noun","th":"ทัศนคติ; ท่าที; เจตคติ","ex":"A positive attitude helps you learn faster.","exTh":"ทัศนคติเชิงบวกช่วยให้คุณเรียนรู้ได้เร็วขึ้น"}
+{"id":"slowly_adv","th":"อย่างช้าๆ; ช้าๆ","ex":"Please speak more slowly.","exTh":"กรุณาพูดช้าลงหน่อย"}

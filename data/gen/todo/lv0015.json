@@ -1,0 +1,602 @@
+[
+{
+"id": "condition_noun",
+"w": "condition",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "physical_adj",
+"w": "physical",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "toward_prep",
+"w": "toward",
+"pos": "prep",
+"lvl": "A2"
+},
+{
+"id": "attention_noun",
+"w": "attention",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "final_adj",
+"w": "final",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "final_noun",
+"w": "final",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "across_adv",
+"w": "across",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "across_prep",
+"w": "across",
+"pos": "prep",
+"lvl": "A2"
+},
+{
+"id": "outside_prep",
+"w": "outside",
+"pos": "prep",
+"lvl": "A2"
+},
+{
+"id": "normal_adj",
+"w": "normal",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "chairman_noun",
+"w": "chairman",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "red_noun",
+"w": "red",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "original_adj",
+"w": "original",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "staff_noun",
+"w": "staff",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "blood_noun",
+"w": "blood",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "product_noun",
+"w": "product",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "significant_adj",
+"w": "significant",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "solution_noun",
+"w": "solution",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "notice_noun",
+"w": "notice",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "agency_noun",
+"w": "agency",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "whom_pron",
+"w": "whom",
+"pos": "pron",
+"lvl": "A2"
+},
+{
+"id": "recent_adj",
+"w": "recent",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "feel_noun",
+"w": "feel",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "response_noun",
+"w": "response",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "modern_adj",
+"w": "modern",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "basic_adj",
+"w": "basic",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "likely_adj",
+"w": "likely",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "opinion_noun",
+"w": "opinion",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "degree_noun",
+"w": "degree",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "front_noun",
+"w": "front",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "base_noun",
+"w": "base",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "post_verb",
+"w": "post",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "sure_adv",
+"w": "sure",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "influence_noun",
+"w": "influence",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "finally_adv",
+"w": "finally",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "beginning_noun",
+"w": "beginning",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "middle_noun",
+"w": "middle",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "simple_adj",
+"w": "simple",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "appropriate_adj",
+"w": "appropriate",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "consider_verb",
+"w": "consider",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "cross_noun",
+"w": "cross",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "cross_verb",
+"w": "cross",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "lead_noun",
+"w": "lead",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "appear_verb",
+"w": "appear",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "discussion_noun",
+"w": "discussion",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "instead_adv",
+"w": "instead",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "wide_adj",
+"w": "wide",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "wide_adv",
+"w": "wide",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "weight_noun",
+"w": "weight",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "understand_verb",
+"w": "understand",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "beyond_prep",
+"w": "beyond",
+"pos": "prep",
+"lvl": "A2"
+},
+{
+"id": "manner_noun",
+"w": "manner",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "direction_noun",
+"w": "direction",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "trust_verb",
+"w": "trust",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "claim_verb",
+"w": "claim",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "indeed_adv",
+"w": "indeed",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "lost_adj",
+"w": "lost",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "exchange_noun",
+"w": "exchange",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "credit_noun",
+"w": "credit",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "patient_noun",
+"w": "patient",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "hundred_num",
+"w": "hundred",
+"pos": "num",
+"lvl": "A2"
+},
+{
+"id": "author_noun",
+"w": "author",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "alone_adj",
+"w": "alone",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "writing_noun",
+"w": "writing",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "importance_noun",
+"w": "importance",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "text_noun",
+"w": "text",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "text_verb",
+"w": "text",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "latter_adv",
+"w": "latter",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "latter_pron",
+"w": "latter",
+"pos": "pron",
+"lvl": "A2"
+},
+{
+"id": "hold_verb",
+"w": "hold",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "heat_noun",
+"w": "heat",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "scale_noun",
+"w": "scale",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "sound_noun",
+"w": "sound",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "sound_verb",
+"w": "sound",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "proper_adj",
+"w": "proper",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "simply_adv",
+"w": "simply",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "fall_verb",
+"w": "fall",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "clearly_adv",
+"w": "clearly",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "contact_noun",
+"w": "contact",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "contact_verb",
+"w": "contact",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "net_adj",
+"w": "net",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "brown_noun",
+"w": "brown",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "actually_adv",
+"w": "actually",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "seem_verb",
+"w": "seem",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "earth_noun",
+"w": "earth",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "share_noun",
+"w": "share",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "produce_verb",
+"w": "produce",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "nearly_adv",
+"w": "nearly",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "continue_verb",
+"w": "continue",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "green_noun",
+"w": "green",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "deal_noun",
+"w": "deal",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "principal_adj",
+"w": "principal",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "move_verb",
+"w": "move",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "step_noun",
+"w": "step",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "electric_adj",
+"w": "electric",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "chemical_adj",
+"w": "chemical",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "voice_noun",
+"w": "voice",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "deep_adv",
+"w": "deep",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "opportunity_noun",
+"w": "opportunity",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "apply_verb",
+"w": "apply",
+"pos": "verb",
+"lvl": "A2"
+}
+]

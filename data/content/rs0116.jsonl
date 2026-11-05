@@ -1,0 +1,100 @@
+{"id":"all-duck-or-no-dinner_idiom","th":"เอาทั้งหมดหรือไม่เอาเลย; สู้เอาเป็นเอาตาย","ex":"It's all duck or no dinner for us in this game.","exTh":"เกมนี้สำหรับเราคือเอาทั้งหมดหรือไม่เอาเลย","c":1,"note":"สำนวนเก่า"}
+{"id":"barn-find_idiom","th":"ของมีค่าที่พบในโรงนา (เช่น รถโบราณ)","ex":"The classic car was a barn find in an old farm shed.","exTh":"รถคลาสสิกคันนี้เป็นของเก่าที่ค้นพบในโรงนาเก่า","c":2}
+{"id":"short-fuse_idiom","th":"อารมณ์ร้อน; โมโหง่าย","ex":"My uncle has a short fuse and shouts easily.","exTh":"ลุงของฉันอารมณ์ร้อนและตะคอกง่าย","c":4}
+{"id":"short-temper_idiom","th":"อารมณ์ร้อน; ใจร้อน","ex":"He has a short temper when he is tired.","exTh":"เขาโมโหง่ายเวลาเหนื่อย","c":4}
+{"id":"big-break_idiom","th":"โอกาสสำคัญที่ทำให้ดัง; จังหวะเปลี่ยนชีวิต","ex":"She finally got her big break in a TV series.","exTh":"ในที่สุดเธอก็ได้โอกาสสำคัญในซีรีส์ทีวี","c":4}
+{"id":"debris-field_idiom","th":"บริเวณที่เศษซากกระจัดกระจาย","ex":"Rescuers searched the debris field after the crash.","exTh":"ผู้ช่วยเหลือค้นหาในบริเวณซากหลังเหตุตก","c":2}
+{"id":"smell-the-barn_idiom","th":"มีแรงฮึดเมื่อใกล้ถึงที่หมาย","ex":"The horse smells the barn and runs faster.","exTh":"ม้าได้กลิ่นโรงนาจึงวิ่งเร็วขึ้น","c":2}
+{"id":"shit-sandwich_idiom","th":"เรื่องแย่ที่ถูกทำให้ดูดีขึ้น; ข่าวร้ายแทรกกลางข่าวดี","ex":"The deal was a shit sandwich with one good clause in the middle.","exTh":"ข้อตกลงนี้เหมือนเรื่องแย่ที่มีข้อดีเพียงข้อเดียวแทรกอยู่","c":1,"note":"คำหยาบ"}
+{"id":"legal-beagle_idiom","th":"ทนายเก่ง; นักกฎหมายที่เฉียบแหลม","ex":"My sister is a legal beagle at a big firm.","exTh":"พี่สาวของฉันเป็นทนายเก่งที่สำนักงานใหญ่","c":1,"note":"ภาษาพูดแบบเล่นๆ"}
+{"id":"come-out-of-one-s-shell_idiom","th":"กล้าแสดงออกมากขึ้น; เปิดใจเข้าสังคม","ex":"The shy boy came out of his shell at camp.","exTh":"เด็กชายขี้อายกล้าแสดงออกมากขึ้นที่ค่าย","c":4}
+{"id":"chances-are_idiom","th":"มีแนวโน้มว่า; น่าจะ","ex":"Chances are, it will rain tomorrow.","exTh":"พรุ่งนี้ฝนน่าจะตก","c":5}
+{"id":"mug-s-game_idiom","th":"งานไร้ประโยชน์; เรื่องโง่ๆ ที่ไม่ได้อะไร","ex":"Betting on that horse is a mug's game.","exTh":"การพนันม้าตัวนั้นเป็นเรื่องโง่ๆ ที่ไม่ได้อะไร","c":2,"note":"สำนวนอังกฤษ"}
+{"id":"eager-beaver_idiom","th":"คนกระตือรือร้น; คนขยันขันแข็ง","ex":"The new intern is an eager beaver.","exTh":"เด็กฝึกงานคนใหม่เป็นคนกระตือรือร้นมาก","c":3}
+{"id":"no-love-lost_idiom","th":"ไม่ถูกชะตากัน; เกลียดกันและกัน","ex":"There is no love lost between those two rivals.","exTh":"คู่แข่งสองคนนั้นไม่ถูกกันเลย","c":3}
+{"id":"on-the-money_idiom","th":"ถูกต้องเป๊ะ; ตรงเป้า","ex":"Your guess was right on the money.","exTh":"ที่คุณเดาถูกเป๊ะเลย","c":4}
+{"id":"for-the-asking_idiom","th":"แค่ขอก็ได้; ขอได้เลย","ex":"Free tea is yours for the asking.","exTh":"แค่ขอก็ได้ชาฟรี","c":3}
+{"id":"skeleton-crew_idiom","th":"ทีมงานขั้นต่ำ; พนักงานเท่าที่จำเป็น","ex":"Only a skeleton crew worked over the holiday.","exTh":"มีเพียงทีมงานขั้นต่ำที่ทำงานช่วงวันหยุด","c":3}
+{"id":"eat-one-s-wheaties_idiom","th":"เตรียมตัวให้พร้อม; ชาร์จพลัง","ex":"Eat your Wheaties; the race is tomorrow.","exTh":"เตรียมตัวให้พร้อมนะ พรุ่งนี้มีแข่ง","c":1,"note":"สำนวนอเมริกัน"}
+{"id":"suck-face_idiom","th":"จูบดูดดื่ม; จูบกันนาน","ex":"The couple were sucking face in the park.","exTh":"คู่รักจูบกันดูดดื่มในสวน","c":2,"note":"ภาษาพูดไม่เป็นทางการ"}
+{"id":"that-s-all-she-wrote_idiom","th":"จบแล้ว; ไม่มีอะไรเหลือแล้ว","ex":"We missed the last train, so that's all she wrote.","exTh":"เราตกรถไฟขบวนสุดท้าย ก็จบกันแล้ว","c":3}
+{"id":"into-thin-air_idiom","th":"หายวับไป; หายไปอย่างไร้ร่องรอย","ex":"The keys vanished into thin air.","exTh":"กุญแจหายไปอย่างไร้ร่องรอย","c":4}
+{"id":"ring-of-truth_idiom","th":"ฟังดูน่าเชื่อ; ฟังดูจริง","ex":"His story had the ring of truth.","exTh":"เรื่องของเขาฟังดูน่าเชื่อ","c":3}
+{"id":"kicks-and-giggles_idiom","th":"เพื่อความสนุก; ทำเล่นๆ","ex":"We played soccer just for kicks and giggles.","exTh":"เราเล่นฟุตบอลกันเพื่อความสนุกเท่านั้น","c":2}
+{"id":"live-it-up_idiom","th":"ใช้ชีวิตสนุกเต็มที่; เฮฮา","ex":"We're going to live it up on vacation.","exTh":"เราจะสนุกให้เต็มที่ตอนไปพักร้อน","c":4}
+{"id":"hen-s-tooth_idiom","th":"ของหายากมาก; ไม่มีอยู่จริง","ex":"Good parking is as rare as hen's teeth here.","exTh":"ที่จอดรถดีๆ หายากมากที่นี่","c":2}
+{"id":"keep-a-close-watch_idiom","th":"เฝ้าระวังอย่างใกล้ชิด","ex":"Doctors keep a close watch on the patient.","exTh":"แพทย์เฝ้าดูอาการผู้ป่วยอย่างใกล้ชิด","c":4}
+{"id":"feed-the-troll_idiom","th":"ตอบโต้พวกก่อกวนออนไลน์ (ทำให้มันเหิม)","ex":"Don't feed the troll; just ignore him.","exTh":"อย่าไปตอบโต้พวกก่อกวน ทำเป็นไม่สนใจ","c":3}
+{"id":"sharp-tongue_idiom","th":"ปากร้าย; พูดจาแสบ","ex":"My aunt has a sharp tongue.","exTh":"ป้าของฉันปากร้าย","c":3}
+{"id":"ring-hollow_idiom","th":"ฟังดูไม่จริงใจ; ฟังดูกลวง","ex":"His apology rang hollow.","exTh":"คำขอโทษของเขาฟังดูไม่จริงใจ","c":3}
+{"id":"down-the-road-not-across-the-street_idiom","th":"(สำนวนเกี่ยวกับการฆ่าตัวตาย) วิธีที่ร้ายแรง","ex":"The phrase is a grim saying about self-harm.","exTh":"วลีนี้เป็นคำพูดเกี่ยวกับการทำร้ายตัวเองที่น่าเศร้า","c":1,"note":"สำนวนอ่อนไหว เกี่ยวกับการฆ่าตัวตาย ไม่ควรใช้เล่น"}
+{"id":"keep-one-s-options-open_idiom","th":"เปิดทางเลือกไว้; ยังไม่ตัดสินใจ","ex":"I'll keep my options open and apply to two schools.","exTh":"ฉันจะเปิดทางเลือกไว้โดยสมัครสองโรงเรียน","c":4}
+{"id":"put-it-there_idiom","th":"มาจับมือกัน; ตบมือกัน","ex":"You did great. Put it there!","exTh":"เธอเก่งมาก มาตบมือกันหน่อย!","c":2}
+{"id":"and-finally_idiom","th":"ข่าวเบาๆ ปิดท้าย; และสุดท้ายนี้","ex":"And finally, a dog has learned to ride a bike.","exTh":"และข่าวสุดท้าย สุนัขตัวหนึ่งหัดขี่จักรยานได้","c":2}
+{"id":"play-games_idiom","th":"เล่นลิ้น; ไม่จริงใจ","ex":"Stop playing games and tell me the truth.","exTh":"เลิกเล่นลิ้นแล้วบอกความจริงมา","c":4}
+{"id":"climb-the-walls_idiom","th":"กระวนกระวายจนทนไม่ไหว; หงุดหงิดมาก","ex":"I'm climbing the walls waiting at home.","exTh":"ฉันอยู่บ้านรอจนอึดอัดจะบ้าตาย","c":3}
+{"id":"bury-the-lede_idiom","th":"ซ่อนประเด็นสำคัญไว้ท้ายเรื่อง","ex":"The article buried the lede in the last paragraph.","exTh":"บทความซ่อนประเด็นสำคัญไว้ในย่อหน้าสุดท้าย","c":2}
+{"id":"come-to-papa_idiom","th":"มาหาพ่อสิ; มาหาฉันเลย (พูดเล่น)","ex":"Come to papa, you delicious cake!","exTh":"มาหาพ่อสิ เค้กน่ากินจัง!","c":2,"note":"ภาษาพูดเล่นๆ"}
+{"id":"could-not-get-elected-dogcatcher_idiom","th":"ไม่มีใครเลือก; ไม่เป็นที่นิยมเลย","ex":"He couldn't get elected dogcatcher in this town.","exTh":"เขาไม่มีใครเลือกเลยในเมืองนี้","c":1}
+{"id":"two-pennies-worth_idiom","th":"ความเห็นของฉัน; ขอแสดงความเห็นนิดหน่อย","ex":"Let me put in my two pennies worth.","exTh":"ขอฉันแสดงความเห็นหน่อยนะ","c":2,"note":"สำนวนอังกฤษ"}
+{"id":"keep-one-s-hair-on_idiom","th":"ใจเย็นๆ; อย่าโมโห","ex":"Keep your hair on! I'm only five minutes late.","exTh":"ใจเย็นๆ ฉันสายแค่ห้านาทีเอง","c":2,"note":"สำนวนอังกฤษ"}
+{"id":"roll-in-wealth_idiom","th":"รวยล้นฟ้า; มีเงินมากมาย","ex":"The family rolls in wealth.","exTh":"ครอบครัวนั้นรวยล้นฟ้า","c":2}
+{"id":"behind-its-time_idiom","th":"ล้าหลังกว่าสมัย; ไม่ทันยุค","ex":"The law is behind its time.","exTh":"กฎหมายนี้ล้าหลังเกินไป","c":2}
+{"id":"full-of-piss-and-vinegar_idiom","th":"มีพลังล้นเหลือ; เลือดร้อน","ex":"The young players are full of piss and vinegar.","exTh":"นักเตะหนุ่มพลังล้นเหลือ","c":2,"note":"ภาษาพูดหยาบเล็กน้อย"}
+{"id":"circular-firing-squad_idiom","th":"กลุ่มที่ทะเลาะและโจมตีกันเอง","ex":"The party became a circular firing squad after the loss.","exTh":"พรรคกลายเป็นกลุ่มที่ทะเลาะกันเองหลังแพ้","c":2}
+{"id":"the-devil_idiom","th":"(คำเน้นเสียงในคำถาม) ให้ตายสิ","ex":"What the devil are you doing?","exTh":"นายทำอะไรอยู่เนี่ย","c":2,"note":"สำนวนเก่าหรือแสดงความหงุดหงิด"}
+{"id":"carry-water-for_idiom","th":"รับใช้; ช่วยเหลือเป็นเบื้องหลังให้","ex":"He carries water for the senator.","exTh":"เขาคอยรับใช้เป็นมือขวาให้วุฒิสมาชิก","c":2}
+{"id":"go-for-the-gold_idiom","th":"มุ่งสู่ชัยชนะ; ทุ่มเต็มที่เพื่อรางวัลสูงสุด","ex":"Our team will go for the gold.","exTh":"ทีมของเราจะทุ่มเต็มที่เพื่อเหรียญทอง","c":4}
+{"id":"in-this-day-and-age_idiom","th":"ในยุคปัจจุบันนี้","ex":"In this day and age, everyone has a phone.","exTh":"ในยุคนี้ทุกคนมีโทรศัพท์","c":5}
+{"id":"palace-politics_idiom","th":"การเมืองในวัง; การแย่งอำนาจในหมู่ผู้ใหญ่","ex":"He didn't understand the palace politics at work.","exTh":"เขาไม่เข้าใจการเมืองภายในที่ทำงาน","c":2}
+{"id":"run-for-one-s-money_idiom","th":"คู่แข่งที่ท้าทาย; ทำให้สู้ยากขึ้น","ex":"Our new rival gave us a run for our money.","exTh":"คู่แข่งหน้าใหม่ทำให้เราต้องสู้อย่างหนัก","c":4}
+{"id":"mind-s-ear_idiom","th":"หูในใจ; จินตนาการเสียง","ex":"I can hear the song in my mind's ear.","exTh":"ฉันได้ยินเพลงนั้นในใจ","c":2}
+{"id":"done-and-dusted_idiom","th":"เสร็จเรียบร้อย; จบสมบูรณ์","ex":"The project is done and dusted.","exTh":"โครงการเสร็จเรียบร้อยแล้ว","c":3,"note":"สำนวนอังกฤษ"}
+{"id":"above-water_idiom","th":"พ้นจากความลำบาก; ไม่จมหนี้","ex":"We're finally above water after paying the debt.","exTh":"ในที่สุดเราก็พ้นจากความลำบากหลังใช้หนี้หมด","c":3}
+{"id":"of-a-kind_idiom","th":"ชนิดเดียวกัน; แบบเดียวกัน","ex":"They are two of a kind.","exTh":"พวกเขาสองคนเป็นพวกเดียวกัน","c":3}
+{"id":"know-every-trick-in-the-book_idiom","th":"รู้ทุกกลเม็ด; รู้ทุกเล่ห์","ex":"The old dealer knows every trick in the book.","exTh":"พ่อค้าเก่ารู้ทุกกลเม็ด","c":3}
+{"id":"take-pride_idiom","th":"ภูมิใจใน","ex":"She takes pride in her work.","exTh":"เธอภูมิใจในงานของเธอ","c":4}
+{"id":"thick-of-things_idiom","th":"ท่ามกลางเหตุการณ์; ศูนย์กลางของเรื่อง","ex":"He loves being in the thick of things.","exTh":"เขาชอบอยู่ท่ามกลางเหตุการณ์","c":3}
+{"id":"in-for-the-kill_idiom","th":"เตรียมปิดฉาก; พร้อมจัดการให้จบ","ex":"The lion moved in for the kill.","exTh":"สิงโตเข้าไปเพื่อล่าเหยื่อ","c":3}
+{"id":"snatch-victory-from-the-jaws-of-defeat_idiom","th":"พลิกกลับมาชนะ; ชนะอย่างเหลือเชื่อ","ex":"The team snatched victory from the jaws of defeat.","exTh":"ทีมพลิกกลับมาชนะอย่างเหลือเชื่อ","c":3}
+{"id":"opening-of-an-envelope_idiom","th":"งานอะไรก็ไป; อยากออกสื่อ","ex":"She'd go to the opening of an envelope.","exTh":"เธอไปทุกงานที่มีโอกาสออกสื่อ","c":1,"note":"สำนวนอังกฤษ ใช้ล้อเลียน"}
+{"id":"fashionably-late_idiom","th":"มาสายอย่างมีสไตล์; มาช้าแบบตั้งใจ","ex":"She arrived fashionably late to the party.","exTh":"เธอมางานปาร์ตี้สายอย่างมีสไตล์","c":3}
+{"id":"forgive-and-forget_idiom","th":"ให้อภัยและลืม","ex":"Let's forgive and forget.","exTh":"มาให้อภัยกันและลืมๆ ไปเถอะ","c":4}
+{"id":"light-in-the-loafers_idiom","th":"ผู้ชายที่เป็นเกย์ (คำเหยียด)","ex":"The old man said he was light in the loafers.","exTh":"ชายชราบอกว่าเขาเป็นเกย์","c":1,"note":"slur: คำเหยียดเกย์ ไม่สุภาพ"}
+{"id":"take-one-s-ball-and-go-home_idiom","th":"เลิกเล่นเพราะไม่พอใจ; งอนแล้วถอนตัว","ex":"He took his ball and went home when he lost.","exTh":"เขาถอนตัวเพราะงอนที่แพ้","c":3}
+{"id":"pull-up-stakes_idiom","th":"ย้ายที่อยู่; ย้ายที่ทำกิน","ex":"They pulled up stakes and moved to Chiang Mai.","exTh":"พวกเขาย้ายบ้านไปเชียงใหม่","c":2}
+{"id":"sore-point_idiom","th":"จุดอ่อนไหว; เรื่องที่ทำให้ขัดแย้ง","ex":"Money is a sore point in their marriage.","exTh":"เรื่องเงินเป็นปัญหาอ่อนไหวในชีวิตสมรสของพวกเขา","c":3}
+{"id":"tell-it-like-it-is_idiom","th":"พูดตรงๆ; พูดความจริง","ex":"She always tells it like it is.","exTh":"เธอพูดตรงๆ เสมอ","c":4}
+{"id":"featherless-biped_idiom","th":"สัตว์สองขาไร้ขน (หมายถึงมนุษย์)","ex":"Plato called man a featherless biped.","exTh":"เพลโตเรียกมนุษย์ว่าสัตว์สองขาไร้ขน","c":1}
+{"id":"god-s-green-earth_idiom","th":"โลกใบนี้ทั้งใบ (เน้นความรู้สึก)","ex":"What on God's green earth are you doing?","exTh":"นี่เธอกำลังทำอะไรบนโลกนี้อยู่เนี่ย","c":3}
+{"id":"go-to-the-polls_idiom","th":"ไปลงคะแนนเสียง; ไปเลือกตั้ง","ex":"Citizens go to the polls next month.","exTh":"ประชาชนจะไปเลือกตั้งเดือนหน้า","c":4}
+{"id":"tail-wagging-the-dog_idiom","th":"เรื่องเล็กชี้นำเรื่องใหญ่; หางกระดิกหมา","ex":"It's the tail wagging the dog when interns decide strategy.","exTh":"เป็นเรื่องหางกระดิกหมาเมื่อเด็กฝึกงานเป็นคนกำหนดกลยุทธ์","c":3}
+{"id":"warm-regards_idiom","th":"ด้วยความนับถืออย่างอบอุ่น","ex":"Warm regards, Anna.","exTh":"ด้วยความนับถือ อันนา","c":4}
+{"id":"a-bridge-too-far_idiom","th":"เกินกำลัง; ทะเยอทะยานเกินไป","ex":"Buying a second house was a bridge too far.","exTh":"การซื้อบ้านหลังที่สองเกินกำลังเกินไป","c":3}
+{"id":"party-in-one-s-mouth_idiom","th":"อร่อยจนปาร์ตี้ในปาก; รสชาติหลากหลายลงตัว","ex":"This curry is a party in my mouth.","exTh":"แกงนี้อร่อยจนเหมือนมีปาร์ตี้ในปาก","c":2}
+{"id":"ball-of-fire_idiom","th":"คนที่เปี่ยมพลัง; คนขยันและมีไฟ","ex":"Our new manager is a real ball of fire.","exTh":"ผู้จัดการคนใหม่ของเราเปี่ยมพลังจริงๆ","c":2}
+{"id":"hang-tough_idiom","th":"ยืนหยัดสู้; อดทน","ex":"Hang tough, things will get better.","exTh":"อดทนไว้ ทุกอย่างจะดีขึ้น","c":3}
+{"id":"social-ladder_idiom","th":"บันไดสังคม; ลำดับชั้นทางสังคม","ex":"He climbed the social ladder quickly.","exTh":"เขาไต่บันไดสังคมอย่างรวดเร็ว","c":4}
+{"id":"hidden-in-plain-sight_idiom","th":"ซ่อนอยู่ตรงหน้า; อยู่ตรงนั้นแต่มองไม่เห็น","ex":"The answer was hidden in plain sight.","exTh":"คำตอบอยู่ตรงหน้าแต่เรามองไม่เห็น","c":4}
+{"id":"pigs-might-fly_idiom","th":"หมูอาจบินได้ (เป็นไปไม่ได้)","ex":"You'll clean your room? Pigs might fly!","exTh":"เธอจะเก็บห้องเหรอ ฝันไปเถอะ!","c":3}
+{"id":"mission-creep_idiom","th":"ภารกิจบานปลาย; ขอบเขตงานขยายเกินแผน","ex":"Mission creep made the project cost more.","exTh":"ขอบเขตงานบานปลายทำให้โครงการแพงขึ้น","c":3}
+{"id":"broaden-someone-s-horizons_idiom","th":"เปิดโลกทัศน์ให้ใคร","ex":"Traveling broadened my horizons.","exTh":"การเดินทางเปิดโลกทัศน์ให้ฉัน","c":4}
+{"id":"worship-the-porcelain-god_idiom","th":"อ้วกลงโถส้วม","ex":"He was worshipping the porcelain god after the party.","exTh":"เขานั่งอ้วกอยู่ในห้องน้ำหลังปาร์ตี้","c":2,"note":"ภาษาพูดตลกๆ"}
+{"id":"breathe-a-sigh-of-relief_idiom","th":"ถอนหายใจโล่งอก","ex":"She breathed a sigh of relief after the test.","exTh":"เธอถอนหายใจโล่งอกหลังสอบ","c":4}
+{"id":"pull-out-of-the-fire_idiom","th":"ช่วยให้รอดพ้นจากความล้มเหลว","ex":"He pulled the match out of the fire with a late goal.","exTh":"เขาช่วยให้แมตช์พลิกกลับมาได้ด้วยประตูช่วงท้าย","c":2}
+{"id":"above-the-curve_idiom","th":"เหนือกว่าค่าเฉลี่ย; ล้ำหน้าคนอื่น","ex":"The company stays above the curve with new ideas.","exTh":"บริษัทล้ำหน้าคนอื่นด้วยไอเดียใหม่ๆ","c":2}
+{"id":"flutter-the-dovecote_idiom","th":"สร้างความโกลาหลในกลุ่มที่สงบ","ex":"The rumor fluttered the dovecote at the office.","exTh":"ข่าวลือทำให้ออฟฟิศปั่นป่วน","c":1}
+{"id":"let-the-buyer-beware_idiom","th":"ผู้ซื้อต้องระวังเอง","ex":"Let the buyer beware when shopping at street markets.","exTh":"ผู้ซื้อต้องระวังเองเวลาซื้อของที่ตลาดนัด","c":3}
+{"id":"high-up_idiom","th":"อยู่สูง; ตำแหน่งสูง","ex":"The nest is high up in the tree.","exTh":"รังนกอยู่สูงบนต้นไม้","c":4}
+{"id":"small-print_idiom","th":"ข้อความตัวเล็ก; เงื่อนไขในสัญญา","ex":"Always read the small print before signing.","exTh":"อ่านเงื่อนไขตัวเล็กๆ เสมอก่อนเซ็น","c":4}
+{"id":"fit-for-a-king_idiom","th":"ดีสมเป็นกษัตริย์; หรูหรามาก","ex":"We had a meal fit for a king.","exTh":"เรากินอาหารหรูหราสมเป็นกษัตริย์","c":3}
+{"id":"have-van-gogh-s-ear-for-music_idiom","th":"หูเพี้ยน; ฟังเสียงดนตรีไม่ออก","ex":"I sing badly; I have Van Gogh's ear for music.","exTh":"ฉันร้องเพลงไม่เพราะ ฟังเสียงดนตรีไม่เป็น","c":1,"note":"เล่นกับตำนานแวนโก๊ะตัดหู"}
+{"id":"broken-reed_idiom","th":"คนหรือสิ่งที่พึ่งไม่ได้; ไม้อ้อหัก","ex":"He proved a broken reed when we needed him.","exTh":"เขาพึ่งไม่ได้เลยในเวลาที่เราต้องการ","c":1}
+{"id":"company-town_idiom","th":"เมืองบริษัท; เมืองที่พึ่งบริษัทเดียว","ex":"The mining village was a company town.","exTh":"หมู่บ้านเหมืองนั้นเป็นเมืองที่พึ่งบริษัทเดียว","c":2}
+{"id":"too-clever-by-half_idiom","th":"ฉลาดเกินไปจนเสียเรื่อง","ex":"His plan was too clever by half.","exTh":"แผนของเขาซับซ้อนเกินไปจนเสียเรื่อง","c":2,"note":"สำนวนอังกฤษ"}
+{"id":"off-to-the-races_idiom","th":"เริ่มลุยได้เลย; เริ่มต้นอย่างกระตือรือร้น","ex":"With the funds in place, we're off to the races.","exTh":"เมื่อมีเงินทุนแล้ว เราก็เริ่มลุยได้เลย","c":3}
+{"id":"eat-one-s-gun_idiom","th":"ฆ่าตัวตายด้วยปืน","ex":"The article discusses the phrase eat one's gun as a tragic idiom.","exTh":"บทความพูดถึงสำนวนนี้ว่าเป็นคำพูดที่น่าเศร้า","c":1,"note":"สำนวนเกี่ยวกับการฆ่าตัวตาย อ่อนไหวมาก"}
+{"id":"lost-in-translation_idiom","th":"สูญหายไปในการแปล; แปลแล้วความหมายหาย","ex":"The joke got lost in translation.","exTh":"มุกตลกนี้ความหมายหายไปตอนแปล","c":4}
+{"id":"blow-the-lid-off_idiom","th":"เปิดโปงความลับ; แฉเรื่องอื้อฉาว","ex":"The reporter blew the lid off the scandal.","exTh":"นักข่าวแฉเรื่องอื้อฉาวนั้น","c":3}
+{"id":"in-full-force_idiom","th":"พร้อมหน้าพร้อมตา; เต็มกำลัง","ex":"The fans came out in full force.","exTh":"แฟนๆ มากันพร้อมหน้าเต็มกำลัง","c":3}
+{"id":"set-store-by_idiom","th":"ให้ความสำคัญ; ให้คุณค่า","ex":"She sets great store by honesty.","exTh":"เธอให้คุณค่ากับความซื่อสัตย์มาก","c":2}

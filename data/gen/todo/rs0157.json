@@ -1,0 +1,809 @@
+[
+{
+"id": "let-drive_idiom",
+"w": "let drive",
+"kind": "idiom",
+"gloss": [
+"To aim a blow; to strike with force; to attack; to shoot (an arrow or firearm).",
+"To allow (a vessel) to be propelled by the wind, current or tide."
+]
+},
+{
+"id": "take-soil_idiom",
+"w": "take soil",
+"kind": "idiom",
+"gloss": [
+"To run into the mire or water; hence, to take refuge or shelter."
+]
+},
+{
+"id": "common-run_idiom",
+"w": "common run",
+"kind": "idiom",
+"gloss": [
+"Ordinary persons, things, or events."
+]
+},
+{
+"id": "dance-on-nothing_idiom",
+"w": "dance on nothing",
+"kind": "idiom",
+"gloss": [
+"To be hanged."
+]
+},
+{
+"id": "play-booty_idiom",
+"w": "play booty",
+"kind": "idiom",
+"gloss": [
+"To hustle (play deliberately badly at a game or sport in an attempt to encourage players to challenge one).",
+"To double-cross someone."
+]
+},
+{
+"id": "fence-the-tables_idiom",
+"w": "fence the tables",
+"kind": "idiom",
+"gloss": [
+"To make a solemn address to those who present themselves to commune at the Lord's Supper, on the feelings appropriate to the service, in order to hinder, so far as possible, those who are unworthy from approaching the table."
+]
+},
+{
+"id": "borrow-trouble_idiom",
+"w": "borrow trouble",
+"kind": "idiom",
+"gloss": [
+"To worry about future events not in one's control and that may not come to pass.",
+"To look for trouble; to ask for trouble."
+]
+},
+{
+"id": "gunner-s-daughter_idiom",
+"w": "gunner's daughter",
+"kind": "idiom",
+"gloss": [
+"The gun to which sailors were tied to be flogged."
+]
+},
+{
+"id": "babies-in-the-eyes_idiom",
+"w": "babies in the eyes",
+"kind": "idiom",
+"gloss": [
+"The minute reflection which one sees of oneself in the eyes of another."
+]
+},
+{
+"id": "smell-of-the-shop_idiom",
+"w": "smell of the shop",
+"kind": "idiom",
+"gloss": [
+"To indicate too distinctively one's occupation or profession."
+]
+},
+{
+"id": "crowd-sail_idiom",
+"w": "crowd sail",
+"kind": "idiom",
+"gloss": [
+"To carry an unusual amount of sail in an attempt to accelerate the speed of a vessel."
+]
+},
+{
+"id": "stump-it_idiom",
+"w": "stump it",
+"kind": "idiom",
+"gloss": [
+"To go on foot; hence, to run away; to escape.",
+"To make electioneering speeches."
+]
+},
+{
+"id": "thick-and-threefold_idiom",
+"w": "thick and threefold",
+"kind": "idiom",
+"gloss": [
+"In quick succession, or in great numbers."
+]
+},
+{
+"id": "take-huff_idiom",
+"w": "take huff",
+"kind": "idiom",
+"gloss": [
+"To take offence."
+]
+},
+{
+"id": "oll-korrect_idiom",
+"w": "oll korrect",
+"kind": "idiom",
+"gloss": [
+"All right; okay."
+]
+},
+{
+"id": "anaconda-mortgage_idiom",
+"w": "anaconda mortgage",
+"kind": "idiom",
+"gloss": [
+"A loan arrangement in which all of the money borrowed from a lender, for whatever purpose, is secured by one's home, land, and other property."
+]
+},
+{
+"id": "willing-horse_idiom",
+"w": "willing horse",
+"kind": "idiom",
+"gloss": [
+"One who readily performs hard work or who voluntarily tolerates an adverse situation."
+]
+},
+{
+"id": "give-someone-the-bag_idiom",
+"w": "give someone the bag",
+"kind": "idiom",
+"gloss": [
+"To disappoint (someone)."
+]
+},
+{
+"id": "read-oneself-in_idiom",
+"w": "read oneself in",
+"kind": "idiom",
+"gloss": [
+"To read aloud the Thirty-nine Articles and the Declaration of Assent; required of a clergyman of the Church of England when he first officiates in a new benefice."
+]
+},
+{
+"id": "split-on-a-rock_idiom",
+"w": "split on a rock",
+"kind": "idiom",
+"gloss": [
+"To completely fail in one's attempt"
+]
+},
+{
+"id": "cry-cupboard_idiom",
+"w": "cry cupboard",
+"kind": "idiom",
+"gloss": [
+"Chiefly of one's stomach: to need or want food; to show signs of hunger; to hunger."
+]
+},
+{
+"id": "at-rack-and-manger_idiom",
+"w": "at rack and manger",
+"kind": "idiom",
+"gloss": [
+"plentifully and at another's expense."
+]
+},
+{
+"id": "lay-an-anchor-to-the-windward_idiom",
+"w": "lay an anchor to the windward",
+"kind": "idiom",
+"gloss": [
+"To adopt precautionary or anticipatory measures for potential future success or security."
+]
+},
+{
+"id": "strike-tallies_idiom",
+"w": "strike tallies",
+"kind": "idiom",
+"gloss": [
+"To act in correspondence, or alike."
+]
+},
+{
+"id": "up-to-the-hub_idiom",
+"w": "up to the hub",
+"kind": "idiom",
+"gloss": [
+"As far as possible in embarrassment or difficulty, or in business; deeply involved."
+]
+},
+{
+"id": "put-in-pledge_idiom",
+"w": "put in pledge",
+"kind": "idiom",
+"gloss": [
+"To pawn; to give as a guarantee."
+]
+},
+{
+"id": "gather-way_idiom",
+"w": "gather way",
+"kind": "idiom",
+"gloss": [
+"To begin to move",
+"to move with increasing speed"
+]
+},
+{
+"id": "put-someone-to-their-trumps_idiom",
+"w": "put someone to their trumps",
+"kind": "idiom",
+"gloss": [
+"To put someone in a difficult situation."
+]
+},
+{
+"id": "quit-scores_idiom",
+"w": "quit scores",
+"kind": "idiom",
+"gloss": [
+"To settle or balance accounts or differences; to make compensation."
+]
+},
+{
+"id": "see-into-a-millstone_idiom",
+"w": "see into a millstone",
+"kind": "idiom",
+"gloss": [
+"To understand a complex matter."
+]
+},
+{
+"id": "army-volunteer_idiom",
+"w": "army volunteer",
+"kind": "idiom",
+"gloss": [
+"To make someone perform a task or duty, especially one they are not prepared or willing to do."
+]
+},
+{
+"id": "laced-mutton_idiom",
+"w": "laced mutton",
+"kind": "idiom",
+"gloss": [
+"A prostitute."
+]
+},
+{
+"id": "tear-a-cat_idiom",
+"w": "tear a cat",
+"kind": "idiom",
+"gloss": [
+"To overact; to violently rant and rave on stage."
+]
+},
+{
+"id": "up-a-tree_idiom",
+"w": "up a tree",
+"kind": "idiom",
+"gloss": [
+"In or into a disadvantaged or difficult situation; at a loss; cornered."
+]
+},
+{
+"id": "at-the-elbow_idiom",
+"w": "at the elbow",
+"kind": "idiom",
+"gloss": [
+"Very near; close at hand."
+]
+},
+{
+"id": "eat-dirt_idiom",
+"w": "eat dirt",
+"kind": "idiom",
+"gloss": [
+"To eat humble pie."
+]
+},
+{
+"id": "tip-the-wink_idiom",
+"w": "tip the wink",
+"kind": "idiom",
+"gloss": [
+"To give (somebody) a hint or suggestion, as if by a wink; to ask or tell surreptitiously."
+]
+},
+{
+"id": "word-it_idiom",
+"w": "word it",
+"kind": "idiom",
+"gloss": [
+"To bandy words; to dispute; to speak excessively or angrily."
+]
+},
+{
+"id": "outrun-the-constable_idiom",
+"w": "outrun the constable",
+"kind": "idiom",
+"gloss": [
+"To spend more than one's income; to get into debt."
+]
+},
+{
+"id": "full-butt_idiom",
+"w": "full butt",
+"kind": "idiom",
+"gloss": [
+"headfirst with full force"
+]
+},
+{
+"id": "all-and-some_idiom",
+"w": "all and some",
+"kind": "idiom",
+"gloss": [
+"one and all"
+]
+},
+{
+"id": "sell-bargains_idiom",
+"w": "sell bargains",
+"kind": "idiom",
+"gloss": [
+"To make saucy (usually indiscreet) comments; to come onto."
+]
+},
+{
+"id": "lie-in-one-s-throat_idiom",
+"w": "lie in one's throat",
+"kind": "idiom",
+"gloss": [
+"To lie (tell a falsehood) flatly or outright."
+]
+},
+{
+"id": "of-all-loves_idiom",
+"w": "of all loves",
+"kind": "idiom",
+"gloss": [
+"For the sake of all love; by all means."
+]
+},
+{
+"id": "lay-by-the-heels_idiom",
+"w": "lay by the heels",
+"kind": "idiom",
+"gloss": [
+"To fetter, to shackle; to imprison."
+]
+},
+{
+"id": "stand-in-the-gate_idiom",
+"w": "stand in the gate",
+"kind": "idiom",
+"gloss": [
+"To occupy a place or position of advantage, power, or defence."
+]
+},
+{
+"id": "kick-the-beam_idiom",
+"w": "kick the beam",
+"kind": "idiom",
+"gloss": [
+"To lack in weight, importance, or strength compared to another."
+]
+},
+{
+"id": "take-air_idiom",
+"w": "take air",
+"kind": "idiom",
+"gloss": [
+"To be divulged; to be made public."
+]
+},
+{
+"id": "in-the-straw_idiom",
+"w": "in the straw",
+"kind": "idiom",
+"gloss": [
+"Confined to bed because of pregnancy."
+]
+},
+{
+"id": "lose-the-bell_idiom",
+"w": "lose the bell",
+"kind": "idiom",
+"gloss": [
+"To be defeated in a contest."
+]
+},
+{
+"id": "enter-on-the-boards_idiom",
+"w": "enter on the boards",
+"kind": "idiom",
+"gloss": [
+"To inscribe the name of (a student) on a board or tablet in a college."
+]
+},
+{
+"id": "hand-over-head_idiom",
+"w": "hand over head",
+"kind": "idiom",
+"gloss": [
+"Negligently; rashly; without seeing what one does."
+]
+},
+{
+"id": "make-one-s-hand_idiom",
+"w": "make one's hand",
+"kind": "idiom",
+"gloss": [
+"To gain advantage or profit."
+]
+},
+{
+"id": "throw-up-the-sponge_idiom",
+"w": "throw up the sponge",
+"kind": "idiom",
+"gloss": [
+"To give up a contest; to acknowledge defeat; to throw in the towel."
+]
+},
+{
+"id": "by-the-eye_idiom",
+"w": "by the eye",
+"kind": "idiom",
+"gloss": [
+"In abundance."
+]
+},
+{
+"id": "king-s-cushion_idiom",
+"w": "king's cushion",
+"kind": "idiom",
+"gloss": [
+"A four-handed seat made by two people crossing their hands and holding their own wrist with one hand, and holdin the wrist of the other person with the other hand"
+]
+},
+{
+"id": "play-hob-with_idiom",
+"w": "play hob with",
+"kind": "idiom",
+"gloss": [
+"mess with, cause trouble for"
+]
+},
+{
+"id": "hold-by-the-button_idiom",
+"w": "hold by the button",
+"kind": "idiom",
+"gloss": [
+"To detain in conversation to the point of weariness or tedium; to bore while tallking to"
+]
+},
+{
+"id": "fetch-a-compass_idiom",
+"w": "fetch a compass",
+"kind": "idiom",
+"gloss": [
+"To make a circuit; to take a circuitous route to a place."
+]
+},
+{
+"id": "brick-in-one-s-hat_idiom",
+"w": "brick in one's hat",
+"kind": "idiom",
+"gloss": [
+"Drunkenness."
+]
+},
+{
+"id": "top-heavy-with-drink_idiom",
+"w": "top-heavy with drink",
+"kind": "idiom",
+"gloss": [
+"drunk"
+]
+},
+{
+"id": "have-a-brick-in-one-s-hat_idiom",
+"w": "have a brick in one's hat",
+"kind": "idiom",
+"gloss": [
+"To be drunk."
+]
+},
+{
+"id": "get-wind_idiom",
+"w": "get wind",
+"kind": "idiom",
+"gloss": [
+"To be divulged; to become common knowledge."
+]
+},
+{
+"id": "slip-the-cable_idiom",
+"w": "slip the cable",
+"kind": "idiom",
+"gloss": [
+"To release the end of the cable (for mooring or anchoring) on board and let it all run out and go overboard, such as when it is not appropriate to weigh anchor.",
+"To die."
+]
+},
+{
+"id": "take-check_idiom",
+"w": "take check",
+"kind": "idiom",
+"gloss": [
+"To take offence."
+]
+},
+{
+"id": "article-of-death_idiom",
+"w": "article of death",
+"kind": "idiom",
+"gloss": [
+"The moment of death."
+]
+},
+{
+"id": "the-handbags-come-out_idiom",
+"w": "the handbags come out",
+"kind": "idiom",
+"gloss": [
+"A row intensifies; a dispute becomes heated."
+]
+},
+{
+"id": "bear-away-the-bell_idiom",
+"w": "bear away the bell",
+"kind": "idiom",
+"gloss": [
+"To be superior in something."
+]
+},
+{
+"id": "set-up-one-s-staff_idiom",
+"w": "set up one's staff",
+"kind": "idiom",
+"gloss": [
+"To take up one's residence; to start to live in a certain place"
+]
+},
+{
+"id": "temple-of-immensity_idiom",
+"w": "temple of immensity",
+"kind": "idiom",
+"gloss": [
+"The universe or the complete overhead expanse of the heavens, especially as conceived as an object of religious reverence."
+]
+},
+{
+"id": "penny-wedding_idiom",
+"w": "penny wedding",
+"kind": "idiom",
+"gloss": [
+"A wedding at which the guests contribute payments in order to fund the event and to benefit the newly-married couple."
+]
+},
+{
+"id": "up-on-one-s-ear_idiom",
+"w": "up on one's ear",
+"kind": "idiom",
+"gloss": [
+"Annoyed, angry."
+]
+},
+{
+"id": "get-one-s-shirt-out_idiom",
+"w": "get one's shirt out",
+"kind": "idiom",
+"gloss": [
+"To become angry or annoyed; to lose one's temper."
+]
+},
+{
+"id": "stroke-of-business_idiom",
+"w": "stroke of business",
+"kind": "idiom",
+"gloss": [
+"(of business or trade) a large or considerable amount"
+]
+},
+{
+"id": "with-a-quickness_idiom",
+"w": "with a quickness",
+"kind": "idiom",
+"gloss": [
+"Quickly, speedily; in a hurry."
+]
+},
+{
+"id": "look-as-if-one-has-lost-a-shilling-and-found-sixpence_idiom",
+"w": "look as if one has lost a shilling and found sixpence",
+"kind": "idiom",
+"gloss": [
+"To look annoyed or displeased."
+]
+},
+{
+"id": "god-forfend_idiom",
+"w": "God forfend",
+"kind": "idiom",
+"gloss": [
+"Don't let it be."
+]
+},
+{
+"id": "derangement-syndrome_idiom",
+"w": "Derangement Syndrome",
+"kind": "idiom",
+"gloss": [
+"The acute onset of paranoia in otherwise normal and balanced people triggered by the mention of a specific topic."
+]
+},
+{
+"id": "glory-be_idiom",
+"w": "glory be",
+"kind": "idiom",
+"gloss": [
+"Used to express surprise."
+]
+},
+{
+"id": "heavy-as-a-dead-donkey_idiom",
+"w": "heavy as a dead donkey",
+"kind": "idiom",
+"gloss": [
+"Very heavy."
+]
+},
+{
+"id": "stand-treat_idiom",
+"w": "stand treat",
+"kind": "idiom",
+"gloss": [
+"To pay the cost of treating someone to something."
+]
+},
+{
+"id": "nickel-tour_idiom",
+"w": "nickel tour",
+"kind": "idiom",
+"gloss": [
+"Synonym of fifty-cent tour."
+]
+},
+{
+"id": "swallow-the-leek_idiom",
+"w": "swallow the leek",
+"kind": "idiom",
+"gloss": [
+"To change one's mind."
+]
+},
+{
+"id": "lick-my-balls_idiom",
+"w": "lick my balls",
+"kind": "idiom",
+"gloss": [
+"Synonym of suck my balls."
+]
+},
+{
+"id": "transform-and-roll-out_idiom",
+"w": "transform and roll out",
+"kind": "idiom",
+"gloss": [
+"Let's go, get a move on."
+]
+},
+{
+"id": "canary-fit_idiom",
+"w": "canary fit",
+"kind": "idiom",
+"gloss": [
+"A highly emotional state of distress, anger, etc."
+]
+},
+{
+"id": "play-old-gooseberry_idiom",
+"w": "play Old Gooseberry",
+"kind": "idiom",
+"gloss": [
+"To suddenly put a stop to a disturbance by force or threats.",
+"To play the devil; to make mischief."
+]
+},
+{
+"id": "gooseberry-season_idiom",
+"w": "gooseberry season",
+"kind": "idiom",
+"gloss": [
+"A period, usually during the summertime, when news media tend to place increased emphasis on reporting light-hearted, offbeat, or bizarre stories."
+]
+},
+{
+"id": "ride-on-a-rail_idiom",
+"w": "ride on a rail",
+"kind": "idiom",
+"gloss": [
+"To be subjected to a punishment most prevalent in the United States in the 18th and 19th centuries in which an offender was made to straddle a fence rail held on the shoulders of two or more bearers. The victim was then paraded around town or taken to the city limits and dumped by the roadside."
+]
+},
+{
+"id": "two-ha-pennies-for-a-penny_idiom",
+"w": "two ha'pennies for a penny",
+"kind": "idiom",
+"gloss": [
+"Any money whatsoever."
+]
+},
+{
+"id": "with-the-manner_idiom",
+"w": "with the manner",
+"kind": "idiom",
+"gloss": [
+"in the very act; red-handed."
+]
+},
+{
+"id": "feathered-oof-bird_idiom",
+"w": "feathered oof-bird",
+"kind": "idiom",
+"gloss": [
+"Any large, plentiful source or supplier of money."
+]
+},
+{
+"id": "fox-s-socks_idiom",
+"w": "fox's socks",
+"kind": "idiom",
+"gloss": [
+"Something or someone that is ideal or very pleasing."
+]
+},
+{
+"id": "care-a-jackstraw_idiom",
+"w": "care a jackstraw",
+"kind": "idiom",
+"gloss": [
+"To care (at all)."
+]
+},
+{
+"id": "hunger-sauce_idiom",
+"w": "hunger sauce",
+"kind": "idiom",
+"gloss": [
+"The condition of being hungry, which makes food more enjoyable."
+]
+},
+{
+"id": "may-the-force-be-without-you_idiom",
+"w": "may the Force be without you",
+"kind": "idiom",
+"gloss": [
+"Synonym of may the Force not be with you."
+]
+},
+{
+"id": "sail-under-false-colors_idiom",
+"w": "sail under false colors",
+"kind": "idiom",
+"gloss": [
+"To deceive or intentionally mystify."
+]
+},
+{
+"id": "go-to-the-bow-wows_idiom",
+"w": "go to the bow-wows",
+"kind": "idiom",
+"gloss": [
+"To go to the dogs, to decline or deteriorate."
+]
+},
+{
+"id": "gooseberry-eye_idiom",
+"w": "gooseberry eye",
+"kind": "idiom",
+"gloss": [
+"A prominent, dull eye."
+]
+},
+{
+"id": "do-the-needful_idiom",
+"w": "do the needful",
+"kind": "idiom",
+"gloss": [
+"To do what is necessary or required."
+]
+}
+]

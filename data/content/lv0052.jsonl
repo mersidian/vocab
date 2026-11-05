@@ -1,0 +1,100 @@
+{"id":"reference_noun","th":"การอ้างอิง; หนังสือรับรอง; แหล่งอ้างอิง","ex":"She made a reference to last week's meeting in her email.","exTh":"เธอกล่าวถึงการประชุมเมื่อสัปดาห์ที่แล้วในอีเมล"}
+{"id":"potential_adj","th":"ที่อาจเป็นไปได้; ที่มีศักยภาพ","ex":"The company is looking for potential customers in Asia.","exTh":"บริษัทกำลังมองหาลูกค้าที่มีแนวโน้มในเอเชีย"}
+{"id":"planning_noun","th":"การวางแผน; การจัดเตรียม","ex":"Good planning will save us a lot of time.","exTh":"การวางแผนที่ดีจะช่วยเราประหยัดเวลาได้มาก"}
+{"id":"influence_verb","th":"มีอิทธิพลต่อ; ส่งผลต่อ; ชักจูง","ex":"Social media can influence how young people think.","exTh":"โซเชียลมีเดียมีอิทธิพลต่อวิธีคิดของคนรุ่นใหม่ได้"}
+{"id":"expected_adj","th":"ที่คาดไว้; ที่คาดหวัง","ex":"The expected delay is about thirty minutes.","exTh":"ความล่าช้าที่คาดไว้อยู่ที่ประมาณสามสิบนาที"}
+{"id":"technical_adj","th":"ทางเทคนิค; เชิงเทคนิค; เฉพาะทาง","ex":"We had a technical problem with the website yesterday.","exTh":"เมื่อวานเว็บไซต์ของเรามีปัญหาทางเทคนิค"}
+{"id":"conference_noun","th":"การประชุมใหญ่; งานสัมมนา","ex":"She will give a talk at the conference in May.","exTh":"เธอจะบรรยายในงานประชุมเดือนพฤษภาคม"}
+{"id":"prior_adj","th":"ก่อนหน้า; ที่มีมาก่อน","ex":"This job requires prior experience in sales.","exTh":"งานนี้ต้องมีประสบการณ์ด้านการขายมาก่อน"}
+{"id":"motion_noun","th":"การเคลื่อนไหว; การเคลื่อนที่; ญัตติ","ex":"The motion of the boat made me feel sick.","exTh":"การโคลงเคลงของเรือทำให้ฉันรู้สึกเมา"}
+{"id":"risk_verb","th":"เสี่ยง; ยอมเสี่ยง","ex":"He risked his savings to start a small business.","exTh":"เขายอมเสี่ยงเอาเงินเก็บมาเปิดธุรกิจเล็กๆ"}
+{"id":"primary_adj","th":"หลัก; สำคัญที่สุด; ระดับประถม","ex":"Our primary goal is to keep customers happy.","exTh":"เป้าหมายหลักของเราคือทำให้ลูกค้ามีความสุข"}
+{"id":"commercial_noun","th":"โฆษณา (ทางทีวีหรือวิทยุ)","ex":"I saw a funny commercial for a car last night.","exTh":"เมื่อคืนฉันเห็นโฆษณารถยนต์ตลกๆ ตัวหนึ่ง"}
+{"id":"trial_noun","th":"การพิจารณาคดี; การทดลอง; การทดลองใช้","ex":"The new medicine is still in a clinical trial.","exTh":"ยาตัวใหม่ยังอยู่ในขั้นการทดลองทางคลินิก"}
+{"id":"trust_noun","th":"ความไว้วางใจ; ความเชื่อใจ","ex":"Trust is very important in a good friendship.","exTh":"ความไว้ใจเป็นสิ่งสำคัญมากในมิตรภาพที่ดี"}
+{"id":"equal_noun","th":"คนที่เท่าเทียมกัน; ผู้เสมอกัน","ex":"At work, she treats everyone as her equal.","exTh":"ที่ทำงาน เธอปฏิบัติกับทุกคนเสมือนเท่าเทียมกับตน"}
+{"id":"equal_verb","th":"เท่ากับ; เทียบเท่า","ex":"Two plus three equals five.","exTh":"สองบวกสามเท่ากับห้า"}
+{"id":"fine_adv","th":"ดี; เรียบร้อยดี; อย่างสบายๆ","ex":"My new phone works fine so far.","exTh":"โทรศัพท์เครื่องใหม่ของฉันใช้งานได้ดีจนถึงตอนนี้"}
+{"id":"fine_verb","th":"ปรับเงิน; สั่งปรับ","ex":"The police fined him for parking in the wrong place.","exTh":"ตำรวจปรับเขาที่จอดรถผิดที่"}
+{"id":"latter_adj","th":"ที่กล่าวทีหลัง; ช่วงหลัง","ex":"The latter half of the movie was very exciting.","exTh":"ครึ่งหลังของหนังสนุกตื่นเต้นมาก"}
+{"id":"acid_noun","th":"กรด","ex":"Lemon juice contains a weak acid.","exTh":"น้ำมะนาวมีกรดอ่อนๆ อยู่"}
+{"id":"soil_noun","th":"ดิน; พื้นดิน","ex":"The soil in this area is good for growing rice.","exTh":"ดินแถวนี้เหมาะกับการปลูกข้าว"}
+{"id":"learning_noun","th":"การเรียนรู้; ความรู้","ex":"Online learning has become very popular in recent years.","exTh":"การเรียนออนไลน์ได้รับความนิยมมากในช่วงไม่กี่ปีมานี้"}
+{"id":"investment_noun","th":"การลงทุน; เงินลงทุน","ex":"Buying a house is a big investment for most families.","exTh":"การซื้อบ้านเป็นการลงทุนครั้งใหญ่ของหลายครอบครัว"}
+{"id":"payment_noun","th":"การชำระเงิน; การจ่ายเงิน; เงินที่จ่าย","ex":"We accept payment by card or in cash.","exTh":"เรารับชำระเงินด้วยบัตรหรือเงินสด"}
+{"id":"content_adj","th":"พอใจ; สุขใจ; สบายใจ","ex":"My grandfather is content with his quiet life.","exTh":"คุณตาของฉันพอใจกับชีวิตที่เงียบสงบ","note":"ออกเสียงเน้นพยางค์หลัง (kənˈtent) ต่างจากคำนาม content"}
+{"id":"existing_adj","th":"ที่มีอยู่แล้ว; ที่ใช้อยู่ในปัจจุบัน","ex":"We can use the existing system instead of buying a new one.","exTh":"เราใช้ระบบที่มีอยู่ได้ โดยไม่ต้องซื้อระบบใหม่"}
+{"id":"sound_adj","th":"สมเหตุสมผล; แข็งแรงสมบูรณ์; มั่นคง","ex":"That is a sound piece of advice.","exTh":"นั่นเป็นคำแนะนำที่สมเหตุสมผล"}
+{"id":"facilities_noun","th":"สิ่งอำนวยความสะดวก; สถานที่","ex":"The hotel has excellent facilities, including a gym and a pool.","exTh":"โรงแรมมีสิ่งอำนวยความสะดวกยอดเยี่ยม รวมถึงยิมและสระว่ายน้ำ"}
+{"id":"environment_noun","th":"สิ่งแวดล้อม; สภาพแวดล้อม","ex":"We should do more to protect the environment.","exTh":"เราควรทำมากกว่านี้เพื่อปกป้องสิ่งแวดล้อม"}
+{"id":"minister_noun","th":"รัฐมนตรี; นักบวช","ex":"The minister of education spoke on the news today.","exTh":"รัฐมนตรีว่าการกระทรวงศึกษาธิการให้สัมภาษณ์ในข่าววันนี้"}
+{"id":"actual_adj","th":"จริง; ตามจริง; แท้จริง","ex":"The actual price was higher than the one online.","exTh":"ราคาจริงสูงกว่าราคาที่แสดงในเว็บ"}
+{"id":"understanding_adj","th":"เข้าใจผู้อื่น; เห็นอกเห็นใจ","ex":"My boss was very understanding when I was sick.","exTh":"หัวหน้าของฉันเข้าอกเข้าใจมากตอนที่ฉันป่วย"}
+{"id":"understanding_noun","th":"ความเข้าใจ; การตกลงกัน","ex":"She has a good understanding of how computers work.","exTh":"เธอมีความเข้าใจที่ดีว่าคอมพิวเตอร์ทำงานอย่างไร"}
+{"id":"procedure_noun","th":"ขั้นตอน; กระบวนการ; วิธีปฏิบัติ","ex":"The doctor explained the procedure before the surgery.","exTh":"หมอธิบายขั้นตอนก่อนการผ่าตัด"}
+{"id":"principal_noun","th":"ครูใหญ่; อาจารย์ใหญ่; เงินต้น","ex":"The principal gave a speech at the school ceremony.","exTh":"ครูใหญ่กล่าวสุนทรพจน์ในพิธีของโรงเรียน"}
+{"id":"mass_noun","th":"มวล; กลุ่มก้อนใหญ่; จำนวนมาก","ex":"A mass of dark clouds covered the sky.","exTh":"เมฆดำก้อนใหญ่ปกคลุมท้องฟ้า"}
+{"id":"factor_noun","th":"ปัจจัย; องค์ประกอบ","ex":"Price is an important factor when I choose a phone.","exTh":"ราคาเป็นปัจจัยสำคัญเวลาที่ฉันเลือกโทรศัพท์"}
+{"id":"phase_noun","th":"ระยะ; ขั้น; ช่วง","ex":"The project is now in its final phase.","exTh":"ตอนนี้โครงการอยู่ในระยะสุดท้าย"}
+{"id":"transfer_noun","th":"การโอน; การย้าย; การเปลี่ยนสาย","ex":"I made a bank transfer to pay the rent.","exTh":"ฉันโอนเงินผ่านธนาคารเพื่อจ่ายค่าเช่า"}
+{"id":"balance_verb","th":"ทำให้สมดุล; ทรงตัว; ถ่วงดุล","ex":"She tries to balance work and family life.","exTh":"เธอพยายามรักษาสมดุลระหว่างงานกับชีวิตครอบครัว"}
+{"id":"deep_adj","th":"ลึก; ลึกซึ้ง; (สี/เสียง) เข้ม","ex":"The lake is very deep in the middle.","exTh":"ทะเลสาบตรงกลางลึกมาก"}
+{"id":"regard_noun","th":"ความนับถือ; ความเคารพ; ความใส่ใจ","ex":"He has great regard for his teachers.","exTh":"เขามีความเคารพอย่างสูงต่อครูของเขา"}
+{"id":"joint_noun","th":"ข้อต่อ; ข้อ (ร่างกาย); รอยต่อ","ex":"My knee joint hurts when I walk up the stairs.","exTh":"ข้อเข่าของฉันเจ็บเวลาเดินขึ้นบันได"}
+{"id":"access_verb","th":"เข้าถึง; เข้าใช้ (ข้อมูล/ระบบ)","ex":"You can access your account from any device.","exTh":"คุณเข้าใช้บัญชีของคุณได้จากอุปกรณ์ทุกเครื่อง"}
+{"id":"progress_verb","th":"ก้าวหน้า; คืบหน้า; ดำเนินต่อไป","ex":"Her English is progressing quickly this year.","exTh":"ภาษาอังกฤษของเธอก้าวหน้าเร็วในปีนี้","note":"เป็นกริยาออกเสียงเน้นพยางค์หลัง (prəˈɡres)"}
+{"id":"executive_adj","th":"ที่เกี่ยวกับการบริหาร; ระดับผู้บริหาร","ex":"She made an executive decision to close the shop early.","exTh":"เธอตัดสินใจในฐานะผู้บริหารให้ปิดร้านเร็วขึ้น"}
+{"id":"executive_noun","th":"ผู้บริหาร; ผู้จัดการระดับสูง","ex":"The executives met to discuss the new budget.","exTh":"เหล่าผู้บริหารประชุมกันเพื่อหารือเรื่องงบประมาณใหม่"}
+{"id":"separate_verb","th":"แยก; แยกออกจากกัน; แยกทาง","ex":"Please separate the plastic from the paper.","exTh":"กรุณาแยกพลาสติกออกจากกระดาษ","note":"เป็นกริยาออกเสียงท้ายเป็น เอท (ˈsepəreɪt) ต่างจากคุณศัพท์"}
+{"id":"benefit_verb","th":"ได้รับประโยชน์; เป็นประโยชน์ต่อ","ex":"Many students benefit from extra help after class.","exTh":"นักเรียนหลายคนได้ประโยชน์จากการช่วยสอนเพิ่มหลังเลิกเรียน"}
+{"id":"senator_noun","th":"สมาชิกวุฒิสภา; ส.ว.","ex":"The senator spoke about the new law on television.","exTh":"สมาชิกวุฒิสภาพูดถึงกฎหมายฉบับใหม่ทางโทรทัศน์"}
+{"id":"object_verb","th":"คัดค้าน; ไม่เห็นด้วย","ex":"Some neighbors objected to the new building.","exTh":"เพื่อนบ้านบางคนคัดค้านอาคารหลังใหม่","note":"เป็นกริยาออกเสียงเน้นพยางค์หลัง (əbˈdʒekt)"}
+{"id":"index_noun","th":"ดัชนี; สารบัญท้ายเล่ม; ตัวชี้วัด","ex":"Look in the index at the back of the book.","exTh":"ลองดูในดัชนีท้ายเล่มของหนังสือ"}
+{"id":"professional_noun","th":"มืออาชีพ; ผู้เชี่ยวชาญ","ex":"You should ask a professional to fix the wiring.","exTh":"คุณควรให้ช่างมืออาชีพมาซ่อมระบบสายไฟ"}
+{"id":"appeal_verb","th":"ดึงดูดใจ; อุทธรณ์; ร้องขอ","ex":"This kind of music doesn't appeal to me.","exTh":"เพลงแนวนี้ไม่ถูกใจฉัน"}
+{"id":"estate_noun","th":"ที่ดินขนาดใหญ่; มรดก; โครงการที่อยู่อาศัย","ex":"They live on a large estate in the countryside.","exTh":"พวกเขาอาศัยอยู่ในที่ดินผืนใหญ่ในชนบท"}
+{"id":"official_noun","th":"เจ้าหน้าที่; ข้าราชการ","ex":"An official checked our passports at the border.","exTh":"เจ้าหน้าที่ตรวจหนังสือเดินทางของเราที่ชายแดน"}
+{"id":"portion_noun","th":"ส่วน; ส่วนแบ่ง; ที่ (อาหาร)","ex":"The restaurant gives a big portion of rice.","exTh":"ร้านนี้ให้ข้าวมาเยอะมากในหนึ่งที่"}
+{"id":"provision_noun","th":"การจัดหา; ข้อกำหนด; เสบียง","ex":"The city is responsible for the provision of clean water.","exTh":"เมืองมีหน้าที่จัดหาน้ำสะอาดให้ประชาชน"}
+{"id":"formation_noun","th":"การก่อตัว; การก่อตั้ง; รูปแบบการจัดวาง","ex":"The formation of ice on the road made driving dangerous.","exTh":"น้ำแข็งที่จับตัวบนถนนทำให้การขับรถอันตราย"}
+{"id":"initial_adj","th":"เริ่มแรก; ตอนต้น","ex":"My initial reaction was surprise.","exTh":"ปฏิกิริยาแรกของฉันคือความประหลาดใจ"}
+{"id":"fixed_adj","th":"คงที่; ตายตัว; ซ่อมแล้ว","ex":"The price is fixed, so you cannot bargain.","exTh":"ราคาตายตัว จึงต่อรองไม่ได้"}
+{"id":"resolution_noun","th":"มติ; ความตั้งใจแน่วแน่; การแก้ไขปัญหา; ความละเอียดของภาพ","ex":"My New Year's resolution is to exercise every day.","exTh":"ปณิธานปีใหม่ของฉันคือออกกำลังกายทุกวัน"}
+{"id":"lack_verb","th":"ขาด; ไม่มี; ขาดแคลน","ex":"Many villages lack clean drinking water.","exTh":"หมู่บ้านหลายแห่งขาดแคลนน้ำดื่มที่สะอาด"}
+{"id":"adopted_adj","th":"ที่เป็นบุตรบุญธรรม; ที่รับมาใช้","ex":"They have an adopted daughter from another country.","exTh":"พวกเขามีลูกสาวบุญธรรมที่มาจากต่างประเทศ"}
+{"id":"constant_adj","th":"คงที่; ต่อเนื่อง; ไม่หยุดหย่อน","ex":"The constant noise from the road keeps me awake.","exTh":"เสียงดังไม่หยุดจากถนนทำให้ฉันนอนไม่หลับ"}
+{"id":"domestic_adj","th":"ภายในประเทศ; ในครัวเรือน; (สัตว์) เลี้ยง","ex":"I booked a domestic flight to Chiang Mai.","exTh":"ฉันจองเที่ยวบินในประเทศไปเชียงใหม่"}
+{"id":"budget_adj","th":"ราคาประหยัด; ราคาถูก","ex":"We stayed in a budget hotel near the station.","exTh":"เราพักในโรงแรมราคาประหยัดใกล้สถานี"}
+{"id":"inside_adj","th":"ด้านใน; ภายใน","ex":"The inside pocket of my coat is quite small.","exTh":"กระเป๋าด้านในของเสื้อโค้ตฉันค่อนข้างเล็ก"}
+{"id":"inside_noun","th":"ด้านใน; ภายใน","ex":"The inside of the box was filled with paper.","exTh":"ด้านในกล่องมีกระดาษอัดอยู่เต็ม"}
+{"id":"estimated_adj","th":"ที่ประมาณการไว้; โดยประมาณ","ex":"The estimated cost of the repair is five thousand baht.","exTh":"ค่าซ่อมโดยประมาณอยู่ที่ห้าพันบาท"}
+{"id":"concerning_prep","th":"เกี่ยวกับ; ในเรื่องของ","ex":"I have a question concerning my last bill.","exTh":"ฉันมีคำถามเกี่ยวกับบิลครั้งล่าสุด","note":"ภาษาค่อนข้างทางการ"}
+{"id":"file_verb","th":"จัดเก็บเข้าแฟ้ม; ยื่น (เอกสาร/คำร้อง)","ex":"She filed a complaint with the airline.","exTh":"เธอยื่นเรื่องร้องเรียนต่อสายการบิน"}
+{"id":"growing_adj","th":"ที่เพิ่มขึ้น; ที่เติบโต","ex":"There is a growing interest in healthy food.","exTh":"ผู้คนสนใจอาหารเพื่อสุขภาพเพิ่มมากขึ้น"}
+{"id":"personnel_noun","th":"บุคลากร; พนักงาน; ฝ่ายบุคคล","ex":"All personnel must wear a badge in the building.","exTh":"บุคลากรทุกคนต้องติดบัตรในอาคาร","note":"ใช้เป็นรูปพหูพจน์เสมอ"}
+{"id":"employee_noun","th":"พนักงาน; ลูกจ้าง","ex":"The company has more than two hundred employees.","exTh":"บริษัทมีพนักงานมากกว่าสองร้อยคน"}
+{"id":"master_noun","th":"ปรมาจารย์; ผู้เชี่ยวชาญ; นายจ้าง; ปริญญาโท","ex":"He is a master of the guitar.","exTh":"เขาเป็นปรมาจารย์ด้านกีตาร์"}
+{"id":"round_prep","th":"รอบๆ; โดยรอบ","ex":"We walked round the lake after lunch.","exTh":"เราเดินรอบทะเลสาบหลังมื้อเที่ยง","note":"ภาษาอังกฤษแบบอังกฤษ ในอเมริกันนิยมใช้ around"}
+{"id":"round_verb","th":"เลี้ยว; ปัดเศษ; ทำให้กลม","ex":"The car rounded the corner very slowly.","exTh":"รถเลี้ยวโค้งไปอย่างช้าๆ"}
+{"id":"output_noun","th":"ผลผลิต; กำลังผลิต; ข้อมูลที่ส่งออก","ex":"The factory has doubled its output this year.","exTh":"โรงงานเพิ่มผลผลิตเป็นสองเท่าในปีนี้"}
+{"id":"commerce_noun","th":"การพาณิชย์; การค้า","ex":"The city has long been a center of commerce.","exTh":"เมืองนี้เป็นศูนย์กลางการค้ามานานแล้ว"}
+{"id":"assembly_noun","th":"การประกอบ; การชุมนุม; การรวมตัว","ex":"The assembly of the desk took about an hour.","exTh":"การประกอบโต๊ะใช้เวลาประมาณหนึ่งชั่วโมง"}
+{"id":"neither_adv","th":"ก็ไม่เหมือนกัน; ไม่...เช่นกัน","ex":"I don't like fish, and neither does my sister.","exTh":"ฉันไม่ชอบปลา และพี่สาวก็ไม่ชอบเหมือนกัน"}
+{"id":"neither_conj","th":"ไม่...ทั้งสอง (neither...nor)","ex":"Neither my brother nor I can drive.","exTh":"ทั้งพี่ชายและฉันขับรถไม่เป็นทั้งคู่"}
+{"id":"neither_det","th":"ไม่...ทั้งสองอย่าง; ไม่มีสักอัน","ex":"Neither answer is correct.","exTh":"ไม่มีคำตอบไหนถูกเลยทั้งสองข้อ"}
+{"id":"neither_pron","th":"ไม่มีสักคน (จากสองคน); ไม่มีสักอย่าง","ex":"I asked two friends, but neither could come.","exTh":"ฉันชวนเพื่อนสองคน แต่ไม่มีใครมาได้เลย"}
+{"id":"legislation_noun","th":"กฎหมาย; การออกกฎหมาย","ex":"New legislation on plastic bags starts next year.","exTh":"กฎหมายใหม่เรื่องถุงพลาสติกจะเริ่มใช้ปีหน้า"}
+{"id":"reaction_noun","th":"ปฏิกิริยา; การตอบสนอง","ex":"Her reaction to the news was very calm.","exTh":"ปฏิกิริยาของเธอต่อข่าวนี้สงบมาก"}
+{"id":"doubt_verb","th":"สงสัย; ไม่แน่ใจ; ไม่เชื่อ","ex":"I doubt that he will arrive on time.","exTh":"ฉันสงสัยว่าเขาจะมาถึงตรงเวลา"}
+{"id":"assessment_noun","th":"การประเมิน; การวัดผล","ex":"The teacher gave an honest assessment of my work.","exTh":"ครูประเมินผลงานของฉันอย่างตรงไปตรงมา"}
+{"id":"picture_verb","th":"จินตนาการ; นึกภาพ; วาดภาพ","ex":"I can't picture him as a teacher.","exTh":"ฉันนึกภาพเขาเป็นครูไม่ออกเลย"}
+{"id":"administrative_adj","th":"ด้านการบริหาร; ด้านธุรการ","ex":"She does administrative work at a hospital.","exTh":"เธอทำงานธุรการที่โรงพยาบาล"}
+{"id":"revenue_noun","th":"รายได้; รายรับ","ex":"The shop's revenue grew by ten percent last year.","exTh":"รายได้ของร้านเพิ่มขึ้นสิบเปอร์เซ็นต์เมื่อปีที่แล้ว"}
+{"id":"fiscal_adj","th":"ด้านการคลัง; เกี่ยวกับงบประมาณ","ex":"The government announced a new fiscal plan.","exTh":"รัฐบาลประกาศแผนการคลังฉบับใหม่"}
+{"id":"urban_adj","th":"ในเมือง; เกี่ยวกับเขตเมือง","ex":"Urban areas are often more crowded than villages.","exTh":"พื้นที่ในเมืองมักจะแออัดกว่าหมู่บ้าน"}
+{"id":"soviet_noun","th":"ชาวโซเวียต; สภาโซเวียต","ex":"Many Soviets studied science and engineering in those years.","exTh":"ชาวโซเวียตจำนวนมากเรียนวิทยาศาสตร์และวิศวกรรมในช่วงนั้น","note":"เกี่ยวกับสหภาพโซเวียต (อดีต)"}
+{"id":"evaluation_noun","th":"การประเมินผล; การวิเคราะห์ค่า","ex":"The teacher did an evaluation of each student.","exTh":"ครูทำการประเมินนักเรียนทีละคน"}
+{"id":"compensation_noun","th":"ค่าชดเชย; เงินทดแทน; ค่าตอบแทน","ex":"The airline paid him compensation for the lost bag.","exTh":"สายการบินจ่ายค่าชดเชยให้เขาสำหรับกระเป๋าที่หาย"}
+{"id":"purchase_noun","th":"การซื้อ; ของที่ซื้อ","ex":"Keep your receipt as proof of purchase.","exTh":"เก็บใบเสร็จไว้เป็นหลักฐานการซื้อ"}
+{"id":"purchase_verb","th":"ซื้อ; จัดซื้อ","ex":"You can purchase tickets online.","exTh":"คุณซื้อตั๋วทางออนไลน์ได้","note":"ภาษาทางการกว่า buy"}
+{"id":"rural_adj","th":"ในชนบท; เกี่ยวกับชนบท","ex":"She grew up in a quiet rural village.","exTh":"เธอเติบโตในหมู่บ้านชนบทที่เงียบสงบ"}

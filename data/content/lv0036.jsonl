@@ -1,0 +1,100 @@
+{"id":"finger_noun","th":"นิ้วมือ","ex":"I cut my finger with a knife.","exTh":"ฉันเอามีดบาดนิ้วมือ"}
+{"id":"neutral_adj","th":"เป็นกลาง; ไม่เข้าข้างใคร","ex":"A teacher should stay neutral in arguments.","exTh":"ครูควรเป็นกลางเวลามีการโต้เถียง"}
+{"id":"northwest_adj","th":"ทางตะวันตกเฉียงเหนือ","ex":"There is a strong northwest wind today.","exTh":"วันนี้มีลมแรงจากทางตะวันตกเฉียงเหนือ"}
+{"id":"northwest_noun","th":"ทิศตะวันตกเฉียงเหนือ","ex":"The storm is moving toward the northwest.","exTh":"พายุกำลังเคลื่อนไปทางทิศตะวันตกเฉียงเหนือ"}
+{"id":"systematic_adj","th":"เป็นระบบ; มีระเบียบ","ex":"She made a systematic search of the room.","exTh":"เธอค้นห้องอย่างเป็นระบบ"}
+{"id":"remainder_noun","th":"ส่วนที่เหลือ; เศษที่เหลือ","ex":"I will do the remainder of the work tomorrow.","exTh":"ฉันจะทำงานส่วนที่เหลือพรุ่งนี้"}
+{"id":"eliminate_verb","th":"ขจัด; กำจัด; คัดออก","ex":"We must eliminate waste in the kitchen.","exTh":"เราต้องขจัดของเสียในครัว"}
+{"id":"biology_noun","th":"ชีววิทยา; วิชาชีววิทยา","ex":"She is studying biology at university.","exTh":"เธอเรียนชีววิทยาที่มหาวิทยาลัย"}
+{"id":"deliver_verb","th":"ส่ง; จัดส่ง; ทำตามที่สัญญา","ex":"The shop will deliver the sofa on Monday.","exTh":"ร้านจะส่งโซฟาให้ในวันจันทร์"}
+{"id":"mayor_noun","th":"นายกเทศมนตรี; ผู้ว่าการเมือง","ex":"The mayor opened the new library.","exTh":"นายกเทศมนตรีเปิดห้องสมุดแห่งใหม่"}
+{"id":"comfort_noun","th":"ความสบาย; ความสะดวกสบาย; การปลอบใจ","ex":"The chair is designed for comfort.","exTh":"เก้าอี้ตัวนี้ออกแบบมาเพื่อความสบาย"}
+{"id":"suffer_verb","th":"ทุกข์ทรมาน; เจ็บป่วย; ได้รับผลร้าย","ex":"He suffers from a bad back.","exTh":"เขาปวดหลังอย่างหนัก"}
+{"id":"substitute_noun","th":"ตัวแทน; ของทดแทน; ตัวสำรอง","ex":"Honey is a good substitute for sugar.","exTh":"น้ำผึ้งเป็นของใช้แทนน้ำตาลได้ดี"}
+{"id":"productive_adj","th":"ได้ผลมาก; มีประสิทธิภาพ; อุดมสมบูรณ์","ex":"We had a productive meeting today.","exTh":"วันนี้เรามีการประชุมที่ได้ผลดี"}
+{"id":"conclude_verb","th":"สรุป; ลงความเห็น; จบ","ex":"The judge concluded that he was honest.","exTh":"ผู้พิพากษาสรุปว่าเขาพูดความจริง"}
+{"id":"victim_noun","th":"เหยื่อ; ผู้เสียหาย","ex":"The victim was taken to the hospital.","exTh":"ผู้เสียหายถูกนำส่งโรงพยาบาล"}
+{"id":"producer_noun","th":"ผู้ผลิต; โปรดิวเซอร์","ex":"Thailand is a major rice producer.","exTh":"ประเทศไทยเป็นผู้ผลิตข้าวรายใหญ่"}
+{"id":"platform_noun","th":"ชานชาลา; แท่น; แพลตฟอร์ม","ex":"The train is waiting at platform four.","exTh":"รถไฟกำลังจอดรออยู่ที่ชานชาลาที่สี่"}
+{"id":"construct_verb","th":"ก่อสร้าง; สร้าง","ex":"They plan to construct a new bridge.","exTh":"พวกเขาวางแผนจะสร้างสะพานใหม่"}
+{"id":"demonstration_noun","th":"การสาธิต; การชุมนุมประท้วง","ex":"The chef gave a cooking demonstration.","exTh":"เชฟสาธิตการทำอาหาร"}
+{"id":"universe_noun","th":"จักรวาล","ex":"Scientists study how the universe began.","exTh":"นักวิทยาศาสตร์ศึกษาว่าจักรวาลเริ่มต้นอย่างไร"}
+{"id":"possess_verb","th":"ครอบครอง; มี; เป็นเจ้าของ","ex":"He possesses a large collection of stamps.","exTh":"เขามีแสตมป์สะสมจำนวนมาก","note":"ภาษาทางการ"}
+{"id":"diagram_noun","th":"แผนภาพ; ผัง","ex":"The book has a diagram of the heart.","exTh":"หนังสือเล่มนี้มีแผนภาพของหัวใจ"}
+{"id":"pale_adj","th":"ซีด; จาง; อ่อน","ex":"She looked pale after the long trip.","exTh":"เธอดูหน้าซีดหลังเดินทางไกล"}
+{"id":"beat_verb","th":"เอาชนะ; ตี; เต้น","ex":"Our team beat them three to one.","exTh":"ทีมของเราเอาชนะพวกเขาสามต่อหนึ่ง","note":"รูปอดีตคือ beat, beaten"}
+{"id":"worst_noun","th":"สิ่งที่แย่ที่สุด; ส่วนที่เลวร้ายที่สุด","ex":"The worst is over now.","exTh":"ช่วงที่แย่ที่สุดผ่านไปแล้ว","note":"มักใช้ the worst"}
+{"id":"fallen_adj","th":"ที่ล้มลง; ที่ตกลงมา; ที่ตาย (ในสงคราม)","ex":"We walked past a fallen tree.","exTh":"เราเดินผ่านต้นไม้ที่ล้มอยู่"}
+{"id":"deed_noun","th":"การกระทำ; ความดีที่ทำ; โฉนด","ex":"He did a good deed for a stranger.","exTh":"เขาทำความดีให้คนแปลกหน้า"}
+{"id":"immigration_noun","th":"การเข้าเมือง; การอพยพเข้า; ตม.","ex":"We waited in line at immigration.","exTh":"เรายืนต่อแถวรอที่ด่านตรวจคนเข้าเมือง"}
+{"id":"sacred_adj","th":"ศักดิ์สิทธิ์; สำคัญทางศาสนา","ex":"The temple is a sacred place.","exTh":"วัดแห่งนี้เป็นสถานที่ศักดิ์สิทธิ์"}
+{"id":"altogether_adv","th":"ทั้งหมด; โดยรวม; สิ้นเชิง","ex":"The trip cost five thousand baht altogether.","exTh":"การเดินทางครั้งนี้ราคารวมทั้งหมดห้าพันบาท"}
+{"id":"crossing_noun","th":"ทางข้าม; การข้าม; จุดตัด","ex":"Use the crossing to cross the road.","exTh":"ใช้ทางข้ามเพื่อข้ามถนน"}
+{"id":"reputation_noun","th":"ชื่อเสียง; กิตติศัพท์","ex":"The restaurant has a good reputation.","exTh":"ร้านอาหารนี้มีชื่อเสียงดี"}
+{"id":"organ_noun","th":"อวัยวะ; ออร์แกน (เครื่องดนตรี)","ex":"The heart is an important organ.","exTh":"หัวใจเป็นอวัยวะสำคัญ"}
+{"id":"publisher_noun","th":"สำนักพิมพ์; ผู้จัดพิมพ์","ex":"The publisher printed ten thousand copies.","exTh":"สำนักพิมพ์พิมพ์หนังสือหนึ่งหมื่นเล่ม"}
+{"id":"exploration_noun","th":"การสำรวจ; การค้นหา","ex":"Space exploration is expensive.","exTh":"การสำรวจอวกาศมีค่าใช้จ่ายสูง"}
+{"id":"refuse_noun","th":"ขยะ; เศษสิ่งของที่ทิ้ง","ex":"Refuse is collected every morning.","exTh":"ขยะถูกเก็บทุกเช้า","note":"ภาษาทางการ ออกเสียงต่างจาก refuse (ปฏิเสธ)"}
+{"id":"refuse_verb","th":"ปฏิเสธ; ไม่ยอม","ex":"He refused to wear a helmet.","exTh":"เขาไม่ยอมสวมหมวกกันน็อก"}
+{"id":"furnish_verb","th":"ตกแต่งด้วยเฟอร์นิเจอร์; จัดหาให้","ex":"They furnished the room with a bed and a desk.","exTh":"พวกเขาจัดห้องด้วยเตียงและโต๊ะ"}
+{"id":"preservation_noun","th":"การอนุรักษ์; การรักษาไว้; การถนอม","ex":"The preservation of old buildings is important.","exTh":"การอนุรักษ์อาคารเก่าเป็นเรื่องสำคัญ"}
+{"id":"recommend_verb","th":"แนะนำ; เสนอแนะ","ex":"Can you recommend a good restaurant?","exTh":"คุณช่วยแนะนำร้านอาหารดีๆ ได้ไหม"}
+{"id":"merchant_noun","th":"พ่อค้า; ผู้ค้า","ex":"The merchant sold silk and spices.","exTh":"พ่อค้าขายผ้าไหมและเครื่องเทศ"}
+{"id":"farming_noun","th":"การทำฟาร์ม; การเกษตร","ex":"Farming is the main job in this village.","exTh":"การเกษตรเป็นอาชีพหลักของหมู่บ้านนี้"}
+{"id":"personally_adv","th":"ส่วนตัว; ด้วยตัวเอง","ex":"Personally, I prefer tea to coffee.","exTh":"ส่วนตัวแล้ว ฉันชอบชามากกว่ากาแฟ"}
+{"id":"relate_verb","th":"เกี่ยวข้อง; เล่า; เข้าใจ","ex":"This question relates to your last point.","exTh":"คำถามนี้เกี่ยวข้องกับประเด็นสุดท้ายของคุณ"}
+{"id":"massive_adj","th":"ใหญ่โต; มหาศาล; หนักหนา","ex":"They built a massive stadium in the city.","exTh":"พวกเขาสร้างสนามกีฬาขนาดใหญ่โตในเมือง"}
+{"id":"breeding_noun","th":"การเพาะพันธุ์; การผสมพันธุ์; การอบรมเลี้ยงดู","ex":"The farm focuses on horse breeding.","exTh":"ฟาร์มนี้เน้นการเพาะพันธุ์ม้า"}
+{"id":"baker_noun","th":"คนทำขนมปัง; เจ้าของร้านเบเกอรี่","ex":"The baker gets up at four every morning.","exTh":"คนทำขนมปังตื่นตอนตีสี่ทุกเช้า"}
+{"id":"darkness_noun","th":"ความมืด","ex":"The room was in complete darkness.","exTh":"ห้องนั้นมืดสนิท"}
+{"id":"acquire_verb","th":"ได้มา; ได้รับ; เรียนรู้","ex":"She acquired a new skill last year.","exTh":"เมื่อปีที่แล้วเธอได้ทักษะใหม่"}
+{"id":"remedy_noun","th":"วิธีรักษา; ยารักษา; วิธีแก้ไข","ex":"Hot tea is a good remedy for a cold.","exTh":"ชาร้อนเป็นวิธีรักษาหวัดที่ดี"}
+{"id":"protective_adj","th":"ป้องกัน; ปกป้อง","ex":"Wear protective glasses in the lab.","exTh":"สวมแว่นป้องกันในห้องแล็บ"}
+{"id":"grave_noun","th":"หลุมศพ; ที่ฝังศพ","ex":"They put flowers on his grave.","exTh":"พวกเขาวางดอกไม้ที่หลุมศพของเขา"}
+{"id":"anger_noun","th":"ความโกรธ","ex":"He shouted in anger.","exTh":"เขาตะโกนออกมาด้วยความโกรธ"}
+{"id":"intense_adj","th":"รุนแรง; เข้มข้น; จริงจังมาก","ex":"We felt the intense heat of the sun.","exTh":"เรารู้สึกถึงความร้อนแรงของแสงแดด"}
+{"id":"definitely_adv","th":"แน่นอน; อย่างแน่แท้","ex":"I will definitely come to your party.","exTh":"ฉันจะไปงานเลี้ยงของคุณแน่นอน"}
+{"id":"indirect_adj","th":"ทางอ้อม; ไม่ตรง","ex":"We took an indirect route home.","exTh":"เรากลับบ้านด้วยเส้นทางอ้อม"}
+{"id":"preserve_verb","th":"รักษาไว้; ถนอม; อนุรักษ์","ex":"People salt fish to preserve it.","exTh":"ผู้คนใส่เกลือปลาเพื่อถนอมไว้"}
+{"id":"arrest_noun","th":"การจับกุม","ex":"The police made an arrest last night.","exTh":"ตำรวจจับกุมผู้ต้องหาเมื่อคืนนี้"}
+{"id":"arrest_verb","th":"จับกุม; จับ","ex":"The police arrested the thief.","exTh":"ตำรวจจับกุมขโมยได้"}
+{"id":"deficiency_noun","th":"การขาดแคลน; ความบกพร่อง; ข้อบกพร่อง","ex":"A lack of iron can cause deficiency.","exTh":"การขาดธาตุเหล็กอาจทำให้เกิดภาวะพร่อง"}
+{"id":"retain_verb","th":"คงไว้; เก็บรักษา; จดจำได้","ex":"Please retain your receipt.","exTh":"กรุณาเก็บใบเสร็จของคุณไว้","note":"ภาษาทางการ"}
+{"id":"format_noun","th":"รูปแบบ; รูปแบบไฟล์","ex":"Please send the file in PDF format.","exTh":"กรุณาส่งไฟล์ในรูปแบบ PDF"}
+{"id":"format_verb","th":"จัดรูปแบบ; ฟอร์แมต","ex":"I need to format my USB drive.","exTh":"ฉันต้องฟอร์แมตแฟลชไดรฟ์ของฉัน"}
+{"id":"click_noun","th":"การคลิก; เสียงคลิก","ex":"With one click, you can buy it.","exTh":"คลิกเดียวก็ซื้อได้"}
+{"id":"dozen_det","th":"สิบสอง; ดวงโหล","ex":"I bought a dozen eggs at the market.","exTh":"ฉันซื้อไข่หนึ่งโหลที่ตลาด","note":"ใช้ a dozen + นาม"}
+{"id":"dozen_noun","th":"โหล (สิบสองชิ้น)","ex":"Dozens of people came to the opening.","exTh":"ผู้คนหลายสิบคนมาร่วมงานเปิดตัว","note":"dozens of แปลว่า หลายสิบ"}
+{"id":"satellite_noun","th":"ดาวเทียม; บริวาร","ex":"The satellite sends TV signals to Earth.","exTh":"ดาวเทียมส่งสัญญาณโทรทัศน์มายังโลก"}
+{"id":"tour_verb","th":"ท่องเที่ยว; เดินทางเยี่ยมชม","ex":"We toured Europe last summer.","exTh":"เราเที่ยวทั่วยุโรปเมื่อฤดูร้อนที่แล้ว"}
+{"id":"protest_noun","th":"การประท้วง; การคัดค้าน","ex":"Students held a protest outside the school.","exTh":"นักเรียนชุมนุมประท้วงหน้าโรงเรียน"}
+{"id":"priest_noun","th":"นักบวช; พระ; บาทหลวง","ex":"The priest spoke to the people.","exTh":"นักบวชพูดกับผู้คน"}
+{"id":"tiny_adj","th":"เล็กจิ๋ว; เล็กมาก","ex":"A tiny insect sat on my hand.","exTh":"แมลงตัวเล็กจิ๋วเกาะอยู่บนมือฉัน"}
+{"id":"uncertainty_noun","th":"ความไม่แน่นอน; ความลังเล","ex":"There is uncertainty about the future.","exTh":"อนาคตยังมีความไม่แน่นอน"}
+{"id":"widespread_adj","th":"แพร่หลาย; กว้างขวาง","ex":"The flu is widespread this winter.","exTh":"ไข้หวัดใหญ่ระบาดอย่างกว้างขวางในฤดูหนาวนี้"}
+{"id":"somehow_adv","th":"ด้วยวิธีใดวิธีหนึ่ง; ไม่รู้ทำไม","ex":"Somehow we found our way home.","exTh":"เราหาทางกลับบ้านจนได้ ไม่รู้ว่าทำได้อย่างไร"}
+{"id":"correction_noun","th":"การแก้ไข; คำแก้","ex":"The teacher made a correction on my essay.","exTh":"ครูแก้คำผิดในเรียงความของฉัน"}
+{"id":"nutrition_noun","th":"โภชนาการ; คุณค่าทางอาหาร","ex":"Good nutrition is important for children.","exTh":"โภชนาการที่ดีสำคัญสำหรับเด็ก"}
+{"id":"outline_verb","th":"ร่าง; สรุปเค้าโครง; วาดเส้นรอบ","ex":"She outlined her plan to the team.","exTh":"เธอสรุปแผนของเธอให้ทีมฟังคร่าวๆ"}
+{"id":"proud_adj","th":"ภูมิใจ; หยิ่ง","ex":"I am proud of my daughter.","exTh":"ฉันภูมิใจในลูกสาวของฉัน"}
+{"id":"brick_noun","th":"อิฐ","ex":"The house is built of red brick.","exTh":"บ้านหลังนี้สร้างด้วยอิฐแดง"}
+{"id":"rolling_adj","th":"ที่กลิ้ง; ลาดเลื่อนเป็นลูกคลื่น; ต่อเนื่อง","ex":"We drove through rolling green hills.","exTh":"เราขับรถผ่านเนินเขาสีเขียวที่ลาดเป็นลูกคลื่น"}
+{"id":"lab_noun","th":"ห้องแล็บ; ห้องปฏิบัติการ","ex":"The students work in the science lab.","exTh":"นักเรียนทำงานในห้องแล็บวิทยาศาสตร์","note":"ย่อมาจาก laboratory"}
+{"id":"equality_noun","th":"ความเท่าเทียม; ความเสมอภาค","ex":"They fight for equality at work.","exTh":"พวกเขาต่อสู้เพื่อความเท่าเทียมในที่ทำงาน"}
+{"id":"neighborhood_noun","th":"ย่านที่อยู่อาศัย; เพื่อนบ้าน; บริเวณใกล้เคียง","ex":"We live in a quiet neighborhood.","exTh":"เราอาศัยอยู่ในย่านที่เงียบสงบ","note":"อังกฤษเขียน neighbourhood"}
+{"id":"worthy_adj","th":"คู่ควร; มีค่า; น่านับถือ","ex":"He is worthy of your trust.","exTh":"เขาเป็นคนที่คู่ควรกับความไว้ใจของคุณ"}
+{"id":"wound_noun","th":"บาดแผล; แผล","ex":"The nurse cleaned the wound.","exTh":"พยาบาลทำความสะอาดบาดแผล"}
+{"id":"sphere_noun","th":"ทรงกลม; ลูกบอล; ขอบเขต","ex":"A ball is a sphere.","exTh":"ลูกบอลเป็นทรงกลม"}
+{"id":"peculiar_adj","th":"แปลก; ประหลาด; เฉพาะตัว","ex":"There is a peculiar smell in this room.","exTh":"ในห้องนี้มีกลิ่นแปลกๆ"}
+{"id":"monitor_noun","th":"จอภาพ; เครื่องตรวจวัด; ผู้คุมสอบ","ex":"I need a bigger monitor for my computer.","exTh":"ฉันต้องการจอคอมพิวเตอร์ที่ใหญ่ขึ้น"}
+{"id":"monitor_verb","th":"ติดตามตรวจสอบ; เฝ้าดู; ตรวจวัด","ex":"Nurses monitor the patient all night.","exTh":"พยาบาลเฝ้าติดตามอาการผู้ป่วยทั้งคืน"}
+{"id":"attachment_noun","th":"ไฟล์แนบ; ความผูกพัน; ส่วนที่ต่อเพิ่ม","ex":"I opened the attachment in your email.","exTh":"ฉันเปิดไฟล์แนบในอีเมลของคุณ"}
+{"id":"filling_noun","th":"ไส้ (อาหาร); วัสดุอุดฟัน","ex":"The pie has an apple filling.","exTh":"พายนี้มีไส้แอปเปิล"}
+{"id":"trail_noun","th":"ทางเดินป่า; รอย; เส้นทาง","ex":"We walked along a trail in the forest.","exTh":"เราเดินไปตามทางเดินในป่า"}
+{"id":"lift_noun","th":"ลิฟต์ (อังกฤษ); การให้ติดรถไปด้วย; การยก","ex":"Can you give me a lift to the station?","exTh":"คุณช่วยให้ฉันติดรถไปส่งที่สถานีได้ไหม","note":"สำเนียงอังกฤษ ลิฟต์ในอเมริกาคือ elevator"}
+{"id":"lift_verb","th":"ยก; ยกขึ้น; ยกเลิก","ex":"He cannot lift the heavy box.","exTh":"เขายกกล่องหนักไม่ไหว"}
+{"id":"appreciation_noun","th":"ความซาบซึ้ง; ความขอบคุณ; การเห็นคุณค่า","ex":"She sent flowers to show her appreciation.","exTh":"เธอส่งดอกไม้มาเพื่อแสดงความขอบคุณ"}
+{"id":"strip_noun","th":"แถบ; ชิ้นยาว; ผืนยาว","ex":"Cut the paper into thin strips.","exTh":"ตัดกระดาษเป็นแถบบางๆ"}
+{"id":"deny_verb","th":"ปฏิเสธ; ไม่ยอมรับ; ไม่ให้","ex":"He denied taking the money.","exTh":"เขาปฏิเสธว่าไม่ได้เอาเงินไป"}
+{"id":"push_noun","th":"การผลัก; การดัน; ความพยายามอย่างหนัก","ex":"Give the door a gentle push.","exTh":"ลองผลักประตูเบาๆ ดู"}
+{"id":"prize_noun","th":"รางวัล","ex":"She won first prize in the contest.","exTh":"เธอได้รางวัลที่หนึ่งในการประกวด"}

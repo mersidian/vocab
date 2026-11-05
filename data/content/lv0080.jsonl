@@ -1,0 +1,100 @@
+{"id": "synthetic_adj", "th": "สังเคราะห์; ที่ไม่ใช่ธรรมชาติ", "ex": "This jacket is made of synthetic fabric.", "exTh": "เสื้อแจ็กเก็ตตัวนี้ทำจากผ้าสังเคราะห์"}
+{"id": "testament_noun", "th": "หลักฐานยืนยัน; พินัยกรรม", "ex": "The new bridge is a testament to their hard work.", "exTh": "สะพานใหม่เป็นหลักฐานยืนยันความทุ่มเทของพวกเขา"}
+{"id": "lodge_verb", "th": "พักอาศัย; ยื่น (เรื่องร้องเรียน); ติดค้าง", "ex": "She lodged a complaint with the airline.", "exTh": "เธอยื่นเรื่องร้องเรียนต่อสายการบิน"}
+{"id": "prospective_adj", "th": "ที่คาดว่าจะเป็น; ที่ในอนาคต", "ex": "The company met with prospective buyers.", "exTh": "บริษัทพบกับผู้ที่น่าจะเป็นผู้ซื้อ"}
+{"id": "elastic_noun", "th": "ยางยืด; เชือกยาง", "ex": "The elastic in my socks has worn out.", "exTh": "ยางยืดในถุงเท้าของฉันหมดสภาพแล้ว"}
+{"id": "elastic_adj", "th": "ยืดหยุ่นได้", "ex": "The waistband is made of elastic material.", "exTh": "ขอบเอวทำจากวัสดุยืดหยุ่น"}
+{"id": "inclusive_adj", "th": "รวมทุกอย่าง; ครอบคลุม", "ex": "The price is inclusive of breakfast.", "exTh": "ราคานี้รวมอาหารเช้าแล้ว"}
+{"id": "resort_verb", "th": "หันไปพึ่ง; ใช้วิธี (เมื่อไม่มีทางเลือก)", "ex": "They resorted to selling their car for cash.", "exTh": "พวกเขาต้องหันไปขายรถเพื่อเอาเงิน"}
+{"id": "hanging_noun", "th": "การแขวน; ผ้าแขวนผนัง", "ex": "The wall hanging was woven by hand.", "exTh": "ผ้าแขวนผนังผืนนี้ทอด้วยมือ"}
+{"id": "profound_adj", "th": "ลึกซึ้ง; รุนแรงมาก", "ex": "The book had a profound effect on me.", "exTh": "หนังสือเล่มนี้ส่งผลลึกซึ้งต่อฉัน"}
+{"id": "withdrawn_adj", "th": "เก็บตัว; ไม่ค่อยพูดคุย", "ex": "Since the accident, he has been quiet and withdrawn.", "exTh": "ตั้งแต่เกิดอุบัติเหตุ เขาเงียบและเก็บตัว"}
+{"id": "fatigue_noun", "th": "ความเหนื่อยล้า", "ex": "Long flights can cause severe fatigue.", "exTh": "การบินระยะไกลอาจทำให้เหนื่อยล้ามาก"}
+{"id": "collaboration_noun", "th": "ความร่วมมือ; การทำงานร่วมกัน", "ex": "The album is a collaboration between two singers.", "exTh": "อัลบั้มนี้เป็นผลงานความร่วมมือของนักร้องสองคน"}
+{"id": "cavity_noun", "th": "โพรง; ฟันผุ", "ex": "The dentist found a cavity in my tooth.", "exTh": "ทันตแพทย์พบฟันผุที่ซี่ของฉัน"}
+{"id": "induction_noun", "th": "การปฐมนิเทศ; การชักนำ; การเหนี่ยวนำ", "ex": "New staff attend an induction on their first day.", "exTh": "พนักงานใหม่เข้าร่วมการปฐมนิเทศในวันแรก"}
+{"id": "contest_verb", "th": "โต้แย้ง; แข่งขันเพื่อชิง", "ex": "He plans to contest the parking fine.", "exTh": "เขาวางแผนจะโต้แย้งค่าปรับจอดรถ"}
+{"id": "elaborate_adj", "th": "ซับซ้อนประณีต; พิถีพิถัน", "ex": "They made an elaborate plan for the party.", "exTh": "พวกเขาวางแผนจัดงานเลี้ยงอย่างพิถีพิถัน"}
+{"id": "elaborate_verb", "th": "อธิบายเพิ่มเติม; ขยายความ", "ex": "Could you elaborate on your idea?", "exTh": "คุณช่วยขยายความความคิดของคุณหน่อยได้ไหม"}
+{"id": "drill_verb", "th": "เจาะ; ฝึกซ้ำๆ", "ex": "The workers drilled a hole in the wall.", "exTh": "คนงานเจาะรูที่ผนัง"}
+{"id": "continuity_noun", "th": "ความต่อเนื่อง", "ex": "The team wants continuity in the project.", "exTh": "ทีมต้องการให้โครงการดำเนินไปอย่างต่อเนื่อง"}
+{"id": "notable_adj", "th": "น่าสังเกต; โดดเด่น", "ex": "The city is notable for its old temples.", "exTh": "เมืองนี้มีชื่อเสียงโดดเด่นเรื่องวัดเก่า"}
+{"id": "burst_noun", "th": "การระเบิดออก; ช่วงเวลาสั้นๆ ที่เกิดขึ้นทันที", "ex": "A burst of laughter came from the room.", "exTh": "เสียงหัวเราะดังขึ้นมาจากห้อง"}
+{"id": "likelihood_noun", "th": "ความน่าจะเป็น; โอกาสที่จะเกิด", "ex": "There is a strong likelihood of rain tonight.", "exTh": "คืนนี้มีโอกาสสูงที่ฝนจะตก"}
+{"id": "psychiatric_adj", "th": "ทางจิตเวช", "ex": "She works in a psychiatric hospital.", "exTh": "เธอทำงานในโรงพยาบาลจิตเวช"}
+{"id": "sketch_noun", "th": "ภาพร่าง; ละครสั้น", "ex": "He made a quick sketch of the building.", "exTh": "เขาวาดภาพร่างของอาคารอย่างรวดเร็ว"}
+{"id": "norms_noun", "th": "บรรทัดฐาน; ค่านิยมที่ยอมรับกัน", "ex": "Social norms differ from country to country.", "exTh": "บรรทัดฐานทางสังคมต่างกันไปในแต่ละประเทศ", "note": "ใช้รูปพหูพจน์"}
+{"id": "fusion_noun", "th": "การรวมกัน; การหลอมรวม", "ex": "The restaurant serves a fusion of Thai and Italian food.", "exTh": "ร้านนี้เสิร์ฟอาหารฟิวชันผสมไทยกับอิตาลี"}
+{"id": "principally_adv", "th": "เป็นหลัก; ส่วนใหญ่", "ex": "The tour is aimed principally at young travelers.", "exTh": "ทัวร์นี้เน้นกลุ่มนักท่องเที่ยวรุ่นเยาว์เป็นหลัก"}
+{"id": "salvation_noun", "th": "การช่วยให้รอด; ทางรอด", "ex": "The new job was her salvation.", "exTh": "งานใหม่นี้เป็นทางรอดของเธอ"}
+{"id": "characterization_noun", "th": "การสร้างตัวละคร; การอธิบายลักษณะ", "ex": "The novel is praised for its strong characterization.", "exTh": "นวนิยายเล่มนี้ได้รับคำชมเรื่องการสร้างตัวละครที่ชัดเจน"}
+{"id": "hostile_adj", "th": "เป็นปฏิปักษ์; ไม่เป็นมิตร", "ex": "The crowd was hostile towards the speaker.", "exTh": "ฝูงชนแสดงท่าทีไม่เป็นมิตรต่อผู้พูด"}
+{"id": "ordinarily_adv", "th": "โดยปกติ; ตามธรรมดา", "ex": "Ordinarily, I wake up at six.", "exTh": "โดยปกติฉันตื่นตอนหกโมง"}
+{"id": "conform_verb", "th": "ปฏิบัติตาม; ทำให้สอดคล้อง", "ex": "All products must conform to safety standards.", "exTh": "สินค้าทุกชนิดต้องเป็นไปตามมาตรฐานความปลอดภัย"}
+{"id": "inheritance_noun", "th": "มรดก; การสืบทอด", "ex": "She used her inheritance to buy a house.", "exTh": "เธอใช้เงินมรดกซื้อบ้าน"}
+{"id": "shed_verb", "th": "ผลัด; ลอก; ทิ้ง", "ex": "Snakes shed their skin as they grow.", "exTh": "งูลอกคราบเมื่อโตขึ้น"}
+{"id": "pertinent_adj", "th": "ที่เกี่ยวข้องโดยตรง; ตรงประเด็น", "ex": "She asked a very pertinent question.", "exTh": "เธอถามคำถามที่ตรงประเด็นมาก"}
+{"id": "degradation_noun", "th": "ความเสื่อมโทรม; การเสื่อมสภาพ", "ex": "Pollution causes serious environmental degradation.", "exTh": "มลพิษทำให้สิ่งแวดล้อมเสื่อมโทรมอย่างรุนแรง"}
+{"id": "sustainable_adj", "th": "ที่ยั่งยืน", "ex": "We need sustainable ways to produce energy.", "exTh": "เราต้องการวิธีผลิตพลังงานที่ยั่งยืน"}
+{"id": "exploitation_noun", "th": "การเอารัดเอาเปรียบ; การใช้ประโยชน์", "ex": "Child labor is a form of exploitation.", "exTh": "การใช้แรงงานเด็กเป็นรูปแบบหนึ่งของการเอารัดเอาเปรียบ"}
+{"id": "launch_noun", "th": "การเปิดตัว; การปล่อย (จรวด)", "ex": "The launch of the new phone is next week.", "exTh": "การเปิดตัวโทรศัพท์รุ่นใหม่จะมีขึ้นสัปดาห์หน้า"}
+{"id": "aesthetic_adj", "th": "ทางสุนทรียภาพ; เกี่ยวกับความงาม", "ex": "The building has great aesthetic appeal.", "exTh": "อาคารนี้มีเสน่ห์ด้านความงามอย่างมาก"}
+{"id": "spontaneous_adj", "th": "เกิดขึ้นเอง; ฉับพลันโดยไม่ได้วางแผน", "ex": "We took a spontaneous trip to the beach.", "exTh": "เราไปเที่ยวทะเลแบบกะทันหันโดยไม่ได้วางแผน"}
+{"id": "customary_adj", "th": "ตามธรรมเนียม; ตามปกติ", "ex": "It is customary to remove shoes before entering.", "exTh": "ตามธรรมเนียมแล้วต้องถอดรองเท้าก่อนเข้า"}
+{"id": "buffer_verb", "th": "ปกป้องจากแรงกระแทก; ป้องกันผลกระทบ", "ex": "Savings can buffer you against sudden costs.", "exTh": "เงินออมช่วยป้องกันผลกระทบจากค่าใช้จ่ายฉุกเฉิน"}
+{"id": "buffer_noun", "th": "กันชน; ตัวกันกระแทก; พื้นที่ป้องกัน", "ex": "The park acts as a buffer between homes and the road.", "exTh": "สวนสาธารณะทำหน้าที่เป็นพื้นที่กั้นระหว่างบ้านกับถนน"}
+{"id": "immense_adj", "th": "ใหญ่โตมหึมา; มหาศาล", "ex": "The ship was of immense size.", "exTh": "เรือลำนั้นมีขนาดใหญ่โตมหึมา"}
+{"id": "prophet_noun", "th": "ศาสดา; ผู้พยากรณ์", "ex": "The prophet warned people about the coming flood.", "exTh": "ศาสดาเตือนผู้คนถึงน้ำท่วมที่จะมาถึง"}
+{"id": "simplicity_noun", "th": "ความเรียบง่าย", "ex": "I love the simplicity of his design.", "exTh": "ฉันชอบความเรียบง่ายในงานออกแบบของเขา"}
+{"id": "trauma_noun", "th": "บาดแผลทางใจ; การบาดเจ็บร้ายแรง", "ex": "She still suffers from the trauma of the accident.", "exTh": "เธอยังคงทุกข์ทรมานจากบาดแผลทางใจของอุบัติเหตุครั้งนั้น"}
+{"id": "peninsula_noun", "th": "คาบสมุทร", "ex": "Malaysia is partly on the Malay peninsula.", "exTh": "มาเลเซียส่วนหนึ่งอยู่บนคาบสมุทรมลายู"}
+{"id": "scenario_noun", "th": "สถานการณ์สมมติ; เหตุการณ์ที่อาจเกิดขึ้น", "ex": "In the worst scenario, we would lose the house.", "exTh": "ในกรณีเลวร้ายที่สุด เราอาจเสียบ้านไป"}
+{"id": "pioneer_verb", "th": "เป็นผู้บุกเบิก; ริเริ่ม", "ex": "She pioneered a new way to teach children.", "exTh": "เธอริเริ่มวิธีใหม่ในการสอนเด็ก"}
+{"id": "pioneer_noun", "th": "ผู้บุกเบิก; ผู้ริเริ่ม", "ex": "He was a pioneer of Thai cinema.", "exTh": "เขาเป็นผู้บุกเบิกวงการภาพยนตร์ไทย"}
+{"id": "maternal_adj", "th": "เกี่ยวกับแม่; ทางฝ่ายแม่", "ex": "My maternal grandmother lives in Isan.", "exTh": "ยายของฉันอาศัยอยู่ที่อีสาน"}
+{"id": "exhaust_verb", "th": "ทำให้เหนื่อยล้าสุดๆ; ใช้จนหมด", "ex": "The long hike exhausted all of us.", "exTh": "การเดินป่าไกลทำให้เราทุกคนเหนื่อยล้าสุดๆ"}
+{"id": "purity_noun", "th": "ความบริสุทธิ์; ความสะอาด", "ex": "The company tests the purity of its water.", "exTh": "บริษัททดสอบความบริสุทธิ์ของน้ำ"}
+{"id": "sentiment_noun", "th": "ความรู้สึก; ความเห็นโดยรวม", "ex": "Public sentiment is against the new tax.", "exTh": "ความรู้สึกของประชาชนไม่เห็นด้วยกับภาษีใหม่"}
+{"id": "subordinate_noun", "th": "ผู้ใต้บังคับบัญชา", "ex": "A good boss treats subordinates with respect.", "exTh": "เจ้านายที่ดีปฏิบัติต่อลูกน้องด้วยความเคารพ"}
+{"id": "ventilation_noun", "th": "การระบายอากาศ", "ex": "The kitchen needs better ventilation.", "exTh": "ห้องครัวต้องการการระบายอากาศที่ดีกว่านี้"}
+{"id": "assertion_noun", "th": "การยืนยัน; ข้ออ้างที่เสนอ", "ex": "He made a bold assertion without any proof.", "exTh": "เขายืนยันอย่างมั่นใจโดยไม่มีหลักฐานใดเลย"}
+{"id": "anthropology_noun", "th": "มานุษยวิทยา", "ex": "She studied anthropology at university.", "exTh": "เธอเรียนมานุษยวิทยาที่มหาวิทยาลัย"}
+{"id": "citation_noun", "th": "การอ้างอิง; ใบสั่ง", "ex": "Every essay needs a citation for each source.", "exTh": "เรียงความทุกชิ้นต้องมีการอ้างอิงแหล่งที่มาทุกแหล่ง"}
+{"id": "peasant_noun", "th": "ชาวนา; ชาวไร่ชาวนา", "ex": "Peasants worked the land for the lord.", "exTh": "ชาวนาทำงานในที่ดินให้เจ้านาย"}
+{"id": "descent_noun", "th": "การลงมา; เชื้อสาย", "ex": "The plane began its descent into Bangkok.", "exTh": "เครื่องบินเริ่มลดระดับลงสู่กรุงเทพฯ"}
+{"id": "apt_adj", "th": "เหมาะสม; มีแนวโน้มที่จะ", "ex": "That was an apt description of the situation.", "exTh": "นั่นเป็นคำบรรยายสถานการณ์ที่เหมาะสมมาก"}
+{"id": "frost_verb", "th": "ทำให้เป็นน้ำค้างแข็ง; เคลือบน้ำตาล", "ex": "She frosted the cake with white icing.", "exTh": "เธอเคลือบเค้กด้วยไอซิ่งสีขาว"}
+{"id": "portable_adj", "th": "พกพาได้", "ex": "I bought a portable speaker for the trip.", "exTh": "ฉันซื้อลำโพงพกพาไว้ใช้ตอนเดินทาง"}
+{"id": "portable_noun", "th": "ของที่พกพาได้; อาคารสำเร็จรูป", "ex": "The school used a portable as an extra classroom.", "exTh": "โรงเรียนใช้อาคารสำเร็จรูปเป็นห้องเรียนเพิ่ม"}
+{"id": "conditional_adj", "th": "มีเงื่อนไข", "ex": "The job offer is conditional on a medical test.", "exTh": "ข้อเสนองานมีเงื่อนไขว่าต้องผ่านการตรวจสุขภาพ"}
+{"id": "rendering_noun", "th": "ภาพจำลอง; การแสดง; การแปล", "ex": "The artist made a rendering of the new park.", "exTh": "ศิลปินทำภาพจำลองของสวนสาธารณะแห่งใหม่"}
+{"id": "adjoining_adj", "th": "ติดกัน; ที่อยู่ติดกัน", "ex": "We booked two adjoining rooms.", "exTh": "เราจองห้องพักสองห้องที่อยู่ติดกัน"}
+{"id": "ego_noun", "th": "อัตตา; ความรู้สึกถึงตัวตน; ความทะนงตัว", "ex": "His success was bad for his ego.", "exTh": "ความสำเร็จส่งผลไม่ดีต่ออัตตาของเขา"}
+{"id": "conformity_noun", "th": "การทำตามกฎ; ความเหมือนกัน", "ex": "The school demands conformity to its rules.", "exTh": "โรงเรียนเรียกร้องให้ปฏิบัติตามกฎอย่างเคร่งครัด"}
+{"id": "accustomed_adj", "th": "เคยชิน; คุ้นเคย", "ex": "I am not accustomed to waking up so early.", "exTh": "ฉันไม่เคยชินกับการตื่นเช้าขนาดนี้"}
+{"id": "quest_noun", "th": "การเสาะหา; การแสวงหา", "ex": "He went on a quest to find his birth mother.", "exTh": "เขาออกเสาะหาแม่ที่ให้กำเนิดของตน"}
+{"id": "exterior_noun", "th": "ภายนอก; ผิวด้านนอก", "ex": "The exterior of the house needs painting.", "exTh": "ภายนอกของบ้านต้องทาสีใหม่"}
+{"id": "obscure_verb", "th": "บดบัง; ทำให้ไม่ชัด", "ex": "Thick clouds obscured the mountain top.", "exTh": "เมฆหนาบดบังยอดเขา"}
+{"id": "obscure_adj", "th": "ไม่ชัดเจน; ไม่มีชื่อเสียง", "ex": "He is an obscure poet from the 1800s.", "exTh": "เขาเป็นกวีที่ไม่ค่อยมีใครรู้จักจากศตวรรษที่ 19"}
+{"id": "legacy_noun", "th": "มรดก; ผลที่ตกทอด", "ex": "The artist left a rich cultural legacy.", "exTh": "ศิลปินผู้นี้ทิ้งมรดกทางวัฒนธรรมอันมั่งคั่งไว้"}
+{"id": "carpenter_noun", "th": "ช่างไม้", "ex": "The carpenter built a new wooden door.", "exTh": "ช่างไม้ทำประตูไม้บานใหม่"}
+{"id": "stimuli_noun", "th": "สิ่งกระตุ้น", "ex": "Babies react to stimuli such as light and sound.", "exTh": "ทารกตอบสนองต่อสิ่งกระตุ้นอย่างแสงและเสียง", "note": "เป็นพหูพจน์ของ stimulus"}
+{"id": "fossil_noun", "th": "ซากดึกดำบรรพ์; ฟอสซิล", "ex": "They found a dinosaur fossil in the rock.", "exTh": "พวกเขาพบฟอสซิลไดโนเสาร์ในหิน"}
+{"id": "humble_verb", "th": "ทำให้ถ่อมตน; ทำให้เจียมตัว", "ex": "Losing the match humbled the champion.", "exTh": "การแพ้การแข่งขันทำให้แชมป์รู้จักถ่อมตน"}
+{"id": "superficial_adj", "th": "ผิวเผิน; ตื้นเขิน", "ex": "She has only a superficial knowledge of law.", "exTh": "เธอมีความรู้เรื่องกฎหมายแค่ผิวเผิน"}
+{"id": "mutually_adv", "th": "ซึ่งกันและกัน; ร่วมกัน", "ex": "The two sides agreed on a mutually helpful plan.", "exTh": "สองฝ่ายตกลงแผนที่เป็นประโยชน์ต่อกันและกัน"}
+{"id": "alignment_noun", "th": "การจัดแนว; การเรียงให้ตรง; การเป็นพันธมิตร", "ex": "The mechanic checked the wheel alignment.", "exTh": "ช่างตรวจการตั้งศูนย์ล้อ"}
+{"id": "uniformity_noun", "th": "ความเหมือนกัน; ความสม่ำเสมอ", "ex": "The boring uniformity of the houses bothered me.", "exTh": "ความเหมือนกันน่าเบื่อของบ้านทุกหลังทำให้ฉันรำคาญ"}
+{"id": "demographic_adj", "th": "ทางประชากรศาสตร์", "ex": "The city is facing demographic change.", "exTh": "เมืองกำลังเผชิญการเปลี่ยนแปลงทางประชากร"}
+{"id": "demographic_noun", "th": "กลุ่มประชากร", "ex": "The show is popular with the young demographic.", "exTh": "รายการนี้ได้รับความนิยมในกลุ่มประชากรวัยรุ่น"}
+{"id": "imperative_adj", "th": "จำเป็นอย่างยิ่ง; เร่งด่วน; เป็นคำสั่ง", "ex": "It is imperative that we leave now.", "exTh": "เราจำเป็นต้องออกเดินทางเดี๋ยวนี้"}
+{"id": "query_verb", "th": "สอบถาม; ตั้งข้อสงสัย", "ex": "She queried the bill with the waiter.", "exTh": "เธอสอบถามเรื่องบิลกับบริกร"}
+{"id": "anchor_verb", "th": "ทอดสมอ; ยึดให้มั่น", "ex": "The ship anchored near the island.", "exTh": "เรือทอดสมอใกล้เกาะ"}
+{"id": "resin_noun", "th": "ยางไม้; เรซิน", "ex": "Pine trees produce a sticky resin.", "exTh": "ต้นสนผลิตยางไม้เหนียวๆ"}
+{"id": "tune_verb", "th": "ปรับเสียง; ปรับจูน", "ex": "He tuned his guitar before the show.", "exTh": "เขาตั้งสายกีตาร์ก่อนขึ้นแสดง"}
+{"id": "constraint_noun", "th": "ข้อจำกัด; ข้อบังคับ", "ex": "Time is a major constraint for this project.", "exTh": "เวลาเป็นข้อจำกัดสำคัญของโครงการนี้"}
+{"id": "pose_verb", "th": "สร้าง (ปัญหา); ตั้ง (คำถาม); โพสท่า", "ex": "The storm poses a danger to boats.", "exTh": "พายุเป็นอันตรายต่อเรือ"}
+{"id": "manipulation_noun", "th": "การปั่นหัว; การชักใย; การจัดการ", "ex": "He was angry at the manipulation of the data.", "exTh": "เขาโกรธการบิดเบือนข้อมูล"}
+{"id": "negligible_adj", "th": "เล็กน้อยมาก; ไม่สำคัญ", "ex": "The difference in cost is negligible.", "exTh": "ความต่างของต้นทุนน้อยมากจนไม่สำคัญ"}
+{"id": "bloom_verb", "th": "ออกดอก; เบ่งบาน", "ex": "The cherry trees bloom in early spring.", "exTh": "ต้นซากุระออกดอกในต้นฤดูใบไม้ผลิ"}
+{"id": "acoustic_adj", "th": "เกี่ยวกับเสียง; อะคูสติก", "ex": "He played an acoustic guitar at the cafe.", "exTh": "เขาเล่นกีตาร์อะคูสติกที่ร้านกาแฟ"}

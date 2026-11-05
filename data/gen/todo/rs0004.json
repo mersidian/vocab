@@ -1,0 +1,877 @@
+[
+{
+"id": "quantum_x",
+"w": "quantum",
+"gloss": [
+"The total amount of something; quantity.",
+"The amount of compensation awarded to a successful party in a lawsuit.",
+"The length or magnitude of the sentence handed down to someone who has been found guilty of a crime."
+]
+},
+{
+"id": "procurement_x",
+"w": "procurement",
+"gloss": [
+"The purchasing department of a company.",
+"The act of procuring or obtaining; obtainment; attainment.",
+"Efficient contrivance; management; agency."
+]
+},
+{
+"id": "linguistic_x",
+"w": "linguistic",
+"gloss": [
+"Of or relating to language.",
+"Of or relating to linguistics.",
+"Relating to a computer language."
+]
+},
+{
+"id": "delegation_x",
+"w": "delegation",
+"gloss": [
+"An act of delegating.",
+"The condition of being delegated.",
+"A group of delegates."
+]
+},
+{
+"id": "sociology_x",
+"w": "sociology",
+"gloss": [
+"A social science that studies society, human social interaction, patterns of social relationships, and the interactions of culture. Through both theory and applied research, it engages subject matters across a range of microanalysis, mesoanalysis, and macroanalysis."
+]
+},
+{
+"id": "defect_x",
+"w": "defect",
+"gloss": [
+"A fault or malfunction.",
+"The quantity or amount by which anything falls short.",
+"A part by which a figure or quantity is wanting or deficient."
+]
+},
+{
+"id": "node_x",
+"w": "node",
+"gloss": [
+"A knot, knob, protuberance or swelling.",
+"The point where the orbit of a planet, as viewed from the Sun, intersects the ecliptic. The ascending and descending nodes refer respectively to the points where the planet moves from South to North and N to S; their respective symbols are ☊ and ☋.",
+"A leaf node."
+]
+},
+{
+"id": "tech_x",
+"w": "tech",
+"gloss": [
+"Technology.",
+"Technology businesses or the technology industry, especially in the field of computing and the Internet.",
+"Technician; technologist."
+]
+},
+{
+"id": "cord_x",
+"w": "cord",
+"gloss": [
+"A long, thin, flexible length of twisted yarns (strands) of fibre (a rope, for example).",
+"Any quantity of such material when viewed as a mass or commodity.",
+"A small flexible electrical conductor composed of wires insulated separately or in bundles and assembled together usually with an outer cover; the electrical cord of a lamp, sweeper ((US) vacuum cleaner), or other appliance."
+]
+},
+{
+"id": "spouse_x",
+"w": "spouse",
+"gloss": [
+"A person in a marriage or marital relationship.",
+"To wed; to espouse."
+]
+},
+{
+"id": "therapeutic_x",
+"w": "therapeutic",
+"gloss": [
+"Of, or relating to therapy.",
+"Having a positive effect on the body or mind.",
+"A therapeutic agent"
+]
+},
+{
+"id": "alien_x",
+"w": "alien",
+"gloss": [
+"A person, animal, plant, or other thing which is from outside the family, group, organization, or territory under consideration.",
+"A citizen or national of another sovereign state.",
+"A mischievous or suspicious foreigner."
+]
+},
+{
+"id": "precipitation_x",
+"w": "precipitation",
+"gloss": [
+"Any or all of the forms of water particles, whether liquid or solid, that fall from the upper atmosphere (e.g., rain, hail, snow or sleet). It is a major class of hydrometeor, but it is distinguished from cloud, fog, dew, rime, frost, etc., in that it must fall. It is distinguished from cloud and virga in that it must reach the ground.",
+"The amount of water precipitated in any form.",
+"A hurried headlong fall."
+]
+},
+{
+"id": "consistently_x",
+"w": "consistently",
+"gloss": [
+"In a consistent manner.",
+"constantly; always."
+]
+},
+{
+"id": "indigenous_x",
+"w": "indigenous",
+"gloss": [
+"Native to a land, especially before colonization.",
+"In particular, of or relating to a people (or their language or culture) that inhabited a region prior to the arrival of people of other cultures which became dominant (e.g., through colonialism), and which maintains a distinct culture.",
+"Innate, inborn."
+]
+},
+{
+"id": "overview_x",
+"w": "overview",
+"gloss": [
+"A brief summary, as of a book or a presentation.",
+"A view from above.",
+"An inspection."
+]
+},
+{
+"id": "levy_x",
+"w": "levy",
+"gloss": [
+"To impose (a tax or fine) to collect monies due, or to confiscate property.",
+"To raise or collect by assessment; to exact by authority.",
+"To draft someone into military service."
+]
+},
+{
+"id": "dividend_x",
+"w": "dividend",
+"gloss": [
+"A cash payment of money by a company to its shareholders, usually made periodically (e.g., quarterly or annually).",
+"A number or expression that is to be divided by another.",
+"Beneficial results from a metaphorical investment (of time, effort, etc.)"
+]
+},
+{
+"id": "issuance_x",
+"w": "issuance",
+"gloss": [
+"The act of issuing, or giving out.",
+"Something issued."
+]
+},
+{
+"id": "interim_x",
+"w": "interim",
+"gloss": [
+"transitional",
+"temporary",
+"A transitional or temporary period between other events."
+]
+},
+{
+"id": "locally_x",
+"w": "locally",
+"gloss": [
+"With respect to place; in place.",
+"In or from the local area.",
+"In a restricted part of the body."
+]
+},
+{
+"id": "submission_x",
+"w": "submission",
+"gloss": [
+"The act of submitting or yielding; surrender.",
+"The act of submitting or giving e.g. a completed piece of work.",
+"The thing which has been submitted."
+]
+},
+{
+"id": "delta_x",
+"w": "delta",
+"gloss": [
+"The fourth letter of the modern Greek alphabet Δ, δ.",
+"A landform at the mouth of a river where it empties into a body of water.",
+"The symbol Δ; A change in a quantity, likely from \"d\" for \"difference\"."
+]
+},
+{
+"id": "friction_x",
+"w": "friction",
+"gloss": [
+"The rubbing of one object or surface against another.",
+"A force that resists the relative motion or tendency to such motion of two bodies in contact.",
+"A massage of the body to restore circulation."
+]
+},
+{
+"id": "deviation_x",
+"w": "deviation",
+"gloss": [
+"The act of deviating; wandering off the correct or true path or road.",
+"A departure from the correct way of acting.",
+"The state or result of having deviated; a transgression; an act of sin; an error; an offense."
+]
+},
+{
+"id": "tolerance_x",
+"w": "tolerance",
+"gloss": [
+"The ability to endure pain or hardship; endurance.",
+"The ability or practice of tolerating; an acceptance of or patience with the beliefs, opinions or practices of others; a lack of bigotry.",
+"The ability of the body (or other organism) to resist the action of a poison, to cope with a dangerous drug or to survive infection by an organism."
+]
+},
+{
+"id": "virgin_x",
+"w": "virgin",
+"gloss": [
+"A person who has never had sexual intercourse, or (uncommonly) an animal that has never mated.",
+"A person who has never engaged in any sexual activity at all.",
+"Someone vowed to virginity (usually a woman and often a consecrated virgin), or someone who died in defense of their virginity; (especially) one venerated as a saint."
+]
+},
+{
+"id": "intake_x",
+"w": "intake",
+"gloss": [
+"The place where water, air or other fluid is taken into a pipe or conduit; opposed to outlet.",
+"The beginning of a contraction or narrowing in a tube or cylinder.",
+"The quantity taken in."
+]
+},
+{
+"id": "glucose_x",
+"w": "glucose",
+"gloss": [
+"A simple monosaccharide (sugar) with a molecular formula of C₆H₁₂O₆; a principle source of energy for cellular metabolism."
+]
+},
+{
+"id": "formulation_x",
+"w": "formulation",
+"gloss": [
+"The act, process, or result of formulating or reducing to a formula.",
+"A particular linguistic construction; a turn of phrase.",
+"A medicinal preparation."
+]
+},
+{
+"id": "urine_x",
+"w": "urine",
+"gloss": [
+"Liquid waste consisting of water, salts, and urea, which is made in the kidneys, stored in the bladder, then released through the urethra.",
+"To urinate."
+]
+},
+{
+"id": "regression_x",
+"w": "regression",
+"gloss": [
+"An action of regressing, a return to a previous state.",
+"An action of travelling mentally back in time.",
+"A psychotherapeutic method whereby healing is facilitated by inducing the patient to act out behaviour typical of an earlier developmental stage."
+]
+},
+{
+"id": "grid_x",
+"w": "grid",
+"gloss": [
+"A rectangular array of squares or rectangles of equal size, such as in a crossword puzzle.",
+"A tiling of the plane with regular polygons; a honeycomb.",
+"A system for delivery of electricity, consisting of various substations, transformers and generators, connected by wire."
+]
+},
+{
+"id": "peripheral_x",
+"w": "peripheral",
+"gloss": [
+"On the periphery or boundary.",
+"Beside the point.",
+"Unimportant."
+]
+},
+{
+"id": "ongoing_x",
+"w": "ongoing",
+"gloss": [
+"Continuing, permanent, lasting.",
+"Presently or currently happening; being in progress.",
+"Something that is going on; a happening."
+]
+},
+{
+"id": "guardian_x",
+"w": "guardian",
+"gloss": [
+"Someone who guards, watches over, or protects.",
+"A person legally responsible for a minor (in loco parentis).",
+"A person legally responsible for an incompetent person."
+]
+},
+{
+"id": "cardiac_x",
+"w": "cardiac",
+"gloss": [
+"Pertaining to the heart.",
+"Pertaining to the cardia of the stomach; cardial (cardial is the usual adjective in this sense).",
+"Exciting action in the heart, through the medium of the stomach; cordial; stimulant."
+]
+},
+{
+"id": "overhead_x",
+"w": "overhead",
+"gloss": [
+"Located above, especially over the head.",
+"Kicked over one's own head.",
+"The expense of a business not directly assigned to goods or services provided."
+]
+},
+{
+"id": "tribal_x",
+"w": "tribal",
+"gloss": [
+"Of or relating to tribes.",
+"Based on or organized according to tribes.",
+"Phylogenic."
+]
+},
+{
+"id": "diplomatic_x",
+"w": "diplomatic",
+"gloss": [
+"Concerning the relationships between the governments of countries.",
+"Exhibiting diplomacy; exercising tact or courtesy; using discussion to avoid hard feelings, fights or arguments.",
+"Describing a publication of a text which follows a single basic manuscript, but with variants in other manuscripts noted in the critical apparatus."
+]
+},
+{
+"id": "affirmative_x",
+"w": "affirmative",
+"gloss": [
+"pertaining to truth; asserting that something is; affirming",
+"pertaining to any assertion or active confirmation that favors a particular result",
+"positive"
+]
+},
+{
+"id": "soluble_x",
+"w": "soluble",
+"gloss": [
+"Able to be dissolved.",
+"Able to be solved or explained."
+]
+},
+{
+"id": "architectural_x",
+"w": "architectural",
+"gloss": [
+"Pertaining to architecture.",
+"Resembling architecture in style; seeming to have been designed (by an architect)."
+]
+},
+{
+"id": "cumulative_x",
+"w": "cumulative",
+"gloss": [
+"Incorporating all current and previous data up to the present or at the time of measuring or collating.",
+"That is formed by an accumulation of successive additions.",
+"Adding one statement to another."
+]
+},
+{
+"id": "cluster_x",
+"w": "cluster",
+"gloss": [
+"A bunch or group of several discrete items that are close to each other.",
+"A group of galaxies, nebulae, or stars that appear to the naked eye to be near each other.",
+"An ensemble of bound atoms (especially of a metal) or molecules, intermediate in size between a molecule and a bulk solid."
+]
+},
+{
+"id": "adaptation_x",
+"w": "adaptation",
+"gloss": [
+"The process of adapting something or becoming adapted to a situation; adjustment, modification.",
+"A change that is made or undergone to suit a condition or environment.",
+"The process of replacing a given morpheme of a source lexeme with an equivalent morpheme of the target lexeme, especially where the two morphemes are cognates."
+]
+},
+{
+"id": "expertise_x",
+"w": "expertise",
+"gloss": [
+"Great skill or knowledge in a particular field or hobby.",
+"Advice, or opinion, of an expert.",
+"To supply with expert knowledge or advice."
+]
+},
+{
+"id": "chapel_x",
+"w": "chapel",
+"gloss": [
+"A place of worship, smaller than or subordinate to a church.",
+"A place of worship in another building or within a civil institution such as a larger church, airport, prison, monastery, school, etc.; often primarily for private prayer.",
+"A place of worship of a denomination not in conformity with the Church of England, usually Protestant; for example, of Nonconformist or Dissenter congregations."
+]
+},
+{
+"id": "immune_x",
+"w": "immune",
+"gloss": [
+"Exempt; not subject to.",
+"Protected by inoculation, or due to innate resistance to pathogens.",
+"Not vulnerable."
+]
+},
+{
+"id": "distinctive_x",
+"w": "distinctive",
+"gloss": [
+"Distinguishing, used to or enabling the distinguishing of some thing.",
+"Discriminating, discerning, having the ability to distinguish between things.",
+"Characteristic, typical."
+]
+},
+{
+"id": "annum_x",
+"w": "annum",
+"gloss": [
+"A one-year period, particularly (finance) a fiscal year or (sciences) a Julian year of exactly 365.25 days.",
+"A \"year\" determined by the revolution of an extraterrestrial planet."
+]
+},
+{
+"id": "stimulus_x",
+"w": "stimulus",
+"gloss": [
+"An external phenomenon that has an influence on a system, by triggering or modifying an internal phenomenon; for example, a spur or incentive that drives a person to take action or change behaviour.",
+"Something external that elicits or influences a physiological or psychological activity or response, or that affects any of the sensory apparatuses.",
+"A stinging part on the body of a plant or insect."
+]
+},
+{
+"id": "receptor_x",
+"w": "receptor",
+"gloss": [
+"A protein on a cell wall that binds with specific molecules so that they can be absorbed into the cell in order to control certain functions.",
+"Any specialized cell or structure that responds to sensory stimuli.",
+"One who receives something or someone; in particular, one who harbors a fugitive."
+]
+},
+{
+"id": "explicitly_x",
+"w": "explicitly",
+"gloss": [
+"In an explicit manner."
+]
+},
+{
+"id": "economically_x",
+"w": "economically",
+"gloss": [
+"In an economical manner; not wastefully; not extravagantly.",
+"From the perspective of economics or an economy.",
+"According to divine economy."
+]
+},
+{
+"id": "generator_x",
+"w": "generator",
+"gloss": [
+"An apparatus in which vapour or gas is formed from a liquid or solid by means of heat or chemical process, as a steam boiler, gas retort etc.",
+"The principal sound or sounds by which others are produced; the fundamental note or root of the common chord; -- see also generating tone.",
+"An interval that is repeatedly stacked to obtain other pitches in tuning systems or scales."
+]
+},
+{
+"id": "amplitude_x",
+"w": "amplitude",
+"gloss": [
+"The measure of the size of something, especially its width or breadth; largeness, magnitude.",
+"The maximum absolute value of the vertical component of a curve or function, especially one that is periodic.",
+"The maximum absolute value of some quantity that varies."
+]
+},
+{
+"id": "capita_x",
+"w": "capita",
+"gloss": [
+"person"
+]
+},
+{
+"id": "indicator_x",
+"w": "indicator",
+"gloss": [
+"A pointer or index that indicates something.",
+"A meter or gauge.",
+"The needle or dial on such a meter."
+]
+},
+{
+"id": "computation_x",
+"w": "computation",
+"gloss": [
+"The act or process of computing; calculation; reckoning.",
+"The result of computation; the amount computed."
+]
+},
+{
+"id": "approximation_x",
+"w": "approximation",
+"gloss": [
+"The act, process or result of approximating, as",
+"An imprecise solution or result that is adequate for a defined purpose.",
+"The act of bringing together the edges of tissue to be sutured."
+]
+},
+{
+"id": "distress_x",
+"w": "distress",
+"gloss": [
+"Physical or emotional discomfort, suffering, or alarm, particularly of a more acute nature.",
+"A cause of such discomfort.",
+"Serious danger."
+]
+},
+{
+"id": "realm_x",
+"w": "realm",
+"gloss": [
+"A territory or state, as ruled by an absolute authority, especially by a king; a kingdom.",
+"An otherworldly dimension or domain — magical, ethereal, or otherwise.",
+"The spiritual state of which God is the head; the Kingdom of Heaven."
+]
+},
+{
+"id": "substrate_x",
+"w": "substrate",
+"gloss": [
+"An underlying layer; a substratum.",
+"The substance lining the bottom edge of an enclosure.",
+"A substance acted upon, as by an enzyme."
+]
+},
+{
+"id": "reign_x",
+"w": "reign",
+"gloss": [
+"The exercise of sovereign power.",
+"The period during which a monarch rules.",
+"The territory or sphere over which a kingdom; empire; realm; dominion, etc. is ruled."
+]
+},
+{
+"id": "nominal_x",
+"w": "nominal",
+"gloss": [
+"Of, resembling, relating to, or consisting of a name or names.",
+"Assigned to or bearing a person's name.",
+"Existing in name only."
+]
+},
+{
+"id": "differentiation_x",
+"w": "differentiation",
+"gloss": [
+"The act of treating one thing as distinct from another, or of creating such a distinction; of separating a class of things into categories; of describing a thing by illustrating how it is different from something else.",
+"The process of developing distinct components.",
+"The process by which the components of multicellular life (cells, organs, etc.) are produced and acquire function, as when a seed develops the root and stem, and the initial stem develops the leaf, branches, and flower buds."
+]
+},
+{
+"id": "sovereign_x",
+"w": "sovereign",
+"gloss": [
+"Exercising power of rule.",
+"Having supreme, ultimate power; (often specifically, of a polity) having fully independent power in international relations.",
+"Exceptional in quality."
+]
+},
+{
+"id": "commentary_x",
+"w": "commentary",
+"gloss": [
+"A series of comments or annotations; especially, a book of explanations or expositions on the whole or a part of some other work.",
+"A brief account of transactions or events written hastily, as if for a memorandum.",
+"An oral relation of an event, especially broadcast by television or radio, as it occurs."
+]
+},
+{
+"id": "controller_x",
+"w": "controller",
+"gloss": [
+"One who controls something.",
+"Any electric or mechanical device for controlling a circuit or system.",
+"The chief accounting officer which audits, and manages the financial affairs of a company or government; a comptroller."
+]
+},
+{
+"id": "feasible_x",
+"w": "feasible",
+"gloss": [
+"Able to be done in practice."
+]
+},
+{
+"id": "shipment_x",
+"w": "shipment",
+"gloss": [
+"A load of goods that is transported by any method (not just by ship).",
+"The act of transporting goods."
+]
+},
+{
+"id": "conceptual_x",
+"w": "conceptual",
+"gloss": [
+"Of, or relating to concepts or mental conception.",
+"Existing only in the imagination.",
+"Of or relating to conceptualism."
+]
+},
+{
+"id": "coordinate_x",
+"w": "coordinate",
+"gloss": [
+"Of the same rank; equal.",
+"A number representing the position of a point along a line, arc, or similar one-dimensional figure.",
+"Something that is equal to another thing."
+]
+},
+{
+"id": "advocate_x",
+"w": "advocate",
+"gloss": [
+"Someone whose job is to speak for someone's case in a court of law; a counsel.",
+"Anyone who argues the case of another; an intercessor.",
+"A person who speaks in support of something, or someone; proponent"
+]
+},
+{
+"id": "recipient_x",
+"w": "recipient",
+"gloss": [
+"One who receives.",
+"A person receiving donor organs or tissues.",
+"The portion of an alembic or other still in which the distilled liquid is collected."
+]
+},
+{
+"id": "kidney_x",
+"w": "kidney",
+"gloss": [
+"An organ in the body that filters the blood, producing urine.",
+"This organ (of an animal) cooked as food.",
+"Constitution, temperament, nature, type, character, disposition. (usually used of people)"
+]
+},
+{
+"id": "tribunal_x",
+"w": "tribunal",
+"gloss": [
+"An assembly including one or more judges to conduct judicial business; a court of law.",
+"A kind of village hall used to transact business, to quarter troops and travellers, and to confine prisoners."
+]
+},
+{
+"id": "insure_x",
+"w": "insure",
+"gloss": [
+"To provide for compensation if some specified risk occurs. Often agreed by policy (contract) to offer financial compensation in case of an accident, theft or other undesirable event.",
+"To deal in such contracts; subscribe to a policy of insurance"
+]
+},
+{
+"id": "incorporation_x",
+"w": "incorporation",
+"gloss": [
+"The act of incorporating, or the state of being incorporated.",
+"The union of different ingredients in one mass; mixture; combination; synthesis.",
+"The union of something with a body already existing; association; intimate union; assimilation."
+]
+},
+{
+"id": "onset_x",
+"w": "onset",
+"gloss": [
+"The initial phase of a disease or condition, in which symptoms first become apparent.",
+"The initial portion of a syllable, preceding the syllable nucleus.",
+"The beginning of a musical note or other sound, in which the amplitude rises from zero to an initial peak."
+]
+},
+{
+"id": "plea_x",
+"w": "plea",
+"gloss": [
+"An appeal, petition, urgent prayer or entreaty.",
+"An excuse; an apology.",
+"That which is alleged or pleaded, in defense or in justification."
+]
+},
+{
+"id": "substitution_x",
+"w": "substitution",
+"gloss": [
+"The act of substituting or the state of being substituted.",
+"A substitute or replacement.",
+"The replacement of an atom, or group of atoms, in a compound, with another."
+]
+},
+{
+"id": "inability_x",
+"w": "inability",
+"gloss": [
+"Lack of the ability to do something; incapability.",
+"Lack of the option to do something; powerlessness."
+]
+},
+{
+"id": "accord_x",
+"w": "accord",
+"gloss": [
+"Agreement of opinion, will, or action.",
+"Agreement in pitch and tone; harmony, musical concord.",
+"Agreement or harmony of things in general."
+]
+},
+{
+"id": "sediment_x",
+"w": "sediment",
+"gloss": [
+"A collection of small particles, particularly dirt, that precipitates from a river or other body of water.",
+"To deposit material as a sediment.",
+"To be deposited as a sediment."
+]
+},
+{
+"id": "consolidation_x",
+"w": "consolidation",
+"gloss": [
+"The act or process of consolidating, making firm, or uniting; the state of being consolidated.",
+"The combination of several actions into one.",
+"A solidification into a firm dense mass. It is usually applied to induration (swelling or hardening of normally soft tissue) of a normally aerated lung."
+]
+},
+{
+"id": "inconsistent_x",
+"w": "inconsistent",
+"gloss": [
+"Not compatible (with another thing); incompatible, discrepant, at odds.",
+"Lacking internal consistency; self-contradicting; not compatible with itself.",
+"Not consistent or coherent in thought or behavior."
+]
+},
+{
+"id": "auditor_x",
+"w": "auditor",
+"gloss": [
+"One who audits bookkeeping accounts.",
+"In many jurisdictions, an elected or appointed public official in charge of the public accounts; a comptroller.",
+"One who audits an academic course; who attends the lectures but does not earn academic credit."
+]
+},
+{
+"id": "alpha_x",
+"w": "alpha",
+"gloss": [
+"The name of the first letter of the Greek alphabet (Α, α), followed by beta. In the Latin alphabet it is the predecessor to A.",
+"Latin alpha: the Latin letter Ɑ (minuscule: ɑ).",
+"The name of the symbols Α and α used in science and mathematics, often interchangeable with the symbols when used as a prefix."
+]
+},
+{
+"id": "den_x",
+"w": "den",
+"gloss": [
+"A small cavern or hollow place in the side of a hill, or among rocks; especially, a cave used by a wild animal for shelter or concealment.",
+"A squalid or wretched place; a haunt.",
+"A comfortable room not used for formal entertaining."
+]
+},
+{
+"id": "fertility_x",
+"w": "fertility",
+"gloss": [
+"The condition, or the degree, of being fertile.",
+"The birthrate of a population; the number of live births per 1000 people per year.",
+"The average number of births per woman within a population."
+]
+},
+{
+"id": "gauge_x",
+"w": "gauge",
+"gloss": [
+"A measure; a standard of measure; an instrument to determine dimensions, distance, or capacity; a standard",
+"An act of measuring.",
+"An estimate."
+]
+},
+{
+"id": "mandatory_x",
+"w": "mandatory",
+"gloss": [
+"obligatory; required or commanded by authority.",
+"Of, being or relating to a mandate.",
+"A sign or line that require the path of the disc to be above, below or to one side of it."
+]
+},
+{
+"id": "uranium_x",
+"w": "uranium",
+"gloss": [
+"The element with atomic number 92 and symbol U. A radioactive silvery-grey metal in the actinide series.",
+"An atom of this element."
+]
+},
+{
+"id": "optimum_x",
+"w": "optimum",
+"gloss": [
+"The best or most favorable condition, or the greatest amount or degree possible under specific sets of comparable circumstances.",
+"Any long period of time marked by a persistently warm climate; a climatic optimum.",
+"The best or most advantageous; surpassing all others."
+]
+},
+{
+"id": "incomplete_x",
+"w": "incomplete",
+"gloss": [
+"Not complete; not finished.",
+"Of a flower, wanting any of the usual floral organs.",
+"A multipart file posted to a Usenet newsgroup that is incomplete and thus unusable."
+]
+},
+{
+"id": "successor_x",
+"w": "successor",
+"gloss": [
+"A person or thing that immediately follows another in holding an office or title.",
+"The next heir in order or succession.",
+"A person who inherits a title or office."
+]
+},
+{
+"id": "subjective_x",
+"w": "subjective",
+"gloss": [
+"Formed, as in opinions, based upon a person's feelings or intuition, rather than upon observation or purely logical reasoning; coming more from within the observer than from observations of the external environment.",
+"Pertaining to subjects as opposed to objects (A subject is one who perceives or is aware; an object is the thing perceived or the thing that the subject is aware of.)",
+"Resulting from or pertaining to personal mindsets or experience, arising from perceptive mental conditions within the brain and not necessarily or directly from external stimuli."
+]
+},
+{
+"id": "notably_x",
+"w": "notably",
+"gloss": [
+"As a pointed example; in a notable manner."
+]
+}
+]

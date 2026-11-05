@@ -1,0 +1,872 @@
+[
+{
+"id": "put-one-over_idiom",
+"w": "put one over",
+"kind": "idiom",
+"gloss": [
+"To succeed in a deception.",
+"To fool, trick, or deceive."
+]
+},
+{
+"id": "gift-horse_idiom",
+"w": "gift horse",
+"kind": "idiom",
+"gloss": [
+"An apparent gift, that has substantial associated costs or drawbacks, especially a gift that does not fit perfectly with the recipient's wants or needs."
+]
+},
+{
+"id": "do-what_idiom",
+"w": "do what",
+"kind": "idiom",
+"gloss": [
+"An intensified version of what? or huh?, expressing surprise or lack of comprehension"
+]
+},
+{
+"id": "bush-league_idiom",
+"w": "bush league",
+"kind": "idiom",
+"gloss": [
+"A professional sports association at the lower levels of minor league organization.",
+"A low-ranking or inferior level among groups, professions, organizations, etc."
+]
+},
+{
+"id": "make-quick-work-of_idiom",
+"w": "make quick work of",
+"kind": "idiom",
+"gloss": [
+"To accomplish a specified task easily and quickly.",
+"To kill a specified person easily and quickly."
+]
+},
+{
+"id": "blue-note_idiom",
+"w": "blue note",
+"kind": "idiom",
+"gloss": [
+"The flatted 5th scale degree in the blues scale.",
+"Any of the notes that produce the characteristic clashes with the underlying harmony associated with blues music. The flatted third, flatted fifth and flatted seventh can all be considered blue notes when played over major or dominant chord progressions, while only the flatted fifth will clash with minor chord progressions."
+]
+},
+{
+"id": "fudge-factor_idiom",
+"w": "fudge factor",
+"kind": "idiom",
+"gloss": [
+"A quantity introduced to compensate for uncertainty.",
+"Any padding or compensation built into a guess or estimate."
+]
+},
+{
+"id": "knock-out-of-the-box_idiom",
+"w": "knock out of the box",
+"kind": "idiom",
+"gloss": [
+"To cause a pitcher to be replaced by heavy hitting.",
+"To cause something to be replaced by something else."
+]
+},
+{
+"id": "pay-the-fiddler_idiom",
+"w": "pay the fiddler",
+"kind": "idiom",
+"gloss": [
+"To face the consequences of one's actions.",
+"To contribute in order to participate."
+]
+},
+{
+"id": "penny-in-the-fusebox_idiom",
+"w": "penny in the fusebox",
+"kind": "idiom",
+"gloss": [
+"An improvised repair made with no regard for safety.",
+"Used other than figuratively or idiomatically: see penny, in, the, fusebox."
+]
+},
+{
+"id": "around-the-horn_idiom",
+"w": "around the Horn",
+"kind": "idiom",
+"gloss": [
+"Via shipboard communications, formerly metal tubes with earhorn-like ends.",
+"Following the extremely hazardous naval route around Cape Horn, the southernmost point in South America."
+]
+},
+{
+"id": "eureka-moment_idiom",
+"w": "eureka moment",
+"kind": "idiom",
+"gloss": [
+"The moment of a sudden unexpected discovery."
+]
+},
+{
+"id": "on-its-merits_idiom",
+"w": "on its merits",
+"kind": "idiom",
+"gloss": [
+"Considering only intrinsic good points and bad points, without prejudice or other considerations, such as procedural ones."
+]
+},
+{
+"id": "horizontal-dancing_idiom",
+"w": "horizontal dancing",
+"kind": "idiom",
+"gloss": [
+"Sexual intercourse."
+]
+},
+{
+"id": "seller-s-market_idiom",
+"w": "seller's market",
+"kind": "idiom",
+"gloss": [
+"An excess of demand over supply, leading to abnormally high prices; a market condition favoring the seller."
+]
+},
+{
+"id": "draw-stumps_idiom",
+"w": "draw stumps",
+"kind": "idiom",
+"gloss": [
+"To declare an end to the day's play, and remove the bails and sometimes the stumps.",
+"To cease doing something, at least for the day."
+]
+},
+{
+"id": "bigger-fish-to-fry_idiom",
+"w": "bigger fish to fry",
+"kind": "idiom",
+"gloss": [
+"A much more pressing issue to attend to.",
+"A higher-valued result or target to reach."
+]
+},
+{
+"id": "chump-change_idiom",
+"w": "chump change",
+"kind": "idiom",
+"gloss": [
+"An amount of remuneration, reward, or other monetary recompense considered to be insultingly small.",
+"A sum of money considered to be insignificant."
+]
+},
+{
+"id": "sticking-plaster_idiom",
+"w": "sticking plaster",
+"kind": "idiom",
+"gloss": [
+"An adhesive bandage used in dressing wounds.",
+"An inadequate solution to a serious problem."
+]
+},
+{
+"id": "bad-hair-day_idiom",
+"w": "bad hair day",
+"kind": "idiom",
+"gloss": [
+"A day when one's hair seems unmanageable.",
+"A day when things seem to be unmanageable or go wrong."
+]
+},
+{
+"id": "pick-someone-s-brain_idiom",
+"w": "pick someone's brain",
+"kind": "idiom",
+"gloss": [
+"To seek information from someone knowledgeable; to ask questions of someone."
+]
+},
+{
+"id": "even-money_idiom",
+"w": "even money",
+"kind": "idiom",
+"gloss": [
+"A bet which offers odds of 1 to 1.",
+"By extension, an event that is somewhat likely to happen, but far from inevitable."
+]
+},
+{
+"id": "bottom-of-the-ninth_idiom",
+"w": "bottom of the ninth",
+"kind": "idiom",
+"gloss": [
+"The second part of the ninth and final inning; the end of the game.",
+"By extension, any last chance or final opportunity."
+]
+},
+{
+"id": "odd-and-curious_idiom",
+"w": "odd and curious",
+"kind": "idiom",
+"gloss": [
+"On the Isle of Man, the common or general man.",
+"A way to designate special coins, namely coins that are both odd and imperfect or seriously damaged."
+]
+},
+{
+"id": "on-top_idiom",
+"w": "on top",
+"kind": "idiom",
+"gloss": [
+"On the highest point or surface.",
+"In a dominant position."
+]
+},
+{
+"id": "on-second-thought_idiom",
+"w": "on second thought",
+"kind": "idiom",
+"gloss": [
+"After reconsidering; on further consideration."
+]
+},
+{
+"id": "on-the-level_idiom",
+"w": "on the level",
+"kind": "idiom",
+"gloss": [
+"Honest(ly), sincere(ly), straightforward(ly), fair(ly).",
+"Synonym of on the square (“discreet reference to freemasonry”)."
+]
+},
+{
+"id": "final-cut_idiom",
+"w": "final cut",
+"kind": "idiom",
+"gloss": [
+"In the movie industry, the final released version of a film.",
+"The group that remains when a selection process has eliminated other candidates."
+]
+},
+{
+"id": "change-one-s-tune_idiom",
+"w": "change one's tune",
+"kind": "idiom",
+"gloss": [
+"To reconsider; rethink; to reach a different conclusion.",
+"To change one's story."
+]
+},
+{
+"id": "out-to-lunch_idiom",
+"w": "out to lunch",
+"kind": "idiom",
+"gloss": [
+"Away eating lunch or for a midday break; especially, away from work or a job.",
+"Clueless, inattentive, or careless."
+]
+},
+{
+"id": "top-shelf_idiom",
+"w": "top shelf",
+"kind": "idiom",
+"gloss": [
+"Best, or high quality.",
+"Describing books, magazines, or movies that have adult content or softcore pornography."
+]
+},
+{
+"id": "slop-bowl_idiom",
+"w": "slop bowl",
+"kind": "idiom",
+"gloss": [
+"One of the four components of the traditional tea set. Tea drinkers emptied their unwanted, cold tea into the slop bowl before refilling their cups with fresh, hot tea.",
+"A subset of fast casual food served in bowls and marketed as being healthier alternatives."
+]
+},
+{
+"id": "top-of-the-line_idiom",
+"w": "top of the line",
+"kind": "idiom",
+"gloss": [
+"The best, or of the highest quality, especially among a range of products."
+]
+},
+{
+"id": "run-afoul-of_idiom",
+"w": "run afoul of",
+"kind": "idiom",
+"gloss": [
+"To become entangled in; to run aground on.",
+"To contravene."
+]
+},
+{
+"id": "scratch-the-surface_idiom",
+"w": "scratch the surface",
+"kind": "idiom",
+"gloss": [
+"To barely begin; to see or do only a fraction of what is possible."
+]
+},
+{
+"id": "what-s-eating-you_idiom",
+"w": "what's eating you",
+"kind": "idiom",
+"gloss": [
+"What is annoying or bothering you?"
+]
+},
+{
+"id": "gas-and-air_idiom",
+"w": "gas and air",
+"kind": "idiom",
+"gloss": [
+"An equal mixture of nitrous oxide and oxygen, used as a mild analgesic and anaesthetic, particularly during childbirth, for dental procedures, and in emergency medicine.",
+"Used other than figuratively or idiomatically: see gas, and, air."
+]
+},
+{
+"id": "balls-to-the-wall_idiom",
+"w": "balls to the wall",
+"kind": "idiom",
+"gloss": [
+"With maximum effort or commitment.",
+"Full throttle; (at) maximum speed."
+]
+},
+{
+"id": "brace-of-shakes_idiom",
+"w": "brace of shakes",
+"kind": "idiom",
+"gloss": [
+"The time taken for a sail to shake or shiver twice as a ship comes into the wind.",
+"A very short time."
+]
+},
+{
+"id": "eat-one-s-own-dog-food_idiom",
+"w": "eat one's own dog food",
+"kind": "idiom",
+"gloss": [
+"To use products or services one is selling internally, in order to understand their limitations.",
+"To use or consume the economic goods or services that one is producing; to be part of a closed household economy."
+]
+},
+{
+"id": "pearly-whites_idiom",
+"w": "pearly whites",
+"kind": "idiom",
+"gloss": [
+"Teeth."
+]
+},
+{
+"id": "ahead-of-the-curve_idiom",
+"w": "ahead of the curve",
+"kind": "idiom",
+"gloss": [
+"Changing before competitors.",
+"Above average; generally performing well."
+]
+},
+{
+"id": "all-it-s-cracked-up-to-be_idiom",
+"w": "all it's cracked up to be",
+"kind": "idiom",
+"gloss": [
+"As good as claims or reputation would suggest."
+]
+},
+{
+"id": "cut-above_idiom",
+"w": "cut above",
+"kind": "idiom",
+"gloss": [
+"Superior to the norm.",
+"Superior to."
+]
+},
+{
+"id": "cut-below_idiom",
+"w": "cut below",
+"kind": "idiom",
+"gloss": [
+"Inferior to the norm.",
+"Inferior to."
+]
+},
+{
+"id": "a-notch-above_idiom",
+"w": "a notch above",
+"kind": "idiom",
+"gloss": [
+"superior to; of a higher quality than"
+]
+},
+{
+"id": "around-robin-hood-s-barn_idiom",
+"w": "around Robin Hood's barn",
+"kind": "idiom",
+"gloss": [
+"the long way around; a roundabout or circuitous route",
+"all over the place"
+]
+},
+{
+"id": "at-the-wheel_idiom",
+"w": "at the wheel",
+"kind": "idiom",
+"gloss": [
+"Driving; in control of a vehicle.",
+"In control of the situation; in charge."
+]
+},
+{
+"id": "hold-one-s-fire_idiom",
+"w": "hold one's fire",
+"kind": "idiom",
+"gloss": [
+"Do not discharge a weapon. Used originally for weapons needing a spark or lighting of a fuse to ignite gunpowder; now sometimes used to mean any weapon launching a projectile.",
+"Wait, don't retaliate, calm down, be quiet."
+]
+},
+{
+"id": "out-on-a-limb_idiom",
+"w": "out on a limb",
+"kind": "idiom",
+"gloss": [
+"In a risky, precarious, daring, or uncompromising position, especially one outside of the mainstream; vulnerable."
+]
+},
+{
+"id": "over-the-transom_idiom",
+"w": "over the transom",
+"kind": "idiom",
+"gloss": [
+"Of a work submitted for publication, unsolicited.",
+"Meeting a deadline by delivery after the day of the deadline but before opening of business the following business day."
+]
+},
+{
+"id": "take-a-back-seat_idiom",
+"w": "take a back seat",
+"kind": "idiom",
+"gloss": [
+"To adopt a position of noninvolvement.",
+"To be second to someone or something; to be less important or have a lower priority."
+]
+},
+{
+"id": "head-and-shoulders_idiom",
+"w": "head and shoulders",
+"kind": "idiom",
+"gloss": [
+"To a considerable degree.",
+"By force; violently."
+]
+},
+{
+"id": "give-it-some-welly_idiom",
+"w": "give it some welly",
+"kind": "idiom",
+"gloss": [
+"To increase fuel or power to an engine, as to a car by depressing the gas pedal.",
+"To apply great physical effort to (something)."
+]
+},
+{
+"id": "run-and-gun_idiom",
+"w": "run and gun",
+"kind": "idiom",
+"gloss": [
+"To move the ball quickly and shoot often.",
+"To do something hastily and with great energy."
+]
+},
+{
+"id": "off-the-deep-end_idiom",
+"w": "off the deep end",
+"kind": "idiom",
+"gloss": [
+"Extremely angry.",
+"Crazy, erratic, or irrational."
+]
+},
+{
+"id": "brownie-point_idiom",
+"w": "brownie point",
+"kind": "idiom",
+"gloss": [
+"Credit or praise for good work or a good deed, often for the express purpose of currying favor."
+]
+},
+{
+"id": "hide-nor-hair_idiom",
+"w": "hide nor hair",
+"kind": "idiom",
+"gloss": [
+"A trace, indication, or evidence, especially of a person."
+]
+},
+{
+"id": "grand-poobah_idiom",
+"w": "grand poobah",
+"kind": "idiom",
+"gloss": [
+"A person who is important or high-ranking.",
+"An extremely pompous person."
+]
+},
+{
+"id": "stop-press_idiom",
+"w": "stop press",
+"kind": "idiom",
+"gloss": [
+"Used to announce an event or news article important enough to delay or interrupt the print, or require a reprint, of publication, particularly of a newspaper edition.",
+"Used to grab attention, implying importance, news-worthiness, etc."
+]
+},
+{
+"id": "no-two-ways-about-it_idiom",
+"w": "no two ways about it",
+"kind": "idiom",
+"gloss": [
+"No other possible action, choice or option.",
+"No other possible interpretation."
+]
+},
+{
+"id": "shake-a-leg_idiom",
+"w": "shake a leg",
+"kind": "idiom",
+"gloss": [
+"To get busy; to get going; to be productive."
+]
+},
+{
+"id": "dutch-reckoning_idiom",
+"w": "Dutch reckoning",
+"kind": "idiom",
+"gloss": [
+"A false or incorrect reckoning of position.",
+"Used other than figuratively or idiomatically: see Dutch, reckoning."
+]
+},
+{
+"id": "tread-lightly_idiom",
+"w": "tread lightly",
+"kind": "idiom",
+"gloss": [
+"To proceed carefully; especially, to seek to avoid causing offense."
+]
+},
+{
+"id": "make-a-pig-s-ear-of_idiom",
+"w": "make a pig's ear of",
+"kind": "idiom",
+"gloss": [
+"To do badly; to make a mess of."
+]
+},
+{
+"id": "pop-the-cherry_idiom",
+"w": "pop the cherry",
+"kind": "idiom",
+"gloss": [
+"To break the hymen.",
+"To lose one's virginity."
+]
+},
+{
+"id": "get-off-lightly_idiom",
+"w": "get off lightly",
+"kind": "idiom",
+"gloss": [
+"To end up with a mild punishment, or without serious harm."
+]
+},
+{
+"id": "make-the-welkin-ring_idiom",
+"w": "make the welkin ring",
+"kind": "idiom",
+"gloss": [
+"To make a loud noise.",
+"To celebrate or revel."
+]
+},
+{
+"id": "in-high-dudgeon_idiom",
+"w": "in high dudgeon",
+"kind": "idiom",
+"gloss": [
+"Resentfully or furiously, with indignation or pomposity."
+]
+},
+{
+"id": "drop-a-dime_idiom",
+"w": "drop a dime",
+"kind": "idiom",
+"gloss": [
+"To make a telephone call.",
+"To inform, to call the authorities (on)."
+]
+},
+{
+"id": "duck-soup_idiom",
+"w": "duck soup",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see duck, soup.",
+"Something which is easy; a piece of cake."
+]
+},
+{
+"id": "in-the-running_idiom",
+"w": "in the running",
+"kind": "idiom",
+"gloss": [
+"Of a candidate: potential or likely; worthy of consideration.",
+"Of a competitor or contestant: still eligible and able to win."
+]
+},
+{
+"id": "fight-fires_idiom",
+"w": "fight fires",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see fight, fire.",
+"To deal with urgent matters and minor emergencies rather than longer-term work."
+]
+},
+{
+"id": "poison-pen_idiom",
+"w": "poison pen",
+"kind": "idiom",
+"gloss": [
+"A manner, means, or tone of expression had by a written work, characterized by spitefulness, defamation, and/or intimidation directed toward a person, organization, or point of view.",
+"Of, pertaining to, or possessing such a manner of expression."
+]
+},
+{
+"id": "cake-crumbs_idiom",
+"w": "cake crumbs",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see cake, crumbs.",
+"Hardly anything."
+]
+},
+{
+"id": "something-awful_idiom",
+"w": "something awful",
+"kind": "idiom",
+"gloss": [
+"Intensely or extremely; badly; in the worst way."
+]
+},
+{
+"id": "second-banana_idiom",
+"w": "second banana",
+"kind": "idiom",
+"gloss": [
+"A comedian who plays a secondary or supporting role, especially as straight man and traditionally in vaudeville or burlesque theatre.",
+"A person who serves in a supporting, secondary, or subsidiary capacity; an assistant."
+]
+},
+{
+"id": "gagging-for-it_idiom",
+"w": "gagging for it",
+"kind": "idiom",
+"gloss": [
+"Having a strong desire for something; especially sex.",
+"Sexually aroused."
+]
+},
+{
+"id": "bunny-hug_idiom",
+"w": "bunny hug",
+"kind": "idiom",
+"gloss": [
+"A hoodie; a sweatshirt with a hood lacking a zipper.",
+"A style of early 20th-century dance, performed to ragtime music."
+]
+},
+{
+"id": "hat-in-hand_idiom",
+"w": "hat in hand",
+"kind": "idiom",
+"gloss": [
+"With humility; in an apologetic or self-effacing fashion."
+]
+},
+{
+"id": "long-row-to-hoe_idiom",
+"w": "long row to hoe",
+"kind": "idiom",
+"gloss": [
+"A difficult, arduous task or set of tasks; a lengthy, demanding project."
+]
+},
+{
+"id": "blaze-a-trail_idiom",
+"w": "blaze a trail",
+"kind": "idiom",
+"gloss": [
+"To show the way or proceed rapidly.",
+"To set precedent or do something novel; to break new ground."
+]
+},
+{
+"id": "blast-from-the-past_idiom",
+"w": "blast from the past",
+"kind": "idiom",
+"gloss": [
+"Something or someone that a person has not seen for a long time that evokes nostalgic feelings."
+]
+},
+{
+"id": "brown-bag_idiom",
+"w": "brown bag",
+"kind": "idiom",
+"gloss": [
+"A brown paper bag.",
+"A short presentation or seminar on a given subject, especially one given at lunchtime."
+]
+},
+{
+"id": "get-into-someone-s-pants_idiom",
+"w": "get into someone's pants",
+"kind": "idiom",
+"gloss": [
+"To have sex with someone, especially for the first time."
+]
+},
+{
+"id": "lay-to-rest_idiom",
+"w": "lay to rest",
+"kind": "idiom",
+"gloss": [
+"To perform funerary services, especially burial, for someone who has died.",
+"To close (a matter of dispute)."
+]
+},
+{
+"id": "take-a-shit_idiom",
+"w": "take a shit",
+"kind": "idiom",
+"gloss": [
+"To defecate.",
+"To fail or malfunction."
+]
+},
+{
+"id": "handbags-at-dawn_idiom",
+"w": "handbags at dawn",
+"kind": "idiom",
+"gloss": [
+"A catty squabble.",
+"Competitors on a sporting field (often in a rugby game) getting into a fight; appearing threatening but not really causing any damage."
+]
+},
+{
+"id": "all-over-the-map_idiom",
+"w": "all over the map",
+"kind": "idiom",
+"gloss": [
+"Widely scattered or distributed; numerous and differing greatly.",
+"In widely scattered directions; in a widely varying manner."
+]
+},
+{
+"id": "on-the-square_idiom",
+"w": "on the square",
+"kind": "idiom",
+"gloss": [
+"Honest and open.",
+"A discreet, unassuming reference to freemasonry."
+]
+},
+{
+"id": "going-rate_idiom",
+"w": "going rate",
+"kind": "idiom",
+"gloss": [
+"The current standard or usual price, rate, or salary for something."
+]
+},
+{
+"id": "have-an-eye-for_idiom",
+"w": "have an eye for",
+"kind": "idiom",
+"gloss": [
+"To notice, discern, or appreciate easily."
+]
+},
+{
+"id": "but-then_idiom",
+"w": "but then",
+"kind": "idiom",
+"gloss": [
+"Then again, on the other hand; used to show that the opposite viewpoint is possible."
+]
+},
+{
+"id": "lay-a-finger-on_idiom",
+"w": "lay a finger on",
+"kind": "idiom",
+"gloss": [
+"To merely touch.",
+"Used other than figuratively or idiomatically: see lay, a, finger, on: to finger"
+]
+},
+{
+"id": "no-joy_idiom",
+"w": "no joy",
+"kind": "idiom",
+"gloss": [
+"Unable to establish visual or radio contact with a target aircraft.",
+"A negative outcome; no success; a failure."
+]
+},
+{
+"id": "time-out-of-mind_idiom",
+"w": "time out of mind",
+"kind": "idiom",
+"gloss": [
+"The distant past beyond anyone's memory.",
+"A lengthy duration of time, longer than is readily remembered."
+]
+},
+{
+"id": "all-very-well_idiom",
+"w": "all very well",
+"kind": "idiom",
+"gloss": [
+"All right to a certain extent, but problematic beyond that, or for other people.",
+"True, as far as it goes."
+]
+},
+{
+"id": "go-native_idiom",
+"w": "go native",
+"kind": "idiom",
+"gloss": [
+"To adopt the lifestyle or outlook of local inhabitants, especially when dwelling in a colonial region.",
+"Of a contractor or consultant, to begin working directly as an employee for a company and cease to work through a contracting firm or agency."
+]
+},
+{
+"id": "thanks-a-bunch_idiom",
+"w": "thanks a bunch",
+"kind": "idiom",
+"gloss": [
+"A mildly sarcastic thank you.",
+"An unsarcastic thank you."
+]
+},
+{
+"id": "tell-all_idiom",
+"w": "tell all",
+"kind": "idiom",
+"gloss": [
+"To reveal everything, particularly information that is normally withheld.",
+"Used other than figuratively or idiomatically: see tell, all."
+]
+}
+]

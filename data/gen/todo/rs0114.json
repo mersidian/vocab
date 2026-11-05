@@ -1,0 +1,897 @@
+[
+{
+"id": "play-a-role_idiom",
+"w": "play a role",
+"kind": "idiom",
+"gloss": [
+"To have an effect or influence on a situation or outcome; to contribute to something.",
+"To portray a character in a performance."
+]
+},
+{
+"id": "merchant-of-death_idiom",
+"w": "merchant of death",
+"kind": "idiom",
+"gloss": [
+"One who engages in the unlawful distribution or supply of substances or objects with potentially fatal consequences, such as drugs or weapons."
+]
+},
+{
+"id": "lose-one-s-wits_idiom",
+"w": "lose one's wits",
+"kind": "idiom",
+"gloss": [
+"To become irrational; lose one's mind or sense of reason."
+]
+},
+{
+"id": "blow-a-hole-through_idiom",
+"w": "blow a hole through",
+"kind": "idiom",
+"gloss": [
+"To destroy the integrity or cohesion of.",
+"Used other than figuratively or idiomatically: see blow, hole, through."
+]
+},
+{
+"id": "count-noses_idiom",
+"w": "count noses",
+"kind": "idiom",
+"gloss": [
+"To count people one at a time.",
+"To determine the number of supporters of a particular politician or issue."
+]
+},
+{
+"id": "thin-the-herd_idiom",
+"w": "thin the herd",
+"kind": "idiom",
+"gloss": [
+"to cull, to reduce the size of a group",
+"Used other than figuratively or idiomatically: see thin, the, herd."
+]
+},
+{
+"id": "turn-up-the-heat_idiom",
+"w": "turn up the heat",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see turn up, heat.",
+"To increase the intensity of activity or discomfort."
+]
+},
+{
+"id": "sit-right_idiom",
+"w": "sit right",
+"kind": "idiom",
+"gloss": [
+"To suit one's constitution, so as not to upset one's stomach or make one sick when consumed.",
+"To make one feel comfortable, to seem appropriate or acceptable to."
+]
+},
+{
+"id": "to-hell_idiom",
+"w": "to hell",
+"kind": "idiom",
+"gloss": [
+"to an extreme extent",
+"to the point of destruction or punishment"
+]
+},
+{
+"id": "main-character_idiom",
+"w": "main character",
+"kind": "idiom",
+"gloss": [
+"A person who becomes a focal point of discussion on a social media platform (particularly Twitter).",
+"Used other than figuratively or idiomatically: see main, character."
+]
+},
+{
+"id": "juggling-act_idiom",
+"w": "juggling act",
+"kind": "idiom",
+"gloss": [
+"A situation in which someone has to deal with several conflicting things simultaneously",
+"Used other than figuratively or idiomatically: juggling act."
+]
+},
+{
+"id": "pull-a-lever_idiom",
+"w": "pull a lever",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see pull, lever.",
+"To vote."
+]
+},
+{
+"id": "chalk-something-up-to-experience_idiom",
+"w": "chalk something up to experience",
+"kind": "idiom",
+"gloss": [
+"To take a lesson from a bad outcome instead of grieving it.",
+"Used other than figuratively or idiomatically: see chalk up to, experience."
+]
+},
+{
+"id": "dice-roll_idiom",
+"w": "dice roll",
+"kind": "idiom",
+"gloss": [
+"Something unpredictable or unexpected.",
+"Used other than figuratively or idiomatically: see dice, roll."
+]
+},
+{
+"id": "milk-can_idiom",
+"w": "milk can",
+"kind": "idiom",
+"gloss": [
+"Synonym of milk churn.",
+"Used other than figuratively or idiomatically: see milk, can: any can used for milk in any way."
+]
+},
+{
+"id": "tight-squeeze_idiom",
+"w": "tight squeeze",
+"kind": "idiom",
+"gloss": [
+"A small amount of space shared by numerous people or things",
+"A small amount of time in which something is to be done or attained"
+]
+},
+{
+"id": "choose-violence_idiom",
+"w": "choose violence",
+"kind": "idiom",
+"gloss": [
+"To disrespect or insult someone in a particularly audacious and unexpected manner.",
+"Used other than figuratively or idiomatically: see choose, violence."
+]
+},
+{
+"id": "i-choose-violence_idiom",
+"w": "I choose violence",
+"kind": "idiom",
+"gloss": [
+"Used to express that one is firmly committed to making one's own choice(s) regardless of disapproval from others.",
+"Used other than figuratively or idiomatically: see I, choose, violence."
+]
+},
+{
+"id": "bite-one-s-nails_idiom",
+"w": "bite one's nails",
+"kind": "idiom",
+"gloss": [
+"To worry or fret over something.",
+"Used other than figuratively or idiomatically: bite one's fingernails."
+]
+},
+{
+"id": "do-the-talking_idiom",
+"w": "do the talking",
+"kind": "idiom",
+"gloss": [
+"To convey the message; to communicate an idea or create an impression.",
+"Used other than figuratively or idiomatically: see do, the, talking."
+]
+},
+{
+"id": "better-for-it_idiom",
+"w": "better for it",
+"kind": "idiom",
+"gloss": [
+"In a more favorable position on the whole due to something, despite possible drawbacks.",
+"Used other than figuratively or idiomatically: see better, for, it."
+]
+},
+{
+"id": "monkey-s-paw_idiom",
+"w": "monkey's paw",
+"kind": "idiom",
+"gloss": [
+"A situation in which a wish or desire has been fulfilled, but at significant cost or with ironic, usually unfavourable consequences.",
+"Used other than figuratively or idiomatically: see monkey, paw."
+]
+},
+{
+"id": "lift-all-boats_idiom",
+"w": "lift all boats",
+"kind": "idiom",
+"gloss": [
+"To benefit all participants; to have a wide-ranging positive effect."
+]
+},
+{
+"id": "do-one-s-homework_idiom",
+"w": "do one's homework",
+"kind": "idiom",
+"gloss": [
+"To prepare oneself with the relevant knowledge; to carry out the necessary research in advance.",
+"Used other than figuratively or idiomatically: see do, homework."
+]
+},
+{
+"id": "hold-the-stage_idiom",
+"w": "hold the stage",
+"kind": "idiom",
+"gloss": [
+"To continue to be produced.",
+"To dominate a debate or field of interest; to be the main subject of attention."
+]
+},
+{
+"id": "air-sandwich_idiom",
+"w": "air sandwich",
+"kind": "idiom",
+"gloss": [
+"A sandwich consisting only of bread and optionally a spread, but no filling.",
+"A strategy that has high-level direction and low-level operations, but little in the middle."
+]
+},
+{
+"id": "suck-dry_idiom",
+"w": "suck dry",
+"kind": "idiom",
+"gloss": [
+"To exhaust all the resources of someone or something.",
+"Used other than figuratively or idiomatically: see suck, dry."
+]
+},
+{
+"id": "no-time_idiom",
+"w": "no time",
+"kind": "idiom",
+"gloss": [
+"A very short period of time.",
+"Used other than figuratively or idiomatically: see no, time."
+]
+},
+{
+"id": "poop-in-one-s-pants_idiom",
+"w": "poop in one's pants",
+"kind": "idiom",
+"gloss": [
+"To defecate in one's pants while wearing them.",
+"To become extremely frightened."
+]
+},
+{
+"id": "statistical-tie_idiom",
+"w": "statistical tie",
+"kind": "idiom",
+"gloss": [
+"A situation in which the difference in popularity of two options in a poll is less than the margin of error.",
+"Used other than figuratively or idiomatically: see statistical, tie."
+]
+},
+{
+"id": "keep-it-in-the-family_idiom",
+"w": "keep it in the family",
+"kind": "idiom",
+"gloss": [
+"To restrict knowledge or information to only the members of a family or another small, intimate group.",
+"To remain loyal to one's family; to retain family ownership of a business for long period of time."
+]
+},
+{
+"id": "cannot-make-it_idiom",
+"w": "cannot make it",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see cannot, make it.",
+"Cannot reach satisfactory or expected standards or do something competently; describes someone in a hopeless situation."
+]
+},
+{
+"id": "time-forgot_idiom",
+"w": "time forgot",
+"kind": "idiom",
+"gloss": [
+"Isolated from the outside world and far behind the times; extremely outdated or archaic.",
+"Utterly forgotten; lost to history."
+]
+},
+{
+"id": "come-up-and-bite_idiom",
+"w": "come up and bite",
+"kind": "idiom",
+"gloss": [
+"To be extremely obvious to (someone), to be impossible for (someone) to miss and ignore.",
+"To clearly expose itself to (someone)."
+]
+},
+{
+"id": "go-left_idiom",
+"w": "go left",
+"kind": "idiom",
+"gloss": [
+"To take a turn for the worse, to go horribly wrong.",
+"Used other than figuratively or idiomatically: see go, left."
+]
+},
+{
+"id": "bad-business_idiom",
+"w": "bad business",
+"kind": "idiom",
+"gloss": [
+"Synonym of bad news (“irritating, troublesome or harmful thing, situation or person”).",
+"Used other than figuratively or idiomatically: see bad, business."
+]
+},
+{
+"id": "quick-as-lightning_idiom",
+"w": "quick as lightning",
+"kind": "idiom",
+"gloss": [
+"Extremely quick.",
+"Extremely quickly."
+]
+},
+{
+"id": "good-girl_idiom",
+"w": "good girl",
+"kind": "idiom",
+"gloss": [
+"Well done, to a female.",
+"Said as praise to an obedient female dog or other female domesticated animal; see also who's a good girl."
+]
+},
+{
+"id": "waste-of-breath_idiom",
+"w": "waste of breath",
+"kind": "idiom",
+"gloss": [
+"Needless or unnecessary speech.",
+"Synonym of waste of oxygen."
+]
+},
+{
+"id": "make-a-statement_idiom",
+"w": "make a statement",
+"kind": "idiom",
+"gloss": [
+"To implicitly communicate an idea, often through one's fashion choices.",
+"Used other than figuratively or idiomatically: see make, a, statement."
+]
+},
+{
+"id": "on-the-stocks_idiom",
+"w": "on the stocks",
+"kind": "idiom",
+"gloss": [
+"under construction",
+"in progress, underway"
+]
+},
+{
+"id": "what-s-the-story_idiom",
+"w": "what's the story",
+"kind": "idiom",
+"gloss": [
+"Requesting an explanation.",
+"A greeting; How are you?, What's up?"
+]
+},
+{
+"id": "get-one-s-clock-cleaned_idiom",
+"w": "get one's clock cleaned",
+"kind": "idiom",
+"gloss": [
+"To be thoroughly defeated.",
+"To be thoroughly beaten up."
+]
+},
+{
+"id": "grab-the-popcorn_idiom",
+"w": "grab the popcorn",
+"kind": "idiom",
+"gloss": [
+"Said in anticipation of an enjoyable activity, often in a context where a person is about to watch a movie.",
+"Used to express anticipated enjoyment from watching a conflict or argument developing between other people, as if one were being entertained at the movies."
+]
+},
+{
+"id": "clean-money_idiom",
+"w": "clean money",
+"kind": "idiom",
+"gloss": [
+"Money that is legally or honestly gained or earned.",
+"Money or assets that have been converted from money laundering or other illicit means into a form that can be used legitimately without drawing the attention of the authorities."
+]
+},
+{
+"id": "keep-good-time_idiom",
+"w": "keep good time",
+"kind": "idiom",
+"gloss": [
+"To be punctual.",
+"To accurately record time."
+]
+},
+{
+"id": "in-record-time_idiom",
+"w": "in record time",
+"kind": "idiom",
+"gloss": [
+"That is the fastest or greatest recorded example; faster than any previously recorded time.",
+"Very quickly."
+]
+},
+{
+"id": "open-invitation_idiom",
+"w": "open invitation",
+"kind": "idiom",
+"gloss": [
+"An ongoing invitation to visit a place, join an event, take part in an activity, or perform a given action at any time without needing a separate formal request.",
+"A situation or action that tempts someone to do something which would typically yield an unfavorable or illegal result."
+]
+},
+{
+"id": "be-left-at-the-post_idiom",
+"w": "be left at the post",
+"kind": "idiom",
+"gloss": [
+"To be beaten from the beginning of a competition or race.",
+"To be completely overwhelmed or dominated."
+]
+},
+{
+"id": "have-the-right-time_idiom",
+"w": "have the right time",
+"kind": "idiom",
+"gloss": [
+"To know the correct time of day.",
+"Used other than figuratively or idiomatically: see have, right, time."
+]
+},
+{
+"id": "good-deal_idiom",
+"w": "good deal",
+"kind": "idiom",
+"gloss": [
+"Large number, amount, or extent.",
+"Used other than figuratively or idiomatically: see good, deal."
+]
+},
+{
+"id": "show-someone-a-good-time_idiom",
+"w": "show someone a good time",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see show, someone, a, good, time.",
+"To sleep with; have sex with."
+]
+},
+{
+"id": "gain-time_idiom",
+"w": "gain time",
+"kind": "idiom",
+"gloss": [
+"To cause a delay by a circuitous mode of procedure in order to obtain more time than is available.",
+"To make up time lost; of a clock or watch, to run fast."
+]
+},
+{
+"id": "join-issue_idiom",
+"w": "join issue",
+"kind": "idiom",
+"gloss": [
+"Of two people, to argue with one another.",
+"Of two parties to a legal proceeding, to agree to argue about a particular legal claim."
+]
+},
+{
+"id": "under-one-roof_idiom",
+"w": "under one roof",
+"kind": "idiom",
+"gloss": [
+"at the same location",
+"in one house, apartment, etc."
+]
+},
+{
+"id": "raise-one-s-eyebrows_idiom",
+"w": "raise one's eyebrows",
+"kind": "idiom",
+"gloss": [
+"Of a person, to be surprised.",
+"Of a person, to be mildly disapproving of something."
+]
+},
+{
+"id": "burn-the-roof_idiom",
+"w": "burn the roof",
+"kind": "idiom",
+"gloss": [
+"To experience a great time enjoying and dancing to the music in a dancehall or nightclub.",
+"Used other than figuratively or idiomatically: see burn, roof."
+]
+},
+{
+"id": "break-the-wheel_idiom",
+"w": "break the wheel",
+"kind": "idiom",
+"gloss": [
+"To end a pattern of oppression, inequality, injustice, or abuse.",
+"To instigate or enact a major change; to revolutionize; to shake up."
+]
+},
+{
+"id": "tied-in-knots_idiom",
+"w": "tied in knots",
+"kind": "idiom",
+"gloss": [
+"In a state of confusion; in a difficult situation, in a bind.",
+"Worried, anxious, upset."
+]
+},
+{
+"id": "tie-in-knots_idiom",
+"w": "tie in knots",
+"kind": "idiom",
+"gloss": [
+"To put (someone) in a difficult situation.",
+"To make (someone) upset or anxious."
+]
+},
+{
+"id": "check-the-math_idiom",
+"w": "check the math",
+"kind": "idiom",
+"gloss": [
+"To verify the source or accuracy of something.",
+"Used other than figuratively or idiomatically: see check, math."
+]
+},
+{
+"id": "to-hell-and-back_idiom",
+"w": "to hell and back",
+"kind": "idiom",
+"gloss": [
+"Greatly, intensely.",
+"Through an extremely difficult or distressing situation."
+]
+},
+{
+"id": "meeting-of-the-mindless_idiom",
+"w": "meeting of the mindless",
+"kind": "idiom",
+"gloss": [
+"A serious disagreement, especially one resulting from a gathering in which discussion or negotiation took place.",
+"A gathering of people whose views differ greatly."
+]
+},
+{
+"id": "keep-one-s-voice-down_idiom",
+"w": "keep one's voice down",
+"kind": "idiom",
+"gloss": [
+"To hush or speak; softly or quietly."
+]
+},
+{
+"id": "beg-for-one-s-life_idiom",
+"w": "beg for one's life",
+"kind": "idiom",
+"gloss": [
+"To plead or make a desperate attempt to continue with what one has been doing.",
+"Used other than figuratively or idiomatically: see beg, life."
+]
+},
+{
+"id": "go-free_idiom",
+"w": "go free",
+"kind": "idiom",
+"gloss": [
+"To go or travel where one wishes; to not be kept in custody or confinement.",
+"Synonym of walk free."
+]
+},
+{
+"id": "extend-one-s-hand_idiom",
+"w": "extend one's hand",
+"kind": "idiom",
+"gloss": [
+"To make a gesture of welcome or cordiality.",
+"To offer one's assistance or support."
+]
+},
+{
+"id": "horse-armor_idiom",
+"w": "horse armor",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see horse, armor.; armor worn by a horse.",
+"A piece of downloadable content or microtransaction for a video game, especially one purely cosmetic and considered being of bad value."
+]
+},
+{
+"id": "make-it-interesting_idiom",
+"w": "make it interesting",
+"kind": "idiom",
+"gloss": [
+"To bet money; to lay a wager.",
+"Used other than figuratively or idiomatically: to increase the interestingness of something, in any way."
+]
+},
+{
+"id": "beat-someone-s-ass_idiom",
+"w": "beat someone's ass",
+"kind": "idiom",
+"gloss": [
+"To beat someone severely.",
+"To defeat or trounce someone; to win decisively over someone."
+]
+},
+{
+"id": "by-the-moment_idiom",
+"w": "by the moment",
+"kind": "idiom",
+"gloss": [
+"Very quickly as time passes; progressively.",
+"Focused on the present moment; in the present."
+]
+},
+{
+"id": "pack-shit_idiom",
+"w": "pack shit",
+"kind": "idiom",
+"gloss": [
+"To be scared or frightened.",
+"To talk nonsense."
+]
+},
+{
+"id": "in-the-trenches_idiom",
+"w": "in the trenches",
+"kind": "idiom",
+"gloss": [
+"Working or operating in the most active and difficult parts of a job or business.",
+"Used other than figuratively or idiomatically: see in, the, trenches: on the front lines of trench warfare."
+]
+},
+{
+"id": "poke-holes-in_idiom",
+"w": "poke holes in",
+"kind": "idiom",
+"gloss": [
+"To criticize someone by finding flaws or weaknesses in their work or to criticize something by demonstrating that it is not correct.",
+"Used other than figuratively or idiomatically: see poke, holes, in."
+]
+},
+{
+"id": "eat-the-onion_idiom",
+"w": "eat the onion",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see eat, the, onion.",
+"To be fooled by a work of satire, particularly in the satirical newspaper The Onion."
+]
+},
+{
+"id": "call-it_idiom",
+"w": "call it",
+"kind": "idiom",
+"gloss": [
+"To call it a day.",
+"To predict."
+]
+},
+{
+"id": "mark-one-s-own-homework_idiom",
+"w": "mark one's own homework",
+"kind": "idiom",
+"gloss": [
+"To assume the role of evaluating one's doings when a disinterested party is required.",
+"Used other than figuratively or idiomatically: see mark, one's, own, homework."
+]
+},
+{
+"id": "first-mile_idiom",
+"w": "first mile",
+"kind": "idiom",
+"gloss": [
+"The initial stage of delivery of goods, etc., from the seller or producer to a distribution centre, often involving greater effort or expense.",
+"The transmission path or connection running from a central office to a point of interconnect."
+]
+},
+{
+"id": "have-it-all_idiom",
+"w": "have it all",
+"kind": "idiom",
+"gloss": [
+"To lead a successful life.",
+"Used other than figuratively or idiomatically: see have, it, all."
+]
+},
+{
+"id": "quantum-tunnel_idiom",
+"w": "quantum tunnel",
+"kind": "idiom",
+"gloss": [
+"To undergo the process of quantum tunnelling.",
+"To move or travel from one point or direction to another in a very quick, rapid, or effortless manner."
+]
+},
+{
+"id": "put-a-band-aid-on-a-bullet-wound_idiom",
+"w": "put a band-aid on a bullet wound",
+"kind": "idiom",
+"gloss": [
+"To inadequately treat a serious situation."
+]
+},
+{
+"id": "count-one-s-days_idiom",
+"w": "count one's days",
+"kind": "idiom",
+"gloss": [
+"To prepare for imminent retribution or termination.",
+"Used other than figuratively or idiomatically: see count, days."
+]
+},
+{
+"id": "moral-of-the-story_idiom",
+"w": "moral of the story",
+"kind": "idiom",
+"gloss": [
+"The key lesson or message that an incident, situation or other happening conveys; a general takeaway point.",
+"Used other than figuratively or idiomatically: see moral, story; the ethical lesson to be learned from a fictional tale."
+]
+},
+{
+"id": "take-easy_idiom",
+"w": "take easy",
+"kind": "idiom",
+"gloss": [
+"To rest; to make little to no effort.",
+"To proceed calmly and in a relaxed manner."
+]
+},
+{
+"id": "open-field_idiom",
+"w": "open field",
+"kind": "idiom",
+"gloss": [
+"A large, unobstructed area of land with minimal cover, exposing troops to potential enemy fire with little opportunity to hide or take cover.",
+"A situation with no obstacles or limitations; a clear opportunity to act freely or without significant competition."
+]
+},
+{
+"id": "wake-the-dead_idiom",
+"w": "wake the dead",
+"kind": "idiom",
+"gloss": [
+"To be very loud; to produce a very loud or disruptive noise.",
+"Used other than figuratively or idiomatically: see wake, the, dead: to hold a wake over a deceased person."
+]
+},
+{
+"id": "for-the-chop_idiom",
+"w": "for the chop",
+"kind": "idiom",
+"gloss": [
+"About to lose one's job.",
+"About to be stopped, cancelled, or eliminated, not allowed to continue or remain."
+]
+},
+{
+"id": "quick-read_idiom",
+"w": "quick read",
+"kind": "idiom",
+"gloss": [
+"A book, periodical, or other printed matter that is enjoyable to read and can be read quickly.",
+"A person who is able to read something very quickly or rapidly."
+]
+},
+{
+"id": "cheese-tax_idiom",
+"w": "cheese tax",
+"kind": "idiom",
+"gloss": [
+"A portion of cheese given to a domestic animal such as a dog or cat, usually when the cheese is being brought out or prepared for human consumption.",
+"Used other than figuratively or idiomatically: see cheese, tax."
+]
+},
+{
+"id": "we-are-where-we-are_idiom",
+"w": "we are where we are",
+"kind": "idiom",
+"gloss": [
+"acknowledging the shortcomings of the present situation, while focusing on dealing with it rather than either dwelling on the causes or regretting what might have been",
+"Used other than figuratively or idiomatically: see we, are, where, we, are."
+]
+},
+{
+"id": "go-with-the-flow-of-traffic_idiom",
+"w": "go with the flow of traffic",
+"kind": "idiom",
+"gloss": [
+"To drive a vehicle at approximately the speed of other vehicles on the road, irrespective of the speed limit.",
+"To drive so as to blend in with traffic."
+]
+},
+{
+"id": "save-someone-s-life_idiom",
+"w": "save someone's life",
+"kind": "idiom",
+"gloss": [
+"To prevent someone from dying.",
+"To prevent someone from getting into trouble, or to rescue them from it."
+]
+},
+{
+"id": "kick-some-tail_idiom",
+"w": "kick some tail",
+"kind": "idiom",
+"gloss": [
+"To be authoritative and assertive in order to achieve or accomplish something.",
+"To thoroughly defeat someone."
+]
+},
+{
+"id": "in-a-rut_idiom",
+"w": "in a rut",
+"kind": "idiom",
+"gloss": [
+"To be stuck in a boring or monotonous routine or habit.",
+"To be overly fixated on one activity, job, or method."
+]
+},
+{
+"id": "up-and-away_idiom",
+"w": "up and away",
+"kind": "idiom",
+"gloss": [
+"Moving quickly and continuously upwards, often with a sense of joy or excitement.",
+"Of retractable landing gear, retracted and stowed (put away), as contrasted with being down and locked (extended and secured for use)."
+]
+},
+{
+"id": "main-event_idiom",
+"w": "main event",
+"kind": "idiom",
+"gloss": [
+"The principal match, bout or contest.",
+"The most serious or important matter."
+]
+},
+{
+"id": "all-one-s-born-days_idiom",
+"w": "all one's born days",
+"kind": "idiom",
+"gloss": [
+"One's whole life.",
+"For or throughout one's whole life."
+]
+},
+{
+"id": "little-hand_idiom",
+"w": "little hand",
+"kind": "idiom",
+"gloss": [
+"Synonym of hour hand (on a clock face).",
+"Used other than figuratively or idiomatically: see little, hand: for example, a small body part."
+]
+},
+{
+"id": "big-hand_idiom",
+"w": "big hand",
+"kind": "idiom",
+"gloss": [
+"Synonym of minute hand (on a clock face).",
+"Used other than figuratively or idiomatically: see big, hand: for example, a strong round of applause, a great deal of assistance, or a large body part."
+]
+},
+{
+"id": "of-the-first-water_idiom",
+"w": "of the first water",
+"kind": "idiom",
+"gloss": [
+"Of a diamond or other gemstone, of the highest quality or excellence.",
+"Of superior or top tier in its category."
+]
+}
+]

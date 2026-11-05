@@ -1,0 +1,100 @@
+{"id":"long_adv","th":"นาน; เป็นเวลานาน","ex":"Have you lived here long?","exTh":"คุณอยู่ที่นี่มานานหรือยัง"}
+{"id":"law_noun","th":"กฎหมาย; กฎ","ex":"It is against the law to steal.","exTh":"การขโมยผิดกฎหมาย"}
+{"id":"without_prep","th":"ปราศจาก; โดยไม่มี","ex":"I drink my coffee without sugar.","exTh":"ฉันดื่มกาแฟโดยไม่ใส่น้ำตาล"}
+{"id":"right_noun","th":"สิทธิ; ด้านขวา; สิ่งที่ถูกต้อง","ex":"Everyone has the right to learn.","exTh":"ทุกคนมีสิทธิ์ที่จะเรียนรู้"}
+{"id":"court_noun","th":"ศาล; สนาม (กีฬา)","ex":"The case will go to court next week.","exTh":"คดีนี้จะขึ้นศาลสัปดาห์หน้า"}
+{"id":"within_prep","th":"ภายใน; ในระยะ","ex":"Please reply within two days.","exTh":"กรุณาตอบกลับภายในสองวัน"}
+{"id":"national_adj","th":"แห่งชาติ; ระดับประเทศ","ex":"We visited a national park last summer.","exTh":"ฤดูร้อนที่แล้วเราไปเที่ยวอุทยานแห่งชาติ"}
+{"id":"company_noun","th":"บริษัท; การมีเพื่อนอยู่ด้วย","ex":"My sister works for a large company.","exTh":"น้องสาวของฉันทำงานให้บริษัทใหญ่แห่งหนึ่ง"}
+{"id":"own_pron","th":"ของตนเอง; ของตัวเอง","ex":"I don't need yours, I have my own.","exTh":"ฉันไม่ต้องการของคุณ ฉันมีของฉันเอง","note":"ใช้หลัง my/your/his เช่น my own"}
+{"id":"back_adj","th":"ด้านหลัง; ข้างหลัง","ex":"Please use the back door.","exTh":"กรุณาใช้ประตูหลัง"}
+{"id":"against_prep","th":"ต่อต้าน; พิงกับ; แข่งกับ","ex":"Our team plays against theirs on Friday.","exTh":"ทีมของเราแข่งกับทีมของพวกเขาวันศุกร์"}
+{"id":"given_adj","th":"ที่กำหนดไว้; ที่ระบุ","ex":"Write a story in the given time.","exTh":"เขียนเรื่องสั้นภายในเวลาที่กำหนด"}
+{"id":"another_pron","th":"อีกอันหนึ่ง; อีกคนหนึ่ง","ex":"This cake is great. Can I have another?","exTh":"เค้กนี้อร่อยมาก ขออีกชิ้นได้ไหม"}
+{"id":"down_prep","th":"ลงไป; ตามไป","ex":"She walked down the stairs slowly.","exTh":"เธอเดินลงบันไดช้าๆ"}
+{"id":"since_prep","th":"ตั้งแต่; นับจาก","ex":"I have lived here since 2020.","exTh":"ฉันอาศัยอยู่ที่นี่ตั้งแต่ปี 2020"}
+{"id":"power_noun","th":"อำนาจ; พลัง; กระแสไฟฟ้า","ex":"The power went out during the storm.","exTh":"ไฟดับระหว่างที่พายุเข้า"}
+{"id":"university_noun","th":"มหาวิทยาลัย","ex":"She studies law at a university in Bangkok.","exTh":"เธอเรียนนิติศาสตร์ที่มหาวิทยาลัยในกรุงเทพฯ"}
+{"id":"research_noun","th":"การวิจัย; งานวิจัย","ex":"The research shows that sleep is important.","exTh":"งานวิจัยแสดงให้เห็นว่าการนอนสำคัญ"}
+{"id":"less_adv","th":"น้อยลง; น้อยกว่า","ex":"I eat less sugar than before.","exTh":"ฉันกินน้ำตาลน้อยลงกว่าเมื่อก่อน"}
+{"id":"less_det","th":"น้อยกว่า; น้อยลง","ex":"Drink less coffee if you can't sleep.","exTh":"ดื่มกาแฟให้น้อยลงถ้านอนไม่หลับ","note":"ใช้กับนามนับไม่ได้; นามนับได้ใช้ fewer"}
+{"id":"less_pron","th":"ปริมาณที่น้อยกว่า","ex":"You can pay less if you buy two.","exTh":"คุณจ่ายน้อยลงได้ถ้าซื้อสองชิ้น"}
+{"id":"second_noun","th":"วินาที; ชั่วขณะ","ex":"Wait a second, I'll be right back.","exTh":"รอสักครู่ เดี๋ยวฉันกลับมา"}
+{"id":"second_pron","th":"คนที่สอง; อันดับสอง","ex":"The first runner won, and I was the second.","exTh":"นักวิ่งคนแรกชนะ ส่วนฉันเป็นที่สอง"}
+{"id":"still_adv","th":"ยังคง; ยัง","ex":"It is still raining outside.","exTh":"ข้างนอกฝนยังตกอยู่"}
+{"id":"might_modal","th":"อาจจะ; บางที","ex":"It might rain this afternoon.","exTh":"บ่ายนี้ฝนอาจจะตก"}
+{"id":"control_noun","th":"การควบคุม; อำนาจควบคุม","ex":"The driver lost control of the car.","exTh":"คนขับเสียการควบคุมรถ"}
+{"id":"point_verb","th":"ชี้; ชี้ไปที่","ex":"The little boy pointed at the bird.","exTh":"เด็กชายตัวน้อยชี้ไปที่นก"}
+{"id":"report_noun","th":"รายงาน; ข่าว","ex":"I must finish my report by Friday.","exTh":"ฉันต้องทำรายงานให้เสร็จภายในวันศุกร์"}
+{"id":"committee_noun","th":"คณะกรรมการ; คณะกรรมาธิการ","ex":"The committee will meet again next month.","exTh":"คณะกรรมการจะประชุมอีกครั้งเดือนหน้า"}
+{"id":"last_det","th":"สุดท้าย; ที่แล้ว","ex":"I saw him last week.","exTh":"ฉันเจอเขาเมื่อสัปดาห์ที่แล้ว"}
+{"id":"last_pron","th":"คนสุดท้าย; อันสุดท้าย","ex":"She was the last to leave the room.","exTh":"เธอเป็นคนสุดท้ายที่ออกจากห้อง"}
+{"id":"area_noun","th":"พื้นที่; บริเวณ; ย่าน","ex":"This area is very quiet at night.","exTh":"ย่านนี้เงียบมากตอนกลางคืน"}
+{"id":"end_verb","th":"จบ; สิ้นสุด; ยุติ","ex":"The movie ends at ten o'clock.","exTh":"หนังจบตอนสี่ทุ่ม"}
+{"id":"set_noun","th":"ชุด; เซต","ex":"I bought a set of new dishes.","exTh":"ฉันซื้อจานชุดใหม่"}
+{"id":"study_noun","th":"การเรียน; การศึกษา; งานศึกษาวิจัย","ex":"A new study says walking is good for you.","exTh":"งานศึกษาชิ้นใหม่บอกว่าการเดินดีต่อสุขภาพ"}
+{"id":"value_noun","th":"มูลค่า; คุณค่า; ราคา","ex":"This old coin has great value.","exTh":"เหรียญเก่านี้มีมูลค่าสูง"}
+{"id":"fact_noun","th":"ข้อเท็จจริง; ความจริง","ex":"It is a fact that the earth is round.","exTh":"โลกกลมเป็นข้อเท็จจริง"}
+{"id":"need_verb","th":"ต้องการ; จำเป็นต้อง","ex":"I need some water, please.","exTh":"ขอน้ำหน่อยค่ะ ฉันต้องการน้ำ"}
+{"id":"education_noun","th":"การศึกษา; การให้ความรู้","ex":"Education is very important for children.","exTh":"การศึกษามีความสำคัญมากสำหรับเด็ก"}
+{"id":"off_adv","th":"ออกไป; ปิด; หยุด","ex":"Please turn off the light when you leave.","exTh":"กรุณาปิดไฟเมื่อคุณออกไป"}
+{"id":"interest_noun","th":"ความสนใจ; ดอกเบี้ย","ex":"She has a strong interest in music.","exTh":"เธอสนใจดนตรีมาก"}
+{"id":"few_det","th":"ไม่กี่; น้อย; (a few) บางส่วน","ex":"I have a few friends in this city.","exTh":"ฉันมีเพื่อนไม่กี่คนในเมืองนี้","note":"a few = มีบ้าง; few = แทบไม่มี"}
+{"id":"country_noun","th":"ประเทศ; ชนบท","ex":"Thailand is a beautiful country.","exTh":"ประเทศไทยเป็นประเทศที่สวยงาม"}
+{"id":"possible_adj","th":"เป็นไปได้; อาจเป็นไปได้","ex":"Is it possible to pay by card?","exTh":"จ่ายด้วยบัตรได้ไหม"}
+{"id":"local_adj","th":"ท้องถิ่น; ในพื้นที่","ex":"We ate at a local restaurant.","exTh":"เรากินข้าวที่ร้านอาหารท้องถิ่น"}
+{"id":"rate_noun","th":"อัตรา; ราคา; ความเร็ว","ex":"The exchange rate changes every day.","exTh":"อัตราแลกเปลี่ยนเปลี่ยนแปลงทุกวัน"}
+{"id":"effect_noun","th":"ผล; ผลกระทบ","ex":"The medicine had a good effect on him.","exTh":"ยานี้ส่งผลดีต่อเขา"}
+{"id":"hand_verb","th":"ส่งให้; ยื่นให้","ex":"Could you hand me that book, please?","exTh":"ช่วยส่งหนังสือเล่มนั้นให้ฉันหน่อยได้ไหม"}
+{"id":"home_adv","th":"กลับบ้าน; ที่บ้าน","ex":"I went home early because I felt ill.","exTh":"ฉันกลับบ้านเร็วเพราะไม่สบาย"}
+{"id":"certain_adj","th":"แน่ใจ; แน่นอน; บางอย่าง","ex":"I am certain that I locked the door.","exTh":"ฉันแน่ใจว่าได้ล็อกประตูแล้ว"}
+{"id":"among_prep","th":"ท่ามกลาง; ในหมู่","ex":"She was sitting among her friends.","exTh":"เธอนั่งอยู่ท่ามกลางเพื่อนๆ"}
+{"id":"land_verb","th":"ลงจอด; ร่อนลง; ตกลงบน","ex":"The plane will land in ten minutes.","exTh":"เครื่องบินจะลงจอดในอีกสิบนาที"}
+{"id":"further_adj","th":"เพิ่มเติม; ไกลออกไป","ex":"Do you need any further help?","exTh":"คุณต้องการความช่วยเหลือเพิ่มเติมไหม"}
+{"id":"several_det","th":"หลายๆ; หลาย","ex":"I have called him several times today.","exTh":"วันนี้ฉันโทรหาเขาหลายครั้งแล้ว"}
+{"id":"several_pron","th":"หลายคน; หลายอัน","ex":"Several of my friends were late.","exTh":"เพื่อนหลายคนของฉันมาสาย"}
+{"id":"international_adj","th":"ระหว่างประเทศ; นานาชาติ","ex":"Bangkok has a big international airport.","exTh":"กรุงเทพฯ มีสนามบินนานาชาติขนาดใหญ่"}
+{"id":"left_adv","th":"ไปทางซ้าย; ซ้าย","ex":"Turn left at the next corner.","exTh":"เลี้ยวซ้ายตรงหัวมุมถัดไป"}
+{"id":"left_noun","th":"ด้านซ้าย; ข้างซ้าย","ex":"The bank is on the left.","exTh":"ธนาคารอยู่ทางด้านซ้าย"}
+{"id":"level_noun","th":"ระดับ; ชั้น","ex":"My English is at a good level now.","exTh":"ตอนนี้ภาษาอังกฤษของฉันอยู่ในระดับที่ดี"}
+{"id":"figure_noun","th":"ตัวเลข; รูปร่าง; บุคคลสำคัญ","ex":"The sales figures look very good this year.","exTh":"ตัวเลขยอดขายปีนี้ดูดีมาก"}
+{"id":"figure_verb","th":"คิดว่า; คำนวณ; ปรากฏ","ex":"I figure we can finish by noon.","exTh":"ฉันคิดว่าเราน่าจะทำเสร็จก่อนเที่ยง","note":"ภาษาพูด; figure out = คิดออก"}
+{"id":"far_adv","th":"ไกล; ห่างไกล","ex":"Is your office far from here?","exTh":"ที่ทำงานของคุณอยู่ไกลจากที่นี่ไหม"}
+{"id":"although_conj","th":"แม้ว่า; ถึงแม้","ex":"Although it was cold, we went swimming.","exTh":"แม้อากาศจะหนาว เราก็ยังไปว่ายน้ำ"}
+{"id":"cost_noun","th":"ราคา; ค่าใช้จ่าย; ต้นทุน","ex":"The cost of food is rising.","exTh":"ค่าอาหารกำลังแพงขึ้น"}
+{"id":"cost_verb","th":"มีราคา; ต้องจ่าย","ex":"This bag costs fifty dollars.","exTh":"กระเป๋าใบนี้ราคาห้าสิบดอลลาร์","note":"รูปผัน cost, cost, cost"}
+{"id":"production_noun","th":"การผลิต; ผลผลิต","ex":"The factory has stopped production for now.","exTh":"ตอนนี้โรงงานหยุดการผลิตไว้ชั่วคราว"}
+{"id":"necessary_adj","th":"จำเป็น; ที่ต้องมี","ex":"Is it necessary to book a table?","exTh":"จำเป็นต้องจองโต๊ะไหม"}
+{"id":"human_adj","th":"ของมนุษย์; เกี่ยวกับมนุษย์","ex":"Making mistakes is a human thing.","exTh":"การทำผิดพลาดเป็นเรื่องของมนุษย์"}
+{"id":"air_noun","th":"อากาศ; ลม; บรรยากาศ","ex":"The mountain air feels fresh and clean.","exTh":"อากาศบนภูเขารู้สึกสดชื่นและสะอาด"}
+{"id":"south_adj","th":"ทางใต้; ใต้","ex":"The south side of the house gets more sun.","exTh":"ด้านทิศใต้ของบ้านได้รับแสงแดดมากกว่า"}
+{"id":"south_adv","th":"ไปทางใต้; ทางทิศใต้","ex":"The birds fly south in winter.","exTh":"นกบินไปทางใต้ในฤดูหนาว"}
+{"id":"south_noun","th":"ทิศใต้; ภาคใต้","ex":"My uncle lives in the south of Thailand.","exTh":"ลุงของฉันอาศัยอยู่ทางภาคใต้ของประเทศไทย"}
+{"id":"though_conj","th":"แม้ว่า; ถึงแม้","ex":"Though he is young, he works very hard.","exTh":"แม้เขาจะยังเด็ก แต่ก็ทำงานหนักมาก"}
+{"id":"therefore_adv","th":"ดังนั้น; เพราะฉะนั้น","ex":"It was raining; therefore, we stayed inside.","exTh":"ฝนตก ดังนั้นเราจึงอยู่ข้างใน","note":"ค่อนข้างเป็นทางการ"}
+{"id":"rather_adv","th":"ค่อนข้าง; ค่อนข้างจะ; ดีกว่า","ex":"The test was rather difficult for me.","exTh":"ข้อสอบค่อนข้างยากสำหรับฉัน"}
+{"id":"early_adj","th":"เช้า; แต่เนิ่นๆ; ต้น","ex":"I took an early train this morning.","exTh":"เช้านี้ฉันขึ้นรถไฟเที่ยวเช้า"}
+{"id":"support_noun","th":"การสนับสนุน; ที่พยุง","ex":"Thank you for your support and kindness.","exTh":"ขอบคุณสำหรับการสนับสนุนและน้ำใจของคุณ"}
+{"id":"chapter_noun","th":"บท (ในหนังสือ); ช่วงหนึ่ง","ex":"Please read chapter three for homework.","exTh":"กรุณาอ่านบทที่สามเป็นการบ้าน"}
+{"id":"thought_noun","th":"ความคิด; ความนึกคิด","ex":"I had a happy thought about the trip.","exTh":"ฉันนึกถึงเรื่องทริปแล้วก็สุขใจ"}
+{"id":"free_adv","th":"ฟรี; โดยไม่เสียเงิน; อย่างอิสระ","ex":"Children can eat free on Sundays.","exTh":"เด็กกินฟรีได้ในวันอาทิตย์"}
+{"id":"head_verb","th":"มุ่งหน้า; นำ; เป็นหัวหน้า","ex":"We are heading to the beach now.","exTh":"ตอนนี้เรากำลังมุ่งหน้าไปชายหาด"}
+{"id":"either_conj","th":"ไม่...ก็... (either...or)","ex":"You can have either tea or coffee.","exTh":"คุณเลือกดื่มชาหรือกาแฟอย่างใดอย่างหนึ่งก็ได้","note":"ใช้คู่กับ or"}
+{"id":"political_adj","th":"ทางการเมือง; เกี่ยวกับการเมือง","ex":"He is interested in political news.","exTh":"เขาสนใจข่าวการเมือง"}
+{"id":"around_adv","th":"รอบๆ; ประมาณ; แถวนี้","ex":"Is there a bank around here?","exTh":"แถวนี้มีธนาคารไหม"}
+{"id":"evidence_noun","th":"หลักฐาน; ข้อพิสูจน์","ex":"The police found new evidence at the scene.","exTh":"ตำรวจพบหลักฐานใหม่ที่เกิดเหตุ"}
+{"id":"society_noun","th":"สังคม; สมาคม","ex":"Young people are important to society.","exTh":"คนรุ่นใหม่มีความสำคัญต่อสังคม"}
+{"id":"increase_verb","th":"เพิ่มขึ้น; เพิ่ม","ex":"Prices increase every year.","exTh":"ราคาสินค้าเพิ่มขึ้นทุกปี"}
+{"id":"provide_verb","th":"จัดหาให้; ให้; จัดเตรียม","ex":"The hotel provides free breakfast.","exTh":"โรงแรมจัดอาหารเช้าฟรีให้"}
+{"id":"low_adj","th":"ต่ำ; เตี้ย; น้อย","ex":"The price at this shop is very low.","exTh":"ราคาที่ร้านนี้ต่ำมาก"}
+{"id":"low_adv","th":"ต่ำ; ในระดับต่ำ","ex":"The plane flew low over the field.","exTh":"เครื่องบินบินต่ำเหนือทุ่งนา"}
+{"id":"least_det","th":"น้อยที่สุด","ex":"She has the least money of us all.","exTh":"เธอมีเงินน้อยที่สุดในพวกเรา","note":"ขั้นสูงสุดของ little"}
+{"id":"better_adv","th":"ดีกว่า; ดีขึ้น","ex":"He speaks English better than I do.","exTh":"เขาพูดภาษาอังกฤษได้ดีกว่าฉัน"}
+{"id":"matter_verb","th":"สำคัญ; มีความหมาย","ex":"Your opinion matters to me.","exTh":"ความคิดเห็นของคุณสำคัญสำหรับฉัน"}
+{"id":"common_adj","th":"ธรรมดา; พบบ่อย; ร่วมกัน","ex":"Smith is a very common name.","exTh":"สมิธเป็นนามสกุลที่พบบ่อยมาก"}
+{"id":"whole_adj","th":"ทั้งหมด; ทั้ง; เต็ม","ex":"I ate the whole pizza by myself.","exTh":"ฉันกินพิซซ่าทั้งถาดคนเดียว"}
+{"id":"next_adv","th":"ต่อไป; ถัดไป; ครั้งต่อไป","ex":"What should I do next?","exTh":"ต่อไปฉันควรทำอะไรดี"}
+{"id":"next_det","th":"ถัดไป; หน้า; ต่อไป","ex":"See you next week.","exTh":"เจอกันสัปดาห์หน้านะ"}
+{"id":"north_adj","th":"ทางเหนือ; เหนือ","ex":"The north wind is cold in winter.","exTh":"ลมเหนือหนาวในฤดูหนาว"}
+{"id":"north_adv","th":"ไปทางเหนือ; ทางทิศเหนือ","ex":"We drove north for three hours.","exTh":"เราขับรถไปทางเหนือสามชั่วโมง"}
+{"id":"north_noun","th":"ทิศเหนือ; ภาคเหนือ","ex":"Chiang Mai is in the north of Thailand.","exTh":"เชียงใหม่อยู่ทางภาคเหนือของประเทศไทย"}

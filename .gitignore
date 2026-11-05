@@ -1,0 +1,7 @@
+node_modules
+dist
+data/raw
+data/sources/wcd
+.DS_Store
+*.local
+.claude

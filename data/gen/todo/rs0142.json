@@ -1,0 +1,802 @@
+[
+{
+"id": "wolf-in-one-s-stomach_idiom",
+"w": "wolf in one's stomach",
+"kind": "idiom",
+"gloss": [
+"A ravenous hunger; a large appetite."
+]
+},
+{
+"id": "make-the-weather_idiom",
+"w": "make the weather",
+"kind": "idiom",
+"gloss": [
+"To be extraordinarily effective, especially when in a position of authority."
+]
+},
+{
+"id": "burn-one-s-boats_idiom",
+"w": "burn one's boats",
+"kind": "idiom",
+"gloss": [
+"To cut oneself off from all chance of retreat; to stake everything on success."
+]
+},
+{
+"id": "meant-to_idiom",
+"w": "meant to",
+"kind": "idiom",
+"gloss": [
+"supposed to, obliged to, ought to"
+]
+},
+{
+"id": "legend-in-one-s-own-lifetime_idiom",
+"w": "legend in one's own lifetime",
+"kind": "idiom",
+"gloss": [
+"One who achieves great fame while alive."
+]
+},
+{
+"id": "run-to-earth_idiom",
+"w": "run to earth",
+"kind": "idiom",
+"gloss": [
+"To find someone or something after a long and difficult search."
+]
+},
+{
+"id": "missing-stair_idiom",
+"w": "missing stair",
+"kind": "idiom",
+"gloss": [
+"A member of a community who is widely but privately known within that community for abusiveness or other harmful behavior that has not been addressed."
+]
+},
+{
+"id": "any-time-soon_idiom",
+"w": "any time soon",
+"kind": "idiom",
+"gloss": [
+"soon"
+]
+},
+{
+"id": "11th-commandment_idiom",
+"w": "11th commandment",
+"kind": "idiom",
+"gloss": [
+"A well-known convention (often the most well-known of a certain field) which supposedly can not or should not be broken."
+]
+},
+{
+"id": "sweet-summer-child_idiom",
+"w": "sweet summer child",
+"kind": "idiom",
+"gloss": [
+"Someone who is naive, or who has never experienced hardship."
+]
+},
+{
+"id": "through-the-mill_idiom",
+"w": "through the mill",
+"kind": "idiom",
+"gloss": [
+"Through a period of bad treatment or an ordeal."
+]
+},
+{
+"id": "holy-fire_idiom",
+"w": "holy fire",
+"kind": "idiom",
+"gloss": [
+"An ardent devotion or enthusiasm for God or Christian ideals; Christian fervor."
+]
+},
+{
+"id": "on-the-high-ropes_idiom",
+"w": "on the high ropes",
+"kind": "idiom",
+"gloss": [
+"In an elated or highly excited mood."
+]
+},
+{
+"id": "tears-before-bedtime_idiom",
+"w": "tears before bedtime",
+"kind": "idiom",
+"gloss": [
+"Harm or damage that is incurred before a matter is concluded."
+]
+},
+{
+"id": "no-fun-at-parties_idiom",
+"w": "no fun at parties",
+"kind": "idiom",
+"gloss": [
+"boring or pedantic"
+]
+},
+{
+"id": "keep-it-one-hundred_idiom",
+"w": "keep it one hundred",
+"kind": "idiom",
+"gloss": [
+"To be authentic, to be true to oneself."
+]
+},
+{
+"id": "the-length-of-the-flemington-straight_idiom",
+"w": "the length of the Flemington straight",
+"kind": "idiom",
+"gloss": [
+"A long way; a great distance; a large gap; a lot."
+]
+},
+{
+"id": "turn-to-good-account_idiom",
+"w": "turn to good account",
+"kind": "idiom",
+"gloss": [
+"To use well; to take advantage of."
+]
+},
+{
+"id": "eat-one-s-head-off_idiom",
+"w": "eat one's head off",
+"kind": "idiom",
+"gloss": [
+"Of an animal: to cost more to feed than it is worth."
+]
+},
+{
+"id": "see-with-half-an-eye_idiom",
+"w": "see with half an eye",
+"kind": "idiom",
+"gloss": [
+"To see something without any difficulty, because it is obvious."
+]
+},
+{
+"id": "hold-a-light_idiom",
+"w": "hold a light",
+"kind": "idiom",
+"gloss": [
+"Synonym of hold a candle."
+]
+},
+{
+"id": "pro-and-con_idiom",
+"w": "pro and con",
+"kind": "idiom",
+"gloss": [
+"To debate the advantages and disadvantages of (something or someone)."
+]
+},
+{
+"id": "put-foot-to-ass_idiom",
+"w": "put foot to ass",
+"kind": "idiom",
+"gloss": [
+"To beat the shit out of someone or something; whoop (someone's) ass"
+]
+},
+{
+"id": "get-one-s-fingers-burnt_idiom",
+"w": "get one's fingers burnt",
+"kind": "idiom",
+"gloss": [
+"To suffer relatively minor, adversive, and unexpected harm."
+]
+},
+{
+"id": "fair-weather-fan_idiom",
+"w": "fair-weather fan",
+"kind": "idiom",
+"gloss": [
+"A fan who only pays attention to their favorite team when they are performing well."
+]
+},
+{
+"id": "the-game-is-up_idiom",
+"w": "the game is up",
+"kind": "idiom",
+"gloss": [
+"Secret plans or activities have been revealed, usually leading to their failure."
+]
+},
+{
+"id": "talk-the-hind-leg-off-a-donkey_idiom",
+"w": "talk the hind leg off a donkey",
+"kind": "idiom",
+"gloss": [
+"To talk a lot."
+]
+},
+{
+"id": "kool-aid-smile_idiom",
+"w": "Kool-Aid smile",
+"kind": "idiom",
+"gloss": [
+"A large, beaming smile."
+]
+},
+{
+"id": "give-a-rip_idiom",
+"w": "give a rip",
+"kind": "idiom",
+"gloss": [
+"To care."
+]
+},
+{
+"id": "the-devil-is-a-liar_idiom",
+"w": "the devil is a liar",
+"kind": "idiom",
+"gloss": [
+"A general expression of distrust, particularly implying that another person is attempting to deceive the speaker, or that a situation is not, or can not be, as it appears."
+]
+},
+{
+"id": "sick-at-heart_idiom",
+"w": "sick at heart",
+"kind": "idiom",
+"gloss": [
+"Despairing, distressed, or anxious."
+]
+},
+{
+"id": "painful-on-the-eyes_idiom",
+"w": "painful on the eyes",
+"kind": "idiom",
+"gloss": [
+"Ugly, disagreeable to look at."
+]
+},
+{
+"id": "from-womb-to-tomb_idiom",
+"w": "from womb to tomb",
+"kind": "idiom",
+"gloss": [
+"Synonym of from the cradle to the grave."
+]
+},
+{
+"id": "hang-a-uey_idiom",
+"w": "hang a uey",
+"kind": "idiom",
+"gloss": [
+"To make a U-turn while driving a vehicle (∩)."
+]
+},
+{
+"id": "come-the-old-soldier_idiom",
+"w": "come the old soldier",
+"kind": "idiom",
+"gloss": [
+"Often followed by with: to deceive, impose upon, or take advantage of someone, as if exploiting one's superior age or experience."
+]
+},
+{
+"id": "have-one-s-back-up_idiom",
+"w": "have one's back up",
+"kind": "idiom",
+"gloss": [
+"To be angry or defensive."
+]
+},
+{
+"id": "holy-macaroni_idiom",
+"w": "holy macaroni",
+"kind": "idiom",
+"gloss": [
+"An expression of surprise."
+]
+},
+{
+"id": "i-ll-be-danged_idiom",
+"w": "I'll be danged",
+"kind": "idiom",
+"gloss": [
+"An expression of surprise."
+]
+},
+{
+"id": "bring-to-an-end_idiom",
+"w": "bring to an end",
+"kind": "idiom",
+"gloss": [
+"To cause to stop or complete."
+]
+},
+{
+"id": "stick-to-one-s-text_idiom",
+"w": "stick to one's text",
+"kind": "idiom",
+"gloss": [
+"To limit one's focus to the matter at hand, or the primary subject at issue; to avoid diversion."
+]
+},
+{
+"id": "fuck-if-i-know_idiom",
+"w": "fuck if I know",
+"kind": "idiom",
+"gloss": [
+"I have no idea whatsoever"
+]
+},
+{
+"id": "play-the-devil-with_idiom",
+"w": "play the devil with",
+"kind": "idiom",
+"gloss": [
+"To cause great trouble or distress to."
+]
+},
+{
+"id": "play-merry-hell-with_idiom",
+"w": "play merry hell with",
+"kind": "idiom",
+"gloss": [
+"Synonym of play the devil with."
+]
+},
+{
+"id": "play-the-dickens-with_idiom",
+"w": "play the dickens with",
+"kind": "idiom",
+"gloss": [
+"Synonym of play the devil with."
+]
+},
+{
+"id": "finger-in-the-pie_idiom",
+"w": "finger in the pie",
+"kind": "idiom",
+"gloss": [
+"A share in the doing of something; involvement."
+]
+},
+{
+"id": "butcher-s-bill_idiom",
+"w": "butcher's bill",
+"kind": "idiom",
+"gloss": [
+"death toll"
+]
+},
+{
+"id": "put-a-brave-face-on_idiom",
+"w": "put a brave face on",
+"kind": "idiom",
+"gloss": [
+"To present oneself as calm, confident, or untroubled in the face of difficulty, disappointment, fear or adversity."
+]
+},
+{
+"id": "in-one-s-back-pocket_idiom",
+"w": "in one's back pocket",
+"kind": "idiom",
+"gloss": [
+"Ready if needed, in reserve, prepared, available for use whenever it might be advantageous."
+]
+},
+{
+"id": "labour-the-point_idiom",
+"w": "labour the point",
+"kind": "idiom",
+"gloss": [
+"To continue to discuss or explain something excessively or repetitively to the point that it may bore or annoy the listener."
+]
+},
+{
+"id": "horseshoe-up-one-s-ass_idiom",
+"w": "horseshoe up one's ass",
+"kind": "idiom",
+"gloss": [
+"Exceptionally favorable personal luck."
+]
+},
+{
+"id": "give-someone-a-speaking-to_idiom",
+"w": "give someone a speaking to",
+"kind": "idiom",
+"gloss": [
+"To scold a person."
+]
+},
+{
+"id": "in-the-lump_idiom",
+"w": "in the lump",
+"kind": "idiom",
+"gloss": [
+"Taken all together; in gross."
+]
+},
+{
+"id": "keep-one-s-knickers-on_idiom",
+"w": "keep one's knickers on",
+"kind": "idiom",
+"gloss": [
+"To stay calm; to not get flustered or angry."
+]
+},
+{
+"id": "flog-a-dead-pony_idiom",
+"w": "flog a dead pony",
+"kind": "idiom",
+"gloss": [
+"To attempt to get more out of something that cannot give more; to attempt to arouse fresh interest in something that is either hopeless or already settled."
+]
+},
+{
+"id": "throw-dust-in-someone-s-eyes_idiom",
+"w": "throw dust in someone's eyes",
+"kind": "idiom",
+"gloss": [
+"To delude or deceive someone."
+]
+},
+{
+"id": "teething-trouble_idiom",
+"w": "teething trouble",
+"kind": "idiom",
+"gloss": [
+"Synonym of teething troubles."
+]
+},
+{
+"id": "singe-one-s-wings_idiom",
+"w": "singe one's wings",
+"kind": "idiom",
+"gloss": [
+"To sustain harm, loss or ruin by doing some risky or perilous deed."
+]
+},
+{
+"id": "throw-the-bull-around_idiom",
+"w": "throw the bull around",
+"kind": "idiom",
+"gloss": [
+"Synonym of shoot the breeze."
+]
+},
+{
+"id": "power-of-the-purse_idiom",
+"w": "power of the purse",
+"kind": "idiom",
+"gloss": [
+"The control of finances by one group used as a check on the power of another group."
+]
+},
+{
+"id": "get-wind-in-one-s-jaws_idiom",
+"w": "get wind in one's jaws",
+"kind": "idiom",
+"gloss": [
+"To have too much to say; talk too much; run at the mouth; to speak one's mind or voice one's opinion about a matter; blabber"
+]
+},
+{
+"id": "draw-the-long-bow_idiom",
+"w": "draw the long bow",
+"kind": "idiom",
+"gloss": [
+"To exaggerate; to tell tall tales."
+]
+},
+{
+"id": "light-the-blue-touchpaper_idiom",
+"w": "light the blue touchpaper",
+"kind": "idiom",
+"gloss": [
+"Synonym of light the touch-paper."
+]
+},
+{
+"id": "in-someone-s-black-books_idiom",
+"w": "in someone's black books",
+"kind": "idiom",
+"gloss": [
+"Having incurred someone's displeasure."
+]
+},
+{
+"id": "who-are-you-telling_idiom",
+"w": "who are you telling",
+"kind": "idiom",
+"gloss": [
+"Used in response to an assertion that one is already fully aware of."
+]
+},
+{
+"id": "all-heart_idiom",
+"w": "all heart",
+"kind": "idiom",
+"gloss": [
+"Motivated by positive emotions, especially as productive of exceptionally generous or kind behavior."
+]
+},
+{
+"id": "bring-one-s-own-hide-to-market_idiom",
+"w": "bring one's own hide to market",
+"kind": "idiom",
+"gloss": [
+"To create one's own fate, as a result of one's chosen character and actions; to experience the appropriate consequences of one's behavior."
+]
+},
+{
+"id": "fail-upwards_idiom",
+"w": "fail upwards",
+"kind": "idiom",
+"gloss": [
+"To advance in one's career despite failure or incompetence."
+]
+},
+{
+"id": "for-fudge-s-sake_idiom",
+"w": "for fudge's sake",
+"kind": "idiom",
+"gloss": [
+"for fuck's sake. An expression of anger or frustration."
+]
+},
+{
+"id": "stuck-in-the-mud_idiom",
+"w": "stuck in the mud",
+"kind": "idiom",
+"gloss": [
+"Stuck, unable to progress."
+]
+},
+{
+"id": "settle-a-score_idiom",
+"w": "settle a score",
+"kind": "idiom",
+"gloss": [
+"To even the score."
+]
+},
+{
+"id": "big-end-of-town_idiom",
+"w": "big end of town",
+"kind": "idiom",
+"gloss": [
+"The top end of town."
+]
+},
+{
+"id": "shut-one-s-eyes_idiom",
+"w": "shut one's eyes",
+"kind": "idiom",
+"gloss": [
+"To ignore or deliberately overlook."
+]
+},
+{
+"id": "burn-that-bridge-when-one-comes-to-it_idiom",
+"w": "burn that bridge when one comes to it",
+"kind": "idiom",
+"gloss": [
+"To anticipate dealing with a problem or situation either by acting in a manner that alienates or cuts ties with others, or merely with the expectation of encountering trouble."
+]
+},
+{
+"id": "live-rough_idiom",
+"w": "live rough",
+"kind": "idiom",
+"gloss": [
+"To live and sleep outdoors or in a rough or makeshift shelter, not having a proper home or abode."
+]
+},
+{
+"id": "go-or-blow_idiom",
+"w": "go or blow",
+"kind": "idiom",
+"gloss": [
+"Of a car or its engine: to perform either very well or not at all."
+]
+},
+{
+"id": "best-pleased_idiom",
+"w": "best pleased",
+"kind": "idiom",
+"gloss": [
+"displeased, upset, disgruntled"
+]
+},
+{
+"id": "pull-the-long-bow_idiom",
+"w": "pull the long bow",
+"kind": "idiom",
+"gloss": [
+"Synonym of draw the long bow (“to exaggerate; to tell tall tales”)."
+]
+},
+{
+"id": "on-someone-s-dime_idiom",
+"w": "on someone's dime",
+"kind": "idiom",
+"gloss": [
+"At the monetary expense of the person indicated."
+]
+},
+{
+"id": "have-a-hand-in_idiom",
+"w": "have a hand in",
+"kind": "idiom",
+"gloss": [
+"To contribute to, participate in, or influence."
+]
+},
+{
+"id": "shake-off-the-dust-from-one-s-feet_idiom",
+"w": "shake off the dust from one's feet",
+"kind": "idiom",
+"gloss": [
+"To separate oneself from something unpleasant; to leave a place for good."
+]
+},
+{
+"id": "walk-the-chalk_idiom",
+"w": "walk the chalk",
+"kind": "idiom",
+"gloss": [
+"To keep a correct course in manners or morals."
+]
+},
+{
+"id": "method-to-one-s-madness_idiom",
+"w": "method to one's madness",
+"kind": "idiom",
+"gloss": [
+"A well-thought-out reason for an individual's seemingly illogical behavior."
+]
+},
+{
+"id": "tell-its-own-tale_idiom",
+"w": "tell its own tale",
+"kind": "idiom",
+"gloss": [
+"To speak for itself; to require no explanation."
+]
+},
+{
+"id": "lose-one-s-tongue_idiom",
+"w": "lose one's tongue",
+"kind": "idiom",
+"gloss": [
+"To find oneself unable to speak; to be unable to come up with anything to say."
+]
+},
+{
+"id": "stand-on-one-s-head_idiom",
+"w": "stand on one's head",
+"kind": "idiom",
+"gloss": [
+"Of a goalie: to make exceptional saves."
+]
+},
+{
+"id": "bring-to-nought_idiom",
+"w": "bring to nought",
+"kind": "idiom",
+"gloss": [
+"To mar; to thwart."
+]
+},
+{
+"id": "stars-align_idiom",
+"w": "stars align",
+"kind": "idiom",
+"gloss": [
+"Events or circumstances combine fortuitously."
+]
+},
+{
+"id": "gentle-sex_idiom",
+"w": "gentle sex",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see gentle, sex."
+]
+},
+{
+"id": "in-one-foul-swoop_idiom",
+"w": "in one foul swoop",
+"kind": "idiom",
+"gloss": [
+"(Achieved or completed) with a single action; in a single stroke."
+]
+},
+{
+"id": "in-a-fix_idiom",
+"w": "in a fix",
+"kind": "idiom",
+"gloss": [
+"In a pickle, in a mess, in the soup."
+]
+},
+{
+"id": "it-s-five-o-clock-somewhere_idiom",
+"w": "it's five o'clock somewhere",
+"kind": "idiom",
+"gloss": [
+"Used as an excuse for drinking alcoholic beverages outside of customary hours."
+]
+},
+{
+"id": "of-all-places_idiom",
+"w": "of all places",
+"kind": "idiom",
+"gloss": [
+"Surprisingly."
+]
+},
+{
+"id": "quit-while-one-is-ahead_idiom",
+"w": "quit while one is ahead",
+"kind": "idiom",
+"gloss": [
+"To stop taking risks before one starts losing."
+]
+},
+{
+"id": "grain-of-truth_idiom",
+"w": "grain of truth",
+"kind": "idiom",
+"gloss": [
+"Synonym of kernel of truth."
+]
+},
+{
+"id": "a-pound-to-a-penny_idiom",
+"w": "a pound to a penny",
+"kind": "idiom",
+"gloss": [
+"Very likely; almost certainly."
+]
+},
+{
+"id": "say-the-quiet-part-loud_idiom",
+"w": "say the quiet part loud",
+"kind": "idiom",
+"gloss": [
+"To willingly express a sentiment that is normally considered embarrassing or disreputable to hold; to reveal an ulterior motive."
+]
+},
+{
+"id": "different-breed-of-cat_idiom",
+"w": "different breed of cat",
+"kind": "idiom",
+"gloss": [
+"Something entirely different; a whole other thing or matter."
+]
+},
+{
+"id": "tiger-of-a-different-stripe_idiom",
+"w": "tiger of a different stripe",
+"kind": "idiom",
+"gloss": [
+"Something entirely different; a whole other thing or matter."
+]
+},
+{
+"id": "the-juice-is-worth-the-squeeze_idiom",
+"w": "the juice is worth the squeeze",
+"kind": "idiom",
+"gloss": [
+"The effort put into something is justified by the outcome."
+]
+},
+{
+"id": "piss-on-someone-s-parade_idiom",
+"w": "piss on someone's parade",
+"kind": "idiom",
+"gloss": [
+"To rain on someone's parade."
+]
+}
+]

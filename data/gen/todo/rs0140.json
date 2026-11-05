@@ -1,0 +1,802 @@
+[
+{
+"id": "pass-the-river_idiom",
+"w": "pass the river",
+"kind": "idiom",
+"gloss": [
+"To die."
+]
+},
+{
+"id": "bad-old-days_idiom",
+"w": "bad old days",
+"kind": "idiom",
+"gloss": [
+"The past, seen as a time when things were worse."
+]
+},
+{
+"id": "inch-by-inch_idiom",
+"w": "inch by inch",
+"kind": "idiom",
+"gloss": [
+"Gradually or incrementally."
+]
+},
+{
+"id": "nixon-in-china_idiom",
+"w": "Nixon in China",
+"kind": "idiom",
+"gloss": [
+"Suggesting the ability of a politician with an unassailable reputation among his or her supporters for representing and defending their values to take actions that would draw their criticism and even opposition if taken by someone without those credentials."
+]
+},
+{
+"id": "total-package_idiom",
+"w": "total package",
+"kind": "idiom",
+"gloss": [
+"Something or someone that possesses a complete set of desired or expected characteristics."
+]
+},
+{
+"id": "confront-one-s-demons_idiom",
+"w": "confront one's demons",
+"kind": "idiom",
+"gloss": [
+"To work through past experiences that have left emotional scars."
+]
+},
+{
+"id": "pump-someone-s-tires_idiom",
+"w": "pump someone's tires",
+"kind": "idiom",
+"gloss": [
+"To praise, encourage, or vigorously support someone."
+]
+},
+{
+"id": "soften-the-ground_idiom",
+"w": "soften the ground",
+"kind": "idiom",
+"gloss": [
+"To prepare or create favorable conditions (for something), especially with the intent of improving public acceptance of the forthcoming occurrence."
+]
+},
+{
+"id": "have-seen-this-movie_idiom",
+"w": "have seen this movie",
+"kind": "idiom",
+"gloss": [
+"To have experienced a situation which is the same as or similar to the current situation, especially with a sense of the unpleasantness or tiresomeness of the recurring situation."
+]
+},
+{
+"id": "eat-one-s-own_idiom",
+"w": "eat one's own",
+"kind": "idiom",
+"gloss": [
+"To turn on and attack members of one's own group or clique."
+]
+},
+{
+"id": "tire-fire_idiom",
+"w": "tire fire",
+"kind": "idiom",
+"gloss": [
+"A disaster; a chaotic person, thing, or situation."
+]
+},
+{
+"id": "a-boon-and-a-bane_idiom",
+"w": "a boon and a bane",
+"kind": "idiom",
+"gloss": [
+"Something that is both a benefit and an affliction."
+]
+},
+{
+"id": "steal-someone-s-identity_idiom",
+"w": "steal someone's identity",
+"kind": "idiom",
+"gloss": [
+"To assume another person's identity, usually to gain access to that person's finances or to frame a person for a crime; to commit identity theft."
+]
+},
+{
+"id": "open-the-floodgates_idiom",
+"w": "open the floodgates",
+"kind": "idiom",
+"gloss": [
+"To allow some action to proceed more swiftly or to a greater extent."
+]
+},
+{
+"id": "all-things-to-all-people_idiom",
+"w": "all things to all people",
+"kind": "idiom",
+"gloss": [
+"Someone or something that entirely satisfies the expectations of everyone, no matter how diverse and conflicting those expectations may be."
+]
+},
+{
+"id": "rainbows-and-unicorns_idiom",
+"w": "rainbows and unicorns",
+"kind": "idiom",
+"gloss": [
+"A wonderful (but often unrealistic) scenario."
+]
+},
+{
+"id": "there-is-no-there-there_idiom",
+"w": "there is no there there",
+"kind": "idiom",
+"gloss": [
+"The indicated thing, person, or other matter has no distinctive identity, or no significant characteristics, or no functional center point; nothing significant exists in that place; nothing significant is occurring in that situation."
+]
+},
+{
+"id": "catch-some-rays_idiom",
+"w": "catch some rays",
+"kind": "idiom",
+"gloss": [
+"To sunbathe."
+]
+},
+{
+"id": "wind-tunnel-testing_idiom",
+"w": "wind tunnel testing",
+"kind": "idiom",
+"gloss": [
+"The application of a rigorous testing regime to a new corporate idea, structure or project to determine if it is viable and fit for purpose."
+]
+},
+{
+"id": "over-the-line_idiom",
+"w": "over the line",
+"kind": "idiom",
+"gloss": [
+"Beyond the level of what is acceptable."
+]
+},
+{
+"id": "son-of-adam_idiom",
+"w": "son of Adam",
+"kind": "idiom",
+"gloss": [
+"Any man or boy; any male human."
+]
+},
+{
+"id": "daughter-of-eve_idiom",
+"w": "daughter of Eve",
+"kind": "idiom",
+"gloss": [
+"Any woman or girl; any female human."
+]
+},
+{
+"id": "woman-of-the-people_idiom",
+"w": "woman of the people",
+"kind": "idiom",
+"gloss": [
+"A woman who shows understanding of and sympathy for the concerns of ordinaries, and who has a rapport with and acceptance by them."
+]
+},
+{
+"id": "woman-of-the-hour_idiom",
+"w": "woman of the hour",
+"kind": "idiom",
+"gloss": [
+"A woman who has recently caught the attention of, or is being admired or honoured by, a large number of people."
+]
+},
+{
+"id": "woman-on-the-street_idiom",
+"w": "woman on the street",
+"kind": "idiom",
+"gloss": [
+"An ordinary woman from the general public (especially one who lacks special expertise)."
+]
+},
+{
+"id": "may-the-force-not-be-with-you_idiom",
+"w": "may the Force not be with you",
+"kind": "idiom",
+"gloss": [
+"Used to wish someone bad luck."
+]
+},
+{
+"id": "for-dear-life_idiom",
+"w": "for dear life",
+"kind": "idiom",
+"gloss": [
+"Desperately."
+]
+},
+{
+"id": "let-s-get-the-party-started_idiom",
+"w": "let's get the party started",
+"kind": "idiom",
+"gloss": [
+"Let's go; let's get this done; let's start more intense action."
+]
+},
+{
+"id": "yellow-journalist_idiom",
+"w": "yellow journalist",
+"kind": "idiom",
+"gloss": [
+"A journalist who writes material which is sensationalistic and of questionable accuracy and taste."
+]
+},
+{
+"id": "whip-into-shape_idiom",
+"w": "whip into shape",
+"kind": "idiom",
+"gloss": [
+"To exert considerable effort to change something or someone into a desired state."
+]
+},
+{
+"id": "rain-stopped-play_idiom",
+"w": "rain stopped play",
+"kind": "idiom",
+"gloss": [
+"The cessation of an activity or operation due to rain (by analogy with cricket)."
+]
+},
+{
+"id": "for-the-love-of-me_idiom",
+"w": "for the love of me",
+"kind": "idiom",
+"gloss": [
+"no matter what I do; whatever I do"
+]
+},
+{
+"id": "half-night-stand_idiom",
+"w": "half-night stand",
+"kind": "idiom",
+"gloss": [
+"A single sexual encounter between two individuals, lasting for less than an entire night, where at least one of the partners has no immediate intention or expectation of establishing a longer-term sexual or romantic relationship."
+]
+},
+{
+"id": "put-the-wood-in-the-hole_idiom",
+"w": "put the wood in the hole",
+"kind": "idiom",
+"gloss": [
+"To shut the door."
+]
+},
+{
+"id": "there-is-a-new-sheriff-in-town_idiom",
+"w": "there is a new sheriff in town",
+"kind": "idiom",
+"gloss": [
+"A new individual has come to power and will be making changes."
+]
+},
+{
+"id": "drop-the-topic_idiom",
+"w": "drop the topic",
+"kind": "idiom",
+"gloss": [
+"To stop talking about the topic at hand."
+]
+},
+{
+"id": "wither-on-the-vine_idiom",
+"w": "wither on the vine",
+"kind": "idiom",
+"gloss": [
+"To be unsuccessful due to neglect or inaction."
+]
+},
+{
+"id": "jump-before-one-is-pushed_idiom",
+"w": "jump before one is pushed",
+"kind": "idiom",
+"gloss": [
+"to perform an action before being forced to do so."
+]
+},
+{
+"id": "die-the-way-one-lived_idiom",
+"w": "die the way one lived",
+"kind": "idiom",
+"gloss": [
+"To die because of or after doing something characteristic of oneself, especially something that one enjoyed doing."
+]
+},
+{
+"id": "failure-to-launch_idiom",
+"w": "failure to launch",
+"kind": "idiom",
+"gloss": [
+"A young adult's inability to leave home and begin a self-supported life."
+]
+},
+{
+"id": "make-a-light_idiom",
+"w": "make a light",
+"kind": "idiom",
+"gloss": [
+"When driving, to pass a traffic light before it changes to a color that prohibits passage."
+]
+},
+{
+"id": "fair-shake_idiom",
+"w": "fair shake",
+"kind": "idiom",
+"gloss": [
+"Reasonable, unbiased treatment; a fair deal."
+]
+},
+{
+"id": "the-word-is-go_idiom",
+"w": "the word is go",
+"kind": "idiom",
+"gloss": [
+"Indicates that given plans or actions can proceed."
+]
+},
+{
+"id": "house-of-god_idiom",
+"w": "house of God",
+"kind": "idiom",
+"gloss": [
+"A church."
+]
+},
+{
+"id": "tried-and-trusted_idiom",
+"w": "tried and trusted",
+"kind": "idiom",
+"gloss": [
+"Synonym of tried and true."
+]
+},
+{
+"id": "everybody-who-is-anybody_idiom",
+"w": "everybody who is anybody",
+"kind": "idiom",
+"gloss": [
+"All of the people who are well-known or important, especially those who have prominent social standing."
+]
+},
+{
+"id": "anybody-who-is-anybody_idiom",
+"w": "anybody who is anybody",
+"kind": "idiom",
+"gloss": [
+"Any person who is well-known or important, especially one who has prominent social standing."
+]
+},
+{
+"id": "ugly-american_idiom",
+"w": "ugly American",
+"kind": "idiom",
+"gloss": [
+"An American government representative, tourist, or businessperson who, in dealing with people of other nations, is haughty, rude, meddlesome, chauvinistic, or jingoistic."
+]
+},
+{
+"id": "hearts-and-flowers_idiom",
+"w": "hearts and flowers",
+"kind": "idiom",
+"gloss": [
+"Ideal romance."
+]
+},
+{
+"id": "bite-my-shiny-metal-ass_idiom",
+"w": "bite my shiny metal ass",
+"kind": "idiom",
+"gloss": [
+"An expression of discontent or aggravation to another party."
+]
+},
+{
+"id": "drag-ass_idiom",
+"w": "drag ass",
+"kind": "idiom",
+"gloss": [
+"To move slowly, or lag behind."
+]
+},
+{
+"id": "at-the-disposal-of_idiom",
+"w": "at the disposal of",
+"kind": "idiom",
+"gloss": [
+"At one's disposal."
+]
+},
+{
+"id": "in-laywoman-s-terms_idiom",
+"w": "in laywoman's terms",
+"kind": "idiom",
+"gloss": [
+"Phrased simply (for the sake of average women)."
+]
+},
+{
+"id": "in-layperson-s-terms_idiom",
+"w": "in layperson's terms",
+"kind": "idiom",
+"gloss": [
+"Synonym of in layman's terms."
+]
+},
+{
+"id": "know-how-many-beans-make-five_idiom",
+"w": "know how many beans make five",
+"kind": "idiom",
+"gloss": [
+"To be knowledgeable about how the world works; to have common sense and judgement."
+]
+},
+{
+"id": "in-high-gear_idiom",
+"w": "in high gear",
+"kind": "idiom",
+"gloss": [
+"Serious and intense."
+]
+},
+{
+"id": "not-do-someone-any-favors_idiom",
+"w": "not do someone any favors",
+"kind": "idiom",
+"gloss": [
+"To reflect badly on or to hurt in some way."
+]
+},
+{
+"id": "shut-one-s-trap_idiom",
+"w": "shut one's trap",
+"kind": "idiom",
+"gloss": [
+"To stop talking; to be quiet."
+]
+},
+{
+"id": "put-the-same-shoe-on-every-foot_idiom",
+"w": "put the same shoe on every foot",
+"kind": "idiom",
+"gloss": [
+"To attempt to apply a single solution to different problems."
+]
+},
+{
+"id": "tough-going_idiom",
+"w": "tough going",
+"kind": "idiom",
+"gloss": [
+"A difficult situation"
+]
+},
+{
+"id": "fight-one-s-corner_idiom",
+"w": "fight one's corner",
+"kind": "idiom",
+"gloss": [
+"To vigorously promote or defend one's interests, views, etc."
+]
+},
+{
+"id": "unicorn-barf_idiom",
+"w": "unicorn barf",
+"kind": "idiom",
+"gloss": [
+"Synonym of unicorn vomit."
+]
+},
+{
+"id": "sugarcoat-the-pill_idiom",
+"w": "sugarcoat the pill",
+"kind": "idiom",
+"gloss": [
+"To make an unpleasant event less displeasing."
+]
+},
+{
+"id": "reduce-someone-to-tears_idiom",
+"w": "reduce someone to tears",
+"kind": "idiom",
+"gloss": [
+"To cause to cry."
+]
+},
+{
+"id": "do-ill_idiom",
+"w": "do ill",
+"kind": "idiom",
+"gloss": [
+"To harm, to injure."
+]
+},
+{
+"id": "old-head-on-young-shoulders_idiom",
+"w": "old head on young shoulders",
+"kind": "idiom",
+"gloss": [
+"Someone who has the wisdom of age during his or her physical youth."
+]
+},
+{
+"id": "turn-the-boat_idiom",
+"w": "turn the boat",
+"kind": "idiom",
+"gloss": [
+"To make a major change in behavior, strategy, topic under discussion, etc."
+]
+},
+{
+"id": "finger-to-the-wind_idiom",
+"w": "finger to the wind",
+"kind": "idiom",
+"gloss": [
+"An attention to or focus on or awareness of current or prevailing trends, public opinion, or shifting circumstances."
+]
+},
+{
+"id": "start-with-a-clean-sheet_idiom",
+"w": "start with a clean sheet",
+"kind": "idiom",
+"gloss": [
+"To begin something anew, without being hindered by past mistakes, problems or biases; to start all over again."
+]
+},
+{
+"id": "throw-a-sprat-to-catch-a-mackerel_idiom",
+"w": "throw a sprat to catch a mackerel",
+"kind": "idiom",
+"gloss": [
+"To sacrifice something of little value in the hope of gaining something better."
+]
+},
+{
+"id": "reap-the-whirlwind_idiom",
+"w": "reap the whirlwind",
+"kind": "idiom",
+"gloss": [
+"To suffer bad consequences for one's actions."
+]
+},
+{
+"id": "what-s-the-beef_idiom",
+"w": "what's the beef",
+"kind": "idiom",
+"gloss": [
+"Why are you complaining? What are you complaining about?"
+]
+},
+{
+"id": "bleed-red-ink_idiom",
+"w": "bleed red ink",
+"kind": "idiom",
+"gloss": [
+"To suffer from severe net losses."
+]
+},
+{
+"id": "in-the-pink-of-health_idiom",
+"w": "in the pink of health",
+"kind": "idiom",
+"gloss": [
+"In very good health."
+]
+},
+{
+"id": "wash-one-s-dirty-linen-in-public_idiom",
+"w": "wash one's dirty linen in public",
+"kind": "idiom",
+"gloss": [
+"Synonym of air one's dirty laundry in public."
+]
+},
+{
+"id": "grow-a-set_idiom",
+"w": "grow a set",
+"kind": "idiom",
+"gloss": [
+"Synonym of grow a pair."
+]
+},
+{
+"id": "rule-the-day_idiom",
+"w": "rule the day",
+"kind": "idiom",
+"gloss": [
+"To set the standard which guides behavior; to control a situation, group, strategy, etc."
+]
+},
+{
+"id": "ripe-old-age_idiom",
+"w": "ripe old age",
+"kind": "idiom",
+"gloss": [
+"A very old age"
+]
+},
+{
+"id": "reap-the-harvest_idiom",
+"w": "reap the harvest",
+"kind": "idiom",
+"gloss": [
+"To receive the rewards of something to one's efforts; get out what one puts in."
+]
+},
+{
+"id": "ten-to-one_idiom",
+"w": "ten to one",
+"kind": "idiom",
+"gloss": [
+"Very likely to happen"
+]
+},
+{
+"id": "happy-panda_idiom",
+"w": "happy panda",
+"kind": "idiom",
+"gloss": [
+"A person who is happy and contented."
+]
+},
+{
+"id": "make-heavy-weather_idiom",
+"w": "make heavy weather",
+"kind": "idiom",
+"gloss": [
+"To make progress only with difficulty."
+]
+},
+{
+"id": "start-with-a-clean-slate_idiom",
+"w": "start with a clean slate",
+"kind": "idiom",
+"gloss": [
+"Synonym of start with a clean sheet."
+]
+},
+{
+"id": "under-one-s-very-eyes_idiom",
+"w": "under one's very eyes",
+"kind": "idiom",
+"gloss": [
+"in plain sight; while someone is watching"
+]
+},
+{
+"id": "gall-and-wormwood_idiom",
+"w": "gall and wormwood",
+"kind": "idiom",
+"gloss": [
+"bitterness and resentment"
+]
+},
+{
+"id": "on-the-dry_idiom",
+"w": "on the dry",
+"kind": "idiom",
+"gloss": [
+"temporarily refraining from drinking alcohol"
+]
+},
+{
+"id": "half-murder_idiom",
+"w": "half murder",
+"kind": "idiom",
+"gloss": [
+"The committing of a grievous, but not fatal, injury."
+]
+},
+{
+"id": "mean-streak_idiom",
+"w": "mean streak",
+"kind": "idiom",
+"gloss": [
+"A defect in character characterized by persistent nastiness, viciousness, or malevolence."
+]
+},
+{
+"id": "scare-the-living-daylights-out-of_idiom",
+"w": "scare the living daylights out of",
+"kind": "idiom",
+"gloss": [
+"To scare something or someone to a large degree."
+]
+},
+{
+"id": "set-one-s-hair-on-fire_idiom",
+"w": "set one's hair on fire",
+"kind": "idiom",
+"gloss": [
+"To become wildly impassioned; to behave crazily."
+]
+},
+{
+"id": "bow-legged-wi-brass_idiom",
+"w": "bow-legged wi' brass",
+"kind": "idiom",
+"gloss": [
+"Wealthy; having lots of money."
+]
+},
+{
+"id": "serve-two-masters_idiom",
+"w": "serve two masters",
+"kind": "idiom",
+"gloss": [
+"To take orders from two superiors or two conflicting parties."
+]
+},
+{
+"id": "another-string-to-one-s-bow_idiom",
+"w": "another string to one's bow",
+"kind": "idiom",
+"gloss": [
+"Another skill, ability or resource to be used in case of failure."
+]
+},
+{
+"id": "toothpaste-is-out-of-the-tube_idiom",
+"w": "toothpaste is out of the tube",
+"kind": "idiom",
+"gloss": [
+"A situation that cannot be recovered or reversed back to its original state."
+]
+},
+{
+"id": "cheap-thrill_idiom",
+"w": "cheap thrill",
+"kind": "idiom",
+"gloss": [
+"Something simple and inexpensive done for pleasure."
+]
+},
+{
+"id": "come-up-with-snake-eyes_idiom",
+"w": "come up with snake eyes",
+"kind": "idiom",
+"gloss": [
+"To fail to come up with anything; to get nowhere."
+]
+},
+{
+"id": "wet-firecracker_idiom",
+"w": "wet firecracker",
+"kind": "idiom",
+"gloss": [
+"A person, event, or object lacking liveliness or failing to generate excitement, especially when there was a prior expectation of liveliness or excitement."
+]
+},
+{
+"id": "the-good-doctor_idiom",
+"w": "the good doctor",
+"kind": "idiom",
+"gloss": [
+"An honorific for a doctor, especially for a doctor of medicine (a physician) or for Dr. Samuel Johnson."
+]
+},
+{
+"id": "good-doctor_idiom",
+"w": "good doctor",
+"kind": "idiom",
+"gloss": [
+"An honorific form of address to a doctor."
+]
+},
+{
+"id": "good-doctors_idiom",
+"w": "good doctors",
+"kind": "idiom",
+"gloss": [
+"plural of good doctor. An honorific form of address to a group of doctors."
+]
+}
+]

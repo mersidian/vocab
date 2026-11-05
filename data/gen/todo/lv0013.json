@@ -1,0 +1,602 @@
+[
+{
+"id": "long_adv",
+"w": "long",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "law_noun",
+"w": "law",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "without_prep",
+"w": "without",
+"pos": "prep",
+"lvl": "A2"
+},
+{
+"id": "right_noun",
+"w": "right",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "court_noun",
+"w": "court",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "within_prep",
+"w": "within",
+"pos": "prep",
+"lvl": "A2"
+},
+{
+"id": "national_adj",
+"w": "national",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "company_noun",
+"w": "company",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "own_pron",
+"w": "own",
+"pos": "pron",
+"lvl": "A2"
+},
+{
+"id": "back_adj",
+"w": "back",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "against_prep",
+"w": "against",
+"pos": "prep",
+"lvl": "A2"
+},
+{
+"id": "given_adj",
+"w": "given",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "another_pron",
+"w": "another",
+"pos": "pron",
+"lvl": "A2"
+},
+{
+"id": "down_prep",
+"w": "down",
+"pos": "prep",
+"lvl": "A2"
+},
+{
+"id": "since_prep",
+"w": "since",
+"pos": "prep",
+"lvl": "A2"
+},
+{
+"id": "power_noun",
+"w": "power",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "university_noun",
+"w": "university",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "research_noun",
+"w": "research",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "less_adv",
+"w": "less",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "less_det",
+"w": "less",
+"pos": "det",
+"lvl": "A2"
+},
+{
+"id": "less_pron",
+"w": "less",
+"pos": "pron",
+"lvl": "A2"
+},
+{
+"id": "second_noun",
+"w": "second",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "second_pron",
+"w": "second",
+"pos": "pron",
+"lvl": "A2"
+},
+{
+"id": "still_adv",
+"w": "still",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "might_modal",
+"w": "might",
+"pos": "modal",
+"lvl": "A2"
+},
+{
+"id": "control_noun",
+"w": "control",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "point_verb",
+"w": "point",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "report_noun",
+"w": "report",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "committee_noun",
+"w": "committee",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "last_det",
+"w": "last",
+"pos": "det",
+"lvl": "A2"
+},
+{
+"id": "last_pron",
+"w": "last",
+"pos": "pron",
+"lvl": "A2"
+},
+{
+"id": "area_noun",
+"w": "area",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "end_verb",
+"w": "end",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "set_noun",
+"w": "set",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "study_noun",
+"w": "study",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "value_noun",
+"w": "value",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "fact_noun",
+"w": "fact",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "need_verb",
+"w": "need",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "education_noun",
+"w": "education",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "off_adv",
+"w": "off",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "interest_noun",
+"w": "interest",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "few_det",
+"w": "few",
+"pos": "det",
+"lvl": "A2"
+},
+{
+"id": "country_noun",
+"w": "country",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "possible_adj",
+"w": "possible",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "local_adj",
+"w": "local",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "rate_noun",
+"w": "rate",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "effect_noun",
+"w": "effect",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "hand_verb",
+"w": "hand",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "home_adv",
+"w": "home",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "certain_adj",
+"w": "certain",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "among_prep",
+"w": "among",
+"pos": "prep",
+"lvl": "A2"
+},
+{
+"id": "land_verb",
+"w": "land",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "further_adj",
+"w": "further",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "several_det",
+"w": "several",
+"pos": "det",
+"lvl": "A2"
+},
+{
+"id": "several_pron",
+"w": "several",
+"pos": "pron",
+"lvl": "A2"
+},
+{
+"id": "international_adj",
+"w": "international",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "left_adv",
+"w": "left",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "left_noun",
+"w": "left",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "level_noun",
+"w": "level",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "figure_noun",
+"w": "figure",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "figure_verb",
+"w": "figure",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "far_adv",
+"w": "far",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "although_conj",
+"w": "although",
+"pos": "conj",
+"lvl": "A2"
+},
+{
+"id": "cost_noun",
+"w": "cost",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "cost_verb",
+"w": "cost",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "production_noun",
+"w": "production",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "necessary_adj",
+"w": "necessary",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "human_adj",
+"w": "human",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "air_noun",
+"w": "air",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "south_adj",
+"w": "south",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "south_adv",
+"w": "south",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "south_noun",
+"w": "south",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "though_conj",
+"w": "though",
+"pos": "conj",
+"lvl": "A2"
+},
+{
+"id": "therefore_adv",
+"w": "therefore",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "rather_adv",
+"w": "rather",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "early_adj",
+"w": "early",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "support_noun",
+"w": "support",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "chapter_noun",
+"w": "chapter",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "thought_noun",
+"w": "thought",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "free_adv",
+"w": "free",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "head_verb",
+"w": "head",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "either_conj",
+"w": "either",
+"pos": "conj",
+"lvl": "A2"
+},
+{
+"id": "political_adj",
+"w": "political",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "around_adv",
+"w": "around",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "evidence_noun",
+"w": "evidence",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "society_noun",
+"w": "society",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "increase_verb",
+"w": "increase",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "provide_verb",
+"w": "provide",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "low_adj",
+"w": "low",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "low_adv",
+"w": "low",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "least_det",
+"w": "least",
+"pos": "det",
+"lvl": "A2"
+},
+{
+"id": "better_adv",
+"w": "better",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "matter_verb",
+"w": "matter",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "common_adj",
+"w": "common",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "whole_adj",
+"w": "whole",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "next_adv",
+"w": "next",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "next_det",
+"w": "next",
+"pos": "det",
+"lvl": "A2"
+},
+{
+"id": "north_adj",
+"w": "north",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "north_adv",
+"w": "north",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "north_noun",
+"w": "north",
+"pos": "noun",
+"lvl": "A2"
+}
+]

@@ -1,0 +1,862 @@
+[
+{
+"id": "stochastic_x",
+"w": "stochastic",
+"gloss": [
+"random, randomly determined."
+]
+},
+{
+"id": "fortress_x",
+"w": "fortress",
+"gloss": [
+"A fortified place; a large and permanent fortification, sometimes including a town; for example a fort, a castle; a stronghold; a place of defense or security.",
+"A position that, if obtained by the weaker side, will prevent penetration by the opposing side, generally achieving a draw.",
+"To furnish with a fortress or with fortresses; to guard, to fortify."
+]
+},
+{
+"id": "adhesive_x",
+"w": "adhesive",
+"gloss": [
+"Sticky; tenacious, as glutinous substances.",
+"Apt or tending to adhere; clinging.",
+"a substance, such as glue, that provides or promotes adhesion"
+]
+},
+{
+"id": "presume_x",
+"w": "presume",
+"gloss": [
+"To be so presumptuous as (to do something) without proper authority or permission [with to (+ infinitive)].",
+"To perform, do (something) without authority; to lay claim to without permission.",
+"To assume or suggest to be true (without proof); to take for granted, to suppose."
+]
+},
+{
+"id": "earthly_x",
+"w": "earthly",
+"gloss": [
+"Relating to the earth or this world, as opposed to heaven or the heavens.",
+"Made of earth; earthy.",
+"Used in negative contructions for emphasis."
+]
+},
+{
+"id": "schizophrenia_x",
+"w": "schizophrenia",
+"gloss": [
+"A persistent, often chronic, mental illness characterised by abnormal perception, thinking, behavior and emotion, often marked by delusions.",
+"A condition in which a person is supposed to have several distinct personalities; dissociative identity disorder.",
+"Any condition in which disparate or mutually exclusive activities coexist; a lack of decision between options."
+]
+},
+{
+"id": "trajectory_x",
+"w": "trajectory",
+"gloss": [
+"The path an object takes as it moves.",
+"The path of a body as it travels through space.",
+"The ordered set of intermediate states assumed by a dynamical system as a result of time evolution."
+]
+},
+{
+"id": "iris_x",
+"w": "iris",
+"gloss": [
+"A plant of the genus Iris, common in the northern hemisphere, and generally having attractive blooms (See Iris (plant) on Wikipedia.Wikipedia ).",
+"The contractile membrane perforated by the pupil, which adjusts to control the amount of light reaching the retina, and which forms the colored portion of the eye (See Iris (anatomy) on Wikipedia.Wikipedia ).",
+"A diaphragm used to regulate the size of a hole, especially as a way of controlling the amount of light reaching a lens."
+]
+},
+{
+"id": "dialect_x",
+"w": "dialect",
+"gloss": [
+"A lect (often a regional or minority language) as part of a group or family of languages, especially if they are viewed as a single language, or if contrasted with a standardized idiom that is considered the 'true' form of the language (for example, Bavarian as contrasted with Standard German).",
+"A variety of a language that is characteristic of a particular area, community, or social group, differing from other varieties of the same language in relatively minor ways as regards grammar, phonology, and lexicon.",
+"Language that is perceived as substandard or wrong."
+]
+},
+{
+"id": "restrain_x",
+"w": "restrain",
+"gloss": [
+"To control or keep in check.",
+"To deprive of liberty.",
+"To restrict or limit."
+]
+},
+{
+"id": "inversion_x",
+"w": "inversion",
+"gloss": [
+"The action of inverting.",
+"The act of being in an inverted state; being upside down, inside out, or in a reverse sequence.",
+"The reversal of an interval; the move of one pitch in an interval up or down an octave."
+]
+},
+{
+"id": "wrath_x",
+"w": "wrath",
+"gloss": [
+"Great anger; (countable) an instance of this.",
+"Punishment, retribution, or vengeance resulting from anger; (countable) an instance of this.",
+"Great ardour or passion."
+]
+},
+{
+"id": "veil_x",
+"w": "veil",
+"gloss": [
+"Something hung up or spread out to hide or protect the face, or hide an object from view; usually of gauze, crepe, or similar diaphanous material.",
+"Anything that partially obscures a clear view.",
+"A cover; disguise; a mask; a pretense."
+]
+},
+{
+"id": "miner_x",
+"w": "miner",
+"gloss": [
+"A person who works in a mine.",
+"An operator of ordnance mines and similar explosives.",
+"Any bird of one of several species of South American ovenbirds in the genus Geositta."
+]
+},
+{
+"id": "routinely_x",
+"w": "routinely",
+"gloss": [
+"In a routine manner, in a way that has become common or expected.",
+"Done by rote or habit, as part of a routine, without attention or concern."
+]
+},
+{
+"id": "shuttle_x",
+"w": "shuttle",
+"gloss": [
+"A tool used to carry the woof back and forth between the warp threads on a loom.",
+"The sliding thread holder in a sewing machine, which carries the lower thread through a loop of the upper thread, to make a lock stitch.",
+"A transport service (such as a bus or train) that goes back and forth between two or more places."
+]
+},
+{
+"id": "pragmatic_x",
+"w": "pragmatic",
+"gloss": [
+"Practical, concerned with making decisions and actions that are useful in practice, not just theory.",
+"Philosophical; dealing with causes, reasons, and effects, rather than with details and circumstances; said of literature.",
+"Relating to the field of pragmatics."
+]
+},
+{
+"id": "fist_x",
+"w": "fist",
+"gloss": [
+"A hand with the fingers clenched or curled inward.",
+"Synonym of manicule.",
+"The characteristic signaling rhythm of an individual telegraph or CW operator when sending Morse code."
+]
+},
+{
+"id": "familiarity_x",
+"w": "familiarity",
+"gloss": [
+"The state of being extremely friendly; intimacy.",
+"Undue intimacy; inappropriate informality, impertinence.",
+"An instance of familiar behaviour."
+]
+},
+{
+"id": "banquet_x",
+"w": "banquet",
+"gloss": [
+"A large celebratory meal; a feast.",
+"A ceremonial dinner party for many people.",
+"A dessert; a course of sweetmeats."
+]
+},
+{
+"id": "adolescence_x",
+"w": "adolescence",
+"gloss": [
+"The transitional period of physical and psychological development between childhood and maturity, beginning at the onset of puberty and with an endpoint defined either legally (at the age of majority, such as 18 in many jurisdictions) or psychocognitively (at various ages, depending on individual experience)."
+]
+},
+{
+"id": "decimal_x",
+"w": "decimal",
+"gloss": [
+"Concerning numbers expressed in decimal or mathematical calculations performed using decimal.",
+"A number expressed in the base-ten system, (particularly) a fractional numeral written in this system.",
+"The decimal system itself."
+]
+},
+{
+"id": "proxy_x",
+"w": "proxy",
+"gloss": [
+"Used as a proxy or acting as a proxy.",
+"An agent or substitute authorized to act for another person.",
+"The authority to act for another, especially when written."
+]
+},
+{
+"id": "fruitful_x",
+"w": "fruitful",
+"gloss": [
+"Favourable to the growth of fruit or useful vegetation; not barren.",
+"Being productive in any sense; yielding benefits."
+]
+},
+{
+"id": "orient_x",
+"w": "orient",
+"gloss": [
+"Usually preceded by the: alternative letter-case form of Orient (“a region or a part of the world to the east of a certain place; countries of Asia, the East (especially East Asia)”)",
+"The part of the horizon where the sun first appears in the morning; the east.",
+"A pearl originating from the Indian region, reputed to be of great brilliance; (by extension) any pearl of particular beauty and value."
+]
+},
+{
+"id": "obesity_x",
+"w": "obesity",
+"gloss": [
+"The state of being obese."
+]
+},
+{
+"id": "competitiveness_x",
+"w": "competitiveness",
+"gloss": [
+"The state of being competitive."
+]
+},
+{
+"id": "affirm_x",
+"w": "affirm",
+"gloss": [
+"To agree, verify or concur; to answer positively.",
+"To assert positively; to tell with confidence; to aver; to maintain as true.",
+"To support or encourage."
+]
+},
+{
+"id": "swiftly_x",
+"w": "swiftly",
+"gloss": [
+"In a swift manner; quickly; with quick motion or velocity; fleetly."
+]
+},
+{
+"id": "subscriber_x",
+"w": "subscriber",
+"gloss": [
+"A person who subscribes to a publication or a service.",
+"A system or component that subscribes to something, such as an event, made available by a publisher.",
+"A person undersigned."
+]
+},
+{
+"id": "underway_x",
+"w": "underway",
+"gloss": [
+"In motion, in progress; being done or carried out; on a journey.",
+"A road, track, path, or street for going under another way or obstacle; an underpass.",
+"An underground passage, subway, tunnel."
+]
+},
+{
+"id": "undermine_x",
+"w": "undermine",
+"gloss": [
+"To dig underneath (something), to make a passage for destructive or military purposes; to sap.",
+"To weaken or work against; to hinder, sabotage.",
+"To erode the base or foundation of something, e.g. by the action of water."
+]
+},
+{
+"id": "neatly_x",
+"w": "neatly",
+"gloss": [
+"In a neat manner."
+]
+},
+{
+"id": "shrine_x",
+"w": "shrine",
+"gloss": [
+"A holy or sacred place dedicated to a specific deity, ancestor, hero, martyr, saint, or similar figure of awe and respect, at which said figure is venerated or worshipped.",
+"A case, box, or receptacle, especially one in which are deposited sacred relics, as the bones of a saint.",
+"A place or object hallowed from its history or associations."
+]
+},
+{
+"id": "brutal_x",
+"w": "brutal",
+"gloss": [
+"Savagely violent, vicious, ruthless, or cruel, often in an unintelligent manner.",
+"Crude or unfeeling in manner or speech.",
+"Harsh; unrelenting."
+]
+},
+{
+"id": "jealousy_x",
+"w": "jealousy",
+"gloss": [
+"A state of being jealous; a jealous attitude.",
+"A close concern for someone or something, solicitude, vigilance."
+]
+},
+{
+"id": "vine_x",
+"w": "vine",
+"gloss": [
+"Any plant whose stem requires support and which climbs by tendrils or twining.",
+"Any plant the stem of which creeps along the ground.",
+"A stem of such plants, especially when thick and rope-like; a liana."
+]
+},
+{
+"id": "beverage_x",
+"w": "beverage",
+"gloss": [
+"A liquid to consume; a drink, such as tea, coffee, liquor, beer, milk, juice, or a soft drink, often excluding water.",
+"(A gift of) drink money.",
+"A surname."
+]
+},
+{
+"id": "incremental_x",
+"w": "incremental",
+"gloss": [
+"Pertaining to an increment.",
+"Occurring over a series of gradual increments, or small steps."
+]
+},
+{
+"id": "grammatical_x",
+"w": "grammatical",
+"gloss": [
+"Not breaching any constraints of the grammar, or morpho-syntax, of the relevant language.",
+"Of or pertaining to grammar."
+]
+},
+{
+"id": "psalm_x",
+"w": "psalm",
+"gloss": [
+"A sacred song; a poetical composition for use in the praise or worship of God.",
+"One of the hymns by David and others, collected into one book of the Old Testament, or a modern metrical version of such a hymn for public worship.",
+"To extol in psalms; to make music; to sing"
+]
+},
+{
+"id": "nausea_x",
+"w": "nausea",
+"gloss": [
+"A feeling of illness or discomfort in the digestive system, usually characterized by a strong urge to vomit.",
+"Strong dislike or disgust.",
+"Motion sickness."
+]
+},
+{
+"id": "sabbath_x",
+"w": "sabbath",
+"gloss": [
+"Friday, observed in Islam as a day of rest and worship.",
+"Saturday, observed in Judaism as a day of rest and worship.",
+"Sunday, observed in Christianity as a day of rest and worship."
+]
+},
+{
+"id": "hurricane_x",
+"w": "hurricane",
+"gloss": [
+"A severe tropical cyclone; an intense storm rotating around a central eye.",
+"A severe tropical cyclone in the North Atlantic Ocean, Caribbean Sea, Gulf of Mexico, or in the eastern North Pacific off the west coast of Mexico, with winds of 119 km/h (74 miles per hour) or greater accompanied by rain, lightning, and thunder that sometimes moves into temperate latitudes.",
+"A great forceful onrush."
+]
+},
+{
+"id": "coup_x",
+"w": "coup",
+"gloss": [
+"A quick, brilliant, and highly successful act.",
+"Of Native Americans, a blow against an enemy delivered in a way that demonstrates bravery.",
+"A coup d'état."
+]
+},
+{
+"id": "leukemia_x",
+"w": "leukemia",
+"gloss": [
+"Any of a class of types of cancer affecting the blood cells, especially the white blood cells (usually with massive leukocytosis), and the blood cell–forming (hematopoietic) tissues."
+]
+},
+{
+"id": "armor_x",
+"w": "armor",
+"gloss": [
+"A protective layer over a body, vehicle, or other object intended to deflect or diffuse damaging forces.",
+"A natural form of this kind of protection on an animal's body.",
+"A metal plate, protecting a ship, military vehicle, or aircraft."
+]
+},
+{
+"id": "archive_x",
+"w": "archive",
+"gloss": [
+"A repository or other place for storing material (such as documents and records) no longer in current use, and usually having historical value.",
+"The material so stored, considered as a whole.",
+"A natural deposit of material, regarded as a record of environmental changes over time."
+]
+},
+{
+"id": "pillar_x",
+"w": "pillar",
+"gloss": [
+"A large post, often used as supporting architecture.",
+"Something resembling such a structure.",
+"An essential part of something that provides support."
+]
+},
+{
+"id": "sinus_x",
+"w": "sinus",
+"gloss": [
+"A pouch or cavity in a bone or other tissue, especially one in the bones of the face or skull connecting with the nasal cavities (the paranasal sinus).",
+"An irregular venous or lymphatic cavity, reservoir, or dilated vessel.",
+"Relating to or denoting the sinoatrial node of the heart or its function of regulating the heartbeat."
+]
+},
+{
+"id": "vitamins_x",
+"w": "vitamins"
+},
+{
+"id": "constituency_x",
+"w": "constituency",
+"gloss": [
+"A district represented by one or more elected officials.",
+"The voters within an electoral district.",
+"The residents of an electoral district."
+]
+},
+{
+"id": "hub_x",
+"w": "hub",
+"gloss": [
+"The central part, usually cylindrical, of a wheel; the nave.",
+"A point where many routes meet and traffic is distributed, dispensed, or diverted.",
+"A central facility providing a range of related services, such as a medical hub or an educational hub."
+]
+},
+{
+"id": "cashier_x",
+"w": "cashier",
+"gloss": [
+"To dismiss (someone, especially military personnel) from service.",
+"To discard, put away.",
+"To annul."
+]
+},
+{
+"id": "calculus_x",
+"w": "calculus",
+"gloss": [
+"Calculation; computation.",
+"Any formal system in which symbolic expressions are manipulated according to fixed rules.",
+"Differential calculus and integral calculus considered as a single subject."
+]
+},
+{
+"id": "industrialization_x",
+"w": "industrialization",
+"gloss": [
+"A process of social and economic change whereby a human society is transformed from a preindustrial to an industrial state."
+]
+},
+{
+"id": "pagan_x",
+"w": "pagan",
+"gloss": [
+"Relating to, characteristic of religions that differ from main world religions.",
+"Savage, immoral, uncivilized, wild.",
+"A person not adhering to a main world religion; a follower of a pantheistic or nature-worshipping religion."
+]
+},
+{
+"id": "epidemiology_x",
+"w": "epidemiology",
+"gloss": [
+"The branch of science dealing with the spread and control of diseases, viruses, concepts etc. throughout populations or systems.",
+"The epidemiological body of knowledge about a particular thing."
+]
+},
+{
+"id": "courtyard_x",
+"w": "courtyard",
+"gloss": [
+"An area, open to the sky, partially or wholly surrounded by walls or buildings."
+]
+},
+{
+"id": "outlay_x",
+"w": "outlay",
+"gloss": [
+"A laying out or expending; that which is laid out or expended.",
+"The spending of money, or an expenditure.",
+"A remote haunt or habitation."
+]
+},
+{
+"id": "lethal_x",
+"w": "lethal",
+"gloss": [
+"Of, pertaining to, or causing death; deadly; mortal; fatal.",
+"Any weapon that causes death.",
+"An allele that causes the death of the organism that carries it."
+]
+},
+{
+"id": "liquidity_x",
+"w": "liquidity",
+"gloss": [
+"The state or property of being liquid.",
+"The degree of which something is in high supply and demand, making it easily convertible to cash.",
+"An asset's property of being able to be sold without affecting its value; the degree to which it can be easily converted into cash."
+]
+},
+{
+"id": "glue_x",
+"w": "glue",
+"gloss": [
+"A hard gelatin made by boiling bones and hides, used in solution as an adhesive; or any sticky adhesive substance.",
+"Anything that binds two things or people together.",
+"A viscid secretion on the surface of certain plants."
+]
+},
+{
+"id": "lesbian_x",
+"w": "lesbian",
+"gloss": [
+"Homosexual, gay; preferring exclusively women as romantic or sexual partners.",
+"Preferring primarily women as romantic or sexual partners.",
+"Between two or more women; homosexual, gay."
+]
+},
+{
+"id": "spear_x",
+"w": "spear",
+"gloss": [
+"A long stick with a sharp tip used as a weapon for throwing or thrusting, or anything used to make a thrusting motion.",
+"A soldier armed with such a weapon; a spearman.",
+"A lance with barbed prongs, used by fishermen to retrieve fish."
+]
+},
+{
+"id": "steward_x",
+"w": "steward",
+"gloss": [
+"A person who manages the property or affairs for another entity.",
+"A chief administrator of a medieval manor.",
+"A ship's officer who is in charge of making dining arrangements and provisions."
+]
+},
+{
+"id": "consortium_x",
+"w": "consortium",
+"gloss": [
+"An association or combination of businesses, financial institutions, or investors, for the purpose of engaging in a joint venture.",
+"A similar arrangement among non-commercial institutions or organizations.",
+"An association or society."
+]
+},
+{
+"id": "expectancy_x",
+"w": "expectancy",
+"gloss": [
+"Expectation or anticipation; the state of expecting something.",
+"The state of being expected.",
+"Future interest as to possession or enjoyment"
+]
+},
+{
+"id": "pyramid_x",
+"w": "pyramid",
+"gloss": [
+"An ancient massive construction with a square or rectangular base and four triangular sides meeting in an apex, such as those built as tombs in Egypt or as bases for temples in Mesoamerica.",
+"A construction in the shape of a pyramid, usually with a square or rectangular base.",
+"A solid with triangular lateral faces and a polygonal (often square or rectangular) base."
+]
+},
+{
+"id": "opt_x",
+"w": "opt",
+"gloss": [
+"To choose; select."
+]
+},
+{
+"id": "luncheon_x",
+"w": "luncheon",
+"gloss": [
+"A formal meal served in the middle of the day.",
+"A large, cheap, processed sausage served in thin slices.",
+"Any midday meal; lunch."
+]
+},
+{
+"id": "onwards_x",
+"w": "onwards",
+"gloss": [
+"Onward."
+]
+},
+{
+"id": "accountable_x",
+"w": "accountable",
+"gloss": [
+"Obliged, when called upon, to answer (for one’s deeds); answerable.",
+"Obliged to keep accurate records (of property or funds).",
+"Liable to be called on to render an account."
+]
+},
+{
+"id": "airway_x",
+"w": "airway",
+"gloss": [
+"The trachea.",
+"The trachea and bronchial tree.",
+"A flight path used by aeroplanes."
+]
+},
+{
+"id": "antibiotic_x",
+"w": "antibiotic",
+"gloss": [
+"Any substance that can destroy or inhibit the growth of bacteria and similar microorganisms, generally transported by the lymphatic system.",
+"Of or relating to antibiotics.",
+"Of or relating to the theory that extraterrestrial life does not exist."
+]
+},
+{
+"id": "digestive_x",
+"w": "digestive",
+"gloss": [
+"Of, relating to, or functioning in digestion.",
+"That causes or promotes digestion.",
+"A substance that aids digestion."
+]
+},
+{
+"id": "biopsy_x",
+"w": "biopsy",
+"gloss": [
+"The removal and examination of a sample of tissue, cells, or bodily fluid from a living body for diagnostic purposes.",
+"To take a sample (a biopsy) for pathological examination."
+]
+},
+{
+"id": "rationality_x",
+"w": "rationality",
+"gloss": [
+"The quality or state of being rational; due exercise of reason; reasonableness.",
+"Objective consideration."
+]
+},
+{
+"id": "demon_x",
+"w": "demon",
+"gloss": [
+"An evil being resident in or working for Hell; a devil.",
+"A false god or idol; a Satanic divinity.",
+"A very wicked or malevolent person; also (in weakened sense) a mischievous person, especially a child."
+]
+},
+{
+"id": "moth_x",
+"w": "moth",
+"gloss": [
+"Any flying insect of the order Lepidoptera not in the superfamily Papilionoidea, most species of which are nocturnal and can be distinguished from butterflies by feather-like antennae.",
+"Anything that gradually and silently eats, consumes, or wastes any other thing.",
+"To hunt for moths."
+]
+},
+{
+"id": "pelvic_x",
+"w": "pelvic",
+"gloss": [
+"Of, pertaining to, or in the region of, the pelvis",
+"pelvic fin",
+"a pelvic examination"
+]
+},
+{
+"id": "subscribe_x",
+"w": "subscribe",
+"gloss": [
+"To write (one’s name) at the bottom of a document; to sign (one's name).",
+"To sign; to mark with one's signature as a token of consent or attestation.",
+"To sign up to have copies of a publication, such as a newspaper or a magazine, delivered for a period of time."
+]
+},
+{
+"id": "ulcer_x",
+"w": "ulcer",
+"gloss": [
+"An open sore of the skin, eyes or mucous membrane, often caused by an initial abrasion and generally maintained by an inflammation and/or an infection.",
+"Peptic ulcer.",
+"Anything that festers and corrupts like an open sore; a vice in character."
+]
+},
+{
+"id": "multinational_x",
+"w": "multinational",
+"gloss": [
+"Of, or involving more than two nations (externally between countries or internally in a country).",
+"Operating, or having subsidiary companies in multiple countries (especially more than two).",
+"A multinational company."
+]
+},
+{
+"id": "yuan_x",
+"w": "yuan",
+"gloss": [
+"The basic unit of money in China.",
+"One of the five branches of the government of the Republic of China.",
+"The Mongol-led imperial dynasty of China from 1279 to 1368."
+]
+},
+{
+"id": "overwhelmed_x",
+"w": "overwhelmed",
+"gloss": [
+"Emotionally overpowered.",
+"Carrying a metaphorical burden greater than one can comfortably handle."
+]
+},
+{
+"id": "inefficient_x",
+"w": "inefficient",
+"gloss": [
+"Not efficient; not producing the effect intended or desired; inefficacious.",
+"Incapable of, or indisposed to, effective action; habitually slack or unproductive; effecting little or nothing.",
+"A person who cannot or does not work efficiently."
+]
+},
+{
+"id": "dough_x",
+"w": "dough",
+"gloss": [
+"A thick, malleable substance made by mixing flour with other ingredients such as water, eggs, or butter, that is made into a particular form and then baked.",
+"Money.",
+"To make into dough."
+]
+},
+{
+"id": "wisely_x",
+"w": "wisely",
+"gloss": [
+"In a wise manner; using good judgement.",
+"A surname."
+]
+},
+{
+"id": "leverage_x",
+"w": "leverage",
+"gloss": [
+"A force compounded by means of a lever rotating around a pivot.",
+"Any influence which is compounded or used to gain an advantage.",
+"The use of borrowed funds with a contractually determined return to increase the ability to invest and earn an expected higher return, but usually at high risk."
+]
+},
+{
+"id": "bidder_x",
+"w": "bidder",
+"gloss": [
+"Someone who bids (all senses), but most commonly, one offers to pay a specified price at an auction.",
+"One who commands or orders.",
+"One who asks or invites."
+]
+},
+{
+"id": "competency_x",
+"w": "competency",
+"gloss": [
+"The ability to perform some task; competence.",
+"An individual's capacity to understand the nature and implications of their legal rights and obligations.",
+"Implicit knowledge of a language’s structure."
+]
+},
+{
+"id": "brace_x",
+"w": "brace",
+"gloss": [
+"A curved instrument or handle of iron or wood, for holding and turning bits, etc.; a bitstock.",
+"That which holds anything tightly or supports it firmly; a bandage or a prop.",
+"A cord, ligament, or rod, for producing or maintaining tension."
+]
+},
+{
+"id": "gracious_x",
+"w": "gracious",
+"gloss": [
+"Of, related to, full of, or exhibiting grace.",
+"Kind and warmly courteous.",
+"Compassionate."
+]
+},
+{
+"id": "accelerate_x",
+"w": "accelerate",
+"gloss": [
+"To cause to move faster; to quicken the motion of; to add to the speed of.",
+"To quicken the natural or ordinary progression or process of.",
+"To cause a change of velocity."
+]
+},
+{
+"id": "forge_x",
+"w": "forge",
+"gloss": [
+"A furnace or hearth where metals are heated prior to hammering them into shape.",
+"A workshop in which metals are shaped by heating and hammering them.",
+"The act of beating or working iron or steel."
+]
+},
+{
+"id": "outright_x",
+"w": "outright",
+"gloss": [
+"Wholly; completely; entirely.",
+"Openly and without reservation; unreservedly.",
+"At once."
+]
+},
+{
+"id": "proficiency_x",
+"w": "proficiency",
+"gloss": [
+"Ability, skill, competence."
+]
+},
+{
+"id": "enamel_x",
+"w": "enamel",
+"gloss": [
+"An opaque, glassy coating baked onto metal or ceramic objects.",
+"A coating that dries to a hard, glossy finish.",
+"The hard covering on the exposed part of a tooth."
+]
+},
+{
+"id": "unused_x",
+"w": "unused",
+"gloss": [
+"Not used.",
+"Not accustomed (to), unfamiliar with."
+]
+}
+]

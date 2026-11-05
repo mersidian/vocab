@@ -1,0 +1,602 @@
+[
+{
+"id": "tatter_noun",
+"w": "tatter",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "recommendable_adj",
+"w": "recommendable",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "habitant_noun",
+"w": "habitant",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "anchorman_noun",
+"w": "anchorman",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "hospitalize_verb",
+"w": "hospitalize",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "dehumanize_verb",
+"w": "dehumanize",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "gook_noun",
+"w": "gook",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "housemaster_noun",
+"w": "housemaster",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "idolize_verb",
+"w": "idolize",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "balky_adj",
+"w": "balky",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "italicize_verb",
+"w": "italicize",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "outdistance_verb",
+"w": "outdistance",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "shoplifter_noun",
+"w": "shoplifter",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "coziness_noun",
+"w": "coziness",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "untalented_adj",
+"w": "untalented",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "prehuman_noun",
+"w": "prehuman",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "moonscape_noun",
+"w": "moonscape",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "unusualness_noun",
+"w": "unusualness",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "unclearly_adv",
+"w": "unclearly",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "burgle_verb",
+"w": "burgle",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "impolitely_adv",
+"w": "impolitely",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "shoplift_verb",
+"w": "shoplift",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "skateboarder_noun",
+"w": "skateboarder",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "layabout_noun",
+"w": "layabout",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "unthinkably_adv",
+"w": "unthinkably",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "overbook_verb",
+"w": "overbook",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "anchorperson_noun",
+"w": "anchorperson",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "bad-tempered_adj",
+"w": "bad-tempered",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "brother-in-law_noun",
+"w": "brother-in-law",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "carbon-dioxide_noun",
+"w": "carbon dioxide",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "carbon-footprint_noun",
+"w": "carbon footprint",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "carbon-monoxide_noun",
+"w": "carbon monoxide",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "climate-change_noun",
+"w": "climate change",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "cyberaddict_noun",
+"w": "cyberaddict",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "cybercafe_noun",
+"w": "cybercafe",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "cybercrime_noun",
+"w": "cybercrime",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "cyberpet_noun",
+"w": "cyberpet",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "cyberschool_noun",
+"w": "cyberschool",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "cyberspace_noun",
+"w": "cyberspace",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "daughter-in-law_noun",
+"w": "daughter-in-law",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "de-facto_adj",
+"w": "de facto",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "debit-card_noun",
+"w": "debit card",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "environmentally-friendly_adj",
+"w": "environmentally friendly",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "exclamation-mark_noun",
+"w": "exclamation mark",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "father-in-law_noun",
+"w": "father-in-law",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "fed-up_adj",
+"w": "fed up",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "fire-brigade_noun",
+"w": "fire brigade",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "first-language_noun",
+"w": "first language",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "first-person_noun",
+"w": "first person",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "global-warming_noun",
+"w": "global warming",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "glocal_adj",
+"w": "glocal",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "grown-up_adj",
+"w": "grown-up",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "grown-up_noun",
+"w": "grown-up",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "hard-drive_noun",
+"w": "hard drive",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "health-care_noun",
+"w": "health care",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "high-tech_adj",
+"w": "high-tech",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "human-rights_noun",
+"w": "human rights",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "inverted-commas_noun",
+"w": "inverted commas",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "junk-food_noun",
+"w": "junk food",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "last-minute_noun",
+"w": "last minute",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "last-minute_adj",
+"w": "last-minute",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "long-distance_adj",
+"w": "long-distance",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "long-term_adj",
+"w": "long-term",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "martial-art_noun",
+"w": "martial art",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "mother-in-law_noun",
+"w": "mother-in-law",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "nano_noun",
+"w": "nano",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "native-speaker_noun",
+"w": "native speaker",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "netsurfer_noun",
+"w": "netsurfer",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "non-smoking_adj",
+"w": "non-smoking",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "owing-to_prep",
+"w": "owing to",
+"pos": "prep",
+"lvl": "B2"
+},
+{
+"id": "paperless_adj",
+"w": "paperless",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "point-of-view_noun",
+"w": "point of view",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "polar-bear_noun",
+"w": "polar bear",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "prime-minister_noun",
+"w": "prime minister",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "real-estate_noun",
+"w": "real estate",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "rush-hour_noun",
+"w": "rush hour",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "second-person_noun",
+"w": "second person",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "self-confidence_noun",
+"w": "self-confidence",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "self-confident_adj",
+"w": "self-confident",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "semi-final_noun",
+"w": "semi-final",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "short-term_adj",
+"w": "short-term",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "showbiz_noun",
+"w": "showbiz",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "sister-in-law_noun",
+"w": "sister-in-law",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "so-called_adj",
+"w": "so-called",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "son-in-law_noun",
+"w": "son-in-law",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "sparerib_noun",
+"w": "sparerib",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "steering-wheel_noun",
+"w": "steering wheel",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "stock-market_noun",
+"w": "stock market",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "third-person_noun",
+"w": "third person",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "upside-down_adj",
+"w": "upside down",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "upside-down_adv",
+"w": "upside down",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "virtual-reality_noun",
+"w": "virtual reality",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "well-balanced_adj",
+"w": "well-balanced",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "well-built_adj",
+"w": "well-built",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "well-organized_adj",
+"w": "well-organized",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "well-paid_adj",
+"w": "well-paid",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "worldview_noun",
+"w": "worldview",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "x-ray_noun",
+"w": "X-ray",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "man_verb",
+"w": "man",
+"pos": "verb",
+"lvl": "C1"
+},
+{
+"id": "house_verb",
+"w": "house",
+"pos": "verb",
+"lvl": "C1"
+}
+]

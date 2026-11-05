@@ -1,0 +1,854 @@
+[
+{
+"id": "on-the-warpath_idiom",
+"w": "on the warpath",
+"kind": "idiom",
+"gloss": [
+"Very angry or upset and eager for confrontation."
+]
+},
+{
+"id": "tip-one-s-hat_idiom",
+"w": "tip one's hat",
+"kind": "idiom",
+"gloss": [
+"To briefly remove or tap one's hat as a gesture of greeting, deference, or respect.",
+"To acknowledge or show respect; to honor."
+]
+},
+{
+"id": "in-a-flash_idiom",
+"w": "in a flash",
+"kind": "idiom",
+"gloss": [
+"Instantaneously; very quickly; in almost no time."
+]
+},
+{
+"id": "stab-in-the-back_idiom",
+"w": "stab in the back",
+"kind": "idiom",
+"gloss": [
+"To betray (somebody)."
+]
+},
+{
+"id": "snowball-effect_idiom",
+"w": "snowball effect",
+"kind": "idiom",
+"gloss": [
+"An accelerating growth of magnitude, including fame, fortune, importance, or danger."
+]
+},
+{
+"id": "put-down-roots_idiom",
+"w": "put down roots",
+"kind": "idiom",
+"gloss": [
+"To establish oneself in a place; to become settled."
+]
+},
+{
+"id": "nook-and-cranny_idiom",
+"w": "nook and cranny",
+"kind": "idiom",
+"gloss": [
+"A place or part of a place, especially one that is small, remote, or tedious to access."
+]
+},
+{
+"id": "walk-the-talk_idiom",
+"w": "walk the talk",
+"kind": "idiom",
+"gloss": [
+"To perform actions consistent with one's claims."
+]
+},
+{
+"id": "coming-and-going_idiom",
+"w": "coming and going",
+"kind": "idiom",
+"gloss": [
+"A general bustle of activity.",
+"The activities of a specified person or group."
+]
+},
+{
+"id": "make-the-most-of_idiom",
+"w": "make the most of",
+"kind": "idiom",
+"gloss": [
+"To realize the maximal value, worth, or potential of (something); to derive as much benefit or profit from (something) as is possible."
+]
+},
+{
+"id": "make-a-scene_idiom",
+"w": "make a scene",
+"kind": "idiom",
+"gloss": [
+"To bring unnecessary attention to oneself, especially through a public expression of tumultuous emotion."
+]
+},
+{
+"id": "show-of-hands_idiom",
+"w": "show of hands",
+"kind": "idiom",
+"gloss": [
+"A vote in which people raise a hand in order to state their agreement with something."
+]
+},
+{
+"id": "cowgirl-position_idiom",
+"w": "cowgirl position",
+"kind": "idiom",
+"gloss": [
+"A sex position in which the man lies on his back, and the woman sits on top of him facing him."
+]
+},
+{
+"id": "keep-it-up_idiom",
+"w": "keep it up",
+"kind": "idiom",
+"gloss": [
+"To maintain or continue a positive streak.",
+"To maintain one's erection."
+]
+},
+{
+"id": "on-sight_idiom",
+"w": "on sight",
+"kind": "idiom",
+"gloss": [
+"Immediately when sighted.",
+"Immediately upon coming to one's attention.",
+"cause for a fight, immediately upon encounter without deliberation."
+]
+},
+{
+"id": "ants-in-one-s-pants_idiom",
+"w": "ants in one's pants",
+"kind": "idiom",
+"gloss": [
+"The condition of being agitated and constantly fidgeting.",
+"The condition of being sexually excited."
+]
+},
+{
+"id": "fly-by-the-seat-of-one-s-pants_idiom",
+"w": "fly by the seat of one's pants",
+"kind": "idiom",
+"gloss": [
+"To pilot an aircraft without the aid of instruments and without a flight plan, using only instinct, visual observation, and practical judgment.",
+"To use one's judgment, initiative, and perceptions as events unfold in order to improvise a course of action without a predetermined plan or without the desirable data inputs to decision making."
+]
+},
+{
+"id": "china-syndrome_idiom",
+"w": "China syndrome",
+"kind": "idiom",
+"gloss": [
+"A hypothetical kind of catastrophic failure in which a nuclear reactor melts through the floor of its containment system and (if on land) penetrates the Earth's surface, continuing downward as if (from a Western Hemispheric point of view) traveling through the planet toward China.",
+"A specific instance of this type of failure.",
+"A behavior, policy, or situation characteristic of or involving China; an actual or potential catastrophe, especially one involving China."
+]
+},
+{
+"id": "behind-the-times_idiom",
+"w": "behind the times",
+"kind": "idiom",
+"gloss": [
+"Out of date; old-fashioned; obsolete; outmoded; outdated."
+]
+},
+{
+"id": "stretch-the-truth_idiom",
+"w": "stretch the truth",
+"kind": "idiom",
+"gloss": [
+"To exaggerate, often to the point where the truth is obscured or lost."
+]
+},
+{
+"id": "go-to-someone-s-head_idiom",
+"w": "go to someone's head",
+"kind": "idiom",
+"gloss": [
+"To cloud one's thinking, as do alcohol and many drugs.",
+"To greatly raise one's conception of their social status or accomplishments."
+]
+},
+{
+"id": "take-aim_idiom",
+"w": "take aim",
+"kind": "idiom",
+"gloss": [
+"To position oneself and/or one's weapon so as to be aimed specifically at a chosen mark or target (which is indicated after 'at')",
+"To direct criticism (towards)."
+]
+},
+{
+"id": "keep-one-s-head-above-water_idiom",
+"w": "keep one's head above water",
+"kind": "idiom",
+"gloss": [
+"To survive or endure, especially in a situation in which one is struggling to avoid being overwhelmed by adverse financial circumstances.",
+"Used other than figuratively or idiomatically: maintain an above-water position of one's head so as not to drown in the water."
+]
+},
+{
+"id": "turn-of-events_idiom",
+"w": "turn of events",
+"kind": "idiom",
+"gloss": [
+"A deviation from the expected course of events."
+]
+},
+{
+"id": "catch-sight-of_idiom",
+"w": "catch sight of",
+"kind": "idiom",
+"gloss": [
+"to see for a brief period; to get a glimpse of"
+]
+},
+{
+"id": "on-the-shelf_idiom",
+"w": "on the shelf",
+"kind": "idiom",
+"gloss": [
+"Laid aside.",
+"Unused; abandoned.",
+"Tabled; mothballed."
+]
+},
+{
+"id": "much-less_idiom",
+"w": "much less",
+"kind": "idiom",
+"gloss": [
+"Let alone; to say nothing of, not to mention.",
+"Used other than figuratively or idiomatically: see much, less."
+]
+},
+{
+"id": "look-the-part_idiom",
+"w": "look the part",
+"kind": "idiom",
+"gloss": [
+"To appear suitable for a particular kind of work, position or role."
+]
+},
+{
+"id": "neither-fish-flesh-nor-good-red-herring_idiom",
+"w": "neither fish, flesh, nor good red herring",
+"kind": "idiom",
+"gloss": [
+"Synonym of neither fish nor fowl (“not easily categorized; not rightly belonging or fitting well in a given group or situation; also, not having the advantages of the various options”)."
+]
+},
+{
+"id": "chip-shot_idiom",
+"w": "chip shot",
+"kind": "idiom",
+"gloss": [
+"An approach shot made from a location a short distance from the green in which the ball is launched into the air with only low or moderate force, so that it will land on the green and roll toward the hole.",
+"A relatively easy field goal, made from a short distance.",
+"A shot in which the ball is kicked from underneath with accuracy but with less than maximum force, to launch it high into the air in order either to pass it over the heads of opponents or to score a goal."
+]
+},
+{
+"id": "at-the-helm_idiom",
+"w": "at the helm",
+"kind": "idiom",
+"gloss": [
+"Steering a vessel.",
+"In charge of a company or project."
+]
+},
+{
+"id": "by-a-hair-s-breadth_idiom",
+"w": "by a hair's breadth",
+"kind": "idiom",
+"gloss": [
+"By a narrow margin."
+]
+},
+{
+"id": "pay-a-visit_idiom",
+"w": "pay a visit",
+"kind": "idiom",
+"gloss": [
+"To visit.",
+"To go to the toilet."
+]
+},
+{
+"id": "leave-it-be_idiom",
+"w": "leave it be",
+"kind": "idiom",
+"gloss": [
+"Synonym of let it be."
+]
+},
+{
+"id": "melt-in-the-mouth_idiom",
+"w": "melt in the mouth",
+"kind": "idiom",
+"gloss": [
+"To be deliciously soft and creamy; to create a melting sensation when eaten; to need little chewing.",
+"Deliciously soft and creamy, creating a melting sensation when eaten, and therefore needing little chewing."
+]
+},
+{
+"id": "spare-no-effort_idiom",
+"w": "spare no effort",
+"kind": "idiom",
+"gloss": [
+"To do everything within one's powers to achieve something."
+]
+},
+{
+"id": "bend-the-knee_idiom",
+"w": "bend the knee",
+"kind": "idiom",
+"gloss": [
+"To swear fealty or allegiance to another person.",
+"To submit to or show reverence toward a divine power.",
+"To show undue deference, obedience, or support for someone or something."
+]
+},
+{
+"id": "shake-like-a-leaf_idiom",
+"w": "shake like a leaf",
+"kind": "idiom",
+"gloss": [
+"To tremble, as with fear, cold, etc.; to shiver."
+]
+},
+{
+"id": "in-plain-sight_idiom",
+"w": "in plain sight",
+"kind": "idiom",
+"gloss": [
+"Very easy to see or notice, especially when supposed to be hidden."
+]
+},
+{
+"id": "for-life_idiom",
+"w": "for life",
+"kind": "idiom",
+"gloss": [
+"For the rest of a person's life.",
+"Very fast or strenuously, as if to save one's life."
+]
+},
+{
+"id": "when-it-comes-to_idiom",
+"w": "when it comes to",
+"kind": "idiom",
+"gloss": [
+"as for; with regard to"
+]
+},
+{
+"id": "go-rogue_idiom",
+"w": "go rogue",
+"kind": "idiom",
+"gloss": [
+"To begin to behave in an erratic, uncontrolled, dangerous, destructive, or savage way.",
+"To behave in a very unconventional, independent, uncontrolled, or unauthorized way that ignores rules, norms, or expectations.",
+"To defect, or to repudiate allegiance, fealty, affiliation, or membership. (For example, a spy or soldier in relation to a country; or a politician in relation to a political party; or an employee; or a club member.)"
+]
+},
+{
+"id": "as-far-as-one-is-concerned_idiom",
+"w": "as far as one is concerned",
+"kind": "idiom",
+"gloss": [
+"In someone's opinion, view, or judgment, indicating the speaker's personal perspective, often to introduce their belief or to define or limit the scope of their involvement or knowledge on a particular topic.",
+"Of a workflow or administration, regarding the delineation of responsibilities, to the extent that the matter concerns one's role; to the extent that one is obligated by one's position, role, or office to be involved (in a certain process)."
+]
+},
+{
+"id": "talk-through-one-s-hat_idiom",
+"w": "talk through one's hat",
+"kind": "idiom",
+"gloss": [
+"To speak lacking expertise, authority, or knowledge; to invent or fabricate facts.",
+"To assert something as true or valid; to bluff."
+]
+},
+{
+"id": "all-thumbs_idiom",
+"w": "all thumbs",
+"kind": "idiom",
+"gloss": [
+"Clumsy; awkward; not dextrous."
+]
+},
+{
+"id": "book-burning_idiom",
+"w": "book burning",
+"kind": "idiom",
+"gloss": [
+"A mass burning of books, intended as a form of political and/or religious censorship.",
+"Any mass destruction, removal, or recalling of books, motion pictures, broadcasts, or electronic works as a form of censorship, especially motivated by religious or political objections to the material."
+]
+},
+{
+"id": "cold-snap_idiom",
+"w": "cold snap",
+"kind": "idiom",
+"gloss": [
+"A short and sudden period of cold weather."
+]
+},
+{
+"id": "charley-horse_idiom",
+"w": "charley horse",
+"kind": "idiom",
+"gloss": [
+"Synonym of cramp, a painful involuntary muscle contraction, particularly a strong cramp in the torso, arms, or legs.",
+"A punch in the thigh."
+]
+},
+{
+"id": "grey-area_idiom",
+"w": "grey area",
+"kind": "idiom",
+"gloss": [
+"An area intermediate between two mutually exclusive states or categories, where the border between the two is fuzzy or ill-defined.",
+"A topic that is not clearly one thing or the other, that is open to interpretation."
+]
+},
+{
+"id": "golden-mean_idiom",
+"w": "golden mean",
+"kind": "idiom",
+"gloss": [
+"A position of balance between excess and deficiency."
+]
+},
+{
+"id": "outside-world_idiom",
+"w": "outside world",
+"kind": "idiom",
+"gloss": [
+"The rest of the world outside of some closed, restricted, or remote environment.",
+"The world external to the human mind."
+]
+},
+{
+"id": "someone-s-goose-is-cooked_idiom",
+"w": "someone's goose is cooked",
+"kind": "idiom",
+"gloss": [
+"All hope is gone; there is no possibility of success; the period of good fortune is over."
+]
+},
+{
+"id": "out-of-the-woods_idiom",
+"w": "out of the woods",
+"kind": "idiom",
+"gloss": [
+"Out of peril; likely to recover or prevail over trouble; finished with the worst or most threatening part of a problem or illness.",
+"Used other than figuratively or idiomatically: see out of, the, woods."
+]
+},
+{
+"id": "put-two-and-two-together_idiom",
+"w": "put two and two together",
+"kind": "idiom",
+"gloss": [
+"To figure something out; to deduce or discern something."
+]
+},
+{
+"id": "all-that-jazz_idiom",
+"w": "all that jazz",
+"kind": "idiom",
+"gloss": [
+"Synonym of all that."
+]
+},
+{
+"id": "no-strings-attached_idiom",
+"w": "no strings attached",
+"kind": "idiom",
+"gloss": [
+"Without conditions or obligations; without a catch."
+]
+},
+{
+"id": "at-sea_idiom",
+"w": "at sea",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see at, sea.",
+"In a state of confusion or bewilderment."
+]
+},
+{
+"id": "take-it-out-on_idiom",
+"w": "take it out on",
+"kind": "idiom",
+"gloss": [
+"To unleash one's anger on (a person or thing other than the one that caused it)."
+]
+},
+{
+"id": "cry-wolf_idiom",
+"w": "cry wolf",
+"kind": "idiom",
+"gloss": [
+"To raise a false alarm; to constantly warn others about an imagined threat, thereby failing to get assistance when a real threat appears."
+]
+},
+{
+"id": "bone-of-contention_idiom",
+"w": "bone of contention",
+"kind": "idiom",
+"gloss": [
+"Something that continues to be disputed; something on which no agreement can be reached."
+]
+},
+{
+"id": "rocket-scientist_idiom",
+"w": "rocket scientist",
+"kind": "idiom",
+"gloss": [
+"An aerospace engineer who works with spacecraft.",
+"One qualified to handle or understand things which are very complex or confusing; a very intelligent person."
+]
+},
+{
+"id": "go-all-out_idiom",
+"w": "go all out",
+"kind": "idiom",
+"gloss": [
+"To reserve nothing; to put forth all possible effort or resources."
+]
+},
+{
+"id": "come-to-think-of-it_idiom",
+"w": "come to think of it",
+"kind": "idiom",
+"gloss": [
+"By the way; now that I think about it; indicates something brought to mind."
+]
+},
+{
+"id": "piping-hot_idiom",
+"w": "piping hot",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see piping, hot: very hot in a way that involves sizzling, crackling, or similar noises.",
+"Very hot."
+]
+},
+{
+"id": "cat-s-cradle_idiom",
+"w": "cat's cradle",
+"kind": "idiom",
+"gloss": [
+"A children's game of forming string into various shapes around one's fingers.",
+"Any complicated structure that appears to be without purpose."
+]
+},
+{
+"id": "think-twice_idiom",
+"w": "think twice",
+"kind": "idiom",
+"gloss": [
+"To reconsider, use judgement; to proceed with caution or thought."
+]
+},
+{
+"id": "send-someone-packing_idiom",
+"w": "send someone packing",
+"kind": "idiom",
+"gloss": [
+"To expel, eject, or dismiss someone; to send away, chase off, or force out; (from a job or employment position) to fire."
+]
+},
+{
+"id": "inside-joke_idiom",
+"w": "inside joke",
+"kind": "idiom",
+"gloss": [
+"A joke that is understood or meant to be understood only by certain people who are aware of the details (an ingroup)."
+]
+},
+{
+"id": "nothing-to-write-home-about_idiom",
+"w": "nothing to write home about",
+"kind": "idiom",
+"gloss": [
+"Not exceptional; not noteworthy or especially good."
+]
+},
+{
+"id": "get-to-the-bottom-of_idiom",
+"w": "get to the bottom of",
+"kind": "idiom",
+"gloss": [
+"To come to understand, discover the truth about, or solve."
+]
+},
+{
+"id": "take-out-of-context_idiom",
+"w": "take out of context",
+"kind": "idiom",
+"gloss": [
+"To report (something) without taking into account the context in which it occurred."
+]
+},
+{
+"id": "by-the-book_idiom",
+"w": "by the book",
+"kind": "idiom",
+"gloss": [
+"In a manner which strictly adheres to rules, legal requirements, or official procedures.",
+"In a manner which appears too studied, ritualized, and therefore artificial."
+]
+},
+{
+"id": "rock-the-boat_idiom",
+"w": "rock the boat",
+"kind": "idiom",
+"gloss": [
+"To disturb the status quo or go against rules or conventions, as in an effort to get attention."
+]
+},
+{
+"id": "beg-to-differ_idiom",
+"w": "beg to differ",
+"kind": "idiom",
+"gloss": [
+"To offer an opposing opinion humbly.",
+"To differ (strongly) in interpretation or opinion."
+]
+},
+{
+"id": "number-one_idiom",
+"w": "number one",
+"kind": "idiom",
+"gloss": [
+"First; foremost; best, often used after its headword.",
+"Black, African-American."
+]
+},
+{
+"id": "go-the-extra-mile_idiom",
+"w": "go the extra mile",
+"kind": "idiom",
+"gloss": [
+"To make an extra effort; to do a particularly good job."
+]
+},
+{
+"id": "lose-the-plot_idiom",
+"w": "lose the plot",
+"kind": "idiom",
+"gloss": [
+"To cease to behave in a consistent or rational manner.",
+"To lose sight of an important objective or principle; to act contrarily to one's own interests through concentrating on relatively unimportant matters.",
+"Used other than figuratively or idiomatically: see lose, plot."
+]
+},
+{
+"id": "in-a-pinch_idiom",
+"w": "in a pinch",
+"kind": "idiom",
+"gloss": [
+"In an urgent or difficult situation; when no other solution is available."
+]
+},
+{
+"id": "front-runner_idiom",
+"w": "front runner",
+"kind": "idiom",
+"gloss": [
+"One who is the most likely winner in a contest, election, etc.",
+"One who engages in front running."
+]
+},
+{
+"id": "square-meal_idiom",
+"w": "square meal",
+"kind": "idiom",
+"gloss": [
+"A (nutritionally) complete and satisfying meal, especially one suitable for a person performing physical labour.",
+"Used other than figuratively or idiomatically: see square, meal."
+]
+},
+{
+"id": "tell-it-to-the-marines_idiom",
+"w": "tell it to the marines",
+"kind": "idiom",
+"gloss": [
+"I do not believe what you said."
+]
+},
+{
+"id": "get-one-s-knickers-in-a-twist_idiom",
+"w": "get one's knickers in a twist",
+"kind": "idiom",
+"gloss": [
+"To become overwrought or unnecessarily upset over a trivial matter."
+]
+},
+{
+"id": "lose-count_idiom",
+"w": "lose count",
+"kind": "idiom",
+"gloss": [
+"To forget the number of times that something has happened; to lose the tally."
+]
+},
+{
+"id": "well-i-never_idiom",
+"w": "well, I never",
+"kind": "idiom",
+"gloss": [
+"An exclamation of great surprise."
+]
+},
+{
+"id": "one-of-a-kind_idiom",
+"w": "one of a kind",
+"kind": "idiom",
+"gloss": [
+"A unique specimen."
+]
+},
+{
+"id": "neck-of-the-woods_idiom",
+"w": "neck of the woods",
+"kind": "idiom",
+"gloss": [
+"A local neighbourhood or region.",
+"A place or field in which one is comfortable or with which one is familiar."
+]
+},
+{
+"id": "breathe-down-someone-s-neck_idiom",
+"w": "breathe down someone's neck",
+"kind": "idiom",
+"gloss": [
+"To follow or supervise someone too closely, causing discomfort for that person."
+]
+},
+{
+"id": "lady-s-man_idiom",
+"w": "lady's man",
+"kind": "idiom",
+"gloss": [
+"A man who attracts women and enjoys their company.",
+"A womanizer."
+]
+},
+{
+"id": "fuck-knows_idiom",
+"w": "fuck knows",
+"kind": "idiom",
+"gloss": [
+"I don't know; nobody knows; it is unclear."
+]
+},
+{
+"id": "play-on-words_idiom",
+"w": "play on words",
+"kind": "idiom",
+"gloss": [
+"A pun, or similar humorous use of language such as a double entendre."
+]
+},
+{
+"id": "crab-mentality_idiom",
+"w": "crab mentality",
+"kind": "idiom",
+"gloss": [
+"A phenomenon in which a person or a group of people attempt to hinder the progress or success of others, even if such success does not directly affect their own well-being."
+]
+},
+{
+"id": "turn-the-other-cheek_idiom",
+"w": "turn the other cheek",
+"kind": "idiom",
+"gloss": [
+"To accept punishment or injury without retaliating."
+]
+},
+{
+"id": "meat-market_idiom",
+"w": "meat market",
+"kind": "idiom",
+"gloss": [
+"A market where meat is sold.",
+"A place where one goes to find a date or a casual sexual encounter, such as a bar (establishment) or nightclub.",
+"A place or situation abounding in men, especially beefcake."
+]
+},
+{
+"id": "twist-of-fate_idiom",
+"w": "twist of fate",
+"kind": "idiom",
+"gloss": [
+"An unfortunate, often ironic turn of events."
+]
+},
+{
+"id": "stuff-one-s-face_idiom",
+"w": "stuff one's face",
+"kind": "idiom",
+"gloss": [
+"To eat excessively."
+]
+},
+{
+"id": "of-two-minds_idiom",
+"w": "of two minds",
+"kind": "idiom",
+"gloss": [
+"Undecided or unsure; equivocating; conflicted in one's opinions."
+]
+},
+{
+"id": "hide-one-s-light-under-a-bushel_idiom",
+"w": "hide one's light under a bushel",
+"kind": "idiom",
+"gloss": [
+"To conceal one's positive qualities or talents, especially due to modesty or shyness; to avoid attention."
+]
+},
+{
+"id": "straight-man_idiom",
+"w": "straight man",
+"kind": "idiom",
+"gloss": [
+"A member (of any gender) of a team of comic performers who plays a supporting role by helping to set up jokes and punch lines through engaging in dialog with another comedian playing a more eccentric or otherwise more interesting character; a foil who plays such a role in theatrical comedy.",
+"Used other than figuratively or idiomatically: see straight, man; for example, a heterosexual man."
+]
+},
+{
+"id": "show-someone-the-door_idiom",
+"w": "show someone the door",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see show, someone, the, door.",
+"To escort someone to the exit of the premises; to expel someone from a room, gathering, etc.",
+"To dismiss, fire, or reject; to exclude someone who was formerly included."
+]
+},
+{
+"id": "king-of-the-hill_idiom",
+"w": "king of the hill",
+"kind": "idiom",
+"gloss": [
+"A children's game in which one player stands on top of a hill or other location atop an incline, and attempts to repel other players whose goal is to capture his position.",
+"A game mode with the goal of assuming control of an area for a specified duration.",
+"The player in this game who stands atop the hill."
+]
+}
+]

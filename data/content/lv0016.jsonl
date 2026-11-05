@@ -1,0 +1,100 @@
+{"id":"meaning_noun","th":"ความหมาย; ความมุ่งหมาย","ex":"What is the meaning of this word?","exTh":"คำนี้แปลว่าอะไร"}
+{"id":"lot_noun","th":"จำนวนมาก (a lot); ที่ดินแปลง; ล็อต","ex":"There is a parking lot behind the shop.","exTh":"มีลานจอดรถอยู่หลังร้าน","note":"a lot of = มากมาย"}
+{"id":"behavior_noun","th":"พฤติกรรม; กิริยามารยาท","ex":"The teacher praised the children's good behavior.","exTh":"ครูชมพฤติกรรมที่ดีของเด็กๆ","note":"สะกดแบบอเมริกัน; อังกฤษ = behaviour"}
+{"id":"police_noun","th":"ตำรวจ","ex":"Call the police if you see a fire.","exTh":"ถ้าเห็นไฟไหม้ให้โทรเรียกตำรวจ","note":"ใช้เป็นพหูพจน์เสมอ"}
+{"id":"nation_noun","th":"ชาติ; ประเทศ; ประชาชาติ","ex":"The whole nation watched the game.","exTh":"คนทั้งชาติดูการแข่งขันนัดนี้"}
+{"id":"separate_adj","th":"แยกกัน; ต่างหาก","ex":"We asked for separate bills.","exTh":"เราขอแยกบิลกัน"}
+{"id":"educational_adj","th":"ทางการศึกษา; ให้ความรู้","ex":"This is an educational game for kids.","exTh":"นี่เป็นเกมให้ความรู้สำหรับเด็ก"}
+{"id":"follow_verb","th":"ตาม; ติดตาม; ทำตาม","ex":"Please follow me to the meeting room.","exTh":"กรุณาตามฉันไปห้องประชุม"}
+{"id":"sample_noun","th":"ตัวอย่าง; ของตัวอย่าง","ex":"The shop gave me a free sample of perfume.","exTh":"ร้านให้น้ำหอมตัวอย่างฟรีกับฉัน"}
+{"id":"strength_noun","th":"ความแข็งแรง; จุดแข็ง; กำลัง","ex":"Patience is her greatest strength.","exTh":"ความอดทนคือจุดแข็งที่ยิ่งใหญ่ที่สุดของเธอ"}
+{"id":"professional_adj","th":"เป็นมืออาชีพ; ตามอาชีพ","ex":"She gave us professional advice.","exTh":"เธอให้คำแนะนำแบบมืออาชีพกับเรา"}
+{"id":"ability_noun","th":"ความสามารถ; ความสามารถในการ","ex":"She has the ability to learn fast.","exTh":"เธอมีความสามารถในการเรียนรู้ได้เร็ว"}
+{"id":"request_noun","th":"คำขอ; การร้องขอ","ex":"He made a request for a day off.","exTh":"เขายื่นคำขอลาหยุดหนึ่งวัน"}
+{"id":"impact_noun","th":"ผลกระทบ; แรงกระแทก","ex":"Social media has a big impact on teens.","exTh":"โซเชียลมีเดียส่งผลกระทบอย่างมากต่อวัยรุ่น"}
+{"id":"cover_verb","th":"ปิด; คลุม; ครอบคลุม","ex":"Cover the pot with a lid.","exTh":"ปิดหม้อด้วยฝา"}
+{"id":"official_adj","th":"เป็นทางการ; อย่างเป็นทางการ","ex":"This is the official website of the city.","exTh":"นี่คือเว็บไซต์ทางการของเมือง"}
+{"id":"daily_adj","th":"ประจำวัน; รายวัน","ex":"Walking is part of my daily routine.","exTh":"การเดินเป็นส่วนหนึ่งของกิจวัตรประจำวันของฉัน"}
+{"id":"daily_adv","th":"ทุกวัน; รายวัน","ex":"The shop opens daily at eight.","exTh":"ร้านเปิดทุกวันตอนแปดโมง"}
+{"id":"lake_noun","th":"ทะเลสาบ; บึง","ex":"We swam in the lake last summer.","exTh":"ฤดูร้อนที่แล้วเราว่ายน้ำในทะเลสาบ"}
+{"id":"forward_adv","th":"ไปข้างหน้า; ต่อไป","ex":"Please step forward and show your ticket.","exTh":"กรุณาก้าวไปข้างหน้าและแสดงตั๋ว"}
+{"id":"receive_verb","th":"ได้รับ; รับ","ex":"I received your email this morning.","exTh":"เช้านี้ฉันได้รับอีเมลของคุณแล้ว"}
+{"id":"description_noun","th":"คำบรรยาย; คำอธิบาย; ลักษณะ","ex":"Can you give me a description of the man?","exTh":"ช่วยบอกลักษณะของผู้ชายคนนั้นได้ไหม"}
+{"id":"success_noun","th":"ความสำเร็จ; ผู้ประสบความสำเร็จ","ex":"Hard work is the key to success.","exTh":"ความขยันเป็นกุญแจสู่ความสำเร็จ"}
+{"id":"effort_noun","th":"ความพยายาม; ความอุตสาหะ","ex":"She put a lot of effort into her work.","exTh":"เธอทุ่มเทความพยายามให้กับงานมาก"}
+{"id":"scientific_adj","th":"ทางวิทยาศาสตร์","ex":"They did a scientific test on the water.","exTh":"พวกเขาทดสอบน้ำทางวิทยาศาสตร์"}
+{"id":"park_verb","th":"จอด (รถ)","ex":"You can't park your car here.","exTh":"คุณจอดรถตรงนี้ไม่ได้"}
+{"id":"fully_adv","th":"อย่างเต็มที่; อย่างสมบูรณ์","ex":"The hotel is fully booked this weekend.","exTh":"สุดสัปดาห์นี้โรงแรมเต็มหมดแล้ว"}
+{"id":"develop_verb","th":"พัฒนา; เติบโต; สร้างขึ้น","ex":"The company is developing a new app.","exTh":"บริษัทกำลังพัฒนาแอปใหม่"}
+{"id":"certainly_adv","th":"แน่นอน; ได้เลย; อย่างแน่นอน","ex":"Can I sit here? Certainly.","exTh":"ฉันนั่งตรงนี้ได้ไหม ได้เลยครับ"}
+{"id":"metal_noun","th":"โลหะ","ex":"Iron is a strong metal.","exTh":"เหล็กเป็นโลหะที่แข็งแรง"}
+{"id":"allow_verb","th":"อนุญาต; ยอมให้","ex":"They don't allow dogs in the shop.","exTh":"ร้านไม่อนุญาตให้นำสุนัขเข้า"}
+{"id":"lack_noun","th":"ความขาดแคลน; การขาด","ex":"The plant died from a lack of water.","exTh":"ต้นไม้ตายเพราะขาดน้ำ"}
+{"id":"forest_noun","th":"ป่า; ป่าไม้","ex":"We went hiking in the forest.","exTh":"เราไปเดินป่ากัน"}
+{"id":"try_verb","th":"พยายาม; ลอง","ex":"Please try this soup, it's delicious.","exTh":"ลองชิมซุปนี้ดูสิ อร่อยมาก"}
+{"id":"recently_adv","th":"เมื่อไม่นานมานี้; เมื่อเร็วๆ นี้","ex":"I have been very busy recently.","exTh":"ช่วงนี้ฉันยุ่งมาก"}
+{"id":"gold_noun","th":"ทองคำ; สีทอง","ex":"She wore a gold ring on her finger.","exTh":"เธอสวมแหวนทองที่นิ้ว"}
+{"id":"stand_verb","th":"ยืน; ลุกขึ้น; ทนได้","ex":"Please stand up when the teacher comes in.","exTh":"กรุณาลุกขึ้นยืนเมื่อครูเข้ามา","note":"รูปผัน stood, stood"}
+{"id":"offer_noun","th":"ข้อเสนอ; ข้อเสนอพิเศษ","ex":"I got a job offer from a big company.","exTh":"ฉันได้รับข้อเสนองานจากบริษัทใหญ่"}
+{"id":"offer_verb","th":"เสนอ; ยื่นให้; เสนอให้","ex":"He offered me a cup of tea.","exTh":"เขายื่นชาให้ฉันหนึ่งถ้วย"}
+{"id":"budget_noun","th":"งบประมาณ","ex":"We have a small budget for the trip.","exTh":"เรามีงบประมาณเล็กน้อยสำหรับทริปนี้"}
+{"id":"truth_noun","th":"ความจริง; ข้อเท็จจริง","ex":"Please tell me the truth.","exTh":"กรุณาบอกความจริงกับฉัน"}
+{"id":"communication_noun","th":"การสื่อสาร; การติดต่อ","ex":"Good communication helps a team work well.","exTh":"การสื่อสารที่ดีช่วยให้ทีมทำงานได้ดี"}
+{"id":"inside_adv","th":"ข้างใน; ภายใน","ex":"It's raining, so let's go inside.","exTh":"ฝนตกแล้ว เข้าไปข้างในกันเถอะ"}
+{"id":"speed_noun","th":"ความเร็ว; อัตราเร็ว","ex":"The car was moving at high speed.","exTh":"รถกำลังแล่นด้วยความเร็วสูง"}
+{"id":"serve_verb","th":"เสิร์ฟ; รับใช้; ให้บริการ","ex":"The restaurant serves breakfast all day.","exTh":"ร้านอาหารเสิร์ฟอาหารเช้าทั้งวัน"}
+{"id":"remain_verb","th":"ยังคง; เหลืออยู่; อยู่ต่อ","ex":"Please remain seated until the plane stops.","exTh":"กรุณานั่งอยู่กับที่จนกว่าเครื่องบินจะหยุด"}
+{"id":"wood_noun","th":"ไม้; เนื้อไม้; ป่าเล็กๆ","ex":"The table is made of solid wood.","exTh":"โต๊ะตัวนี้ทำจากไม้แท้"}
+{"id":"expression_noun","th":"สีหน้า; การแสดงออก; สำนวน","ex":"She had a happy expression on her face.","exTh":"เธอมีสีหน้ามีความสุข"}
+{"id":"agent_noun","th":"ตัวแทน; นายหน้า; สายลับ","ex":"We booked our trip through a travel agent.","exTh":"เราจองทริปผ่านตัวแทนท่องเที่ยว"}
+{"id":"round_adv","th":"รอบๆ; วนไปรอบ","ex":"Come round to my place tonight.","exTh":"คืนนี้แวะมาที่บ้านฉันนะ","note":"สำเนียงอังกฤษ; อเมริกันใช้ around"}
+{"id":"pass_noun","th":"บัตรผ่าน; ช่องเขา; การส่งบอล","ex":"You need a pass to enter the building.","exTh":"คุณต้องมีบัตรผ่านเพื่อเข้าอาคาร"}
+{"id":"pass_verb","th":"ผ่าน; ส่งให้; สอบผ่าน","ex":"Could you pass me the salt, please?","exTh":"ช่วยส่งเกลือให้หน่อยได้ไหม"}
+{"id":"useful_adj","th":"มีประโยชน์; ใช้งานได้ดี","ex":"This map is very useful for tourists.","exTh":"แผนที่นี้มีประโยชน์มากสำหรับนักท่องเที่ยว"}
+{"id":"easily_adv","th":"อย่างง่ายดาย; ได้ง่ายๆ","ex":"She passed the test easily.","exTh":"เธอสอบผ่านได้อย่างง่ายดาย"}
+{"id":"choice_noun","th":"ทางเลือก; การเลือก","ex":"You have a choice of tea or coffee.","exTh":"คุณเลือกได้ว่าจะดื่มชาหรือกาแฟ"}
+{"id":"regular_adj","th":"สม่ำเสมอ; ประจำ; ปกติ","ex":"He is a regular customer at this cafe.","exTh":"เขาเป็นลูกค้าประจำของร้านกาแฟแห่งนี้"}
+{"id":"image_noun","th":"ภาพ; รูปภาพ; ภาพลักษณ์","ex":"The image on the screen is not clear.","exTh":"ภาพบนหน้าจอไม่ชัด"}
+{"id":"dead_adj","th":"ตาย; หมดไฟ; ไม่ทำงาน","ex":"My phone is dead, so I can't call.","exTh":"โทรศัพท์ของฉันแบตหมด เลยโทรไม่ได้"}
+{"id":"attempt_noun","th":"ความพยายาม; การลอง","ex":"This was my second attempt to pass the test.","exTh":"นี่เป็นการพยายามสอบผ่านครั้งที่สองของฉัน"}
+{"id":"error_noun","th":"ข้อผิดพลาด; ความผิดพลาด","ex":"The computer shows an error message.","exTh":"คอมพิวเตอร์แสดงข้อความผิดพลาด"}
+{"id":"assistant_adj","th":"ผู้ช่วย; รอง","ex":"She is the assistant manager of the hotel.","exTh":"เธอเป็นผู้ช่วยผู้จัดการโรงแรม","note":"ใช้นำหน้านาม เช่น assistant manager"}
+{"id":"doubt_noun","th":"ความสงสัย; ความไม่แน่ใจ","ex":"I have no doubt that she will win.","exTh":"ฉันไม่สงสัยเลยว่าเธอจะชนะ"}
+{"id":"task_noun","th":"งาน; ภารกิจ","ex":"Cleaning the kitchen is my task today.","exTh":"การทำความสะอาดห้องครัวเป็นงานของฉันวันนี้"}
+{"id":"drug_noun","th":"ยา; ยาเสพติด","ex":"The doctor gave me a drug for my cough.","exTh":"หมอให้ยาแก้ไอกับฉัน"}
+{"id":"mark_noun","th":"รอยเปื้อน; เครื่องหมาย; คะแนน","ex":"There is a dirty mark on your shirt.","exTh":"มีรอยเปื้อนบนเสื้อของคุณ"}
+{"id":"mark_verb","th":"ทำเครื่องหมาย; ตรวจให้คะแนน","ex":"Please mark the correct answer.","exTh":"กรุณาทำเครื่องหมายที่คำตอบที่ถูกต้อง"}
+{"id":"film_noun","th":"ภาพยนตร์; ฟิล์ม","ex":"We saw a funny film last night.","exTh":"เมื่อคืนเราดูหนังตลกเรื่องหนึ่ง"}
+{"id":"manager_noun","th":"ผู้จัดการ; หัวหน้า","ex":"The manager is in a meeting now.","exTh":"ตอนนี้ผู้จัดการกำลังประชุมอยู่"}
+{"id":"create_verb","th":"สร้าง; ก่อให้เกิด","ex":"She likes to create her own recipes.","exTh":"เธอชอบคิดสูตรอาหารของตัวเอง"}
+{"id":"summary_noun","th":"บทสรุป; สรุปย่อ","ex":"Please write a short summary of the story.","exTh":"กรุณาเขียนสรุปเรื่องย่อๆ"}
+{"id":"prevent_verb","th":"ป้องกัน; ขัดขวาง","ex":"Washing your hands helps prevent illness.","exTh":"การล้างมือช่วยป้องกันโรค"}
+{"id":"thousand_num","th":"หนึ่งพัน; พัน","ex":"The phone costs about a thousand dollars.","exTh":"โทรศัพท์เครื่องนี้ราคาประมาณหนึ่งพันดอลลาร์"}
+{"id":"exercise_noun","th":"การออกกำลังกาย; แบบฝึกหัด","ex":"Regular exercise keeps you healthy.","exTh":"การออกกำลังกายสม่ำเสมอทำให้สุขภาพดี"}
+{"id":"square_adj","th":"เป็นสี่เหลี่ยมจัตุรัส; ตารางเมตร","ex":"We sat at a square table by the window.","exTh":"เรานั่งโต๊ะสี่เหลี่ยมจัตุรัสข้างหน้าต่าง"}
+{"id":"square_noun","th":"จัตุรัส; สี่เหลี่ยมจัตุรัส; ลานกว้าง","ex":"People met in the town square.","exTh":"ผู้คนมาพบกันที่จัตุรัสกลางเมือง"}
+{"id":"myself_pron","th":"ตัวฉันเอง; ด้วยตัวเอง","ex":"I made this cake myself.","exTh":"ฉันทำเค้กนี้ด้วยตัวเอง"}
+{"id":"freedom_noun","th":"อิสรภาพ; เสรีภาพ","ex":"Everyone wants freedom to choose.","exTh":"ทุกคนต้องการเสรีภาพในการเลือก"}
+{"id":"copy_verb","th":"คัดลอก; ถ่ายเอกสาร; ลอกเลียน","ex":"Please copy this file to my computer.","exTh":"กรุณาคัดลอกไฟล์นี้ไปไว้ในคอมพิวเตอร์ของฉัน"}
+{"id":"whatever_det","th":"อะไรก็ตาม; ไม่ว่าอะไร","ex":"You can eat whatever food you like.","exTh":"คุณกินอาหารอะไรก็ได้ที่ชอบ"}
+{"id":"dry_verb","th":"ทำให้แห้ง; ผึ่งให้แห้ง","ex":"I dry my hair after I wash it.","exTh":"ฉันเป่าผมให้แห้งหลังสระผม"}
+{"id":"negative_adj","th":"เชิงลบ; ปฏิเสธ; ติดลบ","ex":"Try not to have negative thoughts.","exTh":"พยายามอย่าคิดในแง่ลบ"}
+{"id":"rock_noun","th":"หิน; ก้อนหิน; ดนตรีร็อก","ex":"A big rock blocked the road.","exTh":"ก้อนหินใหญ่ขวางถนนอยู่"}
+{"id":"indicate_verb","th":"บ่งชี้; ชี้ให้เห็น; แสดง","ex":"The sign indicates the way to the beach.","exTh":"ป้ายบอกทางไปชายหาด"}
+{"id":"branch_noun","th":"กิ่งไม้; สาขา","ex":"A bird sat on the branch.","exTh":"นกตัวหนึ่งเกาะอยู่บนกิ่งไม้"}
+{"id":"telephone_verb","th":"โทรศัพท์หา","ex":"Please telephone me when you get home.","exTh":"กรุณาโทรหาฉันเมื่อถึงบ้าน","note":"ค่อนข้างเก่า; ปัจจุบันนิยมใช้ call"}
+{"id":"wish_verb","th":"ปรารถนา; อยากให้; อวยพร","ex":"I wish I had more free time.","exTh":"ฉันอยากให้มีเวลาว่างมากกว่านี้"}
+{"id":"establish_verb","th":"ก่อตั้ง; สถาปนา; พิสูจน์","ex":"They established the school in 1990.","exTh":"พวกเขาก่อตั้งโรงเรียนนี้ในปี 1990"}
+{"id":"double_adj","th":"สองเท่า; คู่","ex":"I'd like a double room for two nights.","exTh":"ขอห้องเตียงคู่สองคืน"}
+{"id":"cash_noun","th":"เงินสด","ex":"Do you accept cash or only cards?","exTh":"รับเงินสดหรือรับแค่บัตรครับ"}
+{"id":"coast_noun","th":"ชายฝั่ง; ชายทะเล","ex":"We drove along the coast all day.","exTh":"เราขับรถเลียบชายฝั่งทั้งวัน"}
+{"id":"context_noun","th":"บริบท; สถานการณ์แวดล้อม","ex":"Guess the word from the context.","exTh":"เดาความหมายของคำจากบริบท"}
+{"id":"running_noun","th":"การวิ่ง; การวิ่งออกกำลังกาย","ex":"Running every morning makes me feel good.","exTh":"การวิ่งทุกเช้าทำให้ฉันรู้สึกดี"}
+{"id":"check_verb","th":"ตรวจสอบ; เช็ก","ex":"Please check your bag before you leave.","exTh":"กรุณาเช็กกระเป๋าของคุณก่อนออกไป"}
+{"id":"female_adj","th":"เพศหญิง; ตัวเมีย","ex":"The company has more female staff than male.","exTh":"บริษัทมีพนักงานหญิงมากกว่าชาย"}
+{"id":"herself_pron","th":"ตัวเธอเอง; ด้วยตัวเอง","ex":"She taught herself to play the guitar.","exTh":"เธอฝึกเล่นกีตาร์ด้วยตัวเอง"}
+{"id":"popular_adj","th":"เป็นที่นิยม; ได้รับความนิยม","ex":"This song is very popular right now.","exTh":"เพลงนี้ได้รับความนิยมมากตอนนี้"}
+{"id":"traffic_noun","th":"การจราจร; รถติด","ex":"The traffic is terrible in the morning.","exTh":"การจราจรตอนเช้าแย่มาก"}
+{"id":"male_noun","th":"เพศชาย; ผู้ชาย; ตัวผู้","ex":"Please tick male or female on the form.","exTh":"กรุณาติ๊กเลือกเพศชายหรือหญิงในแบบฟอร์ม"}
+{"id":"traditional_adj","th":"ตามประเพณี; แบบดั้งเดิม","ex":"She wore a traditional Thai dress.","exTh":"เธอสวมชุดไทยแบบดั้งเดิม"}
+{"id":"concern_noun","th":"ความกังวล; ข้อห่วงใย; เรื่องที่เกี่ยวข้อง","ex":"Her main concern is her son's health.","exTh":"สิ่งที่เธอกังวลที่สุดคือสุขภาพของลูกชาย"}

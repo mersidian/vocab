@@ -1,0 +1,926 @@
+[
+{
+"id": "spinal-cord_x",
+"w": "spinal cord",
+"gloss": [
+"A thick, whitish cord of nerve tissue which is a major part of the vertebrate central nervous system. It extends from the brain stem down through the spine, with nerves branching off to various parts of the body."
+]
+},
+{
+"id": "spinal-nerves_x",
+"w": "spinal nerves"
+},
+{
+"id": "stabbing-pain_x",
+"w": "stabbing pain"
+},
+{
+"id": "stockmarket_x",
+"w": "stockmarket"
+},
+{
+"id": "stomach-bug_x",
+"w": "stomach bug",
+"gloss": [
+"Something, such as a germ, that causes intestinal distress (particularly vomiting)."
+]
+},
+{
+"id": "stomach-cramps_x",
+"w": "stomach cramps"
+},
+{
+"id": "stomach-ulcer_x",
+"w": "stomach ulcer",
+"gloss": [
+"Synonym of peptic ulcer."
+]
+},
+{
+"id": "subprime_x",
+"w": "subprime",
+"gloss": [
+"Less than prime; inferior.",
+"Designating a loan (typically at a greater than usual rate of interest) offered to a borrower who is not qualified for other loans (for example, because of a poor credit history).",
+"Designating a type of commercial lending rate, less than the prime rate, offered to desirable borrowers."
+]
+},
+{
+"id": "superior-vena-cava_x",
+"w": "superior vena cava",
+"gloss": [
+"The large vein which returns blood from the head, neck, thorax and both upper limbs to the right atrium of the heart."
+]
+},
+{
+"id": "susceptible-to_x",
+"w": "susceptible to"
+},
+{
+"id": "sustainability_x",
+"w": "sustainability",
+"gloss": [
+"A means of configuring civilization and human activity so that society, its members and its economies are able to meet their needs and express their greatest potential in the present, while preserving biodiversity and natural ecosystems, planning and acting for the ability to maintain these necessary resources for future generations.",
+"The ability to sustain a business in the long term, which is a state that is partly dependent on, but broader than, profitability today or in the short term; it involves aspects of a plausible path toward eventual profitability (as applies to a startup) and ecologic sustainability (for example, the long-term dependence of the timber/lumber industry on forest preservation and renewal, or of fisheries on viable fish stocks).",
+"The ability to sustain a civic practice or process in the long term, such as democracy, entrepreneurialism, a war effort, or others."
+]
+},
+{
+"id": "systolic-blood-pressure_x",
+"w": "systolic blood pressure",
+"gloss": [
+"The highest pressure within the bloodstream, occurring during each heart beat, because of the systole."
+]
+},
+{
+"id": "taste-buds_x",
+"w": "taste buds"
+},
+{
+"id": "telecom_x",
+"w": "telecom",
+"gloss": [
+"Telecommunication or telecommunications.",
+"A telco (phone company) or telecom company."
+]
+},
+{
+"id": "thigh-bone_x",
+"w": "thigh bone"
+},
+{
+"id": "throbbing-pain_x",
+"w": "throbbing pain"
+},
+{
+"id": "thyroid-gland_x",
+"w": "thyroid gland",
+"gloss": [
+"A large butterfly-shaped endocrine gland situated on the front of the neck that produces various hormones."
+]
+},
+{
+"id": "timeline_x",
+"w": "timeline",
+"gloss": [
+"A graphical representation of a chronological sequence of events (past or future).",
+"The feed of a social media service, especially when ordered chronologically.",
+"A schedule of activities; a timetable."
+]
+},
+{
+"id": "to-be-discharged_x",
+"w": "to be discharged"
+},
+{
+"id": "tricep_x",
+"w": "tricep",
+"gloss": [
+"A triceps."
+]
+},
+{
+"id": "tubal-pregnancy_x",
+"w": "tubal pregnancy"
+},
+{
+"id": "unauthorize_x",
+"w": "unauthorize",
+"gloss": [
+"To disown the authority of; to repudiate.",
+"To withdraw authorization or permissions from."
+]
+},
+{
+"id": "unbearable-pain_x",
+"w": "unbearable pain"
+},
+{
+"id": "up-the-dose_x",
+"w": "up the dose"
+},
+{
+"id": "urine-sample_x",
+"w": "urine sample"
+},
+{
+"id": "vas-deferens_x",
+"w": "vas deferens",
+"gloss": [
+"The duct in the testicle that carries semen from the epididymis to the ejaculatory duct."
+]
+},
+{
+"id": "videoconference_x",
+"w": "videoconference"
+},
+{
+"id": "vinyasa_x",
+"w": "vinyasa",
+"gloss": [
+"The transition between poses executed in succession, often timed with regular breathing.",
+"A style of yoga based on a flow between sequential poses and coordinated breathing."
+]
+},
+{
+"id": "vocal-cords_x",
+"w": "vocal cords",
+"gloss": [
+"Two folds of tissue located in the larynx that vibrate when air passes over them, producing the sound waves associated with talking and singing."
+]
+},
+{
+"id": "webpage_x",
+"w": "webpage"
+},
+{
+"id": "whooping-cough_x",
+"w": "whooping cough",
+"gloss": [
+"A contagious disease of the respiratory system that usually affects children caused by the bacterium Bordetella pertussis, the advanced stage of which is characterised by spasms of coughing followed by a whooping sound during the intake of breath."
+]
+},
+{
+"id": "wisdom-tooth_x",
+"w": "wisdom tooth",
+"gloss": [
+"One of the four (one upper and one lower on each side) rearmost molars in humans, which typically develop between ages 18-24."
+]
+},
+{
+"id": "withdrawal-symptoms_x",
+"w": "withdrawal symptoms"
+},
+{
+"id": "pick-up_pv",
+"w": "pick up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To lift; to grasp and raise.",
+"To collect or purchase an object, especially in passing.",
+"To acquire (something) accidentally; to catch or contract (a disease)."
+]
+},
+{
+"id": "break-down_pv",
+"w": "break down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To stop functioning.",
+"To unexpectedly collapse, physically or in structure.",
+"To intentionally demolish; to pull down."
+]
+},
+{
+"id": "wake-up_pv",
+"w": "wake up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To stop sleeping; to awake.",
+"To awaken somebody.",
+"To become more aware of a real-life situation; to concentrate on the matter in hand."
+]
+},
+{
+"id": "get-up_pv",
+"w": "get up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To move in an upward direction; to ascend or climb.",
+"To rise from one's bed, usually upon waking up in order to begin one's day.",
+"To move from a sitting or lying position to a standing position; to stand up."
+]
+},
+{
+"id": "give-up_pv",
+"w": "give up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To surrender (someone or something); to inform on (someone).",
+"To relinquish (something)",
+"Devote or dedicate (oneself, one's life, etc.) to something."
+]
+},
+{
+"id": "go-out_pv",
+"w": "go out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To leave, especially a building.",
+"To leave one's abode to go to public places, especially for recreation or entertainment.",
+"To be eliminated from a competition."
+]
+},
+{
+"id": "turn-on_pv",
+"w": "turn on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To set a flow of fluid or gas running by rotating a tap or valve.",
+"To power up, to put into operation, to start, to activate (an appliance, light, mechanism, functionality etc.).",
+"To start operating; to power up, to become on."
+]
+},
+{
+"id": "make-up_pv",
+"w": "make up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To constitute, to compose.",
+"To constitute the components of a whole.",
+"To compensate for (a deficiency, defect, etc.); to supply (something missing)."
+]
+},
+{
+"id": "look-for_pv",
+"w": "look for",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To seek, to try to find."
+]
+},
+{
+"id": "get-off_pv",
+"w": "get off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To move (something) from being on top of (something else) to not being on top of it.",
+"To move from being on top of (something) to not being on top of it.",
+"To stop touching or physically interfering with something or someone."
+]
+},
+{
+"id": "turn-out_pv",
+"w": "turn out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To end up; to result.",
+"To succeed; work out; turn out well.",
+"To attend; show up."
+]
+},
+{
+"id": "stand-up_pv",
+"w": "stand up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To rise from a lying or sitting position.",
+"To bring something up and set it into a standing position; to set something up.",
+"(stand someone up) To avoid a prearranged meeting, especially a date, with (a person) without prior notification; to jilt or shirk."
+]
+},
+{
+"id": "put-out_pv",
+"w": "put out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To blind (eyes).",
+"To place outside, to remove, particularly",
+"To expel."
+]
+},
+{
+"id": "shut-up_pv",
+"w": "shut up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To close (a building) so that no one can enter.",
+"To terminate (a business).",
+"To put (someone or something) in a secure enclosed space, such as a room or container."
+]
+},
+{
+"id": "take-off_pv",
+"w": "take off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To remove.",
+"To leave the ground and ascend into the air or into flight.",
+"To stand up on a surfboard and begin to surf a breaking wave."
+]
+},
+{
+"id": "turn-off_pv",
+"w": "turn off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Used other than figuratively or idiomatically: see turn, off.",
+"To power down, to switch off, to put out of operation, to deactivate (an appliance, light, mechanism, functionality etc.).",
+"To deactivate a heat source cooking a particular item."
+]
+},
+{
+"id": "put-on_pv",
+"w": "put on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To don (clothing, equipment, or the like).",
+"To decorate or dress (something) onto another person or a surface.",
+"To fool, kid, deceive."
+]
+},
+{
+"id": "piss-off_pv",
+"w": "piss off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To leave, to go away.",
+"To annoy, anger.",
+"Go away!"
+]
+},
+{
+"id": "check-out_pv",
+"w": "check out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To record the departure or withdrawal of someone or something (such as guests, employees, books, etc.).",
+"To record one's departure from a workplace, hotel, restaurant, etc.",
+"To examine, inspect, look at closely, ogle; to investigate; to gather information so as to make a decision."
+]
+},
+{
+"id": "go-down_pv",
+"w": "go down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To descend; to move from a higher place to a lower one.",
+"Synonym of set, to disappear below the horizon.",
+"To decrease; to change from a greater value to a lesser one."
+]
+},
+{
+"id": "put-down_pv",
+"w": "put down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To insult, belittle, or demean.",
+"Of money as deposit, to pay.",
+"To halt, eliminate, stop, or squelch, often by force."
+]
+},
+{
+"id": "set-up_pv",
+"w": "set up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make ready for use.",
+"To arrange logically.",
+"To cause to happen."
+]
+},
+{
+"id": "break-up_pv",
+"w": "break up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To break or separate into pieces.",
+"To break or separate into pieces; to disintegrate or come apart.",
+"To upset greatly; to cause great emotional disturbance or unhappiness in."
+]
+},
+{
+"id": "blow-up_pv",
+"w": "blow up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Used other than figuratively or idiomatically: see blow, up.",
+"To explode or be destroyed by explosion.",
+"To cause (something or someone) to explode, or to destroy (something) or maim or kill (someone) by means of an explosion."
+]
+},
+{
+"id": "go-away_pv",
+"w": "go away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To depart or leave a place.",
+"To travel somewhere, especially on holiday or vacation.",
+"To go to prison to be incarcerated."
+]
+},
+{
+"id": "fuck-up_pv",
+"w": "fuck up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make a mistake, to go wrong.",
+"To botch or make a mess of.",
+"To injure or damage badly."
+]
+},
+{
+"id": "lie-down_pv",
+"w": "lie down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To assume a horizontal position.",
+"A standard command to a herding dog to assume this position, owing to its effect on the herd's movement.",
+"To be lazy or remiss."
+]
+},
+{
+"id": "work-out_pv",
+"w": "work out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To calculate.",
+"To make sense of.",
+"To decide."
+]
+},
+{
+"id": "fuck-off_pv",
+"w": "fuck off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To go to hell; to disappear or go away; to screw oneself.",
+"To leave unexpectedly.",
+"To fritter; to fuck around."
+]
+},
+{
+"id": "have-to_pv",
+"w": "have to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Must; need to; to be urged to; to be required to; indicates obligation.",
+"Must; expresses a logical conclusion."
+]
+},
+{
+"id": "warm-up_pv",
+"w": "warm up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become warmer.",
+"To heat or reheat (e.g. food).",
+"To reach, or cause to reach, a normal operating temperature (of a car for example)."
+]
+},
+{
+"id": "get-out_pv",
+"w": "get out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To leave or escape.",
+"To come out of a situation; to escape a fate.",
+"To be released, especially from hospital or prison."
+]
+},
+{
+"id": "cut-off_pv",
+"w": "cut off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To remove by cutting.",
+"To isolate or remove from contact.",
+"To stop the provision or supply of something, e.g. power, water."
+]
+},
+{
+"id": "come-out_pv",
+"w": "come out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Used other than figuratively or idiomatically: see come, out.",
+"To be discovered; to be revealed.",
+"To be published or released; to be issued; to be broadcast for the first time."
+]
+},
+{
+"id": "leave-behind_pv",
+"w": "leave behind",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To abandon.",
+"To forget about.",
+"To not live longer than; to be survived by."
+]
+},
+{
+"id": "sit-down_pv",
+"w": "sit down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To assume a sitting position from a standing position.",
+"To cause to be seated or in a sitting posture; to furnish a seat to.",
+"To meet formally at a conference table."
+]
+},
+{
+"id": "let-down_pv",
+"w": "let down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To disappoint; to betray or fail somebody.",
+"To lengthen by undoing and resewing a hem.",
+"To reduce one's level of effort."
+]
+},
+{
+"id": "carry-out_pv",
+"w": "carry out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To hold while moving it out.",
+"To fulfill.",
+"To execute or perform; to put into operation; to do."
+]
+},
+{
+"id": "fill-up_pv",
+"w": "fill up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make (something) completely full.",
+"To fill the tank of a vehicle with fuel.",
+"To become completely full."
+]
+},
+{
+"id": "cool-down_pv",
+"w": "cool down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become cooler; to be reduced in temperature.",
+"To become less agitated or excited.",
+"To decrease in degree or intensity."
+]
+},
+{
+"id": "wrap-up_pv",
+"w": "wrap up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To cover or enclose (something) by folding and securing a covering entirely around it.",
+"To conclude or finish completely.",
+"To summarize or recapitulate."
+]
+},
+{
+"id": "bring-up_pv",
+"w": "bring up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Used other than figuratively or idiomatically: see bring, up: To bring from a lower to a higher position.",
+"To mention.",
+"To raise or rear (children)."
+]
+},
+{
+"id": "go-off_pv",
+"w": "go off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To explode.",
+"To fire, especially accidentally.",
+"To explode metaphorically; to become very angry or overexcited."
+]
+},
+{
+"id": "get-along_pv",
+"w": "get along",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To interact or coexist well, without argument or trouble.",
+"To survive; to do well enough.",
+"To go; to move; to leave."
+]
+},
+{
+"id": "take-out_pv",
+"w": "take out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To remove.",
+"To escort someone on a date.",
+"To immobilize with force; to subdue; to incapacitate."
+]
+},
+{
+"id": "wear-out_pv",
+"w": "wear out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To cause (something) to become damaged, useless, or ineffective through continued use, especially hard, heavy, or careless use.",
+"To deteriorate or become unusable or ineffective due to continued use, exposure, or strain.",
+"To exhaust; to cause or contribute to another's exhaustion, fatigue, or weariness, as by continued strain or exertion."
+]
+},
+{
+"id": "get-on_pv",
+"w": "get on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To board or mount (something), especially a vehicle.",
+"To cope or manage (over time); to handle a situation; to perform or make progress.",
+"To progress (with); to move forward."
+]
+},
+{
+"id": "make-out_pv",
+"w": "make out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To draw up (a document etc.), to designate (a cheque).",
+"To discern; to manage to see, hear etc.",
+"To manage, get along; to do (well, badly etc.)."
+]
+},
+{
+"id": "beat-up_pv",
+"w": "beat up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To give a severe beating to; to assault violently with repeated blows.",
+"To wake up earlier than (somebody).",
+"To cause, by some other means, injuries comparable to the result of being beaten up."
+]
+},
+{
+"id": "look-after_pv",
+"w": "look after",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To follow with the eyes; to look in the direction of (someone or something departing).",
+"To seek out, to look for.",
+"To care for; to keep safe."
+]
+},
+{
+"id": "come-up_pv",
+"w": "come up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To emerge or become known, especially unexpectedly.",
+"To be revealed to have a certain value, quality, or status.",
+"To come to attention and present oneself; to arrive or appear."
+]
+},
+{
+"id": "stir-up_pv",
+"w": "stir up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To arouse or excite (passion or action, etc.).",
+"To mix (ingredients) by stirring.",
+"To move or disturb slightly; to make turbid."
+]
+},
+{
+"id": "pay-off_pv",
+"w": "pay off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To bribe, especially to deter oversight.",
+"To become worthwhile; to produce a net benefit.",
+"To pay back; to repay."
+]
+},
+{
+"id": "bail-out_pv",
+"w": "bail out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To secure the release of an arrested person by providing bail money.",
+"To remove water from a boat by scooping it out.",
+"To rescue, especially financially."
+]
+},
+{
+"id": "come-across_pv",
+"w": "come across",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Used other than figuratively or idiomatically: see come, across.",
+"To change sides; to cross over to work for the opposition.",
+"To give an appearance or impression; to project a certain image; to seem or appear (to be some way)."
+]
+},
+{
+"id": "lock-up_pv",
+"w": "lock up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To imprison or incarcerate (someone).",
+"To put (something) away in a locked location for safekeeping; (occasionally, chiefly humorously) to sequester (a person) in a similar way.",
+"To close (and often lock) all doors and windows (of a place) securely."
+]
+},
+{
+"id": "cut-out_pv",
+"w": "cut out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Used other than figuratively or idiomatically: see cut, out. To sever from something larger, with or as if with a sharp-edged instrument.",
+"To refrain from (doing something, using something etc.), to stop or cease (doing something).",
+"To remove; to omit."
+]
+},
+{
+"id": "find-out_pv",
+"w": "find out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To discover, as by asking or investigating.",
+"To discover or expose (someone) as disobedient, dishonest, etc.",
+"To uncover a weakness in (someone)."
+]
+},
+{
+"id": "used-to_pv",
+"w": "used to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Accustomed to, tolerant or accepting of.",
+"Formerly and habitually or repeatedly, but possibly no longer, did."
+]
+},
+{
+"id": "hang-up_pv",
+"w": "hang up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To put up to hang.",
+"To terminate a telephone call, originally by hanging the receiver on its hook or cradle thereby automatically disconnecting the line.",
+"To stop talking."
+]
+},
+{
+"id": "go-up_pv",
+"w": "go up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To move upwards.",
+"To be built or erected.",
+"To rise or increase in price, cost, or value."
+]
+},
+{
+"id": "break-out_pv",
+"w": "break out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To escape, especially forcefully or defiantly.",
+"To rescue someone or aid their escape as in sense 1.",
+"To bring out from storage, use, or present."
+]
+},
+{
+"id": "drop-off_pv",
+"w": "drop off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To fall asleep.",
+"To deliver; to deposit or leave; to allow passengers to alight.",
+"To drop from, fall from."
+]
+},
+{
+"id": "take-up_pv",
+"w": "take up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To pick up.",
+"To remove (a ground or floor surface, including the bed of a road or the track of a railway).",
+"To absorb (a liquid), to soak up."
+]
+},
+{
+"id": "wipe-out_pv",
+"w": "wipe out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To destroy (especially, a large number or complete set of people or things); to obliterate.",
+"To physically erase (writing, computer data, etc.).",
+"To do away with; to cause to disappear."
+]
+},
+{
+"id": "mess-up_pv",
+"w": "mess up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make a mess of; to untidy, disorder, soil, or muss.",
+"To cause a problem with; to introduce an error or mistake in; to make muddled or confused; spoil; ruin.",
+"To botch, bungle; to perform poorly on."
+]
+},
+{
+"id": "calm-down_pv",
+"w": "calm down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become less excited, intense, or angry.",
+"To cause to become less excited, intense, or angry."
+]
+}
+]

@@ -1,0 +1,100 @@
+{"id": "point-out_pv", "th": "ชี้ให้เห็น; ชี้", "ex": "She pointed out a mistake in my report.", "exTh": "เธอชี้ให้เห็นข้อผิดพลาดในรายงานของฉัน", "c": 5}
+{"id": "go-through_pv", "th": "ผ่านพ้น; ตรวจดู; ประสบ (เรื่องยาก)", "ex": "We need to go through the contract carefully.", "exTh": "เราต้องตรวจสัญญาอย่างละเอียด", "c": 5}
+{"id": "put-up_pv", "th": "ติดตั้ง; ตั้ง (เต็นท์); ให้พัก; เสนอ (เงิน)", "ex": "They put up a new fence last week.", "exTh": "สัปดาห์ที่แล้วพวกเขาสร้างรั้วใหม่", "c": 4}
+{"id": "knock-out_pv", "th": "น็อกเอาต์; ทำให้สลบ; ทำให้ตกรอบ", "ex": "The boxer knocked out his opponent in round two.", "exTh": "นักมวยน็อกคู่ต่อสู้ในยกที่สอง", "c": 3}
+{"id": "fed-up_pv", "th": "เบื่อหน่าย; เอือมระอา", "ex": "I'm fed up with this noisy neighbor.", "exTh": "ฉันเอือมระอาเพื่อนบ้านที่เสียงดังคนนี้", "c": 4, "note": "ใช้เป็นคุณศัพท์ be fed up with"}
+{"id": "run-out_pv", "th": "หมด; ใช้จนหมด", "ex": "We have run out of milk.", "exTh": "นมของเราหมดแล้ว", "c": 5}
+{"id": "fuck-around_pv", "th": "เล่นเรื่อยเปื่อย; ทำเรื่องไร้สาระ", "ex": "Stop fucking around and do your work.", "exTh": "เลิกเล่นเรื่อยเปื่อยแล้วทำงานได้แล้ว", "c": 3, "note": "คำหยาบ"}
+{"id": "break-in_pv", "th": "งัดเข้าไป; ย่องเข้าไป; ขัดจังหวะ", "ex": "Thieves broke in while we were away.", "exTh": "ขโมยงัดเข้ามาตอนที่เราไม่อยู่", "c": 4}
+{"id": "take-back_pv", "th": "เอาคืน; ถอนคำพูด; นำไปคืน", "ex": "I take back what I said yesterday.", "exTh": "ฉันขอถอนคำพูดที่พูดไปเมื่อวาน", "c": 4}
+{"id": "jerk-off_pv", "th": "(คำหยาบ) สำเริงสำราญด้วยตนเอง; (ใช้ด่า) เล่นเรื่อยเปื่อย", "ex": "The phrase \"jerk off\" is vulgar, so avoid using it.", "exTh": "วลี jerk off เป็นคำหยาบ ควรหลีกเลี่ยงการใช้", "c": 2, "note": "คำหยาบ เกี่ยวกับเรื่องเพศ ควรหลีกเลี่ยง"}
+{"id": "deal-with_pv", "th": "จัดการ; รับมือ; เกี่ยวข้องกับ", "ex": "I will deal with this problem tomorrow.", "exTh": "ฉันจะจัดการปัญหานี้พรุ่งนี้", "c": 5}
+{"id": "set-off_pv", "th": "ออกเดินทาง; ทำให้เกิด; จุด (พลุ)", "ex": "We set off for the beach at dawn.", "exTh": "เราออกเดินทางไปชายหาดตอนรุ่งสาง", "c": 4}
+{"id": "turn-down_pv", "th": "ปฏิเสธ; หรี่ (เสียง/ไฟ)", "ex": "She turned down the job offer.", "exTh": "เธอปฏิเสธข้อเสนองาน", "c": 5}
+{"id": "take-away_pv", "th": "เอาออกไป; หักออก; ซื้อกลับบ้าน", "ex": "The waiter took away our empty plates.", "exTh": "พนักงานเสิร์ฟเก็บจานเปล่าของเราไป", "c": 4}
+{"id": "screw-up_pv", "th": "ทำพัง; ทำพลาด", "ex": "I screwed up the presentation.", "exTh": "ฉันทำการนำเสนอพัง", "c": 4, "note": "ภาษาพูด ค่อนข้างหยาบเล็กน้อย"}
+{"id": "eat-away_pv", "th": "กัดกร่อน; ค่อยๆ ทำลาย", "ex": "Rust slowly ate away the metal.", "exTh": "สนิมค่อยๆ กัดกร่อนโลหะ", "c": 2}
+{"id": "roll-over_pv", "th": "กลิ้งตัว; พลิกตัว; ต่ออายุ (เงิน/สัญญา)", "ex": "The baby rolled over in her sleep.", "exTh": "ทารกพลิกตัวตอนหลับ", "c": 3}
+{"id": "back-up_pv", "th": "สำรองข้อมูล; ถอยหลัง; สนับสนุน", "ex": "Remember to back up your files.", "exTh": "อย่าลืมสำรองไฟล์ของคุณ", "c": 5}
+{"id": "hold-up_pv", "th": "ทำให้ล่าช้า; ปล้น; ยกขึ้น", "ex": "An accident held up traffic for an hour.", "exTh": "อุบัติเหตุทำให้รถติดอยู่หนึ่งชั่วโมง", "c": 4}
+{"id": "keep-up_pv", "th": "ตามให้ทัน; รักษาไว้; ทำต่อไป", "ex": "Walk slowly. I can't keep up with you.", "exTh": "เดินช้าๆ หน่อย ฉันตามไม่ทัน", "c": 5}
+{"id": "line-up_pv", "th": "เข้าแถว; จัดเรียงเป็นแถว", "ex": "The children lined up outside the classroom.", "exTh": "เด็กๆ เข้าแถวอยู่หน้าห้องเรียน", "c": 4}
+{"id": "pass-away_pv", "th": "เสียชีวิต; จากไป", "ex": "His grandfather passed away last year.", "exTh": "คุณปู่ของเขาเสียชีวิตเมื่อปีที่แล้ว", "c": 4, "note": "คำสุภาพแทน die"}
+{"id": "wind-up_pv", "th": "ลงเอยที่; ไขลาน; ปิดกิจการ", "ex": "We wound up eating at home.", "exTh": "สุดท้ายเราลงเอยด้วยการกินที่บ้าน", "c": 3}
+{"id": "fill-out_pv", "th": "กรอก (แบบฟอร์ม)", "ex": "Please fill out this form.", "exTh": "กรุณากรอกแบบฟอร์มนี้", "c": 5}
+{"id": "throw-away_pv", "th": "ทิ้ง; โยนทิ้ง", "ex": "Don't throw away that old box yet.", "exTh": "อย่าเพิ่งทิ้งกล่องเก่าใบนั้น", "c": 5}
+{"id": "rip-off_pv", "th": "หลอกเอาเงิน; ขายแพงเกินจริง; ฉีกออก", "ex": "The tourists got ripped off by the taxi driver.", "exTh": "นักท่องเที่ยวถูกคนขับแท็กซี่โก่งราคา", "c": 4}
+{"id": "grow-up_pv", "th": "เติบโต; โตเป็นผู้ใหญ่", "ex": "I grew up in a small town.", "exTh": "ฉันโตมาในเมืองเล็กๆ", "c": 5}
+{"id": "go-on_pv", "th": "ดำเนินต่อไป; เกิดขึ้น; เชิญเลย", "ex": "Please go on. I am listening.", "exTh": "เชิญพูดต่อ ฉันกำลังฟังอยู่", "c": 5}
+{"id": "knock-down_pv", "th": "ทุบทิ้ง; ชนล้ม; ลดราคา", "ex": "They will knock down the old school.", "exTh": "พวกเขาจะทุบโรงเรียนเก่าทิ้ง", "c": 4}
+{"id": "turn-around_pv", "th": "หันกลับ; กลับตัว; พลิกสถานการณ์", "ex": "Turn around and look at me.", "exTh": "หันกลับมามองฉันสิ", "c": 4}
+{"id": "sort-out_pv", "th": "แก้ไขให้เรียบร้อย; จัดแยก; จัดการ", "ex": "We need to sort out this problem today.", "exTh": "เราต้องจัดการปัญหานี้ให้เรียบร้อยวันนี้", "c": 4}
+{"id": "come-back_pv", "th": "กลับมา", "ex": "He will come back from Japan next week.", "exTh": "เขาจะกลับมาจากญี่ปุ่นสัปดาห์หน้า", "c": 5}
+{"id": "turn-up_pv", "th": "โผล่มา; มาถึง; เร่ง (เสียง)", "ex": "He turned up an hour late.", "exTh": "เขามาสายไปหนึ่งชั่วโมง", "c": 4}
+{"id": "take-over_pv", "th": "เข้าควบคุม; ครอบครอง; รับช่วงต่อ", "ex": "A big company took over our firm.", "exTh": "บริษัทใหญ่เข้าซื้อกิจการของเรา", "c": 4}
+{"id": "come-to_pv", "th": "ฟื้นคืนสติ; รวมเป็น; มีจำนวนเท่ากับ", "ex": "She fainted but came to a minute later.", "exTh": "เธอเป็นลมแต่ฟื้นขึ้นมาหนึ่งนาทีให้หลัง", "c": 3}
+{"id": "take-down_pv", "th": "ถอดลง; จดบันทึก; รื้อ", "ex": "Please take down the old posters.", "exTh": "ช่วยเอาโปสเตอร์เก่าลงด้วย", "c": 4}
+{"id": "give-in_pv", "th": "ยอมแพ้; ยอมตาม; ส่ง (งาน)", "ex": "He finally gave in and bought the toy.", "exTh": "ในที่สุดเขาก็ยอมใจอ่อนซื้อของเล่นให้", "c": 4}
+{"id": "rule-out_pv", "th": "ตัดออก; ปฏิเสธความเป็นไปได้", "ex": "Doctors ruled out a serious illness.", "exTh": "หมอตัดความเป็นไปได้ของโรคร้ายแรงออกไป", "c": 4}
+{"id": "log-in_pv", "th": "ล็อกอิน; เข้าสู่ระบบ", "ex": "I can't log in to my account.", "exTh": "ฉันเข้าสู่ระบบบัญชีของฉันไม่ได้", "c": 5}
+{"id": "look-up_pv", "th": "ค้นหา (ข้อมูล); เงยหน้ามอง; ดีขึ้น", "ex": "I looked up the word in a dictionary.", "exTh": "ฉันเปิดดูคำนั้นในพจนานุกรม", "c": 5}
+{"id": "freak-out_pv", "th": "ตกใจสุดขีด; เสียสติ; ขวัญเสีย", "ex": "She freaked out when she saw the spider.", "exTh": "เธอตกใจสุดขีดเมื่อเห็นแมงมุม", "c": 4}
+{"id": "run-away_pv", "th": "หนีไป; วิ่งหนี; หนีออกจากบ้าน", "ex": "The boy ran away from the dog.", "exTh": "เด็กชายวิ่งหนีสุนัข", "c": 4}
+{"id": "speed-up_pv", "th": "เร่งความเร็ว; ทำให้เร็วขึ้น", "ex": "Can you speed up the process a little?", "exTh": "ช่วยเร่งขั้นตอนนี้ให้เร็วขึ้นหน่อยได้ไหม", "c": 4}
+{"id": "break-off_pv", "th": "หักออก; ยุติ (ความสัมพันธ์/การเจรจา)", "ex": "He broke off a piece of chocolate.", "exTh": "เขาหักช็อกโกแลตออกมาชิ้นหนึ่ง", "c": 3}
+{"id": "draw-out_pv", "th": "ยืดเยื้อ; ดึงออก; ถอน (เงิน)", "ex": "The meeting was drawn out for hours.", "exTh": "การประชุมยืดเยื้อไปหลายชั่วโมง", "c": 2}
+{"id": "hold-on_pv", "th": "รอสักครู่; จับไว้แน่น", "ex": "Hold on a moment. I'll be right back.", "exTh": "รอสักครู่ เดี๋ยวฉันกลับมา", "c": 5}
+{"id": "hand-over_pv", "th": "ส่งมอบ; มอบให้", "ex": "Please hand over your phone.", "exTh": "กรุณาส่งโทรศัพท์ของคุณมา", "c": 4}
+{"id": "see-through_pv", "th": "มองทะลุ; รู้ทัน; ทำจนสำเร็จ", "ex": "I can see through his lies.", "exTh": "ฉันรู้ทันคำโกหกของเขา", "c": 3}
+{"id": "hold-out_pv", "th": "ยื่นออกไป; ยืนหยัด; ต้านทาน", "ex": "She held out her hand to say hello.", "exTh": "เธอยื่นมือออกไปทักทาย", "c": 3}
+{"id": "look-at_pv", "th": "มอง; ดู; พิจารณา", "ex": "Look at the beautiful sky.", "exTh": "ดูท้องฟ้าสวยๆ นั่นสิ", "c": 5}
+{"id": "fall-out_pv", "th": "ทะเลาะกัน; หลุดออก", "ex": "He fell out with his brother over money.", "exTh": "เขาทะเลาะกับพี่ชายเรื่องเงิน", "c": 3}
+{"id": "cheer-up_pv", "th": "ร่าเริงขึ้น; ปลอบใจ", "ex": "Cheer up! Things will get better.", "exTh": "สู้ๆ นะ เดี๋ยวก็ดีขึ้น", "c": 5}
+{"id": "account-for_pv", "th": "อธิบายสาเหตุ; คิดเป็นสัดส่วน", "ex": "Rent accounts for half of my spending.", "exTh": "ค่าเช่าคิดเป็นครึ่งหนึ่งของรายจ่ายของฉัน", "c": 4}
+{"id": "take-on_pv", "th": "รับ (งาน/ความรับผิดชอบ); จ้าง; สู้กับ", "ex": "She took on a new project last month.", "exTh": "เดือนที่แล้วเธอรับโปรเจกต์ใหม่", "c": 4}
+{"id": "pay-back_pv", "th": "จ่ายคืน; ตอบแทน", "ex": "I will pay you back on Friday.", "exTh": "ฉันจะจ่ายเงินคืนคุณวันศุกร์", "c": 4}
+{"id": "light-up_pv", "th": "ส่องสว่าง; จุด (บุหรี่); สดใสขึ้น", "ex": "Fireworks lit up the night sky.", "exTh": "ดอกไม้ไฟส่องสว่างท้องฟ้ายามค่ำคืน", "c": 3}
+{"id": "write-down_pv", "th": "จดลง; เขียนบันทึก", "ex": "Write down my phone number.", "exTh": "จดเบอร์โทรของฉันไว้", "c": 5}
+{"id": "catch-up_pv", "th": "ตามให้ทัน; อัปเดตข่าวคราว", "ex": "Let's catch up over coffee soon.", "exTh": "ไว้นัดดื่มกาแฟคุยอัปเดตกันเร็วๆ นี้นะ", "c": 5}
+{"id": "end-up_pv", "th": "ลงเอยด้วย; จบลงที่", "ex": "We ended up at a small cafe.", "exTh": "สุดท้ายเราไปจบที่ร้านกาแฟเล็กๆ", "c": 5}
+{"id": "sign-up_pv", "th": "สมัคร; ลงทะเบียน", "ex": "I signed up for a cooking class.", "exTh": "ฉันสมัครเรียนทำอาหาร", "c": 5}
+{"id": "carry-on_pv", "th": "ทำต่อไป; ดำเนินต่อไป", "ex": "Carry on. Don't stop because of me.", "exTh": "ทำต่อไปเถอะ อย่าหยุดเพราะฉัน", "c": 4}
+{"id": "flare-up_pv", "th": "ปะทุขึ้น; กำเริบ; ลุกโชน", "ex": "His back pain flares up in cold weather.", "exTh": "อาการปวดหลังของเขากำเริบในอากาศหนาว", "c": 3}
+{"id": "go-round_pv", "th": "วนไปรอบๆ; หมุน; มีพอแจก", "ex": "There is enough food to go round.", "exTh": "มีอาหารพอสำหรับทุกคน", "c": 3}
+{"id": "hang-on_pv", "th": "รอสักครู่; เกาะไว้; อดทนไว้", "ex": "Hang on, I need my coat.", "exTh": "รอแป๊บ ฉันต้องไปหยิบเสื้อโค้ต", "c": 5}
+{"id": "hang-out_pv", "th": "ไปเที่ยวด้วยกัน; ใช้เวลาอยู่ด้วยกัน", "ex": "We often hang out at the mall.", "exTh": "เรามักไปเที่ยวห้างด้วยกัน", "c": 5}
+{"id": "abide-by_pv", "th": "ปฏิบัติตาม; ยอมรับ (กฎ/คำตัดสิน)", "ex": "All players must abide by the rules.", "exTh": "ผู้เล่นทุกคนต้องปฏิบัติตามกฎ", "c": 3, "note": "ภาษาค่อนข้างทางการ"}
+{"id": "slow-down_pv", "th": "ชะลอ; ช้าลง", "ex": "Please slow down. The road is wet.", "exTh": "กรุณาขับช้าลง ถนนลื่น", "c": 5}
+{"id": "settle-down_pv", "th": "ตั้งหลักแหล่ง; สงบลง", "ex": "He wants to settle down and have a family.", "exTh": "เขาอยากตั้งหลักแหล่งและมีครอบครัว", "c": 4}
+{"id": "run-down_pv", "th": "ชนล้ม; ทรุดโทรม; ตำหนิ", "ex": "A car ran down the cyclist.", "exTh": "รถคันหนึ่งชนคนปั่นจักรยานล้ม", "c": 3}
+{"id": "pull-out_pv", "th": "ถอนตัว; ดึงออก; ถอน (กำลัง)", "ex": "The company pulled out of the deal.", "exTh": "บริษัทถอนตัวจากข้อตกลง", "c": 4}
+{"id": "tuck-in_pv", "th": "ห่มผ้าให้; ยัด (เสื้อ) เข้าในกางเกง; กินอย่างเอร็ดอร่อย", "ex": "She tucked the child in and turned off the light.", "exTh": "เธอห่มผ้าให้เด็กแล้วปิดไฟ", "c": 3}
+{"id": "put-off_pv", "th": "เลื่อนออกไป; ทำให้หมดความสนใจ", "ex": "Don't put off your homework until tomorrow.", "exTh": "อย่าเลื่อนการบ้านไปทำพรุ่งนี้", "c": 4}
+{"id": "go-for_pv", "th": "เลือก; พยายามให้ได้; ชอบ", "ex": "I will go for the chicken salad.", "exTh": "ฉันเลือกสลัดไก่", "c": 4}
+{"id": "give-back_pv", "th": "คืน; ตอบแทน (สังคม)", "ex": "Please give back my pen.", "exTh": "กรุณาคืนปากกาของฉันด้วย", "c": 4}
+{"id": "come-down_pv", "th": "ลงมา; ลดลง; ถูกรื้อ", "ex": "Please come down for dinner.", "exTh": "ลงมากินข้าวเย็นได้แล้ว", "c": 4}
+{"id": "come-in_pv", "th": "เข้ามา; มาถึง", "ex": "Come in and sit down.", "exTh": "เข้ามานั่งก่อนสิ", "c": 5}
+{"id": "put-up-with_pv", "th": "ทนต่อ; อดทน", "ex": "I can't put up with this noise anymore.", "exTh": "ฉันทนเสียงดังนี้ไม่ไหวอีกแล้ว", "c": 4}
+{"id": "give-away_pv", "th": "แจกฟรี; เผยความลับ; ยกให้", "ex": "The shop is giving away free bags today.", "exTh": "วันนี้ร้านแจกกระเป๋าฟรี", "c": 4}
+{"id": "shore-up_pv", "th": "เสริมความแข็งแรง; ค้ำจุน", "ex": "The government acted to shore up the economy.", "exTh": "รัฐบาลดำเนินการเพื่อพยุงเศรษฐกิจ", "c": 2}
+{"id": "call-out_pv", "th": "เรียก; ตะโกนเรียก; เปิดโปง", "ex": "He called out my name across the room.", "exTh": "เขาตะโกนเรียกชื่อฉันข้ามห้อง", "c": 3}
+{"id": "kick-off_pv", "th": "เริ่มต้น; เตะเปิดเกม", "ex": "The match kicks off at seven.", "exTh": "การแข่งขันเริ่มตอนหนึ่งทุ่ม", "c": 4}
+{"id": "knock-about_pv", "th": "ทำร้าย; เที่ยวเตร่; ใช้อย่างหยาบ", "ex": "The kids knocked about in the garden all day.", "exTh": "เด็กๆ เล่นซนในสวนทั้งวัน", "c": 1, "note": "ภาษาอังกฤษแบบอังกฤษ ค่อนข้างเก่า"}
+{"id": "tie-up_pv", "th": "มัด; ผูก; ทำให้ติดขัด", "ex": "He tied up the boat at the dock.", "exTh": "เขาผูกเรือไว้ที่ท่า", "c": 3}
+{"id": "throw-out_pv", "th": "ทิ้ง; ไล่ออก", "ex": "I threw out all my old clothes.", "exTh": "ฉันทิ้งเสื้อผ้าเก่าทั้งหมด", "c": 4}
+{"id": "hook-up_pv", "th": "เชื่อมต่อ; นัดพบ; ได้เจอกัน", "ex": "The technician will hook up the internet today.", "exTh": "ช่างจะมาติดตั้งอินเทอร์เน็ตวันนี้", "c": 3}
+{"id": "go-ahead_pv", "th": "ดำเนินการต่อ; เชิญเลย", "ex": "Go ahead and start without me.", "exTh": "เริ่มได้เลยไม่ต้องรอฉัน", "c": 5}
+{"id": "put-away_pv", "th": "เก็บเข้าที่; เก็บออม", "ex": "Please put away your toys.", "exTh": "ช่วยเก็บของเล่นเข้าที่ด้วย", "c": 4}
+{"id": "bring-about_pv", "th": "ทำให้เกิดขึ้น; นำมาซึ่ง", "ex": "The new law brought about big changes.", "exTh": "กฎหมายใหม่นำมาซึ่งการเปลี่ยนแปลงครั้งใหญ่", "c": 3}
+{"id": "tell-off_pv", "th": "ดุ; ตำหนิ", "ex": "The teacher told him off for being late.", "exTh": "ครูดุเขาที่มาสาย", "c": 3}
+{"id": "carry-off_pv", "th": "ทำสำเร็จ; คว้า (รางวัล); พาไป", "ex": "She carried off the role very well.", "exTh": "เธอแสดงบทนั้นได้ดีมาก", "c": 2}
+{"id": "look-out_pv", "th": "ระวัง; เฝ้าระวัง", "ex": "Look out! There is a car coming.", "exTh": "ระวัง! มีรถมา", "c": 4}
+{"id": "look-forward-to_pv", "th": "รอคอย; ตั้งตารอ", "ex": "I look forward to meeting you.", "exTh": "ฉันตั้งตารอที่จะได้พบคุณ", "c": 5}
+{"id": "run-through_pv", "th": "ซ้อม; อ่านผ่านๆ; ทบทวน", "ex": "Let's run through the plan once more.", "exTh": "มาทบทวนแผนอีกครั้งกัน", "c": 3}
+{"id": "turn-over_pv", "th": "พลิก; พลิกตัว; ส่งมอบ", "ex": "Turn over the page and begin.", "exTh": "พลิกหน้ากระดาษแล้วเริ่มได้", "c": 4}
+{"id": "long-for_pv", "th": "โหยหา; ปรารถนา", "ex": "She longs for a quiet life in the country.", "exTh": "เธอโหยหาชีวิตสงบในชนบท", "c": 3}
+{"id": "lay-down_pv", "th": "วางลง; กำหนด (กฎ); ยอมวางอาวุธ", "ex": "The company laid down strict rules.", "exTh": "บริษัทกำหนดกฎอย่างเข้มงวด", "c": 3}
+{"id": "get-over_pv", "th": "หายจาก; ก้าวผ่าน; ทำใจได้", "ex": "It took her a week to get over the flu.", "exTh": "เธอใช้เวลาหนึ่งสัปดาห์กว่าจะหายจากไข้หวัด", "c": 4}
+{"id": "get-into_pv", "th": "เข้าไปใน; เข้า (มหาวิทยาลัย); สนใจ", "ex": "She got into a good university.", "exTh": "เธอสอบเข้ามหาวิทยาลัยดีๆ ได้", "c": 4}
+{"id": "drive-away_pv", "th": "ขับออกไป; ไล่ไป", "ex": "The noise drove the birds away.", "exTh": "เสียงดังทำให้นกบินหนีไป", "c": 3}
+{"id": "roll-up_pv", "th": "ม้วน; พับขึ้น; มาถึง", "ex": "He rolled up his sleeves and started work.", "exTh": "เขาพับแขนเสื้อขึ้นแล้วเริ่มทำงาน", "c": 3}

@@ -1,0 +1,802 @@
+[
+{
+"id": "what-s-what_idiom",
+"w": "what's what",
+"kind": "idiom",
+"gloss": [
+"Precisely what the situation really is or what the facts truly are; the true state of things."
+]
+},
+{
+"id": "stand-shilly-shally_idiom",
+"w": "stand shilly-shally",
+"kind": "idiom",
+"gloss": [
+"To hesitate, vacillate or procrastinate."
+]
+},
+{
+"id": "roll-one-s-own_idiom",
+"w": "roll one's own",
+"kind": "idiom",
+"gloss": [
+"To create something of which an analogue is commercially available."
+]
+},
+{
+"id": "does-the-pope-shit-in-the-woods_idiom",
+"w": "does the Pope shit in the woods",
+"kind": "idiom",
+"gloss": [
+"Obviously! Rhetorical question in response to a question where the answer is an emphatic yes."
+]
+},
+{
+"id": "can-t-stand_idiom",
+"w": "can't stand",
+"kind": "idiom",
+"gloss": [
+"cannot put up with"
+]
+},
+{
+"id": "we-haven-t-got-all-day_idiom",
+"w": "we haven't got all day",
+"kind": "idiom",
+"gloss": [
+"Used to hurry someone up."
+]
+},
+{
+"id": "scream-loudest_idiom",
+"w": "scream loudest",
+"kind": "idiom",
+"gloss": [
+"To complain or speak up with more intensity than others, especially in relation to a trivial matter."
+]
+},
+{
+"id": "win-by-a-nose_idiom",
+"w": "win by a nose",
+"kind": "idiom",
+"gloss": [
+"To win by a small margin; to have a narrow victory."
+]
+},
+{
+"id": "twilight-years_idiom",
+"w": "twilight years",
+"kind": "idiom",
+"gloss": [
+"Old age."
+]
+},
+{
+"id": "get-one-s-tits-in-a-wringer_idiom",
+"w": "get one's tits in a wringer",
+"kind": "idiom",
+"gloss": [
+"To get into trouble."
+]
+},
+{
+"id": "have-a-mountain-to-climb_idiom",
+"w": "have a mountain to climb",
+"kind": "idiom",
+"gloss": [
+"To face a difficult task or challenge."
+]
+},
+{
+"id": "hollywood-moment_idiom",
+"w": "Hollywood moment",
+"kind": "idiom",
+"gloss": [
+"A moment of great drama or sentimentality, suggesting the climax of a film."
+]
+},
+{
+"id": "get-back-on-the-horse-that-bucked-one_idiom",
+"w": "get back on the horse that bucked one",
+"kind": "idiom",
+"gloss": [
+"To return to something that previously caused harm."
+]
+},
+{
+"id": "gnaw-someone-s-vitals_idiom",
+"w": "gnaw someone's vitals",
+"kind": "idiom",
+"gloss": [
+"To deeply trouble (someone)."
+]
+},
+{
+"id": "float-someone-s-boat_idiom",
+"w": "float someone's boat",
+"kind": "idiom",
+"gloss": [
+"To interest or appeal to someone; to make someone happy."
+]
+},
+{
+"id": "plumber-s-helper_idiom",
+"w": "plumber's helper",
+"kind": "idiom",
+"gloss": [
+"A plunger, consisting of a large suction cup attached to a stick and used to remove blockages from toilets, sinks, or drains."
+]
+},
+{
+"id": "piss-in-someone-s-cornflakes_idiom",
+"w": "piss in someone's cornflakes",
+"kind": "idiom",
+"gloss": [
+"To disappoint or irritate someone."
+]
+},
+{
+"id": "put-the-moves-on_idiom",
+"w": "put the moves on",
+"kind": "idiom",
+"gloss": [
+"To make an effort to gain someone's romantic or sexual interest; to try to woo or seduce."
+]
+},
+{
+"id": "after-the-lord-mayor-s-show_idiom",
+"w": "after the Lord Mayor's show",
+"kind": "idiom",
+"gloss": [
+"Said of a disappointing or mundane event occurring straight after an exciting, magnificent, or triumphal event."
+]
+},
+{
+"id": "let-the-chips-fall-where-they-may_idiom",
+"w": "let the chips fall where they may",
+"kind": "idiom",
+"gloss": [
+"To allow events to unfold naturally; to accept what occurs without prejudice, worry, or regret."
+]
+},
+{
+"id": "command-performance_idiom",
+"w": "command performance",
+"kind": "idiom",
+"gloss": [
+"A task, activity, or other assignment which one undertakes in order to satisfy someone in authority, such as an employer."
+]
+},
+{
+"id": "bare-one-s-soul_idiom",
+"w": "bare one's soul",
+"kind": "idiom",
+"gloss": [
+"To reveal one's innermost feelings and thoughts, especially concerning one's doubts, regrets, or flaws; to tell one's personal secrets to others."
+]
+},
+{
+"id": "come-thick-and-fast_idiom",
+"w": "come thick and fast",
+"kind": "idiom",
+"gloss": [
+"To arrive rapidly in large groups."
+]
+},
+{
+"id": "steady-the-ship_idiom",
+"w": "steady the ship",
+"kind": "idiom",
+"gloss": [
+"To bring under control."
+]
+},
+{
+"id": "what-in-tarnation_idiom",
+"w": "what in tarnation",
+"kind": "idiom",
+"gloss": [
+"Used to add emphasis to \"what\" when beginning a question."
+]
+},
+{
+"id": "dick-milk_idiom",
+"w": "dick milk",
+"kind": "idiom",
+"gloss": [
+"Semen."
+]
+},
+{
+"id": "in-the-wink-of-an-eye_idiom",
+"w": "in the wink of an eye",
+"kind": "idiom",
+"gloss": [
+"Instantaneously; extremely quickly."
+]
+},
+{
+"id": "in-the-least_idiom",
+"w": "in the least",
+"kind": "idiom",
+"gloss": [
+"At all, in the slightest, in any way."
+]
+},
+{
+"id": "in-plain-view_idiom",
+"w": "in plain view",
+"kind": "idiom",
+"gloss": [
+"Easily seen, very visible."
+]
+},
+{
+"id": "how-goes-it_idiom",
+"w": "how goes it",
+"kind": "idiom",
+"gloss": [
+"An informal greeting roughly equivalent to how are you."
+]
+},
+{
+"id": "balloon-knot_idiom",
+"w": "balloon knot",
+"kind": "idiom",
+"gloss": [
+"The anus."
+]
+},
+{
+"id": "long-screwdriver_idiom",
+"w": "long screwdriver",
+"kind": "idiom",
+"gloss": [
+"Interference (usually in military matters) by politicians."
+]
+},
+{
+"id": "make-ground_idiom",
+"w": "make ground",
+"kind": "idiom",
+"gloss": [
+"gain ground; make progress."
+]
+},
+{
+"id": "like-cheese-at-fourpence_idiom",
+"w": "like cheese at fourpence",
+"kind": "idiom",
+"gloss": [
+"Of a person: waiting idly or timewasting."
+]
+},
+{
+"id": "popcorn-movie_idiom",
+"w": "popcorn movie",
+"kind": "idiom",
+"gloss": [
+"A motion picture without serious dramatic content, a weighty message, or intellectual depth, which serves simply as enjoyable entertainment."
+]
+},
+{
+"id": "under-the-rose_idiom",
+"w": "under the rose",
+"kind": "idiom",
+"gloss": [
+"In secret; secretly, privately."
+]
+},
+{
+"id": "have-a-snootful_idiom",
+"w": "have a snootful",
+"kind": "idiom",
+"gloss": [
+"To be drunk."
+]
+},
+{
+"id": "go-hang_idiom",
+"w": "go hang",
+"kind": "idiom",
+"gloss": [
+"To be cursed; to be unworthy of notice or bother."
+]
+},
+{
+"id": "dust-mouse_idiom",
+"w": "dust mouse",
+"kind": "idiom",
+"gloss": [
+"A dust bunny."
+]
+},
+{
+"id": "find-the-net_idiom",
+"w": "find the net",
+"kind": "idiom",
+"gloss": [
+"to score a goal"
+]
+},
+{
+"id": "bust-one-s-balls_idiom",
+"w": "bust one's balls",
+"kind": "idiom",
+"gloss": [
+"To work very hard; to put in a lot of effort."
+]
+},
+{
+"id": "energizer-bunny_idiom",
+"w": "Energizer bunny",
+"kind": "idiom",
+"gloss": [
+"A person who seems to have limitless energy and endurance."
+]
+},
+{
+"id": "kick-to-the-curb_idiom",
+"w": "kick to the curb",
+"kind": "idiom",
+"gloss": [
+"To dismiss or reject in a humiliating manner."
+]
+},
+{
+"id": "move-through-the-gears_idiom",
+"w": "move through the gears",
+"kind": "idiom",
+"gloss": [
+"To gradually increase speed or output."
+]
+},
+{
+"id": "kiss-someone-s-ass_idiom",
+"w": "kiss someone's ass",
+"kind": "idiom",
+"gloss": [
+"To flatter someone (especially a superior) in an obsequious manner, and to support their every opinion to gain their favor."
+]
+},
+{
+"id": "be-a-man_idiom",
+"w": "be a man",
+"kind": "idiom",
+"gloss": [
+"To put up with something or take responsibility for it; to deal with something, such as pain or misfortune, without complaining."
+]
+},
+{
+"id": "in-a-pig-s-arse_idiom",
+"w": "in a pig's arse",
+"kind": "idiom",
+"gloss": [
+"Absolutely not; under no circumstances."
+]
+},
+{
+"id": "balls-of-steel_idiom",
+"w": "balls of steel",
+"kind": "idiom",
+"gloss": [
+"Courage, audacity."
+]
+},
+{
+"id": "ten-dollar-word_idiom",
+"w": "ten-dollar word",
+"kind": "idiom",
+"gloss": [
+"A long and uncommon word used in place of a shorter and simpler one with the intent to appear sophisticated."
+]
+},
+{
+"id": "get-the-goods-on_idiom",
+"w": "get the goods on",
+"kind": "idiom",
+"gloss": [
+"To acquire knowledge or develop evidence that reveals the truth about someone's character or behavior, especially criminal behavior."
+]
+},
+{
+"id": "couldn-t-organise-a-piss-up-in-a-brewery_idiom",
+"w": "couldn't organise a piss-up in a brewery",
+"kind": "idiom",
+"gloss": [
+"Is unable even to organise a project that requires no planning; is incompetent; used to describe someone as greatly incompetent."
+]
+},
+{
+"id": "get-a-charge-out-of_idiom",
+"w": "get a charge out of",
+"kind": "idiom",
+"gloss": [
+"To derive excitement, entertainment, or pleasure from."
+]
+},
+{
+"id": "do-me-a-lemon_idiom",
+"w": "do me a lemon",
+"kind": "idiom",
+"gloss": [
+"Expresses disbelief."
+]
+},
+{
+"id": "go-into-one-s-shell_idiom",
+"w": "go into one's shell",
+"kind": "idiom",
+"gloss": [
+"To act defensively."
+]
+},
+{
+"id": "black-mark_idiom",
+"w": "black mark",
+"kind": "idiom",
+"gloss": [
+"Something that negatively affects someone's reputation."
+]
+},
+{
+"id": "hit-the-buffers_idiom",
+"w": "hit the buffers",
+"kind": "idiom",
+"gloss": [
+"To stop suddenly and unexpectedly."
+]
+},
+{
+"id": "party-hearty_idiom",
+"w": "party hearty",
+"kind": "idiom",
+"gloss": [
+"To engage in unrestrained merriment."
+]
+},
+{
+"id": "pill-mill_idiom",
+"w": "pill mill",
+"kind": "idiom",
+"gloss": [
+"A clandestine operation where a medical worker illicitly offers prescription medication to patients in exchange for bribes."
+]
+},
+{
+"id": "box-clever_idiom",
+"w": "box clever",
+"kind": "idiom",
+"gloss": [
+"To act wisely."
+]
+},
+{
+"id": "fall-off-the-back-of-a-truck_idiom",
+"w": "fall off the back of a truck",
+"kind": "idiom",
+"gloss": [
+"Of an item of merchandise, to come into a person's possession through illegal or otherwise dubious means."
+]
+},
+{
+"id": "gary-glitter_idiom",
+"w": "Gary Glitter",
+"kind": "idiom",
+"gloss": [
+"The anus, especially in the context of anal sex."
+]
+},
+{
+"id": "dump-one-s-load_idiom",
+"w": "dump one's load",
+"kind": "idiom",
+"gloss": [
+"To ejaculate, cum, inseminate, or defecate"
+]
+},
+{
+"id": "have-one-s-name-taken_idiom",
+"w": "have one's name taken",
+"kind": "idiom",
+"gloss": [
+"To receive a yellow card."
+]
+},
+{
+"id": "decimal-dozen_idiom",
+"w": "decimal dozen",
+"kind": "idiom",
+"gloss": [
+"Ten, a group of ten."
+]
+},
+{
+"id": "now-and-again_idiom",
+"w": "now and again",
+"kind": "idiom",
+"gloss": [
+"Synonym of occasionally, sometimes, intermittently."
+]
+},
+{
+"id": "on-the-cutting-room-floor_idiom",
+"w": "on the cutting room floor",
+"kind": "idiom",
+"gloss": [
+"Not included in the finalized version of something; deliberately rejected or unintentionally overlooked."
+]
+},
+{
+"id": "come-up-roses_idiom",
+"w": "come up roses",
+"kind": "idiom",
+"gloss": [
+"To enter into a condition or situation which is favorable; to develop in a pleasing or advantageous manner."
+]
+},
+{
+"id": "the-old-woman-is-plucking-her-goose_idiom",
+"w": "the old woman is plucking her goose",
+"kind": "idiom",
+"gloss": [
+"It is snowing."
+]
+},
+{
+"id": "kick-bollocks-scramble_idiom",
+"w": "kick bollocks scramble",
+"kind": "idiom",
+"gloss": [
+"A free for all or panic situation."
+]
+},
+{
+"id": "boldly-go-where-no-man-has-gone-before_idiom",
+"w": "boldly go where no man has gone before",
+"kind": "idiom",
+"gloss": [
+"To break new ground."
+]
+},
+{
+"id": "spock-ears_idiom",
+"w": "Spock ears",
+"kind": "idiom",
+"gloss": [
+"Pointy ears, resembling those of Spock, a Star Trek character."
+]
+},
+{
+"id": "have-it-both-ways_idiom",
+"w": "have it both ways",
+"kind": "idiom",
+"gloss": [
+"Synonym of have one's cake and eat it too."
+]
+},
+{
+"id": "you-lot_idiom",
+"w": "you lot",
+"kind": "idiom",
+"gloss": [
+"You (plural)."
+]
+},
+{
+"id": "holy-crickets_idiom",
+"w": "holy crickets",
+"kind": "idiom",
+"gloss": [
+"An expression of surprise or astonishment."
+]
+},
+{
+"id": "yellow-grease_idiom",
+"w": "yellow grease",
+"kind": "idiom",
+"gloss": [
+"Used vegetable oil purposed for use as biodiesel."
+]
+},
+{
+"id": "hand-in-one-s-dinner-pail_idiom",
+"w": "hand in one's dinner pail",
+"kind": "idiom",
+"gloss": [
+"To die."
+]
+},
+{
+"id": "house-nigger_idiom",
+"w": "house nigger",
+"kind": "idiom",
+"gloss": [
+"A subservient or accultured black person; an Uncle Tom or black race traitor."
+]
+},
+{
+"id": "nigger-nose_idiom",
+"w": "nigger nose",
+"kind": "idiom",
+"gloss": [
+"An insult, a term of contempt for a black person."
+]
+},
+{
+"id": "run-of-play_idiom",
+"w": "run of play",
+"kind": "idiom",
+"gloss": [
+"A passage of play; a series of consecutive moments, considered as a whole."
+]
+},
+{
+"id": "fact-is_idiom",
+"w": "fact is",
+"kind": "idiom",
+"gloss": [
+"actually, in truth"
+]
+},
+{
+"id": "waterfowl-alignment_idiom",
+"w": "waterfowl alignment",
+"kind": "idiom",
+"gloss": [
+"Proper organization."
+]
+},
+{
+"id": "potato-chaser_idiom",
+"w": "potato chaser",
+"kind": "idiom",
+"gloss": [
+"An Asian person with a strong inclination and attraction toward white people."
+]
+},
+{
+"id": "rice-chaser_idiom",
+"w": "rice chaser",
+"kind": "idiom",
+"gloss": [
+"A white person with a strong inclination and attraction toward Asians."
+]
+},
+{
+"id": "lead-the-line_idiom",
+"w": "lead the line",
+"kind": "idiom",
+"gloss": [
+"To play as centre forward."
+]
+},
+{
+"id": "up-to-one-s-ears_idiom",
+"w": "up to one's ears",
+"kind": "idiom",
+"gloss": [
+"up to here"
+]
+},
+{
+"id": "fair-crack-of-the-whip_idiom",
+"w": "fair crack of the whip",
+"kind": "idiom",
+"gloss": [
+"Let's have an equitable attempt, match, or process. Used as an appeal for reasonableness."
+]
+},
+{
+"id": "over-the-hills-and-far-away_idiom",
+"w": "over the hills and far away",
+"kind": "idiom",
+"gloss": [
+"Far away; not near."
+]
+},
+{
+"id": "by-mistake_idiom",
+"w": "by mistake",
+"kind": "idiom",
+"gloss": [
+"By accident; without the intention to do so."
+]
+},
+{
+"id": "hit-it-up_idiom",
+"w": "hit it up",
+"kind": "idiom",
+"gloss": [
+"To develop an amicable relationship (with), especially in a sudden manner during an initial encounter."
+]
+},
+{
+"id": "oil-trash_idiom",
+"w": "oil trash",
+"kind": "idiom",
+"gloss": [
+"An uncultured, rowdy roughneck employed in the petroleum industry, especially a \"white trash\" person if used negatively."
+]
+},
+{
+"id": "as-luck-may-have-it_idiom",
+"w": "as luck may have it",
+"kind": "idiom",
+"gloss": [
+"Synonym of as luck would have it (“by chance, luckily”)."
+]
+},
+{
+"id": "cut-it-out_idiom",
+"w": "cut it out",
+"kind": "idiom",
+"gloss": [
+"Synonym of knock it off."
+]
+},
+{
+"id": "worship-the-ground-someone-walks-on_idiom",
+"w": "worship the ground someone walks on",
+"kind": "idiom",
+"gloss": [
+"To admire or adore someone to excess."
+]
+},
+{
+"id": "bat-five-hundred_idiom",
+"w": "bat five hundred",
+"kind": "idiom",
+"gloss": [
+"To be successful half of the time; to have a success rate of 50%."
+]
+},
+{
+"id": "beat-one-s-brain_idiom",
+"w": "beat one's brain",
+"kind": "idiom",
+"gloss": [
+"To struggle to think or remember something."
+]
+},
+{
+"id": "and-his-mother_idiom",
+"w": "and his mother",
+"kind": "idiom",
+"gloss": [
+"Serves as an intensifier for an inclusive noun or phrase such as everyone, anyone, each someone or all someones."
+]
+},
+{
+"id": "get-into-the-act_idiom",
+"w": "get into the act",
+"kind": "idiom",
+"gloss": [
+"To participate in an activity, especially a successful or attractive one."
+]
+},
+{
+"id": "everybody-and-their-dog_idiom",
+"w": "everybody and their dog",
+"kind": "idiom",
+"gloss": [
+"Synonym of everybody and his brother (“everybody, everyone; also, a large number of people; most people”)."
+]
+},
+{
+"id": "glad-tidings_idiom",
+"w": "glad tidings",
+"kind": "idiom",
+"gloss": [
+"good news"
+]
+},
+{
+"id": "mixed-picture_idiom",
+"w": "mixed picture",
+"kind": "idiom",
+"gloss": [
+"A situation in which both negatives and positives are found."
+]
+}
+]

@@ -1,0 +1,100 @@
+{"id":"table_noun","th":"โต๊ะ; ตาราง","ex":"Put the plates on the table.","exTh":"วางจานไว้บนโต๊ะ"}
+{"id":"come_verb","th":"มา; มาถึง","ex":"Please come to my house on Sunday.","exTh":"วันอาทิตย์มาที่บ้านฉันนะ","note":"รูปผันคือ came, come"}
+{"id":"period_noun","th":"ช่วงเวลา; คาบเรียน; จุด (เครื่องหมาย)","ex":"We have a math period after lunch.","exTh":"หลังพักเที่ยงเรามีคาบวิชาคณิตศาสตร์"}
+{"id":"program_noun","th":"โปรแกรม; รายการ; หลักสูตร","ex":"I watch a cooking program every night.","exTh":"ฉันดูรายการทำอาหารทุกคืน","note":"อังกฤษแบบอังกฤษเขียน programme (รายการ/หลักสูตร)"}
+{"id":"office_noun","th":"สำนักงาน; ออฟฟิศ","ex":"My office is on the fifth floor.","exTh":"ออฟฟิศของฉันอยู่ชั้นห้า"}
+{"id":"war_noun","th":"สงคราม","ex":"The war ended many years ago.","exTh":"สงครามจบลงเมื่อหลายปีก่อน"}
+{"id":"off_adj","th":"ปิด (เครื่อง); ยกเลิก; ไม่ทำงาน","ex":"The lights are off in the kitchen.","exTh":"ไฟในครัวปิดอยู่"}
+{"id":"say_verb","th":"พูด; บอก; กล่าว","ex":"What did he say to you?","exTh":"เขาพูดอะไรกับคุณ","note":"รูปผันคือ said, said"}
+{"id":"board_noun","th":"กระดาน; คณะกรรมการ","ex":"The teacher wrote the date on the board.","exTh":"ครูเขียนวันที่ไว้บนกระดาน"}
+{"id":"health_noun","th":"สุขภาพ; ความแข็งแรง","ex":"Good food is important for your health.","exTh":"อาหารดีมีความสำคัญต่อสุขภาพ"}
+{"id":"above_adv","th":"ข้างบน; เหนือขึ้นไป","ex":"Look at the picture above.","exTh":"ดูภาพข้างบนนี้"}
+{"id":"above_prep","th":"เหนือ; สูงกว่า; มากกว่า","ex":"The clock is above the door.","exTh":"นาฬิกาอยู่เหนือประตู"}
+{"id":"never_adv","th":"ไม่เคย; ไม่มีวัน","ex":"I never drink coffee at night.","exTh":"ฉันไม่เคยดื่มกาแฟตอนกลางคืน"}
+{"id":"line_noun","th":"เส้น; แถว; สาย","ex":"There is a long line at the bank.","exTh":"มีแถวยาวที่ธนาคาร"}
+{"id":"until_prep","th":"จนถึง; จนกระทั่ง","ex":"The shop is open until nine o'clock.","exTh":"ร้านเปิดจนถึงสามทุ่ม"}
+{"id":"again_adv","th":"อีกครั้ง; อีก; ใหม่","ex":"Please say that again.","exTh":"ช่วยพูดอีกครั้งได้ไหม"}
+{"id":"action_noun","th":"การกระทำ; การดำเนินการ; แอ็กชัน","ex":"We must take action now.","exTh":"เราต้องลงมือทำตอนนี้"}
+{"id":"four_num","th":"สี่; เลขสี่","ex":"There are four chairs in the room.","exTh":"ในห้องมีเก้าอี้สี่ตัว"}
+{"id":"hand_noun","th":"มือ; ฝ่ามือ","ex":"Wash your hands before eating.","exTh":"ล้างมือก่อนกินข้าว"}
+{"id":"home_noun","th":"บ้าน; ที่อยู่อาศัย; ครอบครัว","ex":"I love my home.","exTh":"ฉันรักบ้านของฉัน"}
+{"id":"example_noun","th":"ตัวอย่าง; ตัวอย่างประกอบ","ex":"Can you give me an example?","exTh":"ช่วยยกตัวอย่างให้หน่อยได้ไหม"}
+{"id":"question_noun","th":"คำถาม; ปัญหา; ข้อสงสัย","ex":"I have a question for you.","exTh":"ฉันมีคำถามจะถามคุณ"}
+{"id":"give_verb","th":"ให้; มอบ; ส่ง","ex":"She gave me a nice gift.","exTh":"เธอให้ของขวัญสวยๆ กับฉัน","note":"รูปผันคือ gave, given"}
+{"id":"course_noun","th":"หลักสูตร; วิชา; คอร์ส","ex":"I am taking an English course.","exTh":"ฉันกำลังเรียนคอร์สภาษาอังกฤษ"}
+{"id":"change_noun","th":"การเปลี่ยนแปลง; เงินทอน; เศษเหรียญ","ex":"I need a change in my life.","exTh":"ฉันต้องการการเปลี่ยนแปลงในชีวิต"}
+{"id":"change_verb","th":"เปลี่ยน; เปลี่ยนแปลง; แลก","ex":"I want to change my phone number.","exTh":"ฉันอยากเปลี่ยนเบอร์โทรศัพท์"}
+{"id":"am_verb","th":"เป็น; อยู่; คือ","ex":"I am a student.","exTh":"ฉันเป็นนักเรียน","note":"รูปของ be ใช้กับ I เท่านั้น"}
+{"id":"person_noun","th":"คน; บุคคล","ex":"She is a very kind person.","exTh":"เธอเป็นคนใจดีมาก"}
+{"id":"left_adj","th":"ซ้าย; ข้างซ้าย","ex":"Turn left at the corner.","exTh":"เลี้ยวซ้ายตรงหัวมุม"}
+{"id":"family_noun","th":"ครอบครัว; ครอบครัวญาติ","ex":"My family eats dinner together.","exTh":"ครอบครัวของฉันกินข้าวเย็นด้วยกัน"}
+{"id":"often_adv","th":"บ่อย; บ่อยๆ","ex":"I often walk to work.","exTh":"ฉันมักเดินไปทำงาน"}
+{"id":"special_adj","th":"พิเศษ; เป็นพิเศษ","ex":"Today is a special day for us.","exTh":"วันนี้เป็นวันพิเศษสำหรับเรา"}
+{"id":"type_noun","th":"ประเภท; ชนิด; แบบ","ex":"What type of music do you like?","exTh":"คุณชอบเพลงประเภทไหน"}
+{"id":"history_noun","th":"ประวัติศาสตร์; ประวัติ","ex":"I like reading about history.","exTh":"ฉันชอบอ่านเรื่องประวัติศาสตร์"}
+{"id":"find_verb","th":"พบ; หา; เจอ","ex":"I can't find my keys.","exTh":"ฉันหากุญแจไม่เจอ","note":"รูปผันคือ found, found"}
+{"id":"subject_noun","th":"วิชา; หัวข้อ; เรื่อง","ex":"Math is my favorite subject.","exTh":"คณิตศาสตร์เป็นวิชาโปรดของฉัน"}
+{"id":"later_adv","th":"ทีหลัง; ภายหลัง; ต่อมา","ex":"I will call you later.","exTh":"เดี๋ยวฉันโทรหาคุณทีหลัง"}
+{"id":"best_adj","th":"ดีที่สุด; ที่สุด","ex":"She is my best friend.","exTh":"เธอเป็นเพื่อนที่ดีที่สุดของฉัน"}
+{"id":"best_adv","th":"ดีที่สุด; มากที่สุด","ex":"I work best in the morning.","exTh":"ฉันทำงานได้ดีที่สุดตอนเช้า"}
+{"id":"name_noun","th":"ชื่อ; นาม","ex":"What is your name?","exTh":"คุณชื่ออะไร"}
+{"id":"early_adv","th":"เช้า; แต่เนิ่นๆ; ก่อนเวลา","ex":"I get up early every day.","exTh":"ฉันตื่นเช้าทุกวัน"}
+{"id":"book_noun","th":"หนังสือ; เล่ม","ex":"I read a book every week.","exTh":"ฉันอ่านหนังสือหนึ่งเล่มทุกสัปดาห์"}
+{"id":"side_noun","th":"ด้าน; ข้าง; ฝั่ง","ex":"The bank is on the left side of the street.","exTh":"ธนาคารอยู่ฝั่งซ้ายของถนน"}
+{"id":"always_adv","th":"เสมอ; ตลอด; ทุกครั้ง","ex":"She always smiles at me.","exTh":"เธอยิ้มให้ฉันเสมอ"}
+{"id":"five_num","th":"ห้า; เลขห้า","ex":"I have five fingers on each hand.","exTh":"ฉันมีนิ้วห้านิ้วในแต่ละมือ"}
+{"id":"field_noun","th":"ทุ่ง; สนาม; สาขา","ex":"The boys play football in the field.","exTh":"เด็กผู้ชายเล่นฟุตบอลในสนามหญ้า"}
+{"id":"free_adj","th":"ฟรี; ว่าง; อิสระ","ex":"The museum is free on Sundays.","exTh":"พิพิธภัณฑ์เข้าฟรีทุกวันอาทิตย์"}
+{"id":"head_noun","th":"หัว; ศีรษะ; หัวหน้า","ex":"I have a pain in my head.","exTh":"ฉันปวดหัว"}
+{"id":"due_adj","th":"ครบกำหนด; ถึงกำหนด; ควรจะ","ex":"The homework is due on Friday.","exTh":"การบ้านต้องส่งภายในวันศุกร์"}
+{"id":"either_adv","th":"ก็ไม่เหมือนกัน; ด้วยเช่นกัน (ปฏิเสธ)","ex":"I don't like tea, and he doesn't either.","exTh":"ฉันไม่ชอบชา และเขาก็ไม่ชอบเหมือนกัน"}
+{"id":"around_prep","th":"รอบ; ใกล้ๆ; ประมาณ","ex":"We walked around the lake.","exTh":"เราเดินรอบทะเลสาบ"}
+{"id":"full_adj","th":"เต็ม; อิ่ม","ex":"The bus is full of people.","exTh":"รถเมล์เต็มไปด้วยผู้คน"}
+{"id":"yet_adv","th":"ยัง; แล้ว (ในคำถาม)","ex":"Have you eaten lunch yet?","exTh":"คุณกินข้าวเที่ยงหรือยัง"}
+{"id":"result_noun","th":"ผล; ผลลัพธ์; ผลสอบ","ex":"I am waiting for my test result.","exTh":"ฉันกำลังรอผลสอบ"}
+{"id":"put_verb","th":"วาง; ใส่; ตั้ง","ex":"Put your bag on the chair.","exTh":"วางกระเป๋าไว้บนเก้าอี้","note":"รูปผันคือ put, put, put"}
+{"id":"why_adv","th":"ทำไม; เพราะอะไร","ex":"Why are you late?","exTh":"ทำไมคุณมาสาย"}
+{"id":"body_noun","th":"ร่างกาย; ตัว","ex":"Exercise is good for your body.","exTh":"การออกกำลังกายดีต่อร่างกาย"}
+{"id":"light_adj","th":"เบา; สว่าง; อ่อน (สี)","ex":"This bag is very light.","exTh":"กระเป๋าใบนี้เบามาก"}
+{"id":"light_noun","th":"แสง; ไฟ; แสงสว่าง","ex":"Please turn on the light.","exTh":"ช่วยเปิดไฟหน่อย"}
+{"id":"better_adj","th":"ดีกว่า; ดีขึ้น","ex":"This phone is better than that one.","exTh":"โทรศัพท์เครื่องนี้ดีกว่าเครื่องนั้น"}
+{"id":"problem_noun","th":"ปัญหา; เรื่องยุ่งยาก; โจทย์","ex":"We have a problem with the car.","exTh":"เรามีปัญหากับรถ"}
+{"id":"matter_noun","th":"เรื่อง; ปัญหา; กิจ","ex":"This is a serious matter.","exTh":"นี่เป็นเรื่องร้ายแรง"}
+{"id":"want_verb","th":"ต้องการ; อยาก","ex":"I want a glass of water.","exTh":"ฉันอยากได้น้ำหนึ่งแก้ว"}
+{"id":"white_adj","th":"ขาว; สีขาว","ex":"She wore a white dress.","exTh":"เธอใส่ชุดสีขาว"}
+{"id":"white_noun","th":"สีขาว; ไข่ขาว","ex":"I like the white of the egg.","exTh":"ฉันชอบไข่ขาว"}
+{"id":"let_verb","th":"ให้; อนุญาต; ปล่อยให้","ex":"My mother let me watch TV.","exTh":"แม่ปล่อยให้ฉันดูทีวี","note":"รูปผันคือ let, let, let"}
+{"id":"become_verb","th":"กลายเป็น; เป็น; เริ่มเป็น","ex":"She wants to become a doctor.","exTh":"เธออยากเป็นหมอ","note":"รูปผันคือ became, become"}
+{"id":"once_adv","th":"ครั้งหนึ่ง; หนึ่งครั้ง; เคย","ex":"I visit my grandmother once a week.","exTh":"ฉันไปหาคุณยายสัปดาห์ละครั้ง"}
+{"id":"age_noun","th":"อายุ; วัย; ยุค","ex":"What is your age?","exTh":"คุณอายุเท่าไหร่"}
+{"id":"class_noun","th":"ชั้นเรียน; ห้องเรียน; คาบเรียน","ex":"Our class starts at nine.","exTh":"ชั้นเรียนของเราเริ่มเก้าโมง"}
+{"id":"away_adv","th":"ออกไป; ไปไกล; ห่างออกไป","ex":"The station is two miles away.","exTh":"สถานีอยู่ห่างออกไปสองไมล์"}
+{"id":"foreign_adj","th":"ต่างประเทศ; ต่างชาติ","ex":"She is learning a foreign language.","exTh":"เธอกำลังเรียนภาษาต่างประเทศ"}
+{"id":"care_noun","th":"การดูแล; ความระมัดระวัง; ความเอาใจใส่","ex":"The baby needs a lot of care.","exTh":"ทารกต้องการการดูแลมาก"}
+{"id":"show_verb","th":"แสดง; ให้ดู; ชี้","ex":"Can you show me your photos?","exTh":"ขอดูรูปของคุณหน่อยได้ไหม","note":"รูปผันคือ showed, shown"}
+{"id":"something_pron","th":"บางอย่าง; อะไรบางอย่าง","ex":"I want to eat something sweet.","exTh":"ฉันอยากกินอะไรหวานๆ"}
+{"id":"help_verb","th":"ช่วย; ช่วยเหลือ","ex":"Can you help me with this box?","exTh":"ช่วยฉันยกกล่องนี้หน่อยได้ไหม"}
+{"id":"june_noun","th":"มิถุนายน; เดือนมิถุนายน","ex":"My birthday is in June.","exTh":"วันเกิดของฉันอยู่ในเดือนมิถุนายน"}
+{"id":"party_noun","th":"งานเลี้ยง; ปาร์ตี้; พรรค","ex":"We had a party for her birthday.","exTh":"เราจัดงานเลี้ยงวันเกิดให้เธอ"}
+{"id":"money_noun","th":"เงิน; เงินทอง","ex":"I don't have much money.","exTh":"ฉันมีเงินไม่มาก"}
+{"id":"young_adj","th":"หนุ่มสาว; อ่อนวัย; เยาว์","ex":"She is too young to drive.","exTh":"เธออายุน้อยเกินกว่าจะขับรถ"}
+{"id":"half_noun","th":"ครึ่ง; ครึ่งหนึ่ง","ex":"I ate half of the cake.","exTh":"ฉันกินเค้กไปครึ่งก้อน"}
+{"id":"open_adj","th":"เปิด; เปิดอยู่","ex":"The shop is open now.","exTh":"ตอนนี้ร้านเปิดอยู่"}
+{"id":"open_verb","th":"เปิด; เริ่มเปิด","ex":"Please open the window.","exTh":"ช่วยเปิดหน้าต่างหน่อย"}
+{"id":"date_noun","th":"วันที่; วันนัด; เดท","ex":"What is the date today?","exTh":"วันนี้วันที่เท่าไหร่"}
+{"id":"child_noun","th":"เด็ก; ลูก","ex":"Every child needs love.","exTh":"เด็กทุกคนต้องการความรัก","note":"พหูพจน์เป็น children"}
+{"id":"along_adv","th":"ไปด้วย; ไปตาม; ต่อไป","ex":"Come along with us.","exTh":"ไปกับเราด้วยสิ"}
+{"id":"real_adj","th":"จริง; ของแท้; แท้จริง","ex":"Is this a real diamond?","exTh":"นี่เป็นเพชรแท้หรือเปล่า"}
+{"id":"real_adv","th":"จริงๆ; มาก (ภาษาพูด)","ex":"The soup is real good.","exTh":"ซุปนี้อร่อยจริงๆ","note":"ภาษาพูด โดยเฉพาะอเมริกัน เขียนทางการใช้ really"}
+{"id":"together_adv","th":"ด้วยกัน; พร้อมกัน","ex":"We walk to school together.","exTh":"เราเดินไปโรงเรียนด้วยกัน"}
+{"id":"paper_noun","th":"กระดาษ; หนังสือพิมพ์; รายงาน","ex":"I need some paper to write on.","exTh":"ฉันต้องการกระดาษสำหรับเขียน"}
+{"id":"price_noun","th":"ราคา; ค่า","ex":"What is the price of this shirt?","exTh":"เสื้อตัวนี้ราคาเท่าไหร่"}
+{"id":"building_noun","th":"อาคาร; ตึก","ex":"Our office is in a tall building.","exTh":"ออฟฟิศของเราอยู่ในตึกสูง"}
+{"id":"plan_noun","th":"แผน; แผนการ; โครงการ","ex":"What is your plan for the weekend?","exTh":"สุดสัปดาห์นี้คุณมีแผนจะทำอะไร"}
+{"id":"almost_adv","th":"เกือบ; เกือบจะ","ex":"It is almost ten o'clock.","exTh":"เกือบสี่ทุ่มแล้ว"}
+{"id":"room_noun","th":"ห้อง; พื้นที่","ex":"My room is small but clean.","exTh":"ห้องของฉันเล็กแต่สะอาด"}
+{"id":"look_noun","th":"การมอง; สายตา; ท่าที","ex":"Take a look at this picture.","exTh":"ลองดูรูปนี้หน่อย"}
+{"id":"look_verb","th":"มอง; ดู; ดูเหมือน","ex":"Look at the sky!","exTh":"ดูท้องฟ้าสิ"}
+{"id":"already_adv","th":"แล้ว; เรียบร้อยแล้ว","ex":"I have already finished my work.","exTh":"ฉันทำงานเสร็จแล้ว"}
+{"id":"bank_noun","th":"ธนาคาร; ริมฝั่ง","ex":"I go to the bank on Monday.","exTh":"ฉันไปธนาคารวันจันทร์"}
+{"id":"short_adj","th":"สั้น; เตี้ย; ย่อ","ex":"He has short hair.","exTh":"เขามีผมสั้น"}

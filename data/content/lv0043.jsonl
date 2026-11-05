@@ -1,0 +1,100 @@
+{"id":"fountain_noun","th":"น้ำพุ; ที่ดื่มน้ำสาธารณะ","ex":"Children were playing near the fountain in the park.","exTh":"เด็กๆ กำลังเล่นอยู่ใกล้น้ำพุในสวน"}
+{"id":"characterize_verb","th":"บรรยายลักษณะ; เป็นลักษณะเฉพาะของ","ex":"Friends characterize him as kind and funny.","exTh":"เพื่อนๆ บรรยายว่าเขาเป็นคนใจดีและตลก"}
+{"id":"damp_adj","th":"ชื้น; ชื้นแฉะ","ex":"The towel is still damp, so don't use it yet.","exTh":"ผ้าเช็ดตัวยังชื้นอยู่ อย่าเพิ่งใช้"}
+{"id":"incredible_adj","th":"เหลือเชื่อ; ยอดเยี่ยมมาก","ex":"The view from the mountain was incredible.","exTh":"วิวจากภูเขาสวยเหลือเชื่อ"}
+{"id":"disappointment_noun","th":"ความผิดหวัง; สิ่งที่ทำให้ผิดหวัง","ex":"She tried to hide her disappointment after the game.","exTh":"เธอพยายามซ่อนความผิดหวังหลังจบเกม"}
+{"id":"obstacle_noun","th":"อุปสรรค; สิ่งกีดขวาง","ex":"Lack of money was the biggest obstacle to his plan.","exTh":"การไม่มีเงินเป็นอุปสรรคใหญ่ที่สุดของแผนเขา"}
+{"id":"upstairs_adj","th":"ชั้นบน; ที่อยู่ข้างบน","ex":"The upstairs bedroom has a nice view of the garden.","exTh":"ห้องนอนชั้นบนมองเห็นวิวสวนสวย"}
+{"id":"upstairs_noun","th":"ชั้นบน","ex":"The upstairs of the house is quiet at night.","exTh":"ชั้นบนของบ้านเงียบสงบในตอนกลางคืน"}
+{"id":"elbow_noun","th":"ข้อศอก; ศอก","ex":"He hurt his elbow when he fell off the bike.","exTh":"เขาเจ็บข้อศอกตอนล้มจากจักรยาน"}
+{"id":"heavenly_adj","th":"เหมือนสวรรค์; ยอดเยี่ยม; เกี่ยวกับสวรรค์","ex":"The cake tasted heavenly.","exTh":"เค้กชิ้นนี้อร่อยสุดยอดเหมือนอยู่บนสวรรค์"}
+{"id":"warranty_noun","th":"การรับประกัน; ใบรับประกัน","ex":"The laptop comes with a two-year warranty.","exTh":"โน้ตบุ๊กเครื่องนี้มีรับประกันสองปี"}
+{"id":"underneath_prep","th":"ข้างใต้; ใต้","ex":"The cat is sleeping underneath the table.","exTh":"แมวกำลังนอนหลับอยู่ใต้โต๊ะ"}
+{"id":"transitional_adj","th":"ที่เป็นช่วงเปลี่ยนผ่าน; ชั่วคราว","ex":"This is a transitional period for the company.","exTh":"นี่เป็นช่วงเปลี่ยนผ่านของบริษัท"}
+{"id":"wrist_noun","th":"ข้อมือ","ex":"She wears a thin silver bracelet on her wrist.","exTh":"เธอสวมกำไลเงินเส้นเล็กที่ข้อมือ"}
+{"id":"grouping_noun","th":"การจัดกลุ่ม; กลุ่ม","ex":"The teacher made a grouping of students by age.","exTh":"ครูจัดกลุ่มนักเรียนตามอายุ"}
+{"id":"airline_noun","th":"สายการบิน","ex":"Which airline are you flying with to Tokyo?","exTh":"คุณจะบินไปโตเกียวกับสายการบินอะไร"}
+{"id":"reef_noun","th":"แนวปะการัง; โขดหิน","ex":"We saw colorful fish near the coral reef.","exTh":"เราเห็นปลาหลากสีใกล้แนวปะการัง"}
+{"id":"blend_verb","th":"ผสม; ผสมผสาน; กลมกลืน","ex":"Blend the milk and eggs in a bowl.","exTh":"ผสมนมกับไข่ในชามให้เข้ากัน"}
+{"id":"sometime_adv","th":"สักวันหนึ่ง; เมื่อไรสักเมื่อ","ex":"Let's have lunch together sometime next week.","exTh":"สัปดาห์หน้าเรามากินข้าวด้วยกันสักวันนะ"}
+{"id":"terrorist_noun","th":"ผู้ก่อการร้าย","ex":"The news said police caught the terrorist.","exTh":"ข่าวบอกว่าตำรวจจับผู้ก่อการร้ายได้แล้ว"}
+{"id":"northeastern_adj","th":"ทางตะวันออกเฉียงเหนือ","ex":"She comes from the northeastern part of the country.","exTh":"เธอมาจากภาคตะวันออกเฉียงเหนือของประเทศ"}
+{"id":"bullet_noun","th":"กระสุนปืน; จุดนำหน้าข้อความ","ex":"The bullet hit the wall behind him.","exTh":"กระสุนปืนพุ่งเข้าชนผนังด้านหลังเขา"}
+{"id":"oneself_pron","th":"ตัวเอง; ตนเอง","ex":"It is important to take care of oneself.","exTh":"การดูแลตัวเองเป็นเรื่องสำคัญ","note":"ภาษาทางการ; ใช้แทนตัวเองโดยรวม ไม่ระบุว่าใคร"}
+{"id":"meditation_noun","th":"การทำสมาธิ; การนั่งสมาธิ","ex":"She does meditation every morning before work.","exTh":"เธอนั่งสมาธิทุกเช้าก่อนไปทำงาน"}
+{"id":"oppression_noun","th":"การกดขี่; การข่มเหง","ex":"The people fought against oppression for many years.","exTh":"ประชาชนต่อสู้กับการกดขี่มาหลายปี"}
+{"id":"slot_noun","th":"ช่อง; ช่องใส่; ช่วงเวลา","ex":"Put the coin in the slot and press the button.","exTh":"ใส่เหรียญลงในช่องแล้วกดปุ่ม"}
+{"id":"miserable_adj","th":"ทุกข์ใจ; น่าสังเวช; เศร้าสร้อย","ex":"I felt miserable when I lost my job.","exTh":"ฉันรู้สึกทุกข์ใจมากตอนที่ตกงาน"}
+{"id":"bother_noun","th":"ความรำคาญ; เรื่องยุ่งยาก","ex":"It's no bother, I can help you carry the bags.","exTh":"ไม่ลำบากอะไรเลย ฉันช่วยถือถุงให้ได้"}
+{"id":"whichever_det","th":"อันไหนก็ตาม; ไม่ว่าอันไหน","ex":"You can take whichever seat you like.","exTh":"คุณเลือกนั่งที่นั่งไหนก็ได้ตามชอบ"}
+{"id":"pie_noun","th":"พาย; ขนมพาย","ex":"My grandmother bakes an apple pie every Sunday.","exTh":"คุณยายอบพายแอปเปิลทุกวันอาทิตย์"}
+{"id":"ridiculous_adj","th":"น่าขัน; ไร้สาระ; ไร้เหตุผล","ex":"The price of that bag is ridiculous.","exTh":"ราคากระเป๋าใบนั้นแพงไร้เหตุผล"}
+{"id":"hatch_noun","th":"ช่อง (ทางลง/ขึ้น); ประตูเล็ก","ex":"The sailor climbed out through the hatch.","exTh":"ลูกเรือปีนออกมาทางช่องประตูเล็ก"}
+{"id":"highlight_verb","th":"เน้น; ไฮไลต์; ทำให้เด่น","ex":"I highlight important words with a yellow pen.","exTh":"ฉันขีดคำสำคัญด้วยปากกาเน้นข้อความสีเหลือง"}
+{"id":"aloud_adv","th":"ออกเสียง; เสียงดังพอได้ยิน","ex":"Please read the sentence aloud to the class.","exTh":"กรุณาอ่านประโยคนี้ออกเสียงให้ทั้งห้องฟัง"}
+{"id":"horrible_adj","th":"แย่มาก; น่ากลัว; น่าขยะแขยง","ex":"The weather was horrible all weekend.","exTh":"อากาศแย่มากตลอดสุดสัปดาห์"}
+{"id":"greenhouse_noun","th":"เรือนกระจก; โรงเพาะปลูก","ex":"We grow tomatoes in a small greenhouse.","exTh":"เราปลูกมะเขือเทศในเรือนกระจกหลังเล็ก"}
+{"id":"sigh_noun","th":"การถอนหายใจ","ex":"He gave a long sigh and sat down.","exTh":"เขาถอนหายใจยาวแล้วนั่งลง"}
+{"id":"sleeve_noun","th":"แขนเสื้อ","ex":"The sleeves of this shirt are too long.","exTh":"แขนเสื้อตัวนี้ยาวเกินไป"}
+{"id":"expose_verb","th":"เปิดเผย; เผยให้เห็น; ตีแผ่","ex":"The report exposed the truth about the company.","exTh":"รายงานเปิดเผยความจริงเกี่ยวกับบริษัท"}
+{"id":"warrior_noun","th":"นักรบ; ผู้กล้า","ex":"The old warrior was proud of his country.","exTh":"นักรบเฒ่าภูมิใจในประเทศของเขา"}
+{"id":"depart_verb","th":"ออกเดินทาง; จากไป","ex":"The train departs from platform three at noon.","exTh":"รถไฟออกจากชานชาลาที่สามตอนเที่ยง","note":"ภาษาทางการ; ภาษาพูดมักใช้ leave"}
+{"id":"prosperous_adj","th":"รุ่งเรือง; มั่งคั่ง","ex":"It is now a prosperous city with many businesses.","exTh":"ตอนนี้เป็นเมืองที่รุ่งเรืองและมีธุรกิจมากมาย"}
+{"id":"nonsense_noun","th":"เรื่องไร้สาระ; ความไร้เหตุผล","ex":"Don't talk nonsense, I know you are joking.","exTh":"อย่าพูดเรื่องไร้สาระ ฉันรู้ว่าเธอล้อเล่น"}
+{"id":"twist_noun","th":"การบิด; ปมพลิกผัน; ทางโค้ง","ex":"The movie has a surprising twist at the end.","exTh":"หนังเรื่องนี้มีปมพลิกผันที่น่าประหลาดใจตอนจบ"}
+{"id":"twist_verb","th":"บิด; หมุน; พลิก","ex":"Twist the cap to open the bottle.","exTh":"บิดฝาเพื่อเปิดขวด"}
+{"id":"appetite_noun","th":"ความอยากอาหาร; ความอยาก","ex":"I have no appetite when I am sick.","exTh":"เวลาป่วยฉันไม่อยากอาหารเลย"}
+{"id":"symptom_noun","th":"อาการ; อาการของโรค","ex":"A cough is a common symptom of a cold.","exTh":"อาการไอเป็นอาการทั่วไปของหวัด"}
+{"id":"spectacular_adj","th":"ตระการตา; น่าทึ่ง; ยอดเยี่ยม","ex":"The fireworks were spectacular last night.","exTh":"พลุเมื่อคืนตระการตามาก"}
+{"id":"endure_verb","th":"ทนทาน; อดทน; ทนต่อ","ex":"I can't endure this heat any longer.","exTh":"ฉันทนอากาศร้อนแบบนี้ต่อไปไม่ไหวแล้ว"}
+{"id":"bubble_noun","th":"ฟองอากาศ; ฟอง","ex":"The child blew a big soap bubble.","exTh":"เด็กเป่าฟองสบู่ลูกใหญ่"}
+{"id":"ration_noun","th":"ส่วนแบ่งอาหาร; เสบียงที่จัดสรร","ex":"Each soldier got a small ration of food.","exTh":"ทหารแต่ละคนได้รับเสบียงอาหารเล็กน้อย"}
+{"id":"thunder_noun","th":"เสียงฟ้าร้อง; ฟ้าร้อง","ex":"We heard loud thunder before the rain.","exTh":"เราได้ยินเสียงฟ้าร้องดังก่อนฝนตก"}
+{"id":"safeguard_noun","th":"มาตรการป้องกัน; สิ่งที่คุ้มครอง","ex":"A strong password is a safeguard for your account.","exTh":"รหัสผ่านที่รัดกุมช่วยป้องกันบัญชีของคุณ"}
+{"id":"extinction_noun","th":"การสูญพันธุ์; การดับสูญ","ex":"Many animals are close to extinction.","exTh":"สัตว์หลายชนิดใกล้จะสูญพันธุ์"}
+{"id":"flock_noun","th":"ฝูง (นก/แกะ); กลุ่มคนจำนวนมาก","ex":"A flock of birds flew over the lake.","exTh":"ฝูงนกบินผ่านทะเลสาบไป"}
+{"id":"maple_noun","th":"ต้นเมเปิล; ไม้เมเปิล","ex":"The maple leaves turn red in the autumn.","exTh":"ใบเมเปิลเปลี่ยนเป็นสีแดงในฤดูใบไม้ร่วง"}
+{"id":"ripe_adj","th":"สุก; พร้อมกิน","ex":"These mangoes are ripe and very sweet.","exTh":"มะม่วงพวกนี้สุกและหวานมาก"}
+{"id":"translate_verb","th":"แปล; แปลภาษา","ex":"Can you translate this letter into English?","exTh":"คุณช่วยแปลจดหมายฉบับนี้เป็นภาษาอังกฤษได้ไหม"}
+{"id":"announce_verb","th":"ประกาศ; แจ้งให้ทราบ","ex":"The school announced a new holiday on Friday.","exTh":"โรงเรียนประกาศวันหยุดใหม่ในวันศุกร์"}
+{"id":"dissolve_verb","th":"ละลาย; สลายตัว; ยุบ","ex":"Sugar dissolves quickly in hot tea.","exTh":"น้ำตาลละลายเร็วในชาร้อน"}
+{"id":"evenly_adv","th":"อย่างสม่ำเสมอ; เท่าๆ กัน","ex":"Spread the butter evenly on the bread.","exTh":"ทาเนยบนขนมปังให้ทั่วเสมอกัน"}
+{"id":"unite_verb","th":"รวมกัน; รวมเป็นหนึ่ง; สามัคคี","ex":"The people united to help the flood victims.","exTh":"ประชาชนรวมใจกันช่วยเหลือผู้ประสบอุทกภัย"}
+{"id":"hardship_noun","th":"ความยากลำบาก; ความทุกข์ยาก","ex":"Her family suffered great hardship during the war.","exTh":"ครอบครัวของเธอผ่านความยากลำบากอย่างมากในช่วงสงคราม"}
+{"id":"unclear_adj","th":"ไม่ชัดเจน; คลุมเครือ","ex":"The instructions on the box are unclear.","exTh":"คำแนะนำบนกล่องไม่ชัดเจน"}
+{"id":"reproduce_verb","th":"สืบพันธุ์; ทำซ้ำ; ทำสำเนา","ex":"Rabbits reproduce very quickly.","exTh":"กระต่ายขยายพันธุ์เร็วมาก"}
+{"id":"nail_noun","th":"ตะปู; เล็บ","ex":"He hit the nail with a hammer.","exTh":"เขาใช้ค้อนตอกตะปู"}
+{"id":"jungle_noun","th":"ป่าดิบ; ป่าทึบ","ex":"Many rare animals live in the jungle.","exTh":"สัตว์หายากหลายชนิดอาศัยอยู่ในป่าดิบ"}
+{"id":"monster_noun","th":"สัตว์ประหลาด; ปีศาจ","ex":"The child was afraid of the monster under the bed.","exTh":"เด็กกลัวสัตว์ประหลาดใต้เตียง"}
+{"id":"cod_noun","th":"ปลาค็อด","ex":"We had fried cod and chips for dinner.","exTh":"มื้อเย็นเรากินปลาค็อดทอดกับมันฝรั่งทอด"}
+{"id":"trim_noun","th":"การตัดแต่ง; ขอบประดับ","ex":"My hair needs a trim before the wedding.","exTh":"ผมของฉันต้องตัดแต่งนิดหน่อยก่อนงานแต่งงาน"}
+{"id":"bat_verb","th":"ตี (ลูกบอล); กระพือ (ตา/ปีก)","ex":"He bats first for our team today.","exTh":"วันนี้เขาเป็นผู้ตีคนแรกของทีมเรา"}
+{"id":"monk_noun","th":"พระภิกษุ; พระ; นักบวช","ex":"The monk walked quietly into the temple.","exTh":"พระภิกษุเดินเข้าวัดอย่างเงียบๆ"}
+{"id":"builder_noun","th":"ผู้สร้าง; ช่างก่อสร้าง; ผู้รับเหมา","ex":"The builder finished the house in six months.","exTh":"ช่างก่อสร้างสร้างบ้านเสร็จในหกเดือน"}
+{"id":"cancel_verb","th":"ยกเลิก; งด","ex":"They cancelled the picnic because of rain.","exTh":"พวกเขายกเลิกปิกนิกเพราะฝนตก"}
+{"id":"delete_verb","th":"ลบ; ลบทิ้ง","ex":"I deleted the old photos from my phone.","exTh":"ฉันลบรูปเก่าออกจากโทรศัพท์"}
+{"id":"countless_adj","th":"นับไม่ถ้วน; มากมาย","ex":"There are countless stars in the sky tonight.","exTh":"คืนนี้ดาวบนท้องฟ้ามีมากมายนับไม่ถ้วน"}
+{"id":"helpless_adj","th":"ช่วยตัวเองไม่ได้; ไร้ที่พึ่ง","ex":"A baby is helpless without its parents.","exTh":"ทารกช่วยตัวเองไม่ได้หากไม่มีพ่อแม่"}
+{"id":"honestly_adv","th":"อย่างซื่อสัตย์; พูดตามตรง","ex":"Honestly, I don't like this movie very much.","exTh":"พูดตามตรง ฉันไม่ค่อยชอบหนังเรื่องนี้เท่าไหร่"}
+{"id":"candle_noun","th":"เทียน; เทียนไข","ex":"She lit a candle when the power went out.","exTh":"เธอจุดเทียนตอนไฟดับ"}
+{"id":"ashamed_adj","th":"อับอาย; ละอายใจ","ex":"He felt ashamed of what he had said.","exTh":"เขารู้สึกละอายใจกับสิ่งที่พูดไป"}
+{"id":"journalist_noun","th":"นักข่าว; ผู้สื่อข่าว","ex":"The journalist interviewed the mayor yesterday.","exTh":"นักข่าวสัมภาษณ์นายกเทศมนตรีเมื่อวานนี้"}
+{"id":"warn_verb","th":"เตือน; แจ้งเตือน","ex":"The sign warns people not to swim here.","exTh":"ป้ายเตือนไม่ให้ผู้คนว่ายน้ำที่นี่"}
+{"id":"jar_noun","th":"โหล; ขวดปากกว้าง","ex":"She keeps cookies in a glass jar.","exTh":"เธอเก็บคุกกี้ไว้ในโหลแก้ว"}
+{"id":"garment_noun","th":"เครื่องแต่งกาย; เสื้อผ้า","ex":"This garment is made of pure cotton.","exTh":"เสื้อผ้าชิ้นนี้ทำจากฝ้ายแท้","note":"ภาษาทางการ; ภาษาพูดมักใช้ clothes"}
+{"id":"purse_noun","th":"กระเป๋าสตางค์ (ใบเล็ก); กระเป๋าถือ (อเมริกัน)","ex":"She took some coins out of her purse.","exTh":"เธอหยิบเหรียญออกมาจากกระเป๋าสตางค์","note":"อังกฤษหมายถึงกระเป๋าสตางค์ใบเล็ก; อเมริกันหมายถึงกระเป๋าถือ"}
+{"id":"boot_noun","th":"รองเท้าบู๊ต; ท้ายรถ (อังกฤษ)","ex":"I wear boots when it rains.","exTh":"ฉันใส่รองเท้าบู๊ตเวลาฝนตก"}
+{"id":"honesty_noun","th":"ความซื่อสัตย์; ความจริงใจ","ex":"Honesty is important in any friendship.","exTh":"ความซื่อสัตย์เป็นสิ่งสำคัญในมิตรภาพทุกแบบ"}
+{"id":"ant_noun","th":"มด","ex":"A line of ants walked across the kitchen floor.","exTh":"มดเดินเรียงเป็นแถวข้ามพื้นห้องครัว"}
+{"id":"swear_verb","th":"สาบาน; ให้คำสาบาน; พูดคำหยาบ","ex":"I swear I will never tell anyone your secret.","exTh":"ฉันสาบานว่าจะไม่บอกความลับของคุณกับใคร","note":"รูปผันคือ swore, sworn; ยังหมายถึงพูดคำหยาบได้"}
+{"id":"accent_noun","th":"สำเนียง; การเน้นเสียง; เครื่องหมายเน้นเสียง","ex":"She speaks English with a French accent.","exTh":"เธอพูดภาษาอังกฤษด้วยสำเนียงฝรั่งเศส"}
+{"id":"disastrous_adj","th":"หายนะ; เลวร้ายอย่างยิ่ง","ex":"The storm had disastrous effects on the farms.","exTh":"พายุส่งผลร้ายแรงเป็นหายนะต่อไร่นา"}
+{"id":"awkward_adj","th":"อึดอัด; เก้อเขิน; เกะกะ","ex":"There was an awkward silence after his joke.","exTh":"หลังมุกของเขา เกิดความเงียบอึดอัดขึ้น"}
+{"id":"revise_verb","th":"แก้ไข; ทบทวน; ปรับปรุง","ex":"I need to revise my notes before the test.","exTh":"ฉันต้องทบทวนโน้ตก่อนสอบ"}
+{"id":"divorced_adj","th":"หย่าร้าง; ที่หย่าแล้ว","ex":"My parents are divorced, but they are still friends.","exTh":"พ่อแม่ของฉันหย่ากันแล้ว แต่ยังเป็นเพื่อนกัน"}
+{"id":"ivory_noun","th":"งาช้าง; สีงาช้าง","ex":"It is illegal to sell ivory from elephants.","exTh":"การขายงาช้างผิดกฎหมาย"}
+{"id":"isle_noun","th":"เกาะ (เล็ก)","ex":"They spent their holiday on a small isle.","exTh":"พวกเขาใช้เวลาวันหยุดบนเกาะเล็กๆ","note":"ภาษาวรรณกรรม/ใช้ในชื่อเกาะ; ทั่วไปใช้ island"}
+{"id":"ecosystem_noun","th":"ระบบนิเวศ","ex":"Pollution can harm the whole ecosystem of a river.","exTh":"มลพิษทำลายระบบนิเวศทั้งหมดของแม่น้ำได้"}
+{"id":"stare_verb","th":"จ้อง; จ้องมอง","ex":"It is rude to stare at people.","exTh":"การจ้องมองคนอื่นเป็นเรื่องเสียมารยาท"}
+{"id":"turbulence_noun","th":"อากาศแปรปรวน; ความปั่นป่วน","ex":"The plane shook because of strong turbulence.","exTh":"เครื่องบินสั่นเพราะอากาศแปรปรวนรุนแรง"}
+{"id":"skeleton_noun","th":"โครงกระดูก; โครงร่าง","ex":"The museum has a dinosaur skeleton.","exTh":"พิพิธภัณฑ์มีโครงกระดูกไดโนเสาร์"}

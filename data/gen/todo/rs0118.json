@@ -1,0 +1,802 @@
+[
+{
+"id": "poster-girl_idiom",
+"w": "poster girl",
+"kind": "idiom",
+"gloss": [
+"A female exemplar of some trait."
+]
+},
+{
+"id": "set-in-one-s-ways_idiom",
+"w": "set in one's ways",
+"kind": "idiom",
+"gloss": [
+"Driven by habit; inclined or determined to continue according to one's custom or established preferences."
+]
+},
+{
+"id": "give-something-a-whirl_idiom",
+"w": "give something a whirl",
+"kind": "idiom",
+"gloss": [
+"To try, test or attempt."
+]
+},
+{
+"id": "every-last_idiom",
+"w": "every last",
+"kind": "idiom",
+"gloss": [
+"every; without exception (used for emphasis)."
+]
+},
+{
+"id": "to-the-gills_idiom",
+"w": "to the gills",
+"kind": "idiom",
+"gloss": [
+"Entirely or extremely; to the greatest degree possible."
+]
+},
+{
+"id": "honest-abe_idiom",
+"w": "Honest Abe",
+"kind": "idiom",
+"gloss": [
+"A forthright and honest person."
+]
+},
+{
+"id": "damn-the-torpedoes_idiom",
+"w": "damn the torpedoes",
+"kind": "idiom",
+"gloss": [
+"Used to dismiss the risks of a dangerous action."
+]
+},
+{
+"id": "memory-lane_idiom",
+"w": "memory lane",
+"kind": "idiom",
+"gloss": [
+"An imaginary path along which one can take a nostalgic or sentimental journey through one's memories of the past."
+]
+},
+{
+"id": "full-tilt_idiom",
+"w": "full tilt",
+"kind": "idiom",
+"gloss": [
+"As quickly as possible; very rapidly."
+]
+},
+{
+"id": "undress-with-one-s-eyes_idiom",
+"w": "undress with one's eyes",
+"kind": "idiom",
+"gloss": [
+"To gaze at someone lasciviously."
+]
+},
+{
+"id": "sell-ice-to-eskimos_idiom",
+"w": "sell ice to Eskimos",
+"kind": "idiom",
+"gloss": [
+"To persuade people to go against their best interests or to accept something unnecessary or preposterous."
+]
+},
+{
+"id": "the-world-over_idiom",
+"w": "the world over",
+"kind": "idiom",
+"gloss": [
+"All over the world; globally; throughout the world."
+]
+},
+{
+"id": "feed-the-meter_idiom",
+"w": "feed the meter",
+"kind": "idiom",
+"gloss": [
+"To place coins into a parking meter or gas meter."
+]
+},
+{
+"id": "best-laid-plans_idiom",
+"w": "best laid plans",
+"kind": "idiom",
+"gloss": [
+"A proverbial expression used to signify the futility of making detailed plans when the ability to fully or even partially execute them is uncertain."
+]
+},
+{
+"id": "chinese-wall_idiom",
+"w": "Chinese Wall",
+"kind": "idiom",
+"gloss": [
+"An information barrier within an organization, designed to ensure internal confidentiality; frequently used to prevent conflicts of interest."
+]
+},
+{
+"id": "tyre-kicker_idiom",
+"w": "tyre kicker",
+"kind": "idiom",
+"gloss": [
+"A person who pretends to be interested in purchasing an item (especially a car), but who has no intention of buying it."
+]
+},
+{
+"id": "turn-heads_idiom",
+"w": "turn heads",
+"kind": "idiom",
+"gloss": [
+"To garner a considerable amount of attention."
+]
+},
+{
+"id": "pass-the-hat_idiom",
+"w": "pass the hat",
+"kind": "idiom",
+"gloss": [
+"To ask for money, especially from a group of people; to solicit donations or contributions."
+]
+},
+{
+"id": "accident-waiting-to-happen_idiom",
+"w": "accident waiting to happen",
+"kind": "idiom",
+"gloss": [
+"A thing or situation which is almost certain to eventually lead to an accident."
+]
+},
+{
+"id": "hum-and-haw_idiom",
+"w": "hum and haw",
+"kind": "idiom",
+"gloss": [
+"To procrastinate; to take a long time before doing something or taking a decision."
+]
+},
+{
+"id": "big-sleep_idiom",
+"w": "big sleep",
+"kind": "idiom",
+"gloss": [
+"Death."
+]
+},
+{
+"id": "far-and-away_idiom",
+"w": "far and away",
+"kind": "idiom",
+"gloss": [
+"By a large degree or margin; greatly (used before comparative and superlative adjectives)."
+]
+},
+{
+"id": "off-one-s-dot_idiom",
+"w": "off one's dot",
+"kind": "idiom",
+"gloss": [
+"Mad; insane."
+]
+},
+{
+"id": "take-a-shine-to_idiom",
+"w": "take a shine to",
+"kind": "idiom",
+"gloss": [
+"To become fond of something or someone."
+]
+},
+{
+"id": "rock-hound_idiom",
+"w": "rock hound",
+"kind": "idiom",
+"gloss": [
+"A person who collects rocks and minerals from the natural environment as a hobby."
+]
+},
+{
+"id": "do-a-bunk_idiom",
+"w": "do a bunk",
+"kind": "idiom",
+"gloss": [
+"To escape or flee, especially under incriminating circumstances."
+]
+},
+{
+"id": "naked-ape_idiom",
+"w": "naked ape",
+"kind": "idiom",
+"gloss": [
+"A human being."
+]
+},
+{
+"id": "stars-in-one-s-eyes_idiom",
+"w": "stars in one's eyes",
+"kind": "idiom",
+"gloss": [
+"The state of being overly or extremely impressed with something; enchanted with romance."
+]
+},
+{
+"id": "deep-thinker_idiom",
+"w": "deep thinker",
+"kind": "idiom",
+"gloss": [
+"A person whose thoughts are profound; an intellectual."
+]
+},
+{
+"id": "boys-and-their-toys_idiom",
+"w": "boys and their toys",
+"kind": "idiom",
+"gloss": [
+"Used to evoke the idea that adult men sometimes dote excessively on machines, automobiles, and gadgets in a childish manner."
+]
+},
+{
+"id": "for-all-one-is-worth_idiom",
+"w": "for all one is worth",
+"kind": "idiom",
+"gloss": [
+"Intensely, vigorously, with as much effort as one can supply."
+]
+},
+{
+"id": "see-a-man-about-a-horse_idiom",
+"w": "see a man about a horse",
+"kind": "idiom",
+"gloss": [
+"Used in place of a real explanation when excusing oneself for a short period of time, particularly to use a toilet."
+]
+},
+{
+"id": "dead-soldier_idiom",
+"w": "dead soldier",
+"kind": "idiom",
+"gloss": [
+"An empty container, usually a bottle or can which contained an alcoholic beverage."
+]
+},
+{
+"id": "nugget-of-truth_idiom",
+"w": "nugget of truth",
+"kind": "idiom",
+"gloss": [
+"A small amount of truth in a generally untrue statement."
+]
+},
+{
+"id": "believe-you-me_idiom",
+"w": "believe you me",
+"kind": "idiom",
+"gloss": [
+"An emphatic form of believe me: you (the subject) had better believe me (the speaker)."
+]
+},
+{
+"id": "bite-someone-s-head-off_idiom",
+"w": "bite someone's head off",
+"kind": "idiom",
+"gloss": [
+"To severely berate someone."
+]
+},
+{
+"id": "take-the-rap_idiom",
+"w": "take the rap",
+"kind": "idiom",
+"gloss": [
+"To be blamed or punished for something, especially for the wrongful actions of another; to willingly allow oneself to be so blamed or punished."
+]
+},
+{
+"id": "with-bells-on_idiom",
+"w": "with bells on",
+"kind": "idiom",
+"gloss": [
+"With eager anticipation and enthusiasm, especially regarding the acceptance of an invitation."
+]
+},
+{
+"id": "cold-one_idiom",
+"w": "cold one",
+"kind": "idiom",
+"gloss": [
+"A beer; usually, a cold beer straight from a refrigerator or cooler."
+]
+},
+{
+"id": "a-great-deal_idiom",
+"w": "a great deal",
+"kind": "idiom",
+"gloss": [
+"Very much; to a great extent; a lot; lots."
+]
+},
+{
+"id": "throw-off-balance_idiom",
+"w": "throw off balance",
+"kind": "idiom",
+"gloss": [
+"To unsettle, to catch by surprise."
+]
+},
+{
+"id": "sweetheart-deal_idiom",
+"w": "sweetheart deal",
+"kind": "idiom",
+"gloss": [
+"A transaction, contract, or other agreement in which one party provides particularly favorable terms to the other, especially in suspicious circumstances."
+]
+},
+{
+"id": "look-what-the-cat-s-dragged-in_idiom",
+"w": "look what the cat's dragged in",
+"kind": "idiom",
+"gloss": [
+"Used as an ironic acknowledgement of someone's arrival, either jocularly or to imply that they are unwelcome or disagreeable in some way."
+]
+},
+{
+"id": "do-right-by_idiom",
+"w": "do right by",
+"kind": "idiom",
+"gloss": [
+"To treat, deal with, or act toward (someone) in a morally just, socially honorable fashion."
+]
+},
+{
+"id": "on-a-dime_idiom",
+"w": "on a dime",
+"kind": "idiom",
+"gloss": [
+"Within a very short distance; especially, with agile precision in a very confined space and suddenly."
+]
+},
+{
+"id": "liquid-courage_idiom",
+"w": "liquid courage",
+"kind": "idiom",
+"gloss": [
+"Alcohol drunk to induce a feeling of courage."
+]
+},
+{
+"id": "horizontal-mambo_idiom",
+"w": "horizontal mambo",
+"kind": "idiom",
+"gloss": [
+"Sexual intercourse."
+]
+},
+{
+"id": "follow-someone-off-a-cliff_idiom",
+"w": "follow someone off a cliff",
+"kind": "idiom",
+"gloss": [
+"To follow (a leader or a de facto leader) without question or thought, leading to potentially disastrous consequences."
+]
+},
+{
+"id": "have-a-word-in-someone-s-ear_idiom",
+"w": "have a word in someone's ear",
+"kind": "idiom",
+"gloss": [
+"To speak to someone in private."
+]
+},
+{
+"id": "ride-the-rails_idiom",
+"w": "ride the rails",
+"kind": "idiom",
+"gloss": [
+"To travel by railway train, trolley, etc."
+]
+},
+{
+"id": "hand-in-glove_idiom",
+"w": "hand in glove",
+"kind": "idiom",
+"gloss": [
+"In very close cooperation."
+]
+},
+{
+"id": "and-shit_idiom",
+"w": "and shit",
+"kind": "idiom",
+"gloss": [
+"Used after one or more listed objects, attributes or processes to indicate additional others."
+]
+},
+{
+"id": "you-can-t-say-fairer-than-that_idiom",
+"w": "you can't say fairer than that",
+"kind": "idiom",
+"gloss": [
+"That is fair, good, or reasonable; one cannot hope for a better decision or outcome."
+]
+},
+{
+"id": "man-of-parts_idiom",
+"w": "man of parts",
+"kind": "idiom",
+"gloss": [
+"A man who is talented in multiple areas of life."
+]
+},
+{
+"id": "call-someone-s-bluff_idiom",
+"w": "call someone's bluff",
+"kind": "idiom",
+"gloss": [
+"To take action on the basis that another person is bluffing."
+]
+},
+{
+"id": "dishpan-hands_idiom",
+"w": "dishpan hands",
+"kind": "idiom",
+"gloss": [
+"Hands which are rough, reddish, and dry, as from irritation and chafing caused by immersion in hot water mixed with detergent."
+]
+},
+{
+"id": "drop-in-the-ocean_idiom",
+"w": "drop in the ocean",
+"kind": "idiom",
+"gloss": [
+"A very small or insignificant amount; something of little importance, especially an inconsequential effort or action as compared to a huge problem."
+]
+},
+{
+"id": "open-doors_idiom",
+"w": "open doors",
+"kind": "idiom",
+"gloss": [
+"To lead to opportunities or social advantages."
+]
+},
+{
+"id": "in-the-here-and-now_idiom",
+"w": "in the here and now",
+"kind": "idiom",
+"gloss": [
+"In present practice rather than in theory; with the priority of palpably and actually existing."
+]
+},
+{
+"id": "ride-the-wave_idiom",
+"w": "ride the wave",
+"kind": "idiom",
+"gloss": [
+"To take advantage of a profitable period."
+]
+},
+{
+"id": "take-a-load-off_idiom",
+"w": "take a load off",
+"kind": "idiom",
+"gloss": [
+"To go from a standing position to a sitting one."
+]
+},
+{
+"id": "i-d-say_idiom",
+"w": "I'd say",
+"kind": "idiom",
+"gloss": [
+"It is my estimate or opinion."
+]
+},
+{
+"id": "save-one-s-breath_idiom",
+"w": "save one's breath",
+"kind": "idiom",
+"gloss": [
+"To refrain from speech; to be quiet, especially where it would have no useful effect to speak."
+]
+},
+{
+"id": "make-one-s-way_idiom",
+"w": "make one's way",
+"kind": "idiom",
+"gloss": [
+"To move forward, usually toward a destination or goal, physically or conceptually."
+]
+},
+{
+"id": "tough-cookies_idiom",
+"w": "tough cookies",
+"kind": "idiom",
+"gloss": [
+"Too bad (for one); the outcome that one desires is not likely to change."
+]
+},
+{
+"id": "care-package_idiom",
+"w": "care package",
+"kind": "idiom",
+"gloss": [
+"A package sent from home or from friends or family, containing favorite foods or comfort items."
+]
+},
+{
+"id": "laugh-a-minute_idiom",
+"w": "laugh a minute",
+"kind": "idiom",
+"gloss": [
+"A funny thing or person."
+]
+},
+{
+"id": "laugh-out-of-court_idiom",
+"w": "laugh out of court",
+"kind": "idiom",
+"gloss": [
+"To dismiss as silly something presented with genuine conviction or treated seriously."
+]
+},
+{
+"id": "show-ankle_idiom",
+"w": "show ankle",
+"kind": "idiom",
+"gloss": [
+"To provide a hint or to reveal partial information in order to gain attention or arouse interest."
+]
+},
+{
+"id": "under-the-rug_idiom",
+"w": "under the rug",
+"kind": "idiom",
+"gloss": [
+"Synonym of under the carpet."
+]
+},
+{
+"id": "made-of-sterner-stuff_idiom",
+"w": "made of sterner stuff",
+"kind": "idiom",
+"gloss": [
+"strong and determined (especially more so than someone else, to whom one is being compared)."
+]
+},
+{
+"id": "scum-of-the-earth_idiom",
+"w": "scum of the earth",
+"kind": "idiom",
+"gloss": [
+"An undesirable individual; the worst type of person or people."
+]
+},
+{
+"id": "golden-touch_idiom",
+"w": "golden touch",
+"kind": "idiom",
+"gloss": [
+"Synonym of Midas touch (“the ability to achieve financial reward (or, more generally, success) easily and consistently”)."
+]
+},
+{
+"id": "farm-nigger_idiom",
+"w": "farm nigger",
+"kind": "idiom",
+"gloss": [
+"A supposedly inferior black person whose intellect is compared to that of a field hand."
+]
+},
+{
+"id": "first-and-last_idiom",
+"w": "first and last",
+"kind": "idiom",
+"gloss": [
+"A person's combined given name and surname."
+]
+},
+{
+"id": "rotten-apple_idiom",
+"w": "rotten apple",
+"kind": "idiom",
+"gloss": [
+"A bad person, especially one who has a corrupting influence on others."
+]
+},
+{
+"id": "hold-cheap_idiom",
+"w": "hold cheap",
+"kind": "idiom",
+"gloss": [
+"To have a low esteem for (someone or something); to hold in contempt; to look down upon."
+]
+},
+{
+"id": "kindest-regards_idiom",
+"w": "kindest regards",
+"kind": "idiom",
+"gloss": [
+"Used as a polite closing of a letter"
+]
+},
+{
+"id": "set-the-world-on-fire_idiom",
+"w": "set the world on fire",
+"kind": "idiom",
+"gloss": [
+"To do something remarkable or sensational."
+]
+},
+{
+"id": "give-the-royal-treatment_idiom",
+"w": "give the royal treatment",
+"kind": "idiom",
+"gloss": [
+"To treat (someone) extremely well."
+]
+},
+{
+"id": "from-a-mile-away_idiom",
+"w": "from a mile away",
+"kind": "idiom",
+"gloss": [
+"Well in advance."
+]
+},
+{
+"id": "pale-rider_idiom",
+"w": "pale rider",
+"kind": "idiom",
+"gloss": [
+"Death, the Grim Reaper or angel of death; and one of the Four Horsemen of the Apocalypse."
+]
+},
+{
+"id": "white-rider_idiom",
+"w": "white rider",
+"kind": "idiom",
+"gloss": [
+"Conquest or Pestilence, one of the Four Horsemen of the Apocalypse."
+]
+},
+{
+"id": "red-rider_idiom",
+"w": "red rider",
+"kind": "idiom",
+"gloss": [
+"War, one of the Four Horsemen of the Apocalypse."
+]
+},
+{
+"id": "black-rider_idiom",
+"w": "black rider",
+"kind": "idiom",
+"gloss": [
+"Famine, one of the Four Horsemen of the Apocalypse."
+]
+},
+{
+"id": "all-one-s-life-s-worth_idiom",
+"w": "all one's life's worth",
+"kind": "idiom",
+"gloss": [
+"A momentous matter; a very serious risk; a difficult task or situation."
+]
+},
+{
+"id": "cool-head_idiom",
+"w": "cool head",
+"kind": "idiom",
+"gloss": [
+"A calm, focused demeanor and mindset; a person having such characteristics."
+]
+},
+{
+"id": "oil-and-water_idiom",
+"w": "oil and water",
+"kind": "idiom",
+"gloss": [
+"Two things which are incapable of mixing or coexisting harmoniously with each other."
+]
+},
+{
+"id": "pull-a-rabbit-out-of-a-hat_idiom",
+"w": "pull a rabbit out of a hat",
+"kind": "idiom",
+"gloss": [
+"To do something surprising and beneficial that is unexpected."
+]
+},
+{
+"id": "bad-word_idiom",
+"w": "bad word",
+"kind": "idiom",
+"gloss": [
+"A vulgar word."
+]
+},
+{
+"id": "like-the-sound-of-one-s-own-voice_idiom",
+"w": "like the sound of one's own voice",
+"kind": "idiom",
+"gloss": [
+"To talk a lot."
+]
+},
+{
+"id": "on-the-wrong-side-of-history_idiom",
+"w": "on the wrong side of history",
+"kind": "idiom",
+"gloss": [
+"Having policies or practices that are perceived as not progressive or enlightened; behaving in a manner that reflects out-of-date or disapproved opinions."
+]
+},
+{
+"id": "join-forces_idiom",
+"w": "join forces",
+"kind": "idiom",
+"gloss": [
+"To combine labour, to come together, to unite."
+]
+},
+{
+"id": "seismic-shift_idiom",
+"w": "seismic shift",
+"kind": "idiom",
+"gloss": [
+"A fundamental reorientation of a state of affairs."
+]
+},
+{
+"id": "parting-of-the-ways_idiom",
+"w": "parting of the ways",
+"kind": "idiom",
+"gloss": [
+"a separation of two things or people because of a disagreement, a point of divergence, especially an important one"
+]
+},
+{
+"id": "hang-low_idiom",
+"w": "hang low",
+"kind": "idiom",
+"gloss": [
+"To droop or sag heavily; to remain at a low altitude."
+]
+},
+{
+"id": "prim-and-proper_idiom",
+"w": "prim and proper",
+"kind": "idiom",
+"gloss": [
+"prudish, straight-laced"
+]
+},
+{
+"id": "there-must-be-something-in-the-water_idiom",
+"w": "there must be something in the water",
+"kind": "idiom",
+"gloss": [
+"There are so many instances of something unusual, such as in people's behavior, that there must be a common cause."
+]
+},
+{
+"id": "great-job_idiom",
+"w": "great job",
+"kind": "idiom",
+"gloss": [
+"well done; congratulations! (a praise for someone's efforts, possibly to a higher degree than good job!)"
+]
+},
+{
+"id": "plant-a-seed_idiom",
+"w": "plant a seed",
+"kind": "idiom",
+"gloss": [
+"To do something that will produce results or change in the future."
+]
+}
+]

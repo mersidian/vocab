@@ -1,0 +1,802 @@
+[
+{
+"id": "rain-death_idiom",
+"w": "rain death",
+"kind": "idiom",
+"gloss": [
+"To cause severe harm or violence."
+]
+},
+{
+"id": "catch-a-body_idiom",
+"w": "catch a body",
+"kind": "idiom",
+"gloss": [
+"to kill, to murder"
+]
+},
+{
+"id": "hard-to-swallow_idiom",
+"w": "hard to swallow",
+"kind": "idiom",
+"gloss": [
+"Difficult to accept; hard to acquiesce to."
+]
+},
+{
+"id": "loose-tongue_idiom",
+"w": "loose tongue",
+"kind": "idiom",
+"gloss": [
+"The act or habit of excessively speaking or discussing subjects that are private or confidential."
+]
+},
+{
+"id": "nothing-if-not_idiom",
+"w": "nothing if not",
+"kind": "idiom",
+"gloss": [
+"Certainly; definitely; (sometimes also obliquely) thoroughly; wholly; to a high degree; extremely."
+]
+},
+{
+"id": "bash-someone-s-face-in_idiom",
+"w": "bash someone's face in",
+"kind": "idiom",
+"gloss": [
+"To beat someone violently."
+]
+},
+{
+"id": "high-risk-high-reward_idiom",
+"w": "high-risk, high-reward",
+"kind": "idiom",
+"gloss": [
+"Involving significant potential for loss but also offering the possibility of substantial gains or benefits if successful."
+]
+},
+{
+"id": "bitch-and-moan_idiom",
+"w": "bitch and moan",
+"kind": "idiom",
+"gloss": [
+"Synonym of bitch (verb)."
+]
+},
+{
+"id": "slit-someone-s-throat_idiom",
+"w": "slit someone's throat",
+"kind": "idiom",
+"gloss": [
+"To slash someone in front of the neck."
+]
+},
+{
+"id": "grinding-machine_idiom",
+"w": "grinding machine",
+"kind": "idiom",
+"gloss": [
+"A machine tool in which a rotating grinding wheel is moved against the workpiece (or vice versa) in order to cut the latter to a desired shape."
+]
+},
+{
+"id": "heavy-equipment_idiom",
+"w": "heavy equipment",
+"kind": "idiom",
+"gloss": [
+"Any of a diverse class of large machines used in construction and mining for earthmoving tasks (e.g., digging, grading), logging, and other heavy-duty applications."
+]
+},
+{
+"id": "fly-solo_idiom",
+"w": "fly solo",
+"kind": "idiom",
+"gloss": [
+"To do something without aid or supervision."
+]
+},
+{
+"id": "bash-someone-s-head_idiom",
+"w": "bash someone's head",
+"kind": "idiom",
+"gloss": [
+"To beat up someone violently."
+]
+},
+{
+"id": "smash-someone-s-head_idiom",
+"w": "smash someone's head",
+"kind": "idiom",
+"gloss": [
+"To beat up someone violently."
+]
+},
+{
+"id": "invited-to-the-cookout_idiom",
+"w": "invited to the cookout",
+"kind": "idiom",
+"gloss": [
+"Of an outsider, supportive and understanding of African Americans to such an extent as to be considered an ally."
+]
+},
+{
+"id": "two-slips-of-latinum_idiom",
+"w": "two slips of latinum",
+"kind": "idiom",
+"gloss": [
+"Synonym of two cents (“one's opinion or thoughts”)."
+]
+},
+{
+"id": "work-it-out-on-the-remix_idiom",
+"w": "work it out on the remix",
+"kind": "idiom",
+"gloss": [
+"To settle a dispute; to restore a strained relationship; to reconcile."
+]
+},
+{
+"id": "beat-the-drum-for_idiom",
+"w": "beat the drum for",
+"kind": "idiom",
+"gloss": [
+"To give voice to one's support of; to promote or publicize."
+]
+},
+{
+"id": "play-the-nazi-card_idiom",
+"w": "play the Nazi card",
+"kind": "idiom",
+"gloss": [
+"To invoke the reductio ad Hitlerum argument in a dialogue or debate."
+]
+},
+{
+"id": "rip-someone-s-head-off_idiom",
+"w": "rip someone's head off",
+"kind": "idiom",
+"gloss": [
+"To castigate someone very angrily."
+]
+},
+{
+"id": "hike-the-appalachian-trail_idiom",
+"w": "hike the Appalachian Trail",
+"kind": "idiom",
+"gloss": [
+"To engage in an extramarital affair."
+]
+},
+{
+"id": "the-gods-smile-on-someone_idiom",
+"w": "the gods smile on someone",
+"kind": "idiom",
+"gloss": [
+"Someone experiences good fortune, success, or well-being."
+]
+},
+{
+"id": "put-in-mind_idiom",
+"w": "put in mind",
+"kind": "idiom",
+"gloss": [
+"To encourage or inspire someone to follow a certain course of action."
+]
+},
+{
+"id": "on-the-ready_idiom",
+"w": "on the ready",
+"kind": "idiom",
+"gloss": [
+"Well-prepared or set to initiate."
+]
+},
+{
+"id": "i-never-miss_idiom",
+"w": "I never miss",
+"kind": "idiom",
+"gloss": [
+"I am aware of what is going on; I know what is happening."
+]
+},
+{
+"id": "fucking-shit_idiom",
+"w": "fucking shit",
+"kind": "idiom",
+"gloss": [
+"An exclamation of bewilderment or surprise."
+]
+},
+{
+"id": "lose-one-s-heart_idiom",
+"w": "lose one's heart",
+"kind": "idiom",
+"gloss": [
+"To lose one's zeal or enthusiasm for something."
+]
+},
+{
+"id": "do-one-s-own-time_idiom",
+"w": "do one's own time",
+"kind": "idiom",
+"gloss": [
+"To serve a prison sentence without becoming involved in any illicit dealings or prison gangs."
+]
+},
+{
+"id": "pebble-in-one-s-shoe_idiom",
+"w": "pebble in one's shoe",
+"kind": "idiom",
+"gloss": [
+"A small and bothersome issue that may worsen over time."
+]
+},
+{
+"id": "on-the-beach_idiom",
+"w": "on the beach",
+"kind": "idiom",
+"gloss": [
+"Removed or retired from an active shipboard position in the navy or merchant navy."
+]
+},
+{
+"id": "by-the-score_idiom",
+"w": "by the score",
+"kind": "idiom",
+"gloss": [
+"A great amount; a great deal."
+]
+},
+{
+"id": "on-this-score_idiom",
+"w": "on this score",
+"kind": "idiom",
+"gloss": [
+"In reference to or with regard to the subject that is being discussed."
+]
+},
+{
+"id": "lose-one-s-battle_idiom",
+"w": "lose one's battle",
+"kind": "idiom",
+"gloss": [
+"To succumb to a serious illness."
+]
+},
+{
+"id": "i-can-t-lie_idiom",
+"w": "I can't lie",
+"kind": "idiom",
+"gloss": [
+"To be honest, frankly, honestly."
+]
+},
+{
+"id": "turn-up-the-volume-on_idiom",
+"w": "turn up the volume on",
+"kind": "idiom",
+"gloss": [
+"To increase the intensity of; to focus on; to highlight or emphasize."
+]
+},
+{
+"id": "play-it-cheap_idiom",
+"w": "play it cheap",
+"kind": "idiom",
+"gloss": [
+"To be frugal or stingy."
+]
+},
+{
+"id": "clock-the-tea_idiom",
+"w": "clock the tea",
+"kind": "idiom",
+"gloss": [
+"To discover the truth about something."
+]
+},
+{
+"id": "count-to-three_idiom",
+"w": "count to three",
+"kind": "idiom",
+"gloss": [
+"Synonym of count to ten."
+]
+},
+{
+"id": "count-to-five_idiom",
+"w": "count to five",
+"kind": "idiom",
+"gloss": [
+"Synonym of count to ten."
+]
+},
+{
+"id": "china-s-final-warning_idiom",
+"w": "China's final warning",
+"kind": "idiom",
+"gloss": [
+"A warning that carries no real consequences; an empty threat."
+]
+},
+{
+"id": "ducked-off_idiom",
+"w": "ducked off",
+"kind": "idiom",
+"gloss": [
+"Lying low; hidden."
+]
+},
+{
+"id": "new-kid-in-town_idiom",
+"w": "new kid in town",
+"kind": "idiom",
+"gloss": [
+"Synonym of new kid on the block."
+]
+},
+{
+"id": "go-green_idiom",
+"w": "go green",
+"kind": "idiom",
+"gloss": [
+"To implement certain lifestyle changes designed to help one live in a more ecologically friendly way."
+]
+},
+{
+"id": "ready-to-roll_idiom",
+"w": "ready to roll",
+"kind": "idiom",
+"gloss": [
+"Of a person, machine, vehicle, or plan, fully prepared to begin functioning and operating."
+]
+},
+{
+"id": "sack-of-crap_idiom",
+"w": "sack of crap",
+"kind": "idiom",
+"gloss": [
+"Synonym of sack of shit"
+]
+},
+{
+"id": "use-in-anger_idiom",
+"w": "use in anger",
+"kind": "idiom",
+"gloss": [
+"Used for its intended purpose, as opposed to e.g. practice or testing"
+]
+},
+{
+"id": "rip-it-up_idiom",
+"w": "rip it up",
+"kind": "idiom",
+"gloss": [
+"To perform spectacularly."
+]
+},
+{
+"id": "half-a-head_idiom",
+"w": "half a head",
+"kind": "idiom",
+"gloss": [
+"Synonym of half a brain."
+]
+},
+{
+"id": "plough-a-lonely-furrow_idiom",
+"w": "plough a lonely furrow",
+"kind": "idiom",
+"gloss": [
+"To carry out an action in isolation, or in an original way, without any help or support from others."
+]
+},
+{
+"id": "spread-one-s-legs_idiom",
+"w": "spread one's legs",
+"kind": "idiom",
+"gloss": [
+"Synonym of put out (consent to having sex)."
+]
+},
+{
+"id": "plough-money_idiom",
+"w": "plough money",
+"kind": "idiom",
+"gloss": [
+"To invest money in a project or endeavor, especially to help it succeed or earn more money."
+]
+},
+{
+"id": "plough-the-back-forty_idiom",
+"w": "plough the back forty",
+"kind": "idiom",
+"gloss": [
+"To engage in sexual intercourse."
+]
+},
+{
+"id": "keep-one-s-tits-on_idiom",
+"w": "keep one's tits on",
+"kind": "idiom",
+"gloss": [
+"Synonym of keep one's hair on."
+]
+},
+{
+"id": "be-no-match-for_idiom",
+"w": "be no match for",
+"kind": "idiom",
+"gloss": [
+"To be outmatched by; to be much weaker, less capable, or less desirable than."
+]
+},
+{
+"id": "cancel-someone-s-christmas_idiom",
+"w": "cancel someone's Christmas",
+"kind": "idiom",
+"gloss": [
+"To kill or destroy someone."
+]
+},
+{
+"id": "claim-someone-s-life_idiom",
+"w": "claim someone's life",
+"kind": "idiom",
+"gloss": [
+"To lead to someone's death."
+]
+},
+{
+"id": "get-out-of-my-sight_idiom",
+"w": "get out of my sight",
+"kind": "idiom",
+"gloss": [
+"Stop bothering or harassing me; go away."
+]
+},
+{
+"id": "poor-little-rich-boy_idiom",
+"w": "poor little rich boy",
+"kind": "idiom",
+"gloss": [
+"An unhappy young man from a wealthy background."
+]
+},
+{
+"id": "poophole-loophole_idiom",
+"w": "poophole loophole",
+"kind": "idiom",
+"gloss": [
+"The idea that a woman can remain a virgin by engaging in anal rather than vaginal sex."
+]
+},
+{
+"id": "patience-of-mother-teresa_idiom",
+"w": "patience of Mother Teresa",
+"kind": "idiom",
+"gloss": [
+"A great deal of patience."
+]
+},
+{
+"id": "line-of-questioning_idiom",
+"w": "line of questioning",
+"kind": "idiom",
+"gloss": [
+"A series of questions that are ordered to develop a specific argument or to discover or learn more information about a topic."
+]
+},
+{
+"id": "screaming-trots_idiom",
+"w": "screaming trots",
+"kind": "idiom",
+"gloss": [
+"Diarrhea."
+]
+},
+{
+"id": "nothing-less-than_idiom",
+"w": "nothing less than",
+"kind": "idiom",
+"gloss": [
+"Certainly and completely: definitely, and wholly rather than merely mostly."
+]
+},
+{
+"id": "the-cupboard-is-bare_idiom",
+"w": "the cupboard is bare",
+"kind": "idiom",
+"gloss": [
+"There is little to no food or money."
+]
+},
+{
+"id": "all-fur-and-no-knickers_idiom",
+"w": "all fur and no knickers",
+"kind": "idiom",
+"gloss": [
+"Synonym of all fur coat and no knickers."
+]
+},
+{
+"id": "take-a-whack-at_idiom",
+"w": "take a whack at",
+"kind": "idiom",
+"gloss": [
+"To try or attempt to do something."
+]
+},
+{
+"id": "sugar-and-spice-and-everything-nice_idiom",
+"w": "sugar and spice and everything nice",
+"kind": "idiom",
+"gloss": [
+"Describing a person who is kind, friendly, pleasant, and generally good-natured."
+]
+},
+{
+"id": "apples-to-apples_idiom",
+"w": "apples to apples",
+"kind": "idiom",
+"gloss": [
+"A comparison of items that are similar."
+]
+},
+{
+"id": "apples-to-apples-oranges-to-oranges_idiom",
+"w": "apples to apples, oranges to oranges",
+"kind": "idiom",
+"gloss": [
+"A comparison of items that are similar, while also acknowledging or distinguishing a separation of their sets or categories."
+]
+},
+{
+"id": "spin-someone-s-wheels_idiom",
+"w": "spin someone's wheels",
+"kind": "idiom",
+"gloss": [
+"To excite someone; to stir someone's emotions."
+]
+},
+{
+"id": "in-retreat_idiom",
+"w": "in retreat",
+"kind": "idiom",
+"gloss": [
+"Synonym of on the run (“at a disadvantage”)."
+]
+},
+{
+"id": "nothing-more-than_idiom",
+"w": "nothing more than",
+"kind": "idiom",
+"gloss": [
+"Merely."
+]
+},
+{
+"id": "cast-loose_idiom",
+"w": "cast loose",
+"kind": "idiom",
+"gloss": [
+"To unfasten, loosen, or set free."
+]
+},
+{
+"id": "in-a-jam_idiom",
+"w": "in a jam",
+"kind": "idiom",
+"gloss": [
+"To be in a difficult situation or predicament."
+]
+},
+{
+"id": "call-it-an-early-night_idiom",
+"w": "call it an early night",
+"kind": "idiom",
+"gloss": [
+"To go to bed or cease one's activities earlier in the evening than usual."
+]
+},
+{
+"id": "take-someone-to-brown-town_idiom",
+"w": "take someone to brown town",
+"kind": "idiom",
+"gloss": [
+"To have anal sex with someone."
+]
+},
+{
+"id": "greater-of-two-evils_idiom",
+"w": "greater of two evils",
+"kind": "idiom",
+"gloss": [
+"The most harmful or unpleasant of two undesirable alternatives."
+]
+},
+{
+"id": "in-one-bite_idiom",
+"w": "in one bite",
+"kind": "idiom",
+"gloss": [
+"In an unbroken or undivided piece or manner."
+]
+},
+{
+"id": "screen-door-on-a-submarine_idiom",
+"w": "screen door on a submarine",
+"kind": "idiom",
+"gloss": [
+"Something that is useless or absurd."
+]
+},
+{
+"id": "pep-in-one-s-step_idiom",
+"w": "pep in one's step",
+"kind": "idiom",
+"gloss": [
+"A confident, happy, energetic or enthusiastic mood or manner."
+]
+},
+{
+"id": "lick-log_idiom",
+"w": "lick log",
+"kind": "idiom",
+"gloss": [
+"A crucial or challenging moment; a moment in time when a decision must be made."
+]
+},
+{
+"id": "stand-up-to-one-s-lick-log_idiom",
+"w": "stand up to one's lick log",
+"kind": "idiom",
+"gloss": [
+"To stand firm or to stand one's ground."
+]
+},
+{
+"id": "snowball-in-hell_idiom",
+"w": "snowball in hell",
+"kind": "idiom",
+"gloss": [
+"Something that is doomed."
+]
+},
+{
+"id": "in-a-mess_idiom",
+"w": "in a mess",
+"kind": "idiom",
+"gloss": [
+"In a pickle, in a fix, in the soup."
+]
+},
+{
+"id": "sit-on-a-tack_idiom",
+"w": "sit on a tack",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see sit, on, a, tack."
+]
+},
+{
+"id": "come-apart-at-the-seams_idiom",
+"w": "come apart at the seams",
+"kind": "idiom",
+"gloss": [
+"Synonym of fall apart."
+]
+},
+{
+"id": "from-the-gecko_idiom",
+"w": "from the gecko",
+"kind": "idiom",
+"gloss": [
+"Eggcorn of from the get-go."
+]
+},
+{
+"id": "put-one-s-hand-in-one-s-pocket_idiom",
+"w": "put one's hand in one's pocket",
+"kind": "idiom",
+"gloss": [
+"To pay for something, spend or donate money"
+]
+},
+{
+"id": "at-spearpoint_idiom",
+"w": "at spearpoint",
+"kind": "idiom",
+"gloss": [
+"To be in a leading position during a potentially difficult or dangerous situation."
+]
+},
+{
+"id": "raise-the-line_idiom",
+"w": "raise the line",
+"kind": "idiom",
+"gloss": [
+"To take measures to increase healthcare capacity."
+]
+},
+{
+"id": "so-true-bestie_idiom",
+"w": "so true, bestie",
+"kind": "idiom",
+"gloss": [
+"An assertion that something is true or relatable."
+]
+},
+{
+"id": "lay-one-s-head_idiom",
+"w": "lay one's head",
+"kind": "idiom",
+"gloss": [
+"To go to bed."
+]
+},
+{
+"id": "worlds-away_idiom",
+"w": "worlds away",
+"kind": "idiom",
+"gloss": [
+"Vastly different; incompatible."
+]
+},
+{
+"id": "snap-at-someone-s-heels_idiom",
+"w": "snap at someone's heels",
+"kind": "idiom",
+"gloss": [
+"To compete with someone closely, with the possibility of soon defeating or replacing them."
+]
+},
+{
+"id": "woe-to_idiom",
+"w": "woe to",
+"kind": "idiom",
+"gloss": [
+"Used to warn someone of trouble or danger if they carry out a certain risky action."
+]
+},
+{
+"id": "back-in-the-groove_idiom",
+"w": "back in the groove",
+"kind": "idiom",
+"gloss": [
+"A return to one's former or previous self; a return to normalcy or stability."
+]
+},
+{
+"id": "in-one-s-bare-skin_idiom",
+"w": "in one's bare skin",
+"kind": "idiom",
+"gloss": [
+"In a state of nudity."
+]
+},
+{
+"id": "vanish-to-the-four-winds_idiom",
+"w": "vanish to the four winds",
+"kind": "idiom",
+"gloss": [
+"To disappear; to cease to exist."
+]
+},
+{
+"id": "put-a-blanket-over_idiom",
+"w": "put a blanket over",
+"kind": "idiom",
+"gloss": [
+"Make (something) seem less serious."
+]
+},
+{
+"id": "make-a-virginia-fence_idiom",
+"w": "make a Virginia fence",
+"kind": "idiom",
+"gloss": [
+"To walk in a unstable manner due to being intoxicated."
+]
+}
+]

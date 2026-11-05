@@ -1,0 +1,859 @@
+[
+{
+"id": "lump-in-one-s-throat_idiom",
+"w": "lump in one's throat",
+"kind": "idiom",
+"gloss": [
+"Strong emotion, either happy or sad, causing someone to be on the verge of crying; a sensation of tightness in the throat associated herewith."
+]
+},
+{
+"id": "jump-to-conclusions_idiom",
+"w": "jump to conclusions",
+"kind": "idiom",
+"gloss": [
+"To make conclusions before being presented with all the evidence."
+]
+},
+{
+"id": "big-fat_idiom",
+"w": "big fat",
+"kind": "idiom",
+"gloss": [
+"Complete, utter, total.",
+"Huge, colossal.",
+"Used other than figuratively or idiomatically: see big, fat."
+]
+},
+{
+"id": "get-well_idiom",
+"w": "get well",
+"kind": "idiom",
+"gloss": [
+"To recover from an illness or injury.",
+"To recover from financial straits."
+]
+},
+{
+"id": "work-one-s-fingers-to-the-bone_idiom",
+"w": "work one's fingers to the bone",
+"kind": "idiom",
+"gloss": [
+"To work especially hard, usually for an extended period."
+]
+},
+{
+"id": "march-to-the-beat-of-a-different-drum_idiom",
+"w": "march to the beat of a different drum",
+"kind": "idiom",
+"gloss": [
+"To do things in one's own way regardless of societal norms and conventional expectations."
+]
+},
+{
+"id": "white-hat_idiom",
+"w": "white hat",
+"kind": "idiom",
+"gloss": [
+"A good person; a hero.",
+"A well-meaning hacker who hacks for a good cause or to aid a company, organization, or government without causing harm (for example, to identify security flaws).",
+"A sailor."
+]
+},
+{
+"id": "lucky-dip_idiom",
+"w": "lucky dip",
+"kind": "idiom",
+"gloss": [
+"A game in which prizes are covered up and mixed together in a container, so that contestants can dip their hand into the container and randomly pull out a prize.",
+"A selection solely at random."
+]
+},
+{
+"id": "clean-as-a-whistle_idiom",
+"w": "clean as a whistle",
+"kind": "idiom",
+"gloss": [
+"Very clean.",
+"Completely innocent; beyond moral reproach."
+]
+},
+{
+"id": "cut-one-loose_idiom",
+"w": "cut one loose",
+"kind": "idiom",
+"gloss": [
+"To flatulate; to fart."
+]
+},
+{
+"id": "slippery-as-an-eel_idiom",
+"w": "slippery as an eel",
+"kind": "idiom",
+"gloss": [
+"So slippery that it is almost impossible to hold.",
+"Very crafty or cunning."
+]
+},
+{
+"id": "live-paycheck-to-paycheck_idiom",
+"w": "live paycheck to paycheck",
+"kind": "idiom",
+"gloss": [
+"To have the entirety of one's earnings consumed by living expenses, thus having nothing left over to save; to make just enough (money, etc.) to survive; to scratch by."
+]
+},
+{
+"id": "sword-and-sorcery_idiom",
+"w": "sword and sorcery",
+"kind": "idiom",
+"gloss": [
+"Of or pertaining to a genre of narratives—including short stories, novels, television shows, films, and computer games—which combines wizardry and other fantastical supernatural elements with violent combat using pre-modern weaponry.",
+"A genre of narratives—including short stories, novels, television shows, films, and computer games—which combines wizardry and other fantastical supernatural elements with violent combat using pre-modern weaponry."
+]
+},
+{
+"id": "pearl-of-wisdom_idiom",
+"w": "pearl of wisdom",
+"kind": "idiom",
+"gloss": [
+"A succinct, insightful saying, piece of advice, or moral precept."
+]
+},
+{
+"id": "push-one-s-luck_idiom",
+"w": "push one's luck",
+"kind": "idiom",
+"gloss": [
+"To take an excessive risk or to attempt some task unlikely to succeed, especially after having already been unexpectedly lucky."
+]
+},
+{
+"id": "rumor-mill_idiom",
+"w": "rumor mill",
+"kind": "idiom",
+"gloss": [
+"A process in which a group or network of persons originate or promulgate gossip and other unsubstantiated claims."
+]
+},
+{
+"id": "floor-it_idiom",
+"w": "floor it",
+"kind": "idiom",
+"gloss": [
+"To depress the accelerator to the maximum extent.",
+"To move (run, ride etc.) at full speed."
+]
+},
+{
+"id": "go-round-in-circles_idiom",
+"w": "go round in circles",
+"kind": "idiom",
+"gloss": [
+"To repeatedly do the same thing without making any progress."
+]
+},
+{
+"id": "tip-the-scales_idiom",
+"w": "tip the scales",
+"kind": "idiom",
+"gloss": [
+"To turn to one side of a balanced situation."
+]
+},
+{
+"id": "all-wet_idiom",
+"w": "all wet",
+"kind": "idiom",
+"gloss": [
+"Thoroughly soaked; drenched.",
+"Utterly incorrect; erroneous; uninformed.",
+"Deliberately and grotesquely untruthful."
+]
+},
+{
+"id": "on-the-spectrum_idiom",
+"w": "on the spectrum",
+"kind": "idiom",
+"gloss": [
+"Having autism spectrum disorder or exhibiting traits relating to or within the autism spectrum; autistic.",
+"Used other than figuratively or idiomatically: see on, spectrum."
+]
+},
+{
+"id": "lay-down-the-law_idiom",
+"w": "lay down the law",
+"kind": "idiom",
+"gloss": [
+"To promulgate law.",
+"To authoritatively or dogmatically assert what is permitted or not permitted."
+]
+},
+{
+"id": "by-all-accounts_idiom",
+"w": "by all accounts",
+"kind": "idiom",
+"gloss": [
+"According to all available accounts or reports.",
+"According to everything that people have said."
+]
+},
+{
+"id": "read-someone-s-mind_idiom",
+"w": "read someone's mind",
+"kind": "idiom",
+"gloss": [
+"To guess or deduce what someone is thinking."
+]
+},
+{
+"id": "rise-to-the-occasion_idiom",
+"w": "rise to the occasion",
+"kind": "idiom",
+"gloss": [
+"To show resolve or effectiveness in dealing with a difficulty.",
+"To achieve an erection of the penis."
+]
+},
+{
+"id": "stop-at-nothing_idiom",
+"w": "stop at nothing",
+"kind": "idiom",
+"gloss": [
+"To take any measures to do or achieve something, especially if it involves great risk or danger; to do everything in one's power."
+]
+},
+{
+"id": "let-nature-take-its-course_idiom",
+"w": "let nature take its course",
+"kind": "idiom",
+"gloss": [
+"To permit events to proceed or a situation to develop without intervention or interference.",
+"To allow a person or animal to die without medical or other attempts to forestall death."
+]
+},
+{
+"id": "joined-at-the-hip_idiom",
+"w": "joined at the hip",
+"kind": "idiom",
+"gloss": [
+"Closely connected, as in an intimate friendship."
+]
+},
+{
+"id": "put-to-the-sword_idiom",
+"w": "put to the sword",
+"kind": "idiom",
+"gloss": [
+"To execute, especially by using a sword.",
+"To severely defeat.",
+"To kill by warfare."
+]
+},
+{
+"id": "steal-the-show_idiom",
+"w": "steal the show",
+"kind": "idiom",
+"gloss": [
+"To be the best performer during a performance."
+]
+},
+{
+"id": "hold-one-s-head-high_idiom",
+"w": "hold one's head high",
+"kind": "idiom",
+"gloss": [
+"To act with pride; to be proud in a positive way."
+]
+},
+{
+"id": "send-word_idiom",
+"w": "send word",
+"kind": "idiom",
+"gloss": [
+"To notify by a delivered message."
+]
+},
+{
+"id": "make-time_idiom",
+"w": "make time",
+"kind": "idiom",
+"gloss": [
+"To reserve a period of time to do something.",
+"To recover lost time, as by travelling faster than usual."
+]
+},
+{
+"id": "break-the-sabbath_idiom",
+"w": "break the Sabbath",
+"kind": "idiom",
+"gloss": [
+"To violate (the holiness or sanctity of) the Sabbath (by not keeping it holy)."
+]
+},
+{
+"id": "get-one-s-hands-dirty_idiom",
+"w": "get one's hands dirty",
+"kind": "idiom",
+"gloss": [
+"To get involved with the unpleasant parts of a task, such as manual labor or unethical activities."
+]
+},
+{
+"id": "writer-s-cramp_idiom",
+"w": "writer's cramp",
+"kind": "idiom",
+"gloss": [
+"A debilitating pain preventing easy movement of the wrist, hand, or fingers, resulting from prolonged use of a pen or pencil."
+]
+},
+{
+"id": "cast-a-shadow_idiom",
+"w": "cast a shadow",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see cast, shadow.",
+"To dampen future events."
+]
+},
+{
+"id": "well-and-truly_idiom",
+"w": "well and truly",
+"kind": "idiom",
+"gloss": [
+"Completely; utterly; without doubt."
+]
+},
+{
+"id": "as-i-was-saying_idiom",
+"w": "as I was saying",
+"kind": "idiom",
+"gloss": [
+"Used to refer back to one's own previous statement in a discourse."
+]
+},
+{
+"id": "before-someone-s-time_idiom",
+"w": "before someone's time",
+"kind": "idiom",
+"gloss": [
+"From before one was born or old enough to be aware of the world.",
+"At a stage in one's life, development, etc. that seems premature."
+]
+},
+{
+"id": "put-on-a-pedestal_idiom",
+"w": "put on a pedestal",
+"kind": "idiom",
+"gloss": [
+"To hold in very high esteem, especially to an exaggerated degree."
+]
+},
+{
+"id": "bear-the-brunt_idiom",
+"w": "bear the brunt",
+"kind": "idiom",
+"gloss": [
+"To endure the worst part of something."
+]
+},
+{
+"id": "little-old_idiom",
+"w": "little old",
+"kind": "idiom",
+"gloss": [
+"Emphatically, affectionately, or humorously little; ordinary or harmless (especially when trying to downplay the importance of something).",
+"Used other than figuratively or idiomatically: see little, old."
+]
+},
+{
+"id": "comedy-of-errors_idiom",
+"w": "comedy of errors",
+"kind": "idiom",
+"gloss": [
+"A comedy in which the humour is due to misinterpretations, mistaken identity, etc.",
+"A series of amusing or farcical events involving awkward missteps or other mistakes."
+]
+},
+{
+"id": "saved-by-the-bell_idiom",
+"w": "saved by the bell",
+"kind": "idiom",
+"gloss": [
+"Of a competitor in a boxing or wrestling match or similar competition, spared from being counted out by the referee by the ringing of the bell which concludes the round.",
+"Rescued or favorably assisted by a timely interruption or by the sudden termination of difficult circumstances."
+]
+},
+{
+"id": "have-legs_idiom",
+"w": "have legs",
+"kind": "idiom",
+"gloss": [
+"To have endurance; to have prospects to exist or go on for a long time.",
+"To have speed: to be fast (be quick).",
+"Used other than figuratively or idiomatically: see have, legs."
+]
+},
+{
+"id": "turn-one-s-coat_idiom",
+"w": "turn one's coat",
+"kind": "idiom",
+"gloss": [
+"To turn against a previous affiliation or allegiance.",
+"Used other than figuratively or idiomatically: see turn, coat."
+]
+},
+{
+"id": "go-far_idiom",
+"w": "go far",
+"kind": "idiom",
+"gloss": [
+"To attain success, especially from humble origins; achieve a great deal.",
+"To cover significant expenses."
+]
+},
+{
+"id": "show-who-s-boss_idiom",
+"w": "show who's boss",
+"kind": "idiom",
+"gloss": [
+"To demonstrate oneself to be dominant; to show that one has the upper hand.",
+"To demonstrate that one is dominant over or superior to someone; to establish that one has control of some device or intractable object."
+]
+},
+{
+"id": "catch-of-the-day_idiom",
+"w": "catch of the day",
+"kind": "idiom",
+"gloss": [
+"A type of fish or other seafood which has been caught and brought to the market within the last twenty-four hours.",
+"A person who is a popular or desirable choice to be a partner in a prospective marital or romantic relationship."
+]
+},
+{
+"id": "read-the-room_idiom",
+"w": "read the room",
+"kind": "idiom",
+"gloss": [
+"To understand the emotions and thoughts of the people present, especially to determine the kind of speech or actions that would be appropriate or inappropriate."
+]
+},
+{
+"id": "woman-of-few-words_idiom",
+"w": "woman of few words",
+"kind": "idiom",
+"gloss": [
+"A woman who either does not speak much or speaks only for a brief period of time."
+]
+},
+{
+"id": "lead-by-the-nose_idiom",
+"w": "lead by the nose",
+"kind": "idiom",
+"gloss": [
+"To cause to follow blindly.",
+"To lead by example and painstaking explanation, as one might do for remedial teaching."
+]
+},
+{
+"id": "pick-a-fight_idiom",
+"w": "pick a fight",
+"kind": "idiom",
+"gloss": [
+"To deliberately provoke someone into fighting."
+]
+},
+{
+"id": "nourish-a-viper-in-one-s-bosom_idiom",
+"w": "nourish a viper in one's bosom",
+"kind": "idiom",
+"gloss": [
+"To do acts of kindness that will be met with ingratitude and will cause one harm in the end."
+]
+},
+{
+"id": "break-the-internet_idiom",
+"w": "break the Internet",
+"kind": "idiom",
+"gloss": [
+"To cause a connection to the Internet, or the Internet itself, to malfunction.",
+"To overwhelm a web server through organic user-driven demand, such that the server goes offline or is in danger of doing so.",
+"To deliberately overwhelm a web server through a cyberattack such as a DDOS, such that the server goes offline or is in danger of doing so."
+]
+},
+{
+"id": "none-other-than_idiom",
+"w": "none other than",
+"kind": "idiom",
+"gloss": [
+"Used to qualify a person whose eminence may be more than one would expect in the given situation."
+]
+},
+{
+"id": "for-show_idiom",
+"w": "for show",
+"kind": "idiom",
+"gloss": [
+"intended to be seen but not bought or used; aesthetic as opposed to practical.",
+"done in an insincere or affected manner in order to impress others."
+]
+},
+{
+"id": "in-the-spotlight_idiom",
+"w": "in the spotlight",
+"kind": "idiom",
+"gloss": [
+"In the focus of attention, especially from the media."
+]
+},
+{
+"id": "look-over-one-s-shoulder_idiom",
+"w": "look over one's shoulder",
+"kind": "idiom",
+"gloss": [
+"To check obsessively out of excessive caution or fear of a perceived danger.",
+"Used other than figuratively or idiomatically: see look, over, shoulder."
+]
+},
+{
+"id": "like-no-other_idiom",
+"w": "like no other",
+"kind": "idiom",
+"gloss": [
+"Very special.",
+"In a very special way."
+]
+},
+{
+"id": "get-a-kick-out-of_idiom",
+"w": "get a kick out of",
+"kind": "idiom",
+"gloss": [
+"To be delighted by; to be amused by."
+]
+},
+{
+"id": "good-turn_idiom",
+"w": "good turn",
+"kind": "idiom",
+"gloss": [
+"A good deed; a thoughtful or selfless act."
+]
+},
+{
+"id": "last-minute_idiom",
+"w": "last minute",
+"kind": "idiom",
+"gloss": [
+"An arbitrary (non-specific) point in time, too close to a deadline to reasonably begin a critical task.",
+"Very close to a deadline."
+]
+},
+{
+"id": "cut-and-dried_idiom",
+"w": "cut and dried",
+"kind": "idiom",
+"gloss": [
+"Simple, straightforward, clear, or certain.",
+"Decided, not open to change."
+]
+},
+{
+"id": "give-someone-a-hand_idiom",
+"w": "give someone a hand",
+"kind": "idiom",
+"gloss": [
+"To help, aid, or assist.",
+"To applaud or clap (also to give (someone) a big hand)."
+]
+},
+{
+"id": "raise-the-bar_idiom",
+"w": "raise the bar",
+"kind": "idiom",
+"gloss": [
+"To raise standards or expectations, especially by creating something to a higher standard."
+]
+},
+{
+"id": "pat-on-the-back_idiom",
+"w": "pat on the back",
+"kind": "idiom",
+"gloss": [
+"Praise, congratulations.",
+"To praise or congratulate."
+]
+},
+{
+"id": "at-peace_idiom",
+"w": "at peace",
+"kind": "idiom",
+"gloss": [
+"Free of worries; peaceful.",
+"Dead."
+]
+},
+{
+"id": "the-end-of-one-s-rope_idiom",
+"w": "the end of one's rope",
+"kind": "idiom",
+"gloss": [
+"The limit of one’s patience, when one is so frustrated or annoyed that one can no longer cope.",
+"The point at which one has run out of options or the ability to delay."
+]
+},
+{
+"id": "tall-order_idiom",
+"w": "tall order",
+"kind": "idiom",
+"gloss": [
+"A big job; a difficult challenge."
+]
+},
+{
+"id": "slip-through-the-cracks_idiom",
+"w": "slip through the cracks",
+"kind": "idiom",
+"gloss": [
+"To escape notice or lack sufficient attention."
+]
+},
+{
+"id": "brain-surgery_idiom",
+"w": "brain surgery",
+"kind": "idiom",
+"gloss": [
+"Surgery on the brain or, loosely, any part of the nervous system.",
+"Anything overly complex, detailed, or confusing."
+]
+},
+{
+"id": "have-one-s-hands-full_idiom",
+"w": "have one's hands full",
+"kind": "idiom",
+"gloss": [
+"To be busy or thoroughly preoccupied."
+]
+},
+{
+"id": "closet-case_idiom",
+"w": "closet case",
+"kind": "idiom",
+"gloss": [
+"A person who conceals or denies their sexuality or gender identity.",
+"A person who is shunned, ignored, or considered to be an embarrassment."
+]
+},
+{
+"id": "bumper-crop_idiom",
+"w": "bumper crop",
+"kind": "idiom",
+"gloss": [
+"An excess of something; a large yield."
+]
+},
+{
+"id": "down-the-drain_idiom",
+"w": "down the drain",
+"kind": "idiom",
+"gloss": [
+"Wasted or irretrievable.",
+"Used other than figuratively or idiomatically: see down, the, drain."
+]
+},
+{
+"id": "break-the-back-of_idiom",
+"w": "break the back of",
+"kind": "idiom",
+"gloss": [
+"To complete the greater part of (a project) or solve the most critical part of (a problem).",
+"To overburden (a person, group, or organization).",
+"To cripple."
+]
+},
+{
+"id": "reach-for-the-stars_idiom",
+"w": "reach for the stars",
+"kind": "idiom",
+"gloss": [
+"To have high hopes; to be ambitious."
+]
+},
+{
+"id": "on-one-s-toes_idiom",
+"w": "on one's toes",
+"kind": "idiom",
+"gloss": [
+"Attentive, active, busy or alert."
+]
+},
+{
+"id": "one-s-lips-are-sealed_idiom",
+"w": "one's lips are sealed",
+"kind": "idiom",
+"gloss": [
+"One will not tell anyone else; one is keeping a secret."
+]
+},
+{
+"id": "dodge-a-bullet_idiom",
+"w": "dodge a bullet",
+"kind": "idiom",
+"gloss": [
+"To have a narrow escape; to avoid injury, disaster, or some other undesirable situation."
+]
+},
+{
+"id": "mix-apples-and-oranges_idiom",
+"w": "mix apples and oranges",
+"kind": "idiom",
+"gloss": [
+"To mix or confuse two completely different objects or ideas."
+]
+},
+{
+"id": "play-second-fiddle_idiom",
+"w": "play second fiddle",
+"kind": "idiom",
+"gloss": [
+"To play a subsidiary or subordinate role to someone or something else."
+]
+},
+{
+"id": "play-the-field_idiom",
+"w": "play the field",
+"kind": "idiom",
+"gloss": [
+"To cut one's losses by betting on every racehorse other than the crowd favorite.",
+"To have numerous romantic partners, without or before committing exclusively to one."
+]
+},
+{
+"id": "brain-surgeon_idiom",
+"w": "brain surgeon",
+"kind": "idiom",
+"gloss": [
+"Someone who does brain surgery.",
+"Someone very intelligent and skillful."
+]
+},
+{
+"id": "stretch-one-s-legs_idiom",
+"w": "stretch one's legs",
+"kind": "idiom",
+"gloss": [
+"To walk about, especially after prolonged time sitting or lying down."
+]
+},
+{
+"id": "wake-up-and-smell-the-coffee_idiom",
+"w": "wake up and smell the coffee",
+"kind": "idiom",
+"gloss": [
+"Often in the infinitive or imperative: to face reality and stop deluding oneself."
+]
+},
+{
+"id": "other-half_idiom",
+"w": "other half",
+"kind": "idiom",
+"gloss": [
+"A spouse or a significant other.",
+"The wealthy; the very wealthy.",
+"Used other than figuratively or idiomatically: see other, half."
+]
+},
+{
+"id": "kettle-of-fish_idiom",
+"w": "kettle of fish",
+"kind": "idiom",
+"gloss": [
+"An awkward situation.",
+"A situation recognized as different from or as an alternative to some other situation."
+]
+},
+{
+"id": "know-the-score_idiom",
+"w": "know the score",
+"kind": "idiom",
+"gloss": [
+"To be aware of a situation, especially of the consequences of misconduct."
+]
+},
+{
+"id": "fall-off-the-wagon_idiom",
+"w": "fall off the wagon",
+"kind": "idiom",
+"gloss": [
+"To cease or fail at a regimen of self-improvement or reform; to lapse back into an old habit or addiction."
+]
+},
+{
+"id": "set-one-s-cap-at_idiom",
+"w": "set one's cap at",
+"kind": "idiom",
+"gloss": [
+"To choose a man as a potential husband (for a girl).",
+"To choose something as a goal."
+]
+},
+{
+"id": "on-the-edge-of-one-s-seat_idiom",
+"w": "on the edge of one's seat",
+"kind": "idiom",
+"gloss": [
+"In suspense; waiting eagerly or anxiously for some resolution."
+]
+},
+{
+"id": "greatest-thing-since-sliced-bread_idiom",
+"w": "greatest thing since sliced bread",
+"kind": "idiom",
+"gloss": [
+"Something amazing, outstanding or praiseworthy, especially a relatively recent invention likely to improve people's lives."
+]
+},
+{
+"id": "paint-oneself-into-a-corner_idiom",
+"w": "paint oneself into a corner",
+"kind": "idiom",
+"gloss": [
+"To create a predicament or problem for oneself; to do something that leaves one with no good alternatives or solutions."
+]
+},
+{
+"id": "go-down-the-toilet_idiom",
+"w": "go down the toilet",
+"kind": "idiom",
+"gloss": [
+"To fail.",
+"To degenerate rapidly.",
+"Used other than figuratively or idiomatically: see go, down, the, toilet."
+]
+},
+{
+"id": "big-fish-in-a-small-pond_idiom",
+"w": "big fish in a small pond",
+"kind": "idiom",
+"gloss": [
+"One who has achieved a high rank or is highly esteemed, but only in a small, relatively unimportant, or little known location or organization."
+]
+},
+{
+"id": "cut-a-wide-swath_idiom",
+"w": "cut a wide swath",
+"kind": "idiom",
+"gloss": [
+"To clear a broad track through a grassland, woodland, geographical region, or other area, either by natural means or by human action.",
+"To behave in an expansive, flagrantly showy, or pushy manner, especially in public venues; to exert sweeping influence."
+]
+},
+{
+"id": "few-sandwiches-short-of-a-picnic_idiom",
+"w": "few sandwiches short of a picnic",
+"kind": "idiom",
+"gloss": [
+"Exhibiting disquiet or unsoundness of mind; not sane; mad."
+]
+}
+]

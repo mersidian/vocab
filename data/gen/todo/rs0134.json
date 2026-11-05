@@ -1,0 +1,802 @@
+[
+{
+"id": "life-and-soul-of-the-party_idiom",
+"w": "life and soul of the party",
+"kind": "idiom",
+"gloss": [
+"Synonym of life of the party."
+]
+},
+{
+"id": "on-one-s-bill_idiom",
+"w": "on one's bill",
+"kind": "idiom",
+"gloss": [
+"Alone, on one's own."
+]
+},
+{
+"id": "caviar-to-the-general_idiom",
+"w": "caviar to the general",
+"kind": "idiom",
+"gloss": [
+"Something of quality unbefitting to those who possess it."
+]
+},
+{
+"id": "talk-over-someone-s-head_idiom",
+"w": "talk over someone's head",
+"kind": "idiom",
+"gloss": [
+"To communicate something beyond the level of comprehension of the target."
+]
+},
+{
+"id": "let-the-grass-grow-under-one-s-feet_idiom",
+"w": "let the grass grow under one's feet",
+"kind": "idiom",
+"gloss": [
+"To dally; to fail to make progress."
+]
+},
+{
+"id": "nickel-nurser_idiom",
+"w": "nickel nurser",
+"kind": "idiom",
+"gloss": [
+"A miser."
+]
+},
+{
+"id": "clear-one-s-lines_idiom",
+"w": "clear one's lines",
+"kind": "idiom",
+"gloss": [
+"To clear the ball away from a dangerous position."
+]
+},
+{
+"id": "here-to-stay_idiom",
+"w": "here to stay",
+"kind": "idiom",
+"gloss": [
+"Present, and set to remain permanently."
+]
+},
+{
+"id": "rubber-johnny_idiom",
+"w": "rubber johnny",
+"kind": "idiom",
+"gloss": [
+"A condom."
+]
+},
+{
+"id": "not-as-black-as-one-is-painted_idiom",
+"w": "not as black as one is painted",
+"kind": "idiom",
+"gloss": [
+"not as bad as one is said to be"
+]
+},
+{
+"id": "packed-to-the-rafters_idiom",
+"w": "packed to the rafters",
+"kind": "idiom",
+"gloss": [
+"Completely full (of things, of stuff); packed; stuffed."
+]
+},
+{
+"id": "go-off-into-the-weeds_idiom",
+"w": "go off into the weeds",
+"kind": "idiom",
+"gloss": [
+"To go hopelessly astray."
+]
+},
+{
+"id": "see-which-way-the-cat-jumps_idiom",
+"w": "see which way the cat jumps",
+"kind": "idiom",
+"gloss": [
+"To delay taking action based on the outcome of something else."
+]
+},
+{
+"id": "miller-of-dee_idiom",
+"w": "Miller of Dee",
+"kind": "idiom",
+"gloss": [
+"Someone who lives independently and unattached to others, especially for selfish reasons."
+]
+},
+{
+"id": "scream-one-s-head-off_idiom",
+"w": "scream one's head off",
+"kind": "idiom",
+"gloss": [
+"To scream out to one's full capacity."
+]
+},
+{
+"id": "have-the-last-laugh_idiom",
+"w": "have the last laugh",
+"kind": "idiom",
+"gloss": [
+"To be vindicated; to triumph despite predicted failure; to find success after defeat or setback."
+]
+},
+{
+"id": "build-on-sand_idiom",
+"w": "build on sand",
+"kind": "idiom",
+"gloss": [
+"To put something in an unstable position by failing to give it a secure foundation."
+]
+},
+{
+"id": "do-well-for-oneself_idiom",
+"w": "do well for oneself",
+"kind": "idiom",
+"gloss": [
+"To thrive or succeed."
+]
+},
+{
+"id": "have-the-tiger-by-the-tail_idiom",
+"w": "have the tiger by the tail",
+"kind": "idiom",
+"gloss": [
+"To be in a difficult or dangerous situation in which one ideally should not remain, but from which one cannot withdraw."
+]
+},
+{
+"id": "have-a-tiger-by-the-tail_idiom",
+"w": "have a tiger by the tail",
+"kind": "idiom",
+"gloss": [
+"To be in a difficult or dangerous situation in which one ideally should not remain, but from which one cannot withdraw."
+]
+},
+{
+"id": "box-oneself-into-a-corner_idiom",
+"w": "box oneself into a corner",
+"kind": "idiom",
+"gloss": [
+"To create a predicament or problem for oneself; to do something that leaves one with no good alternatives or solutions."
+]
+},
+{
+"id": "take-the-pee_idiom",
+"w": "take the pee",
+"kind": "idiom",
+"gloss": [
+"To mock; to make fun of."
+]
+},
+{
+"id": "set-pulses-racing_idiom",
+"w": "set pulses racing",
+"kind": "idiom",
+"gloss": [
+"To excite, thrill."
+]
+},
+{
+"id": "blocking-and-tackling_idiom",
+"w": "blocking and tackling",
+"kind": "idiom",
+"gloss": [
+"Basic tasks or skills in an undertaking or occupation."
+]
+},
+{
+"id": "something-like_idiom",
+"w": "something like",
+"kind": "idiom",
+"gloss": [
+"approximately"
+]
+},
+{
+"id": "cut-up-rough_idiom",
+"w": "cut up rough",
+"kind": "idiom",
+"gloss": [
+"To become angry; to make a fuss."
+]
+},
+{
+"id": "call-to-account_idiom",
+"w": "call to account",
+"kind": "idiom",
+"gloss": [
+"To challenge or contest; to hold answerable for something."
+]
+},
+{
+"id": "give-a-good-account-of-oneself_idiom",
+"w": "give a good account of oneself",
+"kind": "idiom",
+"gloss": [
+"To act in a creditable manner."
+]
+},
+{
+"id": "cock-of-the-roost_idiom",
+"w": "cock of the roost",
+"kind": "idiom",
+"gloss": [
+"A proud or conceited person."
+]
+},
+{
+"id": "rickle-o-banes_idiom",
+"w": "rickle o' banes",
+"kind": "idiom",
+"gloss": [
+"An emaciated person or animal."
+]
+},
+{
+"id": "young-fogey_idiom",
+"w": "young fogey",
+"kind": "idiom",
+"gloss": [
+"A young and overly conservative person."
+]
+},
+{
+"id": "suck-the-kumara_idiom",
+"w": "suck the kumara",
+"kind": "idiom",
+"gloss": [
+"To die."
+]
+},
+{
+"id": "telephone-tag_idiom",
+"w": "telephone tag",
+"kind": "idiom",
+"gloss": [
+"A situation in which a person unsuccessfully attempts to contact another person by telephone and leaves a message instead, and in which the second person then unsuccessfully attempts to return the initial call and leaves a message for the first person, and so on as if the two are playing a game of tag in which the most recent person to have been left with a message is now designated as \"it\" (i.e. as the player now obliged to chase the other and to attempt anew to make contact)."
+]
+},
+{
+"id": "from-a-to-izzard_idiom",
+"w": "from A to izzard",
+"kind": "idiom",
+"gloss": [
+"From beginning to end; thoroughly; covering the whole range or scope."
+]
+},
+{
+"id": "go-nowhere_idiom",
+"w": "go nowhere",
+"kind": "idiom",
+"gloss": [
+"To fail to progress, to fail to attain a favorable result or outcome."
+]
+},
+{
+"id": "ground-ball-with-eyes_idiom",
+"w": "ground ball with eyes",
+"kind": "idiom",
+"gloss": [
+"A weakly hit ground ball that barely evades the infielders."
+]
+},
+{
+"id": "double-bookkeeping_idiom",
+"w": "double bookkeeping",
+"kind": "idiom",
+"gloss": [
+"The tendency, among those who experience delusions, to perceive reality and the delusions as both being real, while remaining unbothered by the discrepancy or inconsistencies between the two."
+]
+},
+{
+"id": "not-your-father-s_idiom",
+"w": "not your father's",
+"kind": "idiom",
+"gloss": [
+"Recently changed, made unconventional through modernisation."
+]
+},
+{
+"id": "put-through-the-mangle_idiom",
+"w": "put through the mangle",
+"kind": "idiom",
+"gloss": [
+"Synonym of put through the wringer."
+]
+},
+{
+"id": "look-here_idiom",
+"w": "look here",
+"kind": "idiom",
+"gloss": [
+"Listen to me!"
+]
+},
+{
+"id": "not-for-the-world_idiom",
+"w": "not for the world",
+"kind": "idiom",
+"gloss": [
+"Absolutely not; under no circumstances. A defiant no."
+]
+},
+{
+"id": "no-chance_idiom",
+"w": "no chance",
+"kind": "idiom",
+"gloss": [
+"Absolutely not; under no circumstances."
+]
+},
+{
+"id": "you-ll-never-guess_idiom",
+"w": "you'll never guess",
+"kind": "idiom",
+"gloss": [
+"I have something very surprising to say; you won't be able to guess what I'm about to say."
+]
+},
+{
+"id": "ghetto-lottery_idiom",
+"w": "ghetto lottery",
+"kind": "idiom",
+"gloss": [
+"A financial windfall obtainable by a socioeconomically disadvantaged person."
+]
+},
+{
+"id": "in-and-out_idiom",
+"w": "in and out",
+"kind": "idiom",
+"gloss": [
+"Sexual intercourse, especially a brief session."
+]
+},
+{
+"id": "top-of-mind_idiom",
+"w": "top of mind",
+"kind": "idiom",
+"gloss": [
+"Foremost in one's thoughts; of greatest concern or priority."
+]
+},
+{
+"id": "town-and-gown_idiom",
+"w": "town and gown",
+"kind": "idiom",
+"gloss": [
+"On the one hand, the members of the city, borough, or similar community near a university and, on the other hand, the students and faculty of the university itself, especially when understood as rivals in a state of tension or conflict."
+]
+},
+{
+"id": "walk-a-mile-in-someone-s-shoes_idiom",
+"w": "walk a mile in someone's shoes",
+"kind": "idiom",
+"gloss": [
+"To experience what someone has experienced."
+]
+},
+{
+"id": "inner-strength_idiom",
+"w": "inner strength",
+"kind": "idiom",
+"gloss": [
+"Integrity of character; resoluteness of will; mental resistance to doubt or discouragement."
+]
+},
+{
+"id": "below-the-salt_idiom",
+"w": "below the salt",
+"kind": "idiom",
+"gloss": [
+"Common, vulgar; of low standing."
+]
+},
+{
+"id": "what-it-takes_idiom",
+"w": "what it takes",
+"kind": "idiom",
+"gloss": [
+"Everything that is required, especially skill or endurance."
+]
+},
+{
+"id": "progressive-love_idiom",
+"w": "progressive love",
+"kind": "idiom",
+"gloss": [
+"A committed open relationship based on boosting the love and affection opportunities available for one's partner"
+]
+},
+{
+"id": "wall-of-silence_idiom",
+"w": "wall of silence",
+"kind": "idiom",
+"gloss": [
+"Strict secretiveness maintained by the members of a group with respect to information which might be contrary to their interests, especially information concerning questionable actions by members of the group."
+]
+},
+{
+"id": "blue-wall-of-silence_idiom",
+"w": "blue wall of silence",
+"kind": "idiom",
+"gloss": [
+"Strict secretiveness maintained by the members of a police force with respect to information which might be contrary to their interests, especially information concerning questionable police actions."
+]
+},
+{
+"id": "gavel-to-order_idiom",
+"w": "gavel to order",
+"kind": "idiom",
+"gloss": [
+"To initiate or restore the orderly functioning of (a meeting or function or assembly or court), usually by pounding a gavel or similar hammer."
+]
+},
+{
+"id": "but-good_idiom",
+"w": "but good",
+"kind": "idiom",
+"gloss": [
+"To a high degree; very thoroughly; in a most definite manner."
+]
+},
+{
+"id": "beat-the-pants-off_idiom",
+"w": "beat the pants off",
+"kind": "idiom",
+"gloss": [
+"To thoroughly and decisively defeat someone, either in a physical fight or, figuratively, in a competition."
+]
+},
+{
+"id": "lick-the-pants-off_idiom",
+"w": "lick the pants off",
+"kind": "idiom",
+"gloss": [
+"To thoroughly and decisively defeat someone, either in a physical fight or, figuratively, in a competition."
+]
+},
+{
+"id": "the-pants-off_idiom",
+"w": "the pants off",
+"kind": "idiom",
+"gloss": [
+"An intensifier used with some transitive action verbs to indicate that the action is performed with thoroughness, vigor, or complete success."
+]
+},
+{
+"id": "51-percent_idiom",
+"w": "51 percent",
+"kind": "idiom",
+"gloss": [
+"A narrow or bare majority."
+]
+},
+{
+"id": "let-well-alone_idiom",
+"w": "let well alone",
+"kind": "idiom",
+"gloss": [
+"Do not interfere."
+]
+},
+{
+"id": "ruffle-someone-s-feathers_idiom",
+"w": "ruffle someone's feathers",
+"kind": "idiom",
+"gloss": [
+"To unease, cause discomfort to someone."
+]
+},
+{
+"id": "at-bottom_idiom",
+"w": "at bottom",
+"kind": "idiom",
+"gloss": [
+"Really, basically, fundamentally."
+]
+},
+{
+"id": "fall-between-the-cracks_idiom",
+"w": "fall between the cracks",
+"kind": "idiom",
+"gloss": [
+"To wind up in an unexpected situation which is, inadvertently, invisible to or not handled by whatever process one had hoped to be subject to; to be overlooked."
+]
+},
+{
+"id": "12-ounce-curls_idiom",
+"w": "12-ounce curls",
+"kind": "idiom",
+"gloss": [
+"The activity of drinking beer."
+]
+},
+{
+"id": "square-shooter_idiom",
+"w": "square shooter",
+"kind": "idiom",
+"gloss": [
+"A person who is fair, trustworthy, or forthright; a person who bargains or transacts business in a fair, honest manner."
+]
+},
+{
+"id": "have-someone-s-blood-on-one-s-head_idiom",
+"w": "have someone's blood on one's head",
+"kind": "idiom",
+"gloss": [
+"To be responsible for someone's death, pain, or misfortune."
+]
+},
+{
+"id": "clear-blue-water_idiom",
+"w": "clear blue water",
+"kind": "idiom",
+"gloss": [
+"An obvious, unambiguous divide between the policies of two parties."
+]
+},
+{
+"id": "every-bit_idiom",
+"w": "every bit",
+"kind": "idiom",
+"gloss": [
+"Exactly, to its full degree"
+]
+},
+{
+"id": "great-beyond_idiom",
+"w": "great beyond",
+"kind": "idiom",
+"gloss": [
+"the afterlife."
+]
+},
+{
+"id": "pull-in-one-s-horns_idiom",
+"w": "pull in one's horns",
+"kind": "idiom",
+"gloss": [
+"To become less impassioned, aggressive, or argumentative; to exercise restraint; to yield or capitulate."
+]
+},
+{
+"id": "cut-swathes_idiom",
+"w": "cut swathes",
+"kind": "idiom",
+"gloss": [
+"Synonym of cut a wide swath."
+]
+},
+{
+"id": "lead-someone-up-the-garden-path_idiom",
+"w": "lead someone up the garden path",
+"kind": "idiom",
+"gloss": [
+"To deceive, hoodwink, mislead, or seduce someone."
+]
+},
+{
+"id": "rub-shoulders_idiom",
+"w": "rub shoulders",
+"kind": "idiom",
+"gloss": [
+"To associate closely; to socialize or mingle."
+]
+},
+{
+"id": "rub-elbows_idiom",
+"w": "rub elbows",
+"kind": "idiom",
+"gloss": [
+"To associate closely; to consort, mingle, or socialize."
+]
+},
+{
+"id": "look-for-a-dog-to-kick_idiom",
+"w": "look for a dog to kick",
+"kind": "idiom",
+"gloss": [
+"To seek someone or something to blame."
+]
+},
+{
+"id": "turn-the-screw_idiom",
+"w": "turn the screw",
+"kind": "idiom",
+"gloss": [
+"To increase the pressure of a situation."
+]
+},
+{
+"id": "words-of-one-syllable_idiom",
+"w": "words of one syllable",
+"kind": "idiom",
+"gloss": [
+"Simple, clear, straightforward language; blunt language."
+]
+},
+{
+"id": "in-words-of-one-syllable_idiom",
+"w": "in words of one syllable",
+"kind": "idiom",
+"gloss": [
+"In simple, clear, straightforward language; in blunt language."
+]
+},
+{
+"id": "tentpole-movie_idiom",
+"w": "tentpole movie",
+"kind": "idiom",
+"gloss": [
+"A major motion picture which is expensive to produce but expected to generate significant revenue for its studio and investors."
+]
+},
+{
+"id": "sin-tax_idiom",
+"w": "sin tax",
+"kind": "idiom",
+"gloss": [
+"A government-imposed tax on a specific good, service, or activity which is legal but widely considered to be unwholesome or socially harmful, such as a tax on alcoholic beverages, tobacco products, or gambling."
+]
+},
+{
+"id": "brain-bucket_idiom",
+"w": "brain bucket",
+"kind": "idiom",
+"gloss": [
+"A protective helmet, as worn, for example, by a motorcyclist, bicyclist, or soldier in combat."
+]
+},
+{
+"id": "brain-candy_idiom",
+"w": "brain candy",
+"kind": "idiom",
+"gloss": [
+"A narrative, commentary, etc. which amuses and holds one's attention, but which lacks intellectual depth or importance."
+]
+},
+{
+"id": "turn-the-scale_idiom",
+"w": "turn the scale",
+"kind": "idiom",
+"gloss": [
+"To decide or determine a balanced situation."
+]
+},
+{
+"id": "though-but_idiom",
+"w": "though but",
+"kind": "idiom",
+"gloss": [
+"Used at the end of a sentence to add emphasis."
+]
+},
+{
+"id": "you-think_idiom",
+"w": "you think",
+"kind": "idiom",
+"gloss": [
+"A sarcastic, rhetorical response to an obvious statement."
+]
+},
+{
+"id": "cut-a-figure_idiom",
+"w": "cut a figure",
+"kind": "idiom",
+"gloss": [
+"To present an image; to make an impression."
+]
+},
+{
+"id": "rue-the-day_idiom",
+"w": "rue the day",
+"kind": "idiom",
+"gloss": [
+"To seriously regret one's actions."
+]
+},
+{
+"id": "day-lark_idiom",
+"w": "day lark",
+"kind": "idiom",
+"gloss": [
+"One who gets up early in the morning or goes to bed early."
+]
+},
+{
+"id": "bad-books_idiom",
+"w": "bad books",
+"kind": "idiom",
+"gloss": [
+"Disfavor."
+]
+},
+{
+"id": "mother-hubbard_idiom",
+"w": "Mother Hubbard",
+"kind": "idiom",
+"gloss": [
+"Empty."
+]
+},
+{
+"id": "straw-that-stirs-the-drink_idiom",
+"w": "straw that stirs the drink",
+"kind": "idiom",
+"gloss": [
+"The person who stimulates or inspires a group; the major factor affecting a trend or set of developments."
+]
+},
+{
+"id": "say-uncle_idiom",
+"w": "say uncle",
+"kind": "idiom",
+"gloss": [
+"Synonym of cry uncle."
+]
+},
+{
+"id": "eye-sex_idiom",
+"w": "eye sex",
+"kind": "idiom",
+"gloss": [
+"A lustful or sexually-charged glance exchanged between two people."
+]
+},
+{
+"id": "public-intellectual_idiom",
+"w": "public intellectual",
+"kind": "idiom",
+"gloss": [
+"A well-known, intelligent, learned person whose written works and other social and cultural contributions are recognized not only by academic audiences and readers, but also by many members of society in general."
+]
+},
+{
+"id": "come-with-the-territory_idiom",
+"w": "come with the territory",
+"kind": "idiom",
+"gloss": [
+"To be a common, and often inconvenient, accompaniment of an occupation, situation, or occurrence."
+]
+},
+{
+"id": "boiling-mad_idiom",
+"w": "boiling mad",
+"kind": "idiom",
+"gloss": [
+"extremely angry; furious."
+]
+},
+{
+"id": "by-guess-or-by-gosh_idiom",
+"w": "by guess or by gosh",
+"kind": "idiom",
+"gloss": [
+"at random"
+]
+},
+{
+"id": "one-s-blood-is-up_idiom",
+"w": "one's blood is up",
+"kind": "idiom",
+"gloss": [
+"One is very angry."
+]
+},
+{
+"id": "couldn-t-carry-a-note-in-a-bucket_idiom",
+"w": "couldn't carry a note in a bucket",
+"kind": "idiom",
+"gloss": [
+"Not musically talented, unable to sing."
+]
+}
+]

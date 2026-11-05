@@ -1,0 +1,802 @@
+[
+{
+"id": "filthy-lucre_idiom",
+"w": "filthy lucre",
+"kind": "idiom",
+"gloss": [
+"Money, especially if obtained dishonestly."
+]
+},
+{
+"id": "raise-the-flag-and-see-who-salutes_idiom",
+"w": "raise the flag and see who salutes",
+"kind": "idiom",
+"gloss": [
+"To float an idea, (or otherwise do some action) to see what response or controversy it generates, usually as a preliminary step."
+]
+},
+{
+"id": "pretty-pictures_idiom",
+"w": "pretty pictures",
+"kind": "idiom",
+"gloss": [
+"Image supplements in a presentation: graphs, charts, etc."
+]
+},
+{
+"id": "hat-hair_idiom",
+"w": "hat hair",
+"kind": "idiom",
+"gloss": [
+"An accidental messy hairdo resulting from the wearing of a hat."
+]
+},
+{
+"id": "drug-on-the-market_idiom",
+"w": "drug on the market",
+"kind": "idiom",
+"gloss": [
+"something which is overabundant at the moment and thus not in demand."
+]
+},
+{
+"id": "beast-with-two-backs_idiom",
+"w": "beast with two backs",
+"kind": "idiom",
+"gloss": [
+"Two people united in sexual intercourse in the missionary position."
+]
+},
+{
+"id": "yankee-dime_idiom",
+"w": "Yankee dime",
+"kind": "idiom",
+"gloss": [
+"A kiss."
+]
+},
+{
+"id": "don-t-give-up-your-day-job_idiom",
+"w": "don't give up your day job",
+"kind": "idiom",
+"gloss": [
+"Somewhat sarcastic but usually good-natured advice used to criticise a person's degree of talent (especially in music or other performing arts), implying that they are unlikely to be successful."
+]
+},
+{
+"id": "mixed-message_idiom",
+"w": "mixed message",
+"kind": "idiom",
+"gloss": [
+"Any communication that is contradictory, inconsistent, or unclear, especially in its motive or intent; incongruence between somebody's actions and words."
+]
+},
+{
+"id": "house-poor_idiom",
+"w": "house poor",
+"kind": "idiom",
+"gloss": [
+"In financial difficulty because of the excessive cost of owning a house, or because the cost of home ownership forms too high a proportion of household income."
+]
+},
+{
+"id": "beat-someone-s-brains-out_idiom",
+"w": "beat someone's brains out",
+"kind": "idiom",
+"gloss": [
+"To beat someone very severely (especially in the head)."
+]
+},
+{
+"id": "yes-to-death_idiom",
+"w": "yes to death",
+"kind": "idiom",
+"gloss": [
+"To agree with someone, often sarcastically."
+]
+},
+{
+"id": "bull-session_idiom",
+"w": "bull session",
+"kind": "idiom",
+"gloss": [
+"An informal discursive group discussion, often one where politics, economics or current events are discussed."
+]
+},
+{
+"id": "give-a-damn_idiom",
+"w": "give a damn",
+"kind": "idiom",
+"gloss": [
+"To be concerned about, have an interest in, to care (about something)."
+]
+},
+{
+"id": "stroke-of-work_idiom",
+"w": "stroke of work",
+"kind": "idiom",
+"gloss": [
+"A small amount of work."
+]
+},
+{
+"id": "ride-herd-on_idiom",
+"w": "ride herd on",
+"kind": "idiom",
+"gloss": [
+"To supervise."
+]
+},
+{
+"id": "blow-this-pop-stand_idiom",
+"w": "blow this pop stand",
+"kind": "idiom",
+"gloss": [
+"To exit or remove oneself from a less than exciting location or environment."
+]
+},
+{
+"id": "angel-s-advocate_idiom",
+"w": "angel's advocate",
+"kind": "idiom",
+"gloss": [
+"Someone who sees what is good about an idea and supports it."
+]
+},
+{
+"id": "cattle-call_idiom",
+"w": "cattle call",
+"kind": "idiom",
+"gloss": [
+"An audition which is open to the public and thus draws a large number of applicants, many of whom are inexperienced."
+]
+},
+{
+"id": "fun-and-games_idiom",
+"w": "fun and games",
+"kind": "idiom",
+"gloss": [
+"Recreation; nothing serious; easy, enjoyable activities."
+]
+},
+{
+"id": "rain-pitchforks_idiom",
+"w": "rain pitchforks",
+"kind": "idiom",
+"gloss": [
+"To rain heavily."
+]
+},
+{
+"id": "dog-my-cats_idiom",
+"w": "dog my cats",
+"kind": "idiom",
+"gloss": [
+"Used as a mild oath, or as an expression of astonishment"
+]
+},
+{
+"id": "get-a-fix_idiom",
+"w": "get a fix",
+"kind": "idiom",
+"gloss": [
+"To obtain something necessary, especially a dose of an addictive drug or anything else compulsively sought after."
+]
+},
+{
+"id": "talk-someone-under-the-table_idiom",
+"w": "talk someone under the table",
+"kind": "idiom",
+"gloss": [
+"To bore (someone) with excessive talk."
+]
+},
+{
+"id": "idiot-mittens_idiom",
+"w": "idiot mittens",
+"kind": "idiom",
+"gloss": [
+"Mittens connected by yarn or string (idiot string (Canadian English)) running through one sleeve, along the back and out at the other sleeve of a coat, to prevent the mittens becoming lost. Generally worn by small children."
+]
+},
+{
+"id": "shoot-the-bull_idiom",
+"w": "shoot the bull",
+"kind": "idiom",
+"gloss": [
+"To chinwag; to talk idly."
+]
+},
+{
+"id": "feast-or-famine_idiom",
+"w": "feast or famine",
+"kind": "idiom",
+"gloss": [
+"A situation in which something is always either extremely abundant or in extremely short supply."
+]
+},
+{
+"id": "cut-and-thrust_idiom",
+"w": "cut and thrust",
+"kind": "idiom",
+"gloss": [
+"The use of vehement arguments."
+]
+},
+{
+"id": "on-the-rampage_idiom",
+"w": "on the rampage",
+"kind": "idiom",
+"gloss": [
+"behaving violently or rioting"
+]
+},
+{
+"id": "stuffed-like-a-turkey_idiom",
+"w": "stuffed like a turkey",
+"kind": "idiom",
+"gloss": [
+"Very full from overeating."
+]
+},
+{
+"id": "work-to-rule_idiom",
+"w": "work to rule",
+"kind": "idiom",
+"gloss": [
+"To work slowly by strictly following all work rules, usually in a work-to-rule job action, as part of unionized labor protest."
+]
+},
+{
+"id": "grow-cold_idiom",
+"w": "grow cold",
+"kind": "idiom",
+"gloss": [
+"To wane; to lose interest or enthusiasm for something or someone; to become disenchanted or to fall out of love with someone."
+]
+},
+{
+"id": "legal-duty_idiom",
+"w": "legal duty",
+"kind": "idiom",
+"gloss": [
+"A duty prescribed by the law, to act or forbear from acting."
+]
+},
+{
+"id": "stage-of-the-game_idiom",
+"w": "stage of the game",
+"kind": "idiom",
+"gloss": [
+"A point in the progress of an ongoing dispute or process."
+]
+},
+{
+"id": "hit-it-big_idiom",
+"w": "hit it big",
+"kind": "idiom",
+"gloss": [
+"To have great success."
+]
+},
+{
+"id": "hit-the-big-time_idiom",
+"w": "hit the big time",
+"kind": "idiom",
+"gloss": [
+"To become successful and widely known."
+]
+},
+{
+"id": "the-thing-of-it_idiom",
+"w": "the thing of it",
+"kind": "idiom",
+"gloss": [
+"The important point to consider."
+]
+},
+{
+"id": "eat-for-two_idiom",
+"w": "eat for two",
+"kind": "idiom",
+"gloss": [
+"To be pregnant"
+]
+},
+{
+"id": "assault-and-battery_idiom",
+"w": "assault and battery",
+"kind": "idiom",
+"gloss": [
+"The combination of two violent crimes: assault (the threat of violence) and battery (physical violence). This legal distinction exists only in jurisdictions that distinguish assault as threatened violence rather than actual violence."
+]
+},
+{
+"id": "banyan-day_idiom",
+"w": "banyan day",
+"kind": "idiom",
+"gloss": [
+"A picnic or cookout for the ship's crew."
+]
+},
+{
+"id": "bench-jockey_idiom",
+"w": "bench jockey",
+"kind": "idiom",
+"gloss": [
+"A player, coach or manager who verbally annoys and distracts opposition players and umpires from his team's dugout bench."
+]
+},
+{
+"id": "bio-queen_idiom",
+"w": "bio queen",
+"kind": "idiom",
+"gloss": [
+"A cis female performance artist who performs in female drag at drag shows, or acts like a drag queen."
+]
+},
+{
+"id": "blanket-term_idiom",
+"w": "blanket term",
+"kind": "idiom",
+"gloss": [
+"A word or phrase that is used to describe multiple groups of related things."
+]
+},
+{
+"id": "by-the-numbers_idiom",
+"w": "by the numbers",
+"kind": "idiom",
+"gloss": [
+"exactly, precisely, or in a formulaic way."
+]
+},
+{
+"id": "camel-s-nose_idiom",
+"w": "camel's nose",
+"kind": "idiom",
+"gloss": [
+"A situation where the permitting of some small act will lead to a larger undesirable act or circumstance."
+]
+},
+{
+"id": "catbird-seat_idiom",
+"w": "catbird seat",
+"kind": "idiom",
+"gloss": [
+"An enviable position, often one of great advantage."
+]
+},
+{
+"id": "christmas-tree-bill_idiom",
+"w": "Christmas tree bill",
+"kind": "idiom",
+"gloss": [
+"A bill consisting of many riders that attracts many, often unrelated, floor amendments, which may provide special benefits to various groups or interests."
+]
+},
+{
+"id": "dunkirk-spirit_idiom",
+"w": "Dunkirk spirit",
+"kind": "idiom",
+"gloss": [
+"The spirit of the British public pulling together to overcome times of adversity."
+]
+},
+{
+"id": "get-bent_idiom",
+"w": "get bent",
+"kind": "idiom",
+"gloss": [
+"Used to dismiss a person or what they are saying, and end the conversation."
+]
+},
+{
+"id": "high-cotton_idiom",
+"w": "high cotton",
+"kind": "idiom",
+"gloss": [
+"The best of times; a time of well being."
+]
+},
+{
+"id": "of-all-people_idiom",
+"w": "of all people",
+"kind": "idiom",
+"gloss": [
+"Especially; more than other people"
+]
+},
+{
+"id": "mexican-breakfast_idiom",
+"w": "Mexican breakfast",
+"kind": "idiom",
+"gloss": [
+"A breakfast consisting of a cigarette and a glass of water."
+]
+},
+{
+"id": "behind-the-counter_idiom",
+"w": "behind the counter",
+"kind": "idiom",
+"gloss": [
+"Of drugs, dispensed by a pharmacist without needing a doctor's prescription or other form of compliance."
+]
+},
+{
+"id": "coals-to-newcastle_idiom",
+"w": "coals to Newcastle",
+"kind": "idiom",
+"gloss": [
+"A pointless venture, in the sense of sending something to a place where it is made, or where they already have an abundance."
+]
+},
+{
+"id": "send-to-coventry_idiom",
+"w": "send to Coventry",
+"kind": "idiom",
+"gloss": [
+"To ostracize, or systematically ignore someone."
+]
+},
+{
+"id": "son-of-the-morning_idiom",
+"w": "son of the morning",
+"kind": "idiom",
+"gloss": [
+"A traveler."
+]
+},
+{
+"id": "let-go-and-let-god_idiom",
+"w": "let go and let God",
+"kind": "idiom",
+"gloss": [
+"To consciously surrender one's free will to the will of God."
+]
+},
+{
+"id": "tinker-to-evers-to-chance_idiom",
+"w": "Tinker to Evers to Chance",
+"kind": "idiom",
+"gloss": [
+"A task accomplished quickly by well-executed teamwork; those involved in the teamwork."
+]
+},
+{
+"id": "until-hell-freezes-over_idiom",
+"w": "until hell freezes over",
+"kind": "idiom",
+"gloss": [
+"forever; without success, no matter how long one perseveres."
+]
+},
+{
+"id": "bronx-cheer_idiom",
+"w": "Bronx cheer",
+"kind": "idiom",
+"gloss": [
+"Synonym of raspberry (“a sound intended to resemble flatulence made by blowing air out of the mouth while the tongue is protruding from and pressed against the lips, used humorously or to express disdain or scorn”)."
+]
+},
+{
+"id": "shotgun-approach_idiom",
+"w": "shotgun approach",
+"kind": "idiom",
+"gloss": [
+"An approach in which the subject is indiscriminate and haphazard, using breadth, spread, or quantity in lieu of accuracy, planning, etc."
+]
+},
+{
+"id": "lady-or-tiger_idiom",
+"w": "lady or tiger",
+"kind": "idiom",
+"gloss": [
+"A pure gamble with highly divergent outcomes."
+]
+},
+{
+"id": "chrome-horn_idiom",
+"w": "chrome horn",
+"kind": "idiom",
+"gloss": [
+"The front bumper of a car when used to bump another vehicle, usually to inform the driver of the other vehicle that the first car would like to pass."
+]
+},
+{
+"id": "wet-boy_idiom",
+"w": "wet boy",
+"kind": "idiom",
+"gloss": [
+"A contractor assassin or hit man"
+]
+},
+{
+"id": "play-the-race-card_idiom",
+"w": "play the race card",
+"kind": "idiom",
+"gloss": [
+"To assert that race or racism is involved in a situation, especially in order to exploit racist or antiracist attitudes."
+]
+},
+{
+"id": "raw-deal_idiom",
+"w": "raw deal",
+"kind": "idiom",
+"gloss": [
+"A situation in which a person is taken advantage of or treated unfairly; a situation in which a person is led to expect something, but receives either nothing or much less than was expected."
+]
+},
+{
+"id": "homeless-dumping_idiom",
+"w": "homeless dumping",
+"kind": "idiom",
+"gloss": [
+"The practice of hospital employees or emergency workers releasing homeless patients on the streets instead of placing them into the custody of a relative or shelter or retaining them in a hospital where they may require expensive medical care."
+]
+},
+{
+"id": "dead-on_idiom",
+"w": "dead on",
+"kind": "idiom",
+"gloss": [
+"Exactly at."
+]
+},
+{
+"id": "up-on_idiom",
+"w": "up on",
+"kind": "idiom",
+"gloss": [
+"Well-informed concerning."
+]
+},
+{
+"id": "get-life_idiom",
+"w": "get life",
+"kind": "idiom",
+"gloss": [
+"To receive a life sentence."
+]
+},
+{
+"id": "in-too-deep_idiom",
+"w": "in too deep",
+"kind": "idiom",
+"gloss": [
+"Involved in a situation to the extent that one cannot cope or escape."
+]
+},
+{
+"id": "see-you-next-tuesday_idiom",
+"w": "see you next Tuesday",
+"kind": "idiom",
+"gloss": [
+"A cunt. (an objectionable person)"
+]
+},
+{
+"id": "soup-sandwich_idiom",
+"w": "soup sandwich",
+"kind": "idiom",
+"gloss": [
+"Someone or something that is disorganized, incompetent, fundamentally flawed or unfinished."
+]
+},
+{
+"id": "in-a-bake_idiom",
+"w": "in a bake",
+"kind": "idiom",
+"gloss": [
+"Very angry."
+]
+},
+{
+"id": "go-to-the-mat_idiom",
+"w": "go to the mat",
+"kind": "idiom",
+"gloss": [
+"To continue to struggle or fight until either victorious or defeated."
+]
+},
+{
+"id": "skeleton-in-the-closet_idiom",
+"w": "skeleton in the closet",
+"kind": "idiom",
+"gloss": [
+"A shameful secret."
+]
+},
+{
+"id": "at-cross-purposes_idiom",
+"w": "at cross-purposes",
+"kind": "idiom",
+"gloss": [
+"Mutually misunderstanding each other's plans, intentions or meanings."
+]
+},
+{
+"id": "long-since_idiom",
+"w": "long since",
+"kind": "idiom",
+"gloss": [
+"Long ago; in the (distant) past."
+]
+},
+{
+"id": "have-a-pair_idiom",
+"w": "have a pair",
+"kind": "idiom",
+"gloss": [
+"To be manly, brave."
+]
+},
+{
+"id": "horse-opera_idiom",
+"w": "horse opera",
+"kind": "idiom",
+"gloss": [
+"A theatrical production, film, or program on radio or television depicting adventures of characters in the American Old West; a western."
+]
+},
+{
+"id": "under-erasure_idiom",
+"w": "under erasure",
+"kind": "idiom",
+"gloss": [
+"Of a piece of text, written and struck through; hence, figuratively in some sense both present and absent."
+]
+},
+{
+"id": "hold-that-thought_idiom",
+"w": "hold that thought",
+"kind": "idiom",
+"gloss": [
+"To pause in a conversation for an interruption."
+]
+},
+{
+"id": "get-one-s-panties-in-a-wad_idiom",
+"w": "get one's panties in a wad",
+"kind": "idiom",
+"gloss": [
+"Synonym of get one's knickers in a twist."
+]
+},
+{
+"id": "damn-with-faint-praise_idiom",
+"w": "damn with faint praise",
+"kind": "idiom",
+"gloss": [
+"To provide praise that is minimal or inconsequential, implying that such praise is the best that could be said."
+]
+},
+{
+"id": "chinese-compliment_idiom",
+"w": "Chinese compliment",
+"kind": "idiom",
+"gloss": [
+"A pretense of deference; a veiled or subtle insult."
+]
+},
+{
+"id": "chinaman-s-chance_idiom",
+"w": "Chinaman's chance",
+"kind": "idiom",
+"gloss": [
+"No chance; zero possibility."
+]
+},
+{
+"id": "get-the-wind-up_idiom",
+"w": "get the wind up",
+"kind": "idiom",
+"gloss": [
+"To become frightened or disturbed."
+]
+},
+{
+"id": "six-ways-to-sunday_idiom",
+"w": "six ways to Sunday",
+"kind": "idiom",
+"gloss": [
+"Thoroughly, completely, in every way imaginable."
+]
+},
+{
+"id": "every-which-where_idiom",
+"w": "every which where",
+"kind": "idiom",
+"gloss": [
+"everywhere"
+]
+},
+{
+"id": "in-the-altogether_idiom",
+"w": "in the altogether",
+"kind": "idiom",
+"gloss": [
+"Naked."
+]
+},
+{
+"id": "teed-off_idiom",
+"w": "teed off",
+"kind": "idiom",
+"gloss": [
+"Annoyed, upset, angry."
+]
+},
+{
+"id": "peed-off_idiom",
+"w": "peed off",
+"kind": "idiom",
+"gloss": [
+"Annoyed, irritated, angry."
+]
+},
+{
+"id": "dry-one-s-eyes_idiom",
+"w": "dry one's eyes",
+"kind": "idiom",
+"gloss": [
+"To cease crying."
+]
+},
+{
+"id": "straight-out-of-the-chute_idiom",
+"w": "straight out of the chute",
+"kind": "idiom",
+"gloss": [
+"immediately, from the very outset."
+]
+},
+{
+"id": "take-a-bead-on_idiom",
+"w": "take a bead on",
+"kind": "idiom",
+"gloss": [
+"To aim a gun at something."
+]
+},
+{
+"id": "as-of-late_idiom",
+"w": "as of late",
+"kind": "idiom",
+"gloss": [
+"Lately; recently."
+]
+},
+{
+"id": "bright-eyed-and-bushy-tailed_idiom",
+"w": "bright-eyed and bushy-tailed",
+"kind": "idiom",
+"gloss": [
+"Eager; alert; enthusiastic; lively."
+]
+},
+{
+"id": "today-we-are-all_idiom",
+"w": "today we are all",
+"kind": "idiom",
+"gloss": [
+"An expression indicating that the speaker empathizes with members of an identifiable group that was the subject of a disaster, and projects that others empathize as well."
+]
+},
+{
+"id": "big-boys_idiom",
+"w": "big boys",
+"kind": "idiom",
+"gloss": [
+"The people or bodies with the most influence and/or power."
+]
+},
+{
+"id": "too-big-for-one-s-boots_idiom",
+"w": "too big for one's boots",
+"kind": "idiom",
+"gloss": [
+"Far less important or capable than one thinks or claims oneself to be."
+]
+}
+]

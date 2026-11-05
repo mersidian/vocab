@@ -1,0 +1,100 @@
+{"id":"conflict_noun","th":"ความขัดแย้ง; ข้อพิพาท; การสู้รบ","ex":"The two countries are in conflict over water.","exTh":"สองประเทศขัดแย้งกันเรื่องน้ำ"}
+{"id":"engaged_adj","th":"หมั้นแล้ว; ไม่ว่าง; ยุ่งอยู่กับ","ex":"My sister is engaged to a doctor.","exTh":"พี่สาวของฉันหมั้นกับหมอ"}
+{"id":"origin_noun","th":"ต้นกำเนิด; ที่มา; เชื้อสาย","ex":"The origin of this word is Latin.","exTh":"ที่มาของคำนี้มาจากภาษาละติน"}
+{"id":"solid_adj","th":"แข็ง; ตัน; มั่นคง","ex":"The ice on the lake is solid.","exTh":"น้ำแข็งบนทะเลสาบแข็งมาก"}
+{"id":"numerous_adj","th":"มากมาย; จำนวนมาก","ex":"She has won numerous awards.","exTh":"เธอได้รับรางวัลมากมาย"}
+{"id":"vehicle_noun","th":"ยานพาหนะ; รถ","ex":"Cars, buses and trucks are all vehicles.","exTh":"รถยนต์ รถบัส และรถบรรทุกล้วนเป็นยานพาหนะ"}
+{"id":"substantial_adj","th":"มาก; มีนัยสำคัญ; ใหญ่โต","ex":"He earns a substantial income.","exTh":"เขามีรายได้ค่อนข้างสูง"}
+{"id":"preparation_noun","th":"การเตรียม; การเตรียมตัว","ex":"Good preparation is the key to success.","exTh":"การเตรียมตัวที่ดีเป็นกุญแจสู่ความสำเร็จ"}
+{"id":"command_noun","th":"คำสั่ง; การควบคุม; ความเชี่ยวชาญ","ex":"The soldiers waited for the command.","exTh":"ทหารรอคำสั่ง"}
+{"id":"efficiency_noun","th":"ประสิทธิภาพ; ความคล่องตัว","ex":"The new machine improves efficiency.","exTh":"เครื่องใหม่ช่วยเพิ่มประสิทธิภาพ"}
+{"id":"possibility_noun","th":"ความเป็นไปได้; โอกาส","ex":"There is a possibility of rain tomorrow.","exTh":"พรุ่งนี้มีโอกาสที่ฝนจะตก"}
+{"id":"republic_noun","th":"สาธารณรัฐ","ex":"France is a republic, not a kingdom.","exTh":"ฝรั่งเศสเป็นสาธารณรัฐ ไม่ใช่ราชอาณาจักร"}
+{"id":"establishment_noun","th":"การก่อตั้ง; สถานประกอบการ; สถาบัน","ex":"The establishment of the school took two years.","exTh":"การก่อตั้งโรงเรียนใช้เวลาสองปี"}
+{"id":"contain_verb","th":"บรรจุ; มี; ประกอบด้วย","ex":"This juice contains no sugar.","exTh":"น้ำผลไม้นี้ไม่มีน้ำตาล"}
+{"id":"composition_noun","th":"องค์ประกอบ; งานเขียน; บทประพันธ์","ex":"Write a short composition about your family.","exTh":"จงเขียนเรียงความสั้นๆ เกี่ยวกับครอบครัวของคุณ"}
+{"id":"signal_noun","th":"สัญญาณ; เครื่องหมาย","ex":"I can't get a phone signal here.","exTh":"ที่นี่ฉันไม่มีสัญญาณโทรศัพท์"}
+{"id":"estimate_verb","th":"ประเมิน; ประมาณ; คาดการณ์","ex":"I estimate the trip will cost about two hundred dollars.","exTh":"ฉันประเมินว่าการเดินทางน่าจะราคาประมาณสองร้อยดอลลาร์"}
+{"id":"electrical_adj","th":"ทางไฟฟ้า; เกี่ยวกับไฟฟ้า","ex":"There is an electrical problem in the kitchen.","exTh":"มีปัญหาเรื่องไฟฟ้าในครัว"}
+{"id":"depth_noun","th":"ความลึก; ความลึกซึ้ง","ex":"The depth of the pool is two meters.","exTh":"สระน้ำลึกสองเมตร"}
+{"id":"sign_verb","th":"ลงชื่อ; เซ็น; ให้สัญญาณ","ex":"Please sign your name at the bottom.","exTh":"กรุณาเซ็นชื่อของคุณที่ด้านล่าง"}
+{"id":"brief_adj","th":"สั้น; กระชับ; ช่วงสั้นๆ","ex":"We had a brief meeting this morning.","exTh":"เรามีการประชุมสั้นๆ เมื่อเช้านี้"}
+{"id":"entry_noun","th":"ทางเข้า; การเข้า; รายการที่บันทึก","ex":"No entry without a ticket.","exTh":"ห้ามเข้าหากไม่มีตั๋ว"}
+{"id":"edge_noun","th":"ขอบ; ริม; ส่วนปลาย","ex":"Don't stand too close to the edge.","exTh":"อย่ายืนใกล้ขอบเกินไป"}
+{"id":"global_adj","th":"ทั่วโลก; ระดับโลก; โดยรวม","ex":"Climate change is a global problem.","exTh":"การเปลี่ยนแปลงสภาพภูมิอากาศเป็นปัญหาระดับโลก"}
+{"id":"experiment_noun","th":"การทดลอง; การทดสอบ","ex":"The students did an experiment in class.","exTh":"นักเรียนทำการทดลองในห้องเรียน"}
+{"id":"injury_noun","th":"บาดแผล; การบาดเจ็บ","ex":"He missed the game because of an injury.","exTh":"เขาพลาดการแข่งขันเพราะบาดเจ็บ"}
+{"id":"consumption_noun","th":"การบริโภค; การใช้","ex":"Energy consumption is rising every year.","exTh":"การใช้พลังงานเพิ่มขึ้นทุกปี"}
+{"id":"bond_noun","th":"ความผูกพัน; พันธบัตร; ข้อผูกมัด","ex":"There is a strong bond between the two sisters.","exTh":"สองพี่น้องมีความผูกพันกันอย่างแน่นแฟ้น"}
+{"id":"immediate_adj","th":"ทันที; ใกล้ชิด; เร่งด่วน","ex":"I need an immediate answer.","exTh":"ฉันต้องการคำตอบทันที"}
+{"id":"plus_conj","th":"และยัง; บวกกับ; อีกทั้ง","ex":"The room is cheap, plus it has a nice view.","exTh":"ห้องนี้ราคาถูก ซ้ำยังวิวสวยอีกด้วย","note":"ใช้ในภาษาพูด"}
+{"id":"bound_adj","th":"ต้องเป็น; จวนจะ; มุ่งหน้าไป","ex":"If you study hard, you are bound to pass.","exTh":"ถ้าตั้งใจเรียน คุณก็ต้องสอบผ่านแน่นอน","note":"be bound to = ต้องเป็นอย่างนั้นแน่"}
+{"id":"express_verb","th":"แสดงออก; บอก; พูดออกมา","ex":"It is hard to express my feelings in words.","exTh":"เป็นเรื่องยากที่จะบอกความรู้สึกของฉันเป็นคำพูด"}
+{"id":"properly_adv","th":"อย่างถูกต้อง; อย่างเหมาะสม; ให้ดี","ex":"The door doesn't close properly.","exTh":"ประตูปิดไม่สนิท"}
+{"id":"release_verb","th":"ปล่อย; ปล่อยตัว; เผยแพร่","ex":"The band will release a new album in June.","exTh":"วงดนตรีจะออกอัลบั้มใหม่ในเดือนมิถุนายน"}
+{"id":"block_verb","th":"กั้น; ขวาง; บล็อก","ex":"A truck blocked the road.","exTh":"รถบรรทุกขวางถนน"}
+{"id":"moreover_adv","th":"ยิ่งไปกว่านั้น; อีกทั้ง","ex":"The plan is cheap; moreover, it is easy to do.","exTh":"แผนนี้ราคาไม่แพง ยิ่งไปกว่านั้นยังทำง่ายอีกด้วย","note":"ภาษาทางการ"}
+{"id":"edition_noun","th":"ฉบับพิมพ์; ครั้งที่พิมพ์; รุ่น","ex":"I bought the latest edition of the dictionary.","exTh":"ฉันซื้อพจนานุกรมฉบับล่าสุด"}
+{"id":"excess_noun","th":"ส่วนเกิน; ความเกินพอดี","ex":"Drinking in excess is bad for you.","exTh":"การดื่มมากเกินไปไม่ดีต่อสุขภาพ"}
+{"id":"reality_noun","th":"ความเป็นจริง; ความจริง","ex":"In reality, the job was much harder.","exTh":"ในความเป็นจริง งานนั้นยากกว่ามาก"}
+{"id":"quantity_noun","th":"ปริมาณ; จำนวน","ex":"They bought a large quantity of rice.","exTh":"พวกเขาซื้อข้าวสารเป็นจำนวนมาก"}
+{"id":"layer_noun","th":"ชั้น; ชั้นบางๆ; ชั้นหนึ่ง","ex":"There is a thin layer of dust on the table.","exTh":"มีฝุ่นเกาะบางๆ บนโต๊ะ"}
+{"id":"proof_noun","th":"หลักฐาน; การพิสูจน์","ex":"Do you have proof of your address?","exTh":"คุณมีหลักฐานแสดงที่อยู่ของคุณไหม"}
+{"id":"liquid_adj","th":"เป็นของเหลว; ที่เป็นน้ำ","ex":"I prefer liquid soap to bar soap.","exTh":"ฉันชอบสบู่เหลวมากกว่าสบู่ก้อน"}
+{"id":"liquid_noun","th":"ของเหลว; น้ำ","ex":"Water is a liquid.","exTh":"น้ำเป็นของเหลว"}
+{"id":"advance_verb","th":"ก้าวหน้า; เดินหน้า; เลื่อนขึ้น","ex":"Technology advances very fast.","exTh":"เทคโนโลยีก้าวหน้าไปอย่างรวดเร็ว"}
+{"id":"affect_verb","th":"ส่งผลต่อ; กระทบ; มีผลกระทบ","ex":"The weather can affect your mood.","exTh":"สภาพอากาศอาจส่งผลต่ออารมณ์ของคุณ","note":"affect เป็นกริยา; effect เป็นคำนาม"}
+{"id":"typical_adj","th":"ทั่วไป; ธรรมดา; เป็นแบบฉบับ","ex":"This is a typical Thai breakfast.","exTh":"นี่เป็นอาหารเช้าแบบไทยทั่วไป"}
+{"id":"cancer_noun","th":"มะเร็ง","ex":"Regular check-ups can help find cancer early.","exTh":"การตรวจสุขภาพเป็นประจำช่วยให้พบมะเร็งได้เร็ว"}
+{"id":"wave_verb","th":"โบกมือ; โบก; พลิ้วไหว","ex":"The children waved at the train.","exTh":"เด็กๆ โบกมือให้รถไฟ"}
+{"id":"dependent_adj","th":"ขึ้นอยู่กับ; พึ่งพา","ex":"Small children are dependent on their parents.","exTh":"เด็กเล็กต้องพึ่งพาพ่อแม่"}
+{"id":"instruction_noun","th":"คำแนะนำ; คำสั่ง; ข้อปฏิบัติ","ex":"Please read the instructions carefully.","exTh":"กรุณาอ่านคำแนะนำให้ละเอียด","note":"มักใช้รูปพหูพจน์ instructions"}
+{"id":"mechanical_adj","th":"เชิงกล; เกี่ยวกับเครื่องจักร; เหมือนเครื่องจักร","ex":"The car has a mechanical problem.","exTh":"รถมีปัญหาเกี่ยวกับกลไก"}
+{"id":"proportion_noun","th":"สัดส่วน; ส่วน; อัตราส่วน","ex":"A large proportion of students come by bus.","exTh":"นักเรียนส่วนใหญ่มาโรงเรียนโดยรถเมล์"}
+{"id":"engine_noun","th":"เครื่องยนต์; หัวรถจักร","ex":"The engine of my car is very loud.","exTh":"เครื่องยนต์ของรถฉันเสียงดังมาก"}
+{"id":"channel_noun","th":"ช่อง (โทรทัศน์); ช่องทาง; ร่องน้ำ","ex":"Which channel is the football match on?","exTh":"แมตช์ฟุตบอลอยู่ช่องไหน"}
+{"id":"primarily_adv","th":"เป็นหลัก; โดยเฉพาะ; ส่วนใหญ่","ex":"The shop sells primarily second-hand books.","exTh":"ร้านนี้ขายหนังสือมือสองเป็นหลัก"}
+{"id":"arm_verb","th":"ติดอาวุธ; จัดหาอาวุธ","ex":"The police were armed with guns.","exTh":"ตำรวจติดอาวุธปืน"}
+{"id":"consumer_noun","th":"ผู้บริโภค; ลูกค้า","ex":"Consumers want lower prices.","exTh":"ผู้บริโภคต้องการราคาที่ถูกลง"}
+{"id":"document_noun","th":"เอกสาร; เอกสารสำคัญ; ไฟล์","ex":"Please bring all the necessary documents.","exTh":"กรุณานำเอกสารที่จำเป็นมาให้ครบ"}
+{"id":"philosophy_noun","th":"ปรัชญา; แนวคิด; หลักคิด","ex":"He studies philosophy at university.","exTh":"เขาเรียนปรัชญาที่มหาวิทยาลัย"}
+{"id":"settlement_noun","th":"การตกลง; การชำระ; ชุมชนที่ตั้งถิ่นฐาน","ex":"The two sides reached a settlement.","exTh":"ทั้งสองฝ่ายตกลงกันได้"}
+{"id":"cotton_noun","th":"ฝ้าย; ผ้าฝ้าย","ex":"I prefer cotton shirts in summer.","exTh":"ฉันชอบเสื้อผ้าฝ้ายในหน้าร้อน"}
+{"id":"marine_adj","th":"เกี่ยวกับทะเล; ทางทะเล","ex":"Marine life is rich around these islands.","exTh":"สิ่งมีชีวิตในทะเลรอบเกาะเหล่านี้มีมากมาย"}
+{"id":"delivery_noun","th":"การจัดส่ง; การส่งมอบ; การคลอด","ex":"Free delivery is available on orders over fifty dollars.","exTh":"จัดส่งฟรีเมื่อสั่งซื้อเกินห้าสิบดอลลาร์"}
+{"id":"closely_adv","th":"อย่างใกล้ชิด; อย่างละเอียด; ใกล้","ex":"Watch closely and you will learn.","exTh":"ดูให้ละเอียดแล้วคุณจะเรียนรู้ได้"}
+{"id":"mission_noun","th":"ภารกิจ; พันธกิจ; คณะทูต","ex":"The team completed its mission safely.","exTh":"ทีมทำภารกิจสำเร็จอย่างปลอดภัย"}
+{"id":"anti_adj","th":"ต่อต้าน; ปฏิปักษ์","ex":"He joined an anti-war protest.","exTh":"เขาเข้าร่วมการประท้วงต่อต้านสงคราม","note":"มักใช้เป็นคำหน้าคำ เช่น anti-war"}
+{"id":"aware_adj","th":"ตระหนัก; รู้; ทราบ","ex":"Are you aware of the problem?","exTh":"คุณรู้เรื่องปัญหานี้ไหม"}
+{"id":"approval_noun","th":"การอนุมัติ; ความเห็นชอบ; การยอมรับ","ex":"You need your boss's approval first.","exTh":"คุณต้องขออนุมัติจากเจ้านายก่อน"}
+{"id":"monthly_adj","th":"รายเดือน; ประจำเดือน","ex":"I pay a monthly fee for the gym.","exTh":"ฉันจ่ายค่าฟิตเนสเป็นรายเดือน"}
+{"id":"monthly_adv","th":"ทุกเดือน; เดือนละครั้ง","ex":"The magazine is published monthly.","exTh":"นิตยสารเล่มนี้ตีพิมพ์ทุกเดือน"}
+{"id":"continuous_adj","th":"ต่อเนื่อง; ไม่หยุด","ex":"We heard continuous noise all night.","exTh":"เราได้ยินเสียงดังต่อเนื่องทั้งคืน"}
+{"id":"device_noun","th":"อุปกรณ์; เครื่อง; เครื่องมือ","ex":"This device can charge two phones at once.","exTh":"อุปกรณ์นี้ชาร์จโทรศัพท์ได้สองเครื่องพร้อมกัน"}
+{"id":"rapid_adj","th":"รวดเร็ว; ฉับไว","ex":"The city has seen rapid growth.","exTh":"เมืองนี้เติบโตอย่างรวดเร็ว"}
+{"id":"minor_adj","th":"เล็กน้อย; ไม่สำคัญ; รอง","ex":"It was only a minor accident.","exTh":"มันเป็นแค่อุบัติเหตุเล็กน้อย"}
+{"id":"technique_noun","th":"เทคนิค; เทคนิคการทำ; วิธีการ","ex":"She taught me a new cooking technique.","exTh":"เธอสอนเทคนิคการทำอาหารแบบใหม่ให้ฉัน"}
+{"id":"ensure_verb","th":"ทำให้แน่ใจ; รับรอง; รับประกัน","ex":"Please ensure that all the doors are locked.","exTh":"กรุณาตรวจให้แน่ใจว่าประตูทุกบานล็อกแล้ว"}
+{"id":"contribution_noun","th":"การมีส่วนร่วม; เงินบริจาค; ผลงาน","ex":"Thank you for your contribution to the project.","exTh":"ขอบคุณที่ช่วยสนับสนุนโครงการ"}
+{"id":"protect_verb","th":"ปกป้อง; คุ้มครอง; ป้องกัน","ex":"Sunscreen protects your skin from the sun.","exTh":"ครีมกันแดดช่วยปกป้องผิวจากแสงแดด"}
+{"id":"electronic_adj","th":"อิเล็กทรอนิกส์; ทางอิเล็กทรอนิกส์","ex":"We sell electronic products at low prices.","exTh":"เราขายผลิตภัณฑ์อิเล็กทรอนิกส์ราคาถูก"}
+{"id":"recovery_noun","th":"การฟื้นตัว; การหายป่วย; การได้คืน","ex":"She made a quick recovery after surgery.","exTh":"เธอฟื้นตัวเร็วหลังผ่าตัด"}
+{"id":"assume_verb","th":"สันนิษฐาน; คิดว่า; ถือว่า","ex":"I assumed you knew about the party.","exTh":"ฉันนึกว่าคุณรู้เรื่องงานปาร์ตี้แล้ว"}
+{"id":"fit_verb","th":"พอดี; เข้ากัน; ใส่ได้","ex":"These shoes don't fit me.","exTh":"รองเท้าคู่นี้ใส่ไม่พอดีกับฉัน"}
+{"id":"leadership_noun","th":"ความเป็นผู้นำ; ภาวะผู้นำ; การนำ","ex":"Good leadership is important in a crisis.","exTh":"ภาวะผู้นำที่ดีสำคัญในช่วงวิกฤต"}
+{"id":"prove_verb","th":"พิสูจน์; ปรากฏว่า; แสดงให้เห็น","ex":"He proved that he was right.","exTh":"เขาพิสูจน์ได้ว่าตนเองถูก"}
+{"id":"identity_noun","th":"อัตลักษณ์; ตัวตน; ตัวบุคคล","ex":"The police do not know the thief's identity.","exTh":"ตำรวจไม่ทราบตัวตนของขโมย"}
+{"id":"severe_adj","th":"รุนแรง; ร้ายแรง; เข้มงวด","ex":"There was a severe storm last night.","exTh":"เมื่อคืนมีพายุรุนแรง"}
+{"id":"objective_noun","th":"วัตถุประสงค์; เป้าหมาย","ex":"Our main objective is to save money.","exTh":"เป้าหมายหลักของเราคือการประหยัดเงิน"}
+{"id":"rapidly_adv","th":"อย่างรวดเร็ว; ฉับไว","ex":"The situation is changing rapidly.","exTh":"สถานการณ์กำลังเปลี่ยนแปลงอย่างรวดเร็ว"}
+{"id":"membership_noun","th":"การเป็นสมาชิก; สมาชิกภาพ; จำนวนสมาชิก","ex":"Membership of the club costs fifty dollars a year.","exTh":"ค่าสมาชิกของสโมสรปีละห้าสิบดอลลาร์"}
+{"id":"opposite_adv","th":"ตรงข้าม; ฝั่งตรงข้าม","ex":"The bank is here, and the post office is just opposite.","exTh":"ธนาคารอยู่ตรงนี้ และที่ทำการไปรษณีย์อยู่ตรงข้ามพอดี"}
+{"id":"opposite_noun","th":"สิ่งตรงข้าม; ตรงกันข้าม","ex":"Hot is the opposite of cold.","exTh":"ร้อนเป็นสิ่งตรงข้ามกับเย็น"}
+{"id":"career_noun","th":"อาชีพ; เส้นทางอาชีพ","ex":"She wants a career in medicine.","exTh":"เธออยากประกอบอาชีพทางการแพทย์"}
+{"id":"pure_adj","th":"บริสุทธิ์; ล้วน; สะอาด","ex":"This ring is made of pure gold.","exTh":"แหวนวงนี้ทำจากทองคำบริสุทธิ์"}
+{"id":"apparent_adj","th":"เห็นได้ชัด; ปรากฏชัด; ดูเหมือน","ex":"It was apparent that he was upset.","exTh":"เห็นได้ชัดว่าเขาไม่พอใจ"}
+{"id":"formal_adj","th":"เป็นทางการ; ตามพิธีการ; สุภาพ","ex":"You need to wear formal clothes to the dinner.","exTh":"คุณต้องแต่งตัวเป็นทางการไปงานเลี้ยงมื้อค่ำ"}
+{"id":"battle_noun","th":"การรบ; การต่อสู้; สมรภูมิ","ex":"The soldiers fought a long battle.","exTh":"ทหารต่อสู้กันอย่างยาวนาน"}
+{"id":"soul_noun","th":"จิตวิญญาณ; วิญญาณ; ใจ","ex":"Music is food for the soul.","exTh":"ดนตรีเป็นอาหารสำหรับจิตวิญญาณ"}
+{"id":"sand_noun","th":"ทราย","ex":"The children played in the sand.","exTh":"เด็กๆ เล่นทราย"}
+{"id":"academic_adj","th":"ทางวิชาการ; เกี่ยวกับการศึกษา","ex":"She has excellent academic results.","exTh":"เธอมีผลการเรียนยอดเยี่ยม"}

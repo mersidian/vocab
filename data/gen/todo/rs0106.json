@@ -1,0 +1,879 @@
+[
+{
+"id": "in-spades_idiom",
+"w": "in spades",
+"kind": "idiom",
+"gloss": [
+"In large quantities; to a high degree; to excess, without restraint.",
+"Beyond doubt."
+]
+},
+{
+"id": "put-up-one-s-dukes_idiom",
+"w": "put up one's dukes",
+"kind": "idiom",
+"gloss": [
+"To raise one's clenched fists in front of one's body and stand in a threatening or defiant manner, in preparation for a fistfight.",
+"To take firm action or to show oneself to be committed to such action, as when competing in a sporting event or other contest."
+]
+},
+{
+"id": "eat-someone-out-of-house-and-home_idiom",
+"w": "eat someone out of house and home",
+"kind": "idiom",
+"gloss": [
+"To consume so much of someone's store of food that little or none is left for the owner."
+]
+},
+{
+"id": "hit-the-pavement_idiom",
+"w": "hit the pavement",
+"kind": "idiom",
+"gloss": [
+"To travel on foot, as on a sidewalk.",
+"To travel or begin to move in an automobile or other road vehicle."
+]
+},
+{
+"id": "give-face_idiom",
+"w": "give face",
+"kind": "idiom",
+"gloss": [
+"To honor; to pay respect.",
+"To perform cunnilingus."
+]
+},
+{
+"id": "let-slip_idiom",
+"w": "let slip",
+"kind": "idiom",
+"gloss": [
+"To divulge a secret, as by accident or mistake."
+]
+},
+{
+"id": "golden-hello_idiom",
+"w": "golden hello",
+"kind": "idiom",
+"gloss": [
+"A payment offered to an employee as an inducement to join, especially if currently working for a competitor."
+]
+},
+{
+"id": "in-the-dock_idiom",
+"w": "in the dock",
+"kind": "idiom",
+"gloss": [
+"Under accusation, scrutiny; subject to critical inspection."
+]
+},
+{
+"id": "in-character_idiom",
+"w": "in character",
+"kind": "idiom",
+"gloss": [
+"Acting as the character, not as oneself.",
+"Consistent with one's personality, or the typical behavior one is known for."
+]
+},
+{
+"id": "put-through-the-wringer_idiom",
+"w": "put through the wringer",
+"kind": "idiom",
+"gloss": [
+"To interrogate or scrutinize closely; to subject to some trial or ordeal."
+]
+},
+{
+"id": "corner-the-market_idiom",
+"w": "corner the market",
+"kind": "idiom",
+"gloss": [
+"To monopolize a resource or commodity, as with the intent of driving up prices.",
+"To have exclusive possession; to possess something to a high or excessive degree."
+]
+},
+{
+"id": "have-a-handle-on_idiom",
+"w": "have a handle on",
+"kind": "idiom",
+"gloss": [
+"To understand or grasp.",
+"To be in control of, to have power over."
+]
+},
+{
+"id": "have-it-made_idiom",
+"w": "have it made",
+"kind": "idiom",
+"gloss": [
+"To have accomplished all there is to do; to have no further work or difficulty.",
+"To have achieved a lifestyle characterized by good fortune and comfort."
+]
+},
+{
+"id": "sitting-pretty_idiom",
+"w": "sitting pretty",
+"kind": "idiom",
+"gloss": [
+"Having a comfortable or certain supply of money or resources.",
+"In a favorable situation, especially a situation in which one possesses an advantage."
+]
+},
+{
+"id": "under-the-gun_idiom",
+"w": "under the gun",
+"kind": "idiom",
+"gloss": [
+"Under great pressure to perform.",
+"Of, pertaining to, or in the situation of first player to act on the first round of betting."
+]
+},
+{
+"id": "too-big-for-one-s-britches_idiom",
+"w": "too big for one's britches",
+"kind": "idiom",
+"gloss": [
+"Disturbingly confident; unacceptably cocky.",
+"Used other than figuratively or idiomatically: Too large to fit into one's pants."
+]
+},
+{
+"id": "run-out-the-clock_idiom",
+"w": "run out the clock",
+"kind": "idiom",
+"gloss": [
+"To preserve a lead in a game by retaining possession, to waste time."
+]
+},
+{
+"id": "beat-the-shit-out-of_idiom",
+"w": "beat the shit out of",
+"kind": "idiom",
+"gloss": [
+"To beat (someone) severely.",
+"To defeat (someone) decisively in a fight or a competition."
+]
+},
+{
+"id": "my-eye_idiom",
+"w": "my eye",
+"kind": "idiom",
+"gloss": [
+"Expression of disapproval, disregard, disdain, disgust, or disbelief."
+]
+},
+{
+"id": "hard-as-nails_idiom",
+"w": "hard as nails",
+"kind": "idiom",
+"gloss": [
+"Very unsympathetic; callous.",
+"Able to endure difficulties; tough."
+]
+},
+{
+"id": "carbon-burning_idiom",
+"w": "carbon burning",
+"kind": "idiom",
+"gloss": [
+"The nucleosynthesis process, in stars of greater than 8 solar mass that have exhausted their helium supply, in which carbon is converted to neon, sodium, magnesium and other elements.",
+"Used other than figuratively or idiomatically: thermochemical oxidation of carbon."
+]
+},
+{
+"id": "oxygen-burning_idiom",
+"w": "oxygen burning",
+"kind": "idiom",
+"gloss": [
+"The nucleosynthesis process, subsequent to carbon burning, in which neon disintegrates to oxygen which subsequently fuses to form silicon, phosphorus sulfur and other elements of atomic number up to 40.",
+"Used other than figuratively or idiomatically: thermochemical combustion of diatomic oxygen gas."
+]
+},
+{
+"id": "get-off-the-ground_idiom",
+"w": "get off the ground",
+"kind": "idiom",
+"gloss": [
+"To succeed or begin to succeed.",
+"To make (something) succeed."
+]
+},
+{
+"id": "third-hand_idiom",
+"w": "third hand",
+"kind": "idiom",
+"gloss": [
+"Having been relayed by two intermediate sources.",
+"Not new, having more than one previous owner."
+]
+},
+{
+"id": "pissing-war_idiom",
+"w": "pissing war",
+"kind": "idiom",
+"gloss": [
+"An often vicious conflict in which combatants contend for dominance over certain territory.",
+"An immature dispute over some trivial matter."
+]
+},
+{
+"id": "on-the-brain_idiom",
+"w": "on the brain",
+"kind": "idiom",
+"gloss": [
+"Obsessively in mind."
+]
+},
+{
+"id": "take-the-fall_idiom",
+"w": "take the fall",
+"kind": "idiom",
+"gloss": [
+"To willingly lose a match, as in a fixed fight.",
+"To bear the blame or punishment for another person's failure or misdeed, either intentionally or not."
+]
+},
+{
+"id": "carry-one-s-weight_idiom",
+"w": "carry one's weight",
+"kind": "idiom",
+"gloss": [
+"To contribute or produce one's fair share, as of work, money, etc."
+]
+},
+{
+"id": "in-a-state_idiom",
+"w": "in a state",
+"kind": "idiom",
+"gloss": [
+"Agitated and anxious.",
+"Messed up; dilapidated."
+]
+},
+{
+"id": "get-taken-in_idiom",
+"w": "get taken in",
+"kind": "idiom",
+"gloss": [
+"To be fooled; to fall for.",
+"To be unofficially fostered."
+]
+},
+{
+"id": "shit-one-s-pants_idiom",
+"w": "shit one's pants",
+"kind": "idiom",
+"gloss": [
+"Synonym of crap one's pants.",
+"To fart profusely enough as to leave stains in one's underpants."
+]
+},
+{
+"id": "sing-like-a-bird_idiom",
+"w": "sing like a bird",
+"kind": "idiom",
+"gloss": [
+"To have a beautiful singing voice.",
+"To divulge secrets with little coercion."
+]
+},
+{
+"id": "mad-money_idiom",
+"w": "mad money",
+"kind": "idiom",
+"gloss": [
+"A sum of money, often relatively small in amount, kept in reserve to use for impulsive, frivolous purposes.",
+"A sum of money kept in reserve or to insulate oneself financially in the event of the sudden breakdown of a relationship in which one is economically dependent."
+]
+},
+{
+"id": "cooking-with-gas_idiom",
+"w": "cooking with gas",
+"kind": "idiom",
+"gloss": [
+"Functioning particularly effectively; achieving something substantial.",
+"Used other than figuratively or idiomatically: see cook, with, gas."
+]
+},
+{
+"id": "tickle-someone-s-funny-bone_idiom",
+"w": "tickle someone's funny bone",
+"kind": "idiom",
+"gloss": [
+"To amuse someone."
+]
+},
+{
+"id": "give-someone-enough-rope_idiom",
+"w": "give someone enough rope",
+"kind": "idiom",
+"gloss": [
+"To allow one to function unhindered, or without further overbearing oversight.",
+"To allow an enemy to function unhindered in the belief that they will end up harming or discrediting themself."
+]
+},
+{
+"id": "call-off-the-dogs_idiom",
+"w": "call off the dogs",
+"kind": "idiom",
+"gloss": [
+"To ease up on after inflicting great punishment.",
+"During a one-sided sports contest, to remove the first-string unit of a team from the game after dominating the opponent."
+]
+},
+{
+"id": "game-face_idiom",
+"w": "game face",
+"kind": "idiom",
+"gloss": [
+"The expression of one who is prepared for or is facing a lot of difficult and/or undesirable work, especially when it is imminent.",
+"A facial expression used to prevent giving away one's emotions."
+]
+},
+{
+"id": "buy-it_idiom",
+"w": "buy it",
+"kind": "idiom",
+"gloss": [
+"To die.",
+"To believe any particular assertion or idea; to support it."
+]
+},
+{
+"id": "have-got_idiom",
+"w": "have got",
+"kind": "idiom",
+"gloss": [
+"To have.",
+"To be obliged or obligated; must, have to, got to"
+]
+},
+{
+"id": "answer-on-a-postcard_idiom",
+"w": "answer on a postcard",
+"kind": "idiom",
+"gloss": [
+"A brief answer or opinion.",
+"Used other than figuratively or idiomatically: see answer, on, a, postcard."
+]
+},
+{
+"id": "stage-right_idiom",
+"w": "stage right",
+"kind": "idiom",
+"gloss": [
+"Located at stage right.",
+"Involving a change of whether one is involved in a situation."
+]
+},
+{
+"id": "alarums-and-excursions_idiom",
+"w": "alarums and excursions",
+"kind": "idiom",
+"gloss": [
+"All the sounds and activities of preparations for war.",
+"Any frantic activity."
+]
+},
+{
+"id": "get-busy_idiom",
+"w": "get busy",
+"kind": "idiom",
+"gloss": [
+"To cease to be idle and start working.",
+"To have sex."
+]
+},
+{
+"id": "lose-one-s-shirt_idiom",
+"w": "lose one's shirt",
+"kind": "idiom",
+"gloss": [
+"To lose all of one's money; to go broke; to undergo financial ruin or disaster."
+]
+},
+{
+"id": "kiss-and-tell_idiom",
+"w": "kiss and tell",
+"kind": "idiom",
+"gloss": [
+"To betray a confidence by disclosing private information, especially of a sexual nature."
+]
+},
+{
+"id": "fine-line_idiom",
+"w": "fine line",
+"kind": "idiom",
+"gloss": [
+"A difference, albeit vague and difficult to discern."
+]
+},
+{
+"id": "put-paid-to_idiom",
+"w": "put paid to",
+"kind": "idiom",
+"gloss": [
+"To put an end to.",
+"To terminate; to cancel (plans or expectations); to preclude (possibilities); to stop (something) once and for all."
+]
+},
+{
+"id": "call-it-a-night_idiom",
+"w": "call it a night",
+"kind": "idiom",
+"gloss": [
+"To go to bed to sleep.",
+"To cease what one has been doing for the night."
+]
+},
+{
+"id": "at-a-stand_idiom",
+"w": "at a stand",
+"kind": "idiom",
+"gloss": [
+"In a state of confusion or uncertainty; undecided what to do next.",
+"Not progressing; not changing; at a standstill; at an impasse."
+]
+},
+{
+"id": "put-one-foot-in-front-of-the-other_idiom",
+"w": "put one foot in front of the other",
+"kind": "idiom",
+"gloss": [
+"To walk, decomposed, to stress the fundamentality of the task.",
+"To move forward, progress steadily."
+]
+},
+{
+"id": "in-virtue-of_idiom",
+"w": "in virtue of",
+"kind": "idiom",
+"gloss": [
+"Synonym of by virtue of."
+]
+},
+{
+"id": "make-a-leg_idiom",
+"w": "make a leg",
+"kind": "idiom",
+"gloss": [
+"To make a deep bow with the right leg drawn back."
+]
+},
+{
+"id": "empty-suit_idiom",
+"w": "empty suit",
+"kind": "idiom",
+"gloss": [
+"An ineffective or incompetent person in a place of authority.",
+"A politician who has not fulfilled any campaign promises."
+]
+},
+{
+"id": "turn-the-page_idiom",
+"w": "turn the page",
+"kind": "idiom",
+"gloss": [
+"To move on to new involvements or activities; to make a fresh start.",
+"Used other than figuratively or idiomatically: To proceed to the next page in a book."
+]
+},
+{
+"id": "uphill-battle_idiom",
+"w": "uphill battle",
+"kind": "idiom",
+"gloss": [
+"A highly difficult task or problem that requires a great amount of effort and determination."
+]
+},
+{
+"id": "name-of-the-game_idiom",
+"w": "name of the game",
+"kind": "idiom",
+"gloss": [
+"The essential element (needed to reach the principal goal or objective); the overall purpose."
+]
+},
+{
+"id": "piece-of-work_idiom",
+"w": "piece of work",
+"kind": "idiom",
+"gloss": [
+"A product or manufactured article, especially an item of art or craft.",
+"A person who has a strong and unusual personality, especially one with seriously unpleasant character flaws."
+]
+},
+{
+"id": "all-set_idiom",
+"w": "all set",
+"kind": "idiom",
+"gloss": [
+"Ready, prepared, equipped.",
+"Not requiring initial or further assistance with, additions to, or use of something."
+]
+},
+{
+"id": "do-the-honors_idiom",
+"w": "do the honors",
+"kind": "idiom",
+"gloss": [
+"To act as a host to guests.",
+"To perform a duty."
+]
+},
+{
+"id": "play-for-love_idiom",
+"w": "play for love",
+"kind": "idiom",
+"gloss": [
+"To play a game of cards without stakes."
+]
+},
+{
+"id": "joe-job_idiom",
+"w": "joe job",
+"kind": "idiom",
+"gloss": [
+"An uninteresting, low-level, low-paying job.",
+"An act of e-mail spamming where the sender's identity and address are those of an innocent third party, intended either to tarnish that person's reputation or to flood that person's e-mail with bounces."
+]
+},
+{
+"id": "offer-one-can-t-refuse_idiom",
+"w": "offer one can't refuse",
+"kind": "idiom",
+"gloss": [
+"An offer from one side in a transaction with terms so attractive that the other side is almost guaranteed to accept.",
+"A threatening offer by one party for which the results of failing to accept are so unattractive that the other party is almost compelled to accept."
+]
+},
+{
+"id": "way-back-when_idiom",
+"w": "way back when",
+"kind": "idiom",
+"gloss": [
+"At a time in the distant past.",
+"At a time in the distant past."
+]
+},
+{
+"id": "go-the-distance_idiom",
+"w": "go the distance",
+"kind": "idiom",
+"gloss": [
+"To participate in a boxing match for its maximum number of rounds.",
+"To have the endurance to see a difficult, sustained challenge to its natural end without faltering."
+]
+},
+{
+"id": "at-all-hours_idiom",
+"w": "at all hours",
+"kind": "idiom",
+"gloss": [
+"At all times of the day; around the clock.",
+"Late into the night or early morning; when people ought to be sleeping."
+]
+},
+{
+"id": "wide-of-the-mark_idiom",
+"w": "wide of the mark",
+"kind": "idiom",
+"gloss": [
+"Of a projectile: missing the target.",
+"(Very) inaccurate."
+]
+},
+{
+"id": "dead-last_idiom",
+"w": "dead last",
+"kind": "idiom",
+"gloss": [
+"Finishing in last place in a competition or ranking, often by a considerable margin to the next to last place finisher or after an exceptionally poor showing or season."
+]
+},
+{
+"id": "bright-line-rule_idiom",
+"w": "bright-line rule",
+"kind": "idiom",
+"gloss": [
+"A clear-cut rule, so that it is easy to make a decision.",
+"A clearly defined rule or standard, composed of objective factors, which leaves little or no room for varying interpretation."
+]
+},
+{
+"id": "night-out_idiom",
+"w": "night out",
+"kind": "idiom",
+"gloss": [
+"Going away from one's usual residence for an entire night, and returning the next day.",
+"Spending the evening away from one's usual residence. The phrase typically implies going to a bar or restaurant, going to watch entertainment, or other types of nightlife."
+]
+},
+{
+"id": "lord-of-the-flies_idiom",
+"w": "lord of the flies",
+"kind": "idiom",
+"gloss": [
+"Beelzebub; Satan",
+"a ruler over a worthless kingdom; leader of a meaningless microcosm."
+]
+},
+{
+"id": "move-the-yardsticks_idiom",
+"w": "move the yardsticks",
+"kind": "idiom",
+"gloss": [
+"To move the chains.",
+"To make progress, as used in political and corporate venues to express proactive actions."
+]
+},
+{
+"id": "pencil-whip_idiom",
+"w": "pencil whip",
+"kind": "idiom",
+"gloss": [
+"To approve a document without actually knowing or reviewing what it is that is being approved.",
+"To complete a form, record, or document without having performed the implied work or without supporting data or evidence."
+]
+},
+{
+"id": "high-horse_idiom",
+"w": "high horse",
+"kind": "idiom",
+"gloss": [
+"An appearance or sense of smug superiority."
+]
+},
+{
+"id": "throw-shapes_idiom",
+"w": "throw shapes",
+"kind": "idiom",
+"gloss": [
+"To act tough or put up a front. For example, to threaten a person by making \"karate chops\" at them, without actually doing harm or knowing karate.",
+"To dance."
+]
+},
+{
+"id": "tired-and-emotional_idiom",
+"w": "tired and emotional",
+"kind": "idiom",
+"gloss": [
+"Drunk.",
+"Used other than figuratively or idiomatically: see tired, emotional."
+]
+},
+{
+"id": "cap-it-all-off_idiom",
+"w": "cap it all off",
+"kind": "idiom",
+"gloss": [
+"To finish or complete something; to add a finishing touch.",
+"To surpass or outdo something."
+]
+},
+{
+"id": "cold-shoulder_idiom",
+"w": "cold shoulder",
+"kind": "idiom",
+"gloss": [
+"A deliberate act of disrespect; a slight or snub."
+]
+},
+{
+"id": "business-girl_idiom",
+"w": "business girl",
+"kind": "idiom",
+"gloss": [
+"A young woman employed in business or office work.",
+"A female prostitute."
+]
+},
+{
+"id": "talk-trash_idiom",
+"w": "talk trash",
+"kind": "idiom",
+"gloss": [
+"To untruthfully speak of another in a belittling, deprecative, slighting manner, either in person or in absentia.",
+"To speak boastfully or tauntingly about oneself in contrast with another person or other people."
+]
+},
+{
+"id": "chinese-puzzle_idiom",
+"w": "Chinese puzzle",
+"kind": "idiom",
+"gloss": [
+"A kind of puzzle made of interlocking pieces that must be disassembled and reassembled.",
+"A senseless situation."
+]
+},
+{
+"id": "adrenaline-rush_idiom",
+"w": "adrenaline rush",
+"kind": "idiom",
+"gloss": [
+"A surge of strength and energy brought on by a dangerous situation, by, or as if by, adrenaline.",
+"An event or activity which causes such a state."
+]
+},
+{
+"id": "off-board_idiom",
+"w": "off board",
+"kind": "idiom",
+"gloss": [
+"Not on or in a means of transportation.",
+"Not participating."
+]
+},
+{
+"id": "break-one-s-duck_idiom",
+"w": "break one's duck",
+"kind": "idiom",
+"gloss": [
+"To score one's first run in an innings.",
+"To do something for the first time."
+]
+},
+{
+"id": "brown-power_idiom",
+"w": "brown power",
+"kind": "idiom",
+"gloss": [
+"The production of electricity made from conventional sources, such as coal, oil, natural gas and nuclear power.",
+"An ideology of solidarity among brown-skinned people."
+]
+},
+{
+"id": "let-one-s-hair-down_idiom",
+"w": "let one's hair down",
+"kind": "idiom",
+"gloss": [
+"To relax and enjoy oneself.",
+"Used other than figuratively or idiomatically: see let, one's, hair, down."
+]
+},
+{
+"id": "give-someone-the-boot_idiom",
+"w": "give someone the boot",
+"kind": "idiom",
+"gloss": [
+"To fire, sack, or eject someone.",
+"Used other than figuratively or idiomatically: see give, the, boot."
+]
+},
+{
+"id": "age-before-beauty_idiom",
+"w": "age before beauty",
+"kind": "idiom",
+"gloss": [
+"A phrase said to allow older people to go before younger ones."
+]
+},
+{
+"id": "sort-oneself-out_idiom",
+"w": "sort oneself out",
+"kind": "idiom",
+"gloss": [
+"To organize or solve one's personal problems.",
+"To calm down emotionally."
+]
+},
+{
+"id": "fresh-out-of_idiom",
+"w": "fresh out of",
+"kind": "idiom",
+"gloss": [
+"Having recently left one stage of life to begin another.",
+"Having completely exhausted one's supply of (a commodity); especially, having just run out recently."
+]
+},
+{
+"id": "by-one-s-own-hand_idiom",
+"w": "by one's own hand",
+"kind": "idiom",
+"gloss": [
+"As a result of one's own actions, especially with reference to death by suicide."
+]
+},
+{
+"id": "horse-s-ass_idiom",
+"w": "horse's ass",
+"kind": "idiom",
+"gloss": [
+"A jerk; an unpleasant, unlikable person; an asshole.",
+"A thing or person which is visually unappealing."
+]
+},
+{
+"id": "sweet-fuck-all_idiom",
+"w": "sweet fuck all",
+"kind": "idiom",
+"gloss": [
+"Fuck all.",
+"Fuck all."
+]
+},
+{
+"id": "bang-to-rights_idiom",
+"w": "bang to rights",
+"kind": "idiom",
+"gloss": [
+"Red-handed, (caught) in the act.",
+"Used other than figuratively or idiomatically: see bang (adverb), to rights."
+]
+},
+{
+"id": "me-three_idiom",
+"w": "me three",
+"kind": "idiom",
+"gloss": [
+"Used to express agreement, after someone has already said \"me too\". Can be continued as \"me four\", \"me five\", and so on.",
+"An expression of support to a position that has already been proposed and seconded after someone has already said \"me too\". Can be continued as me four, me five, and so on."
+]
+},
+{
+"id": "rag-bagger_idiom",
+"w": "rag bagger",
+"kind": "idiom",
+"gloss": [
+"A sailor who tends to sail on messy cruising vessels.",
+"A sailboat, usually a cruising sailboat tending to carry and store lots of supplies along the deck, or any sailboat that looks neglected or messy."
+]
+},
+{
+"id": "mouth-breather_idiom",
+"w": "mouth breather",
+"kind": "idiom",
+"gloss": [
+"A person who routinely inhales and exhales through the mouth, instead of through the nose.",
+"A person who is boorish, stupid, or otherwise unattractive."
+]
+},
+{
+"id": "out-of-gas_idiom",
+"w": "out of gas",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see out of, gas.: lacking fuel.",
+"Tired; lacking energy or motivation."
+]
+},
+{
+"id": "put-the-clock-back_idiom",
+"w": "put the clock back",
+"kind": "idiom",
+"gloss": [
+"To change the time in a time zone to an earlier time, e.g. for the end of daylight saving time.",
+"To put something back to the state it was in a previous era."
+]
+},
+{
+"id": "comfort-girl_idiom",
+"w": "comfort girl",
+"kind": "idiom",
+"gloss": [
+"A female sex slave; prostitute.",
+"A girl or woman who wears comfortable clothes."
+]
+}
+]

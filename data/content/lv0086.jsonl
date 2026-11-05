@@ -1,0 +1,100 @@
+{"id":"convoluted_adj","th":"ซับซ้อนวกวน; ยุ่งเหยิง; พันกันยุ่ง","ex":"The story had a convoluted plot that confused me.","exTh":"เรื่องนี้มีโครงเรื่องซับซ้อนวกวนจนฉันงง"}
+{"id":"exhilarating_adj","th":"ตื่นเต้นเร้าใจ; สนุกสดชื่น","ex":"Riding the roller coaster was an exhilarating experience.","exTh":"การนั่งรถไฟเหาะเป็นประสบการณ์ที่ตื่นเต้นเร้าใจ"}
+{"id":"devotee_noun","th":"สาวก; ผู้คลั่งไคล้; ผู้ศรัทธา","ex":"He is a devotee of classical music.","exTh":"เขาเป็นผู้หลงใหลดนตรีคลาสสิก"}
+{"id":"antics_noun","th":"การกระทำตลกโปกฮา; พฤติกรรมซนๆ","ex":"The children laughed at the clown's antics.","exTh":"เด็กๆ หัวเราะกับท่าทางตลกๆ ของตัวตลก","note":"ใช้เป็นพหูพจน์"}
+{"id":"artistically_adv","th":"อย่างมีศิลปะ; ในทางศิลปะ","ex":"The cakes were artistically arranged on the plate.","exTh":"เค้กถูกจัดวางบนจานอย่างมีศิลปะ"}
+{"id":"enviable_adv","th":"อย่างน่าอิจฉา","ex":"The singer is enviably talented and kind.","exTh":"นักร้องคนนี้มีความสามารถและใจดีอย่างน่าอิจฉา","note":"รูปคุณศัพท์คือ enviable ส่วนรูปกริยาวิเศษณ์คือ enviably"}
+{"id":"suitor_noun","th":"ผู้มาติดพัน; ผู้ชายที่มาจีบ; ผู้เสนอซื้อกิจการ","ex":"She had many suitors but married none of them.","exTh":"เธอมีผู้ชายมาจีบมากมายแต่ไม่ได้แต่งงานกับใครเลย"}
+{"id":"docile_adj","th":"เชื่อง; ว่านอนสอนง่าย","ex":"The horse is gentle and docile.","exTh":"ม้าตัวนี้อ่อนโยนและเชื่อง"}
+{"id":"showy_adj","th":"ฉูดฉาด; โอ้อวด; สะดุดตา","ex":"She wore a showy red hat to the wedding.","exTh":"เธอสวมหมวกสีแดงฉูดฉาดไปงานแต่งงาน"}
+{"id":"frosty_adj","th":"หนาวจัดมีน้ำค้างแข็ง; เย็นชา","ex":"It was a frosty morning, and the grass was white.","exTh":"เช้านั้นหนาวจัดมีน้ำค้างแข็ง หญ้าเป็นสีขาว"}
+{"id":"crudely_adv","th":"อย่างหยาบๆ; อย่างหยาบคาย","ex":"The sign was crudely painted on a board.","exTh":"ป้ายนั้นถูกทาสีอย่างหยาบๆ บนแผ่นไม้"}
+{"id":"harass_verb","th":"คุกคาม; รังควาน; กวนใจ","ex":"Reporters harassed the family day and night.","exTh":"นักข่าวรังควานครอบครัวนี้ทั้งกลางวันและกลางคืน"}
+{"id":"cleanly_adv","th":"อย่างสะอาด; อย่างเรียบร้อย; อย่างตรงไปตรงมา","ex":"The knife cut the bread cleanly.","exTh":"มีดตัดขนมปังได้เรียบสะอาด"}
+{"id":"sentient_adj","th":"มีความรู้สึก; มีจิตสำนึก","ex":"Some people believe animals are sentient beings.","exTh":"บางคนเชื่อว่าสัตว์เป็นสิ่งมีชีวิตที่มีความรู้สึก"}
+{"id":"churn_verb","th":"ปั่น; กวน; ปั่นป่วน","ex":"The waves churned under the boat.","exTh":"คลื่นปั่นป่วนอยู่ใต้เรือ"}
+{"id":"hypocritical_adj","th":"หน้าไหว้หลังหลอก; สองหน้า","ex":"It is hypocritical to tell others to save water and then waste it.","exTh":"การบอกให้คนอื่นประหยัดน้ำแล้วตัวเองสิ้นเปลืองเป็นเรื่องหน้าไหว้หลังหลอก"}
+{"id":"bequeath_verb","th":"ยกมรดกให้; ทิ้งไว้ให้ (เป็นมรดก)","ex":"He bequeathed his house to his daughter.","exTh":"เขายกบ้านให้ลูกสาวเป็นมรดก","note":"ภาษาทางการ ใช้ในเอกสารกฎหมาย"}
+{"id":"lavatory_noun","th":"ห้องน้ำ; ส้วม; โถส้วม","ex":"Where is the lavatory, please?","exTh":"ขอโทษค่ะ ห้องน้ำอยู่ที่ไหนคะ","note":"สำนวนอังกฤษแบบสุภาพ"}
+{"id":"uneventful_adj","th":"ไม่มีอะไรเกิดขึ้น; เรียบๆ; ราบรื่น","ex":"Our trip was long but uneventful.","exTh":"การเดินทางของเรายาวนานแต่ราบรื่นไม่มีอะไรเกิดขึ้น"}
+{"id":"aesthetically_adv","th":"ในแง่สุนทรียภาพ; อย่างมีความงาม","ex":"The room is aesthetically pleasing.","exTh":"ห้องนี้สวยงามถูกใจในแง่สุนทรียภาพ"}
+{"id":"verandah_noun","th":"ระเบียง; เฉลียงบ้าน","ex":"We drank tea on the verandah in the evening.","exTh":"เรานั่งจิบชาที่เฉลียงบ้านตอนเย็น","note":"สะกดทั่วไปคือ veranda"}
+{"id":"sprawl_noun","th":"การขยายตัวอย่างไร้ระเบียบ; การนอนแผ่","ex":"Urban sprawl is a problem in many big cities.","exTh":"การขยายตัวของเมืองอย่างไร้ระเบียบเป็นปัญหาในหลายเมืองใหญ่"}
+{"id":"sprawl_verb","th":"นอนแผ่หลา; แผ่กระจาย","ex":"He sprawled on the sofa after work.","exTh":"เขานอนแผ่หลาบนโซฟาหลังเลิกงาน"}
+{"id":"confide_verb","th":"ไว้วางใจเล่าความลับ; ไว้ใจบอก","ex":"She confided in her sister about the problem.","exTh":"เธอเล่าปัญหาให้พี่สาวฟังอย่างไว้ใจ","note":"มักใช้ confide in someone"}
+{"id":"exuberance_noun","th":"ความร่าเริงเปี่ยมล้น; ความมีชีวิตชีวา","ex":"The children ran with joyful exuberance.","exTh":"เด็กๆ วิ่งไปด้วยความร่าเริงเปี่ยมล้น"}
+{"id":"fanatic_noun","th":"ผู้คลั่งไคล้; ผู้ที่ศรัทธาจนเกินเหตุ","ex":"My brother is a football fanatic.","exTh":"พี่ชายของฉันเป็นคนคลั่งฟุตบอล"}
+{"id":"fanatic_adj","th":"คลั่งไคล้; ที่ศรัทธาจนเกินเหตุ","ex":"He is a fanatic supporter of the team.","exTh":"เขาเป็นแฟนคลับสุดคลั่งของทีมนี้"}
+{"id":"overdraft_verb","th":"เบิกเงินเกินบัญชี","ex":"Be careful not to overdraft your account.","exTh":"ระวังอย่าเบิกเงินเกินบัญชีของคุณ","note":"ใช้เป็นกริยาไม่บ่อย มักใช้เป็นคำนาม"}
+{"id":"overdraft_noun","th":"การเบิกเงินเกินบัญชี; วงเงินเบิกเกินบัญชี","ex":"The bank gave him a small overdraft.","exTh":"ธนาคารให้วงเงินเบิกเกินบัญชีเขาเล็กน้อย"}
+{"id":"plausibly_adv","th":"อย่างน่าเชื่อ; อย่างมีเหตุผล","ex":"He plausibly explained why he was late.","exTh":"เขาอธิบายอย่างน่าเชื่อว่าทำไมมาสาย"}
+{"id":"magnetically_adv","th":"ด้วยแรงแม่เหล็ก; อย่างดึงดูดใจ","ex":"The two parts are held together magnetically.","exTh":"ชิ้นส่วนสองชิ้นนี้ยึดติดกันด้วยแม่เหล็ก"}
+{"id":"credential_noun","th":"คุณสมบัติ; หลักฐานรับรอง; ข้อมูลล็อกอิน","ex":"Her teaching credentials are very strong.","exTh":"คุณวุฒิด้านการสอนของเธอแข็งแกร่งมาก","note":"มักใช้พหูพจน์ credentials"}
+{"id":"ploy_noun","th":"กลอุบาย; เล่ห์กล","ex":"The free gift was just a ploy to get customers.","exTh":"ของแถมฟรีเป็นแค่กลอุบายเพื่อดึงลูกค้า"}
+{"id":"sarcastically_adv","th":"อย่างประชดประชัน; อย่างเสียดสี","ex":"\"Great job,\" he said sarcastically.","exTh":"\"เก่งมาก\" เขาพูดประชด"}
+{"id":"scrutinize_verb","th":"พิจารณาอย่างละเอียด; ตรวจสอบอย่างถี่ถ้วน","ex":"The officer scrutinized my passport carefully.","exTh":"เจ้าหน้าที่ตรวจหนังสือเดินทางของฉันอย่างละเอียด"}
+{"id":"cleverness_noun","th":"ความฉลาด; ความเฉลียวฉลาด","ex":"We admired the cleverness of her answer.","exTh":"เราชื่นชมความฉลาดในคำตอบของเธอ"}
+{"id":"fiend_noun","th":"ปีศาจ; คนโหดร้าย; คนที่คลั่งไคล้","ex":"He is a coffee fiend and drinks six cups a day.","exTh":"เขาติดกาแฟงอมแงมและดื่มวันละหกแก้ว"}
+{"id":"rustle_verb","th":"ส่งเสียงกรอบแกรบ; ทำเสียงเสียดสี","ex":"The leaves rustled in the wind.","exTh":"ใบไม้ส่งเสียงกรอบแกรบตามลม"}
+{"id":"rustle_noun","th":"เสียงกรอบแกรบ; เสียงเสียดสีเบาๆ","ex":"I heard a rustle behind the door.","exTh":"ฉันได้ยินเสียงกรอบแกรบอยู่หลังประตู"}
+{"id":"candidly_adv","th":"อย่างตรงไปตรงมา; อย่างเปิดเผย","ex":"She candidly admitted that she was wrong.","exTh":"เธอยอมรับตรงๆ ว่าตัวเองผิด"}
+{"id":"roundup_noun","th":"การสรุปข่าว; การต้อนฝูงสัตว์; การรวบรวมตัว","ex":"I read a roundup of today's news every morning.","exTh":"ฉันอ่านสรุปข่าววันนี้ทุกเช้า"}
+{"id":"dutifully_adv","th":"อย่างเชื่อฟัง; อย่างทำตามหน้าที่","ex":"He dutifully called his mother every Sunday.","exTh":"เขาโทรหาแม่ทุกวันอาทิตย์ตามหน้าที่"}
+{"id":"connoisseur_noun","th":"ผู้เชี่ยวชาญด้านรสนิยม; นักชิม; ผู้รู้ลึก","ex":"My uncle is a connoisseur of fine wine.","exTh":"ลุงของฉันเป็นผู้เชี่ยวชาญด้านไวน์ชั้นดี"}
+{"id":"elude_verb","th":"หลบหนี; หนีไม่พ้น; นึกไม่ออก","ex":"The thief eluded the police for months.","exTh":"โจรหลบหนีตำรวจได้หลายเดือน"}
+{"id":"elitist_noun","th":"ผู้นิยมชนชั้นสูง; ผู้ถือตัวว่าเหนือกว่า","ex":"He is an elitist who looks down on ordinary people.","exTh":"เขาเป็นคนถือตัวที่ดูถูกคนธรรมดา"}
+{"id":"crumb_noun","th":"เศษขนมปัง; เศษเล็กเศษน้อย","ex":"There were crumbs all over the table.","exTh":"มีเศษขนมปังกระจายอยู่เต็มโต๊ะ"}
+{"id":"riveting_adj","th":"น่าติดตาม; ดึงดูดความสนใจมาก","ex":"The book was so riveting that I couldn't put it down.","exTh":"หนังสือเล่มนี้น่าติดตามจนฉันวางไม่ลง"}
+{"id":"implicate_verb","th":"พัวพัน; ทำให้เกี่ยวข้อง; ชี้ว่ามีส่วนร่วม","ex":"The report implicates several officials in the scandal.","exTh":"รายงานชี้ว่าเจ้าหน้าที่หลายคนมีส่วนพัวพันกับเรื่องอื้อฉาว"}
+{"id":"dutiful_adj","th":"เชื่อฟัง; ทำตามหน้าที่; กตัญญู","ex":"She is a dutiful daughter who visits her parents often.","exTh":"เธอเป็นลูกสาวที่กตัญญูและไปเยี่ยมพ่อแม่บ่อยๆ"}
+{"id":"proliferate_verb","th":"เพิ่มจำนวนอย่างรวดเร็ว; แพร่หลาย","ex":"Coffee shops have proliferated in this city.","exTh":"ร้านกาแฟเพิ่มจำนวนขึ้นอย่างรวดเร็วในเมืองนี้"}
+{"id":"paternalistic_adj","th":"แบบพ่อปกครองลูก; ชอบดูแลจนก้าวก่าย","ex":"The manager has a paternalistic attitude toward staff.","exTh":"ผู้จัดการมีทัศนคติแบบพ่อปกครองลูกต่อพนักงาน"}
+{"id":"stuffy_adj","th":"อบอ้าว; อึดอัด; เคร่งครัดเกินไป","ex":"The room was hot and stuffy.","exTh":"ห้องร้อนและอบอ้าว"}
+{"id":"resonate_verb","th":"ก้องกังวาน; โดนใจ; สะท้อนความรู้สึก","ex":"His message resonated with young people.","exTh":"สารของเขาโดนใจคนหนุ่มสาว"}
+{"id":"scornful_adj","th":"เหยียดหยาม; ดูหมิ่น","ex":"She gave him a scornful look.","exTh":"เธอมองเขาด้วยสายตาเหยียดหยาม"}
+{"id":"naturalness_noun","th":"ความเป็นธรรมชาติ; ความไม่เสแสร้ง","ex":"I liked the naturalness of her acting.","exTh":"ฉันชอบความเป็นธรรมชาติในการแสดงของเธอ"}
+{"id":"dislodge_verb","th":"ทำให้หลุด; ขยับออก; ขับไล่","ex":"He used a stick to dislodge the stone.","exTh":"เขาใช้ไม้งัดก้อนหินให้หลุดออก"}
+{"id":"hibernation_noun","th":"การจำศีล (ในฤดูหนาว)","ex":"Bears go into hibernation in winter.","exTh":"หมีเข้าสู่การจำศีลในฤดูหนาว"}
+{"id":"undaunted_adj","th":"ไม่ย่อท้อ; ไม่หวั่นเกรง","ex":"She was undaunted by the difficult task.","exTh":"เธอไม่ย่อท้อต่องานที่ยาก"}
+{"id":"quirk_noun","th":"นิสัยแปลกๆ; ความประหลาดเฉพาะตัว","ex":"One of his quirks is eating dessert first.","exTh":"นิสัยแปลกอย่างหนึ่งของเขาคือกินของหวานก่อน"}
+{"id":"insubordination_noun","th":"การไม่เชื่อฟังผู้บังคับบัญชา; การขัดคำสั่ง","ex":"He was fired for insubordination.","exTh":"เขาถูกไล่ออกเพราะขัดคำสั่งผู้บังคับบัญชา"}
+{"id":"innovate_verb","th":"คิดค้นสิ่งใหม่; สร้างนวัตกรรม","ex":"Companies must innovate to stay ahead.","exTh":"บริษัทต้องคิดค้นสิ่งใหม่เพื่อให้ก้าวนำหน้า"}
+{"id":"unsustainable_adj","th":"ไม่ยั่งยืน; ไม่อาจดำเนินต่อไปได้","ex":"This level of spending is unsustainable.","exTh":"การใช้จ่ายระดับนี้ไม่ยั่งยืน"}
+{"id":"incisor_noun","th":"ฟันหน้า; ฟันตัด","ex":"The baby got his first incisor today.","exTh":"วันนี้เด็กน้อยมีฟันหน้าซี่แรกขึ้น"}
+{"id":"strapping_adj","th":"กำยำ; แข็งแรงสูงใหญ่","ex":"He grew into a strapping young man.","exTh":"เขาเติบโตเป็นชายหนุ่มร่างกำยำ"}
+{"id":"stagger_verb","th":"เดินโซเซ; ทำให้ตะลึง; เหลื่อมเวลา","ex":"He staggered home after the long hike.","exTh":"เขาเดินโซเซกลับบ้านหลังจากเดินป่ายาวนาน"}
+{"id":"tactful_adj","th":"รอบคอบพูดจาไพเราะ; มีไหวพริบ","ex":"She gave a tactful answer to the rude question.","exTh":"เธอตอบคำถามหยาบคายอย่างมีไหวพริบและสุภาพ"}
+{"id":"disquieting_adj","th":"น่าวิตก; ที่ทำให้ไม่สบายใจ","ex":"The doctor gave us some disquieting news.","exTh":"หมอบอกข่าวที่น่ากังวลกับเรา"}
+{"id":"dominantly_adv","th":"อย่างโดดเด่น; เป็นส่วนใหญ่","ex":"The region is dominantly agricultural.","exTh":"ภูมิภาคนี้ส่วนใหญ่ประกอบอาชีพเกษตรกรรม"}
+{"id":"unwavering_adj","th":"แน่วแน่; มั่นคงไม่เปลี่ยน","ex":"He has an unwavering belief in his team.","exTh":"เขามีความเชื่อมั่นในทีมอย่างแน่วแน่"}
+{"id":"unconvincing_adj","th":"ไม่น่าเชื่อ; ไม่มีน้ำหนัก","ex":"His excuse sounded unconvincing.","exTh":"ข้ออ้างของเขาฟังดูไม่น่าเชื่อ"}
+{"id":"temperamental_adj","th":"อารมณ์แปรปรวน; เจ้าอารมณ์; ทำงานไม่แน่นอน","ex":"The old printer is very temperamental.","exTh":"เครื่องพิมพ์เก่าเครื่องนี้ทำงานไม่แน่นอนเอาแต่ใจมาก"}
+{"id":"salve_noun","th":"ยาทา; ขี้ผึ้ง; สิ่งปลอบใจ","ex":"She put a salve on the burn.","exTh":"เธอทายาขี้ผึ้งที่แผลไฟไหม้"}
+{"id":"munch_verb","th":"เคี้ยวดังกรุบกรับ; เคี้ยวอย่างเพลิดเพลิน","ex":"The kids munched popcorn during the movie.","exTh":"เด็กๆ นั่งเคี้ยวป็อปคอร์นระหว่างดูหนัง"}
+{"id":"aimlessly_adv","th":"อย่างไร้จุดหมาย; อย่างเรื่อยเปื่อย","ex":"He wandered aimlessly through the streets.","exTh":"เขาเดินเร่ร่อนไปตามถนนอย่างไร้จุดหมาย"}
+{"id":"sauna_noun","th":"ห้องซาวน่า; ห้องอบไอน้ำ","ex":"After swimming, we relaxed in the sauna.","exTh":"หลังว่ายน้ำ เราผ่อนคลายในห้องซาวน่า"}
+{"id":"unmanageable_adj","th":"จัดการไม่ได้; ควบคุมไม่ได้","ex":"The workload became unmanageable.","exTh":"ปริมาณงานกลายเป็นสิ่งที่จัดการไม่ไหว"}
+{"id":"gusto_noun","th":"ความกระตือรือร้น; ความเพลิดเพลินอย่างเต็มที่","ex":"They sang with great gusto.","exTh":"พวกเขาร้องเพลงอย่างเต็มที่และมีชีวิตชีวา"}
+{"id":"wryly_adv","th":"อย่างขำขื่น; อย่างเหน็บแนมอารมณ์ขัน","ex":"He smiled wryly and shook his head.","exTh":"เขายิ้มอย่างขำขื่นแล้วส่ายหน้า"}
+{"id":"persuasively_adv","th":"อย่างโน้มน้าวใจ; อย่างมีน้ำหนัก","ex":"She argued persuasively for a shorter work week.","exTh":"เธอโต้แย้งอย่างโน้มน้าวใจให้ลดวันทำงานในสัปดาห์"}
+{"id":"scathing_adj","th":"เสียดแทง; รุนแรง; วิจารณ์เจ็บแสบ","ex":"The critic wrote a scathing review of the play.","exTh":"นักวิจารณ์เขียนรีวิวละครเรื่องนี้อย่างเจ็บแสบ"}
+{"id":"fiddler_noun","th":"นักไวโอลิน; คนเล่นซอ","ex":"A fiddler played at the village party.","exTh":"นักไวโอลินคนหนึ่งเล่นดนตรีในงานเลี้ยงหมู่บ้าน"}
+{"id":"naively_adv","th":"อย่างไร้เดียงสา; อย่างซื่อๆ","ex":"I naively believed everything he said.","exTh":"ฉันเชื่อทุกอย่างที่เขาพูดอย่างซื่อๆ"}
+{"id":"retrace_verb","th":"ย้อนรอย; ย้อนกลับไปตามเส้นทางเดิม","ex":"We retraced our steps to find the lost key.","exTh":"เราเดินย้อนรอยเดิมเพื่อหากุญแจที่หายไป"}
+{"id":"hypocrite_noun","th":"คนหน้าไหว้หลังหลอก; คนสองหน้า","ex":"Don't be a hypocrite and do what you say.","exTh":"อย่าเป็นคนสองหน้า ทำตามที่พูดสิ"}
+{"id":"effortless_adj","th":"ง่ายดาย; ไม่ต้องออกแรง; ไร้ที่ติ","ex":"The dancer made the jump look effortless.","exTh":"นักเต้นทำให้การกระโดดดูง่ายดายราวกับไม่ต้องออกแรง"}
+{"id":"viciously_adv","th":"อย่างดุร้าย; อย่างโหดเหี้ยม","ex":"The dog barked viciously at the stranger.","exTh":"สุนัขเห่าใส่คนแปลกหน้าอย่างดุร้าย"}
+{"id":"exhilaration_noun","th":"ความตื่นเต้นเบิกบาน; ความสดชื่นร่าเริง","ex":"She felt exhilaration at the top of the mountain.","exTh":"เธอรู้สึกตื่นเต้นเบิกบานเมื่ออยู่บนยอดเขา"}
+{"id":"stiffen_verb","th":"แข็งทื่อ; ตึงเครียด; เกร็ง","ex":"He stiffened when he heard the strange noise.","exTh":"เขาตัวแข็งทื่อเมื่อได้ยินเสียงแปลกๆ"}
+{"id":"buzzer_noun","th":"สัญญาณเสียงบัซเซอร์; กริ่ง","ex":"Press the buzzer if you know the answer.","exTh":"กดกริ่งถ้าคุณรู้คำตอบ"}
+{"id":"detestable_adj","th":"น่ารังเกียจ; น่าชัง","ex":"His detestable behavior upset everyone.","exTh":"พฤติกรรมน่ารังเกียจของเขาทำให้ทุกคนไม่พอใจ"}
+{"id":"climactic_adj","th":"ถึงจุดสูงสุด; ที่เป็นไคลแมกซ์","ex":"The climactic scene is at the end of the film.","exTh":"ฉากไคลแมกซ์อยู่ตอนท้ายของภาพยนตร์"}
+{"id":"inexcusable_adj","th":"ไม่อาจให้อภัยได้; ไม่มีข้อแก้ตัว","ex":"Being late again is inexcusable.","exTh":"การมาสายอีกครั้งเป็นสิ่งที่อภัยให้ไม่ได้"}
+{"id":"engrossing_adj","th":"น่าติดตามจนลืมเวลา; ดึงดูดความสนใจ","ex":"It was an engrossing story from start to end.","exTh":"เป็นเรื่องราวที่ดึงดูดความสนใจตั้งแต่ต้นจนจบ"}
+{"id":"aimless_adj","th":"ไร้จุดหมาย; ล่องลอย","ex":"He led an aimless life after school.","exTh":"เขาใช้ชีวิตอย่างไร้จุดหมายหลังเรียนจบ"}
+{"id":"staccato_adj","th":"ขาดเป็นห้วงๆ; สั้นห้วน; (ดนตรี) สั้นกระชับ","ex":"He spoke in short, staccato sentences.","exTh":"เขาพูดเป็นประโยคสั้นๆ ห้วนๆ"}
+{"id":"staccato_adv","th":"อย่างสั้นกระชับ; อย่างขาดเป็นห้วงๆ","ex":"The notes should be played staccato.","exTh":"ควรบรรเลงโน้ตเหล่านี้แบบสั้นกระชับ"}
+{"id":"nondescript_adj","th":"ธรรมดาไม่โดดเด่น; ไม่มีลักษณะเฉพาะ","ex":"He wore a nondescript grey jacket.","exTh":"เขาสวมแจ็กเก็ตสีเทาธรรมดาๆ"}
+{"id":"cynic_noun","th":"คนมองโลกในแง่ร้าย; คนขี้สงสัย","ex":"Don't be such a cynic; people can be kind.","exTh":"อย่าเป็นคนมองโลกแง่ร้ายนักเลย คนเราก็ใจดีได้"}
+{"id":"billiards_noun","th":"เกมบิลเลียด; สนุกเกอร์","ex":"They played billiards in the club every Friday.","exTh":"พวกเขาเล่นบิลเลียดที่สโมสรทุกวันศุกร์","note":"ใช้เป็นพหูพจน์"}
+{"id":"obscurely_adv","th":"อย่างคลุมเครือ; อย่างเลือนราง","ex":"The note was obscurely worded and hard to understand.","exTh":"ข้อความในโน้ตเขียนอย่างคลุมเครือจนเข้าใจยาก"}

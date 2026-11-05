@@ -1,0 +1,602 @@
+[
+{
+"id": "question-mark_noun",
+"w": "question mark",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "remote-control_noun",
+"w": "remote control",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "science-fiction_noun",
+"w": "science fiction",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "second-hand_adj",
+"w": "second-hand",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "second-hand_adv",
+"w": "second-hand",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "secondary-school_noun",
+"w": "secondary school",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "self-service_adj",
+"w": "self-service",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "snowboard_noun",
+"w": "snowboard",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "soap-opera_noun",
+"w": "soap opera",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "social-networking_noun",
+"w": "social networking",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "traffic-jam_noun",
+"w": "traffic jam",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "travel-agent_noun",
+"w": "travel agent",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "up-to-date_adj",
+"w": "up-to-date",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "used-to_modal",
+"w": "used to",
+"pos": "modal",
+"lvl": "B1"
+},
+{
+"id": "vice-president_noun",
+"w": "vice president",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "video-clip_noun",
+"w": "video clip",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "weather-forecast_noun",
+"w": "weather forecast",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "webcam_noun",
+"w": "webcam",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "well-dressed_adj",
+"w": "well-dressed",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "windsurfing_noun",
+"w": "windsurfing",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "that_adv",
+"w": "that",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "will_noun",
+"w": "will",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "time_verb",
+"w": "time",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "state_adj",
+"w": "state",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "state_verb",
+"w": "state",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "very_adj",
+"w": "very",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "now_conj",
+"w": "now",
+"pos": "conj",
+"lvl": "B2"
+},
+{
+"id": "part_verb",
+"w": "part",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "make_noun",
+"w": "make",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "water_verb",
+"w": "water",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "good_noun",
+"w": "good",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "united_adj",
+"w": "united",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "found_verb",
+"w": "found",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "down_adj",
+"w": "down",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "since_adv",
+"w": "since",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "data_noun",
+"w": "data",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "present_verb",
+"w": "present",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "following_prep",
+"w": "following",
+"pos": "prep",
+"lvl": "B2"
+},
+{
+"id": "research_verb",
+"w": "research",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "value_verb",
+"w": "value",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "need_noun",
+"w": "need",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "say_noun",
+"w": "say",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "line_verb",
+"w": "line",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "means_noun",
+"w": "means",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "process_verb",
+"w": "process",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "rate_verb",
+"w": "rate",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "question_verb",
+"w": "question",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "level_verb",
+"w": "level",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "far_adj",
+"w": "far",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "federal_adj",
+"w": "federal",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "though_adv",
+"w": "though",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "later_adj",
+"w": "later",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "god_noun",
+"w": "god",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "commission_noun",
+"w": "commission",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "free_verb",
+"w": "free",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "known_adj",
+"w": "known",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "times_prep",
+"w": "times",
+"pos": "prep",
+"lvl": "B2"
+},
+{
+"id": "least_pron",
+"w": "least",
+"pos": "pron",
+"lvl": "B2"
+},
+{
+"id": "next_pron",
+"w": "next",
+"pos": "pron",
+"lvl": "B2"
+},
+{
+"id": "want_noun",
+"w": "want",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "trade_verb",
+"w": "trade",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "once_conj",
+"w": "once",
+"pos": "conj",
+"lvl": "B2"
+},
+{
+"id": "individual_noun",
+"w": "individual",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "energy_noun",
+"w": "energy",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "community_noun",
+"w": "community",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "major_noun",
+"w": "major",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "particular_adj",
+"w": "particular",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "price_verb",
+"w": "price",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "force_verb",
+"w": "force",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "test_verb",
+"w": "test",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "lower_verb",
+"w": "lower",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "review_verb",
+"w": "review",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "project_noun",
+"w": "project",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "project_verb",
+"w": "project",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "cause_noun",
+"w": "cause",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "range_verb",
+"w": "range",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "rule_verb",
+"w": "rule",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "issue_verb",
+"w": "issue",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "standard_adj",
+"w": "standard",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "related_adj",
+"w": "related",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "contract_noun",
+"w": "contract",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "mean_noun",
+"w": "mean",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "sense_verb",
+"w": "sense",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "division_noun",
+"w": "division",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "corporation_noun",
+"w": "corporation",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "stock_noun",
+"w": "stock",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "proposed_adj",
+"w": "proposed",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "species_noun",
+"w": "species",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "approach_verb",
+"w": "approach",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "supply_verb",
+"w": "supply",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "living_noun",
+"w": "living",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "saw_verb",
+"w": "saw",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "fire_verb",
+"w": "fire",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "outside_adj",
+"w": "outside",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "outside_noun",
+"w": "outside",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "original_noun",
+"w": "original",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "chief_noun",
+"w": "chief",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "western_adj",
+"w": "western",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "list_verb",
+"w": "list",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "determined_adj",
+"w": "determined",
+"pos": "adj",
+"lvl": "B2"
+}
+]

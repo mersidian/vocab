@@ -1,0 +1,902 @@
+[
+{
+"id": "bring-through_pv",
+"w": "bring through",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To assist (someone) in succeeding or surviving a period of difficulty, especially illness; to nurse or aid someone through an illness."
+]
+},
+{
+"id": "freckle-up_pv",
+"w": "freckle up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become freckled."
+]
+},
+{
+"id": "gnash-up_pv",
+"w": "gnash up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To gnash (something) until it is mashed up; to mash something up as if by gnashing it."
+]
+},
+{
+"id": "bargain-on_pv",
+"w": "bargain on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To expect (something)."
+]
+},
+{
+"id": "chair-up_pv",
+"w": "chair up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To chair (something) (act as chairman/chairwoman for)."
+]
+},
+{
+"id": "blab-out_pv",
+"w": "blab out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To snitch on (someone)."
+]
+},
+{
+"id": "prep-out_pv",
+"w": "prep out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of prep up."
+]
+},
+{
+"id": "bog-into_pv",
+"w": "bog into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To eat with gusto."
+]
+},
+{
+"id": "contract-out-of_pv",
+"w": "contract out of",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To officially leave an agreement."
+]
+},
+{
+"id": "seat-out_pv",
+"w": "seat out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To modify a horseshoe to relieve pressure from the sole."
+]
+},
+{
+"id": "fat-up_pv",
+"w": "fat up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of fatten up (to cause to gain weight by means of feeding)"
+]
+},
+{
+"id": "bunker-out_pv",
+"w": "bunker out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To suit up in firefighting gear."
+]
+},
+{
+"id": "palm-out_pv",
+"w": "palm out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To fall with the palms out to break the fall."
+]
+},
+{
+"id": "tit-about_pv",
+"w": "tit about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To play around; to waste time frivolously."
+]
+},
+{
+"id": "tosh-up_pv",
+"w": "tosh up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To clean (something) until it looks as good as new."
+]
+},
+{
+"id": "trance-out_pv",
+"w": "trance out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To go into a trance."
+]
+},
+{
+"id": "trick-off_pv",
+"w": "trick off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To decorate (something) or be decorated with (something)."
+]
+},
+{
+"id": "trog-off_pv",
+"w": "trog off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To leave, especially when it requires great effort."
+]
+},
+{
+"id": "trolley-off_pv",
+"w": "trolley off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To go away."
+]
+},
+{
+"id": "twist-up_pv",
+"w": "twist up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To roll up a joint or other cigarette."
+]
+},
+{
+"id": "two-up_pv",
+"w": "two up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To share a cell with someone in prison, especially in a one-person cell."
+]
+},
+{
+"id": "zap-over_pv",
+"w": "zap over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To change television channels, especially rapidly."
+]
+},
+{
+"id": "zap-up_pv",
+"w": "zap up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To improve (something) by making it more exciting."
+]
+},
+{
+"id": "halter-up_pv",
+"w": "halter up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To halter (something)."
+]
+},
+{
+"id": "eagle-up_pv",
+"w": "eagle up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To reach the rank of Eagle Scout in Scouts BSA."
+]
+},
+{
+"id": "eagle-out_pv",
+"w": "eagle out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To leave a scouting troop because one has achieved the rank of Eagle Scout."
+]
+},
+{
+"id": "slip-under_pv",
+"w": "slip under",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To succumb to a change of mental state; or by extension, to succumb to a change in control."
+]
+},
+{
+"id": "yellow-off_pv",
+"w": "yellow off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To stop maturing prematurely and also usually die off."
+]
+},
+{
+"id": "shrimp-up_pv",
+"w": "shrimp up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To cower or flinch; to shrink back."
+]
+},
+{
+"id": "art-up_pv",
+"w": "art up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To decorate, embellish or beautify (something)."
+]
+},
+{
+"id": "jump-onto_pv",
+"w": "jump onto",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of jump on (to take immediate action regarding; to avail oneself of without delay)"
+]
+},
+{
+"id": "scrimp-together_pv",
+"w": "scrimp together",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To amass in small amounts by virtue of frugality."
+]
+},
+{
+"id": "drill-through_pv",
+"w": "drill through",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To display or cause a computer to display more specific, relevant data."
+]
+},
+{
+"id": "drill-out_pv",
+"w": "drill out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To switch from a database or other data source to another."
+]
+},
+{
+"id": "drill-in_pv",
+"w": "drill in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of drill down."
+]
+},
+{
+"id": "show-down_pv",
+"w": "show down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To place a card face-up in front of oneself."
+]
+},
+{
+"id": "shove-about_pv",
+"w": "shove about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To bully somebody; to be bossy towards somebody."
+]
+},
+{
+"id": "shove-around_pv",
+"w": "shove around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of shove about."
+]
+},
+{
+"id": "steam-off_pv",
+"w": "steam off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To anger (someone); to make (someone) irate."
+]
+},
+{
+"id": "hook-up-on_pv",
+"w": "hook up on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of hang up (to keep delayed, suspended, held up, or stuck)"
+]
+},
+{
+"id": "set-onto_pv",
+"w": "set onto",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of set on (to attack or to encourage someone, or an animal, to attack someone)"
+]
+},
+{
+"id": "handpick-out_pv",
+"w": "handpick out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To select items by hand; to remove items by hand; to pick out by hand."
+]
+},
+{
+"id": "spiral-out_pv",
+"w": "spiral out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To have a panic attack; to be overcome by sadness, anxiety, etc.; to freak out"
+]
+},
+{
+"id": "rice-out_pv",
+"w": "rice out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To modify a car to make it appear faster or more sporty; to turn a car into a rice burner."
+]
+},
+{
+"id": "step-into_pv",
+"w": "step into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To take or assume a role."
+]
+},
+{
+"id": "swag-out_pv",
+"w": "swag out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To swagger; to demonstrate impressiveness."
+]
+},
+{
+"id": "swag-up_pv",
+"w": "swag up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To swagger; to show confidence."
+]
+},
+{
+"id": "share-up_pv",
+"w": "share up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To divide up (something); to divvy out or distribute (something)."
+]
+},
+{
+"id": "lock-under_pv",
+"w": "lock under",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To serve a life sentence in prison."
+]
+},
+{
+"id": "scrum-up_pv",
+"w": "scrum up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To force an opponent upward during a scrum, in a move that is forbidden."
+]
+},
+{
+"id": "limit-out_pv",
+"w": "limit out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To attempt to hunt a large, perhaps unreasonable, amount of game in a single season."
+]
+},
+{
+"id": "crip-up_pv",
+"w": "crip up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To pretend to be disabled in a movie, play, etc."
+]
+},
+{
+"id": "bunch-in_pv",
+"w": "bunch in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To squeeze in; to pack together tightly."
+]
+},
+{
+"id": "dollar-up_pv",
+"w": "dollar up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To turn out to be; to result as."
+]
+},
+{
+"id": "dollar-out_pv",
+"w": "dollar out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To sell at a final price."
+]
+},
+{
+"id": "flex-off_pv",
+"w": "flex off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To take time off from work using a flexible time-off policy, generally allowing time off at will instead of using accrued sick or vacation time."
+]
+},
+{
+"id": "cue-off_pv",
+"w": "cue off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To cause (an emotional reaction); to take as a starting point."
+]
+},
+{
+"id": "shrub-up_pv",
+"w": "shrub up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To enhance a building's attractiveness using landscaping; to hide a building's flaws using landscaping; to beautify a structure or design."
+]
+},
+{
+"id": "book-off_pv",
+"w": "book off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To call off from work."
+]
+},
+{
+"id": "book-away_pv",
+"w": "book away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Of a travel agent, to stop booking travelers on an airline and start booking them on others instead."
+]
+},
+{
+"id": "plate-away_pv",
+"w": "plate away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Of a travel agent, to stop booking travelers on an airline and start booking them on others instead."
+]
+},
+{
+"id": "cure-down_pv",
+"w": "cure down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To cure tobacco leaves thoroughly by drying them to prepare them for use."
+]
+},
+{
+"id": "google-up_pv",
+"w": "google up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To search for or find information using Google or another search engine."
+]
+},
+{
+"id": "arm-out_pv",
+"w": "arm out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To arm (someone) with weapons."
+]
+},
+{
+"id": "amp-down_pv",
+"w": "amp down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To calm down; to speak or behave more quietly; to reduce the energy of (something)."
+]
+},
+{
+"id": "bag-off_pv",
+"w": "bag off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To date (someone); to hook up with someone; to make out or have sex with someone."
+]
+},
+{
+"id": "bust-off_pv",
+"w": "bust off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To shoot (a gun); to shoot or start a shootout."
+]
+},
+{
+"id": "bawl-off_pv",
+"w": "bawl off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To severely scold; to shout at; to (figuratively) remove by shouting invective."
+]
+},
+{
+"id": "begger-off_pv",
+"w": "begger off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of bugger off."
+]
+},
+{
+"id": "blob-off_pv",
+"w": "blob off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To ejaculate."
+]
+},
+{
+"id": "blot-up_pv",
+"w": "blot up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To eat or drink (something)."
+]
+},
+{
+"id": "beggar-off_pv",
+"w": "beggar off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of bugger off."
+]
+},
+{
+"id": "bone-out_pv",
+"w": "bone out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To leave; to run away."
+]
+},
+{
+"id": "booger-off_pv",
+"w": "booger off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of bugger off."
+]
+},
+{
+"id": "brass-off_pv",
+"w": "brass off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To insult, criticize or scold (someone)."
+]
+},
+{
+"id": "buck-up-to_pv",
+"w": "buck up to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To rebel against (someone or something); to stand up to or struggle against (someone or something)."
+]
+},
+{
+"id": "buggerise-about_pv",
+"w": "buggerise about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of bugger about."
+]
+},
+{
+"id": "bundy-on_pv",
+"w": "bundy on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To check in; to clock in."
+]
+},
+{
+"id": "bundy-off_pv",
+"w": "bundy off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To check out; to clock out."
+]
+},
+{
+"id": "polish-up-on_pv",
+"w": "polish up on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of polish up."
+]
+},
+{
+"id": "ammo-up_pv",
+"w": "ammo up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of ammo."
+]
+},
+{
+"id": "bust-around_pv",
+"w": "bust around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To attack (someone); to assault (someone)."
+]
+},
+{
+"id": "bust-in_pv",
+"w": "bust in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To enter or join (something) aggressively and without an invitation."
+]
+},
+{
+"id": "bust-into_pv",
+"w": "bust into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of bust in."
+]
+},
+{
+"id": "caf-up_pv",
+"w": "caf up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To ingest caffeine, such as via coffee or tea."
+]
+},
+{
+"id": "chip-into_pv",
+"w": "chip into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of chip in (to contribute to (something))"
+]
+},
+{
+"id": "choose-out_pv",
+"w": "choose out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To pick out (something); to select (something)."
+]
+},
+{
+"id": "choke-on_pv",
+"w": "choke on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To refuse to accept (something)."
+]
+},
+{
+"id": "cobber-up_pv",
+"w": "cobber up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make friends (with someone)."
+]
+},
+{
+"id": "cop-onto_pv",
+"w": "cop onto",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of cop on (to come to understand; twig, cotton on)"
+]
+},
+{
+"id": "cough-over_pv",
+"w": "cough over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To give money or other valuables, usually reluctantly."
+]
+},
+{
+"id": "crack-along_pv",
+"w": "crack along",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To move quickly; to continue with work briskly."
+]
+},
+{
+"id": "fack-off_pv",
+"w": "fack off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of fuck off."
+]
+},
+{
+"id": "fart-off_pv",
+"w": "fart off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To waste time; to behave pointlessly or disrespectfully."
+]
+},
+{
+"id": "fold-out_pv",
+"w": "fold out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To depart."
+]
+},
+{
+"id": "freeze-on-to_pv",
+"w": "freeze on to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of freeze to."
+]
+},
+{
+"id": "freeze-to_pv",
+"w": "freeze to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To stick to a surface due to being frozen."
+]
+},
+{
+"id": "frigg-up_pv",
+"w": "frigg up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of frig up."
+]
+},
+{
+"id": "futt-about_pv",
+"w": "futt about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of fuck about."
+]
+},
+{
+"id": "gee-along_pv",
+"w": "gee along",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of gee up (to encourage)"
+]
+}
+]

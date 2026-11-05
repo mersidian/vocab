@@ -1,0 +1,802 @@
+[
+{
+"id": "have-a-bite_idiom",
+"w": "have a bite",
+"kind": "idiom",
+"gloss": [
+"To eat a quick, light snack."
+]
+},
+{
+"id": "power-coffee_idiom",
+"w": "power coffee",
+"kind": "idiom",
+"gloss": [
+"A working session or seminar at which important discussions may be held, and important decisions made, over servings of coffee or at a coffeehouse."
+]
+},
+{
+"id": "make-the-bald-man-cry_idiom",
+"w": "make the bald man cry",
+"kind": "idiom",
+"gloss": [
+"To masturbate."
+]
+},
+{
+"id": "play-the-something-card_idiom",
+"w": "play the something card",
+"kind": "idiom",
+"gloss": [
+"To mention something to obtain some advantage in conversation."
+]
+},
+{
+"id": "deal-a-bad-hand_idiom",
+"w": "deal a bad hand",
+"kind": "idiom",
+"gloss": [
+"To assign unfavorable circumstances in life to someone."
+]
+},
+{
+"id": "deal-a-good-hand_idiom",
+"w": "deal a good hand",
+"kind": "idiom",
+"gloss": [
+"To assign favorable circumstances in life to someone."
+]
+},
+{
+"id": "go-to-the-scaffold_idiom",
+"w": "go to the scaffold",
+"kind": "idiom",
+"gloss": [
+"To be executed (usually by hanging or beheading)."
+]
+},
+{
+"id": "catch-hands_idiom",
+"w": "catch hands",
+"kind": "idiom",
+"gloss": [
+"To take a punch; to get hit, especially with the hand or fist."
+]
+},
+{
+"id": "bring-a-lump-to-someone-s-throat_idiom",
+"w": "bring a lump to someone's throat",
+"kind": "idiom",
+"gloss": [
+"To engender a strong emotional reaction."
+]
+},
+{
+"id": "bread-of-life_idiom",
+"w": "bread of life",
+"kind": "idiom",
+"gloss": [
+"Anything which is regarded as a source or inspiration of spiritual nourishment."
+]
+},
+{
+"id": "catch-a-fade_idiom",
+"w": "catch a fade",
+"kind": "idiom",
+"gloss": [
+"To get knocked out (struck and rendered unconscious)."
+]
+},
+{
+"id": "helmet-hair_idiom",
+"w": "helmet hair",
+"kind": "idiom",
+"gloss": [
+"An accidental messy hairdo resulting from the wearing of a helmet."
+]
+},
+{
+"id": "for-reasons_idiom",
+"w": "for reasons",
+"kind": "idiom",
+"gloss": [
+"For reasons that the speaker does not know or does not want to discuss; for no good reason."
+]
+},
+{
+"id": "cut-a-deal_idiom",
+"w": "cut a deal",
+"kind": "idiom",
+"gloss": [
+"To reach a negotiated agreement."
+]
+},
+{
+"id": "one-can-dish-it-out-but-one-can-t-take-it_idiom",
+"w": "one can dish it out, but one can't take it",
+"kind": "idiom",
+"gloss": [
+"One is able to express thoughts, criticism, or insults towards others, but cannot accept being on the receiving end of the same treatment."
+]
+},
+{
+"id": "pro-tip_idiom",
+"w": "pro tip",
+"kind": "idiom",
+"gloss": [
+"A useful piece of advice."
+]
+},
+{
+"id": "vast-majority_idiom",
+"w": "vast majority",
+"kind": "idiom",
+"gloss": [
+"The greatest part of something, to the point where alternatives are nearly irrelevant in size."
+]
+},
+{
+"id": "take-time-out_idiom",
+"w": "take time out",
+"kind": "idiom",
+"gloss": [
+"To temporarily suspend an activity in order to do something else."
+]
+},
+{
+"id": "blow-the-doors-off_idiom",
+"w": "blow the doors off",
+"kind": "idiom",
+"gloss": [
+"To be much more important or impressive than."
+]
+},
+{
+"id": "in-the-same-shoes_idiom",
+"w": "in the same shoes",
+"kind": "idiom",
+"gloss": [
+"In the same situation; having the same problems."
+]
+},
+{
+"id": "hell-if-i-care_idiom",
+"w": "hell if I care",
+"kind": "idiom",
+"gloss": [
+"Synonym of I don't care."
+]
+},
+{
+"id": "hearts-on-sleeves_idiom",
+"w": "hearts on sleeves",
+"kind": "idiom",
+"gloss": [
+"Transparent, open, or forthright emotions."
+]
+},
+{
+"id": "sunday-go-to-meeting-clothes_idiom",
+"w": "Sunday-go-to-meeting clothes",
+"kind": "idiom",
+"gloss": [
+"One's best or most presentable clothes."
+]
+},
+{
+"id": "put-the-bad-mouth-on_idiom",
+"w": "put the bad mouth on",
+"kind": "idiom",
+"gloss": [
+"To speak ill of; to vilify."
+]
+},
+{
+"id": "the-one-that-got-away_idiom",
+"w": "the one that got away",
+"kind": "idiom",
+"gloss": [
+"A former romantic partner who retains a special place in one's memory and whose loss one regrets."
+]
+},
+{
+"id": "see-the-trees-through-the-forest_idiom",
+"w": "see the trees through the forest",
+"kind": "idiom",
+"gloss": [
+"To appreciate the details of something, as opposed to only focusing on the big picture."
+]
+},
+{
+"id": "top-the-charts_idiom",
+"w": "top the charts",
+"kind": "idiom",
+"gloss": [
+"To be the most popular recording at a particular time."
+]
+},
+{
+"id": "put-a-hat-on-a-hat_idiom",
+"w": "put a hat on a hat",
+"kind": "idiom",
+"gloss": [
+"To do something unnecessary, to go over the top"
+]
+},
+{
+"id": "the-stroke-that-broke-the-camel-s-back_idiom",
+"w": "the stroke that broke the camel's back",
+"kind": "idiom",
+"gloss": [
+"Synonym of the straw that broke the camel's back."
+]
+},
+{
+"id": "rest-easy_idiom",
+"w": "rest easy",
+"kind": "idiom",
+"gloss": [
+"To cease worrying about something; to not be concerned or troubled by worries."
+]
+},
+{
+"id": "throw-of-the-dice_idiom",
+"w": "throw of the dice",
+"kind": "idiom",
+"gloss": [
+"Synonym of roll of the dice."
+]
+},
+{
+"id": "roll-of-the-dice_idiom",
+"w": "roll of the dice",
+"kind": "idiom",
+"gloss": [
+"A risky or uncertain attempt to do something, especially in an unfavourable situation."
+]
+},
+{
+"id": "run-a-risk_idiom",
+"w": "run a risk",
+"kind": "idiom",
+"gloss": [
+"To perform an action which may result in a loss or failure."
+]
+},
+{
+"id": "run-someone-off-their-feet_idiom",
+"w": "run someone off their feet",
+"kind": "idiom",
+"gloss": [
+"To cause someone to become very busy, especially to an exhausting degree; to make someone work very hard and very quickly."
+]
+},
+{
+"id": "will-the-real-someone-please-stand-up_idiom",
+"w": "will the real someone please stand up",
+"kind": "idiom",
+"gloss": [
+"A request for the real person or thing to be identified from among others that are similar."
+]
+},
+{
+"id": "pleased-with-oneself_idiom",
+"w": "pleased with oneself",
+"kind": "idiom",
+"gloss": [
+"To be happy about one's accomplishments, especially, to be more proud more than one should be."
+]
+},
+{
+"id": "pogi-point_idiom",
+"w": "pogi point",
+"kind": "idiom",
+"gloss": [
+"A brownie point earned by a man who curries favor with a female courtship partner or her parents."
+]
+},
+{
+"id": "hard-at-work_idiom",
+"w": "hard at work",
+"kind": "idiom",
+"gloss": [
+"Labouring with great effort and diligence; working hard."
+]
+},
+{
+"id": "make-love-to-the-camera_idiom",
+"w": "make love to the camera",
+"kind": "idiom",
+"gloss": [
+"To pose or act in a way that suggests genuine emotional involvement, while being filmed or photographed."
+]
+},
+{
+"id": "in-one-s-hip-pocket_idiom",
+"w": "in one's hip pocket",
+"kind": "idiom",
+"gloss": [
+"Synonym of in one's back pocket."
+]
+},
+{
+"id": "throw-one-s-weight-behind_idiom",
+"w": "throw one's weight behind",
+"kind": "idiom",
+"gloss": [
+"To support (a cause, a decision, etc.) using one's influence; to endorse."
+]
+},
+{
+"id": "wax-the-dolphin_idiom",
+"w": "wax the dolphin",
+"kind": "idiom",
+"gloss": [
+"To masturbate by stimulating one's penis."
+]
+},
+{
+"id": "make-happen_idiom",
+"w": "make happen",
+"kind": "idiom",
+"gloss": [
+"To realize, to cause or bring about a thing."
+]
+},
+{
+"id": "hot-on-the-trail_idiom",
+"w": "hot on the trail",
+"kind": "idiom",
+"gloss": [
+"Synonym of hot on someone's heels."
+]
+},
+{
+"id": "knock-someone-flat_idiom",
+"w": "knock someone flat",
+"kind": "idiom",
+"gloss": [
+"To knock someone down; to hit someone so they fall to the floor."
+]
+},
+{
+"id": "scare-the-life-out-of_idiom",
+"w": "scare the life out of",
+"kind": "idiom",
+"gloss": [
+"To scare something or someone to a great degree."
+]
+},
+{
+"id": "moral-bankruptcy_idiom",
+"w": "moral bankruptcy",
+"kind": "idiom",
+"gloss": [
+"The state or condition of being morally bankrupt; unethicality."
+]
+},
+{
+"id": "drop-in-the-pond_idiom",
+"w": "drop in the pond",
+"kind": "idiom",
+"gloss": [
+"A very small or insignificant amount; something of little importance."
+]
+},
+{
+"id": "through-the-looking-glass_idiom",
+"w": "through the looking-glass",
+"kind": "idiom",
+"gloss": [
+"Disconcertingly bizarre; surreal; weird; strange; topsy-turvy; beyond the reasonable limits of normality."
+]
+},
+{
+"id": "good-run_idiom",
+"w": "good run",
+"kind": "idiom",
+"gloss": [
+"Success over an extended period."
+]
+},
+{
+"id": "put-store-in_idiom",
+"w": "put store in",
+"kind": "idiom",
+"gloss": [
+"Synonym of set store by."
+]
+},
+{
+"id": "go-horribly-right_idiom",
+"w": "go horribly right",
+"kind": "idiom",
+"gloss": [
+"To produce a technically correct result, but with highly undesirable consequences."
+]
+},
+{
+"id": "not-have-a-prayer_idiom",
+"w": "not have a prayer",
+"kind": "idiom",
+"gloss": [
+"To have no chance or possibility, usually in the face of peril or adversity."
+]
+},
+{
+"id": "stick-to-one-s-last_idiom",
+"w": "stick to one's last",
+"kind": "idiom",
+"gloss": [
+"To stick to one's knitting (to concentrate on one's own tasks, affairs, area of expertise etc.)."
+]
+},
+{
+"id": "cream-in-one-s-coffee_idiom",
+"w": "cream in one's coffee",
+"kind": "idiom",
+"gloss": [
+"Something that one relishes."
+]
+},
+{
+"id": "have-one-s-heart-in_idiom",
+"w": "have one's heart in",
+"kind": "idiom",
+"gloss": [
+"Synonym of put one's heart in."
+]
+},
+{
+"id": "someone-s-heart-is-in_idiom",
+"w": "someone's heart is in",
+"kind": "idiom",
+"gloss": [
+"Someone is emotionally invested in (something); someone does (something) wholeheartedly."
+]
+},
+{
+"id": "blur-the-line_idiom",
+"w": "blur the line",
+"kind": "idiom",
+"gloss": [
+"To minimize or erode the distinction between two things."
+]
+},
+{
+"id": "cast-of-thousands_idiom",
+"w": "cast of thousands",
+"kind": "idiom",
+"gloss": [
+"A large number of people in one place or carrying out one action."
+]
+},
+{
+"id": "on-someone-s-doorstep_idiom",
+"w": "on someone's doorstep",
+"kind": "idiom",
+"gloss": [
+"Very nearby."
+]
+},
+{
+"id": "crush-it_idiom",
+"w": "crush it",
+"kind": "idiom",
+"gloss": [
+"To do something excellently."
+]
+},
+{
+"id": "lie-at-someone-s-door_idiom",
+"w": "lie at someone's door",
+"kind": "idiom",
+"gloss": [
+"To be the fault or responsibility of someone."
+]
+},
+{
+"id": "at-the-door-of_idiom",
+"w": "at the door of",
+"kind": "idiom",
+"gloss": [
+"Very near to; such that something is imminent."
+]
+},
+{
+"id": "wag-a-finger_idiom",
+"w": "wag a finger",
+"kind": "idiom",
+"gloss": [
+"To express one's annoyance with, or disapproval of, someone's actions."
+]
+},
+{
+"id": "cast-one-s-mind-back_idiom",
+"w": "cast one's mind back",
+"kind": "idiom",
+"gloss": [
+"To try to remember a particular time or event; to think about something in the past."
+]
+},
+{
+"id": "give-someone-to-understand_idiom",
+"w": "give someone to understand",
+"kind": "idiom",
+"gloss": [
+"To tell someone, especially indirectly; to insinuate."
+]
+},
+{
+"id": "do-the-dash_idiom",
+"w": "do the dash",
+"kind": "idiom",
+"gloss": [
+"To hurriedly part with one’s current location, to escape, to flee the scene."
+]
+},
+{
+"id": "tin-pot-dictatorship_idiom",
+"w": "tin-pot dictatorship",
+"kind": "idiom",
+"gloss": [
+"A country ruled by a tin-pot dictator; an autocracy, especially one ruled by someone with delusions of grandeur."
+]
+},
+{
+"id": "choose-one-s-fighter_idiom",
+"w": "choose one's fighter",
+"kind": "idiom",
+"gloss": [
+"To select something as one's preferred choice from a set of related things, people etc."
+]
+},
+{
+"id": "by-the-grace-of-allah_idiom",
+"w": "by the Grace of Allah",
+"kind": "idiom",
+"gloss": [
+"By divine will."
+]
+},
+{
+"id": "one-s-heart-out_idiom",
+"w": "one's heart out",
+"kind": "idiom",
+"gloss": [
+"With great effort or enthusiasm."
+]
+},
+{
+"id": "make-mention-of_idiom",
+"w": "make mention of",
+"kind": "idiom",
+"gloss": [
+"To briefly refer to something; to mention."
+]
+},
+{
+"id": "fold-like-a-cheap-suit_idiom",
+"w": "fold like a cheap suit",
+"kind": "idiom",
+"gloss": [
+"To give up easily; capitulate."
+]
+},
+{
+"id": "front-of-mind_idiom",
+"w": "front of mind",
+"kind": "idiom",
+"gloss": [
+"Synonym of top of mind."
+]
+},
+{
+"id": "beat-off-with-a-stick_idiom",
+"w": "beat off with a stick",
+"kind": "idiom",
+"gloss": [
+"To reject (a person making an unwanted amorous approach)."
+]
+},
+{
+"id": "added-value_idiom",
+"w": "added value",
+"kind": "idiom",
+"gloss": [
+"The positive value difference produced by someone who adds value."
+]
+},
+{
+"id": "cowboy-killer_idiom",
+"w": "cowboy killer",
+"kind": "idiom",
+"gloss": [
+"A cigarette."
+]
+},
+{
+"id": "pair-of-shoes_idiom",
+"w": "pair of shoes",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see pair, shoes."
+]
+},
+{
+"id": "time-is-ticking_idiom",
+"w": "time is ticking",
+"kind": "idiom",
+"gloss": [
+"Synonym of clock is ticking."
+]
+},
+{
+"id": "burr-in-one-s-saddle_idiom",
+"w": "burr in one's saddle",
+"kind": "idiom",
+"gloss": [
+"Synonym of bee in one's bonnet."
+]
+},
+{
+"id": "unmask-one-s-batteries_idiom",
+"w": "unmask one's batteries",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see unmask, battery."
+]
+},
+{
+"id": "here-there-and-everywhere_idiom",
+"w": "here, there and everywhere",
+"kind": "idiom",
+"gloss": [
+"In or to many different places; all over the place."
+]
+},
+{
+"id": "for-grins_idiom",
+"w": "for grins",
+"kind": "idiom",
+"gloss": [
+"For no particular reason, just because it is fun or entertaining; or to relieve boredom."
+]
+},
+{
+"id": "for-shits-and-giggles_idiom",
+"w": "for shits and giggles",
+"kind": "idiom",
+"gloss": [
+"For no particular reason, just because it is fun or entertaining; or to relieve boredom."
+]
+},
+{
+"id": "court-of-public-opinion_idiom",
+"w": "court of public opinion",
+"kind": "idiom",
+"gloss": [
+"The news media and the public at large, seen as being able to deliver a judgement on someone in the manner of a judge."
+]
+},
+{
+"id": "square-on_idiom",
+"w": "square on",
+"kind": "idiom",
+"gloss": [
+"accurately, correctly."
+]
+},
+{
+"id": "north-of_idiom",
+"w": "north of",
+"kind": "idiom",
+"gloss": [
+"More, higher or greater than."
+]
+},
+{
+"id": "for-beans_idiom",
+"w": "for beans",
+"kind": "idiom",
+"gloss": [
+"Synonym of at all."
+]
+},
+{
+"id": "poop-oneself_idiom",
+"w": "poop oneself",
+"kind": "idiom",
+"gloss": [
+"Synonym of soil oneself."
+]
+},
+{
+"id": "grab-the-bull-by-the-horns_idiom",
+"w": "grab the bull by the horns",
+"kind": "idiom",
+"gloss": [
+"Synonym of take the bull by the horns."
+]
+},
+{
+"id": "send-for-a-toss_idiom",
+"w": "send for a toss",
+"kind": "idiom",
+"gloss": [
+"To use or invest on the off chance."
+]
+},
+{
+"id": "live-rent-free-in-someone-s-mind_idiom",
+"w": "live rent-free in someone's mind",
+"kind": "idiom",
+"gloss": [
+"Synonym of live rent-free in someone's head."
+]
+},
+{
+"id": "hold-one-s-drink_idiom",
+"w": "hold one's drink",
+"kind": "idiom",
+"gloss": [
+"Synonym of hold one's liquor."
+]
+},
+{
+"id": "hold-one-s-alcohol_idiom",
+"w": "hold one's alcohol",
+"kind": "idiom",
+"gloss": [
+"Synonym of hold one's liquor."
+]
+},
+{
+"id": "for-this-once_idiom",
+"w": "for this once",
+"kind": "idiom",
+"gloss": [
+"On this particular occasion, to make an exception"
+]
+},
+{
+"id": "give-the-sack_idiom",
+"w": "give the sack",
+"kind": "idiom",
+"gloss": [
+"To dismiss from employment"
+]
+},
+{
+"id": "throw-stones_idiom",
+"w": "throw stones",
+"kind": "idiom",
+"gloss": [
+"To insult or criticize someone or something."
+]
+},
+{
+"id": "break-reality_idiom",
+"w": "break reality",
+"kind": "idiom",
+"gloss": [
+"To reach or experience a nonordinary state of consciousness, especially when using psychedelics."
+]
+},
+{
+"id": "sweat-bricks_idiom",
+"w": "sweat bricks",
+"kind": "idiom",
+"gloss": [
+"Synonym of sweat bullets (“to sweat profusely”)."
+]
+},
+{
+"id": "click-into-gear_idiom",
+"w": "click into gear",
+"kind": "idiom",
+"gloss": [
+"To start to perform effectively or to progress"
+]
+}
+]

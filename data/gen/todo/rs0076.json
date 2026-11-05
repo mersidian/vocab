@@ -1,0 +1,882 @@
+[
+{
+"id": "chicken-scratch_idiom",
+"w": "chicken scratch",
+"kind": "idiom",
+"gloss": [
+"Chicken feed consisting of random mixed grains such as corn, wheat, barley, sorghum and milling by-products.",
+"Cramped or illegible handwriting.",
+"A type of cross-stitch embroidery done on gingham fabric."
+]
+},
+{
+"id": "day-after-day_idiom",
+"w": "day after day",
+"kind": "idiom",
+"gloss": [
+"For an indefinite number of days."
+]
+},
+{
+"id": "make-peace_idiom",
+"w": "make peace",
+"kind": "idiom",
+"gloss": [
+"To end hostilities; to reach a peace agreement; to initiate or resume a cordial relationship after a period of animosity.",
+"To settle a dispute or disagreement.",
+"To accept something, especially if it is considered unfavourable."
+]
+},
+{
+"id": "make-noise_idiom",
+"w": "make noise",
+"kind": "idiom",
+"gloss": [
+"To make a noise.",
+"To applaud or cheer; to display a loud appreciation for someone or something.",
+"To scold, condemn, or criticize very harshly."
+]
+},
+{
+"id": "without-fail_idiom",
+"w": "without fail",
+"kind": "idiom",
+"gloss": [
+"Certainly; by all means; as a matter of importance.",
+"Inevitably."
+]
+},
+{
+"id": "gut-feeling_idiom",
+"w": "gut feeling",
+"kind": "idiom",
+"gloss": [
+"An instinct or intuition; an immediate or basic feeling or reaction without a logical rationale."
+]
+},
+{
+"id": "clear-cut_idiom",
+"w": "clear cut",
+"kind": "idiom",
+"gloss": [
+"Straightforward, obvious, simple, or basic.",
+"Having had all trees cut."
+]
+},
+{
+"id": "ivory-tower_idiom",
+"w": "ivory tower",
+"kind": "idiom",
+"gloss": [
+"A sheltered, overly-academic existence or perspective, implying a disconnection or lack of awareness of reality or practical considerations."
+]
+},
+{
+"id": "day-in-day-out_idiom",
+"w": "day in, day out",
+"kind": "idiom",
+"gloss": [
+"Every day; daily; constantly or continuously (especially, of something that has become routine or monotonous)."
+]
+},
+{
+"id": "under-the-influence_idiom",
+"w": "under the influence",
+"kind": "idiom",
+"gloss": [
+"While intoxicated or inebriated, in any degree from mildly impaired to stupefied, by a mind-altering substance, typically alcohol; thus, especially, drunk.",
+"Intoxicated or inebriated, in any degree from mildly impaired to stupefied, by a mind-altering substance, typically alcohol; thus, especially, drunk."
+]
+},
+{
+"id": "see-red_idiom",
+"w": "see red",
+"kind": "idiom",
+"gloss": [
+"To become enraged, angry, or infuriated.",
+"To receive a red card, and be dismissed from the playing field."
+]
+},
+{
+"id": "up-the-ante_idiom",
+"w": "up the ante",
+"kind": "idiom",
+"gloss": [
+"To raise the stakes of a hand of poker.",
+"Of a dispute, to take an action that raises the stakes, i.e. that increases the chances of conflict.",
+"To render something more difficult."
+]
+},
+{
+"id": "last-resort_idiom",
+"w": "last resort",
+"kind": "idiom",
+"gloss": [
+"The only remaining, often least desirable, option when all others have been excluded."
+]
+},
+{
+"id": "bite-me_idiom",
+"w": "bite me",
+"kind": "idiom",
+"gloss": [
+"An expression of discontent or aggravation to another party.",
+"A taunting phrase, essentially meaning \"I don't care\".",
+"A command similar to \"Leave me alone!\", \"Go away!\" etc."
+]
+},
+{
+"id": "if-need-be_idiom",
+"w": "if need be",
+"kind": "idiom",
+"gloss": [
+"If necessary; if there is a need."
+]
+},
+{
+"id": "soft-spot_idiom",
+"w": "soft spot",
+"kind": "idiom",
+"gloss": [
+"A sentimental fondness or affection.",
+"A point of vulnerability in a defence.",
+"A fontanelle."
+]
+},
+{
+"id": "carrot-and-stick_idiom",
+"w": "carrot and stick",
+"kind": "idiom",
+"gloss": [
+"The simultaneous rewarding of good behavior and punishing of bad behavior."
+]
+},
+{
+"id": "lose-heart_idiom",
+"w": "lose heart",
+"kind": "idiom",
+"gloss": [
+"To despair; to experience reduced morale; to become disheartened."
+]
+},
+{
+"id": "blink-of-an-eye_idiom",
+"w": "blink of an eye",
+"kind": "idiom",
+"gloss": [
+"A moment (a very short period of time)."
+]
+},
+{
+"id": "take-a-look_idiom",
+"w": "take a look",
+"kind": "idiom",
+"gloss": [
+"To examine or observe."
+]
+},
+{
+"id": "shed-a-tear_idiom",
+"w": "shed a tear",
+"kind": "idiom",
+"gloss": [
+"To have a tear released, to cry (from sadness)"
+]
+},
+{
+"id": "see-the-light_idiom",
+"w": "see the light",
+"kind": "idiom",
+"gloss": [
+"To undergo a spiritual conversion.",
+"To gain an understanding of something previously not understood, especially in a sudden insight.",
+"To come into the world or to public notice."
+]
+},
+{
+"id": "lie-in-wait_idiom",
+"w": "lie in wait",
+"kind": "idiom",
+"gloss": [
+"To be hiding, waiting to ambush or attack someone, or simply to accost them unexpectedly."
+]
+},
+{
+"id": "good-job_idiom",
+"w": "good job",
+"kind": "idiom",
+"gloss": [
+"Well done; congratulations!",
+"Used other than figuratively or idiomatically: see good, job, for example, a task that has been done well, or an employment posting that is desirable.",
+"A good thing."
+]
+},
+{
+"id": "laugh-one-s-head-off_idiom",
+"w": "laugh one's head off",
+"kind": "idiom",
+"gloss": [
+"To laugh uproariously."
+]
+},
+{
+"id": "on-the-one-hand_idiom",
+"w": "on the one hand",
+"kind": "idiom",
+"gloss": [
+"From one point of view."
+]
+},
+{
+"id": "come-to-terms-with_idiom",
+"w": "come to terms with",
+"kind": "idiom",
+"gloss": [
+"To resolve a conflict with.",
+"To accept or resign oneself to something emotionally painful."
+]
+},
+{
+"id": "burst-out-laughing_idiom",
+"w": "burst out laughing",
+"kind": "idiom",
+"gloss": [
+"To start laughing suddenly and intensely."
+]
+},
+{
+"id": "come-to-an-end_idiom",
+"w": "come to an end",
+"kind": "idiom",
+"gloss": [
+"To stop; to cease; to no longer continue."
+]
+},
+{
+"id": "lightning-fast_idiom",
+"w": "lightning fast",
+"kind": "idiom",
+"gloss": [
+"Extremely fast, fast as lightning.",
+"Extremely quickly."
+]
+},
+{
+"id": "cast-pearls-before-swine_idiom",
+"w": "cast pearls before swine",
+"kind": "idiom",
+"gloss": [
+"To give things of value to those who will not understand or appreciate them."
+]
+},
+{
+"id": "turn-up-one-s-nose_idiom",
+"w": "turn up one's nose",
+"kind": "idiom",
+"gloss": [
+"To tilt one's face upwards slightly, thus raising one's nose, and often to look downwards at someone, as a sign of contempt, disgust, or scorn.",
+"To refuse something offered, especially with contempt, disgust, or scorn, or with apparent disregard about offending the offerer.",
+"To regard or treat someone with contempt or scorn; to scorn; also, to disregard or ignore someone in a contemptuous or scornful way."
+]
+},
+{
+"id": "what-is-more_idiom",
+"w": "what is more",
+"kind": "idiom",
+"gloss": [
+"Used to introduce a statement which builds on the preceding statement, but expresses a stronger sentiment."
+]
+},
+{
+"id": "out-of-line_idiom",
+"w": "out of line",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see out of, line.",
+"Inappropriate or unsuitable, especially by reason of being unmannerly or indelicate.",
+"Disobedient; not following orders or order."
+]
+},
+{
+"id": "a-little-bird-told-me_idiom",
+"w": "a little bird told me",
+"kind": "idiom",
+"gloss": [
+"I received the information from a source which I am not prepared to disclose."
+]
+},
+{
+"id": "away-with-the-fairies_idiom",
+"w": "away with the fairies",
+"kind": "idiom",
+"gloss": [
+"Not all there; slightly crazy.",
+"Synonym of lost in thought; distracted or daydreaming.",
+"Fast asleep."
+]
+},
+{
+"id": "apples-and-oranges_idiom",
+"w": "apples and oranges",
+"kind": "idiom",
+"gloss": [
+"A comparison of items that, however categorically similar, is inapt; an incompatible analogy, or the items so compared; a disanalogy.",
+"Used other than figuratively or idiomatically: see apples, and, oranges."
+]
+},
+{
+"id": "and-how_idiom",
+"w": "and how",
+"kind": "idiom",
+"gloss": [
+"Used to strongly confirm the preceding utterance."
+]
+},
+{
+"id": "go-to-work_idiom",
+"w": "go to work",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see go, to, work. (This sense is a translation hub.)",
+"To begin performing some task or work.",
+"To go to one's job, as by commuting."
+]
+},
+{
+"id": "ups-and-downs_idiom",
+"w": "ups and downs",
+"kind": "idiom",
+"gloss": [
+"Periods of positive and negative events, moods, or interactions; highs and lows.",
+"Undulations."
+]
+},
+{
+"id": "dirty-laundry_idiom",
+"w": "dirty laundry",
+"kind": "idiom",
+"gloss": [
+"Unflattering or embarrassing facts, or questionable activities that one wants to remain secret, but which someone else may use as blackmail.",
+"A clothes hamper or other container in which soiled laundry is placed.",
+"Used other than figuratively or idiomatically: see dirty, laundry."
+]
+},
+{
+"id": "first-come-first-served_idiom",
+"w": "first come, first served",
+"kind": "idiom",
+"gloss": [
+"One will be dealt with in the order in which one arrives."
+]
+},
+{
+"id": "broken-heart_idiom",
+"w": "broken heart",
+"kind": "idiom",
+"gloss": [
+"A feeling of grief or loss, especially after a failed romantic relationship."
+]
+},
+{
+"id": "full-speed-ahead_idiom",
+"w": "full speed ahead",
+"kind": "idiom",
+"gloss": [
+"Maximum speed on a ship.",
+"Maximum effort without reservations or delay.",
+"With maximum effort, without reservations or delay."
+]
+},
+{
+"id": "break-a-sweat_idiom",
+"w": "break a sweat",
+"kind": "idiom",
+"gloss": [
+"To start sweating, especially due to physical exertion.",
+"To put effort into something; to struggle."
+]
+},
+{
+"id": "party-animal_idiom",
+"w": "party animal",
+"kind": "idiom",
+"gloss": [
+"A person known for frequent, enthusiastic attendance at parties, especially one whose partying behavior is exuberant or excessive."
+]
+},
+{
+"id": "four-leaf-clover_idiom",
+"w": "four-leaf clover",
+"kind": "idiom",
+"gloss": [
+"An uncommon variation of the clover, having four leaves instead of the usual three.",
+"A bringer of good luck."
+]
+},
+{
+"id": "turn-upside-down_idiom",
+"w": "turn upside down",
+"kind": "idiom",
+"gloss": [
+"To flip over; to rotate top to bottom.",
+"To thoroughly examine.",
+"To alter (something) significantly, often in a negative way."
+]
+},
+{
+"id": "let-loose_idiom",
+"w": "let loose",
+"kind": "idiom",
+"gloss": [
+"To free; to release from restraint.",
+"To shout, make a loud sound, or perform a sudden, vehement action; to behave in a raucous, frenzied manner.",
+"To break wind."
+]
+},
+{
+"id": "come-into-being_idiom",
+"w": "come into being",
+"kind": "idiom",
+"gloss": [
+"To form; to start to exist."
+]
+},
+{
+"id": "cold-day-in-hell_idiom",
+"w": "cold day in Hell",
+"kind": "idiom",
+"gloss": [
+"The time of occurrence of an event that will never happen."
+]
+},
+{
+"id": "stumbling-block_idiom",
+"w": "stumbling block",
+"kind": "idiom",
+"gloss": [
+"A hindrance, obstacle or impediment; an opportunity for error."
+]
+},
+{
+"id": "as-the-crow-flies_idiom",
+"w": "as the crow flies",
+"kind": "idiom",
+"gloss": [
+"In a straight line distance between two locations, as opposed to the road distance or over land distance."
+]
+},
+{
+"id": "close-but-no-cigar_idiom",
+"w": "close, but no cigar",
+"kind": "idiom",
+"gloss": [
+"Used to indicate that one is almost correct or has almost succeeded, but not quite."
+]
+},
+{
+"id": "needle-in-a-haystack_idiom",
+"w": "needle in a haystack",
+"kind": "idiom",
+"gloss": [
+"Something that is difficult or impossible to locate."
+]
+},
+{
+"id": "hook-line-and-sinker_idiom",
+"w": "hook, line and sinker",
+"kind": "idiom",
+"gloss": [
+"Completely, totally.",
+"Of accepting a belief, statement, etc.: naively, unquestioningly."
+]
+},
+{
+"id": "tempest-in-a-teapot_idiom",
+"w": "tempest in a teapot",
+"kind": "idiom",
+"gloss": [
+"A major fuss over a trivial matter."
+]
+},
+{
+"id": "word-of-mouth_idiom",
+"w": "word of mouth",
+"kind": "idiom",
+"gloss": [
+"The verbal means of passing on information; viva voce."
+]
+},
+{
+"id": "yellow-press_idiom",
+"w": "yellow press",
+"kind": "idiom",
+"gloss": [
+"Newspapers which publish sensationalist articles rather than well researched and sober journalism."
+]
+},
+{
+"id": "in-the-way_idiom",
+"w": "in the way",
+"kind": "idiom",
+"gloss": [
+"Obstructing, blocking, or hindering."
+]
+},
+{
+"id": "no-comment_idiom",
+"w": "no comment",
+"kind": "idiom",
+"gloss": [
+"An official refusal to relay any further information, used for example in response to a question by a newspaper reporter or police officer.",
+"A refusal to make the obvious impolite retort."
+]
+},
+{
+"id": "doubting-thomas_idiom",
+"w": "doubting Thomas",
+"kind": "idiom",
+"gloss": [
+"One who requires proof before believing.",
+"One who finds belief difficult."
+]
+},
+{
+"id": "cross-the-rubicon_idiom",
+"w": "cross the Rubicon",
+"kind": "idiom",
+"gloss": [
+"To make an irreversible decision or to take an action with consequences."
+]
+},
+{
+"id": "bury-the-hatchet_idiom",
+"w": "bury the hatchet",
+"kind": "idiom",
+"gloss": [
+"To cease fighting or arguing; to reach an agreement, or at least a truce.",
+"To accidentally leave a surgical instrument inside the patient after an operation."
+]
+},
+{
+"id": "the-straw-that-broke-the-camel-s-back_idiom",
+"w": "the straw that broke the camel's back",
+"kind": "idiom",
+"gloss": [
+"A small and seemingly insignificant addition to a burden that renders it too much to bear; the small thing which causes failure, or causes inability or unwillingness to endure any more of something."
+]
+},
+{
+"id": "with-bated-breath_idiom",
+"w": "with bated breath",
+"kind": "idiom",
+"gloss": [
+"With reduced breath.",
+"Eagerly; with great anticipation."
+]
+},
+{
+"id": "watch-one-s-mouth_idiom",
+"w": "watch one's mouth",
+"kind": "idiom",
+"gloss": [
+"To be careful about one's speech, especially with regard to disrespectful or profane language.",
+"In the imperative form, used as a warning to choose one's words carefully or else be silent, for fear of consequences."
+]
+},
+{
+"id": "take-a-picture_idiom",
+"w": "take a picture",
+"kind": "idiom",
+"gloss": [
+"To photographically capture an image",
+"Used as a rebuke to someone perceived to be staring at one. Also take a picture, it'll last longer."
+]
+},
+{
+"id": "in-the-know_idiom",
+"w": "in the know",
+"kind": "idiom",
+"gloss": [
+"Informed; aware."
+]
+},
+{
+"id": "lose-it_idiom",
+"w": "lose it",
+"kind": "idiom",
+"gloss": [
+"To become explosively angry; to lose one's temper.",
+"To feel devastated, or distraught, especially when one's sadness is overwhelming.",
+"To begin to laugh uncontrollably."
+]
+},
+{
+"id": "open-book_idiom",
+"w": "open book",
+"kind": "idiom",
+"gloss": [
+"Something whose salient aspects are obvious or easily interpreted.",
+"A person who responds candidly to questions or openly displays their emotions or intentions.",
+"An open book decomposition."
+]
+},
+{
+"id": "on-the-street_idiom",
+"w": "on the street",
+"kind": "idiom",
+"gloss": [
+"Without a home; without the means to afford good shelter.",
+"In public, including daily life and the crime that sometimes occurs there; especially, in the world of street crime and those whose daily life is immersed in it.",
+"In actual practice, as opposed to in a laboratory, classroom, etc."
+]
+},
+{
+"id": "war-of-nerves_idiom",
+"w": "war of nerves",
+"kind": "idiom",
+"gloss": [
+"Warfare characterized by psychological manipulation, involving tactics intended to demoralize, frighten, and unnerve opponents in order to prompt surrender.",
+"A situation in which opposed parties refrain from direct conflict but maintain a tense, contentious relationship in which each uses annoyances or intimidating psychological tactics to attempt to dishearten and unnerve the other."
+]
+},
+{
+"id": "as-in_idiom",
+"w": "as in",
+"kind": "idiom",
+"gloss": [
+"In the sense of.",
+"As pronounced in.",
+"By which I mean; that is to say."
+]
+},
+{
+"id": "against-the-grain_idiom",
+"w": "against the grain",
+"kind": "idiom",
+"gloss": [
+"Preventing a smooth, level surface from being formed by raising the nap of the wood or causing larger splinters to form ahead of the cutting tool below the cutting surface.",
+"Contrary to what is expected; especially, of behavior different from what society expects.",
+"Unwillingly, reluctantly; contrary to one's nature."
+]
+},
+{
+"id": "it-s-about-time_idiom",
+"w": "it's about time",
+"kind": "idiom",
+"gloss": [
+"Used to express impatience at the eventual occurrence of something that the speaker or writer has deemed to be long overdue."
+]
+},
+{
+"id": "get-it_idiom",
+"w": "get it",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see get, it.",
+"To understand something; to catch on; to fully appreciate its implications.",
+"To receive a negative thing: to receive punishment; to receive a retaliation; to receive a beating; to get what's coming to one; to feel someone's wrath."
+]
+},
+{
+"id": "hoist-by-one-s-own-petard_idiom",
+"w": "hoist by one's own petard",
+"kind": "idiom",
+"gloss": [
+"Hurt or destroyed by one's own plot or device intended for another; \"blown up by one's own bomb\"."
+]
+},
+{
+"id": "cut-to-the-chase_idiom",
+"w": "cut to the chase",
+"kind": "idiom",
+"gloss": [
+"To get to the point; to get on with it; to state something directly."
+]
+},
+{
+"id": "give-up-the-ghost_idiom",
+"w": "give up the ghost",
+"kind": "idiom",
+"gloss": [
+"To cease clinging to life; to die.",
+"To quit; to cease functioning.",
+"To cede a commitment to or identification with."
+]
+},
+{
+"id": "at-bay_idiom",
+"w": "at bay",
+"kind": "idiom",
+"gloss": [
+"Unable to come closer; at a distance.",
+"Cornered; unable to flee.",
+"Of an animal, especially a docile animal in contrast to a predatory animal which would be blazoned statant: standing, in profile toward dexter, with all four feet on the ground."
+]
+},
+{
+"id": "leave-someone-in-the-lurch_idiom",
+"w": "leave someone in the lurch",
+"kind": "idiom",
+"gloss": [
+"To abandon somebody; especially, to abandon somebody and leave them in a difficult situation."
+]
+},
+{
+"id": "point-blank_idiom",
+"w": "point blank",
+"kind": "idiom",
+"gloss": [
+"Horizontally (as the angle at which a projectile is launched); directly or straight (at the target).",
+"Directly; bluntly; without pretense or caution."
+]
+},
+{
+"id": "on-the-sly_idiom",
+"w": "on the sly",
+"kind": "idiom",
+"gloss": [
+"Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily."
+]
+},
+{
+"id": "and-all_idiom",
+"w": "and all",
+"kind": "idiom",
+"gloss": [
+"Including every object, attribute, or process associated with preceding item or series of items.",
+"Used to suggest certain unstated relevant implications of what has been stated.",
+"Used to add emphasis."
+]
+},
+{
+"id": "wet-behind-the-ears_idiom",
+"w": "wet behind the ears",
+"kind": "idiom",
+"gloss": [
+"Inexperienced; just beginning; immature (especially in judgment)."
+]
+},
+{
+"id": "on-the-run_idiom",
+"w": "on the run",
+"kind": "idiom",
+"gloss": [
+"Fleeing.",
+"At a disadvantage; forced to abandon a position.",
+"Constantly traveling or moving from place to place."
+]
+},
+{
+"id": "by-virtue-of_idiom",
+"w": "by virtue of",
+"kind": "idiom",
+"gloss": [
+"(originally) By the authority or power of; (now) because of; on the grounds of; by reason of."
+]
+},
+{
+"id": "food-for-thought_idiom",
+"w": "food for thought",
+"kind": "idiom",
+"gloss": [
+"Information or knowledge that is worthy of contemplation."
+]
+},
+{
+"id": "come-in-handy_idiom",
+"w": "come in handy",
+"kind": "idiom",
+"gloss": [
+"To prove to be useful or helpful."
+]
+},
+{
+"id": "fair-enough_idiom",
+"w": "fair enough",
+"kind": "idiom",
+"gloss": [
+"An expression used to concede a point, but suggesting that the broader argument is incorrect.",
+"Used to acknowledge a person's point or argument; denotes that, upon consideration, something is correct or reasonable; an expression of acknowledgment or understanding."
+]
+},
+{
+"id": "make-a-point_idiom",
+"w": "make a point",
+"kind": "idiom",
+"gloss": [
+"To argue or promote an idea.",
+"To take care in doing something; to pay attention or ensure that something is done."
+]
+},
+{
+"id": "behind-closed-doors_idiom",
+"w": "behind closed doors",
+"kind": "idiom",
+"gloss": [
+"In private; in one's private life; lacking (normal) public disclosure, in camera.",
+"Without public spectators.",
+"stored in a hidden place."
+]
+},
+{
+"id": "pull-oneself-together_idiom",
+"w": "pull oneself together",
+"kind": "idiom",
+"gloss": [
+"To become mentally focused after a period of being unfocused; to regain control of oneself"
+]
+},
+{
+"id": "castle-in-the-air_idiom",
+"w": "castle in the air",
+"kind": "idiom",
+"gloss": [
+"A desire, idea, or plan that is unlikely to ever be realized; a visionary project or scheme; a daydream, an idle fancy, a near impossibility."
+]
+},
+{
+"id": "go-wrong_idiom",
+"w": "go wrong",
+"kind": "idiom",
+"gloss": [
+"To worsen; to fail or go amiss; to have a bad outcome.",
+"To malfunction.",
+"To become wicked or depraved."
+]
+},
+{
+"id": "trial-by-fire_idiom",
+"w": "trial by fire",
+"kind": "idiom",
+"gloss": [
+"A test in which a person is exposed to flames in order to assess their truthfulness, commitment, courage etc.",
+"A situation in which a soldier or other combatant faces the discharge of opposing weapons, as a test of their fortitude.",
+"Any ordeal which tests one's strength, endurance or resolve."
+]
+},
+{
+"id": "i-ll-be-damned_idiom",
+"w": "I'll be damned",
+"kind": "idiom",
+"gloss": [
+"An expression of surprise.",
+"A vehement asseveration that one will not permit some specified thing to happen."
+]
+},
+{
+"id": "on-the-whole_idiom",
+"w": "on the whole",
+"kind": "idiom",
+"gloss": [
+"For the most part; apart from some insignificant details."
+]
+},
+{
+"id": "on-demand_idiom",
+"w": "on demand",
+"kind": "idiom",
+"gloss": [
+"When needed or required."
+]
+}
+]

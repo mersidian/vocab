@@ -1,0 +1,853 @@
+[
+{
+"id": "other-woman_idiom",
+"w": "other woman",
+"kind": "idiom",
+"gloss": [
+"A woman who is romantically involved with someone (usually a man) already in a committed relationship with another woman, especially a woman having an affair with a married man."
+]
+},
+{
+"id": "make-a-killing_idiom",
+"w": "make a killing",
+"kind": "idiom",
+"gloss": [
+"To win or earn a large amount of money."
+]
+},
+{
+"id": "in-one-s-right-mind_idiom",
+"w": "in one's right mind",
+"kind": "idiom",
+"gloss": [
+"Thinking clearly, sensibly, and reasonably."
+]
+},
+{
+"id": "spectator-sport_idiom",
+"w": "spectator sport",
+"kind": "idiom",
+"gloss": [
+"A sporting activity which has a relatively high ratio of watchers to direct participants.",
+"Something, especially a process or activity, which is a popular object of observation; an activity which a person prefers to watch rather than to participate in.",
+"An activity which consists of watching or observing."
+]
+},
+{
+"id": "whistle-in-the-dark_idiom",
+"w": "whistle in the dark",
+"kind": "idiom",
+"gloss": [
+"To make a show of bravery despite one's fears; to put on a brave face.",
+"To speak of something despite having little knowledge of it."
+]
+},
+{
+"id": "hold-hostage_idiom",
+"w": "hold hostage",
+"kind": "idiom",
+"gloss": [
+"To have possession or custody of (a person) as security for performance against a treaty, a pledge, or a demand, especially now an extra-legal demand.",
+"To seek advantage in a situation by threatening the well-being or success of (a person or thing not directly involved in the situation).",
+"To sabotage (a computer) with intent to blackmail the owner."
+]
+},
+{
+"id": "green-with-envy_idiom",
+"w": "green with envy",
+"kind": "idiom",
+"gloss": [
+"Consumed by envy; envious to the point where it is noticeable to others."
+]
+},
+{
+"id": "set-foot_idiom",
+"w": "set foot",
+"kind": "idiom",
+"gloss": [
+"To enter",
+"To step onto"
+]
+},
+{
+"id": "set-up-shop_idiom",
+"w": "set up shop",
+"kind": "idiom",
+"gloss": [
+"To physically arrange a shop or workplace.",
+"To establish a business.",
+"To position oneself in a particular spot for some period of time."
+]
+},
+{
+"id": "standard-fare_idiom",
+"w": "standard fare",
+"kind": "idiom",
+"gloss": [
+"The usual price for travel by air, rail, or another means of transport.",
+"The price charged to passengers who travel without buying tickets in advance on certain public transport systems (especially British bus and tram systems) (compare penalty fare).",
+"Menu items or dining options which are regularly available in a restaurant or other place where food is served."
+]
+},
+{
+"id": "concrete-jungle_idiom",
+"w": "concrete jungle",
+"kind": "idiom",
+"gloss": [
+"An urban or other populated area containing a high density of buildings constructed of concrete or similar materials, especially one which lacks greenery and which seems unattractive, harsh, or unsafe."
+]
+},
+{
+"id": "be-oneself_idiom",
+"w": "be oneself",
+"kind": "idiom",
+"gloss": [
+"To behave or act naturally, without regard to how this behavior is perceived by others.",
+"To be as one usually is, as opposed to being sick, depressed, etc."
+]
+},
+{
+"id": "pedal-to-the-metal_idiom",
+"w": "pedal to the metal",
+"kind": "idiom",
+"gloss": [
+"At maximum speed.",
+"With maximum effort."
+]
+},
+{
+"id": "long-arm-of-the-law_idiom",
+"w": "long arm of the law",
+"kind": "idiom",
+"gloss": [
+"The influence or effectiveness of law enforcement institutions; law enforcement officers collectively."
+]
+},
+{
+"id": "expose-oneself_idiom",
+"w": "expose oneself",
+"kind": "idiom",
+"gloss": [
+"To display one's genitalia or female nipples in a public place or in other inappropriate circumstances.",
+"To put oneself in a vulnerable position.",
+"Used other than figuratively or idiomatically: see expose."
+]
+},
+{
+"id": "bend-the-truth_idiom",
+"w": "bend the truth",
+"kind": "idiom",
+"gloss": [
+"To change or leave out certain facts of a story or situation, generally in order to elicit a specific response in the audience."
+]
+},
+{
+"id": "sure-enough_idiom",
+"w": "sure enough",
+"kind": "idiom",
+"gloss": [
+"Just as one would expect."
+]
+},
+{
+"id": "run-in-the-family_idiom",
+"w": "run in the family",
+"kind": "idiom",
+"gloss": [
+"To be a characteristic feature that is observed in several generations of a family."
+]
+},
+{
+"id": "just-a-minute_idiom",
+"w": "just a minute",
+"kind": "idiom",
+"gloss": [
+"A short period of time, typically anywhere from several seconds to several minutes or more.",
+"Used other than figuratively or idiomatically: see just, a, minute.",
+"Stop; wait; hold on. Used to interrupt speech or proceedings so that one can make a comment or query."
+]
+},
+{
+"id": "keep-someone-company_idiom",
+"w": "keep someone company",
+"kind": "idiom",
+"gloss": [
+"To remain with or accompany someone, especially to make them feel more comfortable with a certain situation."
+]
+},
+{
+"id": "fall-from-grace_idiom",
+"w": "fall from grace",
+"kind": "idiom",
+"gloss": [
+"To lose God's favour through sins or wrongdoings.",
+"To fall from one's current social position to something lower, to lose one's prestige, status or power."
+]
+},
+{
+"id": "open-season_idiom",
+"w": "open season",
+"kind": "idiom",
+"gloss": [
+"A period of time during the calendar year when authorities within a jurisdiction permit the unrestricted hunting of one or more kinds of animal wildlife.",
+"A situation in which someone is endangered, blamed, harassed, or opposed in a sustained manner by a number of others; a situation in which something is endangered or otherwise opposed.",
+"A situation or period in which some activity is routinely carried on."
+]
+},
+{
+"id": "in-the-soup_idiom",
+"w": "in the soup",
+"kind": "idiom",
+"gloss": [
+"In trouble."
+]
+},
+{
+"id": "make-someone-s-blood-boil_idiom",
+"w": "make someone's blood boil",
+"kind": "idiom",
+"gloss": [
+"To cause a person to feel angry or very annoyed, especially in situation in which one cannot fully display that feeling to others."
+]
+},
+{
+"id": "under-one-s-own-steam_idiom",
+"w": "under one's own steam",
+"kind": "idiom",
+"gloss": [
+"Of the movement of a locomotive or a watercraft: by means of the power of its own engines (originally steam engines), rather than pulled or pushed by another vehicle.",
+"Using one's own resources; independently, unaided.",
+"At one's own initiative; of one's own accord, unbidden, unprompted."
+]
+},
+{
+"id": "off-the-grid_idiom",
+"w": "off the grid",
+"kind": "idiom",
+"gloss": [
+"Of a home, business, or the occupants thereof, not using electricity from the public electrical supply system.",
+"Not reachable by means of a publicly available communication system, such as the Internet or a mobile telephone network.",
+"Isolated; in a remote location; in seclusion; not participating in some official process or system."
+]
+},
+{
+"id": "come-to-power_idiom",
+"w": "come to power",
+"kind": "idiom",
+"gloss": [
+"To be installed in high office, for example as a king, president, or prime minister."
+]
+},
+{
+"id": "lose-sight-of_idiom",
+"w": "lose sight of",
+"kind": "idiom",
+"gloss": [
+"To fail to remember; to overlook or neglect (something).",
+"Used other than figuratively or idiomatically: see lose, sight, of."
+]
+},
+{
+"id": "a-cold-day-in-july_idiom",
+"w": "a cold day in July",
+"kind": "idiom",
+"gloss": [
+"The time of occurrence of an event that will never happen."
+]
+},
+{
+"id": "have-a-say_idiom",
+"w": "have a say",
+"kind": "idiom",
+"gloss": [
+"To (receive the opportunity to) voice one's opinion."
+]
+},
+{
+"id": "gap-year_idiom",
+"w": "gap year",
+"kind": "idiom",
+"gloss": [
+"A yearlong break from study taken by some students on leaving school before starting university, often spent gaining work experience or travelling."
+]
+},
+{
+"id": "make-good_idiom",
+"w": "make good",
+"kind": "idiom",
+"gloss": [
+"To achieve substantial success in life, often in business.",
+"To complete successfully; to fulfil (a promise).",
+"To match the first player's bet with one's own, rather than dropping out."
+]
+},
+{
+"id": "batten-down-the-hatches_idiom",
+"w": "batten down the hatches",
+"kind": "idiom",
+"gloss": [
+"To prepare for trouble."
+]
+},
+{
+"id": "until-the-cows-come-home_idiom",
+"w": "until the cows come home",
+"kind": "idiom",
+"gloss": [
+"For a very long period of time."
+]
+},
+{
+"id": "out-of-the-ordinary_idiom",
+"w": "out of the ordinary",
+"kind": "idiom",
+"gloss": [
+"Extraordinary, unusual, or exceptional, especially for the better."
+]
+},
+{
+"id": "give-someone-the-creeps_idiom",
+"w": "give someone the creeps",
+"kind": "idiom",
+"gloss": [
+"To give someone a feeling of uneasiness or mild fright."
+]
+},
+{
+"id": "lost-cause_idiom",
+"w": "lost cause",
+"kind": "idiom",
+"gloss": [
+"A person or thing that is hopeless or futile."
+]
+},
+{
+"id": "cut-the-mustard_idiom",
+"w": "cut the mustard",
+"kind": "idiom",
+"gloss": [
+"To achieve the expected standard; to be effective or good enough; to suffice."
+]
+},
+{
+"id": "ham-it-up_idiom",
+"w": "ham it up",
+"kind": "idiom",
+"gloss": [
+"To deliberately exaggerate one's emotions or movements, or to overact or act hammily."
+]
+},
+{
+"id": "with-flying-colors_idiom",
+"w": "with flying colors",
+"kind": "idiom",
+"gloss": [
+"Very successfully; in an exceptional, noteworthy, or extraordinary manner."
+]
+},
+{
+"id": "give-someone-a-piece-of-one-s-mind_idiom",
+"w": "give someone a piece of one's mind",
+"kind": "idiom",
+"gloss": [
+"To express one's opinion strongly; to voice one's disagreement or dissatisfaction, especially with another person; to scold or rebuke someone."
+]
+},
+{
+"id": "highway-robbery_idiom",
+"w": "highway robbery",
+"kind": "idiom",
+"gloss": [
+"Excessive or exorbitant prices."
+]
+},
+{
+"id": "bash-the-bishop_idiom",
+"w": "bash the bishop",
+"kind": "idiom",
+"gloss": [
+"To masturbate by stimulating one's penis."
+]
+},
+{
+"id": "pull-one-s-socks-up_idiom",
+"w": "pull one's socks up",
+"kind": "idiom",
+"gloss": [
+"To start making an effort; to renew or redouble one's efforts."
+]
+},
+{
+"id": "in-line_idiom",
+"w": "in line",
+"kind": "idiom",
+"gloss": [
+"Suitable or appropriate; keeping with expectations, norms, ideals, or rules.",
+"In a queue, waiting one's turn.",
+"Of three or more objects, positioned in a straight line."
+]
+},
+{
+"id": "to-date_idiom",
+"w": "to date",
+"kind": "idiom",
+"gloss": [
+"Until now; until the present time."
+]
+},
+{
+"id": "lick-one-s-wounds_idiom",
+"w": "lick one's wounds",
+"kind": "idiom",
+"gloss": [
+"To withdraw temporarily while recovering from a defeat; to recuperate."
+]
+},
+{
+"id": "give-someone-the-eye_idiom",
+"w": "give someone the eye",
+"kind": "idiom",
+"gloss": [
+"To show flirtatious signs or sexual interest/attraction with one's eyes.",
+"To give someone the stink eye.",
+"To give someone the evil eye."
+]
+},
+{
+"id": "on-cloud-nine_idiom",
+"w": "on cloud nine",
+"kind": "idiom",
+"gloss": [
+"In a state of elation; very happy; blissful."
+]
+},
+{
+"id": "have-a-go_idiom",
+"w": "have a go",
+"kind": "idiom",
+"gloss": [
+"To make an attempt; to try.",
+"To attack someone physically; to have a fight.",
+"To tell off (especially unnecessarily or excessively), to criticise."
+]
+},
+{
+"id": "fill-in-the-blank_idiom",
+"w": "fill in the blank",
+"kind": "idiom",
+"gloss": [
+"A language exercise in which one or more words are replaced with a blank line and the reader is tasked with supplying a valid replacement.",
+"A placeholder allowing for any of a variety of possible answers or a single elicited answer.",
+"To complete a single fill in the blank question."
+]
+},
+{
+"id": "screw-the-pooch_idiom",
+"w": "screw the pooch",
+"kind": "idiom",
+"gloss": [
+"to make a large mistake, to fail in dramatic and ignominious fashion."
+]
+},
+{
+"id": "esprit-de-corps_idiom",
+"w": "esprit de corps",
+"kind": "idiom",
+"gloss": [
+"A shared spirit of comradeship, enthusiasm, and devotion to a cause among the members of a group, for example of a military unit."
+]
+},
+{
+"id": "full-of-oneself_idiom",
+"w": "full of oneself",
+"kind": "idiom",
+"gloss": [
+"Egotistical, believing oneself to be superior to others; preoccupied with one's own work, interests, point of view, etc."
+]
+},
+{
+"id": "run-out-of-steam_idiom",
+"w": "run out of steam",
+"kind": "idiom",
+"gloss": [
+"To run out of energy or motivation."
+]
+},
+{
+"id": "attic-salt_idiom",
+"w": "Attic salt",
+"kind": "idiom",
+"gloss": [
+"Pointed and delicate wit."
+]
+},
+{
+"id": "beyond-a-shadow-of-a-doubt_idiom",
+"w": "beyond a shadow of a doubt",
+"kind": "idiom",
+"gloss": [
+"Without any doubt or hesitation at all."
+]
+},
+{
+"id": "do-drugs_idiom",
+"w": "do drugs",
+"kind": "idiom",
+"gloss": [
+"To abuse an illegal drug or drugs, especially as a result of chemical addiction."
+]
+},
+{
+"id": "fox-in-the-henhouse_idiom",
+"w": "fox in the henhouse",
+"kind": "idiom",
+"gloss": [
+"Someone untrustworthy placed in a position of trust in which they will be harmful, damaging or detrimental for their own personal gain."
+]
+},
+{
+"id": "set-the-thames-on-fire_idiom",
+"w": "set the Thames on fire",
+"kind": "idiom",
+"gloss": [
+"To achieve something amazing but to a nearly-impossible degree; to do something which brings great public acclaim."
+]
+},
+{
+"id": "from-cover-to-cover_idiom",
+"w": "from cover to cover",
+"kind": "idiom",
+"gloss": [
+"From the first page (of a book) all the way to the last page."
+]
+},
+{
+"id": "blue-eyed-boy_idiom",
+"w": "blue-eyed boy",
+"kind": "idiom",
+"gloss": [
+"The favorite, especially a young one, especially of someone in power; a fair-haired boy (US), (Australian).",
+"Used other than figuratively or idiomatically: see blue, eyed, boy."
+]
+},
+{
+"id": "vote-with-one-s-feet_idiom",
+"w": "vote with one's feet",
+"kind": "idiom",
+"gloss": [
+"To express one's preferences through one's actions, by voluntarily participating in or withdrawing from an activity, group, or process; especially, by physical migration to leave a situation one does not like, or to move to a situation one regards as more beneficial."
+]
+},
+{
+"id": "take-a-bow_idiom",
+"w": "take a bow",
+"kind": "idiom",
+"gloss": [
+"To bow (gesture of deference).",
+"To accept praise, as performers in a theater at the end of their act.",
+"To end a performance; to leave."
+]
+},
+{
+"id": "sell-by-date_idiom",
+"w": "sell-by date",
+"kind": "idiom",
+"gloss": [
+"The latest date by which a perishable product should be sold to the public.",
+"An indication that something, or someone, is old and out of date."
+]
+},
+{
+"id": "along-the-lines-of_idiom",
+"w": "along the lines of",
+"kind": "idiom",
+"gloss": [
+"Similar to, but not exactly equal.",
+"Used other than figuratively or idiomatically: see along, the, lines, of."
+]
+},
+{
+"id": "go-to-great-lengths_idiom",
+"w": "go to great lengths",
+"kind": "idiom",
+"gloss": [
+"To make a major effort; to be very careful when doing something, especially to an extreme or excessive degree."
+]
+},
+{
+"id": "look-the-other-way_idiom",
+"w": "look the other way",
+"kind": "idiom",
+"gloss": [
+"To ignore something wrong; to turn a blind eye to something; to connive at something."
+]
+},
+{
+"id": "thick-as-thieves_idiom",
+"w": "thick as thieves",
+"kind": "idiom",
+"gloss": [
+"Intimate, close-knit, tight."
+]
+},
+{
+"id": "as-best-one-can_idiom",
+"w": "as best one can",
+"kind": "idiom",
+"gloss": [
+"In the best possible way, given one's circumstances and abilities."
+]
+},
+{
+"id": "old-wine-in-a-new-bottle_idiom",
+"w": "old wine in a new bottle",
+"kind": "idiom",
+"gloss": [
+"An existing concept or institution offered as though it were a new one."
+]
+},
+{
+"id": "promised-land_idiom",
+"w": "Promised Land",
+"kind": "idiom",
+"gloss": [
+"Any place to which one eagerly seeks to go and which one expects to greatly improve one's situation."
+]
+},
+{
+"id": "thought-bubble_idiom",
+"w": "thought bubble",
+"kind": "idiom",
+"gloss": [
+"A rounded or cloud-shaped outline, usually containing words, representing thought in a cartoon, and typically emanating from the thinker by a path of small circles.",
+"An ill-conceived idea."
+]
+},
+{
+"id": "lose-one-s-cool_idiom",
+"w": "lose one's cool",
+"kind": "idiom",
+"gloss": [
+"To become upset or disconcerted; to lose one's temper."
+]
+},
+{
+"id": "firing-line_idiom",
+"w": "firing line",
+"kind": "idiom",
+"gloss": [
+"The line from which soldiers fire their weapons at a target; especially the front line of troops in a battle.",
+"A row of shooters.",
+"Line of fire, a situation in which someone or something is targeted."
+]
+},
+{
+"id": "in-your-dreams_idiom",
+"w": "in your dreams",
+"kind": "idiom",
+"gloss": [
+"Used to express the speaker's skepticism about another's preceding statement about a desired or assumed state of affairs."
+]
+},
+{
+"id": "for-one-thing_idiom",
+"w": "for one thing",
+"kind": "idiom",
+"gloss": [
+"Used to introduce one reason or example among potentially several reasons for something that has been stated or is about to be explained."
+]
+},
+{
+"id": "under-no-circumstances_idiom",
+"w": "under no circumstances",
+"kind": "idiom",
+"gloss": [
+"Never ever, not for any reason."
+]
+},
+{
+"id": "just-a-second_idiom",
+"w": "just a second",
+"kind": "idiom",
+"gloss": [
+"Only one second; a passage of time one-sixtieth of a minute in duration.",
+"A short period of time, typically anywhere from a few seconds to several minutes or more.",
+"Stop; wait. Used to indicate that the speaker wishes the previous speaker or the proceedings to stop so that he or she can comment on what has been said or has happened so far."
+]
+},
+{
+"id": "suck-my-balls_idiom",
+"w": "suck my balls",
+"kind": "idiom",
+"gloss": [
+"An irreverent rebuke or dismissal."
+]
+},
+{
+"id": "here-we-go-again_idiom",
+"w": "here we go again",
+"kind": "idiom",
+"gloss": [
+"An expression of frustration upon seeing or hearing something bad repeated."
+]
+},
+{
+"id": "dig-one-s-own-grave_idiom",
+"w": "dig one's own grave",
+"kind": "idiom",
+"gloss": [
+"To behave in a way that is likely to cause one to lose or fail, including, but not limited to, result in death."
+]
+},
+{
+"id": "between-the-hammer-and-the-anvil_idiom",
+"w": "between the hammer and the anvil",
+"kind": "idiom",
+"gloss": [
+"With the choice between two unpleasant or distasteful options; in a predicament or quandary."
+]
+},
+{
+"id": "in-the-bag_idiom",
+"w": "in the bag",
+"kind": "idiom",
+"gloss": [
+"Of a desirable thing, certain or extremely likely to occur.",
+"Intoxicated; drunk."
+]
+},
+{
+"id": "in-living-memory_idiom",
+"w": "in living memory",
+"kind": "idiom",
+"gloss": [
+"In recent history, in recorded history amongst the lifespan of extant people; events or situations which can be remembered by people that are still alive."
+]
+},
+{
+"id": "white-magic_idiom",
+"w": "white magic",
+"kind": "idiom",
+"gloss": [
+"Magic derived from good or benign forces, as distinct from evil or malevolent forces; or magic performed with the intention of doing good or giving aid."
+]
+},
+{
+"id": "give-one-s-all_idiom",
+"w": "give one's all",
+"kind": "idiom",
+"gloss": [
+"To make the utmost effort; to contribute, using all of one's abilities and resources.",
+"To lose one's life while making the utmost effort with full commitment."
+]
+},
+{
+"id": "lord-it-over_idiom",
+"w": "lord it over",
+"kind": "idiom",
+"gloss": [
+"To behave as if one is in control of; to make a display of having an advantage over or superiority to."
+]
+},
+{
+"id": "make-history_idiom",
+"w": "make history",
+"kind": "idiom",
+"gloss": [
+"To do something that will be widely remembered for a long time."
+]
+},
+{
+"id": "matter-of-time_idiom",
+"w": "matter of time",
+"kind": "idiom",
+"gloss": [
+"An inevitable result; something that is bound to happen."
+]
+},
+{
+"id": "cautionary-tale_idiom",
+"w": "cautionary tale",
+"kind": "idiom",
+"gloss": [
+"A story, originally told in folklore, to warn its audience of a certain danger."
+]
+},
+{
+"id": "shit-the-bed_idiom",
+"w": "shit the bed",
+"kind": "idiom",
+"gloss": [
+"Of a person or thing, to fail, often in a complete and irreparable fashion or to be up early getting work done or showing up early when times before you have been late.",
+"Used other than figuratively or idiomatically: see shit, bed."
+]
+},
+{
+"id": "laugh-in-one-s-sleeve_idiom",
+"w": "laugh in one's sleeve",
+"kind": "idiom",
+"gloss": [
+"to laugh in secret or to oneself, usually gloatingly"
+]
+},
+{
+"id": "as-a-whole_idiom",
+"w": "as a whole",
+"kind": "idiom",
+"gloss": [
+"Used to relate to all the parts of something: altogether, on the whole"
+]
+},
+{
+"id": "scotch-mist_idiom",
+"w": "Scotch mist",
+"kind": "idiom",
+"gloss": [
+"A cold and penetrating mist, verging on rain.",
+"A drink of Scotch whisky served with ice and lemon peel.",
+"The perennial flowering plant Galium sylvaticum."
+]
+},
+{
+"id": "from-the-cradle-to-the-grave_idiom",
+"w": "from the cradle to the grave",
+"kind": "idiom",
+"gloss": [
+"Spanning an entire lifetime; from birth to death."
+]
+},
+{
+"id": "blood-sweat-and-tears_idiom",
+"w": "blood, sweat and tears",
+"kind": "idiom",
+"gloss": [
+"A person's determination and hard work."
+]
+},
+{
+"id": "good-life_idiom",
+"w": "good life",
+"kind": "idiom",
+"gloss": [
+"A life of material comforts and luxuries.",
+"A way of living that is morally good, often one that is healthy and simple."
+]
+},
+{
+"id": "make-a-show-of-oneself_idiom",
+"w": "make a show of oneself",
+"kind": "idiom",
+"gloss": [
+"To embarrass oneself or others in public."
+]
+},
+{
+"id": "fall-into-a-trap_idiom",
+"w": "fall into a trap",
+"kind": "idiom",
+"gloss": [
+"To make a mistake, a bad decision or act senselessly and get into an extremely difficult situation.",
+"To be fooled and get into a difficult situation by relying on someone or responding to a scam, trick or prank."
+]
+}
+]

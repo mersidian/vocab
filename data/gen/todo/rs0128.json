@@ -1,0 +1,802 @@
+[
+{
+"id": "stand-on-its-own_idiom",
+"w": "stand on its own",
+"kind": "idiom",
+"gloss": [
+"To be independent of others"
+]
+},
+{
+"id": "sing-from-the-same-hymnbook_idiom",
+"w": "sing from the same hymnbook",
+"kind": "idiom",
+"gloss": [
+"To make the same or similar statements, especially to express the same opinions in public as a result of a prior agreement."
+]
+},
+{
+"id": "put-hair-on-someone-s-chest_idiom",
+"w": "put hair on someone's chest",
+"kind": "idiom",
+"gloss": [
+"To make a person (especially a male) stronger or more masculine or mature."
+]
+},
+{
+"id": "turn-a-hair_idiom",
+"w": "turn a hair",
+"kind": "idiom",
+"gloss": [
+"To show fear, alarm or distress; to be affected (by an experience or situation)."
+]
+},
+{
+"id": "spill-one-s-seed_idiom",
+"w": "spill one's seed",
+"kind": "idiom",
+"gloss": [
+"To ejaculate."
+]
+},
+{
+"id": "amber-gambler_idiom",
+"w": "amber gambler",
+"kind": "idiom",
+"gloss": [
+"A driver of a road vehicle who accelerates when the traffic lights change from green to amber (instead of stopping, as required by law), gambling that no vehicle will cross his or her path; a driver who starts off when the traffic lights show red and amber together, but not yet green."
+]
+},
+{
+"id": "bring-to-the-table_idiom",
+"w": "bring to the table",
+"kind": "idiom",
+"gloss": [
+"To contribute (something) to a joint effort or discussion."
+]
+},
+{
+"id": "now-you-mention-it_idiom",
+"w": "now you mention it",
+"kind": "idiom",
+"gloss": [
+"Used to precede another comment about something just mentioned."
+]
+},
+{
+"id": "new-school_idiom",
+"w": "new school",
+"kind": "idiom",
+"gloss": [
+"A style, way of thinking, or method for accomplishing a task that is typical of the current era, as opposed to former eras."
+]
+},
+{
+"id": "cat-in-the-meal-tub_idiom",
+"w": "cat in the meal-tub",
+"kind": "idiom",
+"gloss": [
+"Something concealed; a hidden danger."
+]
+},
+{
+"id": "cross-my-heart_idiom",
+"w": "cross my heart",
+"kind": "idiom",
+"gloss": [
+"A declaration that the speaker is telling the truth."
+]
+},
+{
+"id": "last-of-the-big-spenders_idiom",
+"w": "last of the big spenders",
+"kind": "idiom",
+"gloss": [
+"Someone who does not spend much money."
+]
+},
+{
+"id": "have-one-s-number-on-it_idiom",
+"w": "have one's number on it",
+"kind": "idiom",
+"gloss": [
+"To be destined for someone."
+]
+},
+{
+"id": "cold-chills_idiom",
+"w": "cold chills",
+"kind": "idiom",
+"gloss": [
+"Feelings of fear."
+]
+},
+{
+"id": "hiding-to-nothing_idiom",
+"w": "hiding to nothing",
+"kind": "idiom",
+"gloss": [
+"A situation in which victory has little or no value, but defeat has a huge cost."
+]
+},
+{
+"id": "carry-the-can_idiom",
+"w": "carry the can",
+"kind": "idiom",
+"gloss": [
+"To take responsibility, especially in a challenging situation."
+]
+},
+{
+"id": "merry-dance_idiom",
+"w": "merry dance",
+"kind": "idiom",
+"gloss": [
+"A useless waste of time resulting from a deception."
+]
+},
+{
+"id": "in-and-of-itself_idiom",
+"w": "in and of itself",
+"kind": "idiom",
+"gloss": [
+"Synonym of in itself."
+]
+},
+{
+"id": "throw-one-s-hat-in-the-ring_idiom",
+"w": "throw one's hat in the ring",
+"kind": "idiom",
+"gloss": [
+"To announce one's candidacy in a contest."
+]
+},
+{
+"id": "come-to-nought_idiom",
+"w": "come to nought",
+"kind": "idiom",
+"gloss": [
+"To fail completely; to have no successful result."
+]
+},
+{
+"id": "flea-in-one-s-ear_idiom",
+"w": "flea in one's ear",
+"kind": "idiom",
+"gloss": [
+"A stinging rebuke or rebuff."
+]
+},
+{
+"id": "fair-to-middling_idiom",
+"w": "fair to middling",
+"kind": "idiom",
+"gloss": [
+"Only tolerably good; somewhat favorable."
+]
+},
+{
+"id": "letters-after-one-s-name_idiom",
+"w": "letters after one's name",
+"kind": "idiom",
+"gloss": [
+"A list of abbreviations, separated by commas, representing the academic qualifications and civil or military honors achieved by a person."
+]
+},
+{
+"id": "strap-on-a-pair_idiom",
+"w": "strap on a pair",
+"kind": "idiom",
+"gloss": [
+"To be brave; to show some courage, especially in a situation where one has so far failed to do so."
+]
+},
+{
+"id": "make-a-stick-for-one-s-own-back_idiom",
+"w": "make a stick for one's own back",
+"kind": "idiom",
+"gloss": [
+"To make a decision that will have personally adverse consequences."
+]
+},
+{
+"id": "go-down-that-road_idiom",
+"w": "go down that road",
+"kind": "idiom",
+"gloss": [
+"To settle a way of doing something; do decide to do something in a particular way."
+]
+},
+{
+"id": "go-down-the-road_idiom",
+"w": "go down the road",
+"kind": "idiom",
+"gloss": [
+"To employ a way of doing something; to do something in a particular way."
+]
+},
+{
+"id": "little-pitcher_idiom",
+"w": "little pitcher",
+"kind": "idiom",
+"gloss": [
+"A child."
+]
+},
+{
+"id": "down-on-one-s-luck_idiom",
+"w": "down on one's luck",
+"kind": "idiom",
+"gloss": [
+"Unlucky or undergoing a period of bad luck, especially with respect to financial matters."
+]
+},
+{
+"id": "ox-is-in-the-ditch_idiom",
+"w": "ox is in the ditch",
+"kind": "idiom",
+"gloss": [
+"This is a big problem; there is unavoidable or demanding work ahead."
+]
+},
+{
+"id": "scratch-that_idiom",
+"w": "scratch that",
+"kind": "idiom",
+"gloss": [
+"To disregard, omit, or ignore the previous statement."
+]
+},
+{
+"id": "dead-to-rights_idiom",
+"w": "dead to rights",
+"kind": "idiom",
+"gloss": [
+"With sufficient evidence to establish responsibility definitively."
+]
+},
+{
+"id": "slap-and-tickle_idiom",
+"w": "slap and tickle",
+"kind": "idiom",
+"gloss": [
+"Mild or playful kissing, cuddling, and other amorous play."
+]
+},
+{
+"id": "play-silly-buggers_idiom",
+"w": "play silly buggers",
+"kind": "idiom",
+"gloss": [
+"To act in a stupid or reckless manner."
+]
+},
+{
+"id": "physical-break_idiom",
+"w": "physical break",
+"kind": "idiom",
+"gloss": [
+"A short break in a meeting or in a classroom setting, intended to improve attention by giving people a chance to move around."
+]
+},
+{
+"id": "cost-cutting_idiom",
+"w": "cost cutting",
+"kind": "idiom",
+"gloss": [
+"The act of reducing one's spending."
+]
+},
+{
+"id": "cap-in-hand_idiom",
+"w": "cap in hand",
+"kind": "idiom",
+"gloss": [
+"In a humble and respectful manner."
+]
+},
+{
+"id": "stomping-ground_idiom",
+"w": "stomping ground",
+"kind": "idiom",
+"gloss": [
+"Synonym of stamping ground."
+]
+},
+{
+"id": "arse-end-of-nowhere_idiom",
+"w": "arse end of nowhere",
+"kind": "idiom",
+"gloss": [
+"A very remote place."
+]
+},
+{
+"id": "take-a-licking-and-keep-on-ticking_idiom",
+"w": "take a licking and keep on ticking",
+"kind": "idiom",
+"gloss": [
+"To be tough; to have endurance; to have the capacity to absorb stress or damage, but still be able to function."
+]
+},
+{
+"id": "check-is-in-the-mail_idiom",
+"w": "check is in the mail",
+"kind": "idiom",
+"gloss": [
+"A common excuse used by debtors to put off creditors."
+]
+},
+{
+"id": "holy-crap_idiom",
+"w": "holy crap",
+"kind": "idiom",
+"gloss": [
+"An expression of amazement: holy cow, holy shit."
+]
+},
+{
+"id": "criss-cross-applesauce_idiom",
+"w": "criss-cross applesauce",
+"kind": "idiom",
+"gloss": [
+"(of sitting): Cross-legged."
+]
+},
+{
+"id": "mary-celeste_idiom",
+"w": "Mary Celeste",
+"kind": "idiom",
+"gloss": [
+"Any ship found empty of all people, in good condition, seemingly abandoned on the high seas."
+]
+},
+{
+"id": "golf-widow_idiom",
+"w": "golf widow",
+"kind": "idiom",
+"gloss": [
+"A woman who is deprived of her husband's time and attention due to his regular absence in order to play golf."
+]
+},
+{
+"id": "best-bet_idiom",
+"w": "best bet",
+"kind": "idiom",
+"gloss": [
+"The best proposal or plan."
+]
+},
+{
+"id": "sick-puppy_idiom",
+"w": "sick puppy",
+"kind": "idiom",
+"gloss": [
+"A person who is sick (mentally disturbed) in a morbid or gruesome way."
+]
+},
+{
+"id": "throw-in-at-the-deep-end_idiom",
+"w": "throw in at the deep end",
+"kind": "idiom",
+"gloss": [
+"To introduce (someone) to a new situation without adequate preparation."
+]
+},
+{
+"id": "piffy-on-a-rock-bun_idiom",
+"w": "piffy on a rock bun",
+"kind": "idiom",
+"gloss": [
+"A person ignored or sidelined from an activity"
+]
+},
+{
+"id": "play-someone-like-a-fiddle_idiom",
+"w": "play someone like a fiddle",
+"kind": "idiom",
+"gloss": [
+"To play (manipulate) (a person) skillfully."
+]
+},
+{
+"id": "red-face-test_idiom",
+"w": "red face test",
+"kind": "idiom",
+"gloss": [
+"A hypothetical test of a person's embarrassment that is either passed or failed. Saying one passes the red face test means one would not blush and thus would not be embarrassed by disclosing something to others or doing something, and saying one fails the red face test means a situation would cause them discernible embarrassment."
+]
+},
+{
+"id": "lone-gunman_idiom",
+"w": "lone gunman",
+"kind": "idiom",
+"gloss": [
+"An individual person who acts on his or her own initiative, without partners, especially one who has sole responsibility for doing something questionable, confidential, or iniquitous."
+]
+},
+{
+"id": "put-someone-in-mind-of_idiom",
+"w": "put someone in mind of",
+"kind": "idiom",
+"gloss": [
+"To remind someone of; to inspire a mental image or awareness of; to cause thoughts concerning."
+]
+},
+{
+"id": "pickin-and-grinnin_idiom",
+"w": "pickin' and grinnin'",
+"kind": "idiom",
+"gloss": [
+"Vigorous playing of folk or country music on a stringed musical instrument, especially the guitar or banjo, while smiling broadly."
+]
+},
+{
+"id": "trench-mouth_idiom",
+"w": "trench mouth",
+"kind": "idiom",
+"gloss": [
+"Acute necrotizing ulcerative gingivitis, a severe bacterial infection of the gums, typically characterized by inflammation, bleeding, deep ulceration, necrotized tissue, pain, fever, enlarged lymph nodes, fatigue, and halitosis."
+]
+},
+{
+"id": "take-the-shadow-for-the-substance_idiom",
+"w": "take the shadow for the substance",
+"kind": "idiom",
+"gloss": [
+"To be easily deceived, credulous, superficial."
+]
+},
+{
+"id": "if-needs-be_idiom",
+"w": "if needs be",
+"kind": "idiom",
+"gloss": [
+"If need be; if there is a need."
+]
+},
+{
+"id": "pack-fudge_idiom",
+"w": "pack fudge",
+"kind": "idiom",
+"gloss": [
+"To perform anal sex."
+]
+},
+{
+"id": "wild-horses_idiom",
+"w": "wild horses",
+"kind": "idiom",
+"gloss": [
+"A force not subject to human control and normally stronger than a man."
+]
+},
+{
+"id": "go-jump-in-the-lake_idiom",
+"w": "go jump in the lake",
+"kind": "idiom",
+"gloss": [
+"Used to tell someone to go away, or that their request will not be met."
+]
+},
+{
+"id": "booze-can_idiom",
+"w": "booze can",
+"kind": "idiom",
+"gloss": [
+"A nightclub or bar, especially one which operates illegally or is otherwise disreputable."
+]
+},
+{
+"id": "fudge-the-issue_idiom",
+"w": "fudge the issue",
+"kind": "idiom",
+"gloss": [
+"Adopt a solution to a specific problem which does not address the larger, more general problem of which the specific problem is an instance."
+]
+},
+{
+"id": "locked-up_idiom",
+"w": "locked up",
+"kind": "idiom",
+"gloss": [
+"Imprisoned, incarcerated."
+]
+},
+{
+"id": "morning-person_idiom",
+"w": "morning person",
+"kind": "idiom",
+"gloss": [
+"A person who wakes up, without difficulty, early each morning and is alert and active during the first part of the day."
+]
+},
+{
+"id": "take-down-a-peg_idiom",
+"w": "take down a peg",
+"kind": "idiom",
+"gloss": [
+"Synonym of take down a notch."
+]
+},
+{
+"id": "line-in-the-sand_idiom",
+"w": "line in the sand",
+"kind": "idiom",
+"gloss": [
+"A defining moment; a cutoff point."
+]
+},
+{
+"id": "water-to-one-s-mill_idiom",
+"w": "water to one's mill",
+"kind": "idiom",
+"gloss": [
+"That which energizes or stimulates one."
+]
+},
+{
+"id": "turn-a-trick_idiom",
+"w": "turn a trick",
+"kind": "idiom",
+"gloss": [
+"To perform a sexual service for a customer."
+]
+},
+{
+"id": "badge-bunny_idiom",
+"w": "badge bunny",
+"kind": "idiom",
+"gloss": [
+"A woman who is romantically attracted to police officers and who seeks out their companionship."
+]
+},
+{
+"id": "race-queen_idiom",
+"w": "race queen",
+"kind": "idiom",
+"gloss": [
+"A glamorous model accompanying the pit crew in Japanese motor racing."
+]
+},
+{
+"id": "scholar-and-gentleman_idiom",
+"w": "scholar and gentleman",
+"kind": "idiom",
+"gloss": [
+"An admirable, intelligent person (usually a man)."
+]
+},
+{
+"id": "folk-devil_idiom",
+"w": "folk devil",
+"kind": "idiom",
+"gloss": [
+"A person or type of person blamed by the public for various ills, as during a moral panic."
+]
+},
+{
+"id": "splice-the-mainbrace_idiom",
+"w": "splice the mainbrace",
+"kind": "idiom",
+"gloss": [
+"To have an alcoholic drink."
+]
+},
+{
+"id": "day-out_idiom",
+"w": "day out",
+"kind": "idiom",
+"gloss": [
+"An excursion, returning home on the same day."
+]
+},
+{
+"id": "snow-on-the-mountaintop_idiom",
+"w": "snow on the mountaintop",
+"kind": "idiom",
+"gloss": [
+"Gray or white hair on one's head, especially as an indication of aging."
+]
+},
+{
+"id": "snow-on-the-rooftop_idiom",
+"w": "snow on the rooftop",
+"kind": "idiom",
+"gloss": [
+"Gray or white hair on one's head, especially as an indication of aging."
+]
+},
+{
+"id": "give-someone-the-chair_idiom",
+"w": "give someone the chair",
+"kind": "idiom",
+"gloss": [
+"To sentence a person to execution by means of the electric chair."
+]
+},
+{
+"id": "lap-of-luxury_idiom",
+"w": "lap of luxury",
+"kind": "idiom",
+"gloss": [
+"A position or situation in which one is spoiled and indulged."
+]
+},
+{
+"id": "half-a-mind_idiom",
+"w": "half a mind",
+"kind": "idiom",
+"gloss": [
+"A moderate inclination."
+]
+},
+{
+"id": "dismal-science_idiom",
+"w": "dismal science",
+"kind": "idiom",
+"gloss": [
+"Economics or the field of political economy."
+]
+},
+{
+"id": "by-one-s-lights_idiom",
+"w": "by one's lights",
+"kind": "idiom",
+"gloss": [
+"According to one's understanding."
+]
+},
+{
+"id": "perp-walk_idiom",
+"w": "perp walk",
+"kind": "idiom",
+"gloss": [
+"The intentional public display before news cameras of a person in police custody, especially someone famous or notorious, for the purpose of satisfying public interest, demonstrating the effectiveness of the authorities, or shaming the person."
+]
+},
+{
+"id": "white-rabbit_idiom",
+"w": "white rabbit",
+"kind": "idiom",
+"gloss": [
+"Someone or something which moves rapidly or hurriedly from place to place."
+]
+},
+{
+"id": "worm-s-eye-view_idiom",
+"w": "worm's-eye view",
+"kind": "idiom",
+"gloss": [
+"A view of an object from below, from the ground."
+]
+},
+{
+"id": "on-the-bounce_idiom",
+"w": "on the bounce",
+"kind": "idiom",
+"gloss": [
+"consecutively, in succession"
+]
+},
+{
+"id": "do-a-slow-burn_idiom",
+"w": "do a slow burn",
+"kind": "idiom",
+"gloss": [
+"To experience a gradually increasing feeling of anger or frustration; to slowly burn."
+]
+},
+{
+"id": "in-with-a-chance_idiom",
+"w": "in with a chance",
+"kind": "idiom",
+"gloss": [
+"Having a chance."
+]
+},
+{
+"id": "outside-chance_idiom",
+"w": "outside chance",
+"kind": "idiom",
+"gloss": [
+"A small likelihood; a remote possibility."
+]
+},
+{
+"id": "get-out-of-bed-on-the-wrong-side_idiom",
+"w": "get out of bed on the wrong side",
+"kind": "idiom",
+"gloss": [
+"To start the day in a bad mood for no apparent reason."
+]
+},
+{
+"id": "shoot-the-boots_idiom",
+"w": "shoot the boots",
+"kind": "idiom",
+"gloss": [
+"To kick swiftly and violently, especially in the groin."
+]
+},
+{
+"id": "bundle-of-nerves_idiom",
+"w": "bundle of nerves",
+"kind": "idiom",
+"gloss": [
+"A person with an especially nervous, excitable, or fearful disposition."
+]
+},
+{
+"id": "hold-someone-s-feet-to-the-fire_idiom",
+"w": "hold someone's feet to the fire",
+"kind": "idiom",
+"gloss": [
+"To maintain personal, social, political, or legal pressure on someone in order to induce them to comply with one's desires; to hold someone accountable for their actions."
+]
+},
+{
+"id": "open-the-kimono_idiom",
+"w": "open the kimono",
+"kind": "idiom",
+"gloss": [
+"To reveal confidential information, especially details of one's business operations."
+]
+},
+{
+"id": "quick-on-one-s-feet_idiom",
+"w": "quick on one's feet",
+"kind": "idiom",
+"gloss": [
+"sharp-witted."
+]
+},
+{
+"id": "have-a-quiet-word_idiom",
+"w": "have a quiet word",
+"kind": "idiom",
+"gloss": [
+"To speak to someone in private."
+]
+},
+{
+"id": "into-detail_idiom",
+"w": "into detail",
+"kind": "idiom",
+"gloss": [
+"Thoroughly; including every detail."
+]
+},
+{
+"id": "by-a-whisker_idiom",
+"w": "by a whisker",
+"kind": "idiom",
+"gloss": [
+"By a very small distance."
+]
+},
+{
+"id": "rest-his-soul_idiom",
+"w": "rest his soul",
+"kind": "idiom",
+"gloss": [
+"Used parenthetically to mark the referent as being deceased"
+]
+},
+{
+"id": "smell-of-an-oily-rag_idiom",
+"w": "smell of an oily rag",
+"kind": "idiom",
+"gloss": [
+"A very small amount, or the absolute minimum (usually of money)."
+]
+},
+{
+"id": "lead-nowhere_idiom",
+"w": "lead nowhere",
+"kind": "idiom",
+"gloss": [
+"to have no purpose, to result in nothing."
+]
+}
+]

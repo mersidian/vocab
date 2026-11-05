@@ -1,0 +1,602 @@
+[
+{
+"id": "tornado_noun",
+"w": "tornado",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "carelessly_adv",
+"w": "carelessly",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "cherish_verb",
+"w": "cherish",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "haunt_noun",
+"w": "haunt",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "bandage_noun",
+"w": "bandage",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "magician_noun",
+"w": "magician",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "newcomer_noun",
+"w": "newcomer",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "unbelievable_adj",
+"w": "unbelievable",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "fluent_adj",
+"w": "fluent",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "reclaim_verb",
+"w": "reclaim",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "teamwork_noun",
+"w": "teamwork",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "bounce_verb",
+"w": "bounce",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "cucumber_noun",
+"w": "cucumber",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "sophomore_noun",
+"w": "sophomore",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "liberate_verb",
+"w": "liberate",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "inject_verb",
+"w": "inject",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "unfairly_adv",
+"w": "unfairly",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "disgusting_adj",
+"w": "disgusting",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "bravely_adv",
+"w": "bravely",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "saucepan_noun",
+"w": "saucepan",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "outlaw_noun",
+"w": "outlaw",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "hostel_noun",
+"w": "hostel",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "uncontrollable_adj",
+"w": "uncontrollable",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "nervousness_noun",
+"w": "nervousness",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "mourn_verb",
+"w": "mourn",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "mislead_verb",
+"w": "mislead",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "parrot_noun",
+"w": "parrot",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "underline_verb",
+"w": "underline",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "shiver_verb",
+"w": "shiver",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "involuntarily_adv",
+"w": "involuntarily",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "vegetarian_adj",
+"w": "vegetarian",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "vegetarian_noun",
+"w": "vegetarian",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "unheard_adj",
+"w": "unheard",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "diver_noun",
+"w": "diver",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "honeymoon_noun",
+"w": "honeymoon",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "misty_adj",
+"w": "misty",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "takeoff_noun",
+"w": "takeoff",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "dedicate_verb",
+"w": "dedicate",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "nectar_noun",
+"w": "nectar",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "waterfall_noun",
+"w": "waterfall",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "inhabitant_noun",
+"w": "inhabitant",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "shave_verb",
+"w": "shave",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "mend_verb",
+"w": "mend",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "astronomer_noun",
+"w": "astronomer",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "messy_adj",
+"w": "messy",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "souvenir_noun",
+"w": "souvenir",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "possessive_adj",
+"w": "possessive",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "fasten_verb",
+"w": "fasten",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "postcard_noun",
+"w": "postcard",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "reunification_noun",
+"w": "reunification",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "festive_adj",
+"w": "festive",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "canteen_noun",
+"w": "canteen",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "bathe_verb",
+"w": "bathe",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "tempt_verb",
+"w": "tempt",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "friendliness_noun",
+"w": "friendliness",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "tumble_verb",
+"w": "tumble",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "innermost_adj",
+"w": "innermost",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "chuckle_noun",
+"w": "chuckle",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "tease_noun",
+"w": "tease",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "spicy_adj",
+"w": "spicy",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "photocopy_noun",
+"w": "photocopy",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "raspberry_noun",
+"w": "raspberry",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "unfriendly_adj",
+"w": "unfriendly",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "kitten_noun",
+"w": "kitten",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "participle_noun",
+"w": "participle",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "addressee_noun",
+"w": "addressee",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "columnist_noun",
+"w": "columnist",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "gymnastics_noun",
+"w": "gymnastics",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "purify_verb",
+"w": "purify",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "lovingly_adv",
+"w": "lovingly",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "excitedly_adv",
+"w": "excitedly",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "fondness_noun",
+"w": "fondness",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "unlucky_adj",
+"w": "unlucky",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "lorry_noun",
+"w": "lorry",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "housework_noun",
+"w": "housework",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "stumble_verb",
+"w": "stumble",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "tasty_adj",
+"w": "tasty",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "refreshments_noun",
+"w": "refreshments",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "dude_noun",
+"w": "dude",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "barbecue_verb",
+"w": "barbecue",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "backpack_noun",
+"w": "backpack",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "infinitive_noun",
+"w": "infinitive",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "nutritious_adj",
+"w": "nutritious",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "seaweed_noun",
+"w": "seaweed",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "broccoli_noun",
+"w": "broccoli",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "embarrass_verb",
+"w": "embarrass",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "smoker_noun",
+"w": "smoker",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "adverb_noun",
+"w": "adverb",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "applaud_verb",
+"w": "applaud",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "preposition_noun",
+"w": "preposition",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "meditate_verb",
+"w": "meditate",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "overwhelm_verb",
+"w": "overwhelm",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "eyesight_noun",
+"w": "eyesight",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "workout_noun",
+"w": "workout",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "bracelet_noun",
+"w": "bracelet",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "soothe_verb",
+"w": "soothe",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "saucer_noun",
+"w": "saucer",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "juicy_adj",
+"w": "juicy",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "sparkle_noun",
+"w": "sparkle",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "popcorn_noun",
+"w": "popcorn",
+"pos": "noun",
+"lvl": "B1"
+}
+]

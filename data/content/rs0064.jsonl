@@ -1,0 +1,100 @@
+{"id":"line-off_pv","th":"ขีดเส้นแบ่ง; ขีดเส้นกั้น","ex":"Please line off the area before the paint dries.","exTh":"กรุณาขีดเส้นแบ่งพื้นที่นี้ก่อนที่สีจะแห้ง","c":1}
+{"id":"line-in_pv","th":"ลากเส้นทับ; เก็บเส้นร่าง","ex":"She used a black pen to line in the sketch.","exTh":"เธอใช้ปากกาสีดำลากเส้นทับภาพร่าง","c":1}
+{"id":"sling-over_pv","th":"โยนข้าม; เหวี่ยงข้าม","ex":"He slung the bag over the fence.","exTh":"เขาเหวี่ยงกระเป๋าข้ามรั้วไป","c":1}
+{"id":"sling-to_pv","th":"จ่ายสินบนให้ตำรวจ","ex":"The gamblers had to sling to the officer every week.","exTh":"นักพนันต้องจ่ายสินบนให้ตำรวจทุกสัปดาห์","c":1}
+{"id":"sling-about_pv","th":"เที่ยวเตร็ดเตร่; เสียเวลาไปเรื่อย","ex":"He spent the afternoon slinging about in town.","exTh":"เขาใช้เวลาช่วงบ่ายเที่ยวเตร็ดเตร่อยู่ในเมือง","c":1}
+{"id":"sling-along_pv","th":"เตร็ดเตร่; เดินเอื่อยเฉื่อย","ex":"A few boys were slinging along by the river.","exTh":"เด็กผู้ชายสองสามคนเดินเตร็ดเตร่อยู่ริมแม่น้ำ","c":1}
+{"id":"jerky-up_pv","th":"ทำเนื้อแห้ง; ตากเนื้อให้เป็นเจอร์กี","ex":"We jerky up the leftover beef every winter.","exTh":"เราทำเนื้อวัวที่เหลือให้เป็นเนื้อแห้งทุกฤดูหนาว","c":1}
+{"id":"noodle-up_pv","th":"คิดขึ้นมา; ระดมความคิด","ex":"Let's noodle up some ideas for the party.","exTh":"มาช่วยกันคิดไอเดียสำหรับงานปาร์ตี้กันเถอะ","c":1}
+{"id":"breadcrumb-up_pv","th":"คลุกเกล็ดขนมปัง; ชุบเกล็ดขนมปัง","ex":"I breadcrumb up the chicken before frying it.","exTh":"ฉันชุบไก่ด้วยเกล็ดขนมปังก่อนนำไปทอด","c":1}
+{"id":"crumb-up_pv","th":"ทำความสะอาด; เก็บกวาด","ex":"He crumbed up the table after dinner.","exTh":"เขาเก็บกวาดโต๊ะหลังมื้อเย็น","c":1}
+{"id":"crumble-up_pv","th":"ขยี้ให้เป็นเศษ; ร่วนเป็นผง","ex":"Crumble up the cookies and add them to the cake.","exTh":"ขยี้คุกกี้ให้เป็นเศษแล้วใส่ลงไปในเค้ก","c":2}
+{"id":"be-on-at_pv","th":"บ่นใส่; จู้จี้ขี้บ่น","ex":"My mother is always on at me to clean my room.","exTh":"แม่คอยบ่นให้ฉันไปทำความสะอาดห้องอยู่เสมอ","c":3,"note":"ใช้ในภาษาอังกฤษแบบอังกฤษ"}
+{"id":"butter-down_pv","th":"ทาเนยให้ทั่ว; ทาเนยหนาๆ","ex":"She buttered down the hot bread.","exTh":"เธอทาเนยให้ทั่วขนมปังร้อนๆ","c":1}
+{"id":"roll-away_pv","th":"กลิ้งออกไป; กระเด็นออกไป","ex":"The ball rolled away down the hill.","exTh":"ลูกบอลกลิ้งหายลงไปตามเนินเขา","c":3}
+{"id":"nick-up_pv","th":"ทำให้เป็นรอยบากหลายแห่ง","ex":"The old table was all nicked up from years of use.","exTh":"โต๊ะเก่าตัวนั้นเต็มไปด้วยรอยบากจากการใช้งานหลายปี","c":1}
+{"id":"merc-up_pv","th":"จ้างทหารรับจ้าง (ในเกม)","ex":"We need to merc up before the final battle.","exTh":"เราต้องจ้างทหารรับจ้างก่อนการสู้รบครั้งสุดท้าย","c":1,"note":"ศัพท์สแลงในวงการเกม"}
+{"id":"sex-in_pv","th":"เข้าแก๊งด้วยการมีเพศสัมพันธ์","ex":"Some gangs make new members sex in, which is illegal.","exTh":"บางแก๊งให้สมาชิกใหม่เข้าพิธีด้วยการมีเพศสัมพันธ์ ซึ่งผิดกฎหมาย","c":1,"note":"สแลงหยาบและพบน้อยมาก"}
+{"id":"blood-in_pv","th":"เข้าแก๊งด้วยการใช้ความรุนแรง","ex":"He was told to blood in to join the gang.","exTh":"เขาถูกบอกให้ก่อเหตุรุนแรงเพื่อเข้าร่วมแก๊ง","c":1,"note":"สแลงเกี่ยวกับแก๊งอาชญากรรม"}
+{"id":"blood-out_pv","th":"ออกจากแก๊งด้วยการก่อเหตุฆาตกรรม","ex":"In some films, members must blood out to leave the gang.","exTh":"ในภาพยนตร์บางเรื่อง สมาชิกต้องก่อเหตุฆาตกรรมเพื่อออกจากแก๊ง","c":1,"note":"สแลงเกี่ยวกับแก๊งอาชญากรรม"}
+{"id":"sniff-up_pv","th":"สูดเข้าไป; ดมเข้าไป","ex":"The dog sniffed up the smell of fresh bread.","exTh":"สุนัขสูดกลิ่นขนมปังอบใหม่ๆ เข้าไป","c":1}
+{"id":"coffee-up_pv","th":"ดื่มกาแฟ; ซื้อกาแฟ","ex":"Let's coffee up before the long meeting.","exTh":"ไปดื่มกาแฟกันก่อนการประชุมที่ยาวนานเถอะ","c":2}
+{"id":"caffeine-up_pv","th":"ดื่มกาแฟให้ตื่นตัว; รับคาเฟอีน","ex":"I need to caffeine up before I start work.","exTh":"ฉันต้องดื่มกาแฟให้ตื่นตัวก่อนเริ่มทำงาน","c":2}
+{"id":"seat-down_pv","th":"นั่งลง","ex":"Please seat down and wait for the doctor.","exTh":"กรุณานั่งลงและรอคุณหมอ","c":1}
+{"id":"walk-behind_pv","th":"เดินตามหลังเครื่อง; ขับเครื่องตัดหญ้าแบบเดินตาม","ex":"He walks behind the mower on Saturday mornings.","exTh":"เขาเดินตามเครื่องตัดหญ้าทุกเช้าวันเสาร์","c":1}
+{"id":"tone-with_pv","th":"เข้ากัน (สี); ให้โทนเดียวกับ","ex":"The curtains tone with the sofa very well.","exTh":"ผ้าม่านเข้ากับโซฟาได้ดีมาก","c":2}
+{"id":"land-with_pv","th":"โยนงานหนักให้; ทำให้ต้องรับภาระ","ex":"I was landed with all the cleaning again.","exTh":"ฉันถูกโยนงานทำความสะอาดทั้งหมดให้อีกแล้ว","c":3}
+{"id":"futz-with_pv","th":"ขยับเล่นไปเรื่อย; ลองจับๆ ดัดแปลง","ex":"Stop futzing with the settings and just start.","exTh":"เลิกขยับตั้งค่าเล่นไปเรื่อยแล้วเริ่มเสียที","c":2,"note":"ภาษาพูดแบบอเมริกัน"}
+{"id":"read-across_pv","th":"สรุปโยงจากกรณีหนึ่งไปอีกกรณี; ใช้ผลศึกษาเทียบเคียง","ex":"Scientists read across from mice to humans.","exTh":"นักวิทยาศาสตร์สรุปโยงผลจากหนูไปสู่มนุษย์","c":1}
+{"id":"beat-about_pv","th":"ค้นหา; เสาะหา","ex":"She beat about for her keys in the bag.","exTh":"เธอค้นหากุญแจในกระเป๋า","c":2}
+{"id":"buzz-about_pv","th":"วิ่งวุ่น; ว่อนไปมา","ex":"Children were buzzing about the garden.","exTh":"เด็กๆ วิ่งว่อนไปมาในสวน","c":2}
+{"id":"bucket-about_pv","th":"โคลงเคลงอย่างแรง; สั่นกระเพื่อม","ex":"The small boat bucketed about in the storm.","exTh":"เรือลำเล็กโคลงเคลงอย่างแรงท่ามกลางพายุ","c":1}
+{"id":"kick-about_pv","th":"เตะเล่น; วางทิ้งไว้เกะกะ","ex":"The kids kick a ball about after school.","exTh":"เด็กๆ เตะบอลเล่นกันหลังเลิกเรียน","c":3}
+{"id":"crap-around_pv","th":"เสียเวลาไปกับเรื่องไร้สาระ","ex":"Stop crapping around and finish your homework.","exTh":"เลิกเสียเวลากับเรื่องไร้สาระแล้วทำการบ้านให้เสร็จ","c":2,"note":"คำหยาบ ใช้ในภาษาพูด"}
+{"id":"hang-round_pv","th":"เตร่; รออยู่แถวนั้น","ex":"Some teenagers hang round outside the shop.","exTh":"วัยรุ่นบางกลุ่มมายืนเตร่อยู่หน้าร้าน","c":3,"note":"ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"lark-around_pv","th":"เล่นซนสนุกสนาน; ทำตัวตลก","ex":"The boys were larking around in the pool.","exTh":"เด็กผู้ชายเล่นซนกันอยู่ในสระว่ายน้ำ","c":2}
+{"id":"lark-about_pv","th":"เล่นซน; ทำตัวตลก","ex":"Stop larking about and listen to me.","exTh":"เลิกเล่นซนแล้วฟังฉันพูด","c":2,"note":"ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"loll-around_pv","th":"นอนเอกเขนก; อยู่เฉยๆ อย่างเกียจคร้าน","ex":"We lolled around on the sofa all day.","exTh":"เรานอนเอกเขนกอยู่บนโซฟาทั้งวัน","c":2}
+{"id":"loll-about_pv","th":"นอนเอกเขนก; เอื่อยเฉื่อย","ex":"He lolled about at home on Sunday.","exTh":"เขานอนเอกเขนกอยู่บ้านวันอาทิตย์","c":2}
+{"id":"hand-around_pv","th":"ส่งต่อกันไป; แจกจ่าย","ex":"She handed the cookies around to everyone.","exTh":"เธอส่งคุกกี้ต่อกันไปให้ทุกคน","c":3}
+{"id":"dig-around_pv","th":"ขุดคุ้ย; รื้อค้น","ex":"He dug around in the drawer for a pen.","exTh":"เขารื้อค้นในลิ้นชักหาปากกา","c":3}
+{"id":"dig-round_pv","th":"รื้อค้น; ขุดคุ้ย","ex":"I dug round in my bag but found nothing.","exTh":"ฉันรื้อค้นในกระเป๋าแต่ไม่เจออะไรเลย","c":2,"note":"ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"hell-around_pv","th":"ใช้ชีวิตเกเร; ก่อเรื่องวุ่นวาย","ex":"He used to hell around when he was young.","exTh":"สมัยหนุ่มๆ เขาใช้ชีวิตเกเรไปวันๆ","c":1}
+{"id":"hack-around_pv","th":"เฉไฉไปวันๆ; เสียเวลาเล่น","ex":"We just hacked around at the mall.","exTh":"เราแค่ใช้เวลาเตร่ไปเรื่อยๆ อยู่ที่ห้าง","c":1}
+{"id":"fuss-around_pv","th":"วุ่นวายกับเรื่องไม่เป็นเรื่อง","ex":"Stop fussing around and help me cook.","exTh":"เลิกวุ่นวายกับเรื่องจุกจิกแล้วมาช่วยฉันทำอาหาร","c":2}
+{"id":"frig-around_pv","th":"เล่นเฉไฉ; เสียเวลาไปเรื่อย","ex":"Don't frig around, we're late.","exTh":"อย่าเสียเวลาเล่นเฉไฉ เราสายแล้ว","c":2,"note":"คำหยาบ ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"bugger-about_pv","th":"เสียเวลาไปเปล่าๆ; ทำเรื่องจุกจิก","ex":"I spent the morning buggering about with emails.","exTh":"ฉันใช้เวลาตอนเช้าไปกับการวุ่นวายเรื่องอีเมลจุกจิก","c":2,"note":"คำหยาบ ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"bugger-around_pv","th":"เสียเวลาไปเปล่าๆ; ทำเรื่องจุกจิก","ex":"Stop buggering around and get to work.","exTh":"เลิกเสียเวลาไปเปล่าๆ แล้วไปทำงานได้แล้ว","c":2,"note":"คำหยาบ ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"pull-about_pv","th":"ปฏิบัติอย่างหยาบกระด้าง; กระชากไปมา","ex":"The bully pulled the smaller boy about.","exTh":"เด็กเกเรกระชากเด็กตัวเล็กกว่าไปมา","c":1}
+{"id":"see-after_pv","th":"ดูแล; เลี้ยงดู","ex":"She saw after her younger brother.","exTh":"เธอดูแลน้องชายของเธอ","c":1,"note":"ค่อนข้างโบราณ"}
+{"id":"whore-after_pv","th":"ไล่ตามอย่างหน้ามืดตามัว","ex":"He whored after fame and money.","exTh":"เขาไล่ตามชื่อเสียงและเงินทองอย่างหน้ามืดตามัว","c":1,"note":"คำหยาบและโบราณ"}
+{"id":"fetch-about_pv","th":"เปลี่ยนทิศทาง (เรือ)","ex":"The captain fetched about to catch the wind.","exTh":"กัปตันเปลี่ยนทิศเรือเพื่อรับลม","c":1,"note":"ศัพท์เดินเรือ"}
+{"id":"kick-against_pv","th":"ต่อต้าน; ขัดขืน","ex":"He kicked against the new rules at work.","exTh":"เขาต่อต้านกฎใหม่ที่ที่ทำงาน","c":2}
+{"id":"ramp-along_pv","th":"แล่นเรือเต็มใบ","ex":"The ship ramped along with all sails full.","exTh":"เรือแล่นไปข้างหน้าด้วยใบเต็มลม","c":1,"note":"ศัพท์เดินเรือ"}
+{"id":"worry-along_pv","th":"พยายามฝ่าฟันไป; อดทนต่อไป","ex":"We worried along until the project was done.","exTh":"เราพยายามฝ่าฟันไปจนโครงการเสร็จ","c":1}
+{"id":"fool-along_pv","th":"ค่อยๆ ไปอย่างสบายๆ","ex":"We fooled along the path without hurrying.","exTh":"เราเดินไปตามทางอย่างสบายๆ โดยไม่รีบ","c":1}
+{"id":"drift-along_pv","th":"ใช้ชีวิตไปเรื่อยๆ; ไร้จุดหมาย","ex":"He just drifts along without any plans.","exTh":"เขาใช้ชีวิตไปเรื่อยๆ โดยไม่มีแผนอะไร","c":2}
+{"id":"cosy-along_pv","th":"พูดปลอบให้ตายใจ","ex":"They cosied her along with kind words.","exTh":"พวกเขาพูดปลอบให้เธอตายใจด้วยคำพูดดีๆ","c":1,"note":"ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"hum-along_pv","th":"ดำเนินไปอย่างราบรื่น","ex":"The new system hums along without any help.","exTh":"ระบบใหม่ทำงานไปอย่างราบรื่นโดยไม่ต้องมีใครช่วย","c":2}
+{"id":"prepare-ahead_pv","th":"เตรียมล่วงหน้า","ex":"I prepare ahead by cooking on Sundays.","exTh":"ฉันเตรียมอาหารล่วงหน้าโดยทำกับข้าวทุกวันอาทิตย์","c":3}
+{"id":"roar-ahead_pv","th":"พุ่งทะยานไปข้างหน้า; เพิ่มขึ้นอย่างรวดเร็ว","ex":"Sales roared ahead after the new ad.","exTh":"ยอดขายพุ่งทะยานขึ้นหลังจากโฆษณาตัวใหม่","c":2}
+{"id":"radio-ahead_pv","th":"วิทยุแจ้งล่วงหน้า","ex":"The pilot radioed ahead to the airport.","exTh":"นักบินวิทยุแจ้งสนามบินล่วงหน้า","c":2}
+{"id":"phone-ahead_pv","th":"โทรศัพท์แจ้งล่วงหน้า","ex":"Please phone ahead to book a table.","exTh":"กรุณาโทรศัพท์ไปจองโต๊ะล่วงหน้า","c":3}
+{"id":"call-ahead_pv","th":"โทรไปแจ้งล่วงหน้า; โทรจองล่วงหน้า","ex":"I called ahead to check if they were open.","exTh":"ฉันโทรไปถามล่วงหน้าว่าร้านเปิดไหม","c":3}
+{"id":"plan-ahead_pv","th":"วางแผนล่วงหน้า","ex":"It is wise to plan ahead for a long trip.","exTh":"การวางแผนล่วงหน้าสำหรับการเดินทางไกลเป็นเรื่องฉลาด","c":4}
+{"id":"lumber-with_pv","th":"ต้องทนรับภาระกับ; ต้องจำใจอยู่กับ","ex":"I got lumbered with my annoying cousin all day.","exTh":"ฉันต้องจำใจอยู่กับญาติที่น่ารำคาญทั้งวัน","c":2,"note":"ภาษาอังกฤษแบบอังกฤษ มักใช้ในรูปถูกกระทำ"}
+{"id":"loom-ahead_pv","th":"ใกล้เข้ามาอย่างน่ากลัว","ex":"Trouble loomed ahead for the small company.","exTh":"ปัญหาใหญ่กำลังใกล้เข้ามาสำหรับบริษัทเล็กแห่งนั้น","c":2}
+{"id":"settle-with_pv","th":"เอาคืน; สะสางความแค้น","ex":"He wants to settle with the man who cheated him.","exTh":"เขาอยากเอาคืนผู้ชายที่โกงเขา","c":2}
+{"id":"have-against_pv","th":"มีเหตุผลที่ไม่ชอบ; ถือสา","ex":"What do you have against my plan?","exTh":"คุณมีอะไรที่ไม่เห็นด้วยกับแผนของฉัน","c":3}
+{"id":"bound-ahead_pv","th":"พุ่งเพิ่มขึ้น; ก้าวกระโดด","ex":"Prices bounded ahead last year.","exTh":"ราคาพุ่งขึ้นอย่างรวดเร็วเมื่อปีที่แล้ว","c":1}
+{"id":"power-ahead_pv","th":"พุ่งทะยานไปข้างหน้า; ก้าวหน้าอย่างแรง","ex":"The team powered ahead in the second half.","exTh":"ทีมพุ่งทะยานขึ้นนำในครึ่งหลัง","c":2}
+{"id":"brief-against_pv","th":"ใส่ร้ายป้ายสี; ให้ข้อมูลลับเพื่อทำลายชื่อเสียง","ex":"Aides briefed against the minister to the press.","exTh":"ผู้ช่วยให้ข่าวร้ายเกี่ยวกับรัฐมนตรีกับสื่อ","c":2,"note":"ภาษาอังกฤษแบบอังกฤษ ใช้ในแวดวงการเมือง"}
+{"id":"side-against_pv","th":"เข้าข้างฝ่ายตรงข้าม; ไม่เห็นด้วยกับ","ex":"Two judges sided against the company.","exTh":"ผู้พิพากษาสองคนตัดสินไม่เข้าข้างบริษัท","c":2}
+{"id":"close-with_pv","th":"เข้าประชิดต่อสู้; ปะทะกับ","ex":"The soldiers closed with the enemy at dawn.","exTh":"ทหารเข้าประชิดปะทะกับข้าศึกตอนรุ่งสาง","c":1}
+{"id":"leap-ahead_pv","th":"ก้าวกระโดดล้ำหน้า","ex":"The company leapt ahead of its rivals.","exTh":"บริษัทก้าวกระโดดล้ำหน้าคู่แข่ง","c":2}
+{"id":"nudge-ahead_pv","th":"เพิ่มขึ้นเล็กน้อย","ex":"Sales nudged ahead by two percent.","exTh":"ยอดขายเพิ่มขึ้นเล็กน้อยสองเปอร์เซ็นต์","c":2}
+{"id":"order-about_pv","th":"สั่งการอย่างเจ้ากี้เจ้าการ; ใช้เหมือนลูกน้อง","ex":"Stop ordering me about, I'm not your servant.","exTh":"เลิกสั่งฉันได้แล้ว ฉันไม่ใช่คนรับใช้ของคุณ","c":3}
+{"id":"come-up-against_pv","th":"เผชิญกับ; ประสบกับ (อุปสรรค)","ex":"We came up against a big problem with the budget.","exTh":"เราเจอปัญหาใหญ่เรื่องงบประมาณ","c":4}
+{"id":"hedge-about_pv","th":"ใส่เงื่อนไขมากมาย; ผูกมัดด้วยข้อจำกัด","ex":"The deal was hedged about with strict rules.","exTh":"ข้อตกลงถูกกำหนดเงื่อนไขไว้เข้มงวดมาก","c":1}
+{"id":"hedge-around_pv","th":"ใส่เงื่อนไขมากมาย; ล้อมด้วยข้อจำกัด","ex":"The contract was hedged around with conditions.","exTh":"สัญญาถูกกำหนดเงื่อนไขไว้มากมาย","c":1}
+{"id":"reason-with_pv","th":"พูดเกลี้ยกล่อมด้วยเหตุผล; ใช้เหตุผลโน้มน้าว","ex":"I tried to reason with him but he would not listen.","exTh":"ฉันพยายามพูดด้วยเหตุผลกับเขาแต่เขาไม่ฟัง","c":3}
+{"id":"rip-apart_pv","th":"ถูกฉีกเป็นชิ้นๆ; พังทลาย","ex":"The family was ripped apart by the argument.","exTh":"ครอบครัวแตกสลายเพราะการทะเลาะกัน","c":3}
+{"id":"tease-apart_pv","th":"แยกออกอย่างระมัดระวัง; แกะปมให้ออก","ex":"It is hard to tease apart the causes of the problem.","exTh":"เป็นเรื่องยากที่จะแยกแยะสาเหตุของปัญหานี้ออกจากกัน","c":2}
+{"id":"push-aside_pv","th":"ผลักไส; ปัดทิ้ง","ex":"He pushed aside all her worries.","exTh":"เขาปัดความกังวลทั้งหมดของเธอทิ้งไป","c":3}
+{"id":"fly-at_pv","th":"โถมเข้าใส่; พุ่งเข้าโจมตี","ex":"The dog flew at the stranger.","exTh":"สุนัขพุ่งเข้าใส่คนแปลกหน้า","c":2}
+{"id":"wink-at_pv","th":"ทำเป็นมองไม่เห็น; หลับตาข้างหนึ่ง","ex":"The guards winked at the smuggling.","exTh":"ยามทำเป็นมองไม่เห็นการลักลอบนั้น","c":2}
+{"id":"boil-away_pv","th":"เดือดจนแห้ง; ระเหยไป","ex":"Don't let the water boil away.","exTh":"อย่าปล่อยให้น้ำเดือดจนแห้ง","c":3}
+{"id":"tick-by_pv","th":"ผ่านไปทีละนิด (เวลา)","ex":"The minutes ticked by slowly.","exTh":"เวลาผ่านไปทีละนาทีอย่างเชื่องช้า","c":3}
+{"id":"buy-down_pv","th":"ซื้อลดอัตราดอกเบี้ย","ex":"They paid extra to buy down the mortgage rate.","exTh":"พวกเขาจ่ายเพิ่มเพื่อลดอัตราดอกเบี้ยสินเชื่อบ้าน","c":2,"note":"ศัพท์การเงิน"}
+{"id":"clew-down_pv","th":"รวบใบเรือลง; ผูกใบเรือให้แน่น","ex":"The crew clewed down the sail before the storm.","exTh":"ลูกเรือรวบใบเรือลงก่อนพายุจะมา","c":1,"note":"ศัพท์เดินเรือ"}
+{"id":"pop-for_pv","th":"เลี้ยง; ควักกระเป๋าจ่ายให้","ex":"I'll pop for dinner tonight.","exTh":"คืนนี้ฉันเลี้ยงมื้อเย็นเอง","c":2}
+{"id":"book-into_pv","th":"จองเข้าพัก; ลงทะเบียนเข้า","ex":"We booked into a small hotel near the beach.","exTh":"เราจองเข้าพักในโรงแรมเล็กๆ ใกล้ชายหาด","c":3}
+{"id":"drum-into_pv","th":"ย้ำให้จำ; ตอกย้ำ","ex":"My teacher drummed the rules into us.","exTh":"ครูของฉันตอกย้ำกฎต่างๆ ให้เราจำ","c":3}
+{"id":"barge-into_pv","th":"พรวดพราดเข้าไป; เดินชนเข้าไป","ex":"He barged into the room without knocking.","exTh":"เขาพรวดพราดเข้าห้องโดยไม่เคาะประตู","c":4}
+{"id":"move-into_pv","th":"ย้ายเข้า","ex":"We move into our new house next week.","exTh":"สัปดาห์หน้าเราจะย้ายเข้าบ้านใหม่","c":4}
+{"id":"pot-on_pv","th":"ย้ายต้นไม้ไปกระถางใหญ่ขึ้น","ex":"You should pot on the plant when it gets bigger.","exTh":"คุณควรย้ายต้นไม้ไปกระถางที่ใหญ่ขึ้นเมื่อมันโตขึ้น","c":2}
+{"id":"lip-out_pv","th":"หมุนวนที่ขอบแล้วไม่ลง (กอล์ฟ)","ex":"His putt lipped out at the last hole.","exTh":"ลูกพัตต์ของเขาวนขอบหลุมแล้วไม่ลงที่หลุมสุดท้าย","c":1,"note":"ศัพท์กีฬา"}
+{"id":"dig-over_pv","th":"พรวนดิน; ขุดดินให้ร่วน","ex":"He dug over the garden in spring.","exTh":"เขาพรวนดินในสวนช่วงฤดูใบไม้ผลิ","c":2}
+{"id":"hash-over_pv","th":"พูดคุยกันอย่างละเอียด; ถกกันยาว","ex":"We hashed over the plan for hours.","exTh":"เราพูดคุยเรื่องแผนกันอย่างละเอียดเป็นชั่วโมง","c":2}
+{"id":"gain-over_pv","th":"ชักจูงให้มาเข้าข้าง; เอาชนะใจ","ex":"She gained over several rivals to her side.","exTh":"เธอชักจูงคู่แข่งหลายคนให้มาเข้าข้าง","c":1,"note":"ค่อนข้างโบราณ"}
+{"id":"nose-over_pv","th":"หัวเครื่องบินจิกพื้น; คว่ำหัวทิ่ม","ex":"The small plane noses over on landing.","exTh":"เครื่องบินลำเล็กหัวทิ่มลงตอนลงจอด","c":1,"note":"ศัพท์การบิน"}

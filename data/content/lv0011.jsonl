@@ -1,0 +1,100 @@
+{"id":"ghost_noun","th":"ผี; วิญญาณ","ex":"The children told a ghost story.","exTh":"เด็กๆ เล่าเรื่องผีกัน"}
+{"id":"rabbit_noun","th":"กระต่าย","ex":"The rabbit is eating a carrot.","exTh":"กระต่ายกำลังกินแครอท"}
+{"id":"email_noun","th":"อีเมล; จดหมายอิเล็กทรอนิกส์","ex":"I sent you an email this morning.","exTh":"เช้านี้ฉันส่งอีเมลถึงคุณแล้ว"}
+{"id":"baseball_noun","th":"เบสบอล; ลูกเบสบอล","ex":"My brother plays baseball after school.","exTh":"พี่ชายของฉันเล่นเบสบอลหลังเลิกเรียน"}
+{"id":"seventeen_num","th":"สิบเจ็ด; 17","ex":"She is seventeen years old.","exTh":"เธออายุสิบเจ็ดปี"}
+{"id":"dig_noun","th":"การขุด; การขุดค้น","ex":"The students joined a dig at the old temple.","exTh":"นักเรียนเข้าร่วมการขุดค้นที่วัดเก่า"}
+{"id":"grandmother_noun","th":"ย่า; ยาย; คุณยาย","ex":"My grandmother cooks very well.","exTh":"ยายของฉันทำอาหารเก่งมาก","note":"ภาษาอังกฤษใช้คำเดียวทั้งย่าและยาย"}
+{"id":"dish_noun","th":"จาน; อาหารจานหนึ่ง","ex":"This dish is my favorite.","exTh":"อาหารจานนี้เป็นจานโปรดของฉัน"}
+{"id":"climb_noun","th":"การปีน; การไต่ขึ้น","ex":"It was a long climb to the top.","exTh":"การปีนขึ้นไปถึงยอดนั้นยาวนาน"}
+{"id":"singer_noun","th":"นักร้อง","ex":"She wants to be a singer.","exTh":"เธออยากเป็นนักร้อง"}
+{"id":"neighbor_noun","th":"เพื่อนบ้าน; คนข้างบ้าน","ex":"Our neighbor is very friendly.","exTh":"เพื่อนบ้านของเราเป็นมิตรมาก","note":"สะกดแบบอังกฤษว่า neighbour"}
+{"id":"weekend_noun","th":"วันหยุดสุดสัปดาห์; เสาร์อาทิตย์","ex":"What do you do at the weekend?","exTh":"คุณทำอะไรในวันหยุดสุดสัปดาห์"}
+{"id":"chocolate_noun","th":"ช็อกโกแลต","ex":"I love dark chocolate.","exTh":"ฉันชอบช็อกโกแลตดาร์ก"}
+{"id":"snake_noun","th":"งู","ex":"There is a snake in the grass.","exTh":"มีงูอยู่ในกองหญ้า"}
+{"id":"ruler_noun","th":"ไม้บรรทัด; ผู้ปกครอง","ex":"Use a ruler to draw a straight line.","exTh":"ใช้ไม้บรรทัดลากเส้นตรง"}
+{"id":"spell_noun","th":"คาถา; มนตร์; ช่วงเวลาสั้นๆ","ex":"The witch cast a spell on the prince.","exTh":"แม่มดร่ายคาถาใส่เจ้าชาย"}
+{"id":"bee_noun","th":"ผึ้ง","ex":"A bee is sitting on the flower.","exTh":"มีผึ้งตัวหนึ่งเกาะอยู่บนดอกไม้"}
+{"id":"celebration_noun","th":"การเฉลิมฉลอง; งานฉลอง","ex":"We had a big celebration for her birthday.","exTh":"เราจัดงานฉลองวันเกิดให้เธออย่างยิ่งใหญ่"}
+{"id":"nationality_noun","th":"สัญชาติ","ex":"What is your nationality?","exTh":"คุณสัญชาติอะไร"}
+{"id":"hurry_noun","th":"ความรีบร้อน; ความเร่งรีบ","ex":"I am in a hurry this morning.","exTh":"เช้านี้ฉันกำลังรีบ"}
+{"id":"borrow_verb","th":"ยืม","ex":"Can I borrow your pen?","exTh":"ขอยืมปากกาคุณหน่อยได้ไหม"}
+{"id":"bathroom_noun","th":"ห้องน้ำ; ห้องอาบน้ำ","ex":"Where is the bathroom?","exTh":"ห้องน้ำอยู่ที่ไหนคะ"}
+{"id":"airplane_noun","th":"เครื่องบิน","ex":"The airplane landed on time.","exTh":"เครื่องบินลงจอดตรงเวลา","note":"ใช้ในอเมริกัน ส่วนอังกฤษใช้ aeroplane"}
+{"id":"pencil_noun","th":"ดินสอ","ex":"Please write with a pencil.","exTh":"กรุณาเขียนด้วยดินสอ"}
+{"id":"shower_noun","th":"ฝักบัว; การอาบน้ำฝักบัว; ฝนปรอย","ex":"I take a shower every morning.","exTh":"ฉันอาบน้ำฝักบัวทุกเช้า"}
+{"id":"lonely_adj","th":"เหงา; โดดเดี่ยว","ex":"He felt lonely in the new city.","exTh":"เขารู้สึกเหงาในเมืองใหม่"}
+{"id":"bean_noun","th":"ถั่ว; เมล็ดถั่ว","ex":"I added green beans to the soup.","exTh":"ฉันใส่ถั่วเขียวลงในซุป"}
+{"id":"cinema_noun","th":"โรงภาพยนตร์; โรงหนัง","ex":"We go to the cinema on Fridays.","exTh":"เราไปโรงหนังกันทุกวันศุกร์","note":"ใช้ในอังกฤษ ส่วนอเมริกันนิยมใช้ movie theater"}
+{"id":"clever_adj","th":"ฉลาด; เฉลียวฉลาด","ex":"She is a very clever girl.","exTh":"เธอเป็นเด็กผู้หญิงที่ฉลาดมาก"}
+{"id":"awake_adj","th":"ตื่น; ไม่หลับ","ex":"I was awake all night.","exTh":"ฉันนอนไม่หลับทั้งคืน"}
+{"id":"hi_interj","th":"สวัสดี; ไฮ","ex":"Hi! How are you?","exTh":"สวัสดี! สบายดีไหม","note":"ใช้ทักทายแบบไม่เป็นทางการ"}
+{"id":"tennis_noun","th":"เทนนิส","ex":"We play tennis on Sunday.","exTh":"เราเล่นเทนนิสวันอาทิตย์"}
+{"id":"soup_noun","th":"ซุป; น้ำแกง","ex":"I'd like a bowl of hot soup.","exTh":"ฉันขอซุปร้อนๆ หนึ่งชาม"}
+{"id":"ok_adj","th":"ใช้ได้; เรียบร้อยดี; โอเค","ex":"Is everything OK?","exTh":"ทุกอย่างเรียบร้อยดีไหม"}
+{"id":"ok_adv","th":"ได้; โอเค; พอใช้ได้","ex":"The new phone works OK.","exTh":"โทรศัพท์เครื่องใหม่ใช้งานได้ดี"}
+{"id":"sunshine_noun","th":"แสงแดด; แสงอาทิตย์","ex":"I love the sunshine in the morning.","exTh":"ฉันชอบแสงแดดยามเช้า"}
+{"id":"ugly_adj","th":"น่าเกลียด; ไม่สวย","ex":"That is an ugly building.","exTh":"นั่นเป็นอาคารที่ไม่สวยเลย"}
+{"id":"toilet_noun","th":"ห้องน้ำ; โถส้วม","ex":"Excuse me, where is the toilet?","exTh":"ขอโทษค่ะ ห้องน้ำอยู่ที่ไหน","note":"ใช้ในอังกฤษ ส่วนอเมริกันนิยมพูดว่า restroom หรือ bathroom"}
+{"id":"breathe_verb","th":"หายใจ","ex":"Breathe slowly and relax.","exTh":"หายใจช้าๆ แล้วผ่อนคลาย"}
+{"id":"pardon_noun","th":"การให้อภัย; การอภัยโทษ","ex":"I beg your pardon?","exTh":"ขอโทษนะคะ พูดอีกครั้งได้ไหมคะ","note":"ใช้ในสำนวน I beg your pardon เพื่อขอให้พูดซ้ำ"}
+{"id":"headache_noun","th":"ปวดหัว; อาการปวดศีรษะ","ex":"I have a bad headache.","exTh":"ฉันปวดหัวมาก"}
+{"id":"couch_noun","th":"โซฟา; เก้าอี้ยาว","ex":"The cat is sleeping on the couch.","exTh":"แมวกำลังนอนอยู่บนโซฟา"}
+{"id":"daddy_noun","th":"พ่อ; ป๊า","ex":"Daddy, can you help me?","exTh":"พ่อคะ ช่วยหนูหน่อยได้ไหม","note":"คำที่เด็กใช้เรียกพ่อ"}
+{"id":"lily_noun","th":"ดอกลิลลี่","ex":"She put a white lily in the vase.","exTh":"เธอปักดอกลิลลี่สีขาวไว้ในแจกัน"}
+{"id":"tomato_noun","th":"มะเขือเทศ","ex":"I put a tomato in the salad.","exTh":"ฉันใส่มะเขือเทศลงในสลัด"}
+{"id":"boring_adj","th":"น่าเบื่อ","ex":"The movie was long and boring.","exTh":"หนังเรื่องนี้ยาวและน่าเบื่อ"}
+{"id":"pants_noun","th":"กางเกง","ex":"He bought a pair of black pants.","exTh":"เขาซื้อกางเกงสีดำตัวหนึ่ง","note":"ใช้ในอเมริกัน ส่วนอังกฤษ pants หมายถึงกางเกงใน"}
+{"id":"fairy_noun","th":"นางฟ้า; เทพนิยาย","ex":"The little girl dreams of a fairy.","exTh":"เด็กหญิงตัวน้อยฝันถึงนางฟ้า"}
+{"id":"candy_noun","th":"ลูกอม; ขนมหวาน","ex":"The children love candy.","exTh":"เด็กๆ ชอบลูกอมกันมาก","note":"ใช้ในอเมริกัน ส่วนอังกฤษใช้ sweets"}
+{"id":"toy_noun","th":"ของเล่น","ex":"The baby has many toys.","exTh":"ทารกมีของเล่นมากมาย"}
+{"id":"kick_noun","th":"การเตะ; ลูกเตะ","ex":"He gave the ball a hard kick.","exTh":"เขาเตะลูกบอลอย่างแรง"}
+{"id":"kick_verb","th":"เตะ","ex":"Don't kick the door.","exTh":"อย่าเตะประตู"}
+{"id":"celebrate_verb","th":"ฉลอง; เฉลิมฉลอง","ex":"We celebrate New Year with our family.","exTh":"เราฉลองปีใหม่กับครอบครัว"}
+{"id":"jewelry_noun","th":"เครื่องประดับ; เพชรพลอย","ex":"She wears silver jewelry.","exTh":"เธอสวมเครื่องประดับเงิน","note":"สะกดแบบอังกฤษว่า jewellery"}
+{"id":"bat_noun","th":"ค้างคาว; ไม้ตี","ex":"A bat flew out of the cave.","exTh":"ค้างคาวบินออกมาจากถ้ำ"}
+{"id":"delicious_adj","th":"อร่อย; รสเลิศ","ex":"This soup is delicious.","exTh":"ซุปนี้อร่อยมาก"}
+{"id":"salad_noun","th":"สลัด; ผักสลัด","ex":"I had a salad for lunch.","exTh":"ฉันกินสลัดเป็นอาหารกลางวัน"}
+{"id":"album_noun","th":"อัลบั้ม; สมุดภาพ","ex":"She showed me her photo album.","exTh":"เธอให้ฉันดูอัลบั้มรูปของเธอ"}
+{"id":"ribbon_noun","th":"ริบบิ้น; โบว์","ex":"She tied a red ribbon on the gift.","exTh":"เธอผูกริบบิ้นสีแดงบนของขวัญ"}
+{"id":"tiger_noun","th":"เสือ; เสือโคร่ง","ex":"The tiger is a big animal.","exTh":"เสือเป็นสัตว์ตัวใหญ่"}
+{"id":"bucket_noun","th":"ถัง; กระป๋องน้ำ","ex":"Fill the bucket with water.","exTh":"เติมน้ำให้เต็มถัง"}
+{"id":"monkey_noun","th":"ลิง","ex":"The monkey ate a banana.","exTh":"ลิงกินกล้วย"}
+{"id":"swim_noun","th":"การว่ายน้ำ","ex":"Let's go for a swim.","exTh":"ไปว่ายน้ำกันเถอะ"}
+{"id":"swim_verb","th":"ว่ายน้ำ","ex":"I can swim very well.","exTh":"ฉันว่ายน้ำเก่งมาก","note":"รูปผันคือ swam, swum"}
+{"id":"garbage_noun","th":"ขยะ; เศษอาหาร","ex":"Please take out the garbage.","exTh":"ช่วยเอาขยะไปทิ้งหน่อย","note":"ใช้ในอเมริกัน ส่วนอังกฤษใช้ rubbish"}
+{"id":"taxi_noun","th":"แท็กซี่","ex":"We took a taxi to the hotel.","exTh":"เรานั่งแท็กซี่ไปโรงแรม"}
+{"id":"basketball_noun","th":"บาสเกตบอล; ลูกบาสเกตบอล","ex":"He plays basketball every weekend.","exTh":"เขาเล่นบาสเกตบอลทุกสุดสัปดาห์"}
+{"id":"merry_adj","th":"ร่าเริง; สนุกสนาน","ex":"Merry Christmas to you all!","exTh":"สุขสันต์วันคริสต์มาสแก่ทุกคน!","note":"มักใช้ในคำอวยพร Merry Christmas"}
+{"id":"skirt_noun","th":"กระโปรง","ex":"She is wearing a long skirt.","exTh":"เธอสวมกระโปรงยาว"}
+{"id":"bicycle_noun","th":"จักรยาน","ex":"I ride my bicycle to school.","exTh":"ฉันขี่จักรยานไปโรงเรียน"}
+{"id":"mum_noun","th":"แม่; คุณแม่","ex":"My mum is a teacher.","exTh":"แม่ของฉันเป็นครู","note":"ใช้ในอังกฤษ ส่วนอเมริกันใช้ mom"}
+{"id":"shy_adj","th":"ขี้อาย; เขินอาย","ex":"The little boy is very shy.","exTh":"เด็กชายตัวน้อยขี้อายมาก"}
+{"id":"sandwich_noun","th":"แซนด์วิช","ex":"I had a cheese sandwich for lunch.","exTh":"ฉันกินแซนด์วิชชีสเป็นมื้อเที่ยง"}
+{"id":"sunny_adj","th":"แดดจัด; แสงแดดสดใส","ex":"It is a sunny day today.","exTh":"วันนี้แดดจัดสดใส"}
+{"id":"rude_adj","th":"หยาบคาย; ไม่สุภาพ","ex":"It is rude to talk with food in your mouth.","exTh":"การพูดทั้งที่มีอาหารเต็มปากเป็นเรื่องไม่สุภาพ"}
+{"id":"jeans_noun","th":"กางเกงยีนส์","ex":"I bought a new pair of jeans.","exTh":"ฉันซื้อกางเกงยีนส์ตัวใหม่","note":"ใช้เป็นพหูพจน์เสมอ"}
+{"id":"guitar_noun","th":"กีตาร์","ex":"He plays the guitar very well.","exTh":"เขาเล่นกีตาร์เก่งมาก"}
+{"id":"doll_noun","th":"ตุ๊กตา","ex":"She has a doll with long hair.","exTh":"เธอมีตุ๊กตาผมยาว"}
+{"id":"sofa_noun","th":"โซฟา","ex":"We sat on the sofa and watched TV.","exTh":"เรานั่งบนโซฟาดูทีวี"}
+{"id":"spy_noun","th":"สายลับ; จารชน","ex":"The spy sent a secret message.","exTh":"สายลับส่งข้อความลับ"}
+{"id":"frog_noun","th":"กบ","ex":"A frog jumped into the pond.","exTh":"กบตัวหนึ่งกระโดดลงสระน้ำ"}
+{"id":"grape_noun","th":"องุ่น; ผลองุ่น","ex":"These grapes are sweet.","exTh":"องุ่นพวกนี้หวาน"}
+{"id":"cop_noun","th":"ตำรวจ","ex":"A cop stopped the car.","exTh":"ตำรวจนายหนึ่งเรียกรถให้หยุด","note":"ภาษาพูด ไม่เป็นทางการ"}
+{"id":"trousers_noun","th":"กางเกง; กางเกงขายาว","ex":"He wore black trousers to work.","exTh":"เขาใส่กางเกงสีดำไปทำงาน","note":"ใช้เป็นพหูพจน์เสมอ"}
+{"id":"musician_noun","th":"นักดนตรี","ex":"My cousin is a street musician.","exTh":"ลูกพี่ลูกน้องของฉันเป็นนักดนตรีข้างถนน"}
+{"id":"poster_noun","th":"โปสเตอร์; ป้ายประกาศ","ex":"There is a movie poster on the wall.","exTh":"มีโปสเตอร์หนังติดอยู่บนผนัง"}
+{"id":"rainy_adj","th":"ฝนตก; เป็นฝน","ex":"It is a rainy day.","exTh":"เป็นวันที่ฝนตก"}
+{"id":"notebook_noun","th":"สมุดจด; โน้ตบุ๊ก","ex":"I write new words in my notebook.","exTh":"ฉันจดคำศัพท์ใหม่ลงในสมุด"}
+{"id":"towel_noun","th":"ผ้าเช็ดตัว; ผ้าขนหนู","ex":"Please bring me a clean towel.","exTh":"ช่วยเอาผ้าเช็ดตัวสะอาดมาให้หน่อย"}
+{"id":"umbrella_noun","th":"ร่ม","ex":"Take an umbrella. It may rain.","exTh":"เอาร่มไปด้วยนะ ฝนอาจตก"}
+{"id":"picnic_noun","th":"ปิกนิก; การกินอาหารนอกบ้าน","ex":"We had a picnic in the park.","exTh":"เราไปปิกนิกกันที่สวนสาธารณะ"}
+{"id":"lazy_adj","th":"ขี้เกียจ","ex":"I feel lazy on Sundays.","exTh":"วันอาทิตย์ฉันรู้สึกขี้เกียจ"}
+{"id":"sailor_noun","th":"กะลาสีเรือ; ลูกเรือ","ex":"The sailor looked at the sea.","exTh":"กะลาสีมองไปที่ทะเล"}
+{"id":"bike_noun","th":"จักรยาน; มอเตอร์ไซค์","ex":"I go to work by bike.","exTh":"ฉันไปทำงานด้วยจักรยาน"}
+{"id":"banana_noun","th":"กล้วย","ex":"I eat a banana every morning.","exTh":"ฉันกินกล้วยหนึ่งลูกทุกเช้า"}
+{"id":"cafe_noun","th":"ร้านกาแฟ; คาเฟ่","ex":"We met at a small cafe.","exTh":"เรานัดเจอกันที่คาเฟ่เล็กๆ แห่งหนึ่ง"}
+{"id":"butterfly_noun","th":"ผีเสื้อ","ex":"A butterfly is on the flower.","exTh":"ผีเสื้อตัวหนึ่งเกาะอยู่บนดอกไม้"}
+{"id":"homework_noun","th":"การบ้าน","ex":"I do my homework after dinner.","exTh":"ฉันทำการบ้านหลังอาหารเย็น","note":"นับไม่ได้ ไม่เติม s"}
+{"id":"greet_verb","th":"ทักทาย; ต้อนรับ","ex":"She greeted us at the door.","exTh":"เธอทักทายเราที่หน้าประตู"}
+{"id":"subway_noun","th":"รถไฟใต้ดิน; ทางลอดใต้ดิน","ex":"I take the subway to work.","exTh":"ฉันนั่งรถไฟใต้ดินไปทำงาน","note":"ใช้ในอเมริกัน ส่วนอังกฤษ subway หมายถึงทางลอดใต้ดิน"}

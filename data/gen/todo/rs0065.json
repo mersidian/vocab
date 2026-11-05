@@ -1,0 +1,902 @@
+[
+{
+"id": "rust-through_pv",
+"w": "rust through",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To develop holes caused by rust."
+]
+},
+{
+"id": "thumb-through_pv",
+"w": "thumb through",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To use one's thumb to quickly flip through the pages of a book, magazine, etc., especially without reading them thoroughly or at all."
+]
+},
+{
+"id": "clap-together_pv",
+"w": "clap together",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To slap something together; to create or make (something) hastily and haphazardly."
+]
+},
+{
+"id": "cram-together_pv",
+"w": "cram together",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To put things together hastily as though to combine them."
+]
+},
+{
+"id": "bunch-together_pv",
+"w": "bunch together",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To form a tight group or close huddle."
+]
+},
+{
+"id": "bundle-together_pv",
+"w": "bundle together",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of bundle up (to form into a bundle)"
+]
+},
+{
+"id": "map-onto_pv",
+"w": "map onto",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To identify or demonstrate connections between two things (e.g. data sets); to display (data) onto or connected to something else."
+]
+},
+{
+"id": "fix-on_pv",
+"w": "fix on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To direct or focus one's attention on (a goal); to decide on (a goal); to fixate on (something)."
+]
+},
+{
+"id": "fix-upon_pv",
+"w": "fix upon",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of fix on."
+]
+},
+{
+"id": "tie-into_pv",
+"w": "tie into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To viciously attack."
+]
+},
+{
+"id": "bid-in_pv",
+"w": "bid in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To bid a higher price on one's own property than anyone else at an auction, in order to either secure the item or to raise the final price."
+]
+},
+{
+"id": "hoe-in_pv",
+"w": "hoe in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To eat a large volume of food; to begin eating with gusto."
+]
+},
+{
+"id": "fly-into_pv",
+"w": "fly into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To erupt in an emotional outburst."
+]
+},
+{
+"id": "grow-away-from_pv",
+"w": "grow away from",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To gradually have less in common with (someone); to mature out of (activities, interests and/or associates)."
+]
+},
+{
+"id": "let-through_pv",
+"w": "let through",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To allow an amount of voltage to pass through to the attached equipment."
+]
+},
+{
+"id": "close-round_pv",
+"w": "close round",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To surround (someone, something); to form a circle."
+]
+},
+{
+"id": "cast-back_pv",
+"w": "cast back",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To think about or imagine to a time in the past; to search or refer to one's memories of the past."
+]
+},
+{
+"id": "inch-away_pv",
+"w": "inch away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To begin to change one's position on a topic; to subtly distance oneself from previous associates, ideas, etc."
+]
+},
+{
+"id": "abstract-away-from_pv",
+"w": "abstract away from",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To omit the consideration of details regarding (something); to dismiss the details of (something) so as to concern oneself with higher features and more complex/interesting elements."
+]
+},
+{
+"id": "pour-into_pv",
+"w": "pour into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To continuously pay money or supplies or provide work to an organization, project, movement or effort."
+]
+},
+{
+"id": "hang-to_pv",
+"w": "hang to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To cling to (something); to hold on to (something); to refuse to give up (something)."
+]
+},
+{
+"id": "run-in-with_pv",
+"w": "run in with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To take a course near to; to take a course nearer to."
+]
+},
+{
+"id": "close-in-upon_pv",
+"w": "close in upon",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of close in on."
+]
+},
+{
+"id": "hang-off_pv",
+"w": "hang off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To hold back; to resist moving forward with something despite pressure or intention to do so; to delay, wait or stay behind."
+]
+},
+{
+"id": "harsh-down_pv",
+"w": "harsh down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To harsh, especially viciously or repeatedly; to criticize or ruin the mood of someone or something."
+]
+},
+{
+"id": "drink-under_pv",
+"w": "drink under",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To drink more alcohol than another person, possibly to the point of that person passing out."
+]
+},
+{
+"id": "spaghetti-up_pv",
+"w": "spaghetti up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To spaghetti (make or become tangled)."
+]
+},
+{
+"id": "proffer-up_pv",
+"w": "proffer up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To proffer (something); to offer or make available (something)."
+]
+},
+{
+"id": "flex-out_pv",
+"w": "flex out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To respond to greater space availability by growing larger kernels (as opposed to growing at a consistent size no matter what, i.e. fixed-ear hybrids)."
+]
+},
+{
+"id": "apple-up_pv",
+"w": "apple up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To gain the qualities of an apple (as in size or color, usually cheeks blushing red)."
+]
+},
+{
+"id": "base-off_pv",
+"w": "base off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of base on."
+]
+},
+{
+"id": "crazy-up_pv",
+"w": "crazy up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become or make someone or someplace crazy (of unsound mind; insane; demented, out of control, very excited or enthusiastic, very unexpected; wildly surprising)."
+]
+},
+{
+"id": "turtle-down_pv",
+"w": "turtle down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To shrink (to cower or flinch)."
+]
+},
+{
+"id": "order-around_pv",
+"w": "order around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To command (someone) repeatedly and unpleasantly, pointlessly or without proper authority."
+]
+},
+{
+"id": "turn-under_pv",
+"w": "turn under",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To dig up and rebury in the same spot."
+]
+},
+{
+"id": "plead-over_pv",
+"w": "plead over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To abandon the right to pursue a legal issue by not spotting it in time or not raising an objection in court."
+]
+},
+{
+"id": "heighten-up_pv",
+"w": "heighten up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become or alter (something) to make it heightened, higher, more powerful or more intense."
+]
+},
+{
+"id": "darken-down_pv",
+"w": "darken down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become or make (something) darker."
+]
+},
+{
+"id": "shorten-up_pv",
+"w": "shorten up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make something shorter in height, briefer in duration or more close together."
+]
+},
+{
+"id": "shorten-down_pv",
+"w": "shorten down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of shorten up."
+]
+},
+{
+"id": "enlarge-up_pv",
+"w": "enlarge up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make (something) larger."
+]
+},
+{
+"id": "shrink-down_pv",
+"w": "shrink down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of shrink up."
+]
+},
+{
+"id": "slow-off_pv",
+"w": "slow off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of slow down."
+]
+},
+{
+"id": "lengthen-out_pv",
+"w": "lengthen out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become or make (something) lengthier, longer in duration or otherwise larger."
+]
+},
+{
+"id": "skinny-out_pv",
+"w": "skinny out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To remove clothes."
+]
+},
+{
+"id": "narrow-up_pv",
+"w": "narrow up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become or make (something) narrow."
+]
+},
+{
+"id": "quicken-up_pv",
+"w": "quicken up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become or make (something) quicker or briefer."
+]
+},
+{
+"id": "strengthen-up_pv",
+"w": "strengthen up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become or make (something) stronger, tougher or more durable."
+]
+},
+{
+"id": "widen-up_pv",
+"w": "widen up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become or make (something) wider."
+]
+},
+{
+"id": "weaken-up_pv",
+"w": "weaken up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become or make (something) weaker."
+]
+},
+{
+"id": "tighten-down_pv",
+"w": "tighten down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make (something) tighter, most often screws, knots, straps, etc."
+]
+},
+{
+"id": "plough-over_pv",
+"w": "plough over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To dig through and loosen soil using a plough."
+]
+},
+{
+"id": "plough-down_pv",
+"w": "plough down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To dig up and incorporate a legume crop into the soil by ploughing it over when it is fully grown."
+]
+},
+{
+"id": "sign-onto_pv",
+"w": "sign onto",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of sign on."
+]
+},
+{
+"id": "fish-down_pv",
+"w": "fish down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To move down the trophic chain of seafood, i.e. moving from fishing top-level predators to fishes lower in the food chain, as a result of overfishing affecting top-level predators first."
+]
+},
+{
+"id": "office-up_pv",
+"w": "office up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To use an office."
+]
+},
+{
+"id": "hustle-up_pv",
+"w": "hustle up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To produce or find (something) by hustling (work hard, con, swindle, or deceive or obtain by illicit or forceful action)."
+]
+},
+{
+"id": "schmaltz-up_pv",
+"w": "schmaltz up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make (something) schmaltzy."
+]
+},
+{
+"id": "total-up_pv",
+"w": "total up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To come up with a total for."
+]
+},
+{
+"id": "pour-over_pv",
+"w": "pour over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Eggcorn of pore over."
+]
+},
+{
+"id": "scrounge-out_pv",
+"w": "scrounge out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To scrounge (something of minimal value); to barely survive or succeed."
+]
+},
+{
+"id": "scrawl-up_pv",
+"w": "scrawl up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To scrawl (something); to write out in a scrawl."
+]
+},
+{
+"id": "scrawl-off_pv",
+"w": "scrawl off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To scrawl (something); to dash off in a scrawl."
+]
+},
+{
+"id": "scrawl-down_pv",
+"w": "scrawl down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To scrawl (something); to write down in a scrawl."
+]
+},
+{
+"id": "screech-out_pv",
+"w": "screech out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To drive so suddenly and so quickly as to make the tires screech."
+]
+},
+{
+"id": "flatten-down_pv",
+"w": "flatten down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become or make (something) flat."
+]
+},
+{
+"id": "thicken-up_pv",
+"w": "thicken up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become or make (something) thick (either in width or in viscosity)."
+]
+},
+{
+"id": "thin-up_pv",
+"w": "thin up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become or make (something) thin (in either width or viscosity)."
+]
+},
+{
+"id": "flat-down_pv",
+"w": "flat down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of flatten down."
+]
+},
+{
+"id": "splash-around_pv",
+"w": "splash around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To spend money or give money to friends and associates freely; to spend money in a showy way or on something high-profile."
+]
+},
+{
+"id": "scour-up_pv",
+"w": "scour up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To scour (something) thoroughly."
+]
+},
+{
+"id": "scour-down_pv",
+"w": "scour down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of scour up."
+]
+},
+{
+"id": "scare-into_pv",
+"w": "scare into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To frighten (someone) to get them to do (something)."
+]
+},
+{
+"id": "belt-down_pv",
+"w": "belt down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To beat down on the surface."
+]
+},
+{
+"id": "blaze-on_pv",
+"w": "blaze on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To attack, knock down or shoot (someone) many times; to attack away at someone."
+]
+},
+{
+"id": "hoot-down_pv",
+"w": "hoot down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To laugh at (someone) until they abandon a performance; to shout down (a performer) with laughter."
+]
+},
+{
+"id": "jaw-down_pv",
+"w": "jaw down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To condescend to (someone) loquaciously; to speak to someone in a forceful, insulting, bossy or aggressive way; to wear down by talking."
+]
+},
+{
+"id": "hound-down_pv",
+"w": "hound down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To hunt down; to search for (someone or something)."
+]
+},
+{
+"id": "ice-down_pv",
+"w": "ice down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To apply ice to (something)."
+]
+},
+{
+"id": "speak-down-to_pv",
+"w": "speak down to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of talk down to."
+]
+},
+{
+"id": "snug-down_pv",
+"w": "snug down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To secure a ship or equipment on a ship, such as in preparation for a storm."
+]
+},
+{
+"id": "scribble-down_pv",
+"w": "scribble down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To write down in a scribble."
+]
+},
+{
+"id": "manage-down_pv",
+"w": "manage down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To supervise or act as manager toward (someone) below oneself in a hierarchy."
+]
+},
+{
+"id": "manage-up_pv",
+"w": "manage up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To calculate one's interactions with someone above oneself in a hierarchy (often one's own manager) so as to try to guide them into choosing a certain option (narrow scope) or to guide them into doing a better job at their leadership of their subordinates (broader scope)."
+]
+},
+{
+"id": "mop-down_pv",
+"w": "mop down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To mop (something) thoroughly."
+]
+},
+{
+"id": "party-down_pv",
+"w": "party down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To party hard; to celebrate or revel enthusiastically."
+]
+},
+{
+"id": "rip-down_pv",
+"w": "rip down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To dismantle or demolish (something)."
+]
+},
+{
+"id": "send-down-for_pv",
+"w": "send down for",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To order (something) through room service in a hotel."
+]
+},
+{
+"id": "snork-down_pv",
+"w": "snork down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To eat or drink (something) quickly."
+]
+},
+{
+"id": "soap-down_pv",
+"w": "soap down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To clean (something) with soap; to cover (something) with soap."
+]
+},
+{
+"id": "swab-down_pv",
+"w": "swab down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To clean (something, especially the deck of a ship) with a sponge or similarly absorbent material."
+]
+},
+{
+"id": "tail-down_pv",
+"w": "tail down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To stabilize a corbel by laying back bricks first to stabilize the structure."
+]
+},
+{
+"id": "buff-down_pv",
+"w": "buff down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make (a surface) smooth by buffing."
+]
+},
+{
+"id": "flake-down_pv",
+"w": "flake down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To go to bed; to go to sleep."
+]
+},
+{
+"id": "drink-down_pv",
+"w": "drink down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To drink all of (something)."
+]
+},
+{
+"id": "chuck-down_pv",
+"w": "chuck down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To eat (something)."
+]
+},
+{
+"id": "swill-down_pv",
+"w": "swill down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To drink (something) in large gulps."
+]
+},
+{
+"id": "swallow-down_pv",
+"w": "swallow down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To believe (something) unpleasant or undesirable."
+]
+},
+{
+"id": "thin-down_pv",
+"w": "thin down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become or make (something) thinner or smaller (in overall size, width or viscosity)."
+]
+},
+{
+"id": "have-down_pv",
+"w": "have down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To have mastered a skill."
+]
+}
+]

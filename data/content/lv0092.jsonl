@@ -1,0 +1,100 @@
+{"id":"mottled_adj","th":"เป็นด่างๆ; เป็นลาย; เป็นปื้นๆ","ex":"The old banana had mottled brown skin.","exTh":"กล้วยลูกเก่านั้นมีเปลือกสีน้ำตาลเป็นด่างๆ"}
+{"id":"spatially_adv","th":"ในเชิงพื้นที่; ทางมิติ","ex":"The rooms are arranged spatially to improve the flow of people.","exTh":"ห้องต่างๆ ถูกจัดวางเชิงพื้นที่เพื่อให้คนเดินสัญจรสะดวกขึ้น"}
+{"id":"allegory_noun","th":"อุปมานิทัศน์; เรื่องเปรียบเทียบ","ex":"The novel is an allegory about the dangers of power.","exTh":"นิยายเรื่องนี้เป็นเรื่องเปรียบเทียบถึงอันตรายของอำนาจ"}
+{"id":"diligently_adv","th":"อย่างขยันขันแข็ง; อย่างเอาใจใส่","ex":"She worked diligently on her thesis for three years.","exTh":"เธอทำวิทยานิพนธ์อย่างขยันขันแข็งอยู่สามปี"}
+{"id":"provocation_noun","th":"การยั่วยุ; การท้าทาย","ex":"He hit the man without any provocation.","exTh":"เขาต่อยชายคนนั้นโดยไม่มีการยั่วยุใดๆ"}
+{"id":"veritable_adj","th":"แท้จริง; ของจริง; ถือได้ว่าเป็น","ex":"The garden was a veritable paradise of flowers.","exTh":"สวนแห่งนั้นเป็นสวรรค์แห่งดอกไม้อย่างแท้จริง","note":"ใช้เน้นเชิงเปรียบเทียบ ภาษาเขียน"}
+{"id":"attrition_noun","th":"การสึกหรอ; การลดจำนวนลงทีละน้อย; การทำให้อ่อนแรง","ex":"The company reduced staff through natural attrition instead of layoffs.","exTh":"บริษัทลดพนักงานโดยการลาออกตามธรรมชาติแทนการเลิกจ้าง"}
+{"id":"incipient_adj","th":"เริ่มต้น; ที่เพิ่งก่อตัว","ex":"The doctor noticed signs of an incipient infection.","exTh":"หมอสังเกตเห็นสัญญาณของการติดเชื้อที่เพิ่งเริ่มต้น","note":"ภาษาทางการ"}
+{"id":"prolong_verb","th":"ยืดเวลา; ทำให้นานขึ้น; ต่อเวลา","ex":"Do not prolong the meeting with unnecessary questions.","exTh":"อย่ายืดเวลาประชุมด้วยคำถามที่ไม่จำเป็น"}
+{"id":"disseminate_verb","th":"เผยแพร่; กระจายข่าว; แพร่กระจาย","ex":"The group uses social media to disseminate information quickly.","exTh":"กลุ่มนี้ใช้โซเชียลมีเดียเผยแพร่ข้อมูลอย่างรวดเร็ว","note":"ภาษาทางการ"}
+{"id":"nostalgia_noun","th":"ความคิดถึงอดีต; ความโหยหาวันวาน","ex":"Old songs fill me with nostalgia for my school days.","exTh":"เพลงเก่าๆ ทำให้ฉันคิดถึงวันเรียนสมัยก่อน"}
+{"id":"treacherous_adj","th":"อันตราย; เชื่อใจไม่ได้; ทรยศ","ex":"The icy road was treacherous after the storm.","exTh":"ถนนที่เป็นน้ำแข็งอันตรายมากหลังพายุ"}
+{"id":"avian_adj","th":"เกี่ยวกับนก; ของนก","ex":"Avian flu spread quickly through the farm.","exTh":"ไข้หวัดนกแพร่ไปทั่วฟาร์มอย่างรวดเร็ว"}
+{"id":"sterility_noun","th":"ภาวะเป็นหมัน; ความปลอดเชื้อ; ความแห้งแล้ง","ex":"Hospitals must maintain the sterility of all surgical tools.","exTh":"โรงพยาบาลต้องรักษาความปลอดเชื้อของเครื่องมือผ่าตัดทุกชิ้น"}
+{"id":"ebb_verb","th":"(น้ำ) ลง; ลดลง; จืดจาง","ex":"The tide began to ebb, leaving shells on the sand.","exTh":"น้ำเริ่มลง ทิ้งเปลือกหอยไว้บนผืนทราย"}
+{"id":"axiom_noun","th":"สัจพจน์; หลักการที่ยอมรับกันทั่วไป","ex":"It is an axiom that every action has a consequence.","exTh":"เป็นหลักการที่ยอมรับกันว่าทุกการกระทำย่อมมีผลตามมา"}
+{"id":"deviant_noun","th":"ผู้เบี่ยงเบน (จากบรรทัดฐาน); คนผิดปกติ","ex":"The old study labeled him a deviant for ignoring social rules.","exTh":"งานวิจัยเก่าตีตราเขาว่าเป็นผู้เบี่ยงเบนเพราะไม่สนกฎสังคม","note":"อาจฟังดูเป็นลบ ควรใช้ระวัง"}
+{"id":"deviant_adj","th":"เบี่ยงเบน; ผิดปกติ; ผิดไปจากบรรทัดฐาน","ex":"The scientist studied deviant behavior in young people.","exTh":"นักวิทยาศาสตร์ศึกษาพฤติกรรมเบี่ยงเบนในหมู่คนหนุ่มสาว"}
+{"id":"belligerent_adj","th":"ก้าวร้าว; ชอบก่อเรื่อง; ที่ทำสงคราม","ex":"The belligerent customer shouted at the staff.","exTh":"ลูกค้าก้าวร้าวคนนั้นตะโกนใส่พนักงาน"}
+{"id":"salivary_adj","th":"เกี่ยวกับน้ำลาย","ex":"Salivary glands help us digest food.","exTh":"ต่อมน้ำลายช่วยให้เราย่อยอาหาร"}
+{"id":"disperse_verb","th":"สลายตัว; กระจายออก; ทำให้แยกย้าย","ex":"The crowd began to disperse after the concert.","exTh":"ฝูงชนเริ่มแยกย้ายกันไปหลังคอนเสิร์ตจบ"}
+{"id":"lyrical_adj","th":"ไพเราะเหมือนบทกวี; เต็มไปด้วยอารมณ์; เกี่ยวกับเนื้อเพลง","ex":"The writer gave a lyrical description of the sunset.","exTh":"นักเขียนบรรยายพระอาทิตย์ตกดินอย่างไพเราะเป็นบทกวี"}
+{"id":"substantiate_verb","th":"พิสูจน์; ยืนยันด้วยหลักฐาน","ex":"You must substantiate your claims with clear evidence.","exTh":"คุณต้องยืนยันข้อกล่าวอ้างของคุณด้วยหลักฐานที่ชัดเจน","note":"ภาษาทางการ"}
+{"id":"hindrance_noun","th":"อุปสรรค; สิ่งขัดขวาง","ex":"The heavy rain was a hindrance to the rescue team.","exTh":"ฝนที่ตกหนักเป็นอุปสรรคต่อทีมกู้ภัย"}
+{"id":"pedestal_noun","th":"ฐาน (รูปปั้น/เสา); แท่นรอง","ex":"The statue stands on a tall stone pedestal.","exTh":"รูปปั้นตั้งอยู่บนฐานหินสูง"}
+{"id":"perverse_adj","th":"ดื้อรั้นทำตรงข้าม; ผิดปกติ; บิดเบี้ยว","ex":"She took a perverse pleasure in proving him wrong.","exTh":"เธอรู้สึกสะใจแบบแปลกๆ ที่ได้พิสูจน์ว่าเขาคิดผิด"}
+{"id":"topographical_adj","th":"เกี่ยวกับลักษณะภูมิประเทศ","ex":"The hikers studied a topographical map of the mountain.","exTh":"นักเดินป่าศึกษาแผนที่ภูมิประเทศของภูเขา"}
+{"id":"edifice_noun","th":"อาคารขนาดใหญ่; สิ่งก่อสร้างอันยิ่งใหญ่; โครงสร้างระบบ","ex":"The old bank is a grand marble edifice.","exTh":"ธนาคารเก่าแห่งนั้นเป็นอาคารหินอ่อนอันโอ่อ่า","note":"ภาษาทางการ"}
+{"id":"treachery_noun","th":"การทรยศ; การหักหลัง","ex":"He was punished for his treachery against the team.","exTh":"เขาถูกลงโทษที่ทรยศต่อทีม"}
+{"id":"turret_noun","th":"หอคอยเล็ก; ป้อมปืน","ex":"A small turret rises from the corner of the castle.","exTh":"หอคอยเล็กๆ สูงขึ้นจากมุมปราสาท"}
+{"id":"indignant_adj","th":"ไม่พอใจอย่างมาก; ขุ่นเคือง","ex":"She was indignant when they questioned her honesty.","exTh":"เธอขุ่นเคืองมากเมื่อพวกเขาสงสัยความซื่อสัตย์ของเธอ"}
+{"id":"overlay_verb","th":"ซ้อนทับ; ปิดทับ; เคลือบ","ex":"The map lets you overlay traffic data on the roads.","exTh":"แผนที่นี้ให้คุณซ้อนข้อมูลการจราจรลงบนถนนได้"}
+{"id":"jargon_noun","th":"ศัพท์เฉพาะ; ภาษาเฉพาะวงการ","ex":"The report was full of technical jargon that I could not follow.","exTh":"รายงานเต็มไปด้วยศัพท์เทคนิคที่ฉันตามไม่ทัน"}
+{"id":"consignment_noun","th":"สินค้าที่ส่งไป; การฝากขาย; การส่งมอบสินค้า","ex":"A large consignment of rice arrived at the port today.","exTh":"ข้าวล็อตใหญ่มาถึงท่าเรือวันนี้"}
+{"id":"apprehend_verb","th":"จับกุม; เข้าใจ; หวาดหวั่น","ex":"Police managed to apprehend the thief near the station.","exTh":"ตำรวจจับกุมขโมยได้ใกล้สถานี","note":"ภาษาทางการ"}
+{"id":"mariner_noun","th":"กะลาสี; ลูกเรือ","ex":"The old mariner told stories of storms at sea.","exTh":"กะลาสีเฒ่าเล่าเรื่องพายุกลางทะเล","note":"ภาษาเก่า/วรรณกรรม"}
+{"id":"unequivocal_adj","th":"ชัดเจนไม่กำกวม; เด็ดขาด","ex":"The minister gave an unequivocal answer to the question.","exTh":"รัฐมนตรีให้คำตอบที่ชัดเจนไม่กำกวมต่อคำถามนั้น"}
+{"id":"plumage_noun","th":"ขนนก","ex":"The peacock displayed its bright blue plumage.","exTh":"นกยูงแผ่ขนสีฟ้าสดใสของมัน"}
+{"id":"irrevocable_adj","th":"เพิกถอนไม่ได้; เปลี่ยนแปลงไม่ได้","ex":"Once signed, the decision is irrevocable.","exTh":"เมื่อลงนามแล้ว การตัดสินใจนี้เพิกถอนไม่ได้"}
+{"id":"verbatim_adj","th":"ตรงตามตัวอักษร; คำต่อคำ","ex":"The reporter printed a verbatim account of the speech.","exTh":"ผู้สื่อข่าวตีพิมพ์คำปราศรัยแบบคำต่อคำ"}
+{"id":"verbatim_adv","th":"คำต่อคำ; ตรงตามตัวอักษร","ex":"He repeated the teacher's words verbatim.","exTh":"เขาพูดซ้ำคำของครูแบบคำต่อคำ"}
+{"id":"genomic_adj","th":"เกี่ยวกับจีโนม; ทางจีโนมิกส์","ex":"Genomic research may help doctors treat rare diseases.","exTh":"งานวิจัยด้านจีโนมอาจช่วยให้หมอรักษาโรคหายากได้"}
+{"id":"philanthropy_noun","th":"การบริจาคเพื่อสังคม; ความใจบุญ","ex":"She is known for her philanthropy in education.","exTh":"เธอเป็นที่รู้จักจากการบริจาคเพื่อการศึกษา"}
+{"id":"hitch_verb","th":"ผูก; เกี่ยว; โบกรถ","ex":"He hitched the trailer to the back of his truck.","exTh":"เขาเกี่ยวรถพ่วงเข้ากับท้ายรถบรรทุก"}
+{"id":"philanthropic_adj","th":"ใจบุญ; เกี่ยวกับการบริจาคเพื่อสังคม","ex":"The company supports many philanthropic projects.","exTh":"บริษัทสนับสนุนโครงการเพื่อสังคมมากมาย"}
+{"id":"remittance_noun","th":"การส่งเงิน; เงินที่โอนไป","ex":"Many families depend on remittance from relatives abroad.","exTh":"หลายครอบครัวพึ่งพาเงินที่ญาติในต่างประเทศส่งมา"}
+{"id":"notoriously_adv","th":"อย่างเลื่องลือในทางไม่ดี; ขึ้นชื่อว่า","ex":"Bangkok traffic is notoriously bad at rush hour.","exTh":"การจราจรในกรุงเทพฯ ขึ้นชื่อว่าแย่มากในช่วงเร่งด่วน"}
+{"id":"shoal_noun","th":"ฝูงปลา; สันทราย; ที่น้ำตื้น","ex":"A shoal of small fish swam past the boat.","exTh":"ฝูงปลาเล็กว่ายผ่านเรือไป"}
+{"id":"adept_adj","th":"ชำนาญ; เชี่ยวชาญ","ex":"She is adept at solving difficult problems.","exTh":"เธอเชี่ยวชาญในการแก้ปัญหายากๆ"}
+{"id":"adept_noun","th":"ผู้เชี่ยวชาญ; ผู้ชำนาญ","ex":"He is an adept in traditional Thai massage.","exTh":"เขาเป็นผู้ชำนาญด้านการนวดแผนไทย","note":"ภาษาทางการ ใช้น้อยกว่าคำคุณศัพท์"}
+{"id":"egalitarian_adj","th":"ที่เชื่อในความเสมอภาค; เท่าเทียมกัน","ex":"They want to build a more egalitarian society.","exTh":"พวกเขาต้องการสร้างสังคมที่เท่าเทียมกันมากขึ้น"}
+{"id":"egalitarian_noun","th":"ผู้ยึดมั่นในความเสมอภาค","ex":"As an egalitarian, he believes everyone deserves equal rights.","exTh":"ในฐานะผู้ยึดมั่นในความเสมอภาค เขาเชื่อว่าทุกคนควรมีสิทธิ์เท่ากัน"}
+{"id":"malleable_adj","th":"ตีเป็นรูปได้; ยืดหยุ่น; ชักจูงง่าย","ex":"Gold is a soft and malleable metal.","exTh":"ทองคำเป็นโลหะที่อ่อนและตีขึ้นรูปได้ง่าย"}
+{"id":"brevity_noun","th":"ความสั้นกระชับ; ความสั้น","ex":"I appreciate the brevity of your email.","exTh":"ฉันชอบที่อีเมลของคุณสั้นกระชับ"}
+{"id":"hermit_noun","th":"ฤๅษี; ผู้สันโดษ","ex":"The hermit lived alone in a cave for years.","exTh":"ฤๅษีอาศัยอยู่คนเดียวในถ้ำเป็นเวลาหลายปี"}
+{"id":"meticulous_adj","th":"พิถีพิถัน; ละเอียดรอบคอบ","ex":"He is meticulous about keeping accurate records.","exTh":"เขาพิถีพิถันในการเก็บบันทึกให้ถูกต้อง"}
+{"id":"assimilate_verb","th":"กลืนกลาย; ซึมซับ; ดูดซึม","ex":"It took her a year to assimilate into the new culture.","exTh":"เธอใช้เวลาหนึ่งปีกว่าจะกลืนกลายเข้ากับวัฒนธรรมใหม่"}
+{"id":"aberration_noun","th":"ความผิดปกติ; ความเบี่ยงเบนจากปกติ","ex":"The low score was an aberration, not a pattern.","exTh":"คะแนนต่ำครั้งนั้นเป็นเรื่องผิดปกติ ไม่ใช่แบบแผน"}
+{"id":"ephemeral_adj","th":"ชั่วคราว; ไม่ยั่งยืน; ผ่านไปเร็ว","ex":"Fame can be ephemeral in the age of social media.","exTh":"ชื่อเสียงอาจอยู่ได้ไม่นานในยุคโซเชียลมีเดีย"}
+{"id":"painstaking_adj","th":"พากเพียร; พิถีพิถัน; ระมัดระวังอย่างยิ่ง","ex":"The painstaking repair of the old clock took months.","exTh":"การซ่อมนาฬิกาเก่าอย่างพิถีพิถันใช้เวลาหลายเดือน"}
+{"id":"unequivocally_adv","th":"อย่างชัดเจน; อย่างไม่กำกวม","ex":"The test result unequivocally proved her innocent.","exTh":"ผลการทดสอบพิสูจน์ว่าเธอบริสุทธิ์อย่างชัดเจน"}
+{"id":"resuscitation_noun","th":"การช่วยฟื้นคืนชีพ; การปั๊มหัวใจ","ex":"The nurse started resuscitation immediately.","exTh":"พยาบาลเริ่มช่วยฟื้นคืนชีพทันที"}
+{"id":"verily_adv","th":"อย่างแท้จริง; แน่แท้","ex":"Verily, I say to you, the truth will come out.","exTh":"แน่แท้ ข้าบอกเจ้าว่าความจริงจะต้องปรากฏ","note":"คำโบราณ พบในพระคัมภีร์/วรรณกรรม"}
+{"id":"allegorical_adj","th":"เชิงเปรียบเทียบ; เป็นอุปมา","ex":"The film has an allegorical meaning about freedom.","exTh":"ภาพยนตร์เรื่องนี้มีความหมายเชิงเปรียบเทียบเกี่ยวกับอิสรภาพ"}
+{"id":"summarily_adv","th":"อย่างรวบรัด; ทันที โดยไม่ผ่านขั้นตอน","ex":"The worker was summarily dismissed without a warning.","exTh":"คนงานถูกไล่ออกทันทีโดยไม่มีการเตือนล่วงหน้า"}
+{"id":"hamper_verb","th":"ขัดขวาง; เป็นอุปสรรค","ex":"Bad weather may hamper the search for the missing boat.","exTh":"สภาพอากาศแย่อาจขัดขวางการค้นหาเรือที่หายไป"}
+{"id":"antithesis_noun","th":"สิ่งที่ตรงข้ามกัน; การเปรียบเทียบที่ตรงกันข้าม","ex":"Her calm style is the antithesis of his loud manner.","exTh":"สไตล์สงบของเธอตรงข้ามกับท่าทีโวยวายของเขาโดยสิ้นเชิง"}
+{"id":"emulate_verb","th":"เลียนแบบ; ทำตามอย่าง; พยายามเทียบเท่า","ex":"Young players try to emulate their football heroes.","exTh":"นักกีฬารุ่นเยาว์พยายามเลียนแบบฮีโร่ฟุตบอลของพวกเขา"}
+{"id":"rebound_verb","th":"เด้งกลับ; ฟื้นตัว","ex":"The ball rebounded off the wall.","exTh":"ลูกบอลเด้งกลับจากกำแพง"}
+{"id":"rebound_noun","th":"การเด้งกลับ; การฟื้นตัว; ลูกรีบาวด์","ex":"The economy showed a strong rebound this year.","exTh":"เศรษฐกิจฟื้นตัวอย่างแข็งแกร่งในปีนี้"}
+{"id":"austere_adj","th":"เคร่งครัด; เรียบง่ายสุดๆ; ไม่ฟุ่มเฟือย","ex":"The monk lived an austere life with few possessions.","exTh":"พระภิกษุใช้ชีวิตเรียบง่ายเคร่งครัด มีทรัพย์สินเพียงเล็กน้อย"}
+{"id":"armory_noun","th":"คลังอาวุธ; โรงเก็บอาวุธ","ex":"Soldiers locked the weapons in the armory.","exTh":"ทหารเก็บอาวุธใส่กุญแจไว้ในคลังอาวุธ","note":"สะกดแบบอเมริกัน (อังกฤษ: armoury)"}
+{"id":"anonymity_noun","th":"การไม่เปิดเผยชื่อ; ความนิรนาม","ex":"The donor asked to keep his anonymity.","exTh":"ผู้บริจาคขอให้ปกปิดชื่อของเขา"}
+{"id":"locomotion_noun","th":"การเคลื่อนที่; การเคลื่อนไหว","ex":"Fish use their fins for locomotion in water.","exTh":"ปลาใช้ครีบในการเคลื่อนที่ในน้ำ"}
+{"id":"opacity_noun","th":"ความทึบแสง; ความขุ่นมัว; ความคลุมเครือ","ex":"The opacity of the glass gives the room more privacy.","exTh":"ความทึบของกระจกทำให้ห้องเป็นส่วนตัวมากขึ้น"}
+{"id":"austerity_noun","th":"มาตรการรัดเข็มขัด; ความเคร่งครัดเรียบง่าย","ex":"The government introduced austerity to reduce debt.","exTh":"รัฐบาลใช้มาตรการรัดเข็มขัดเพื่อลดหนี้"}
+{"id":"haphazard_adj","th":"สะเปะสะปะ; มั่วๆ; ไร้แบบแผน","ex":"Books lay in haphazard piles all over the room.","exTh":"หนังสือวางเป็นกองมั่วๆ ทั่วห้อง"}
+{"id":"uncanny_adj","th":"ประหลาดน่าขนลุก; เหมือนเหลือเชื่อ","ex":"She has an uncanny ability to guess what I am thinking.","exTh":"เธอมีความสามารถอย่างน่าประหลาดในการเดาว่าฉันคิดอะไรอยู่"}
+{"id":"prescriptive_adj","th":"ที่กำหนดกฎเกณฑ์; เชิงบังคับ","ex":"The school has a very prescriptive approach to grammar.","exTh":"โรงเรียนนี้สอนไวยากรณ์แบบกำหนดกฎเคร่งครัด"}
+{"id":"gout_noun","th":"โรคเกาต์","ex":"My uncle has gout and cannot eat red meat.","exTh":"ลุงของฉันเป็นโรคเกาต์และกินเนื้อแดงไม่ได้"}
+{"id":"antidote_noun","th":"ยาถอนพิษ; ยาแก้พิษ; สิ่งแก้ไข","ex":"Doctors gave him an antidote for the snake poison.","exTh":"หมอให้ยาถอนพิษงูแก่เขา"}
+{"id":"menacing_adj","th":"คุกคาม; น่ากลัว; ข่มขู่","ex":"A menacing dog growled at us from behind the fence.","exTh":"สุนัขดุร้ายตัวหนึ่งขู่คำรามใส่เราจากหลังรั้ว"}
+{"id":"spontaneity_noun","th":"ความฉับพลัน; ความเป็นธรรมชาติ ไม่ได้เตรียมไว้","ex":"I love the spontaneity of traveling without a plan.","exTh":"ฉันชอบความเป็นธรรมชาติของการเที่ยวโดยไม่วางแผน"}
+{"id":"rebuke_verb","th":"ตำหนิ; ว่ากล่าว; ดุว่า","ex":"The manager rebuked him for arriving late again.","exTh":"ผู้จัดการตำหนิเขาที่มาสายอีกแล้ว"}
+{"id":"rebuke_noun","th":"การตำหนิ; คำดุว่า","ex":"She received a sharp rebuke from her boss.","exTh":"เธอถูกเจ้านายตำหนิอย่างรุนแรง"}
+{"id":"denunciation_noun","th":"การประณาม; การกล่าวโทษ","ex":"The leaders issued a public denunciation of the attack.","exTh":"ผู้นำออกมาประณามการโจมตีต่อสาธารณะ"}
+{"id":"brim_verb","th":"เต็มปรี่; เอ่อล้น","ex":"Her eyes brimmed with tears of joy.","exTh":"ดวงตาของเธอเอ่อล้นด้วยน้ำตาแห่งความสุข"}
+{"id":"infallible_adj","th":"ไม่มีวันผิดพลาด; แม่นยำเสมอ","ex":"No one is infallible; everyone makes mistakes.","exTh":"ไม่มีใครไม่เคยผิดพลาด ทุกคนล้วนทำพลาดได้"}
+{"id":"ornate_adj","th":"ประดับประดาอย่างวิจิตร; หรูหราซับซ้อน","ex":"The palace has an ornate golden ceiling.","exTh":"พระราชวังมีเพดานสีทองประดับวิจิตรงดงาม"}
+{"id":"connotation_noun","th":"ความหมายแฝง; นัยแฝง","ex":"The word 'cheap' has a negative connotation.","exTh":"คำว่า cheap มีความหมายแฝงในแง่ลบ"}
+{"id":"detract_verb","th":"ทำให้ด้อยลง; ลดคุณค่า","ex":"The noise did not detract from the beauty of the view.","exTh":"เสียงดังไม่ได้ทำให้ความงามของทิวทัศน์ด้อยลง","note":"มักใช้ detract from"}
+{"id":"averse_adj","th":"ไม่ชอบ; ไม่เต็มใจ; เกลียด","ex":"He is averse to taking risks with his money.","exTh":"เขาไม่ชอบเสี่ยงกับเงินของตัวเอง","note":"มักใช้ averse to"}
+{"id":"proverbial_adj","th":"ที่รู้กันทั่วไป; ดังคำพังเพย","ex":"He is the proverbial good guy who always helps others.","exTh":"เขาเป็นคนดีอย่างที่ใครๆ รู้กัน คอยช่วยเหลือคนอื่นเสมอ"}
+{"id":"idiosyncratic_adj","th":"มีลักษณะเฉพาะตัว; แปลกประหลาดเฉพาะบุคคล","ex":"The chef has an idiosyncratic way of cooking rice.","exTh":"เชฟคนนี้มีวิธีหุงข้าวที่เป็นเอกลักษณ์เฉพาะตัว"}
+{"id":"palatable_adj","th":"รสชาติพอกินได้; ยอมรับได้","ex":"The soup was simple but palatable.","exTh":"ซุปนั้นเรียบง่ายแต่กินได้อร่อยพอใช้"}
+{"id":"pluck_noun","th":"ความกล้าหาญ; ความเด็ดเดี่ยว; เครื่องในสัตว์","ex":"It took real pluck to start a business alone.","exTh":"ต้องมีความกล้าจริงๆ ที่เริ่มทำธุรกิจคนเดียว","note":"ความหมายนี้เป็นภาษาพูดเก่าหน่อย"}
+{"id":"agile_adj","th":"คล่องแคล่ว; ว่องไว; ปรับตัวเร็ว","ex":"The agile cat jumped onto the high shelf.","exTh":"แมวว่องไวกระโดดขึ้นไปบนชั้นสูง"}
+{"id":"eccentricity_noun","th":"ความแปลกประหลาด; นิสัยพิลึก","ex":"His eccentricity made him famous in the village.","exTh":"นิสัยแปลกๆ ของเขาทำให้เขาโด่งดังในหมู่บ้าน"}
+{"id":"prostrate_verb","th":"หมอบลง; กราบ; ทำให้หมดแรง","ex":"The pilgrims prostrated themselves before the shrine.","exTh":"ผู้แสวงบุญหมอบกราบต่อหน้าศาลเจ้า"}
+{"id":"prostrate_adj","th":"นอนคว่ำ; หมอบราบ; หมดแรง","ex":"He lay prostrate on the floor after the long run.","exTh":"เขานอนหมดแรงอยู่บนพื้นหลังวิ่งระยะไกล"}

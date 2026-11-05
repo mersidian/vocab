@@ -1,0 +1,866 @@
+[
+{
+"id": "milk-drinker_idiom",
+"w": "milk drinker",
+"kind": "idiom",
+"gloss": [
+"Someone who lacks experience or courage.",
+"Used other than figuratively or idiomatically: see milk, drinker."
+]
+},
+{
+"id": "under-the-sheets_idiom",
+"w": "under the sheets",
+"kind": "idiom",
+"gloss": [
+"In a state of rest or sleep.",
+"In a state of intimate or sexual activity."
+]
+},
+{
+"id": "snap-crackle-and-pop_idiom",
+"w": "snap, crackle and pop",
+"kind": "idiom",
+"gloss": [
+"Any loud or audible noise.",
+"An event or situation that is dynamic or full of lively activity."
+]
+},
+{
+"id": "in-splits_idiom",
+"w": "in splits",
+"kind": "idiom",
+"gloss": [
+"Laughing uncontrollably; in fits of laughter.",
+"Used other than figuratively or idiomatically: see in, splits."
+]
+},
+{
+"id": "win-the-lottery_idiom",
+"w": "win the lottery",
+"kind": "idiom",
+"gloss": [
+"To experience an extraordinary or highly fortunate event.",
+"Used other than figuratively or idiomatically: see win, lottery."
+]
+},
+{
+"id": "adversarial-collaboration_idiom",
+"w": "adversarial collaboration",
+"kind": "idiom",
+"gloss": [
+"Any of a class of study designs in which scientists with conflicting theories work together with others who are neutral or agnostic about those theories, and this team runs an experiment to test the theories empirically and thus find out whether one of the theories is contradicted by the evidence found.",
+"An instance of such a study."
+]
+},
+{
+"id": "rubber-hose_idiom",
+"w": "rubber hose",
+"kind": "idiom",
+"gloss": [
+"A classic animated cartoon style which was first introduced in the early 20th century.",
+"Used other than figuratively or idiomatically: see rubber, hose."
+]
+},
+{
+"id": "all-in-the-family_idiom",
+"w": "all in the family",
+"kind": "idiom",
+"gloss": [
+"Of a secret, trait, business, or a tradition that is kept within a family, shared among family members, and not disclosed to those outside the family.",
+"Of a group of people who share similar characteristics, values, or backgrounds."
+]
+},
+{
+"id": "backwards-and-forwards_idiom",
+"w": "backwards and forwards",
+"kind": "idiom",
+"gloss": [
+"Thoroughly; completely, comprehensively.",
+"Synonym of back and forth."
+]
+},
+{
+"id": "ho-kua-bo-ho-jiak_idiom",
+"w": "ho kua bo ho jiak",
+"kind": "idiom",
+"gloss": [
+"Superficial; incompetent or having no substance despite appearances, skin-deep; portraying oneself as greater than one actually is; all style and no substance.",
+"Unpalatable despite having great presentation."
+]
+},
+{
+"id": "on-the-mat_idiom",
+"w": "on the mat",
+"kind": "idiom",
+"gloss": [
+"To be reprimanded or called to account by someone in authority.",
+"Under consideration or discussion."
+]
+},
+{
+"id": "mama-s-girl_idiom",
+"w": "mama's girl",
+"kind": "idiom",
+"gloss": [
+"A woman or girl who has a very close bond with her mother."
+]
+},
+{
+"id": "button-pusher_idiom",
+"w": "button pusher",
+"kind": "idiom",
+"gloss": [
+"Someone who pushes someone else's buttons: someone who goads, annoys, provokes, etc.",
+"A low-skilled or unskilled worker: someone from whom one can expect little or nothing more than rote pushing of buttons (not showing, for example, critical thinking, insight, or leadership)."
+]
+},
+{
+"id": "drive-to-drink_idiom",
+"w": "drive to drink",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see drive, drink.",
+"Synonym of drive someone crazy."
+]
+},
+{
+"id": "on-the-boob_idiom",
+"w": "on the boob",
+"kind": "idiom",
+"gloss": [
+"Breastfeeding, nursing at the breast.",
+"Used other than figuratively or idiomatically: see on, boob."
+]
+},
+{
+"id": "skin-trade_idiom",
+"w": "skin trade",
+"kind": "idiom",
+"gloss": [
+"The sex industry",
+"The fur business, i.e. trading animal skins."
+]
+},
+{
+"id": "heffalump-trap_idiom",
+"w": "heffalump trap",
+"kind": "idiom",
+"gloss": [
+"A situation where an attempt to trap or outwit someone ends up backfiring on the original schemer.",
+"A strategic move that ends up ensnaring those who devised it."
+]
+},
+{
+"id": "salt-the-earth_idiom",
+"w": "salt the earth",
+"kind": "idiom",
+"gloss": [
+"To spread salt over arable land to destroy its fertility, especially as a scorched-earth tactic of war and/or genocide.",
+"After destroying or devastating something, to do something additional to make sure it is permanently destroyed, as a precaution or out of spite."
+]
+},
+{
+"id": "any-given-sunday_idiom",
+"w": "any given Sunday",
+"kind": "idiom",
+"gloss": [
+"On a particular day, an unpredictable outcome can occur.",
+"Used other than figuratively or idiomatically: see any, given, Sunday."
+]
+},
+{
+"id": "on-another-note_idiom",
+"w": "on another note",
+"kind": "idiom",
+"gloss": [
+"Announcing a change in a topic or subject."
+]
+},
+{
+"id": "sail-the-high-seas_idiom",
+"w": "sail the high seas",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see sail, the, high seas.",
+"To engage in piracy."
+]
+},
+{
+"id": "rich-bitch_idiom",
+"w": "rich bitch",
+"kind": "idiom",
+"gloss": [
+"A woman who is both wealthy and perceived as arrogant, selfish and entitled.",
+"A person of any gender who combines affluence with abusive or entitled behavior."
+]
+},
+{
+"id": "betray-with-a-kiss_idiom",
+"w": "betray with a kiss",
+"kind": "idiom",
+"gloss": [
+"Of Judas, to kiss Jesus so as to discreetly signal to Roman soldiers that Jesus was the Christ, and as such was the one to be arrested.",
+"To betray someone in a seemingly inconspicuous or innocuous manner."
+]
+},
+{
+"id": "fair-coin_idiom",
+"w": "fair coin",
+"kind": "idiom",
+"gloss": [
+"A sequence of independent Bernoulli trials (a Bernoulli process) with probability 1/2 of success on each trial.",
+"Used other than figuratively or idiomatically: an ideal coin, one so physically perfect that it has zero bias in its flipping."
+]
+},
+{
+"id": "black-oxide_idiom",
+"w": "black oxide",
+"kind": "idiom",
+"gloss": [
+"Any of several coatings for steels or copper; some are oxides (mainly iron(II,III) oxide), some are nitrites or nitrates, and some are selenides; all are black; the main purposes are the antireflective and cosmetic effects; the anticorrosion effects are small.",
+"Used other than figuratively or idiomatically: any oxide that is black; often, iron(II,III) oxide."
+]
+},
+{
+"id": "in-someone-s-view_idiom",
+"w": "in someone's view",
+"kind": "idiom",
+"gloss": [
+"The way or manner in which someone sees or perceives something: the way or manner in which someone feels about something.",
+"Used other than figuratively or idiomatically: see in, someone's, view."
+]
+},
+{
+"id": "winter-wonderland_idiom",
+"w": "winter wonderland",
+"kind": "idiom",
+"gloss": [
+"A beautiful scene of snow and ice.",
+"A festive funfair held around Christmas time."
+]
+},
+{
+"id": "throw-someone-a-rope_idiom",
+"w": "throw someone a rope",
+"kind": "idiom",
+"gloss": [
+"To rescue someone by providing them with help, such as material aid, financial aid, a face-saving excuse, or a clue.",
+"Used other than figuratively or idiomatically: to rescue someone from drowning by tossing a rope for them to grab onto and be dragged to safety."
+]
+},
+{
+"id": "say-one-s-prayers_idiom",
+"w": "say one's prayers",
+"kind": "idiom",
+"gloss": [
+"To prepare to be killed.",
+"Used other than figuratively or idiomatically: see say, one's, prayer."
+]
+},
+{
+"id": "in-a-bubble_idiom",
+"w": "in a bubble",
+"kind": "idiom",
+"gloss": [
+"In a state of isolation or insulation from the outside world.",
+"In a state of excitement."
+]
+},
+{
+"id": "hot-garbage_idiom",
+"w": "hot garbage",
+"kind": "idiom",
+"gloss": [
+"Nuclear waste.",
+"Anything that is extremely bad, low-quality, or worthless."
+]
+},
+{
+"id": "let-them-eat-cake_idiom",
+"w": "let them eat cake",
+"kind": "idiom",
+"gloss": [
+"Used to express a profound disconnect between the elite and the unprivileged or underprivileged, suggesting a callous indifference or detachment to their suffering."
+]
+},
+{
+"id": "make-a-grab_idiom",
+"w": "make a grab",
+"kind": "idiom",
+"gloss": [
+"To try to take quickly.",
+"To try to get in control quickly."
+]
+},
+{
+"id": "special-treatment_idiom",
+"w": "special treatment",
+"kind": "idiom",
+"gloss": [
+"A form of exceptional handling or care that differs from the standard, often implying favoritism.",
+"Used other than figuratively or idiomatically: see special, treatment."
+]
+},
+{
+"id": "reclaim-one-s-time_idiom",
+"w": "reclaim one's time",
+"kind": "idiom",
+"gloss": [
+"To assert control over one's allotted time, in order to stop interruptions and regain speaking time during a parliamentary procedure.",
+"To regain control of one's time from distractions, inefficiencies, or the demands of others."
+]
+},
+{
+"id": "they-don-t-make-them-like-that-anymore_idiom",
+"w": "they don't make them like that anymore",
+"kind": "idiom",
+"gloss": [
+"Expressing such notions as that the person referred to is excellent and that owing to the decline of society, such people have become rarer; the old school was better; the youth today lack something that previous generations had more of; all the good ones are taken; and so on.",
+"Used other than figuratively or idiomatically: see they, don't, make, them, like, that, anymore: the model of vehicle, machine, or device exemplified by the instance under discussion is no longer manufactured."
+]
+},
+{
+"id": "say-someone-s-prayers_idiom",
+"w": "say someone's prayers",
+"kind": "idiom",
+"gloss": [
+"To prepare to kill.",
+"Used other than figuratively or idiomatically: see say, someone's, prayer."
+]
+},
+{
+"id": "gnash-one-s-teeth_idiom",
+"w": "gnash one's teeth",
+"kind": "idiom",
+"gloss": [
+"To grind or strike the teeth together in anger, signaling extreme rage, frustration, pain, or ferocity.",
+"Used other than figuratively or idiomatically: see gnash, teeth."
+]
+},
+{
+"id": "what-price_idiom",
+"w": "what price",
+"kind": "idiom",
+"gloss": [
+"What must be lost or sacrificed to gain ___?",
+"What are the chances of ___ succeeding?"
+]
+},
+{
+"id": "written-in-blood_idiom",
+"w": "written in blood",
+"kind": "idiom",
+"gloss": [
+"Having arisen out of tragedy.",
+"Incredibly harsh or strict; brutal."
+]
+},
+{
+"id": "do-the-most_idiom",
+"w": "do the most",
+"kind": "idiom",
+"gloss": [
+"To overdo, especially pointlessly.",
+"Used other than figuratively or idiomatically: see do, the, most."
+]
+},
+{
+"id": "buy-the-rights_idiom",
+"w": "buy the rights",
+"kind": "idiom",
+"gloss": [
+"To acquire the legal rights to a work, property, story, or intellectual creation, especially for purposes such as publication, adaptation, or distribution.",
+"Used as a rebuke to someone seeking information for free."
+]
+},
+{
+"id": "democratic-wedding_idiom",
+"w": "democratic wedding",
+"kind": "idiom",
+"gloss": [
+"An election.",
+"Used other than figuratively or idiomatically: see democratic, wedding."
+]
+},
+{
+"id": "rush-one-s-fences_idiom",
+"w": "rush one's fences",
+"kind": "idiom",
+"gloss": [
+"Of a horse, to approach a fence too quickly before a jump.",
+"To act too hastily or impulsively, often resulting in mistakes or failure."
+]
+},
+{
+"id": "keep-the-rent-down_idiom",
+"w": "keep the rent down",
+"kind": "idiom",
+"gloss": [
+"To deter undesirables from a space, especially through intentionally off-putting behavior.",
+"Used other than figuratively or idiomatically: see keep, the, rent, down."
+]
+},
+{
+"id": "with-one-s-finger-in-one-s-mouth_idiom",
+"w": "with one's finger in one's mouth",
+"kind": "idiom",
+"gloss": [
+"Appearing foolish, shy or hesitant.",
+"Idly standing around doing nothing instead of being productive."
+]
+},
+{
+"id": "get-one-s-fingers-onto_idiom",
+"w": "get one's fingers onto",
+"kind": "idiom",
+"gloss": [
+"To physically reach, grasp, or make contact with something.",
+"To finally obtain possession of something desirable."
+]
+},
+{
+"id": "favorite-person_idiom",
+"w": "favorite person",
+"kind": "idiom",
+"gloss": [
+"A person on whom someone with borderline personality disorder is intensely emotionally dependent.",
+"Used other than figuratively or idiomatically: see favorite, person."
+]
+},
+{
+"id": "have-a-fine-finger_idiom",
+"w": "have a fine finger",
+"kind": "idiom",
+"gloss": [
+"To be exceptionally gifted at a task requiring delicate, expert manual dexterity.",
+"To have a refined, natural talent for playing musical instruments."
+]
+},
+{
+"id": "or-so-on_idiom",
+"w": "or so on",
+"kind": "idiom",
+"gloss": [
+"An expression used to indicate the continuation of a list, series, or pattern when the remaining items are obvious, unimportant, or too numerous to specify.",
+"A vague extender similar to etc., often used in informal speech to avoid excessive detail."
+]
+},
+{
+"id": "it-s-everywhere_idiom",
+"w": "it's everywhere",
+"kind": "idiom",
+"gloss": [
+"Synonym of it's all over my screen.",
+"Used other than figuratively or idiomatically: see it's, everywhere."
+]
+},
+{
+"id": "heavy-hand_idiom",
+"w": "heavy hand",
+"kind": "idiom",
+"gloss": [
+"The act of exercising power, rules, or discipline in an overly strict, domineering, or tyrannical way.",
+"The act of executing a task without a light, subtle touch, which often leads to clumsy or excessive results."
+]
+},
+{
+"id": "prize-pig_idiom",
+"w": "prize pig",
+"kind": "idiom",
+"gloss": [
+"A hog that has won a blue ribbon or award at a livestock show or county fair for its superior breeding, size, or quality.",
+"Something that is perfect or outstanding of its kind; a prime, heavy, or glaring example of something."
+]
+},
+{
+"id": "show-pony_idiom",
+"w": "show pony",
+"kind": "idiom",
+"gloss": [
+"A specific class of small horse or pony that are judged in equestrian competitions; bred and trained for their elegance, conformation (physical build), and graceful movement in the show ring, rather than for practical farm work.",
+"A person who loves to be the center of attention, prioritizes their image, or likes to show off."
+]
+},
+{
+"id": "for-britain_idiom",
+"w": "for Britain",
+"kind": "idiom",
+"gloss": [
+"Very well or for a long time.",
+"Used other than figuratively or idiomatically: see for, Britain."
+]
+},
+{
+"id": "for-ireland_idiom",
+"w": "for Ireland",
+"kind": "idiom",
+"gloss": [
+"Very well or for a long time.",
+"Used other than figuratively or idiomatically: see for, Ireland."
+]
+},
+{
+"id": "for-scotland_idiom",
+"w": "for Scotland",
+"kind": "idiom",
+"gloss": [
+"Very well or for a long time.",
+"Used other than figuratively or idiomatically: see for, Scotland."
+]
+},
+{
+"id": "for-wales_idiom",
+"w": "for Wales",
+"kind": "idiom",
+"gloss": [
+"Very well or for a long time.",
+"Used other than figuratively or idiomatically: see for, Wales."
+]
+},
+{
+"id": "turtle-head_idiom",
+"w": "turtle head",
+"kind": "idiom",
+"gloss": [
+"To emerge partially from the body, as a result of heightened internal pressure in the bowels.",
+"To struggle to keep an imminent bowel movement wholly inside oneself."
+]
+},
+{
+"id": "fire-into-the-sun_idiom",
+"w": "fire into the sun",
+"kind": "idiom",
+"gloss": [
+"To get rid of or otherwise punish an unwanted person (especially due to poor performance).",
+"Used other than figuratively or idiomatically: see fire, into, the, sun."
+]
+},
+{
+"id": "full-bloom_idiom",
+"w": "full bloom",
+"kind": "idiom",
+"gloss": [
+"During the stage in a plant's life cycle when its flowers are completely open and at their absolute peak of beauty, color, and fragrance.",
+"When a valuable potential has finally unfolded into a vibrant reality."
+]
+},
+{
+"id": "99-problems_idiom",
+"w": "99 problems",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see 99, problems.",
+"An innumerable amount of problems which nevertheless implies one notable matter is not considered a problem."
+]
+},
+{
+"id": "by-left_idiom",
+"w": "by left",
+"kind": "idiom",
+"gloss": [
+"Done without abiding by proper rules and procedures, as it may be more convenient to ignore them entirely, bend the rules or use a workaround.",
+"Used to refute a previous statement of by right by demonstrating that something is, in practice, done in an unofficial manner, without much regard for proper procedures and protocols."
+]
+},
+{
+"id": "teach-one-s-place_idiom",
+"w": "teach one's place",
+"kind": "idiom",
+"gloss": [
+"To make aware, by experience, of one's inferior rank or status."
+]
+},
+{
+"id": "leave-a-stone-unturned_idiom",
+"w": "leave a stone unturned",
+"kind": "idiom",
+"gloss": [
+"To leave a detail unexamined.",
+"Used other than figuratively or idiomatically: see leave, a, stone, unturned."
+]
+},
+{
+"id": "bilge-rat_idiom",
+"w": "bilge rat",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see bilge, rat.",
+"An insulting term for a dirty, low-ranked, or untrustworthy person."
+]
+},
+{
+"id": "jungle-monkey_idiom",
+"w": "jungle monkey",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see jungle, monkey.; monkeys that naturally inhabit tropical rainforests or jungles.",
+"A term meant to demean someone or suggest that they are primitive or uncivilized; often used in racist contexts."
+]
+},
+{
+"id": "dirt-cup_idiom",
+"w": "dirt cup",
+"kind": "idiom",
+"gloss": [
+"An individual, smaller portion of dirt cake, served in a cup.",
+"The container that collects dirt and debris in bagless vacuums."
+]
+},
+{
+"id": "brown-thumb_idiom",
+"w": "brown thumb",
+"kind": "idiom",
+"gloss": [
+"A lack of skill at growing plants; a poor gardening skill."
+]
+},
+{
+"id": "busman-s-holiday_idiom",
+"w": "busman's holiday",
+"kind": "idiom",
+"gloss": [
+"A holiday or vacation during which one does something similar to what one does as work."
+]
+},
+{
+"id": "trailer-trash_idiom",
+"w": "trailer trash",
+"kind": "idiom",
+"gloss": [
+"Poorly-educated, usually white, individual(s) of low social status who stereotypically reside(s) in a trailer park."
+]
+},
+{
+"id": "fool-s-paradise_idiom",
+"w": "fool's paradise",
+"kind": "idiom",
+"gloss": [
+"A state of happiness due to illusion or false hope."
+]
+},
+{
+"id": "to-and-fro_idiom",
+"w": "to and fro",
+"kind": "idiom",
+"gloss": [
+"To go back and forth; to alternate."
+]
+},
+{
+"id": "on-sufferance_idiom",
+"w": "on sufferance",
+"kind": "idiom",
+"gloss": [
+"Unwillingly agreed to or barely tolerated."
+]
+},
+{
+"id": "according-to-hoyle_idiom",
+"w": "according to Hoyle",
+"kind": "idiom",
+"gloss": [
+"In strict accordance with the rules, especially of card games; in the proper or expected manner."
+]
+},
+{
+"id": "farmer-s-tan_idiom",
+"w": "farmer's tan",
+"kind": "idiom",
+"gloss": [
+"The tan line left by clothing, especially by a short-sleeved shirt."
+]
+},
+{
+"id": "up-the-river_idiom",
+"w": "up the river",
+"kind": "idiom",
+"gloss": [
+"To prison."
+]
+},
+{
+"id": "take-the-offensive_idiom",
+"w": "take the offensive",
+"kind": "idiom",
+"gloss": [
+"To attack instead of defending; to be bold and proactive."
+]
+},
+{
+"id": "bum-s-rush_idiom",
+"w": "bum's rush",
+"kind": "idiom",
+"gloss": [
+"The forcible ejection of someone, such as a bum or a hobo, from an establishment."
+]
+},
+{
+"id": "all-systems-go_idiom",
+"w": "all systems go",
+"kind": "idiom",
+"gloss": [
+"Everything is ready."
+]
+},
+{
+"id": "whole-cloth_idiom",
+"w": "whole cloth",
+"kind": "idiom",
+"gloss": [
+"In full extent, wholesale, entirely, without changes or additions."
+]
+},
+{
+"id": "curate-s-egg_idiom",
+"w": "curate's egg",
+"kind": "idiom",
+"gloss": [
+"A thing which has good and bad parts, but is overall spoiled by the bad."
+]
+},
+{
+"id": "make-someone-s-skin-crawl_idiom",
+"w": "make someone's skin crawl",
+"kind": "idiom",
+"gloss": [
+"To frighten or disgust."
+]
+},
+{
+"id": "give-something-a-go_idiom",
+"w": "give something a go",
+"kind": "idiom",
+"gloss": [
+"To try or attempt."
+]
+},
+{
+"id": "grand-total_idiom",
+"w": "grand total",
+"kind": "idiom",
+"gloss": [
+"The entire or final sum."
+]
+},
+{
+"id": "make-the-grade_idiom",
+"w": "make the grade",
+"kind": "idiom",
+"gloss": [
+"To prove satisfactory; to be successful or worthy of merit."
+]
+},
+{
+"id": "i-ll-be-a-monkey-s-uncle_idiom",
+"w": "I'll be a monkey's uncle",
+"kind": "idiom",
+"gloss": [
+"Often preceded by well: expressing complete surprise or disbelief."
+]
+},
+{
+"id": "beyond-the-black-stump_idiom",
+"w": "beyond the black stump",
+"kind": "idiom",
+"gloss": [
+"In an extremely isolated place, remote from populated areas; in the middle of nowhere. Typically used to refer to outback areas."
+]
+},
+{
+"id": "make-a-splash_idiom",
+"w": "make a splash",
+"kind": "idiom",
+"gloss": [
+"To do something that attracts attention."
+]
+},
+{
+"id": "cramp-someone-s-style_idiom",
+"w": "cramp someone's style",
+"kind": "idiom",
+"gloss": [
+"To restrict someone's free action or expression."
+]
+},
+{
+"id": "on-tenterhooks_idiom",
+"w": "on tenterhooks",
+"kind": "idiom",
+"gloss": [
+"In a state of (great) apprehension or suspense; on pins and needles; on the rack."
+]
+},
+{
+"id": "the-terrorists-will-have-won_idiom",
+"w": "the terrorists will have won",
+"kind": "idiom",
+"gloss": [
+"Phrase used to indicate that if a specified activity is not continued or carried out, those who seek to disrupt normal activities through terror will have succeeded, which is an unacceptable result."
+]
+},
+{
+"id": "play-one-against-another_idiom",
+"w": "play one against another",
+"kind": "idiom",
+"gloss": [
+"To manipulate two persons into competing against one another in a way that benefits the person carrying out the manipulation."
+]
+},
+{
+"id": "fire-on-all-cylinders_idiom",
+"w": "fire on all cylinders",
+"kind": "idiom",
+"gloss": [
+"To operate as effectively as possible."
+]
+},
+{
+"id": "watch-it_idiom",
+"w": "watch it",
+"kind": "idiom",
+"gloss": [
+"To be careful or cautious; to pay attention to what one is doing (usually imperative)."
+]
+},
+{
+"id": "under-a-spell_idiom",
+"w": "under a spell",
+"kind": "idiom",
+"gloss": [
+"Bewitched; held (as if) by the power of a magical spell."
+]
+},
+{
+"id": "pick-of-the-litter_idiom",
+"w": "pick of the litter",
+"kind": "idiom",
+"gloss": [
+"The best person or item in a group; the best that one has to offer."
+]
+},
+{
+"id": "wrong-side-of-the-tracks_idiom",
+"w": "wrong side of the tracks",
+"kind": "idiom",
+"gloss": [
+"The part of town that is not inhabited by the wealthy. An area where the working class, poor or extremely poor live."
+]
+},
+{
+"id": "so-there_idiom",
+"w": "so there",
+"kind": "idiom",
+"gloss": [
+"Used to express one's defiance."
+]
+},
+{
+"id": "play-one-s-cards-right_idiom",
+"w": "play one's cards right",
+"kind": "idiom",
+"gloss": [
+"To act correctly; to make the right moves."
+]
+}
+]

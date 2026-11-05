@@ -1,0 +1,844 @@
+[
+{
+"id": "sedan_x",
+"w": "sedan",
+"gloss": [
+"An enclosed windowed chair suitable for a single occupant, carried by at least two porters, in equal numbers in front and behind, using wooden rails that passed through metal brackets on the sides of the chair.",
+"An automobile designed in a configuration with separate compartments for engine space, driver/passenger space, and luggage or (limited) cargo space.",
+"A handbarrow for transporting fish."
+]
+},
+{
+"id": "trachea_x",
+"w": "trachea",
+"gloss": [
+"A thin-walled, cartilaginous tube connecting the larynx to the bronchi.",
+"The xylem vessel.",
+"One of the cuticle-lined primary tubes in the respiratory system of an insect, which extend throughout its body."
+]
+},
+{
+"id": "internship_x",
+"w": "internship",
+"gloss": [
+"A job taken by a student in order to learn a profession or trade.",
+"The first year of a medical residency."
+]
+},
+{
+"id": "capitalize_x",
+"w": "capitalize",
+"gloss": [
+"In writing or editing, to write (something: either an entire word or text, or just the initial letter(s) thereof) in capital letters, in upper case.",
+"To contribute or acquire capital (money or other resources) for.",
+"To convert into capital, i.e., to get cash or similar immediately fungible resources for some less fungible property or source of future income."
+]
+},
+{
+"id": "bloodshed_x",
+"w": "bloodshed",
+"gloss": [
+"The shedding or spilling of blood.",
+"A slaughter; destruction of life, notably on a large scale.",
+"The shedding of one's own blood; specifically, the death of Christ."
+]
+},
+{
+"id": "bridegroom_x",
+"w": "bridegroom",
+"gloss": [
+"A man in the context of his own wedding; one who is going to marry or has just been married."
+]
+},
+{
+"id": "cactus_x",
+"w": "cactus",
+"gloss": [
+"Any member of the family Cactaceae, a family of flowering New World succulent plants suited to a hot, semi-desert climate.",
+"Any succulent plant with a thick fleshy stem bearing spines but no leaves, such as euphorbs.",
+"A vivid green color inspired by the color of cacti."
+]
+},
+{
+"id": "ophthalmology_x",
+"w": "ophthalmology",
+"gloss": [
+"The anatomy, functions, pathology, and treatment of the eye."
+]
+},
+{
+"id": "circumcision_x",
+"w": "circumcision",
+"gloss": [
+"The surgical excision of the foreskin and usually all or most of the penile frenulum.",
+"Pharisaic circumcision.",
+"Other surgeries involving the incision or partial excision of the foreskin or penile frenulum without total posthetomy."
+]
+},
+{
+"id": "lowly_x",
+"w": "lowly",
+"gloss": [
+"Not high; not elevated in place; low.",
+"Low in rank or social importance.",
+"Not lofty or sublime; humble."
+]
+},
+{
+"id": "ovulation_x",
+"w": "ovulation",
+"gloss": [
+"The release of an ovum from an ovary."
+]
+},
+{
+"id": "harshly_x",
+"w": "harshly",
+"gloss": [
+"In a harsh manner; severely."
+]
+},
+{
+"id": "redesign_x",
+"w": "redesign",
+"gloss": [
+"A plan for making changes to the structure and functions of an artifact, building or system so as to better serve the purpose of the original design, or to serve purposes different from those set forth in the original design.",
+"To lay out or plan a new version of something previously laid out or planned."
+]
+},
+{
+"id": "torrent_x",
+"w": "torrent",
+"gloss": [
+"A violent flow, as of water, lava, etc.; a stream suddenly raised and running rapidly, as down a precipice.",
+"A large amount or stream of something.",
+"Rolling or rushing in a rapid stream."
+]
+},
+{
+"id": "robber_x",
+"w": "robber",
+"gloss": [
+"A person who robs.",
+"An animal who robs."
+]
+},
+{
+"id": "surpass_x",
+"w": "surpass",
+"gloss": [
+"To go beyond or exceed (something) in an adjudicative or literal sense."
+]
+},
+{
+"id": "prepayment_x",
+"w": "prepayment",
+"gloss": [
+"A payment in advance.",
+"A cost paid in a fiscal year prior to the fiscal year in which the cost is recognized"
+]
+},
+{
+"id": "faithfulness_x",
+"w": "faithfulness",
+"gloss": [
+"Constancy of support, alliance, and respect.",
+"Constancy of belief.",
+"Consistency; exactness in copying or following."
+]
+},
+{
+"id": "shortfall_x",
+"w": "shortfall",
+"gloss": [
+"An instance of falling short, of not meeting a quota, an obligation, or more generally any expected target.",
+"The amount by which such a quota, obligation, etc., was missed."
+]
+},
+{
+"id": "ambush_x",
+"w": "ambush",
+"gloss": [
+"The act of concealing oneself and lying in wait to attack or kill by surprise.",
+"An attack launched from a concealed position.",
+"The concealed position or state from which a surprise attack is launched."
+]
+},
+{
+"id": "healthful_x",
+"w": "healthful",
+"gloss": [
+"Beneficial to bodily health.",
+"Conducive to moral or spiritual prosperity; salutary.",
+"Synonym of healthy (“evincing health”)."
+]
+},
+{
+"id": "cerebellum_x",
+"w": "cerebellum",
+"gloss": [
+"Part of the hindbrain in vertebrates. In humans it lies between the brainstem and the back of the cerebrum and is formed of two lateral lobes and a median lobe. It plays an important role in sensory perception, motor output, balance and posture."
+]
+},
+{
+"id": "menopause_x",
+"w": "menopause",
+"gloss": [
+"The period in a woman's life when menstruation becomes irregular and less frequent before eventually stopping altogether, usually accompanied by a range of unpleasant symptoms; the period spanning perimenopause up to postmenopause.",
+"The final menstrual period of a woman after which ovulation no longer occurs.",
+"To undergo menopause."
+]
+},
+{
+"id": "buffet_x",
+"w": "buffet",
+"gloss": [
+"A counter or sideboard from which food and drinks are served or may be bought.",
+"Food laid out in this way, for diners to serve themselves.",
+"A small low stool; a hassock."
+]
+},
+{
+"id": "seeker_x",
+"w": "seeker",
+"gloss": [
+"One who seeks.",
+"Especially, a religious seeker: a pilgrim, or one who aspires to enlightenment or salvation.",
+"In Quidditch or Muggle quidditch, the player who is supposed to catch the snitch."
+]
+},
+{
+"id": "seashore_x",
+"w": "seashore",
+"gloss": [
+"The coastal land bordering a sea or an ocean.",
+"The foreshore, the strip of land between low water and high water."
+]
+},
+{
+"id": "constrain_x",
+"w": "constrain",
+"gloss": [
+"To force physically, by strong persuasion or pressuring; to compel; to oblige.",
+"To keep within close bounds; to confine.",
+"To reduce a result in response to limited resources."
+]
+},
+{
+"id": "sling_x",
+"w": "sling",
+"gloss": [
+"To throw with a circular or arcing motion.",
+"To throw with a sling.",
+"To pass a rope around (a cask, gun, etc.) preparatory to attaching a hoisting or lowering tackle."
+]
+},
+{
+"id": "fahrenheit_x",
+"w": "fahrenheit",
+"gloss": [
+"Describing a temperature scale originally defined as having 0°F as the lowest temperature obtainable with a mixture of ice and salt, and 96°F as the temperature of the human body, and now defined with 32°F equal to 0°C, and each degree Fahrenheit equal to 5/9 of a degree Celsius or 5/9 kelvin."
+]
+},
+{
+"id": "loser_x",
+"w": "loser",
+"gloss": [
+"A person who loses; one who fails to win or thrive.",
+"Something of poor quality.",
+"A person who is frequently unsuccessful in life."
+]
+},
+{
+"id": "sphincter_x",
+"w": "sphincter",
+"gloss": [
+"A ringlike band of muscle that surrounds a bodily opening (such as the anus or the openings of the stomach), constricting and relaxing as required for normal physiological functioning."
+]
+},
+{
+"id": "layoff_x",
+"w": "layoff",
+"gloss": [
+"A dismissal of employees from their jobs because of tightened budgetary constraints or work shortage (not due to poor performance or misconduct).",
+"A period of time when someone is unavailable for work.",
+"A short pass that has been rolled in front of another player for them to kick."
+]
+},
+{
+"id": "immorality_x",
+"w": "immorality",
+"gloss": [
+"The state or quality of being immoral; vice.",
+"An immoral act or practice."
+]
+},
+{
+"id": "wrongdoing_x",
+"w": "wrongdoing",
+"gloss": [
+"Violation of standards of behavior.",
+"An instance of doing wrong."
+]
+},
+{
+"id": "tonne_x",
+"w": "tonne",
+"gloss": [
+"A unit of mass equal to 1000 kilograms.",
+"A surname from German."
+]
+},
+{
+"id": "juniper_x",
+"w": "juniper",
+"gloss": [
+"Any shrub or tree of the genus Juniperus of the cypress family, which is characterized by pointed, needle-like leaves and aromatic berry-like cones.",
+"One of a number of coniferous trees which resemble junipers.",
+"Gin."
+]
+},
+{
+"id": "relocate_x",
+"w": "relocate",
+"gloss": [
+"To move (something) from one place to another.",
+"To change one's domicile or place of business.",
+"To lose something and find it again."
+]
+},
+{
+"id": "antioxidant_x",
+"w": "antioxidant",
+"gloss": [
+"Any substance that slows or prevents the oxidation of another chemical.",
+"One of a group of vitamins that act against the effects of free radicals.",
+"Acting or having agents that act against oxidation."
+]
+},
+{
+"id": "streamline_x",
+"w": "streamline",
+"gloss": [
+"A line that is tangent to the velocity of flow of a fluid; equivalent to the path of a specific particle in that flow.",
+"On a weather chart, a line that is tangent to the flow of the wind.",
+"To design and construct the contours of a vehicle etc. so as to offer the least resistance to its flow through a fluid."
+]
+},
+{
+"id": "idolatry_x",
+"w": "idolatry",
+"gloss": [
+"The worship of idols.",
+"The excessive admiration of somebody or something."
+]
+},
+{
+"id": "equate_x",
+"w": "equate",
+"gloss": [
+"To consider or assert as equal or equivalent (to or with).",
+"To make equal or equivalent.",
+"To set as equal."
+]
+},
+{
+"id": "intonation_x",
+"w": "intonation",
+"gloss": [
+"The rise and fall of the voice in speaking.",
+"Emotive stress used to increase the power of delivery in speech.",
+"A sound made by, or resembling that made by, a musical instrument."
+]
+},
+{
+"id": "repurchase_x",
+"w": "repurchase",
+"gloss": [
+"To buy back or again; to regain by purchase.",
+"The act of repurchasing."
+]
+},
+{
+"id": "congruent_x",
+"w": "congruent",
+"gloss": [
+"Corresponding in character; congruous.",
+"Harmonious.",
+"Having a difference divisible by a modulus."
+]
+},
+{
+"id": "peek_x",
+"w": "peek",
+"gloss": [
+"To look slyly, or with the eyes half closed, or through a crevice; to peep.",
+"To be only slightly, partially visible, as if peering out from a hiding place.",
+"To briefly move out of cover (to gather visual information)."
+]
+},
+{
+"id": "precept_x",
+"w": "precept",
+"gloss": [
+"A rule or principle, especially one governing personal conduct.",
+"A written command, especially a demand for payment.",
+"An order issued by one local authority to another specifying the rate of tax to be charged on its behalf."
+]
+},
+{
+"id": "whey_x",
+"w": "whey",
+"gloss": [
+"The liquid remaining after milk has been curdled and strained in the process of making cheese.",
+"A shout for attention",
+"A shout of enthusiasm or delight"
+]
+},
+{
+"id": "clasp_x",
+"w": "clasp",
+"gloss": [
+"A device with interlocking parts used for fastening things together, such as a fastener or a holder.",
+"A bar or insignia on a medal ribbon, to either indicate an additional award of the medal, or the action or service for which it was awarded.",
+"An embrace, a grasp, or handshake."
+]
+},
+{
+"id": "slowdown_x",
+"w": "slowdown",
+"gloss": [
+"A reduction in speed, or a decrease in the level of production, economic activity, etc."
+]
+},
+{
+"id": "freelance_x",
+"w": "freelance",
+"gloss": [
+"Someone who sells their services to clients without a long-term employment contract.",
+"A medieval mercenary.",
+"Of or relating to a freelance; without a long-term employment contract."
+]
+},
+{
+"id": "refreshment_x",
+"w": "refreshment",
+"gloss": [
+"The process of refreshing; a means of restoring strength, energy or vigour.",
+"That which refreshes, such as a light snack or drink.",
+"The result of being refreshed."
+]
+},
+{
+"id": "seer_x",
+"w": "seer",
+"gloss": [
+"One who foretells the future; a clairvoyant, prophet, soothsayer or diviner.",
+"One who sees something; an eyewitness."
+]
+},
+{
+"id": "tunic_x",
+"w": "tunic",
+"gloss": [
+"A garment worn over the torso, with or without sleeves, and of various lengths reaching from the hips to the ankles.",
+"Any covering, such as seed coat or the organ that covers a membrane.",
+"Synonym of gymslip."
+]
+},
+{
+"id": "quench_x",
+"w": "quench",
+"gloss": [
+"To satisfy, especially a literal or figurative thirst.",
+"To extinguish or put out (as a fire or light).",
+"To cool rapidly by direct contact with liquid coolant, as a blacksmith quenching hot iron."
+]
+},
+{
+"id": "shove_x",
+"w": "shove",
+"gloss": [
+"To push, especially roughly or with force.",
+"To move off or along by an act of pushing, as with an oar or pole used in a boat; sometimes with off.",
+"To make an all-in bet."
+]
+},
+{
+"id": "groin_x",
+"w": "groin",
+"gloss": [
+"The crease or depression of the human body at the junction of the trunk and the thigh, together with the surrounding region.",
+"The area adjoining this fold or depression.",
+"The projecting solid angle formed by the meeting of two vaults"
+]
+},
+{
+"id": "acacia_x",
+"w": "acacia",
+"gloss": [
+"A shrub or tree of the tribe Acacieae.",
+"The thickened or dried juice of several species in Acacieae, in particular Vachellia nilotica (syn. Acacia nilotica, Egyptian acacia).",
+"A false acacia; robinia tree (Robinia pseudoacacia)."
+]
+},
+{
+"id": "caloric_x",
+"w": "caloric",
+"gloss": [
+"Relating to calories.",
+"Containing calories.",
+"Synonym of calorific (“high in calories and thus likely fattening”)."
+]
+},
+{
+"id": "censor_x",
+"w": "censor",
+"gloss": [
+"One of the two magistrates who originally administered the census of citizens, and by Classical times (between the 8th century B.C.E. and the 6th century C.E.) was a high judge of public behaviour and morality.",
+"A high-ranking official who was responsible for the supervision of subordinate government officials.",
+"An official responsible for the removal or suppression of objectionable material (for example, if obscene or likely to incite violence) or sensitive content in books, films, correspondence, and other media."
+]
+},
+{
+"id": "fructose_x",
+"w": "fructose",
+"gloss": [
+"A monosaccharide ketose sugar, formula C₆H₁₂O₆."
+]
+},
+{
+"id": "slay_x",
+"w": "slay",
+"gloss": [
+"To kill; to murder.",
+"To eradicate or stamp out.",
+"To defeat; to overcome (in a competition or contest)."
+]
+},
+{
+"id": "snare_x",
+"w": "snare",
+"gloss": [
+"A trap (especially one made from a loop of wire, string, or leather).",
+"A mental or psychological trap.",
+"A loop of cord used in obstetric cases, to hold or to pull a fetus from the mother animal."
+]
+},
+{
+"id": "maximization_x",
+"w": "maximization",
+"gloss": [
+"The act of raising something to its greatest value or extent.",
+"The process of finding the maximum value of a function."
+]
+},
+{
+"id": "unintelligible_x",
+"w": "unintelligible",
+"gloss": [
+"Not intelligible; unable to be understood."
+]
+},
+{
+"id": "energetically_x",
+"w": "energetically",
+"gloss": [
+"In an energetic manner; with great energy.",
+"By means of energy."
+]
+},
+{
+"id": "gallbladder_x",
+"w": "gallbladder"
+},
+{
+"id": "miscarriage_x",
+"w": "miscarriage",
+"gloss": [
+"A failure; a mistake or error.",
+"The spontaneous natural termination of a pregnancy, especially before it is viable; the fatal expulsion of a foetus from the womb before term."
+]
+},
+{
+"id": "illogical_x",
+"w": "illogical",
+"gloss": [
+"Contrary to logic; lacking sense or sound reasoning."
+]
+},
+{
+"id": "dilation_x",
+"w": "dilation",
+"gloss": [
+"The act of dilating.",
+"State of being dilated; expansion; dilatation.",
+"Delay."
+]
+},
+{
+"id": "cub_x",
+"w": "cub",
+"gloss": [
+"A member of the Cub Scouts.",
+"A player on the team the \"Chicago Cubs\".",
+"The young of certain animals, chiefly large carnivorous mammals, including the bear, wolf, fox, lion and tiger."
+]
+},
+{
+"id": "depress_x",
+"w": "depress",
+"gloss": [
+"To press down.",
+"To make depressed, sad or bored.",
+"To cause a depression or a decrease in parts of the economy."
+]
+},
+{
+"id": "snatch_x",
+"w": "snatch",
+"gloss": [
+"To grasp and remove quickly.",
+"To attempt to seize something suddenly.",
+"To take or seize hastily, abruptly, or without permission or ceremony."
+]
+},
+{
+"id": "considerate_x",
+"w": "considerate",
+"gloss": [
+"Consciously thoughtful and observant (often of other people and their rights, needs, feelings and comfort).",
+"Characterised by careful and conscious thought.",
+"Synonym of consider."
+]
+},
+{
+"id": "squat_x",
+"w": "squat",
+"gloss": [
+"Relatively short or low, and thick or broad.",
+"Sitting on one's heels; sitting close to the ground; cowering or crouching.",
+"A position assumed by bending deeply at the knees while resting on one's feet."
+]
+},
+{
+"id": "iniquity_x",
+"w": "iniquity",
+"gloss": [
+"Deviation from what is right; gross injustice, sin, wickedness.",
+"An act of great injustice or unfairness; a sinful or wicked act; an unconscionable deed."
+]
+},
+{
+"id": "quad_x",
+"w": "quad",
+"gloss": [
+"A blank metal block used to fill short lines of type.",
+"A joke used to fill long days of setting type.",
+"A keyboard command which aligns text with the left or right margin, or centred between them. In combination, as quad left, quad right, or quad centre."
+]
+},
+{
+"id": "volition_x",
+"w": "volition",
+"gloss": [
+"A conscious choice or decision.",
+"The mental power or ability of choosing; the will.",
+"A concept that distinguishes whether or not the subject or agent intended something."
+]
+},
+{
+"id": "insurgency_x",
+"w": "insurgency",
+"gloss": [
+"rebellion; revolt; the state of being insurgent"
+]
+},
+{
+"id": "cobra_x",
+"w": "cobra",
+"gloss": [
+"Any of the genus Naja of venomous snakes that can spread their neck ribs into a broad hood when threatened; a true cobra.",
+"A ring-necked spitting cobra or rinkhals (Hemachatus haemachatus).",
+"A king cobra (Ophiophagus hannah)."
+]
+},
+{
+"id": "tithe_x",
+"w": "tithe",
+"gloss": [
+"A tenth.",
+"The tenth part of the increase arising from the profits of land and stock, allotted to the clergy for their support, as in England, or devoted to religious or charitable uses; a tax taking ten percent of land or stock profits, used for religious or charitable purposes.",
+"A contribution to one's religious community or congregation of worship (notably to the LDS church)."
+]
+},
+{
+"id": "chills_x",
+"w": "chills",
+"gloss": [
+"A biological response to being tickled; being cold; or experiencing fear, euphoria or sexual arousal in which the person forms goose bumps.",
+"A feeling of being cold, a symptom of many conditions."
+]
+},
+{
+"id": "liquidate_x",
+"w": "liquidate",
+"gloss": [
+"Synonym of liquefy (“to make (something) into a liquid”); to liquidize.",
+"To make (a sound) less harsh.",
+"To use up (money or other assets) wastefully; to dissipate, to squander, to waste."
+]
+},
+{
+"id": "tightness_x",
+"w": "tightness",
+"gloss": [
+"The quality or degree of being tight."
+]
+},
+{
+"id": "mantra_x",
+"w": "mantra",
+"gloss": [
+"The hymn portions of the Vedas; any passage of these used as a prayer.",
+"A phrase repeated to assist concentration during meditation.",
+"A slogan or phrase often repeated."
+]
+},
+{
+"id": "wholeheartedly_x",
+"w": "wholeheartedly",
+"gloss": [
+"In a wholehearted (“showing enthusiastic and unconditional commitment”) manner; without reserve; enthusiastically, unreservedly."
+]
+},
+{
+"id": "storehouse_x",
+"w": "storehouse",
+"gloss": [
+"A building for keeping goods of any kind, especially provisions.",
+"A single location or resource where a large quantity of something can be found.",
+"A mass or quantity laid up."
+]
+},
+{
+"id": "scourge_x",
+"w": "scourge",
+"gloss": [
+"A whip, often made of leather and having multiple tails; a lash.",
+"A person or thing regarded as an agent of divine punishment.",
+"A source of persistent (and often widespread) pain and suffering or trouble, such as a cruel ruler, disease, pestilence, or war."
+]
+},
+{
+"id": "sternum_x",
+"w": "sternum",
+"gloss": [
+"The breastbone, consisting of the manubrium, gladiolus, and xiphoid process.",
+"The sclerotized ventral plate of spiders, between the coxae, marking the floor of the cephalothorax."
+]
+},
+{
+"id": "wellness_x",
+"w": "wellness",
+"gloss": [
+"The quality or state of being in good health (sometimes emphasizing both health and safety); mental and physical soundness.",
+"The process of learning about and engaging in behaviors that are likely to result in optimal health."
+]
+},
+{
+"id": "briefcase_x",
+"w": "briefcase",
+"gloss": [
+"A case used for carrying documents, especially for business.",
+"In Microsoft Windows, a folder that supports file synchronization between itself and another folder."
+]
+},
+{
+"id": "downturn_x",
+"w": "downturn",
+"gloss": [
+"A downward trend, or the beginnings of one.",
+"To turn downwards.",
+"To decline."
+]
+},
+{
+"id": "cleanse_x",
+"w": "cleanse",
+"gloss": [
+"To free from dirt; to clean, to purify.",
+"To spiritually purify; to free from guilt or sin; to purge.",
+"To remove (something seen as unpleasant) from a person, place, or thing."
+]
+},
+{
+"id": "amnesia_x",
+"w": "amnesia",
+"gloss": [
+"Loss of memory; forgetfulness.",
+"Forgetfulness.",
+"A potent sativa-dominant strain of marijuana."
+]
+},
+{
+"id": "crunch_x",
+"w": "crunch",
+"gloss": [
+"To crush something, especially food, with a noisy crackling sound.",
+"To be crushed with a noisy crackling sound.",
+"To calculate or otherwise process (e.g. to crunch numbers: to perform mathematical calculations). Presumably from the sound made by mechanical calculators."
+]
+},
+{
+"id": "bereavement_x",
+"w": "bereavement",
+"gloss": [
+"The state of being bereaved; deprivation; especially the loss of a relative by death."
+]
+},
+{
+"id": "condom_x",
+"w": "condom",
+"gloss": [
+"A flexible sleeve made of latex or other impermeable material such as polyurethane or sheepskin, worn over an erect penis during sexual intercourse as a contraceptive or as a way to prevent the spread of STIs during PIV, anal, or oral.",
+"Any of various forms of flexible sleeve or barrier, variously shaped for either penetrative or receptive body parts, made of latex or other impermeable material such as polyurethane or sheepskin, worn (by anyone with) during sexual activity to prevent pregnancy or the spread of STIs."
+]
+},
+{
+"id": "hoof_x",
+"w": "hoof",
+"gloss": [
+"The tip of a toe of an ungulate such as a horse, ox or deer, strengthened by a thick keratin covering.",
+"The human foot.",
+"An ungula."
+]
+},
+{
+"id": "mindfulness_x",
+"w": "mindfulness",
+"gloss": [
+"Awareness.",
+"Paying attention on purpose, in the present moment, and non-judgementally.",
+"A form of secular meditation practice with roots in Buddhist meditation."
+]
+},
+{
+"id": "devour_x",
+"w": "devour",
+"gloss": [
+"To eat quickly, greedily, hungrily, or ravenously.",
+"To rapidly destroy, engulf, or lay waste.",
+"To take in avidly with the intellect or with one's gaze."
+]
+},
+{
+"id": "invert_x",
+"w": "invert",
+"gloss": [
+"To turn (something) upside down or inside out; to place in a contrary order or direction; to make (something) the opposite of itself.",
+"To move (the root note of a chord) up or down an octave, resulting in a change in pitch.",
+"To undergo inversion, as sugar."
+]
+}
+]

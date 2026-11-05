@@ -1,0 +1,100 @@
+{"id":"launch_verb","th":"เปิดตัว; ส่งขึ้น (จรวด); ปล่อย","ex":"The company will launch a new phone next month.","exTh":"บริษัทจะเปิดตัวโทรศัพท์รุ่นใหม่เดือนหน้า"}
+{"id":"announcement_noun","th":"ประกาศ; การประกาศ; แถลงการณ์","ex":"Listen to the announcement at the station.","exTh":"ฟังประกาศที่สถานีให้ดี"}
+{"id":"mentally_adv","th":"ทางจิตใจ; ทางความคิด; ในใจ","ex":"She was mentally tired after the exam.","exTh":"เธอเหนื่อยล้าทางใจหลังสอบ"}
+{"id":"impressive_adj","th":"น่าประทับใจ; น่าทึ่ง","ex":"Her English is very impressive.","exTh":"ภาษาอังกฤษของเธอน่าประทับใจมาก"}
+{"id":"unemployed_adj","th":"ว่างงาน; ตกงาน","ex":"He has been unemployed for six months.","exTh":"เขาตกงานมาหกเดือนแล้ว"}
+{"id":"shame_noun","th":"ความอับอาย; ความละอาย; น่าเสียดาย","ex":"She felt shame about her mistake.","exTh":"เธอรู้สึกอับอายกับความผิดพลาดของตัวเอง"}
+{"id":"exhausted_adj","th":"เหนื่อยล้า; หมดแรง","ex":"I was exhausted after the long trip.","exTh":"ฉันเหนื่อยหมดแรงหลังจากเดินทางไกล"}
+{"id":"delight_noun","th":"ความปีติยินดี; ความสุขใจ; สิ่งที่ทำให้สุขใจ","ex":"The children shouted with delight.","exTh":"เด็กๆ ตะโกนด้วยความดีใจ"}
+{"id":"drag_verb","th":"ลาก; ถูลู่ถูกัง; ยืดเยื้อ","ex":"He dragged the heavy bag across the floor.","exTh":"เขาลากกระเป๋าหนักๆ ไปตามพื้น"}
+{"id":"emerge_verb","th":"โผล่ออกมา; ปรากฏ; เผยให้เห็น","ex":"The sun emerged from behind the clouds.","exTh":"ดวงอาทิตย์โผล่ออกมาจากหลังก้อนเมฆ"}
+{"id":"unfortunate_adj","th":"โชคร้าย; น่าเสียดาย","ex":"It was an unfortunate accident.","exTh":"มันเป็นอุบัติเหตุที่โชคร้าย"}
+{"id":"bold_adj","th":"กล้าหาญ; กล้าได้กล้าเสีย; ตัวหนา","ex":"She made a bold decision to move abroad.","exTh":"เธอตัดสินใจย้ายไปต่างประเทศอย่างกล้าหาญ"}
+{"id":"suspicion_noun","th":"ความสงสัย; ข้อสงสัย","ex":"I had a suspicion that he was lying.","exTh":"ฉันสงสัยว่าเขากำลังโกหก"}
+{"id":"hang_verb","th":"แขวน; ห้อย; แขวนคอ","ex":"Please hang your coat on the hook.","exTh":"ช่วยแขวนเสื้อโค้ตไว้ที่ตะขอด้วย","note":"รูปอดีตคือ hung (แขวนคอ = hanged)"}
+{"id":"biography_noun","th":"ชีวประวัติ","ex":"I am reading a biography of a famous singer.","exTh":"ฉันกำลังอ่านชีวประวัติของนักร้องชื่อดังคนหนึ่ง"}
+{"id":"update_verb","th":"อัปเดต; ปรับปรุงให้ทันสมัย","ex":"Please update your phone software.","exTh":"กรุณาอัปเดตซอฟต์แวร์ของโทรศัพท์"}
+{"id":"eager_adj","th":"กระตือรือร้น; อยาก; ใจจดใจจ่อ","ex":"The students are eager to learn.","exTh":"นักเรียนกระตือรือร้นที่จะเรียนรู้"}
+{"id":"outdoor_adj","th":"กลางแจ้ง; นอกบ้าน","ex":"We enjoy outdoor activities on weekends.","exTh":"เราชอบทำกิจกรรมกลางแจ้งในวันหยุดสุดสัปดาห์"}
+{"id":"participant_noun","th":"ผู้เข้าร่วม; ผู้เข้าแข่งขัน","ex":"Each participant received a certificate.","exTh":"ผู้เข้าร่วมทุกคนได้รับประกาศนียบัตร"}
+{"id":"historian_noun","th":"นักประวัติศาสตร์","ex":"The historian wrote a book about the war.","exTh":"นักประวัติศาสตร์เขียนหนังสือเกี่ยวกับสงคราม"}
+{"id":"encouragement_noun","th":"กำลังใจ; การให้กำลังใจ; การส่งเสริม","ex":"Thank you for your encouragement.","exTh":"ขอบคุณสำหรับกำลังใจของคุณ"}
+{"id":"collar_noun","th":"ปกเสื้อ; ปลอกคอสัตว์","ex":"The dog wears a red collar.","exTh":"สุนัขตัวนั้นใส่ปลอกคอสีแดง"}
+{"id":"librarian_noun","th":"บรรณารักษ์","ex":"The librarian helped me find the book.","exTh":"บรรณารักษ์ช่วยฉันหาหนังสือเล่มนั้น"}
+{"id":"questionnaire_noun","th":"แบบสอบถาม","ex":"Please fill in this questionnaire.","exTh":"กรุณากรอกแบบสอบถามนี้"}
+{"id":"formally_adv","th":"อย่างเป็นทางการ; ตามพิธีการ","ex":"The two leaders formally signed the agreement.","exTh":"ผู้นำทั้งสองลงนามในข้อตกลงอย่างเป็นทางการ"}
+{"id":"nowhere_adv","th":"ไม่มีที่ไหน; ไม่ไปไหน","ex":"I have nowhere to go tonight.","exTh":"คืนนี้ฉันไม่มีที่ไปเลย"}
+{"id":"fool_verb","th":"หลอก; ตบตา; ล้อเล่น","ex":"Don't let him fool you.","exTh":"อย่าปล่อยให้เขาหลอกคุณได้"}
+{"id":"qualify_verb","th":"มีคุณสมบัติ; ผ่านเข้ารอบ; ได้รับสิทธิ์","ex":"She qualified for the final.","exTh":"เธอผ่านเข้าสู่รอบชิงชนะเลิศ"}
+{"id":"explosion_noun","th":"การระเบิด; การเพิ่มขึ้นอย่างรวดเร็ว","ex":"We heard a loud explosion.","exTh":"เราได้ยินเสียงระเบิดดังสนั่น"}
+{"id":"challenging_adj","th":"ท้าทาย; ยากแต่น่าลอง","ex":"This job is challenging but interesting.","exTh":"งานนี้ท้าทายแต่ก็น่าสนใจ"}
+{"id":"dare_verb","th":"กล้า; ท้า","ex":"I dare you to jump into the water.","exTh":"ฉันท้าให้คุณกระโดดลงน้ำเลย"}
+{"id":"steep_adj","th":"ชัน; สูงชัน; (ราคา) แพงมาก","ex":"The road up the hill is very steep.","exTh":"ถนนขึ้นเนินนั้นชันมาก"}
+{"id":"sickness_noun","th":"ความเจ็บป่วย; โรค; อาการเมา","ex":"Sickness kept him away from work.","exTh":"ความเจ็บป่วยทำให้เขาไม่ได้ไปทำงาน"}
+{"id":"confirmation_noun","th":"การยืนยัน; หลักฐานยืนยัน","ex":"I received a confirmation email.","exTh":"ฉันได้รับอีเมลยืนยัน"}
+{"id":"scholar_noun","th":"นักวิชาการ; ผู้รู้; นักปราชญ์","ex":"The scholar spent years studying old texts.","exTh":"นักวิชาการใช้เวลาหลายปีศึกษาตำราเก่า"}
+{"id":"barrel_noun","th":"ถัง; ถังไม้; กระบอก (ปืน)","ex":"The wine is kept in a wooden barrel.","exTh":"ไวน์ถูกเก็บไว้ในถังไม้"}
+{"id":"rid_verb","th":"กำจัด; ปลดเปลื้อง; ทำให้พ้นจาก","ex":"I want to get rid of these old clothes.","exTh":"ฉันอยากกำจัดเสื้อผ้าเก่าพวกนี้","note":"ใช้เป็น get rid of"}
+{"id":"graphic_adj","th":"เกี่ยวกับกราฟิก; ชัดเจนตรงๆ; สมจริงจนน่าตกใจ","ex":"The film has some graphic scenes.","exTh":"หนังเรื่องนี้มีบางฉากที่เห็นภาพโจ่งแจ้ง"}
+{"id":"voyage_noun","th":"การเดินทางทางเรือ; การเดินทางไกล","ex":"The voyage across the sea took ten days.","exTh":"การเดินทางด้วยเรือข้ามทะเลใช้เวลาสิบวัน"}
+{"id":"traditionally_adv","th":"ตามประเพณี; โดยทั่วไปแต่เดิม","ex":"Rice is traditionally eaten with most meals here.","exTh":"ที่นี่ตามธรรมเนียมแล้วกินข้าวกับอาหารเกือบทุกมื้อ"}
+{"id":"cabin_noun","th":"กระท่อม; ห้องโดยสาร; ห้องพักในเรือ","ex":"We stayed in a small cabin by the lake.","exTh":"เราพักในกระท่อมหลังเล็กริมทะเลสาบ"}
+{"id":"affection_noun","th":"ความรักใคร่; ความผูกพัน; ความเอ็นดู","ex":"She shows great affection for her pets.","exTh":"เธอแสดงความรักใคร่ต่อสัตว์เลี้ยงของเธออย่างมาก"}
+{"id":"marble_noun","th":"หินอ่อน; ลูกแก้ว","ex":"The floor is made of white marble.","exTh":"พื้นทำจากหินอ่อนสีขาว"}
+{"id":"locate_verb","th":"ระบุตำแหน่ง; หาที่ตั้ง; ตั้งอยู่","ex":"Can you locate the nearest bank on the map?","exTh":"คุณช่วยหาตำแหน่งธนาคารที่ใกล้ที่สุดบนแผนที่ได้ไหม"}
+{"id":"threatening_adj","th":"คุกคาม; ข่มขู่; ที่เป็นภัย","ex":"He received a threatening message.","exTh":"เขาได้รับข้อความข่มขู่"}
+{"id":"distinctly_adv","th":"อย่างชัดเจน; อย่างแตกต่างชัดเจน","ex":"I distinctly remember locking the door.","exTh":"ฉันจำได้แม่นว่าล็อกประตูแล้ว"}
+{"id":"doc_noun","th":"เอกสาร; หมอ (ภาษาพูด)","ex":"Please send me the doc by email.","exTh":"ช่วยส่งไฟล์เอกสารให้ฉันทางอีเมลหน่อย","note":"ย่อจาก document หรือ doctor ใช้ในภาษาพูด"}
+{"id":"dirt_noun","th":"ดิน; สิ่งสกปรก; ฝุ่น","ex":"His shoes were covered in dirt.","exTh":"รองเท้าของเขาเปรอะเปื้อนไปด้วยดิน"}
+{"id":"orchestra_noun","th":"วงออร์เคสตรา; วงดนตรีซิมโฟนี","ex":"The orchestra played beautiful music.","exTh":"วงออร์เคสตราบรรเลงเพลงไพเราะ"}
+{"id":"arrow_noun","th":"ลูกธนู; ลูกศร; เครื่องหมายลูกศร","ex":"Follow the arrow to find the exit.","exTh":"เดินตามลูกศรไปจะเจอทางออก"}
+{"id":"pond_noun","th":"สระน้ำ; บ่อน้ำ","ex":"There are fish in the pond.","exTh":"มีปลาอยู่ในสระน้ำ"}
+{"id":"offensive_adj","th":"ที่ทำให้ขุ่นเคือง; หยาบคาย; เชิงรุก","ex":"His joke was very offensive.","exTh":"มุกของเขาทำให้คนอื่นขุ่นเคืองมาก"}
+{"id":"accompany_verb","th":"ไปด้วย; ไปเป็นเพื่อน; บรรเลงประกอบ","ex":"I will accompany you to the airport.","exTh":"ฉันจะไปส่งคุณที่สนามบิน"}
+{"id":"bacon_noun","th":"เบคอน","ex":"I had eggs and bacon for breakfast.","exTh":"ฉันกินไข่กับเบคอนเป็นอาหารเช้า"}
+{"id":"destructive_adj","th":"ซึ่งทำลายล้าง; ที่ก่อความเสียหาย","ex":"The storm was very destructive.","exTh":"พายุครั้งนั้นสร้างความเสียหายรุนแรงมาก"}
+{"id":"depressed_adj","th":"หดหู่; ซึมเศร้า; เศรษฐกิจตกต่ำ","ex":"He felt depressed after losing his job.","exTh":"เขารู้สึกหดหู่หลังจากตกงาน"}
+{"id":"forecast_noun","th":"การพยากรณ์; การคาดการณ์","ex":"The weather forecast says it will rain.","exTh":"พยากรณ์อากาศบอกว่าฝนจะตก"}
+{"id":"lamb_noun","th":"ลูกแกะ; เนื้อลูกแกะ","ex":"We had roast lamb for dinner.","exTh":"มื้อเย็นเรากินเนื้อลูกแกะย่าง"}
+{"id":"lightly_adv","th":"เบาๆ; เล็กน้อย; ไม่จริงจัง","ex":"She touched his arm lightly.","exTh":"เธอแตะแขนเขาเบาๆ"}
+{"id":"useless_adj","th":"ไร้ประโยชน์; ใช้ไม่ได้","ex":"This old phone is useless now.","exTh":"โทรศัพท์เครื่องเก่านี้ใช้การไม่ได้แล้ว"}
+{"id":"derive_verb","th":"ได้มา; สืบเนื่องมาจาก; มีที่มาจาก","ex":"Many English words derive from Latin.","exTh":"คำภาษาอังกฤษหลายคำมีที่มาจากภาษาละติน"}
+{"id":"bomb_noun","th":"ระเบิด; ลูกระเบิด","ex":"The police found a bomb near the station.","exTh":"ตำรวจพบระเบิดใกล้สถานี"}
+{"id":"bomb_verb","th":"วางระเบิด; ทิ้งระเบิด","ex":"Planes bombed the bridge during the war.","exTh":"เครื่องบินทิ้งระเบิดสะพานในช่วงสงคราม"}
+{"id":"bark_noun","th":"เปลือกไม้; เสียงเห่า","ex":"The dog's bark woke the neighbors.","exTh":"เสียงสุนัขเห่าปลุกเพื่อนบ้านตื่น"}
+{"id":"insist_verb","th":"ยืนกราน; ยืนยัน; เรียกร้อง","ex":"He insisted on paying for dinner.","exTh":"เขายืนกรานที่จะจ่ายค่าอาหารเย็น"}
+{"id":"vague_adj","th":"คลุมเครือ; ไม่ชัดเจน","ex":"His answer was vague.","exTh":"คำตอบของเขาคลุมเครือ"}
+{"id":"landlord_noun","th":"เจ้าของที่ดิน; เจ้าของบ้านเช่า","ex":"I pay the rent to my landlord on the first of the month.","exTh":"ฉันจ่ายค่าเช่าให้เจ้าของบ้านทุกวันที่หนึ่งของเดือน"}
+{"id":"patience_noun","th":"ความอดทน; ความใจเย็น","ex":"Teaching children needs a lot of patience.","exTh":"การสอนเด็กต้องใช้ความอดทนมาก"}
+{"id":"govern_verb","th":"ปกครอง; บริหาร; ควบคุม","ex":"The party governs the country.","exTh":"พรรคนี้ปกครองประเทศ"}
+{"id":"willingness_noun","th":"ความเต็มใจ; ความพร้อม","ex":"I appreciate your willingness to help.","exTh":"ฉันขอบคุณที่คุณเต็มใจช่วย"}
+{"id":"attain_verb","th":"บรรลุ; ไปถึง; ได้มา","ex":"She attained her goal after years of work.","exTh":"เธอบรรลุเป้าหมายหลังจากทำงานหนักมาหลายปี","note":"ภาษาทางการ"}
+{"id":"ink_noun","th":"หมึก","ex":"The pen has run out of ink.","exTh":"ปากกาหมึกหมดแล้ว"}
+{"id":"negotiation_noun","th":"การเจรจา; การต่อรอง","ex":"The negotiation lasted for three days.","exTh":"การเจรจาใช้เวลาสามวัน"}
+{"id":"parental_adj","th":"ของพ่อแม่; เกี่ยวกับผู้ปกครอง","ex":"Children need parental guidance.","exTh":"เด็กๆ ต้องการคำแนะนำจากพ่อแม่"}
+{"id":"shake_verb","th":"เขย่า; สั่น; ส่ายหัว","ex":"Shake the bottle before you drink.","exTh":"เขย่าขวดก่อนดื่ม","note":"รูปอดีตคือ shook, shaken"}
+{"id":"dating_noun","th":"การออกเดต; การคบหาดูใจ; การระบุอายุ","ex":"Online dating is popular among young people.","exTh":"การหาคู่ออนไลน์เป็นที่นิยมในหมู่คนหนุ่มสาว"}
+{"id":"sink_verb","th":"จม; ทรุด; ตก","ex":"The boat began to sink slowly.","exTh":"เรือเริ่มจมลงอย่างช้าๆ","note":"รูปอดีตคือ sank, sunk"}
+{"id":"positively_adv","th":"อย่างมั่นใจ; ในทางบวก; ชัดเจนเลย","ex":"She responded positively to the idea.","exTh":"เธอตอบรับความคิดนั้นในทางบวก"}
+{"id":"tear_verb","th":"ฉีก; ทำให้ขาด; ดึงออก","ex":"Be careful not to tear the paper.","exTh":"ระวังอย่าให้กระดาษฉีกขาดนะ","note":"รูปอดีตคือ tore, torn"}
+{"id":"vain_adj","th":"ไร้ผล; หลงตัวเอง; ถือตัว","ex":"He is vain and always looks in the mirror.","exTh":"เขาหลงตัวเองและส่องกระจกอยู่ตลอด"}
+{"id":"lawful_adj","th":"ถูกกฎหมาย; ชอบด้วยกฎหมาย","ex":"This is a lawful way to protest.","exTh":"นี่เป็นวิธีประท้วงที่ถูกกฎหมาย"}
+{"id":"improper_adj","th":"ไม่เหมาะสม; ไม่ถูกต้อง","ex":"It is improper to talk loudly in a library.","exTh":"การพูดเสียงดังในห้องสมุดไม่เหมาะสม"}
+{"id":"sensation_noun","th":"ความรู้สึก; ความตื่นเต้นฮือฮา; อาการสัมผัส","ex":"I felt a strange sensation in my hand.","exTh":"ฉันรู้สึกแปลกๆ ที่มือ"}
+{"id":"officially_adv","th":"อย่างเป็นทางการ; โดยทางการ","ex":"The shop officially opens on Monday.","exTh":"ร้านเปิดอย่างเป็นทางการวันจันทร์"}
+{"id":"socially_adv","th":"ทางสังคม; ในเชิงสังคม","ex":"He is socially active in his town.","exTh":"เขามีบทบาททางสังคมในเมืองของเขา"}
+{"id":"complement_noun","th":"สิ่งที่เสริมกัน; ส่วนเติมเต็ม; ส่วนขยาย","ex":"This wine is a perfect complement to the meal.","exTh":"ไวน์นี้เข้ากับอาหารมื้อนี้อย่างลงตัว","note":"อย่าสับสนกับ compliment (คำชม)"}
+{"id":"triumph_noun","th":"ชัยชนะ; ความสำเร็จอันยิ่งใหญ่","ex":"The win was a triumph for the small team.","exTh":"ชัยชนะครั้งนี้เป็นความสำเร็จที่ยิ่งใหญ่ของทีมเล็กๆ"}
+{"id":"wagon_noun","th":"เกวียน; รถบรรทุกขนาดเล็ก; รถเข็นเด็ก","ex":"The farmer rode in a horse-drawn wagon.","exTh":"ชาวนานั่งรถเกวียนที่ม้าลาก"}
+{"id":"frost_noun","th":"น้ำค้างแข็ง; ความเย็นจัด","ex":"There was frost on the grass this morning.","exTh":"เช้านี้มีน้ำค้างแข็งบนหญ้า"}
+{"id":"kindly_adv","th":"อย่างกรุณา; โปรด; ด้วยความเมตตา","ex":"She kindly offered me a seat.","exTh":"เธอกรุณาเสนอที่นั่งให้ฉัน"}
+{"id":"pause_noun","th":"การหยุดชั่วคราว; ช่วงพัก","ex":"There was a long pause before he answered.","exTh":"เขาเงียบไปนานก่อนจะตอบ"}
+{"id":"pause_verb","th":"หยุดชั่วคราว; หยุดพัก","ex":"Let's pause the video for a moment.","exTh":"หยุดวิดีโอไว้ก่อนสักครู่นะ"}
+{"id":"designer_noun","th":"นักออกแบบ; ดีไซเนอร์","ex":"My sister is a fashion designer.","exTh":"พี่สาวของฉันเป็นนักออกแบบแฟชั่น"}
+{"id":"freezing_adj","th":"หนาวจัด; เย็นจนเป็นน้ำแข็ง","ex":"It's freezing outside, so wear a coat.","exTh":"ข้างนอกหนาวมาก ใส่เสื้อโค้ตด้วยนะ"}
+{"id":"react_verb","th":"ตอบสนอง; ปฏิกิริยา; ทำปฏิกิริยา","ex":"How did he react to the news?","exTh":"เขามีปฏิกิริยาอย่างไรกับข่าวนั้น"}
+{"id":"northwestern_adj","th":"ตะวันตกเฉียงเหนือ; ทางภาคตะวันตกเฉียงเหนือ","ex":"They live in a northwestern state.","exTh":"พวกเขาอาศัยอยู่ในรัฐทางตะวันตกเฉียงเหนือ"}
+{"id":"stupid_adj","th":"โง่; ไร้สาระ; เซ่อ","ex":"That was a stupid mistake.","exTh":"นั่นเป็นความผิดพลาดที่โง่มาก","note":"คำค่อนข้างแรง ใช้กับคนอื่นอาจไม่สุภาพ"}
+{"id":"magnificent_adj","th":"ยิ่งใหญ่ตระการตา; งดงามอลังการ","ex":"We saw a magnificent view from the top.","exTh":"เราเห็นทิวทัศน์ที่งดงามตระการตาจากด้านบน"}
+{"id":"excellence_noun","th":"ความเป็นเลิศ; ความยอดเยี่ยม","ex":"The school is known for academic excellence.","exTh":"โรงเรียนนี้มีชื่อเสียงด้านความเป็นเลิศทางวิชาการ"}
+{"id":"orbit_noun","th":"วงโคจร","ex":"The Earth's orbit around the sun takes a year.","exTh":"วงโคจรของโลกรอบดวงอาทิตย์ใช้เวลาหนึ่งปี"}

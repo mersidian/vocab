@@ -1,0 +1,100 @@
+{"id":"relation_noun","th":"ความสัมพันธ์; ความเกี่ยวข้อง; ญาติ","ex":"There is a clear relation between sleep and health.","exTh":"การนอนกับสุขภาพมีความเกี่ยวข้องกันอย่างชัดเจน"}
+{"id":"mass_adj","th":"จำนวนมาก; เป็นหมู่คณะ; มวลชน","ex":"Mass production makes products cheaper.","exTh":"การผลิตจำนวนมากทำให้สินค้าราคาถูกลง"}
+{"id":"transfer_verb","th":"โอน; ย้าย; เปลี่ยน (รถ/สายการบิน)","ex":"I transferred some money to my sister.","exTh":"ฉันโอนเงินให้พี่สาวไปบ้าง"}
+{"id":"failure_noun","th":"ความล้มเหลว; การขัดข้อง; คนที่ล้มเหลว","ex":"Failure is a part of learning.","exTh":"ความล้มเหลวเป็นส่วนหนึ่งของการเรียนรู้"}
+{"id":"maximum_adj","th":"สูงสุด; มากที่สุด","ex":"The maximum speed here is fifty kilometers an hour.","exTh":"ความเร็วสูงสุดที่นี่คือห้าสิบกิโลเมตรต่อชั่วโมง"}
+{"id":"maximum_noun","th":"ขีดสูงสุด; จำนวนมากที่สุด","ex":"The room holds a maximum of twenty people.","exTh":"ห้องนี้จุคนได้สูงสุดยี่สิบคน"}
+{"id":"chemical_noun","th":"สารเคมี","ex":"Some cleaning chemicals are dangerous.","exTh":"สารเคมีทำความสะอาดบางชนิดเป็นอันตราย"}
+{"id":"environmental_adj","th":"เกี่ยวกับสิ่งแวดล้อม; ทางสิ่งแวดล้อม","ex":"Plastic bags cause serious environmental problems.","exTh":"ถุงพลาสติกก่อให้เกิดปัญหาสิ่งแวดล้อมร้ายแรง"}
+{"id":"aid_noun","th":"ความช่วยเหลือ; ความช่วยเหลือเชิงมนุษยธรรม; อุปกรณ์ช่วย","ex":"The country received aid after the flood.","exTh":"ประเทศนั้นได้รับความช่วยเหลือหลังน้ำท่วม"}
+{"id":"aid_verb","th":"ช่วยเหลือ; สนับสนุน","ex":"Good food can aid your recovery.","exTh":"อาหารที่ดีช่วยให้คุณฟื้นตัวได้เร็วขึ้น"}
+{"id":"connection_noun","th":"การเชื่อมต่อ; ความเชื่อมโยง; ความสัมพันธ์","ex":"I have a bad internet connection today.","exTh":"วันนี้อินเทอร์เน็ตของฉันเชื่อมต่อไม่ดี"}
+{"id":"literature_noun","th":"วรรณกรรม; วรรณคดี","ex":"She studies English literature at university.","exTh":"เธอเรียนวรรณกรรมอังกฤษที่มหาวิทยาลัย"}
+{"id":"independent_adj","th":"เป็นอิสระ; พึ่งตัวเองได้; อิสระ","ex":"She is a strong, independent woman.","exTh":"เธอเป็นผู้หญิงเข้มแข็งที่พึ่งตัวเองได้"}
+{"id":"judge_noun","th":"ผู้พิพากษา; กรรมการตัดสิน","ex":"The judge listened carefully to both sides.","exTh":"ผู้พิพากษาฟังทั้งสองฝ่ายอย่างตั้งใจ"}
+{"id":"sufficient_adj","th":"เพียงพอ; พอเพียง","ex":"Is this amount of food sufficient for six people?","exTh":"อาหารเท่านี้พอสำหรับหกคนไหม","note":"ภาษาทางการ"}
+{"id":"upper_adj","th":"ส่วนบน; ชั้นบน; สูงกว่า","ex":"Her room is on the upper floor.","exTh":"ห้องของเธออยู่ชั้นบน"}
+{"id":"balance_noun","th":"ความสมดุล; ยอดคงเหลือ; ตาชั่ง","ex":"He lost his balance and fell.","exTh":"เขาเสียการทรงตัวและล้มลง"}
+{"id":"iron_noun","th":"เหล็ก; เตารีด","ex":"Please pass me the iron, I need to press my shirt.","exTh":"ช่วยส่งเตารีดให้หน่อย ฉันต้องรีดเสื้อ"}
+{"id":"iron_verb","th":"รีด (ผ้า)","ex":"I iron my shirts every Sunday.","exTh":"ฉันรีดเสื้อทุกวันอาทิตย์"}
+{"id":"regard_verb","th":"ถือว่า; มองว่า; พิจารณา","ex":"Many people regard him as a hero.","exTh":"หลายคนถือว่าเขาเป็นวีรบุรุษ"}
+{"id":"complex_adj","th":"ซับซ้อน; ยุ่งยาก","ex":"The rules of the game are quite complex.","exTh":"กฎของเกมนี้ค่อนข้างซับซ้อน"}
+{"id":"relative_adj","th":"เปรียบเทียบ; สัมพัทธ์; ที่เกี่ยวข้อง","ex":"Everything is relative to your point of view.","exTh":"ทุกอย่างสัมพันธ์กับมุมมองของคุณ"}
+{"id":"relative_noun","th":"ญาติ; เครือญาติ","ex":"All my relatives came to the wedding.","exTh":"ญาติทุกคนของฉันมางานแต่งงาน"}
+{"id":"coal_noun","th":"ถ่านหิน","ex":"Many old houses used coal for heating.","exTh":"บ้านเก่าหลายหลังใช้ถ่านหินให้ความอบอุ่น"}
+{"id":"joint_adj","th":"ร่วมกัน; ร่วม","ex":"They made a joint decision to move.","exTh":"พวกเขาตัดสินใจร่วมกันที่จะย้ายบ้าน"}
+{"id":"access_noun","th":"การเข้าถึง; ทางเข้า; สิทธิ์ใช้งาน","ex":"Do you have access to the internet at home?","exTh":"ที่บ้านคุณใช้อินเทอร์เน็ตได้ไหม"}
+{"id":"southern_adj","th":"ทางใต้; ภาคใต้","ex":"Phuket is in southern Thailand.","exTh":"ภูเก็ตอยู่ทางภาคใต้ของประเทศไทย"}
+{"id":"immediately_adv","th":"ทันที; โดยเร็ว","ex":"Please call me immediately if there is a problem.","exTh":"ถ้ามีปัญหาโปรดโทรหาฉันทันที"}
+{"id":"distance_noun","th":"ระยะทาง; ระยะห่าง","ex":"The distance from here to the beach is ten kilometers.","exTh":"ระยะทางจากที่นี่ไปชายหาดสิบกิโลเมตร"}
+{"id":"progress_noun","th":"ความก้าวหน้า; พัฒนาการ","ex":"You are making good progress in English.","exTh":"คุณพัฒนาภาษาอังกฤษได้ดีขึ้นมาก"}
+{"id":"benefit_noun","th":"ประโยชน์; สวัสดิการ; ผลดี","ex":"Regular exercise has many health benefits.","exTh":"การออกกำลังกายสม่ำเสมอมีประโยชน์ต่อสุขภาพมากมาย"}
+{"id":"bureau_noun","th":"สำนักงาน; กรม; ตู้เขียนหนังสือ","ex":"She works at the government tourism bureau.","exTh":"เธอทำงานที่สำนักงานท่องเที่ยวของรัฐบาล"}
+{"id":"object_noun","th":"วัตถุ; สิ่งของ; เป้าหมาย","ex":"There was a strange object on the road.","exTh":"มีวัตถุแปลกๆ อยู่บนถนน"}
+{"id":"request_verb","th":"ขอ; ร้องขอ; ขอร้อง","ex":"I requested a window seat on the plane.","exTh":"ฉันขอที่นั่งริมหน้าต่างบนเครื่องบิน"}
+{"id":"economy_noun","th":"เศรษฐกิจ; ความประหยัด","ex":"The economy grew slowly last year.","exTh":"เศรษฐกิจขยายตัวช้าเมื่อปีที่แล้ว"}
+{"id":"appeal_noun","th":"เสน่ห์; การอุทธรณ์; การร้องขอ","ex":"The old town has a lot of appeal for tourists.","exTh":"เมืองเก่าแห่งนี้มีเสน่ห์ดึงดูดนักท่องเที่ยว"}
+{"id":"positive_adj","th":"ในทางบวก; เชิงบวก; มั่นใจ","ex":"Try to stay positive during the exam.","exTh":"พยายามคิดบวกไว้ระหว่างสอบ"}
+{"id":"religious_adj","th":"เคร่งศาสนา; ทางศาสนา","ex":"They are a very religious family.","exTh":"พวกเขาเป็นครอบครัวที่เคร่งศาสนามาก"}
+{"id":"measure_noun","th":"มาตรการ; การวัด; หน่วยวัด","ex":"The city took measures to reduce traffic.","exTh":"เมืองมีมาตรการลดการจราจรติดขัด"}
+{"id":"measure_verb","th":"วัด; ตวง; ประเมินขนาด","ex":"Please measure the window before you buy curtains.","exTh":"กรุณาวัดหน้าต่างก่อนซื้อผ้าม่าน"}
+{"id":"transportation_noun","th":"การขนส่ง; การคมนาคม; ระบบขนส่ง","ex":"Public transportation is cheap in this city.","exTh":"ระบบขนส่งสาธารณะในเมืองนี้ราคาถูก"}
+{"id":"internal_adj","th":"ภายใน; ภายในประเทศ","ex":"The company has an internal phone system.","exTh":"บริษัทมีระบบโทรศัพท์ภายใน"}
+{"id":"cultural_adj","th":"ทางวัฒนธรรม; เกี่ยวกับวัฒนธรรม","ex":"The city has many cultural events in summer.","exTh":"เมืองนี้มีกิจกรรมทางวัฒนธรรมมากมายในฤดูร้อน"}
+{"id":"historical_adj","th":"ทางประวัติศาสตร์; เกี่ยวกับประวัติศาสตร์","ex":"We visited a famous historical site.","exTh":"เราไปเยี่ยมชมสถานที่ทางประวัติศาสตร์ที่มีชื่อเสียง"}
+{"id":"defense_noun","th":"การป้องกัน; การป้องกันประเทศ; การแก้ต่าง","ex":"The team has a very strong defense.","exTh":"ทีมนี้มีแนวรับที่แข็งแกร่งมาก","note":"อังกฤษแบบอังกฤษสะกด defence"}
+{"id":"hearing_noun","th":"การได้ยิน; การไต่สวน; การพิจารณาคดี","ex":"My grandmother's hearing is not good.","exTh":"คุณยายของฉันได้ยินไม่ค่อยชัด"}
+{"id":"examination_noun","th":"การสอบ; การตรวจ; การตรวจสอบ","ex":"The doctor did a full examination.","exTh":"แพทย์ตรวจร่างกายอย่างละเอียด"}
+{"id":"approximately_adv","th":"ประมาณ; โดยประมาณ","ex":"The trip takes approximately two hours.","exTh":"การเดินทางใช้เวลาประมาณสองชั่วโมง"}
+{"id":"introduction_noun","th":"การแนะนำ; คำนำ; บทนำ","ex":"Let me make a quick introduction.","exTh":"ขอฉันแนะนำตัวสั้นๆ นะ"}
+{"id":"minimum_adj","th":"ต่ำสุด; น้อยที่สุด","ex":"The minimum age for this ride is twelve.","exTh":"อายุขั้นต่ำสำหรับเครื่องเล่นนี้คือสิบสองปี"}
+{"id":"minimum_noun","th":"ขั้นต่ำ; จำนวนน้อยที่สุด","ex":"Keep your costs to a minimum.","exTh":"พยายามให้ค่าใช้จ่ายของคุณน้อยที่สุด"}
+{"id":"fish_verb","th":"ตกปลา; จับปลา","ex":"My uncle likes to fish on weekends.","exTh":"ลุงของฉันชอบไปตกปลาวันหยุด"}
+{"id":"initial_noun","th":"อักษรย่อ; ตัวอักษรแรกของชื่อ","ex":"Please write your initials at the bottom.","exTh":"กรุณาเขียนอักษรย่อชื่อของคุณที่ด้านล่าง","note":"มักใช้รูปพหูพจน์ initials"}
+{"id":"motor_noun","th":"มอเตอร์; เครื่องยนต์","ex":"The motor of the fan is very loud.","exTh":"มอเตอร์ของพัดลมเสียงดังมาก"}
+{"id":"critical_adj","th":"วิกฤต; สำคัญยิ่ง; ช่างวิจารณ์","ex":"The patient is in critical condition.","exTh":"ผู้ป่วยอยู่ในอาการวิกฤต"}
+{"id":"agriculture_noun","th":"เกษตรกรรม; การเกษตร","ex":"Agriculture is important to the local economy.","exTh":"เกษตรกรรมสำคัญต่อเศรษฐกิจท้องถิ่น"}
+{"id":"occur_verb","th":"เกิดขึ้น; เกิดขึ้นกับ; ผุดขึ้น (ในความคิด)","ex":"The accident occurred at night.","exTh":"อุบัติเหตุเกิดขึ้นตอนกลางคืน"}
+{"id":"spirit_noun","th":"จิตวิญญาณ; จิตใจ; ผี","ex":"The team showed great spirit.","exTh":"ทีมแสดงน้ำใจนักสู้อย่างยอดเยี่ยม"}
+{"id":"regional_adj","th":"ระดับภูมิภาค; ประจำท้องถิ่น","ex":"The restaurant serves regional food.","exTh":"ร้านอาหารนี้เสิร์ฟอาหารประจำภูมิภาค"}
+{"id":"serious_adj","th":"จริงจัง; ร้ายแรง; รุนแรง","ex":"This is a serious problem.","exTh":"นี่เป็นปัญหาร้ายแรง"}
+{"id":"none_pron","th":"ไม่มีเลย; ไม่มีใคร; ไม่มีสิ่งใด","ex":"I wanted some cake, but there was none left.","exTh":"ฉันอยากกินเค้ก แต่ไม่เหลือเลย"}
+{"id":"considerable_adj","th":"มาก; มากพอสมควร; ไม่น้อย","ex":"It took a considerable amount of time.","exTh":"ใช้เวลามากพอสมควร"}
+{"id":"maintenance_noun","th":"การบำรุงรักษา; การซ่อมบำรุง","ex":"The road is closed for maintenance.","exTh":"ถนนปิดเพื่อซ่อมบำรุง"}
+{"id":"professor_noun","th":"ศาสตราจารย์; อาจารย์มหาวิทยาลัย","ex":"The professor gave a lecture on history.","exTh":"ศาสตราจารย์บรรยายเรื่องประวัติศาสตร์"}
+{"id":"fair_noun","th":"งานแสดงสินค้า; งานรื่นเริง; งานวัด","ex":"We went to the book fair on Saturday.","exTh":"เราไปงานหนังสือวันเสาร์"}
+{"id":"talk_noun","th":"การพูดคุย; การบรรยาย; การเจรจา","ex":"We had a long talk about our future.","exTh":"เราคุยกันยาวเรื่องอนาคตของเรา"}
+{"id":"majority_noun","th":"คนส่วนใหญ่; เสียงข้างมาก","ex":"The majority of students walk to school.","exTh":"นักเรียนส่วนใหญ่เดินไปโรงเรียน"}
+{"id":"essential_adj","th":"จำเป็น; สำคัญยิ่ง; สำคัญที่สุด","ex":"Water is essential for life.","exTh":"น้ำเป็นสิ่งจำเป็นต่อชีวิต"}
+{"id":"reduction_noun","th":"การลดลง; ส่วนลด","ex":"There was a big reduction in prices.","exTh":"ราคาสินค้าลดลงมาก"}
+{"id":"northern_adj","th":"ทางเหนือ; ภาคเหนือ","ex":"Chiang Mai is in northern Thailand.","exTh":"เชียงใหม่อยู่ทางภาคเหนือของประเทศไทย"}
+{"id":"speed_verb","th":"เร่งความเร็ว; ขับเร็ว; ทำให้เร็วขึ้น","ex":"The driver was fined for speeding.","exTh":"คนขับถูกปรับข้อหาขับรถเร็วเกินกำหนด","note":"มักใช้ speed up / speeding"}
+{"id":"highly_adv","th":"อย่างสูง; มาก; ในระดับสูง","ex":"This book is highly recommended.","exTh":"หนังสือเล่มนี้ได้รับการแนะนำอย่างสูง"}
+{"id":"grant_noun","th":"เงินอุดหนุน; ทุน","ex":"She got a grant to study abroad.","exTh":"เธอได้รับทุนไปเรียนต่อต่างประเทศ"}
+{"id":"grant_verb","th":"อนุญาต; ให้; ยอมรับ","ex":"The school granted him a scholarship.","exTh":"โรงเรียนมอบทุนการศึกษาให้เขา"}
+{"id":"rise_noun","th":"การเพิ่มขึ้น; การขึ้น; การสูงขึ้น","ex":"There was a sharp rise in prices.","exTh":"ราคาสินค้าสูงขึ้นอย่างรวดเร็ว"}
+{"id":"rise_verb","th":"ขึ้น; สูงขึ้น; ลุกขึ้น","ex":"The sun rises in the east.","exTh":"ดวงอาทิตย์ขึ้นทางทิศตะวันออก","note":"รูปผัน rise, rose, risen"}
+{"id":"teaching_noun","th":"การสอน; อาชีพครู","ex":"Teaching is a hard but rewarding job.","exTh":"การสอนเป็นงานที่ยากแต่คุ้มค่า"}
+{"id":"reasonable_adj","th":"มีเหตุผล; สมเหตุสมผล; ราคาไม่แพง","ex":"The hotel has reasonable prices.","exTh":"โรงแรมนี้ราคาไม่แพง"}
+{"id":"responsible_adj","th":"รับผิดชอบ; มีความรับผิดชอบ","ex":"Who is responsible for this mistake?","exTh":"ใครเป็นผู้รับผิดชอบความผิดพลาดครั้งนี้"}
+{"id":"round_adj","th":"กลม; ทรงกลม","ex":"We sat at a large round table.","exTh":"เรานั่งที่โต๊ะกลมตัวใหญ่"}
+{"id":"round_noun","th":"รอบ; ยก; ชุด (เครื่องดื่ม)","ex":"He won the first round of the game.","exTh":"เขาชนะรอบแรกของเกม"}
+{"id":"practical_adj","th":"ใช้ได้จริง; เป็นรูปธรรม; ปฏิบัติได้","ex":"She gave me some practical advice.","exTh":"เธอให้คำแนะนำที่นำไปใช้ได้จริงกับฉัน"}
+{"id":"firm_adj","th":"แน่น; แข็ง; หนักแน่น","ex":"The bed is too firm for me.","exTh":"เตียงนี้แข็งเกินไปสำหรับฉัน"}
+{"id":"firm_noun","th":"บริษัท; ห้างหุ้นส่วน","ex":"She works for a law firm.","exTh":"เธอทำงานให้สำนักงานกฎหมายแห่งหนึ่ง"}
+{"id":"instance_noun","th":"ตัวอย่าง; กรณี; ครั้ง","ex":"For instance, you can try tea instead of coffee.","exTh":"ตัวอย่างเช่น คุณลองดื่มชาแทนกาแฟได้","note":"for instance = ตัวอย่างเช่น"}
+{"id":"principle_noun","th":"หลักการ; หลักการพื้นฐาน; หลักศีลธรรม","ex":"He never breaks his principles.","exTh":"เขาไม่เคยละทิ้งหลักการของตน"}
+{"id":"relatively_adv","th":"ค่อนข้าง; เมื่อเทียบกัน; ในระดับหนึ่ง","ex":"The test was relatively easy.","exTh":"ข้อสอบค่อนข้างง่าย"}
+{"id":"bar_verb","th":"ห้าม; กีดขวาง; ขวางไว้","ex":"The guard barred the door.","exTh":"ยามขัดประตูไว้ไม่ให้เข้า"}
+{"id":"frequency_noun","th":"ความถี่; ความบ่อย","ex":"The frequency of the buses is every ten minutes.","exTh":"รถเมล์มาถี่ทุกสิบนาที"}
+{"id":"responsibility_noun","th":"ความรับผิดชอบ; หน้าที่","ex":"Taking care of the dog is my responsibility.","exTh":"การดูแลสุนัขเป็นความรับผิดชอบของฉัน"}
+{"id":"variety_noun","th":"ความหลากหลาย; ชนิด; พันธุ์","ex":"The market sells a wide variety of fruit.","exTh":"ตลาดขายผลไม้หลากหลายชนิด"}
+{"id":"attempt_verb","th":"พยายาม; ลอง","ex":"He attempted to climb the mountain alone.","exTh":"เขาพยายามปีนภูเขาคนเดียว"}
+{"id":"assistant_noun","th":"ผู้ช่วย; พนักงานขาย","ex":"She works as a shop assistant.","exTh":"เธอทำงานเป็นพนักงานขายในร้าน"}
+{"id":"nuclear_adj","th":"นิวเคลียร์; เกี่ยวกับนิวเคลียร์; (ครอบครัว) เดี่ยว","ex":"The country has a nuclear power plant.","exTh":"ประเทศนี้มีโรงไฟฟ้านิวเคลียร์"}
+{"id":"film_verb","th":"ถ่ายทำ; ถ่ายวิดีโอ","ex":"They filmed the movie in Thailand.","exTh":"พวกเขาถ่ายทำภาพยนตร์ในประเทศไทย"}
+{"id":"obtain_verb","th":"ได้รับ; ได้มา; หามา","ex":"You must obtain a visa before you travel.","exTh":"คุณต้องขอวีซ่าก่อนเดินทาง","note":"ภาษาทางการ"}
+{"id":"existence_noun","th":"การมีอยู่; การดำรงอยู่; ชีวิต","ex":"Many people don't believe in the existence of ghosts.","exTh":"หลายคนไม่เชื่อว่าผีมีอยู่จริง"}
+{"id":"leading_adj","th":"ชั้นนำ; นำหน้า; สำคัญที่สุด","ex":"She works for a leading technology company.","exTh":"เธอทำงานให้บริษัทเทคโนโลยีชั้นนำ"}
+{"id":"christian_adj","th":"เกี่ยวกับศาสนาคริสต์; ของชาวคริสต์","ex":"They hold a Christian wedding at the church.","exTh":"พวกเขาจัดงานแต่งงานแบบคริสต์ที่โบสถ์","note":"ขึ้นต้นด้วยตัวพิมพ์ใหญ่"}
+{"id":"location_noun","th":"ที่ตั้ง; สถานที่; ตำแหน่ง","ex":"The hotel has a great location near the beach.","exTh":"โรงแรมมีทำเลดีใกล้ชายหาด"}

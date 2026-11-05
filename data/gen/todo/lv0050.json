@@ -1,0 +1,602 @@
+[
+{
+"id": "inscribe_verb",
+"w": "inscribe",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "sportsmanship_noun",
+"w": "sportsmanship",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "stun_verb",
+"w": "stun",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "paralyze_verb",
+"w": "paralyze",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "babysitter_noun",
+"w": "babysitter",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "aerobics_noun",
+"w": "aerobics",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "backache_noun",
+"w": "backache",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "accustom_verb",
+"w": "accustom",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "mountaintop_noun",
+"w": "mountaintop",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "fascinate_verb",
+"w": "fascinate",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "handball_noun",
+"w": "handball",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "underpants_noun",
+"w": "underpants",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "signpost_noun",
+"w": "signpost",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "backpacking_noun",
+"w": "backpacking",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "sundial_noun",
+"w": "sundial",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "lifeguard_noun",
+"w": "lifeguard",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "wristwatch_noun",
+"w": "wristwatch",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "devastate_verb",
+"w": "devastate",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "duvet_noun",
+"w": "duvet",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "retell_verb",
+"w": "retell",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "immigrate_verb",
+"w": "immigrate",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "aborigine_noun",
+"w": "aborigine",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "goalkeeper_noun",
+"w": "goalkeeper",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "takeaway_noun",
+"w": "takeaway",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "antonym_noun",
+"w": "antonym",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "dustbin_noun",
+"w": "dustbin",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "pullover_noun",
+"w": "pullover",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "firework_noun",
+"w": "firework",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "schoolmate_noun",
+"w": "schoolmate",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "babysit_verb",
+"w": "babysit",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "backpacker_noun",
+"w": "backpacker",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "earache_noun",
+"w": "earache",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "latecomer_noun",
+"w": "latecomer",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "flunk_verb",
+"w": "flunk",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "tracksuit_noun",
+"w": "tracksuit",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "horrify_verb",
+"w": "horrify",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "reunify_verb",
+"w": "reunify",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "hairdryer_noun",
+"w": "hairdryer",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "courgette_noun",
+"w": "courgette",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "sunbathe_verb",
+"w": "sunbathe",
+"pos": "verb",
+"lvl": "B1"
+},
+{
+"id": "washbowl_noun",
+"w": "washbowl",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "according-to_prep",
+"w": "according to",
+"pos": "prep",
+"lvl": "B1"
+},
+{
+"id": "air-conditioning_noun",
+"w": "air conditioning",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "air-force_noun",
+"w": "air force",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "bank-account_noun",
+"w": "bank account",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "because-of_prep",
+"w": "because of",
+"pos": "prep",
+"lvl": "B1"
+},
+{
+"id": "blog_noun",
+"w": "blog",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "blogger_noun",
+"w": "blogger",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "brand-new_adj",
+"w": "brand-new",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "cashpoint_noun",
+"w": "cashpoint",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "cd-rom_noun",
+"w": "CD-ROM",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "central-heating_noun",
+"w": "central heating",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "chat-show_noun",
+"w": "chat show",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "check-in-counter_noun",
+"w": "check-in counter",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "check-in-desk_noun",
+"w": "check-in desk",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "chest-of-drawers_noun",
+"w": "chest of drawers",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "chewing-gum_noun",
+"w": "chewing gum",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "common-sense_noun",
+"w": "common sense",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "definite-article_noun",
+"w": "definite article",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "disc-jockey_noun",
+"w": "disc jockey",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "duty-free_adj",
+"w": "duty-free",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "exchange-rate_noun",
+"w": "exchange rate",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "extreme-sports_noun",
+"w": "extreme sports",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "face-to-face_adv",
+"w": "face to face",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "face-to-face_adj",
+"w": "face-to-face",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "film-maker_noun",
+"w": "film-maker",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "fire-station_noun",
+"w": "fire station",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "first-floor_noun",
+"w": "first floor",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "first-lady_noun",
+"w": "first lady",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "first-floor_adj",
+"w": "first-floor",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "frying-pan_noun",
+"w": "frying pan",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "full-stop_noun",
+"w": "full stop",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "full-time_adj",
+"w": "full-time",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "full-time_adv",
+"w": "full-time",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "ground-floor_noun",
+"w": "ground floor",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "hand-held_adj",
+"w": "hand-held",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "hard-working_adj",
+"w": "hard-working",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "heart-attack_noun",
+"w": "heart attack",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "ice-hockey_noun",
+"w": "ice hockey",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "ice-skating_noun",
+"w": "ice skating",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "identity-card_noun",
+"w": "identity card",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "indefinite-article_noun",
+"w": "indefinite article",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "instead-of_prep",
+"w": "instead of",
+"pos": "prep",
+"lvl": "B1"
+},
+{
+"id": "message-board_noun",
+"w": "message board",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "middle-aged_adj",
+"w": "middle-aged",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "mixing-bowl_noun",
+"w": "mixing bowl",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "modal-verb_noun",
+"w": "modal verb",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "navy-blue_adj",
+"w": "navy blue",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "next-door_adv",
+"w": "next door",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "next-door_adj",
+"w": "next-door",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "noticeboard_noun",
+"w": "noticeboard",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "old-fashioned_adj",
+"w": "old-fashioned",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "ought-to_modal",
+"w": "ought to",
+"pos": "modal",
+"lvl": "B1"
+},
+{
+"id": "out-of-date_adj",
+"w": "out-of-date",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "part-time_adj",
+"w": "part-time",
+"pos": "adj",
+"lvl": "B1"
+},
+{
+"id": "part-time_adv",
+"w": "part-time",
+"pos": "adv",
+"lvl": "B1"
+},
+{
+"id": "phrasal-verb_noun",
+"w": "phrasal verb",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "pocket-money_noun",
+"w": "pocket money",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "primary-school_noun",
+"w": "primary school",
+"pos": "noun",
+"lvl": "B1"
+},
+{
+"id": "public-transport_noun",
+"w": "public transport",
+"pos": "noun",
+"lvl": "B1"
+}
+]

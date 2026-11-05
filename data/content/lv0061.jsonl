@@ -1,0 +1,100 @@
+{"id":"triangle_noun","th":"สามเหลี่ยม; รูปสามเหลี่ยม","ex":"A triangle has three sides.","exTh":"สามเหลี่ยมมีสามด้าน"}
+{"id":"infectious_adj","th":"ติดต่อได้; ติดเชื้อ; แพร่กระจายง่าย","ex":"The flu is an infectious disease.","exTh":"ไข้หวัดใหญ่เป็นโรคติดต่อ"}
+{"id":"motivated_adj","th":"มีแรงจูงใจ; มีใจมุ่งมั่น; กระตือรือร้น","ex":"She is highly motivated to learn English.","exTh":"เธอมีแรงจูงใจสูงในการเรียนภาษาอังกฤษ"}
+{"id":"perceive_verb","th":"รับรู้; เห็น; เข้าใจว่า","ex":"Many people perceive him as a kind man.","exTh":"หลายคนมองว่าเขาเป็นคนใจดี"}
+{"id":"execute_verb","th":"ดำเนินการ; ปฏิบัติ; ประหารชีวิต","ex":"The team executed the plan perfectly.","exTh":"ทีมดำเนินการตามแผนได้อย่างสมบูรณ์แบบ"}
+{"id":"decisive_adj","th":"เด็ดขาด; ชี้ขาด; เฉียบขาด","ex":"His goal in the last minute was decisive.","exTh":"ประตูของเขาในนาทีสุดท้ายเป็นตัวชี้ขาด"}
+{"id":"veteran_noun","th":"ทหารผ่านศึก; ผู้ช่ำชอง; ผู้มีประสบการณ์สูง","ex":"My uncle is a war veteran.","exTh":"ลุงของฉันเป็นทหารผ่านศึก"}
+{"id":"tap_verb","th":"แตะเบาๆ; เคาะ; ต่อเข้าไป","ex":"She tapped me on the shoulder.","exTh":"เธอแตะไหล่ฉันเบาๆ"}
+{"id":"embrace_noun","th":"การโอบกอด; อ้อมกอด; การยอมรับ","ex":"They greeted each other with a warm embrace.","exTh":"พวกเขาทักทายกันด้วยอ้อมกอดอันอบอุ่น"}
+{"id":"assert_verb","th":"ยืนยัน; กล่าวอ้าง; ยืนกราน","ex":"He asserted that he had done nothing wrong.","exTh":"เขายืนยันว่าเขาไม่ได้ทำอะไรผิด"}
+{"id":"specialty_noun","th":"ความเชี่ยวชาญพิเศษ; อาหารขึ้นชื่อ; สาขาเฉพาะทาง","ex":"Fried rice is the specialty of this restaurant.","exTh":"ข้าวผัดเป็นเมนูเด็ดของร้านอาหารนี้","note":"อังกฤษมักใช้ speciality"}
+{"id":"qualification_noun","th":"คุณสมบัติ; วุฒิการศึกษา; ใบรับรอง","ex":"You need a teaching qualification for this job.","exTh":"คุณต้องมีวุฒิการสอนสำหรับงานนี้"}
+{"id":"conquest_noun","th":"การพิชิต; การยึดครอง; ผู้ที่ถูกพิชิตใจ","ex":"The conquest of the city took many months.","exTh":"การยึดเมืองใช้เวลาหลายเดือน"}
+{"id":"arctic_adj","th":"แถบอาร์กติก; หนาวจัด; เกี่ยวกับขั้วโลกเหนือ","ex":"The arctic wind made us shake with cold.","exTh":"ลมหนาวจัดทำให้เราตัวสั่นเพราะความเย็น"}
+{"id":"idle_adj","th":"ว่างงาน; เกียจคร้าน; ไม่ได้ใช้งาน","ex":"The machines stood idle during the holiday.","exTh":"เครื่องจักรหยุดทำงานในช่วงวันหยุด"}
+{"id":"lean_verb","th":"เอน; พิง; โน้มตัว","ex":"Don't lean on the glass door.","exTh":"อย่าพิงประตูกระจก"}
+{"id":"bloody_adj","th":"เปื้อนเลือด; เต็มไปด้วยเลือด; (คำสบถ) บ้าเอ๊ย","ex":"He had a bloody nose after the fall.","exTh":"เขามีเลือดกำเดาไหลหลังล้ม","note":"ในภาษาพูดอังกฤษใช้เป็นคำสบถ ค่อนข้างหยาบ"}
+{"id":"bloody_adv","th":"(คำเน้นแบบหยาบ) มากๆ; ชะมัด","ex":"It was a bloody awful film.","exTh":"หนังเรื่องนั้นห่วยแตกมาก","note":"คำหยาบในภาษาอังกฤษแบบบริติช ใช้เน้นความรู้สึก"}
+{"id":"offshore_adj","th":"นอกชายฝั่ง; ต่างประเทศ; ในทะเล","ex":"The company works on an offshore oil platform.","exTh":"บริษัททำงานบนแท่นขุดเจาะน้ำมันนอกชายฝั่ง"}
+{"id":"popularity_noun","th":"ความนิยม; ความเป็นที่รู้จัก","ex":"The popularity of the app grew very fast.","exTh":"ความนิยมของแอปนี้เพิ่มขึ้นอย่างรวดเร็ว"}
+{"id":"rival_noun","th":"คู่แข่ง; ศัตรูทางการค้า; ปฏิปักษ์","ex":"The two shops are rivals on the same street.","exTh":"สองร้านนี้เป็นคู่แข่งกันบนถนนเส้นเดียวกัน"}
+{"id":"tuition_noun","th":"ค่าเล่าเรียน; การสอน; การติว","ex":"The tuition at that university is very high.","exTh":"ค่าเล่าเรียนของมหาวิทยาลัยนั้นสูงมาก"}
+{"id":"analogy_noun","th":"การเปรียบเทียบ; ข้อเปรียบเทียบ; ความคล้ายคลึง","ex":"The teacher used an analogy to explain electricity.","exTh":"ครูใช้การเปรียบเทียบเพื่ออธิบายเรื่องไฟฟ้า"}
+{"id":"optional_adj","th":"ไม่บังคับ; เลือกได้; เสริม","ex":"The party is optional, so you don't have to go.","exTh":"งานเลี้ยงไม่บังคับ คุณไม่ต้องไปก็ได้"}
+{"id":"respected_adj","th":"ได้รับความเคารพ; น่านับถือ","ex":"She is a respected teacher in our town.","exTh":"เธอเป็นครูที่ได้รับความเคารพในเมืองของเรา"}
+{"id":"rim_noun","th":"ขอบ; ปากภาชนะ; กรอบแว่น","ex":"There is a small crack on the rim of the cup.","exTh":"มีรอยร้าวเล็กๆ ที่ขอบถ้วย"}
+{"id":"hood_noun","th":"ฮู้ด; หมวกคลุมหัว; ฝากระโปรงรถ","ex":"She pulled up her hood because it was raining.","exTh":"เธอดึงฮู้ดขึ้นคลุมหัวเพราะฝนตก","note":"ในอเมริกา hood คือฝากระโปรงหน้ารถ (อังกฤษใช้ bonnet)"}
+{"id":"gang_noun","th":"แก๊ง; กลุ่มคน; ก๊วน","ex":"A gang of thieves broke into the shop.","exTh":"แก๊งโจรบุกเข้าไปในร้าน"}
+{"id":"repetition_noun","th":"การทำซ้ำ; การพูดซ้ำ; การซ้ำ","ex":"Learning words needs a lot of repetition.","exTh":"การเรียนคำศัพท์ต้องอาศัยการทำซ้ำมาก"}
+{"id":"madame_noun","th":"มาดาม; คุณผู้หญิง; ท่านผู้หญิง","ex":"Madame Dupont is our French teacher.","exTh":"มาดามดูปองต์เป็นครูภาษาฝรั่งเศสของเรา","note":"คำเรียกหญิงชาวฝรั่งเศสด้วยความเคารพ"}
+{"id":"stack_noun","th":"กอง; ตั้ง; ปึก","ex":"There is a stack of books on my desk.","exTh":"มีหนังสือกองหนึ่งอยู่บนโต๊ะของฉัน"}
+{"id":"ram_noun","th":"แกะตัวผู้; หน่วยความจำแรม; เครื่องกระแทก","ex":"This laptop has 16 GB of RAM.","exTh":"โน้ตบุ๊กเครื่องนี้มีแรม 16 กิกะไบต์","note":"ในคอมพิวเตอร์มักเขียน RAM ตัวพิมพ์ใหญ่; ความหมายเดิมคือแกะตัวผู้"}
+{"id":"bargain_verb","th":"ต่อรอง; ต่อราคา","ex":"She bargained with the seller for a lower price.","exTh":"เธอต่อรองกับผู้ขายเพื่อให้ได้ราคาถูกลง"}
+{"id":"breed_noun","th":"สายพันธุ์; พันธุ์; ประเภท","ex":"What breed is your dog?","exTh":"สุนัขของคุณเป็นพันธุ์อะไร"}
+{"id":"panic_verb","th":"ตื่นตระหนก; ตกใจจนลนลาน","ex":"Don't panic, everything will be fine.","exTh":"อย่าตื่นตระหนก ทุกอย่างจะเรียบร้อย"}
+{"id":"instantly_adv","th":"ทันที; ในทันใด; โดยฉับพลัน","ex":"The pain went away instantly.","exTh":"อาการปวดหายไปทันที"}
+{"id":"pastor_noun","th":"บาทหลวงประจำโบสถ์; ศาสนาจารย์; ผู้นำศาสนา","ex":"The pastor talked to the people after church.","exTh":"ศาสนาจารย์คุยกับผู้คนหลังจบพิธีที่โบสถ์"}
+{"id":"erect_adj","th":"ตั้งตรง; ตรง; ยืนตรง","ex":"She stood erect with her head held high.","exTh":"เธอยืนตัวตรงโดยเชิดหน้าขึ้น"}
+{"id":"ban_noun","th":"การห้าม; ข้อห้าม; การแบน","ex":"The city has a ban on plastic bags.","exTh":"เมืองนี้ห้ามใช้ถุงพลาสติก"}
+{"id":"ban_verb","th":"ห้าม; สั่งห้าม; แบน","ex":"The school banned phones in the classroom.","exTh":"โรงเรียนห้ามใช้โทรศัพท์ในห้องเรียน"}
+{"id":"sponsor_verb","th":"สนับสนุน; เป็นผู้อุปถัมภ์; ออกทุนให้","ex":"A local bank sponsors the running event.","exTh":"ธนาคารท้องถิ่นสนับสนุนงานวิ่งนี้"}
+{"id":"transparent_adj","th":"โปร่งใส; ใส; ชัดเจน","ex":"The box is made of transparent plastic.","exTh":"กล่องนี้ทำจากพลาสติกใส"}
+{"id":"alcoholic_noun","th":"คนติดสุรา; ผู้ติดแอลกอฮอล์","ex":"He became an alcoholic after losing his job.","exTh":"เขากลายเป็นคนติดสุราหลังตกงาน"}
+{"id":"prescribe_verb","th":"สั่งยา; กำหนด; แนะนำให้ใช้","ex":"The doctor prescribed antibiotics for the infection.","exTh":"หมอสั่งยาปฏิชีวนะรักษาการติดเชื้อ"}
+{"id":"sensible_adj","th":"มีเหตุผล; ฉลาด; สมเหตุสมผล","ex":"It is sensible to carry an umbrella in the rainy season.","exTh":"การพกร่มในหน้าฝนเป็นเรื่องฉลาดและสมเหตุสมผล"}
+{"id":"utterly_adv","th":"โดยสิ้นเชิง; อย่างสมบูรณ์; ทั้งหมด","ex":"The idea is utterly ridiculous.","exTh":"ความคิดนี้ไร้สาระโดยสิ้นเชิง"}
+{"id":"quit_adj","th":"หลุดพ้น; ปลอดจาก; พ้นจาก","ex":"I am glad to be quit of that job.","exTh":"ฉันดีใจที่หลุดพ้นจากงานนั้นแล้ว","note":"เป็นคำคุณศัพท์ที่เก่าและใช้น้อย มักเป็น quit of; ส่วนใหญ่ quit เป็นกริยา แปลว่า เลิก"}
+{"id":"patch_noun","th":"ผ้าปะ; แผ่นปะ; ผืนดินเล็กๆ","ex":"He put a patch on the hole in his jeans.","exTh":"เขาปะรอยขาดบนกางเกงยีนส์ด้วยผ้าปะ"}
+{"id":"damn_adj","th":"(คำสบถ) บ้าเอ๊ย; เฮงซวย; น่ารำคาญ","ex":"I can't find my damn keys anywhere.","exTh":"ฉันหากุญแจบ้าเอ๊ยของฉันไม่เจอเลย","note":"คำหยาบเล็กน้อยในภาษาพูด"}
+{"id":"damn_adv","th":"(คำเน้นแบบหยาบ) มากๆ; ชะมัด","ex":"That was a damn good meal.","exTh":"มื้อนั้นอร่อยสุดๆ ไปเลย","note":"คำหยาบเล็กน้อยในภาษาพูด ใช้เน้นความรู้สึก"}
+{"id":"damn_interj","th":"(คำอุทาน) บ้าเอ๊ย; แย่จริง","ex":"Damn, I missed the bus again!","exTh":"บ้าเอ๊ย ฉันตกรถเมล์อีกแล้ว!","note":"คำอุทานหยาบเล็กน้อย ไม่เหมาะกับสถานการณ์ทางการ"}
+{"id":"barley_noun","th":"ข้าวบาร์เลย์","ex":"Barley is used to make beer and soup.","exTh":"ข้าวบาร์เลย์ใช้ทำเบียร์และซุป"}
+{"id":"deliberate_adj","th":"จงใจ; ตั้งใจ; รอบคอบ","ex":"It was a deliberate attempt to hurt her.","exTh":"นั่นเป็นความพยายามที่จงใจทำร้ายเธอ"}
+{"id":"medication_noun","th":"ยา; การใช้ยา; ยารักษา","ex":"She takes medication for high blood pressure.","exTh":"เธอกินยารักษาความดันโลหิตสูง"}
+{"id":"rectangular_adj","th":"เป็นรูปสี่เหลี่ยมผืนผ้า; มีรูปสี่เหลี่ยมมุมฉาก","ex":"We have a rectangular table in the kitchen.","exTh":"เรามีโต๊ะสี่เหลี่ยมผืนผ้าในครัว"}
+{"id":"bind_verb","th":"มัด; ผูก; ผูกมัด","ex":"He bound the papers together with string.","exTh":"เขามัดกระดาษรวมกันด้วยเชือก","note":"รูปผัน bound, bound"}
+{"id":"jaw_noun","th":"ขากรรไกร; กราม","ex":"He hit his jaw on the table when he fell.","exTh":"เขาล้มและขากรรไกรกระแทกโต๊ะ"}
+{"id":"plug_verb","th":"อุด; เสียบปลั๊ก; โฆษณาสินค้า","ex":"Plug the hole with a small piece of cloth.","exTh":"อุดรูด้วยผ้าชิ้นเล็กๆ"}
+{"id":"poison_verb","th":"วางยาพิษ; ทำให้เป็นพิษ; ทำให้เสียหาย","ex":"Someone poisoned the water in the well.","exTh":"มีคนวางยาพิษในน้ำของบ่อ"}
+{"id":"mate_noun","th":"เพื่อน; เพื่อนร่วมงาน; คู่ผสมพันธุ์","ex":"I went to the pub with my mates.","exTh":"ฉันไปผับกับเพื่อนๆ","note":"ภาษาพูดแบบอังกฤษ/ออสเตรเลียที่แปลว่า เพื่อน"}
+{"id":"dismiss_verb","th":"ไล่ออก; ปัดตกไป; ให้ออกไป","ex":"The company dismissed him for being late too often.","exTh":"บริษัทไล่เขาออกเพราะมาสายบ่อยเกินไป"}
+{"id":"humble_adj","th":"ถ่อมตัว; ต่ำต้อย; เรียบง่าย","ex":"He comes from a humble family.","exTh":"เขามาจากครอบครัวที่เรียบง่าย"}
+{"id":"drought_noun","th":"ภัยแล้ง; ความแห้งแล้ง","ex":"The long drought hurt the farmers.","exTh":"ภัยแล้งที่ยาวนานทำร้ายชาวนา"}
+{"id":"proximity_noun","th":"ความใกล้เคียง; ความใกล้ชิด; ระยะใกล้","ex":"We chose the hotel for its proximity to the beach.","exTh":"เราเลือกโรงแรมนี้เพราะอยู่ใกล้ชายหาด"}
+{"id":"nomination_noun","th":"การเสนอชื่อ; การแต่งตั้ง; รายชื่อผู้เข้าชิง","ex":"The film received three nominations for awards.","exTh":"ภาพยนตร์เรื่องนี้ได้รับการเสนอชื่อเข้าชิงสามรางวัล"}
+{"id":"destiny_noun","th":"โชคชะตา; ชะตากรรม; ลิขิตฟ้า","ex":"He believes it was his destiny to be a doctor.","exTh":"เขาเชื่อว่าการเป็นหมอเป็นชะตาของเขา"}
+{"id":"grip_noun","th":"การจับ; การยึดเกาะ; การควบคุม","ex":"He held the rope with a strong grip.","exTh":"เขาจับเชือกไว้แน่น"}
+{"id":"grip_verb","th":"จับแน่น; ยึดไว้; ตรึงความสนใจ","ex":"She gripped the handle with both hands.","exTh":"เธอจับด้ามจับไว้แน่นด้วยมือทั้งสองข้าง"}
+{"id":"limb_noun","th":"แขนขา; อวัยวะส่วนปลาย; กิ่งไม้ใหญ่","ex":"He lost a limb in the accident.","exTh":"เขาสูญเสียแขนหรือขาไปในอุบัติเหตุ"}
+{"id":"implication_noun","th":"ผลที่ตามมา; ความหมายโดยนัย; การบ่งชี้","ex":"The new law has serious implications for small shops.","exTh":"กฎหมายใหม่ส่งผลกระทบร้ายแรงต่อร้านค้าเล็กๆ"}
+{"id":"undergraduate_noun","th":"นักศึกษาปริญญาตรี","ex":"She is an undergraduate in her second year.","exTh":"เธอเป็นนักศึกษาปริญญาตรีชั้นปีที่สอง"}
+{"id":"sail_verb","th":"แล่นเรือ; ล่องเรือ; ออกเรือ","ex":"They sailed across the bay in a small boat.","exTh":"พวกเขาล่องเรือลำเล็กข้ามอ่าว"}
+{"id":"circumstance_noun","th":"สถานการณ์; เงื่อนไข; สภาพแวดล้อม","ex":"Under no circumstances should you open this door.","exTh":"ไม่ว่าในสถานการณ์ใดก็ไม่ควรเปิดประตูนี้","note":"มักใช้พหูพจน์ circumstances"}
+{"id":"therapist_noun","th":"นักบำบัด; นักจิตบำบัด; นักกายภาพบำบัด","ex":"She sees a therapist once a week.","exTh":"เธอไปพบนักบำบัดสัปดาห์ละครั้ง"}
+{"id":"openly_adv","th":"อย่างเปิดเผย; ตรงไปตรงมา; ต่อหน้าสาธารณะ","ex":"They talked openly about their problems.","exTh":"พวกเขาพูดคุยเรื่องปัญหาของตนอย่างเปิดเผย"}
+{"id":"imperative_noun","th":"สิ่งจำเป็นเร่งด่วน; ประโยคคำสั่ง; ข้อบังคับ","ex":"Saving energy is an environmental imperative.","exTh":"การประหยัดพลังงานเป็นสิ่งจำเป็นเร่งด่วนด้านสิ่งแวดล้อม"}
+{"id":"revival_noun","th":"การฟื้นฟู; การกลับมาได้รับความนิยม; การฟื้นคืนชีพ","ex":"There has been a revival of old music styles.","exTh":"ดนตรีแนวเก่ากำลังกลับมาได้รับความนิยมอีกครั้ง"}
+{"id":"query_noun","th":"คำถาม; ข้อสงสัย; คำสืบค้น","ex":"If you have a query, please email us.","exTh":"หากมีข้อสงสัยกรุณาส่งอีเมลหาเรา"}
+{"id":"altar_noun","th":"แท่นบูชา; แท่นพิธี","ex":"Flowers were placed on the altar of the church.","exTh":"ดอกไม้ถูกวางไว้บนแท่นบูชาของโบสถ์"}
+{"id":"anchor_noun","th":"สมอเรือ; ผู้ประกาศข่าว; หลักยึด","ex":"The sailors dropped the anchor near the island.","exTh":"ลูกเรือทิ้งสมอลงใกล้เกาะ"}
+{"id":"supplier_noun","th":"ผู้จัดหา; ซัพพลายเออร์; ผู้ส่งสินค้า","ex":"We buy our fruit from a local supplier.","exTh":"เราซื้อผลไม้จากซัพพลายเออร์ในท้องถิ่น"}
+{"id":"vacant_adj","th":"ว่าง; ไม่มีคนอยู่; เหม่อลอย","ex":"Is this seat vacant?","exTh":"ที่นั่งนี้ว่างไหม"}
+{"id":"overtime_adv","th":"นอกเวลา; เกินเวลาทำงาน","ex":"She worked overtime to finish the report.","exTh":"เธอทำงานล่วงเวลาเพื่อให้รายงานเสร็จ"}
+{"id":"overtime_noun","th":"งานล่วงเวลา; โอที; ค่าล่วงเวลา","ex":"He gets extra pay for overtime.","exTh":"เขาได้เงินเพิ่มสำหรับการทำงานล่วงเวลา"}
+{"id":"stiff_adj","th":"แข็ง; เกร็ง; ตึง","ex":"My neck is stiff after sleeping badly.","exTh":"คอของฉันเกร็งหลังจากนอนไม่สบาย"}
+{"id":"mess_verb","th":"ทำให้รก; ทำให้ยุ่ง; เล่นซนไปมา","ex":"Don't mess with my computer settings.","exTh":"อย่ามายุ่งกับการตั้งค่าคอมพิวเตอร์ของฉัน","note":"มักใช้ในรูป mess up หรือ mess around"}
+{"id":"resume_verb","th":"เริ่มต่อ; กลับมาทำต่อ; ดำเนินต่อ","ex":"The game will resume after the rain stops.","exTh":"เกมจะแข่งต่อหลังฝนหยุดตก"}
+{"id":"caring_adj","th":"เอาใจใส่; ใส่ใจ; อบอุ่น","ex":"She is a kind and caring nurse.","exTh":"เธอเป็นพยาบาลที่ใจดีและเอาใจใส่"}
+{"id":"forthcoming_adj","th":"ที่กำลังจะมาถึง; ที่จะมีขึ้น; เปิดเผย","ex":"We will announce the details in the forthcoming issue.","exTh":"เราจะประกาศรายละเอียดในฉบับที่กำลังจะออก"}
+{"id":"transmit_verb","th":"ส่ง; ถ่ายทอด; แพร่","ex":"The tower transmits radio signals across the region.","exTh":"หอส่งสัญญาณวิทยุไปทั่วภูมิภาค"}
+{"id":"unlimited_adj","th":"ไม่จำกัด; ไร้ขีดจำกัด; ไม่มีสิ้นสุด","ex":"This plan gives you unlimited data.","exTh":"แพ็กเกจนี้ให้คุณใช้อินเทอร์เน็ตไม่จำกัด"}
+{"id":"preventive_adj","th":"เพื่อป้องกัน; เชิงป้องกัน","ex":"Regular check-ups are a preventive measure.","exTh":"การตรวจสุขภาพเป็นประจำเป็นมาตรการป้องกัน"}
+{"id":"clarify_verb","th":"ทำให้ชัดเจน; ชี้แจง; อธิบายให้กระจ่าง","ex":"Can you clarify what you mean by that?","exTh":"คุณช่วยอธิบายให้ชัดว่าหมายความว่าอย่างไรได้ไหม"}
+{"id":"weed_noun","th":"วัชพืช; หญ้า; ต้นไม้ที่ไม่ต้องการ","ex":"There are many weeds in the garden.","exTh":"มีวัชพืชมากมายในสวน"}
+{"id":"chip_noun","th":"เศษเล็กเศษน้อย; มันฝรั่งทอด; ชิป","ex":"There is a small chip in my cup.","exTh":"ถ้วยของฉันมีรอยบิ่นเล็กๆ","note":"อังกฤษ chips = เฟรนช์ฟรายส์ อเมริกัน chips = มันฝรั่งแผ่นทอดกรอบ"}
+{"id":"misleading_adj","th":"ทำให้เข้าใจผิด; ชวนให้หลงผิด","ex":"The advertisement was misleading about the price.","exTh":"โฆษณาชิ้นนั้นทำให้เข้าใจผิดเรื่องราคา"}
+{"id":"dramatically_adv","th":"อย่างมาก; อย่างเห็นได้ชัด; อย่างน่าตื่นเต้น","ex":"Prices have risen dramatically this year.","exTh":"ปีนี้ราคาสินค้าสูงขึ้นอย่างมาก"}
+{"id":"duplicate_noun","th":"สำเนา; ของที่ซ้ำกัน; ฉบับที่สอง","ex":"Please keep a duplicate of the form.","exTh":"กรุณาเก็บสำเนาของแบบฟอร์มไว้"}
+{"id":"foreman_noun","th":"หัวหน้าคนงาน; ผู้คุมงาน; ประธานคณะลูกขุน","ex":"The foreman told the workers to wear helmets.","exTh":"หัวหน้าคนงานสั่งให้คนงานสวมหมวกนิรภัย"}
+{"id":"obey_verb","th":"เชื่อฟัง; ปฏิบัติตาม; ทำตามคำสั่ง","ex":"Children should obey their parents.","exTh":"เด็กควรเชื่อฟังพ่อแม่"}

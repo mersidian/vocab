@@ -1,0 +1,100 @@
+{"id":"coarse_adj","th":"หยาบ; ไม่ละเอียด; หยาบคาย","ex":"The towel felt coarse against my skin.","exTh":"ผ้าขนหนูผืนนี้สัมผัสผิวแล้วหยาบ"}
+{"id":"modest_adj","th":"ถ่อมตัว; เจียมตัว; เล็กน้อย","ex":"He is a modest man and never talks about his success.","exTh":"เขาเป็นคนถ่อมตัวและไม่เคยพูดถึงความสำเร็จของตัวเอง"}
+{"id":"ritual_noun","th":"พิธีกรรม; พิธี; กิจวัตรที่ทำเป็นประจำ","ex":"Drinking tea at five o'clock is a daily ritual for her.","exTh":"การดื่มชาตอนห้าโมงเย็นเป็นกิจวัตรประจำวันของเธอ"}
+{"id":"conscience_noun","th":"ความรู้สึกผิดชอบชั่วดี; มโนธรรม; ใจ","ex":"He had a guilty conscience after telling the lie.","exTh":"เขารู้สึกผิดในใจหลังจากพูดโกหก"}
+{"id":"profitable_adj","th":"ทำกำไร; ได้กำไร; เป็นประโยชน์","ex":"Their small shop became very profitable last year.","exTh":"ร้านเล็กๆ ของพวกเขาทำกำไรได้ดีมากเมื่อปีที่แล้ว"}
+{"id":"consensus_noun","th":"ความเห็นพ้องต้องกัน; มติเอกฉันท์","ex":"The group finally reached a consensus on the plan.","exTh":"ในที่สุดกลุ่มก็ได้ข้อสรุปเห็นพ้องกันเรื่องแผน"}
+{"id":"symbolic_adj","th":"เป็นสัญลักษณ์; เชิงสัญลักษณ์","ex":"The white dove is a symbolic image of peace.","exTh":"นกพิราบขาวเป็นภาพสัญลักษณ์ของสันติภาพ"}
+{"id":"genius_noun","th":"อัจฉริยะ; ความอัจฉริยะ; ผู้มีพรสวรรค์","ex":"Many people call him a genius in math.","exTh":"หลายคนเรียกเขาว่าอัจฉริยะทางคณิตศาสตร์"}
+{"id":"intimate_adj","th":"สนิทสนม; ใกล้ชิด; เป็นส่วนตัว","ex":"They had an intimate dinner for two at home.","exTh":"พวกเขามีมื้อค่ำแบบส่วนตัวสำหรับสองคนที่บ้าน"}
+{"id":"authorize_verb","th":"อนุญาต; มอบอำนาจ; อนุมัติ","ex":"Only the manager can authorize this payment.","exTh":"มีเพียงผู้จัดการเท่านั้นที่อนุมัติการจ่ายเงินนี้ได้","note":"อังกฤษอาจสะกด authorise"}
+{"id":"collapse_verb","th":"พังทลาย; ล้มลง; ล้มเหลว","ex":"The old bridge collapsed after the heavy rain.","exTh":"สะพานเก่าพังทลายลงหลังฝนตกหนัก"}
+{"id":"impressed_adj","th":"ประทับใจ; รู้สึกชื่นชม","ex":"I was impressed by her fluent English.","exTh":"ฉันประทับใจภาษาอังกฤษที่คล่องแคล่วของเธอ"}
+{"id":"wolf_noun","th":"หมาป่า","ex":"A wolf howled somewhere in the forest at night.","exTh":"หมาป่าหอนอยู่ที่ไหนสักแห่งในป่าตอนกลางคืน"}
+{"id":"surrender_verb","th":"ยอมแพ้; ยอมจำนน; มอบตัว","ex":"The thief surrendered to the police.","exTh":"โจรยอมมอบตัวต่อตำรวจ"}
+{"id":"volunteer_noun","th":"อาสาสมัคร; ผู้อาสา","ex":"She works as a volunteer at the animal shelter.","exTh":"เธอเป็นอาสาสมัครที่ศูนย์พักพิงสัตว์"}
+{"id":"correspond_verb","th":"สอดคล้อง; ตรงกัน; ติดต่อทางจดหมาย","ex":"The numbers in the report do not correspond with the data.","exTh":"ตัวเลขในรายงานไม่ตรงกับข้อมูล"}
+{"id":"ideology_noun","th":"อุดมการณ์; แนวคิด; ลัทธิ","ex":"The two parties have very different ideologies.","exTh":"สองพรรคมีอุดมการณ์แตกต่างกันมาก"}
+{"id":"shooting_noun","th":"การยิง; เหตุยิงกัน; การถ่ายทำ","ex":"There was a shooting near the station last night.","exTh":"มีเหตุยิงกันใกล้สถานีเมื่อคืนนี้"}
+{"id":"oath_noun","th":"คำสาบาน; คำปฏิญาณ; คำสบถ","ex":"The new president took an oath in front of the crowd.","exTh":"ประธานาธิบดีคนใหม่ปฏิญาณตนต่อหน้าฝูงชน"}
+{"id":"stamp_verb","th":"ประทับตรา; กระทืบเท้า; ติดแสตมป์","ex":"The officer stamped my passport at the border.","exTh":"เจ้าหน้าที่ประทับตราลงในหนังสือเดินทางของฉันที่ชายแดน"}
+{"id":"tough_adj","th":"เหนียว; ยากลำบาก; แข็งแกร่ง","ex":"It was a tough week at work.","exTh":"เป็นสัปดาห์ที่ยากลำบากที่ทำงาน"}
+{"id":"honorable_adj","th":"น่าเคารพ; มีเกียรติ; ซื่อตรง","ex":"He is an honorable man who always keeps his word.","exTh":"เขาเป็นผู้ที่น่าเคารพและรักษาคำพูดเสมอ","note":"อังกฤษสะกด honourable"}
+{"id":"quote_noun","th":"คำพูดที่ยกมา; ข้อความอ้างอิง; ใบเสนอราคา","ex":"My teacher likes to use quotes from famous books.","exTh":"ครูของฉันชอบยกข้อความจากหนังสือชื่อดังมาใช้"}
+{"id":"quote_verb","th":"อ้างอิง; ยกคำพูด; เสนอราคา","ex":"The reporter quoted the mayor in his article.","exTh":"นักข่าวยกคำพูดของนายกเทศมนตรีมาลงในบทความ"}
+{"id":"mercy_noun","th":"ความเมตตา; ความปรานี; ความกรุณา","ex":"The judge showed mercy to the young man.","exTh":"ผู้พิพากษาแสดงความเมตตาต่อชายหนุ่มคนนั้น"}
+{"id":"publicity_noun","th":"การประชาสัมพันธ์; ความสนใจของสาธารณชน; การโฆษณา","ex":"The film got a lot of publicity before it opened.","exTh":"ภาพยนตร์เรื่องนี้ได้รับการประชาสัมพันธ์มากก่อนเข้าฉาย"}
+{"id":"chase_verb","th":"ไล่ตาม; วิ่งไล่; ไล่ล่า","ex":"The dog chased the cat across the garden.","exTh":"สุนัขวิ่งไล่แมวข้ามสวน"}
+{"id":"sketch_verb","th":"ร่างภาพ; วาดภาพคร่าวๆ; สเก็ตช์","ex":"She sketched the mountain in her notebook.","exTh":"เธอวาดภาพร่างภูเขาลงในสมุดบันทึก"}
+{"id":"sophisticated_adj","th":"ซับซ้อนทันสมัย; ช่ำชอง; มีรสนิยมสูง","ex":"This phone uses a very sophisticated camera system.","exTh":"โทรศัพท์เครื่องนี้ใช้ระบบกล้องที่ซับซ้อนและล้ำสมัยมาก"}
+{"id":"imprisonment_noun","th":"การจำคุก; การคุมขัง; โทษจำคุก","ex":"He received five years of imprisonment for the crime.","exTh":"เขาถูกตัดสินจำคุกห้าปีจากความผิดครั้งนี้"}
+{"id":"worldwide_adj","th":"ทั่วโลก; ในระดับโลก","ex":"The singer has a worldwide fan base.","exTh":"นักร้องคนนี้มีแฟนเพลงทั่วโลก"}
+{"id":"pursuit_noun","th":"การติดตาม; การไล่ล่า; การแสวงหา","ex":"The police car was in pursuit of the thief.","exTh":"รถตำรวจกำลังไล่ล่าตามโจร"}
+{"id":"pop_verb","th":"ปุ๊; แตกเสียงดัง; แวบไป","ex":"The balloon popped with a loud noise.","exTh":"ลูกโป่งแตกดังปัง"}
+{"id":"descriptive_adj","th":"ที่บรรยาย; เชิงพรรณนา; ที่เล่าเห็นภาพ","ex":"Her writing is very descriptive and full of detail.","exTh":"งานเขียนของเธอบรรยายได้เห็นภาพและเต็มไปด้วยรายละเอียด"}
+{"id":"artery_noun","th":"หลอดเลือดแดง; เส้นทางสัญจรหลัก","ex":"Blood flows from the heart through the arteries.","exTh":"เลือดไหลจากหัวใจผ่านหลอดเลือดแดง"}
+{"id":"coach_verb","th":"ฝึกสอน; ติวให้; เป็นโค้ช","ex":"He coaches the school football team after class.","exTh":"เขาฝึกสอนทีมฟุตบอลของโรงเรียนหลังเลิกเรียน"}
+{"id":"chancellor_noun","th":"นายกรัฐมนตรี (เยอรมนี); อธิการบดี; รัฐมนตรีคลัง (อังกฤษ)","ex":"The chancellor gave a speech about the economy.","exTh":"นายกรัฐมนตรีกล่าวสุนทรพจน์เกี่ยวกับเศรษฐกิจ"}
+{"id":"flash_noun","th":"แสงวาบ; แสงแฟลช; ชั่วพริบตา","ex":"I saw a flash of lightning in the sky.","exTh":"ฉันเห็นแสงฟ้าแลบวาบบนท้องฟ้า"}
+{"id":"flash_verb","th":"ส่องแสงวาบ; กะพริบ; พุ่งผ่านไป","ex":"The car's lights flashed twice in the dark.","exTh":"ไฟรถกะพริบสองครั้งในความมืด"}
+{"id":"temporarily_adv","th":"ชั่วคราว; ชั่วขณะ","ex":"The shop is temporarily closed for repairs.","exTh":"ร้านปิดชั่วคราวเพื่อซ่อมแซม"}
+{"id":"dawn_noun","th":"รุ่งอรุณ; อรุณรุ่ง; จุดเริ่มต้น","ex":"We left the house at dawn to avoid the traffic.","exTh":"เราออกจากบ้านตอนรุ่งสางเพื่อเลี่ยงรถติด"}
+{"id":"emergence_noun","th":"การปรากฏตัว; การเกิดขึ้น; การเกิดใหม่","ex":"The emergence of smartphones changed daily life.","exTh":"การเกิดขึ้นของสมาร์ทโฟนเปลี่ยนชีวิตประจำวัน"}
+{"id":"detect_verb","th":"ตรวจพบ; จับได้; สังเกตเห็น","ex":"The machine can detect smoke very quickly.","exTh":"เครื่องนี้ตรวจจับควันได้เร็วมาก"}
+{"id":"boiling_adj","th":"เดือด; ร้อนจัด; ร้อนระอุ","ex":"It was boiling hot in the car at noon.","exTh":"ในรถร้อนระอุตอนเที่ยง"}
+{"id":"interpret_verb","th":"ตีความ; แปลความ; ล่าม","ex":"People may interpret his words in different ways.","exTh":"ผู้คนอาจตีความคำพูดของเขาต่างกันไป"}
+{"id":"elect_verb","th":"เลือกตั้ง; เลือก","ex":"The people elected a new mayor last month.","exTh":"ประชาชนเลือกนายกเทศมนตรีคนใหม่เมื่อเดือนที่แล้ว"}
+{"id":"wit_noun","th":"ไหวพริบ; ปฏิภาณ; ความมีอารมณ์ขัน","ex":"She is famous for her quick wit.","exTh":"เธอมีชื่อเสียงด้านไหวพริบที่ว่องไว"}
+{"id":"drain_noun","th":"ท่อระบายน้ำ; ทางระบายน้ำ; สิ่งที่สิ้นเปลือง","ex":"The water ran down the drain.","exTh":"น้ำไหลลงท่อระบายน้ำไป"}
+{"id":"drain_verb","th":"ระบายน้ำ; ทำให้แห้ง; ทำให้หมดแรง","ex":"Drain the pasta and put it on a plate.","exTh":"เทน้ำออกจากพาสต้าแล้วใส่จาน"}
+{"id":"backward_adv","th":"ถอยหลัง; ย้อนกลับ; ไปข้างหลัง","ex":"She took a step backward in surprise.","exTh":"เธอก้าวถอยหลังด้วยความตกใจ"}
+{"id":"persistent_adj","th":"ดื้อดึง; ไม่ยอมแพ้; ต่อเนื่องไม่หาย","ex":"She has a persistent cough that won't go away.","exTh":"เธอมีอาการไอเรื้อรังไม่หายสักที"}
+{"id":"ample_adj","th":"เพียงพอ; มากมาย; กว้างขวาง","ex":"There is ample space for parking at the mall.","exTh":"ที่ห้างมีที่จอดรถเหลือเฟือ"}
+{"id":"sustain_verb","th":"ค้ำจุน; รักษาไว้; ทนรับ","ex":"Farming sustains many families in this region.","exTh":"การทำเกษตรเลี้ยงดูหลายครอบครัวในภูมิภาคนี้"}
+{"id":"breakdown_noun","th":"การเสีย; ความล้มเหลว; การแยกย่อย","ex":"We were late because of a breakdown on the highway.","exTh":"เรามาสายเพราะรถเสียบนทางหลวง"}
+{"id":"thread_noun","th":"ด้าย; เส้นด้าย; กระทู้สนทนา","ex":"She used red thread to sew the button.","exTh":"เธอใช้ด้ายสีแดงเย็บกระดุม"}
+{"id":"gradual_adj","th":"ค่อยเป็นค่อยไป; ทีละน้อย","ex":"There has been a gradual improvement in her health.","exTh":"สุขภาพของเธอดีขึ้นทีละน้อย"}
+{"id":"prompt_adj","th":"ทันที; รวดเร็ว; ตรงเวลา","ex":"Thank you for your prompt reply.","exTh":"ขอบคุณสำหรับการตอบกลับอย่างรวดเร็ว"}
+{"id":"prompt_noun","th":"ข้อความแจ้ง; คำสั่งเตือน; สิ่งกระตุ้นให้ทำ","ex":"A prompt on the screen asked for my password.","exTh":"ข้อความบนหน้าจอขอรหัสผ่านของฉัน"}
+{"id":"prompt_verb","th":"กระตุ้น; เตือนความจำ; ผลักดัน","ex":"The news prompted him to call his mother.","exTh":"ข่าวนั้นทำให้เขาโทรหาแม่"}
+{"id":"consult_verb","th":"ปรึกษา; ขอคำแนะนำ; เปิดดู","ex":"You should consult a doctor about that pain.","exTh":"คุณควรปรึกษาแพทย์เรื่องอาการปวดนั้น"}
+{"id":"exclude_verb","th":"ไม่รวม; กีดกัน; ตัดออก","ex":"The price excludes tax and service charge.","exTh":"ราคานี้ไม่รวมภาษีและค่าบริการ"}
+{"id":"secondly_adv","th":"ประการที่สอง; อย่างที่สอง","ex":"Firstly it is too expensive, and secondly it is too far.","exTh":"ประการแรกมันแพงเกินไป และประการที่สองมันไกลเกินไป"}
+{"id":"hollow_adj","th":"กลวง; โหว่; ไร้ความหมาย","ex":"The old tree is hollow inside.","exTh":"ต้นไม้เก่าต้นนั้นข้างในกลวง"}
+{"id":"spare_adj","th":"สำรอง; เหลือ; ว่าง","ex":"Do you have a spare key to the office?","exTh":"คุณมีกุญแจสำรองของออฟฟิศไหม"}
+{"id":"spare_verb","th":"ละเว้น; เหลือไว้; แบ่งให้","ex":"Can you spare a few minutes to talk with me?","exTh":"คุณแบ่งเวลาสักสองสามนาทีคุยกับฉันได้ไหม"}
+{"id":"rocky_adj","th":"เต็มไปด้วยหิน; เป็นหิน; ไม่มั่นคง","ex":"The path up the hill was steep and rocky.","exTh":"ทางขึ้นเนินชันและเต็มไปด้วยหิน"}
+{"id":"ignorance_noun","th":"ความไม่รู้; ความเขลา; ความโง่เขลา","ex":"His ignorance of the law got him into trouble.","exTh":"ความไม่รู้กฎหมายของเขาทำให้เขาเดือดร้อน"}
+{"id":"corruption_noun","th":"การทุจริต; การคอร์รัปชัน; การฉ้อฉล","ex":"The new government promised to fight corruption.","exTh":"รัฐบาลชุดใหม่สัญญาว่าจะต่อสู้กับการทุจริต"}
+{"id":"remark_noun","th":"ข้อสังเกต; คำพูด; ความเห็น","ex":"His rude remark made everyone angry.","exTh":"คำพูดหยาบคายของเขาทำให้ทุกคนโกรธ"}
+{"id":"withdraw_verb","th":"ถอนเงิน; ถอนตัว; ถอนออก","ex":"I need to withdraw some cash from the bank.","exTh":"ฉันต้องไปถอนเงินสดจากธนาคาร"}
+{"id":"jump_noun","th":"การกระโดด; การพุ่งขึ้นอย่างฉับพลัน","ex":"She made a big jump over the small stream.","exTh":"เธอกระโดดข้ามลำธารเล็กๆ ได้อย่างไกล"}
+{"id":"compulsory_adj","th":"บังคับ; ภาคบังคับ; จำเป็นต้องทำ","ex":"English is a compulsory subject at our school.","exTh":"ภาษาอังกฤษเป็นวิชาบังคับที่โรงเรียนของเรา"}
+{"id":"imply_verb","th":"บอกเป็นนัย; หมายความว่า; สื่อว่า","ex":"Are you implying that I made a mistake?","exTh":"คุณกำลังบอกเป็นนัยว่าฉันทำผิดหรือเปล่า"}
+{"id":"consultant_noun","th":"ที่ปรึกษา; ผู้เชี่ยวชาญ; แพทย์ที่ปรึกษา","ex":"The company hired a consultant to improve its sales.","exTh":"บริษัทจ้างที่ปรึกษามาช่วยปรับปรุงยอดขาย"}
+{"id":"shield_noun","th":"โล่; เครื่องกำบัง; สิ่งป้องกัน","ex":"The knight held up his shield to block the arrow.","exTh":"อัศวินยกโล่ขึ้นป้องกันลูกธนู"}
+{"id":"morality_noun","th":"ศีลธรรม; จริยธรรม; ความถูกต้องดีงาม","ex":"They argued about the morality of the decision.","exTh":"พวกเขาโต้เถียงกันเรื่องศีลธรรมของการตัดสินใจนั้น"}
+{"id":"relieved_adj","th":"โล่งใจ; สบายใจ","ex":"I was relieved to hear that she was safe.","exTh":"ฉันโล่งใจที่ได้ยินว่าเธอปลอดภัย"}
+{"id":"shed_noun","th":"โรงเก็บของ; เพิง; กระท่อมเล็ก","ex":"He keeps his tools in a shed behind the house.","exTh":"เขาเก็บเครื่องมือไว้ในโรงเก็บของหลังบ้าน"}
+{"id":"relaxation_noun","th":"การผ่อนคลาย; การพักผ่อน; ความสบายใจ","ex":"Music helps me find relaxation after work.","exTh":"ดนตรีช่วยให้ฉันผ่อนคลายหลังเลิกงาน"}
+{"id":"competence_noun","th":"ความสามารถ; ความชำนาญ; ความเหมาะสม","ex":"Nobody doubts her competence as a nurse.","exTh":"ไม่มีใครสงสัยในความสามารถของเธอในฐานะพยาบาล"}
+{"id":"realization_noun","th":"การตระหนักรู้; การเข้าใจ; ความสำเร็จผล","ex":"The realization that I was wrong came slowly.","exTh":"การตระหนักว่าฉันผิดค่อยๆ เกิดขึ้น"}
+{"id":"costly_adj","th":"แพง; สิ้นเปลือง; เสียหายมาก","ex":"Repairing the roof turned out to be very costly.","exTh":"การซ่อมหลังคาออกมาแพงมาก"}
+{"id":"bend_noun","th":"โค้ง; ทางโค้ง; การงอ","ex":"The car slowed down at the bend in the road.","exTh":"รถชะลอความเร็วตรงทางโค้งของถนน"}
+{"id":"hybrid_adj","th":"ลูกผสม; ผสมผสาน; พันธุ์ผสม","ex":"He drives a hybrid car to save fuel.","exTh":"เขาขับรถไฮบริดเพื่อประหยัดน้ำมัน"}
+{"id":"closure_noun","th":"การปิด; การสิ้นสุด; ความรู้สึกจบเรื่อง","ex":"The closure of the road caused a long delay.","exTh":"การปิดถนนทำให้เกิดความล่าช้าอย่างมาก"}
+{"id":"micro_noun","th":"ไมโคร; ไมโครคอมพิวเตอร์; ไมโครเวฟ","ex":"I heated my lunch in the micro for two minutes.","exTh":"ฉันอุ่นอาหารกลางวันในไมโครเวฟสองนาที","note":"เป็นคำย่อภาษาพูด ปกติ micro ใช้เป็นคำนำหน้า เช่น microscope"}
+{"id":"outlet_noun","th":"ช่องระบาย; ร้านขาย; ปลั๊กไฟ","ex":"Is there an outlet near the sofa for my phone?","exTh":"ใกล้โซฟามีปลั๊กไฟสำหรับชาร์จโทรศัพท์ไหม","note":"ความหมายปลั๊กไฟเป็นแบบอเมริกัน"}
+{"id":"expectation_noun","th":"ความคาดหวัง; สิ่งที่คาดไว้","ex":"The movie did not meet my expectations.","exTh":"ภาพยนตร์เรื่องนี้ไม่เป็นไปตามที่ฉันคาดหวัง"}
+{"id":"advancement_noun","th":"ความก้าวหน้า; การเลื่อนตำแหน่ง; การพัฒนา","ex":"The company offers good career advancement.","exTh":"บริษัทมีโอกาสก้าวหน้าในอาชีพที่ดี"}
+{"id":"doubtful_adj","th":"สงสัย; ไม่แน่ใจ; น่าสงสัย","ex":"I am doubtful that he will come on time.","exTh":"ฉันไม่แน่ใจว่าเขาจะมาตรงเวลา"}
+{"id":"midst_noun","th":"ท่ามกลาง; ตรงกลาง; ในช่วงที่","ex":"She stayed calm in the midst of the crowd.","exTh":"เธอยังคงสงบท่ามกลางฝูงชน","note":"มักใช้ in the midst of"}
+{"id":"regret_noun","th":"ความเสียใจ; ความเสียดาย; ความรู้สึกผิด","ex":"I have no regrets about my decision.","exTh":"ฉันไม่เสียใจกับการตัดสินใจของฉัน"}
+{"id":"delight_verb","th":"ทำให้ปลื้มใจ; ทำให้ยินดี; ทำให้สนุก","ex":"The magic show delighted the children.","exTh":"การแสดงมายากลทำให้เด็กๆ ปลื้มใจ"}
+{"id":"metric_adj","th":"ตามระบบเมตริก; เกี่ยวกับเมตริก","ex":"Most countries use the metric system.","exTh":"ประเทศส่วนใหญ่ใช้ระบบเมตริก"}
+{"id":"revelation_noun","th":"การเปิดเผย; สิ่งที่ถูกเปิดเผย; เรื่องที่น่าตกใจ","ex":"The news was a revelation to everyone.","exTh":"ข่าวนี้เป็นเรื่องที่ทำให้ทุกคนประหลาดใจ"}
+{"id":"coalition_noun","th":"รัฐบาลผสม; พันธมิตร; กลุ่มร่วม","ex":"Three parties formed a coalition government.","exTh":"สามพรรคร่วมกันจัดตั้งรัฐบาลผสม"}
+{"id":"digest_noun","th":"บทสรุป; ฉบับย่อ; หนังสือรวมเรื่อง","ex":"I read a weekly news digest on my phone.","exTh":"ฉันอ่านสรุปข่าวประจำสัปดาห์ในโทรศัพท์"}
+{"id":"bold_noun","th":"ตัวหนา; ตัวอักษรตัวหนา","ex":"The important words are written in bold.","exTh":"คำสำคัญเขียนด้วยตัวหนา","note":"ใช้เป็นคำนามเมื่อหมายถึงตัวหนา; ส่วนใหญ่ bold เป็นคำคุณศัพท์ แปลว่า กล้าหาญ"}
+{"id":"hang_noun","th":"วิธีใช้; ความเข้าใจ; การห้อยลง","ex":"You'll soon get the hang of this new software.","exTh":"อีกไม่นานคุณก็จะจับทางโปรแกรมใหม่นี้ได้","note":"มักใช้ในสำนวน get the hang of แปลว่า จับทางได้"}
+{"id":"subtle_adj","th":"ละเอียดอ่อน; แนบเนียน; ไม่ชัดเจน","ex":"There is a subtle difference between the two colors.","exTh":"สองสีนี้มีความแตกต่างกันเพียงเล็กน้อยแบบละเอียดอ่อน"}

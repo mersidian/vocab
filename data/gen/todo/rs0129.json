@@ -1,0 +1,802 @@
+[
+{
+"id": "get-fresh_idiom",
+"w": "get fresh",
+"kind": "idiom",
+"gloss": [
+"To flirt."
+]
+},
+{
+"id": "daniel-come-to-judgement_idiom",
+"w": "Daniel come to judgement",
+"kind": "idiom",
+"gloss": [
+"One who wisely settles a difficult matter."
+]
+},
+{
+"id": "go-halfsies_idiom",
+"w": "go halfsies",
+"kind": "idiom",
+"gloss": [
+"To share something by splitting it in half."
+]
+},
+{
+"id": "why-on-earth_idiom",
+"w": "why on Earth",
+"kind": "idiom",
+"gloss": [
+"used to add emphasis to \"why\" when beginning a question."
+]
+},
+{
+"id": "why-in-god-s-name_idiom",
+"w": "why in God's name",
+"kind": "idiom",
+"gloss": [
+"used to add emphasis to \"why\" when beginning question."
+]
+},
+{
+"id": "turn-the-air-blue_idiom",
+"w": "turn the air blue",
+"kind": "idiom",
+"gloss": [
+"To speak a stream of bad language; to curse and swear."
+]
+},
+{
+"id": "move-one-s-body_idiom",
+"w": "move one's body",
+"kind": "idiom",
+"gloss": [
+"To dance."
+]
+},
+{
+"id": "in-one-s-pocket_idiom",
+"w": "in one's pocket",
+"kind": "idiom",
+"gloss": [
+"Subject to one's demands because of bribery."
+]
+},
+{
+"id": "for-all-the-world_idiom",
+"w": "for all the world",
+"kind": "idiom",
+"gloss": [
+"Entirely, to all appearances."
+]
+},
+{
+"id": "good-drunk_idiom",
+"w": "good drunk",
+"kind": "idiom",
+"gloss": [
+"A person who is cheerful and companionable when intoxicated, retaining reasonable control of his or her mental and emotional faculties."
+]
+},
+{
+"id": "for-my-money_idiom",
+"w": "for my money",
+"kind": "idiom",
+"gloss": [
+"In my opinion; as I see it; in all likelihood."
+]
+},
+{
+"id": "good-god_idiom",
+"w": "good God",
+"kind": "idiom",
+"gloss": [
+"Expression of surprise, outrage, or horror."
+]
+},
+{
+"id": "good-enough-for-jazz_idiom",
+"w": "good enough for jazz",
+"kind": "idiom",
+"gloss": [
+"Good enough."
+]
+},
+{
+"id": "tear-up-the-pea-patch_idiom",
+"w": "tear up the pea patch",
+"kind": "idiom",
+"gloss": [
+"To put on a notable performance, especially in sports; to go on a rampage."
+]
+},
+{
+"id": "diplomatic-flu_idiom",
+"w": "diplomatic flu",
+"kind": "idiom",
+"gloss": [
+"An illness feigned by one or more government officials or other public figures as an excuse for an absence really based on political factors."
+]
+},
+{
+"id": "walk-and-chew-gum-at-the-same-time_idiom",
+"w": "walk and chew gum at the same time",
+"kind": "idiom",
+"gloss": [
+"To do two normally trivial tasks at the same time; to exhibit basic competence or task-management skills."
+]
+},
+{
+"id": "hind-tit_idiom",
+"w": "hind tit",
+"kind": "idiom",
+"gloss": [
+"An inferior source of food or other resources."
+]
+},
+{
+"id": "piss-money-up-the-wall_idiom",
+"w": "piss money up the wall",
+"kind": "idiom",
+"gloss": [
+"To waste money, normally through ineptness in business."
+]
+},
+{
+"id": "clout-list_idiom",
+"w": "clout list",
+"kind": "idiom",
+"gloss": [
+"A usually secret list containing the names of people who are to be given special access, benefits, or influence in a political or social situation, especially as a result of having personal, professional, or financial relationships with those in authority."
+]
+},
+{
+"id": "goodness-gracious-me_idiom",
+"w": "goodness gracious me",
+"kind": "idiom",
+"gloss": [
+"Suggestive of stereotypical portrayals of Indians in British media."
+]
+},
+{
+"id": "whisper-campaign_idiom",
+"w": "whisper campaign",
+"kind": "idiom",
+"gloss": [
+"A method of persuasion in which damaging rumors or innuendo are deliberately spread concerning a person or other target, while the source of the rumors tries to avoid detection."
+]
+},
+{
+"id": "carry-someone-s-water_idiom",
+"w": "carry someone's water",
+"kind": "idiom",
+"gloss": [
+"To do someone's bidding; to serve someone's interests."
+]
+},
+{
+"id": "watch-the-world-go-by_idiom",
+"w": "watch the world go by",
+"kind": "idiom",
+"gloss": [
+"To pause and remain still whilst doing nothing but surveying the environment around oneself."
+]
+},
+{
+"id": "the-rabbit-died_idiom",
+"w": "the rabbit died",
+"kind": "idiom",
+"gloss": [
+"Indicates one's own pregnancy, or that someone has found out they are pregnant."
+]
+},
+{
+"id": "sell-down-the-river_idiom",
+"w": "sell down the river",
+"kind": "idiom",
+"gloss": [
+"To betray, especially in a manner which causes serious difficulty for the one betrayed."
+]
+},
+{
+"id": "fruit-of-one-s-loins_idiom",
+"w": "fruit of one's loins",
+"kind": "idiom",
+"gloss": [
+"One's child or, collectively, one's children or descendants."
+]
+},
+{
+"id": "sell-someone-a-bill-of-goods_idiom",
+"w": "sell someone a bill of goods",
+"kind": "idiom",
+"gloss": [
+"To deceive or cheat someone."
+]
+},
+{
+"id": "legend-in-one-s-own-lunchtime_idiom",
+"w": "legend in one's own lunchtime",
+"kind": "idiom",
+"gloss": [
+"One whose fame is insignificant, fleeting or imaginary."
+]
+},
+{
+"id": "in-the-thick-of_idiom",
+"w": "in the thick of",
+"kind": "idiom",
+"gloss": [
+"In the middle of (something difficult)."
+]
+},
+{
+"id": "wrap-in-the-flag_idiom",
+"w": "wrap in the flag",
+"kind": "idiom",
+"gloss": [
+"To claim as deserving support for patriotic reasons."
+]
+},
+{
+"id": "never-you-mind_idiom",
+"w": "never you mind",
+"kind": "idiom",
+"gloss": [
+"Do not concern yourself with it; it is none of your business."
+]
+},
+{
+"id": "tell-you-the-truth_idiom",
+"w": "tell you the truth",
+"kind": "idiom",
+"gloss": [
+"Used to positively assert the frank honesty of an associated statement of set of statements; equivalent to \"to you tell the truth\"."
+]
+},
+{
+"id": "carved-in-stone_idiom",
+"w": "carved in stone",
+"kind": "idiom",
+"gloss": [
+"Unchangeable."
+]
+},
+{
+"id": "made-in-the-shade_idiom",
+"w": "made in the shade",
+"kind": "idiom",
+"gloss": [
+"In a condition characterized by comfort, success, easy living, or general well-being."
+]
+},
+{
+"id": "skin-in-the-game_idiom",
+"w": "skin in the game",
+"kind": "idiom",
+"gloss": [
+"A stake; something at risk, especially with regard to money and investments."
+]
+},
+{
+"id": "better-than-sex_idiom",
+"w": "better than sex",
+"kind": "idiom",
+"gloss": [
+"Superlative; wonderful."
+]
+},
+{
+"id": "on-an-irregular-basis_idiom",
+"w": "on an irregular basis",
+"kind": "idiom",
+"gloss": [
+"Irregularly, occurring in irregular time intervals or patterns."
+]
+},
+{
+"id": "factor-space_idiom",
+"w": "factor space",
+"kind": "idiom",
+"gloss": [
+"A space obtained from another by identification of points that are equivalent to one another in some equivalence relation."
+]
+},
+{
+"id": "mouth-of-a-sailor_idiom",
+"w": "mouth of a sailor",
+"kind": "idiom",
+"gloss": [
+"The characteristic of regularly using vulgar language, especially strong profanities; a person having this characteristic."
+]
+},
+{
+"id": "prop-up-the-bar_idiom",
+"w": "prop up the bar",
+"kind": "idiom",
+"gloss": [
+"To spend time drinking alcohol at the bar in a pub."
+]
+},
+{
+"id": "mess-of-pottage_idiom",
+"w": "mess of pottage",
+"kind": "idiom",
+"gloss": [
+"Something of trivial value, especially of immediate value."
+]
+},
+{
+"id": "read-lips_idiom",
+"w": "read lips",
+"kind": "idiom",
+"gloss": [
+"To lipread."
+]
+},
+{
+"id": "down-the-tubes_idiom",
+"w": "down the tubes",
+"kind": "idiom",
+"gloss": [
+"Synonym of down the toilet: wasted; irretrievable."
+]
+},
+{
+"id": "carry-a-torch_idiom",
+"w": "carry a torch",
+"kind": "idiom",
+"gloss": [
+"To love or to be romantically infatuated with, especially when such feelings are not reciprocated."
+]
+},
+{
+"id": "smell-like-a-rose_idiom",
+"w": "smell like a rose",
+"kind": "idiom",
+"gloss": [
+"To be regarded as appealing, virtuous, or respectable; to be untainted or unharmed."
+]
+},
+{
+"id": "fall-on-one-s-face_idiom",
+"w": "fall on one's face",
+"kind": "idiom",
+"gloss": [
+"To fail, especially in a dramatic or particularly decisive manner."
+]
+},
+{
+"id": "a-little-bit-of-bread-and-no-cheese_idiom",
+"w": "a little bit of bread and no cheese",
+"kind": "idiom",
+"gloss": [
+"Used to represent the song of the yellowhammer (Emberiza citrinella)."
+]
+},
+{
+"id": "rumor-campaign_idiom",
+"w": "rumor campaign",
+"kind": "idiom",
+"gloss": [
+"A method of persuasion in which damaging rumors or innuendo are deliberately spread concerning a person or other target, while the source of the rumors tries to avoid detection."
+]
+},
+{
+"id": "few-cards-shy-of-a-full-deck_idiom",
+"w": "few cards shy of a full deck",
+"kind": "idiom",
+"gloss": [
+"Mentally deranged; demented; insane."
+]
+},
+{
+"id": "rediscover-fire_idiom",
+"w": "rediscover fire",
+"kind": "idiom",
+"gloss": [
+"To relearn fundamental concepts, principles or practices that had been previously well known and widely practiced at a prior time in human society."
+]
+},
+{
+"id": "all-fingers-and-thumbs_idiom",
+"w": "all fingers and thumbs",
+"kind": "idiom",
+"gloss": [
+"Of a person, clumsy or awkward."
+]
+},
+{
+"id": "banker-s-dozen_idiom",
+"w": "banker's dozen",
+"kind": "idiom",
+"gloss": [
+"Eleven."
+]
+},
+{
+"id": "as-the-day-is-long_idiom",
+"w": "as the day is long",
+"kind": "idiom",
+"gloss": [
+"Unceasingly; very; thoroughly; to a very high degree."
+]
+},
+{
+"id": "let-the-perfect-be-the-enemy-of-the-good_idiom",
+"w": "let the perfect be the enemy of the good",
+"kind": "idiom",
+"gloss": [
+"To insist on the total realization of a goal and reject any compromise, thereby decreasing the chance of achieving even a part of that goal."
+]
+},
+{
+"id": "in-one-s-dreams_idiom",
+"w": "in one's dreams",
+"kind": "idiom",
+"gloss": [
+"Used to express the speaker's belief that a preceding statement expressed a desired rather than an actual state of affairs."
+]
+},
+{
+"id": "rake-over-the-coals_idiom",
+"w": "rake over the coals",
+"kind": "idiom",
+"gloss": [
+"To call to task or to reprimand severely."
+]
+},
+{
+"id": "cow-juice_idiom",
+"w": "cow juice",
+"kind": "idiom",
+"gloss": [
+"Cow’s milk."
+]
+},
+{
+"id": "body-english_idiom",
+"w": "body English",
+"kind": "idiom",
+"gloss": [
+"A body motion made to coax an object already propelled to go in a desired direction."
+]
+},
+{
+"id": "flog-the-log_idiom",
+"w": "flog the log",
+"kind": "idiom",
+"gloss": [
+"To masturbate by stimulating one's penis."
+]
+},
+{
+"id": "on-the-toss-of-a-coin_idiom",
+"w": "on the toss of a coin",
+"kind": "idiom",
+"gloss": [
+"Left to pure chance; based on a flippant metric."
+]
+},
+{
+"id": "dress-to-kill_idiom",
+"w": "dress to kill",
+"kind": "idiom",
+"gloss": [
+"To dress up so as to impress others (especially of the opposite sex)."
+]
+},
+{
+"id": "keep-one-s-nose-clean_idiom",
+"w": "keep one's nose clean",
+"kind": "idiom",
+"gloss": [
+"To stay out of trouble, especially by avoiding unlawful behavior."
+]
+},
+{
+"id": "benevolent-overlord_idiom",
+"w": "benevolent overlord",
+"kind": "idiom",
+"gloss": [
+"A person in a position of power who does not act tyrannically."
+]
+},
+{
+"id": "blot-on-the-escutcheon_idiom",
+"w": "blot on the escutcheon",
+"kind": "idiom",
+"gloss": [
+"Something damaging to one's reputation."
+]
+},
+{
+"id": "don-t-call-us-we-ll-call-you_idiom",
+"w": "don't call us, we'll call you",
+"kind": "idiom",
+"gloss": [
+"A stereotypical statement from a hiring organization to a potential candidate, suggesting that the candidate will not be hired."
+]
+},
+{
+"id": "loom-large_idiom",
+"w": "loom large",
+"kind": "idiom",
+"gloss": [
+"To have a great deal of importance, presence, power, or sway; to be of great significance or concern, especially when posing a likely threat or danger."
+]
+},
+{
+"id": "make-a-break-for-it_idiom",
+"w": "make a break for it",
+"kind": "idiom",
+"gloss": [
+"To attempt to escape; to flee; to run away."
+]
+},
+{
+"id": "six-and-two-threes_idiom",
+"w": "six and two threes",
+"kind": "idiom",
+"gloss": [
+"Two equivalent choices or situations."
+]
+},
+{
+"id": "have-one-s-hand-out_idiom",
+"w": "have one's hand out",
+"kind": "idiom",
+"gloss": [
+"To request benefits, especially monetary ones and especially if not entitled to them."
+]
+},
+{
+"id": "in-the-hopper_idiom",
+"w": "in the hopper",
+"kind": "idiom",
+"gloss": [
+"In the process of being prepared or produced."
+]
+},
+{
+"id": "what-did-your-last-slave-die-of_idiom",
+"w": "what did your last slave die of",
+"kind": "idiom",
+"gloss": [
+"Used to indicate that someone is being unreasonably bossy and demanding."
+]
+},
+{
+"id": "old-flame_idiom",
+"w": "old flame",
+"kind": "idiom",
+"gloss": [
+"A previous boyfriend or girlfriend; a former romantic or sexual partner, especially one for whom one still has romantic feelings."
+]
+},
+{
+"id": "floppy-infant-syndrome_idiom",
+"w": "floppy infant syndrome",
+"kind": "idiom",
+"gloss": [
+"Hypotonia."
+]
+},
+{
+"id": "give-what-for_idiom",
+"w": "give what for",
+"kind": "idiom",
+"gloss": [
+"To scold; to punish, especially verbally."
+]
+},
+{
+"id": "granny-dumping_idiom",
+"w": "granny dumping",
+"kind": "idiom",
+"gloss": [
+"The abandonment of an elderly relative in a public place, e.g. a hospital."
+]
+},
+{
+"id": "good-sense_idiom",
+"w": "good sense",
+"kind": "idiom",
+"gloss": [
+"Common sense; sensibleness."
+]
+},
+{
+"id": "get-to-one-s-feet_idiom",
+"w": "get to one's feet",
+"kind": "idiom",
+"gloss": [
+"To stand up."
+]
+},
+{
+"id": "shed-light-upon_idiom",
+"w": "shed light upon",
+"kind": "idiom",
+"gloss": [
+"Illuminate to the understanding; make intelligible; clarify or explain (something unknown)."
+]
+},
+{
+"id": "off-one-s-trolley_idiom",
+"w": "off one's trolley",
+"kind": "idiom",
+"gloss": [
+"Having gone mad; insane."
+]
+},
+{
+"id": "blame-game_idiom",
+"w": "blame game",
+"kind": "idiom",
+"gloss": [
+"A situation in which people attempt to blame others rather than trying to resolve a problem."
+]
+},
+{
+"id": "any-old-thing_idiom",
+"w": "any old thing",
+"kind": "idiom",
+"gloss": [
+"anything at all"
+]
+},
+{
+"id": "put-one-s-ass-on-the-line_idiom",
+"w": "put one's ass on the line",
+"kind": "idiom",
+"gloss": [
+"To take a big risk."
+]
+},
+{
+"id": "piece-of-crap_idiom",
+"w": "piece of crap",
+"kind": "idiom",
+"gloss": [
+"Synonym of piece of shit."
+]
+},
+{
+"id": "six-of-the-best_idiom",
+"w": "six of the best",
+"kind": "idiom",
+"gloss": [
+"Six strokes with a cane, a traditional school punishment."
+]
+},
+{
+"id": "a-good-deal_idiom",
+"w": "a good deal",
+"kind": "idiom",
+"gloss": [
+"Very much; to a great extent; a lot; lots."
+]
+},
+{
+"id": "paint-the-wagon_idiom",
+"w": "paint the wagon",
+"kind": "idiom",
+"gloss": [
+"To get things done."
+]
+},
+{
+"id": "at-long-last_idiom",
+"w": "at long last",
+"kind": "idiom",
+"gloss": [
+"At last."
+]
+},
+{
+"id": "keys-to-the-kingdom_idiom",
+"w": "keys to the kingdom",
+"kind": "idiom",
+"gloss": [
+"A resource, usually information or knowledge, the possession of which gives the possessor access to power."
+]
+},
+{
+"id": "use-one-s-noggin_idiom",
+"w": "use one's noggin",
+"kind": "idiom",
+"gloss": [
+"To think, especially in a careful or clever manner."
+]
+},
+{
+"id": "up-someone-s-street_idiom",
+"w": "up someone's street",
+"kind": "idiom",
+"gloss": [
+"Perfectly suitable to someone; matching someone's interests and abilities."
+]
+},
+{
+"id": "on-a-losing-wicket_idiom",
+"w": "on a losing wicket",
+"kind": "idiom",
+"gloss": [
+"in a no-win situation."
+]
+},
+{
+"id": "go-to-the-ends-of-the-earth_idiom",
+"w": "go to the ends of the earth",
+"kind": "idiom",
+"gloss": [
+"To do everything possible to achieve something."
+]
+},
+{
+"id": "and-crap_idiom",
+"w": "and crap",
+"kind": "idiom",
+"gloss": [
+"Synonym of and shit."
+]
+},
+{
+"id": "drop-off-the-radar_idiom",
+"w": "drop off the radar",
+"kind": "idiom",
+"gloss": [
+"To vanish or fall into obscurity; to become forgotten or ignored."
+]
+},
+{
+"id": "take-something-as-read_idiom",
+"w": "take something as read",
+"kind": "idiom",
+"gloss": [
+"To assume that everyone agrees that something is correct."
+]
+},
+{
+"id": "up-one-s-own-ass_idiom",
+"w": "up one's own ass",
+"kind": "idiom",
+"gloss": [
+"Having an excessively high opinion of oneself, excessively preoccupied with one's own affairs, or lost in self-regarding abstraction."
+]
+},
+{
+"id": "queer-bashing_idiom",
+"w": "queer bashing",
+"kind": "idiom",
+"gloss": [
+"Prejudice or violence against queer people."
+]
+},
+{
+"id": "live-a-lie_idiom",
+"w": "live a lie",
+"kind": "idiom",
+"gloss": [
+"To conceal something about oneself, without the knowledge of which others cannot know one's true character or perspective."
+]
+},
+{
+"id": "punch-below-one-s-weight_idiom",
+"w": "punch below one's weight",
+"kind": "idiom",
+"gloss": [
+"To achieve or perform at a level lower than should be expected based on one's preparation, attributes, rank, or past accomplishments."
+]
+},
+{
+"id": "keep-a-cool-head_idiom",
+"w": "keep a cool head",
+"kind": "idiom",
+"gloss": [
+"To keep one's cool; to stay calm."
+]
+}
+]

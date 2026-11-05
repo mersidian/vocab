@@ -1,0 +1,602 @@
+[
+{
+"id": "meaning_noun",
+"w": "meaning",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "lot_noun",
+"w": "lot",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "behavior_noun",
+"w": "behavior",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "police_noun",
+"w": "police",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "nation_noun",
+"w": "nation",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "separate_adj",
+"w": "separate",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "educational_adj",
+"w": "educational",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "follow_verb",
+"w": "follow",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "sample_noun",
+"w": "sample",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "strength_noun",
+"w": "strength",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "professional_adj",
+"w": "professional",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "ability_noun",
+"w": "ability",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "request_noun",
+"w": "request",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "impact_noun",
+"w": "impact",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "cover_verb",
+"w": "cover",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "official_adj",
+"w": "official",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "daily_adj",
+"w": "daily",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "daily_adv",
+"w": "daily",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "lake_noun",
+"w": "lake",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "forward_adv",
+"w": "forward",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "receive_verb",
+"w": "receive",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "description_noun",
+"w": "description",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "success_noun",
+"w": "success",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "effort_noun",
+"w": "effort",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "scientific_adj",
+"w": "scientific",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "park_verb",
+"w": "park",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "fully_adv",
+"w": "fully",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "develop_verb",
+"w": "develop",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "certainly_adv",
+"w": "certainly",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "metal_noun",
+"w": "metal",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "allow_verb",
+"w": "allow",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "lack_noun",
+"w": "lack",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "forest_noun",
+"w": "forest",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "try_verb",
+"w": "try",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "recently_adv",
+"w": "recently",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "gold_noun",
+"w": "gold",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "stand_verb",
+"w": "stand",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "offer_noun",
+"w": "offer",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "offer_verb",
+"w": "offer",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "budget_noun",
+"w": "budget",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "truth_noun",
+"w": "truth",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "communication_noun",
+"w": "communication",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "inside_adv",
+"w": "inside",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "speed_noun",
+"w": "speed",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "serve_verb",
+"w": "serve",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "remain_verb",
+"w": "remain",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "wood_noun",
+"w": "wood",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "expression_noun",
+"w": "expression",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "agent_noun",
+"w": "agent",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "round_adv",
+"w": "round",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "pass_noun",
+"w": "pass",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "pass_verb",
+"w": "pass",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "useful_adj",
+"w": "useful",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "easily_adv",
+"w": "easily",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "choice_noun",
+"w": "choice",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "regular_adj",
+"w": "regular",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "image_noun",
+"w": "image",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "dead_adj",
+"w": "dead",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "attempt_noun",
+"w": "attempt",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "error_noun",
+"w": "error",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "assistant_adj",
+"w": "assistant",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "doubt_noun",
+"w": "doubt",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "task_noun",
+"w": "task",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "drug_noun",
+"w": "drug",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "mark_noun",
+"w": "mark",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "mark_verb",
+"w": "mark",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "film_noun",
+"w": "film",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "manager_noun",
+"w": "manager",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "create_verb",
+"w": "create",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "summary_noun",
+"w": "summary",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "prevent_verb",
+"w": "prevent",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "thousand_num",
+"w": "thousand",
+"pos": "num",
+"lvl": "A2"
+},
+{
+"id": "exercise_noun",
+"w": "exercise",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "square_adj",
+"w": "square",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "square_noun",
+"w": "square",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "myself_pron",
+"w": "myself",
+"pos": "pron",
+"lvl": "A2"
+},
+{
+"id": "freedom_noun",
+"w": "freedom",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "copy_verb",
+"w": "copy",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "whatever_det",
+"w": "whatever",
+"pos": "det",
+"lvl": "A2"
+},
+{
+"id": "dry_verb",
+"w": "dry",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "negative_adj",
+"w": "negative",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "rock_noun",
+"w": "rock",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "indicate_verb",
+"w": "indicate",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "branch_noun",
+"w": "branch",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "telephone_verb",
+"w": "telephone",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "wish_verb",
+"w": "wish",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "establish_verb",
+"w": "establish",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "double_adj",
+"w": "double",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "cash_noun",
+"w": "cash",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "coast_noun",
+"w": "coast",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "context_noun",
+"w": "context",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "running_noun",
+"w": "running",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "check_verb",
+"w": "check",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "female_adj",
+"w": "female",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "herself_pron",
+"w": "herself",
+"pos": "pron",
+"lvl": "A2"
+},
+{
+"id": "popular_adj",
+"w": "popular",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "traffic_noun",
+"w": "traffic",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "male_noun",
+"w": "male",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "traditional_adj",
+"w": "traditional",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "concern_noun",
+"w": "concern",
+"pos": "noun",
+"lvl": "A2"
+}
+]

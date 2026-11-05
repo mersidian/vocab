@@ -1,0 +1,100 @@
+{"id":"download_verb","th":"ดาวน์โหลด","ex":"I downloaded the app to my phone.","exTh":"ฉันดาวน์โหลดแอปลงมือถือแล้ว"}
+{"id":"wheelchair_noun","th":"รถเข็นคนพิการ; วีลแชร์","ex":"The building has a ramp for wheelchairs.","exTh":"อาคารนี้มีทางลาดสำหรับรถเข็นวีลแชร์"}
+{"id":"pasta_noun","th":"พาสต้า; เส้นพาสต้า","ex":"We had pasta with tomato sauce.","exTh":"เรากินพาสต้าราดซอสมะเขือเทศ"}
+{"id":"mushroom_noun","th":"เห็ด","ex":"She added mushrooms to the soup.","exTh":"เธอใส่เห็ดลงในซุป"}
+{"id":"rumor_noun","th":"ข่าวลือ; ข่าวเล่าลือ","ex":"There is a rumor that the shop will close.","exTh":"มีข่าวลือว่าร้านจะปิด","note":"สะกดแบบอังกฤษคือ rumour"}
+{"id":"sweetheart_noun","th":"ที่รัก; คนรัก","ex":"Goodnight, sweetheart. Sleep well.","exTh":"ราตรีสวัสดิ์นะที่รัก หลับฝันดี"}
+{"id":"annoying_adj","th":"น่ารำคาญ; กวนใจ","ex":"The noise from the road is so annoying.","exTh":"เสียงจากถนนน่ารำคาญมาก"}
+{"id":"rap_noun","th":"แร็พ; เพลงแร็พ","ex":"He listens to rap on his way to work.","exTh":"เขาฟังเพลงแร็พระหว่างเดินทางไปทำงาน"}
+{"id":"teenager_noun","th":"วัยรุ่น","ex":"My sister is a teenager now.","exTh":"ตอนนี้น้องสาวของฉันเป็นวัยรุ่นแล้ว"}
+{"id":"cafeteria_noun","th":"โรงอาหาร; ร้านอาหารบริการตนเอง","ex":"We eat lunch in the school cafeteria.","exTh":"เรากินข้าวเที่ยงที่โรงอาหารของโรงเรียน"}
+{"id":"skiing_noun","th":"การเล่นสกี","ex":"Skiing is popular in the winter.","exTh":"การเล่นสกีเป็นที่นิยมในฤดูหนาว"}
+{"id":"surname_noun","th":"นามสกุล","ex":"Please write your surname here.","exTh":"กรุณาเขียนนามสกุลของคุณที่นี่"}
+{"id":"hike_noun","th":"การเดินป่า; การเดินเขา","ex":"We went on a long hike on Sunday.","exTh":"วันอาทิตย์เราไปเดินป่าระยะไกล"}
+{"id":"pence_noun","th":"เพนนี (หน่วยเงินอังกฤษ พหูพจน์)","ex":"The apple costs fifty pence.","exTh":"แอปเปิลลูกนี้ราคาห้าสิบเพนนี","note":"พหูพจน์ของ penny ใช้กับเงินปอนด์อังกฤษ"}
+{"id":"luckily_adv","th":"โชคดี; โชคดีที่","ex":"Luckily, I had an umbrella with me.","exTh":"โชคดีที่ฉันพกร่มมาด้วย"}
+{"id":"snack_noun","th":"ขนม; อาหารว่าง","ex":"I eat a small snack at four o'clock.","exTh":"ฉันกินขนมเล็กน้อยตอนสี่โมงเย็น"}
+{"id":"splash_verb","th":"สาด; กระเซ็น; ลุยน้ำ","ex":"The children splashed in the pool.","exTh":"เด็กๆ เล่นสาดน้ำกันในสระ"}
+{"id":"granddaughter_noun","th":"หลานสาว","ex":"Her granddaughter visits her every week.","exTh":"หลานสาวของเธอมาเยี่ยมทุกสัปดาห์"}
+{"id":"stair_noun","th":"บันได; ขั้นบันได","ex":"She sat on the bottom stair.","exTh":"เธอนั่งอยู่ที่ขั้นบันไดล่างสุด","note":"มักใช้รูปพหูพจน์ stairs"}
+{"id":"dishonest_adj","th":"ไม่ซื่อสัตย์; โกง","ex":"It is dishonest to lie to your friends.","exTh":"การโกหกเพื่อนเป็นการไม่ซื่อสัตย์"}
+{"id":"cupboard_noun","th":"ตู้เก็บของ; ตู้ในครัว","ex":"The plates are in the kitchen cupboard.","exTh":"จานอยู่ในตู้ในครัว"}
+{"id":"hey_interj","th":"เฮ้; นี่; ว่าไง","ex":"Hey, wait for me!","exTh":"เฮ้ รอฉันด้วย","note":"ภาษาพูด ไม่เป็นทางการ"}
+{"id":"wallet_noun","th":"กระเป๋าสตางค์","ex":"I left my wallet at home.","exTh":"ฉันลืมกระเป๋าสตางค์ไว้ที่บ้าน"}
+{"id":"mug_noun","th":"แก้วมัค; ถ้วยมีหู","ex":"He drank tea from a big mug.","exTh":"เขาดื่มชาจากแก้วมัคใบใหญ่"}
+{"id":"clone_verb","th":"โคลน; ทำซ้ำให้เหมือนเดิม; ก๊อบปี้","ex":"Scientists cloned a sheep in 1996.","exTh":"นักวิทยาศาสตร์โคลนแกะได้ในปี 1996"}
+{"id":"rugby_noun","th":"รักบี้","ex":"My brother plays rugby on Saturdays.","exTh":"พี่ชายของฉันเล่นรักบี้ทุกวันเสาร์"}
+{"id":"carrot_noun","th":"แครอท","ex":"Rabbits love to eat carrots.","exTh":"กระต่ายชอบกินแครอท"}
+{"id":"suitcase_noun","th":"กระเป๋าเดินทาง","ex":"My suitcase is too heavy to lift.","exTh":"กระเป๋าเดินทางของฉันหนักเกินกว่าจะยก"}
+{"id":"timetable_noun","th":"ตารางเวลา; ตารางสอน","ex":"Check the bus timetable before you go.","exTh":"ดูตารางเวลารถเมล์ก่อนออกไป"}
+{"id":"sweater_noun","th":"เสื้อสเวตเตอร์; เสื้อกันหนาวไหมพรม","ex":"Put on a sweater. It is cold.","exTh":"ใส่เสื้อสเวตเตอร์เถอะ อากาศหนาว"}
+{"id":"scarf_noun","th":"ผ้าพันคอ","ex":"She wore a red scarf in winter.","exTh":"เธอพันผ้าพันคอสีแดงในฤดูหนาว"}
+{"id":"overweight_adj","th":"น้ำหนักเกิน; อ้วนเกินไป","ex":"The doctor said he is slightly overweight.","exTh":"หมอบอกว่าเขาน้ำหนักเกินเล็กน้อย"}
+{"id":"sunflower_noun","th":"ดอกทานตะวัน","ex":"A sunflower grew tall in our garden.","exTh":"ดอกทานตะวันต้นหนึ่งโตสูงในสวนของเรา"}
+{"id":"playful_adj","th":"ขี้เล่น; ซุกซน","ex":"The puppy is very playful.","exTh":"ลูกสุนัขตัวนี้ขี้เล่นมาก"}
+{"id":"alright_adj","th":"ไม่เป็นไร; โอเค; สบายดี","ex":"Are you alright after the fall?","exTh":"คุณโอเคไหมหลังจากล้มลงไป","note":"ภาษาพูด ทางการนิยมเขียน all right"}
+{"id":"alright_adv","th":"ได้ดี; พอใช้ได้; เรียบร้อย","ex":"The meeting went alright in the end.","exTh":"สุดท้ายการประชุมก็ผ่านไปด้วยดี","note":"ภาษาพูด ทางการนิยมเขียน all right"}
+{"id":"midday_noun","th":"เที่ยงวัน; เวลาเที่ยง","ex":"It is very hot at midday.","exTh":"ตอนเที่ยงวันอากาศร้อนมาก"}
+{"id":"thirsty_adj","th":"กระหายน้ำ; หิวน้ำ","ex":"I am thirsty. Can I have some water?","exTh":"ฉันกระหายน้ำ ขอน้ำหน่อยได้ไหม"}
+{"id":"sew_verb","th":"เย็บ; ปัก","ex":"My grandmother sews her own clothes.","exTh":"คุณยายของฉันเย็บเสื้อผ้าใส่เอง","note":"อ่านว่า โซ รูปผัน sewed, sewn"}
+{"id":"skating_noun","th":"การเล่นสเก็ต","ex":"We go skating on the ice every winter.","exTh":"เราไปเล่นสเก็ตน้ำแข็งทุกฤดูหนาว"}
+{"id":"dizzy_adj","th":"เวียนหัว; มึนหัว","ex":"I feel dizzy when I stand up fast.","exTh":"ฉันรู้สึกเวียนหัวเวลาลุกขึ้นเร็วๆ"}
+{"id":"centimeter_noun","th":"เซนติเมตร","ex":"The table is ninety centimeters high.","exTh":"โต๊ะสูงเก้าสิบเซนติเมตร","note":"อังกฤษแบบอังกฤษสะกด centimetre"}
+{"id":"clown_noun","th":"ตัวตลก; ตัวแสดงตลกในละครสัตว์","ex":"The clown made the children laugh.","exTh":"ตัวตลกทำให้เด็กๆ หัวเราะ"}
+{"id":"beginner_noun","th":"ผู้เริ่มต้น; มือใหม่","ex":"This English class is for beginners.","exTh":"ชั้นเรียนภาษาอังกฤษนี้สำหรับผู้เริ่มต้น"}
+{"id":"chili_noun","th":"พริก; พริกขี้หนู","ex":"This soup has too much chili.","exTh":"ซุปนี้ใส่พริกมากเกินไป","note":"อังกฤษแบบอังกฤษสะกด chilli"}
+{"id":"tidy_adj","th":"เป็นระเบียบ; เรียบร้อย","ex":"Her room is always clean and tidy.","exTh":"ห้องของเธอสะอาดและเป็นระเบียบเสมอ"}
+{"id":"tidy_verb","th":"จัดให้เรียบร้อย; เก็บกวาด","ex":"Please tidy your room before dinner.","exTh":"กรุณาเก็บห้องให้เรียบร้อยก่อนมื้อเย็น"}
+{"id":"bra_noun","th":"ยกทรง; ชุดชั้นในหญิง","ex":"She bought a new bra at the shop.","exTh":"เธอซื้อยกทรงตัวใหม่ที่ร้าน","note":"ย่อมาจาก brassiere"}
+{"id":"quiz_noun","th":"แบบทดสอบสั้นๆ; ปัญหาเชาวน์","ex":"We had a quiz in class today.","exTh":"วันนี้เรามีแบบทดสอบสั้นๆ ในห้องเรียน"}
+{"id":"tram_noun","th":"รถราง","ex":"I take the tram to the city center.","exTh":"ฉันนั่งรถรางเข้าไปใจกลางเมือง"}
+{"id":"frighten_verb","th":"ทำให้กลัว; ขู่ให้ตกใจ","ex":"The loud noise frightened the cat.","exTh":"เสียงดังทำให้แมวตกใจกลัว"}
+{"id":"kilogram_noun","th":"กิโลกรัม","ex":"I bought one kilogram of rice.","exTh":"ฉันซื้อข้าวสารหนึ่งกิโลกรัม"}
+{"id":"recycle_verb","th":"รีไซเคิล; นำกลับมาใช้ใหม่","ex":"We recycle paper and plastic bottles.","exTh":"เรารีไซเคิลกระดาษและขวดพลาสติก"}
+{"id":"windy_adj","th":"ลมแรง; มีลมมาก","ex":"It is cold and windy today.","exTh":"วันนี้อากาศหนาวและลมแรง"}
+{"id":"seaside_noun","th":"ชายทะเล; ริมทะเล","ex":"We spent the weekend at the seaside.","exTh":"เราใช้เวลาสุดสัปดาห์ที่ริมทะเล"}
+{"id":"flea_noun","th":"หมัด","ex":"The dog has fleas on its back.","exTh":"สุนัขมีหมัดอยู่ที่หลัง"}
+{"id":"armchair_noun","th":"เก้าอี้นวม; เก้าอี้มีที่วางแขน","ex":"Grandpa is asleep in his armchair.","exTh":"คุณปู่นอนหลับอยู่บนเก้าอี้นวม"}
+{"id":"granny_noun","th":"คุณยาย; คุณย่า","ex":"I visit my granny every Sunday.","exTh":"ฉันไปเยี่ยมคุณยายทุกวันอาทิตย์","note":"คำเรียกแบบสนิทสนม"}
+{"id":"blackboard_noun","th":"กระดานดำ","ex":"The teacher wrote a word on the blackboard.","exTh":"ครูเขียนคำศัพท์หนึ่งคำบนกระดานดำ"}
+{"id":"napkin_noun","th":"ผ้าเช็ดปาก; กระดาษเช็ดปาก","ex":"Put the napkin on your lap.","exTh":"วางผ้าเช็ดปากไว้บนตัก"}
+{"id":"yeah_adv","th":"ใช่; อืม; ครับ/ค่ะ (ไม่เป็นทางการ)","ex":"Yeah, I think that is a good idea.","exTh":"อืม ฉันว่านั่นเป็นความคิดที่ดีนะ","note":"ภาษาพูด ไม่เป็นทางการ"}
+{"id":"fridge_noun","th":"ตู้เย็น","ex":"There is some milk in the fridge.","exTh":"มีนมอยู่ในตู้เย็น","note":"ภาษาพูด ย่อมาจาก refrigerator"}
+{"id":"grilled_adj","th":"ย่าง; ปิ้ง","ex":"I ordered grilled fish and rice.","exTh":"ฉันสั่งปลาย่างกับข้าว"}
+{"id":"racket_noun","th":"ไม้เทนนิส; ไม้แบดมินตัน; เสียงอึกทึก","ex":"He bought a new tennis racket.","exTh":"เขาซื้อไม้เทนนิสอันใหม่"}
+{"id":"guidebook_noun","th":"หนังสือคู่มือท่องเที่ยว","ex":"I read a guidebook before the trip.","exTh":"ฉันอ่านหนังสือคู่มือท่องเที่ยวก่อนไปเที่ยว"}
+{"id":"barbecue_noun","th":"บาร์บีคิว; งานปิ้งย่าง","ex":"We had a barbecue in the garden.","exTh":"เรามีงานปิ้งย่างในสวน"}
+{"id":"receptionist_noun","th":"พนักงานต้อนรับ","ex":"The receptionist answered the phone politely.","exTh":"พนักงานต้อนรับรับโทรศัพท์อย่างสุภาพ"}
+{"id":"spaghetti_noun","th":"สปาเก็ตตี้","ex":"We had spaghetti for lunch.","exTh":"เรากินสปาเก็ตตี้เป็นมื้อเที่ยง"}
+{"id":"kilometer_noun","th":"กิโลเมตร","ex":"The school is two kilometers from here.","exTh":"โรงเรียนอยู่ห่างจากที่นี่สองกิโลเมตร","note":"อังกฤษแบบอังกฤษสะกด kilometre"}
+{"id":"melon_noun","th":"แตงโม; เมลอน","ex":"The melon was sweet and cold.","exTh":"เมลอนหวานและเย็นฉ่ำ"}
+{"id":"sunglasses_noun","th":"แว่นกันแดด","ex":"I need my sunglasses in this bright sun.","exTh":"แดดจ้าแบบนี้ฉันต้องใช้แว่นกันแดด","note":"ใช้รูปพหูพจน์เสมอ"}
+{"id":"thunderstorm_noun","th":"พายุฝนฟ้าคะนอง","ex":"A thunderstorm is coming this evening.","exTh":"เย็นนี้จะมีพายุฝนฟ้าคะนอง"}
+{"id":"cooker_noun","th":"เตาประกอบอาหาร; หม้อหุงต้ม","ex":"She turned on the gas cooker.","exTh":"เธอเปิดเตาแก๊ส","note":"ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"dinosaur_noun","th":"ไดโนเสาร์","ex":"My son loves books about dinosaurs.","exTh":"ลูกชายของฉันชอบหนังสือเกี่ยวกับไดโนเสาร์"}
+{"id":"bookshop_noun","th":"ร้านหนังสือ","ex":"I bought this novel at the bookshop.","exTh":"ฉันซื้อนิยายเล่มนี้จากร้านหนังสือ","note":"ภาษาอังกฤษแบบอังกฤษ อเมริกันนิยม bookstore"}
+{"id":"sightseeing_noun","th":"การเที่ยวชมสถานที่; การท่องเที่ยว","ex":"We went sightseeing in the old city.","exTh":"เราไปเที่ยวชมสถานที่ในเมืองเก่า"}
+{"id":"kilo_noun","th":"กิโล; กิโลกรัม","ex":"Two kilos of apples, please.","exTh":"ขอแอปเปิลสองกิโล","note":"ย่อมาจาก kilogram"}
+{"id":"grandchild_noun","th":"หลาน","ex":"She has four grandchildren.","exTh":"เธอมีหลานสี่คน"}
+{"id":"unforgettable_adj","th":"ลืมไม่ลง; น่าจดจำ","ex":"Our trip to Japan was unforgettable.","exTh":"การเดินทางไปญี่ปุ่นของเราเป็นความทรงจำที่ลืมไม่ลง"}
+{"id":"roundabout_noun","th":"วงเวียน; ทางแยกวงกลม","ex":"Turn left at the next roundabout.","exTh":"เลี้ยวซ้ายที่วงเวียนข้างหน้า"}
+{"id":"shampoo_noun","th":"แชมพู","ex":"I need to buy some shampoo.","exTh":"ฉันต้องซื้อแชมพู"}
+{"id":"surfing_noun","th":"การเล่นกระดานโต้คลื่น; การท่องเว็บ","ex":"Surfing is very popular in Hawaii.","exTh":"การเล่นเซิร์ฟเป็นที่นิยมมากในฮาวาย"}
+{"id":"lemonade_noun","th":"น้ำมะนาว; เลมอนเนด","ex":"We drank cold lemonade on the hot day.","exTh":"เราดื่มน้ำมะนาวเย็นๆ ในวันที่อากาศร้อน"}
+{"id":"annoy_verb","th":"ทำให้รำคาญ; กวนใจ","ex":"Loud music annoys my neighbors.","exTh":"เสียงเพลงดังทำให้เพื่อนบ้านของฉันรำคาญ"}
+{"id":"astronaut_noun","th":"นักบินอวกาศ","ex":"The astronaut waved from the spaceship.","exTh":"นักบินอวกาศโบกมือจากยานอวกาศ"}
+{"id":"motorway_noun","th":"ทางด่วน; ทางหลวงพิเศษ","ex":"The motorway was empty this morning.","exTh":"เช้านี้ทางด่วนโล่งมาก","note":"ภาษาอังกฤษแบบอังกฤษ อเมริกันใช้ highway"}
+{"id":"sleepless_adj","th":"นอนไม่หลับ; ไม่ได้หลับ","ex":"I had a sleepless night before the exam.","exTh":"ฉันนอนไม่หลับทั้งคืนก่อนวันสอบ"}
+{"id":"disco_noun","th":"ดิสโก้; ผับเต้นรำ","ex":"They went to a disco on Friday.","exTh":"พวกเขาไปดิสโก้ในวันศุกร์"}
+{"id":"sock_noun","th":"ถุงเท้า","ex":"I cannot find my other sock.","exTh":"ฉันหาถุงเท้าอีกข้างไม่เจอ"}
+{"id":"laziness_noun","th":"ความขี้เกียจ","ex":"His laziness made him fail the class.","exTh":"ความขี้เกียจทำให้เขาสอบตก"}
+{"id":"weekday_noun","th":"วันธรรมดา; วันทำงาน","ex":"The park is quiet on weekdays.","exTh":"สวนสาธารณะเงียบสงบในวันธรรมดา"}
+{"id":"skate_noun","th":"รองเท้าสเก็ต; สเก็ต","ex":"He put on his ice skates.","exTh":"เขาสวมรองเท้าสเก็ตน้ำแข็ง"}
+{"id":"lunchtime_noun","th":"เวลาพักเที่ยง; ช่วงกินข้าวเที่ยง","ex":"Let's meet at lunchtime.","exTh":"เจอกันตอนพักเที่ยงนะ"}
+{"id":"handbag_noun","th":"กระเป๋าถือ","ex":"She put her keys in her handbag.","exTh":"เธอใส่กุญแจไว้ในกระเป๋าถือ"}
+{"id":"superlative_noun","th":"รูปขั้นสูงสุด (ไวยากรณ์)","ex":"The superlative of good is best.","exTh":"รูปขั้นสูงสุดของ good คือ best","note":"คำศัพท์ไวยากรณ์"}
+{"id":"chimpanzee_noun","th":"ชิมแปนซี","ex":"The chimpanzee ate a banana.","exTh":"ชิมแปนซีกินกล้วย"}
+{"id":"bookcase_noun","th":"ตู้หนังสือ; ชั้นหนังสือ","ex":"There is a tall bookcase in my room.","exTh":"ในห้องของฉันมีตู้หนังสือสูงๆ ตู้หนึ่ง"}
+{"id":"drugstore_noun","th":"ร้านขายยา","ex":"I bought cough medicine at the drugstore.","exTh":"ฉันซื้อยาแก้ไอที่ร้านขายยา","note":"ภาษาอเมริกัน อังกฤษใช้ chemist"}
+{"id":"escalator_noun","th":"บันไดเลื่อน","ex":"Take the escalator up to the third floor.","exTh":"ขึ้นบันไดเลื่อนไปชั้นสาม"}
+{"id":"bookshelf_noun","th":"ชั้นวางหนังสือ","ex":"He put the new book on the bookshelf.","exTh":"เขาวางหนังสือเล่มใหม่ไว้บนชั้นหนังสือ"}

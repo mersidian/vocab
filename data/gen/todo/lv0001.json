@@ -1,0 +1,602 @@
+[
+{
+"id": "the_det",
+"w": "the",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "of_prep",
+"w": "of",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "and_conj",
+"w": "and",
+"pos": "conj",
+"lvl": "A1"
+},
+{
+"id": "to_particle",
+"w": "to",
+"pos": "particle",
+"lvl": "A1"
+},
+{
+"id": "to_prep",
+"w": "to",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "in_prep",
+"w": "in",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "a_det",
+"w": "a",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "is_verb",
+"w": "is",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "that_conj",
+"w": "that",
+"pos": "conj",
+"lvl": "A1"
+},
+{
+"id": "that_det",
+"w": "that",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "that_pron",
+"w": "that",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "for_prep",
+"w": "for",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "as_prep",
+"w": "as",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "it_pron",
+"w": "it",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "with_prep",
+"w": "with",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "on_prep",
+"w": "on",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "be_verb",
+"w": "be",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "by_prep",
+"w": "by",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "was_verb",
+"w": "was",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "not_adv",
+"w": "not",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "or_conj",
+"w": "or",
+"pos": "conj",
+"lvl": "A1"
+},
+{
+"id": "this_det",
+"w": "this",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "this_pron",
+"w": "this",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "are_verb",
+"w": "are",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "i_pron",
+"w": "I",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "at_prep",
+"w": "at",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "from_prep",
+"w": "from",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "he_pron",
+"w": "he",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "which_det",
+"w": "which",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "which_pron",
+"w": "which",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "an_det",
+"w": "an",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "have_verb",
+"w": "have",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "his_det",
+"w": "his",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "his_pron",
+"w": "his",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "but_conj",
+"w": "but",
+"pos": "conj",
+"lvl": "A1"
+},
+{
+"id": "you_pron",
+"w": "you",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "were_verb",
+"w": "were",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "we_pron",
+"w": "we",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "they_pron",
+"w": "they",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "had_verb",
+"w": "had",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "all_det",
+"w": "all",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "all_pron",
+"w": "all",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "one_det",
+"w": "one",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "one_num",
+"w": "one",
+"pos": "num",
+"lvl": "A1"
+},
+{
+"id": "has_verb",
+"w": "has",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "their_det",
+"w": "their",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "will_modal",
+"w": "will",
+"pos": "modal",
+"lvl": "A1"
+},
+{
+"id": "can_modal",
+"w": "can",
+"pos": "modal",
+"lvl": "A1"
+},
+{
+"id": "there_adv",
+"w": "there",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "other_det",
+"w": "other",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "if_conj",
+"w": "if",
+"pos": "conj",
+"lvl": "A1"
+},
+{
+"id": "would_modal",
+"w": "would",
+"pos": "modal",
+"lvl": "A1"
+},
+{
+"id": "her_det",
+"w": "her",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "her_pron",
+"w": "her",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "more_det",
+"w": "more",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "more_pron",
+"w": "more",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "may_modal",
+"w": "may",
+"pos": "modal",
+"lvl": "A1"
+},
+{
+"id": "may_noun",
+"w": "May",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "when_adv",
+"w": "when",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "when_conj",
+"w": "when",
+"pos": "conj",
+"lvl": "A1"
+},
+{
+"id": "its_det",
+"w": "its",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "its_pron",
+"w": "its",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "no_adv",
+"w": "no",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "no_det",
+"w": "no",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "these_det",
+"w": "these",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "these_pron",
+"w": "these",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "new_adj",
+"w": "new",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "she_pron",
+"w": "she",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "so_conj",
+"w": "so",
+"pos": "conj",
+"lvl": "A1"
+},
+{
+"id": "who_pron",
+"w": "who",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "time_noun",
+"w": "time",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "than_conj",
+"w": "than",
+"pos": "conj",
+"lvl": "A1"
+},
+{
+"id": "than_prep",
+"w": "than",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "any_det",
+"w": "any",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "any_pron",
+"w": "any",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "do_verb",
+"w": "do",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "what_det",
+"w": "what",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "what_pron",
+"w": "what",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "some_det",
+"w": "some",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "some_pron",
+"w": "some",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "also_adv",
+"w": "also",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "about_adv",
+"w": "about",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "about_prep",
+"w": "about",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "only_adj",
+"w": "only",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "only_adv",
+"w": "only",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "into_prep",
+"w": "into",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "out_adv",
+"w": "out",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "two_num",
+"w": "two",
+"pos": "num",
+"lvl": "A1"
+},
+{
+"id": "my_det",
+"w": "my",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "up_prep",
+"w": "up",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "them_pron",
+"w": "them",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "him_pron",
+"w": "him",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "first_adj",
+"w": "first",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "first_adv",
+"w": "first",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "see_verb",
+"w": "see",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "our_det",
+"w": "our",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "under_prep",
+"w": "under",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "should_modal",
+"w": "should",
+"pos": "modal",
+"lvl": "A1"
+},
+{
+"id": "could_modal",
+"w": "could",
+"pos": "modal",
+"lvl": "A1"
+},
+{
+"id": "after_prep",
+"w": "after",
+"pos": "prep",
+"lvl": "A1"
+}
+]

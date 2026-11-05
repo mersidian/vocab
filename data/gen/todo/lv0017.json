@@ -1,0 +1,602 @@
+[
+{
+"id": "reach_verb",
+"w": "reach",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "fear_noun",
+"w": "fear",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "plate_noun",
+"w": "plate",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "style_noun",
+"w": "style",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "wrong_adv",
+"w": "wrong",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "village_noun",
+"w": "village",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "send_verb",
+"w": "send",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "married_adj",
+"w": "married",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "advanced_adj",
+"w": "advanced",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "valley_noun",
+"w": "valley",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "enter_verb",
+"w": "enter",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "advantage_noun",
+"w": "advantage",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "search_noun",
+"w": "search",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "avoid_verb",
+"w": "avoid",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "royal_adj",
+"w": "royal",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "represent_verb",
+"w": "represent",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "argument_noun",
+"w": "argument",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "pacific_adj",
+"w": "pacific",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "drive_verb",
+"w": "drive",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "suggest_verb",
+"w": "suggest",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "accept_verb",
+"w": "accept",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "exist_verb",
+"w": "exist",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "attack_noun",
+"w": "attack",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "attack_verb",
+"w": "attack",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "impossible_adj",
+"w": "impossible",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "competition_noun",
+"w": "competition",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "shape_noun",
+"w": "shape",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "bit_noun",
+"w": "bit",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "travel_noun",
+"w": "travel",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "editor_noun",
+"w": "editor",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "native_adj",
+"w": "native",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "usual_adj",
+"w": "usual",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "apparently_adv",
+"w": "apparently",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "explain_verb",
+"w": "explain",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "load_noun",
+"w": "load",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "chance_noun",
+"w": "chance",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "kingdom_noun",
+"w": "kingdom",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "improve_verb",
+"w": "improve",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "plus_prep",
+"w": "plus",
+"pos": "prep",
+"lvl": "A2"
+},
+{
+"id": "contrast_noun",
+"w": "contrast",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "express_noun",
+"w": "express",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "generation_noun",
+"w": "generation",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "release_noun",
+"w": "release",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "zone_noun",
+"w": "zone",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "appearance_noun",
+"w": "appearance",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "detail_noun",
+"w": "detail",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "passage_noun",
+"w": "passage",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "suitable_adj",
+"w": "suitable",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "organized_adj",
+"w": "organized",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "wave_noun",
+"w": "wave",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "museum_noun",
+"w": "museum",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "fresh_adj",
+"w": "fresh",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "salt_noun",
+"w": "salt",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "exactly_adv",
+"w": "exactly",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "silver_adj",
+"w": "silver",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "silver_noun",
+"w": "silver",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "background_noun",
+"w": "background",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "crime_noun",
+"w": "crime",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "safe_adj",
+"w": "safe",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "ancient_adj",
+"w": "ancient",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "ill_adj",
+"w": "ill",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "youth_noun",
+"w": "youth",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "adult_adj",
+"w": "adult",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "adult_noun",
+"w": "adult",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "bay_noun",
+"w": "bay",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "bear_verb",
+"w": "bear",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "schedule_noun",
+"w": "schedule",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "path_noun",
+"w": "path",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "spread_noun",
+"w": "spread",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "strategy_noun",
+"w": "strategy",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "straight_adj",
+"w": "straight",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "expect_verb",
+"w": "expect",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "die_verb",
+"w": "die",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "emergency_noun",
+"w": "emergency",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "break_noun",
+"w": "break",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "highway_noun",
+"w": "highway",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "difficulty_noun",
+"w": "difficulty",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "feature_noun",
+"w": "feature",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "fit_adj",
+"w": "fit",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "mainly_adv",
+"w": "mainly",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "apart_adv",
+"w": "apart",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "train_verb",
+"w": "train",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "perfect_adj",
+"w": "perfect",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "possibly_adv",
+"w": "possibly",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "clerk_noun",
+"w": "clerk",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "opposite_adj",
+"w": "opposite",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "opposite_prep",
+"w": "opposite",
+"pos": "prep",
+"lvl": "A2"
+},
+{
+"id": "instrument_noun",
+"w": "instrument",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "trouble_noun",
+"w": "trouble",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "award_noun",
+"w": "award",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "frank_adj",
+"w": "frank",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "column_noun",
+"w": "column",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "extremely_adv",
+"w": "extremely",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "suit_noun",
+"w": "suit",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "suit_verb",
+"w": "suit",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "perform_verb",
+"w": "perform",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "inch_noun",
+"w": "inch",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "soft_adj",
+"w": "soft",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "attitude_noun",
+"w": "attitude",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "slowly_adv",
+"w": "slowly",
+"pos": "adv",
+"lvl": "A2"
+}
+]

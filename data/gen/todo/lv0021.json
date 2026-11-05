@@ -1,0 +1,602 @@
+[
+{
+"id": "surprising_adj",
+"w": "surprising",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "harvest_noun",
+"w": "harvest",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "intelligent_adj",
+"w": "intelligent",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "container_noun",
+"w": "container",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "flour_noun",
+"w": "flour",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "anxious_adj",
+"w": "anxious",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "explore_verb",
+"w": "explore",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "fortune_noun",
+"w": "fortune",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "singing_noun",
+"w": "singing",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "classic_adj",
+"w": "classic",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "hero_noun",
+"w": "hero",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "fix_noun",
+"w": "fix",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "photograph_noun",
+"w": "photograph",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "meter_noun",
+"w": "meter",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "tie_noun",
+"w": "tie",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "entertainment_noun",
+"w": "entertainment",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "pink_noun",
+"w": "pink",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "hunter_noun",
+"w": "hunter",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "portrait_noun",
+"w": "portrait",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "cooking_noun",
+"w": "cooking",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "lamp_noun",
+"w": "lamp",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "mood_noun",
+"w": "mood",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "convenience_noun",
+"w": "convenience",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "somebody_pron",
+"w": "somebody",
+"pos": "pron",
+"lvl": "A2"
+},
+{
+"id": "succeed_verb",
+"w": "succeed",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "sandy_adj",
+"w": "sandy",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "unfair_adj",
+"w": "unfair",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "uncertain_adj",
+"w": "uncertain",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "physically_adv",
+"w": "physically",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "pursue_verb",
+"w": "pursue",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "badly_adv",
+"w": "badly",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "marry_verb",
+"w": "marry",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "continent_noun",
+"w": "continent",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "divide_verb",
+"w": "divide",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "invention_noun",
+"w": "invention",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "quietly_adv",
+"w": "quietly",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "brilliant_adj",
+"w": "brilliant",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "pack_noun",
+"w": "pack",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "pack_verb",
+"w": "pack",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "hate_verb",
+"w": "hate",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "confused_adj",
+"w": "confused",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "slide_noun",
+"w": "slide",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "diamond_noun",
+"w": "diamond",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "harmony_noun",
+"w": "harmony",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "communicate_verb",
+"w": "communicate",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "mystery_noun",
+"w": "mystery",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "bench_noun",
+"w": "bench",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "gentle_adj",
+"w": "gentle",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "tonight_noun",
+"w": "tonight",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "rush_noun",
+"w": "rush",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "concentrate_verb",
+"w": "concentrate",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "grateful_adj",
+"w": "grateful",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "burn_noun",
+"w": "burn",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "cheap_adj",
+"w": "cheap",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "blame_verb",
+"w": "blame",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "honey_noun",
+"w": "honey",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "mad_adj",
+"w": "mad",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "prediction_noun",
+"w": "prediction",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "peaceful_adj",
+"w": "peaceful",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "romantic_adj",
+"w": "romantic",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "atom_noun",
+"w": "atom",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "wedding_noun",
+"w": "wedding",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "affair_noun",
+"w": "affair",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "drill_noun",
+"w": "drill",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "adjust_verb",
+"w": "adjust",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "basically_adv",
+"w": "basically",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "predict_verb",
+"w": "predict",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "worried_adj",
+"w": "worried",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "gather_verb",
+"w": "gather",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "stamp_noun",
+"w": "stamp",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "pile_noun",
+"w": "pile",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "earn_verb",
+"w": "earn",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "worldwide_adv",
+"w": "worldwide",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "publish_verb",
+"w": "publish",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "shade_noun",
+"w": "shade",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "shoot_verb",
+"w": "shoot",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "angel_noun",
+"w": "angel",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "advise_verb",
+"w": "advise",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "differently_adv",
+"w": "differently",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "talent_noun",
+"w": "talent",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "insect_noun",
+"w": "insect",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "rope_noun",
+"w": "rope",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "menu_noun",
+"w": "menu",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "fancy_adj",
+"w": "fancy",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "verb_noun",
+"w": "verb",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "pour_verb",
+"w": "pour",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "handicapped_adj",
+"w": "handicapped",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "organize_verb",
+"w": "organize",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "audio_adj",
+"w": "audio",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "alarm_noun",
+"w": "alarm",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "trap_noun",
+"w": "trap",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "planet_noun",
+"w": "planet",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "confident_adj",
+"w": "confident",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "maker_noun",
+"w": "maker",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "stranger_noun",
+"w": "stranger",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "fence_noun",
+"w": "fence",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "bend_verb",
+"w": "bend",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "printer_noun",
+"w": "printer",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "purple_adj",
+"w": "purple",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "creature_noun",
+"w": "creature",
+"pos": "noun",
+"lvl": "A2"
+}
+]

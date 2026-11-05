@@ -1,0 +1,902 @@
+[
+{
+"id": "kip-up_pv",
+"w": "kip up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To perform a kip-up manoeuvre."
+]
+},
+{
+"id": "kiss-out_pv",
+"w": "kiss out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To err resulting in the interaction between the cue ball and another ball(s) causing the shot to miss."
+]
+},
+{
+"id": "kite-around_pv",
+"w": "kite around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To go around and throughout an area; to visit around; to stop at all the locations in an area."
+]
+},
+{
+"id": "klunk-out_pv",
+"w": "klunk out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of conk out (all senses)"
+]
+},
+{
+"id": "knock-round_pv",
+"w": "knock round",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of knock about."
+]
+},
+{
+"id": "knot-off_pv",
+"w": "knot off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of tie off (all senses)"
+]
+},
+{
+"id": "lag-off_pv",
+"w": "lag off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To shirk; to be lazy."
+]
+},
+{
+"id": "lair-up_pv",
+"w": "lair up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To remain in one's lair."
+]
+},
+{
+"id": "knock-into_pv",
+"w": "knock into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To impress, instill, teach or convince (someone) of a fact, realization or ability."
+]
+},
+{
+"id": "tweak-on_pv",
+"w": "tweak on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To attack."
+]
+},
+{
+"id": "frame-in_pv",
+"w": "frame in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of enframe."
+]
+},
+{
+"id": "lamb-down_pv",
+"w": "lamb down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To spend all one's money; to induce someone to spend all their money; to take all of someone's money when gambling."
+]
+},
+{
+"id": "pace-off_pv",
+"w": "pace off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To count steps."
+]
+},
+{
+"id": "leap-out_pv",
+"w": "leap out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To stand in stark contrast to something; to be immediately noticeable or apparent."
+]
+},
+{
+"id": "paw-up_pv",
+"w": "paw up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To dig up with, or as if with, paws."
+]
+},
+{
+"id": "zone-off_pv",
+"w": "zone off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of zone out."
+]
+},
+{
+"id": "follow-along_pv",
+"w": "follow along",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To continue behind or beside an animal, person, vehicle or other object, especially as a companion."
+]
+},
+{
+"id": "yell-out_pv",
+"w": "yell out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To exclaim loudly."
+]
+},
+{
+"id": "whip-together_pv",
+"w": "whip together",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To produce quickly by combining things."
+]
+},
+{
+"id": "lamp-along_pv",
+"w": "lamp along",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To move or proceed quickly."
+]
+},
+{
+"id": "blank-on_pv",
+"w": "blank on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To be temporarily unable to remember (a particular fact)."
+]
+},
+{
+"id": "crit-out_pv",
+"w": "crit out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To kill (a player) with critical hits."
+]
+},
+{
+"id": "lay-up-with_pv",
+"w": "lay up with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To have a sexual tryst with (someone)."
+]
+},
+{
+"id": "hoard-out_pv",
+"w": "hoard out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To completely fill up a room or space with clutter."
+]
+},
+{
+"id": "muff-up_pv",
+"w": "muff up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To mess up; to botch"
+]
+},
+{
+"id": "eat-down_pv",
+"w": "eat down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of eat (“to be very good; to rule”)."
+]
+},
+{
+"id": "hoe-around_pv",
+"w": "hoe around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of cat around (“sleep around; have sex with various partners”)."
+]
+},
+{
+"id": "gonk-out_pv",
+"w": "gonk out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To sleep."
+]
+},
+{
+"id": "shit-with_pv",
+"w": "shit with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of shit (“to fool or try to fool someone, to be deceitful”)."
+]
+},
+{
+"id": "interact-with_pv",
+"w": "interact with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of deal with (“to behave in a certain way towards”)."
+]
+},
+{
+"id": "luck-through_pv",
+"w": "luck through",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To act by relying on one's luck; to take a chance."
+]
+},
+{
+"id": "need-to_pv",
+"w": "need to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of have to (“must”)."
+]
+},
+{
+"id": "manage-out_pv",
+"w": "manage out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To adopt management policies intended to bother one or more employees so that they will resign."
+]
+},
+{
+"id": "land-down_pv",
+"w": "land down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To intercept (a missile) and bring it to ground before it reaches its target."
+]
+},
+{
+"id": "key-in-on_pv",
+"w": "key in on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To focus attention on"
+]
+},
+{
+"id": "patch-over_pv",
+"w": "patch over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To take over and absorb (a smaller motorcycle club)."
+]
+},
+{
+"id": "wonk-out_pv",
+"w": "wonk out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To be excessively wonky; to obsess over minutiae, especially of technical or political matters."
+]
+},
+{
+"id": "follow-up-on_pv",
+"w": "follow up on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To take further actions regarding (something)."
+]
+},
+{
+"id": "strapped-up_pv",
+"w": "strapped up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"to be carrying a firearm"
+]
+},
+{
+"id": "keep-on-about_pv",
+"w": "keep on about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To harp on; to continue to speak or discuss something repeatedly."
+]
+},
+{
+"id": "shoo-away_pv",
+"w": "shoo away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"to get rid of, to chase away"
+]
+},
+{
+"id": "snow-over_pv",
+"w": "snow over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of snow in."
+]
+},
+{
+"id": "bow-up_pv",
+"w": "bow up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become overtaken by impatience, anger or frustration; to reach one's limit; to square up or assert oneself."
+]
+},
+{
+"id": "get-down-to_pv",
+"w": "get down to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To start focusing on doing something serious"
+]
+},
+{
+"id": "touch-out_pv",
+"w": "touch out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To conclude an electronic ticketing process at the end of a public transport journey by holding a chipcard or a mobile device close to a terminal or reader"
+]
+},
+{
+"id": "lax-up_pv",
+"w": "lax up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To relax; to become lax; to ease up."
+]
+},
+{
+"id": "lay-down-on_pv",
+"w": "lay down on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To fail in a responsibility or duty to (a person); to abandon (a post)."
+]
+},
+{
+"id": "cammy-up_pv",
+"w": "cammy up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To put on camouflage."
+]
+},
+{
+"id": "fuzzy-over_pv",
+"w": "fuzzy over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To obscure and make indiscernible"
+]
+},
+{
+"id": "linger-on_pv",
+"w": "linger on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To continue to ponder or observe something for longer than normal."
+]
+},
+{
+"id": "teach-out_pv",
+"w": "teach out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To continue to teach a discontinued course to those pupils who were already enrolled."
+]
+},
+{
+"id": "scuff-up_pv",
+"w": "scuff up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make scuffed; to give a scuffed texture to."
+]
+},
+{
+"id": "cramp-up_pv",
+"w": "cramp up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become affected with muscle cramps."
+]
+},
+{
+"id": "flip-through_pv",
+"w": "flip through",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of thumb (“to turn the pages of (a book) in order to read it cursorily”)."
+]
+},
+{
+"id": "party-up_pv",
+"w": "party up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To party."
+]
+},
+{
+"id": "seal-in_pv",
+"w": "seal in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of shut up (“to put (someone or something) in a secure enclosed space, such as a room or container”)."
+]
+},
+{
+"id": "stash-away_pv",
+"w": "stash away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of shut up (“to put (someone or something) in a secure enclosed space, such as a room or container”)."
+]
+},
+{
+"id": "muddle-on_pv",
+"w": "muddle on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of muddle along."
+]
+},
+{
+"id": "step-up-on_pv",
+"w": "step up on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To challenge or pick a fight with (someone)."
+]
+},
+{
+"id": "ride-over_pv",
+"w": "ride over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of ride roughshod over."
+]
+},
+{
+"id": "chest-up_pv",
+"w": "chest up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To bump one's chest into (another person) aggressively; to physically challenge or confront."
+]
+},
+{
+"id": "bake-in_pv",
+"w": "bake in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To include as an essential, pre-existing or integral part of something."
+]
+},
+{
+"id": "goth-out_pv",
+"w": "goth out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To dress or decorate in the style of goth culture."
+]
+},
+{
+"id": "life-off_pv",
+"w": "life off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To sentence (someone) to life imprisonment."
+]
+},
+{
+"id": "likker-up_pv",
+"w": "likker up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of liquor up."
+]
+},
+{
+"id": "sleep-in-with_pv",
+"w": "sleep in with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To cosleep with (a child); to share a bed with a child."
+]
+},
+{
+"id": "weasel-into_pv",
+"w": "weasel into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To enter a place or a situation by being dishonest or by persuading someone in a clever way."
+]
+},
+{
+"id": "shave-down_pv",
+"w": "shave down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To reduce something in size or thickness by gradually removing thin layers or cutting it down closely."
+]
+},
+{
+"id": "shave-off_pv",
+"w": "shave off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of shave down."
+]
+},
+{
+"id": "sweep-in_pv",
+"w": "sweep in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To arrive suddenly or unexpectedly; to take power or move into a position of control suddenly or unexpectedly."
+]
+},
+{
+"id": "circle-out_pv",
+"w": "circle out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of iris out."
+]
+},
+{
+"id": "lolly-up_pv",
+"w": "lolly up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To inform on."
+]
+},
+{
+"id": "mack-on_pv",
+"w": "mack on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of mack (“to seduce or flirt with”)."
+]
+},
+{
+"id": "slog-away_pv",
+"w": "slog away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"to work hard at something, often for a long time and in a tedious or exhausting manner"
+]
+},
+{
+"id": "party-on_pv",
+"w": "party on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To continue having fun, celebrating, or enjoying oneself."
+]
+},
+{
+"id": "toss-away_pv",
+"w": "toss away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To discard; to throw away"
+]
+},
+{
+"id": "blow-into_pv",
+"w": "blow into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To enter (a place) casually."
+]
+},
+{
+"id": "savour-of_pv",
+"w": "savour of",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To have a suggestion or trace of a quality or attribute."
+]
+},
+{
+"id": "lush-around_pv",
+"w": "lush around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To drink excessively, party and be a lush."
+]
+},
+{
+"id": "mack-down_pv",
+"w": "mack down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To kiss (someone); to make out with (someone)."
+]
+},
+{
+"id": "rattle-on_pv",
+"w": "rattle on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of rabbit on."
+]
+},
+{
+"id": "sprout-up_pv",
+"w": "sprout up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of crop up."
+]
+},
+{
+"id": "gain-upon_pv",
+"w": "gain upon",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of gain on."
+]
+},
+{
+"id": "truss-up_pv",
+"w": "truss up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of truss (“tie up”)."
+]
+},
+{
+"id": "hatch-up_pv",
+"w": "hatch up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of hatch (“devise (an idea)”)."
+]
+},
+{
+"id": "slurp-up_pv",
+"w": "slurp up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To consume by slurping."
+]
+},
+{
+"id": "swill-up_pv",
+"w": "swill up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To consume by swilling."
+]
+},
+{
+"id": "primp-up_pv",
+"w": "primp up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of smarten up."
+]
+},
+{
+"id": "prink-up_pv",
+"w": "prink up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make more attractive."
+]
+},
+{
+"id": "trace-out_pv",
+"w": "trace out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To draw by tracing"
+]
+},
+{
+"id": "sieve-out_pv",
+"w": "sieve out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of sift out."
+]
+},
+{
+"id": "copy-out_pv",
+"w": "copy out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To write out by copying."
+]
+},
+{
+"id": "thrust-out_pv",
+"w": "thrust out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"to stick out; to jut out prominently or forcefully"
+]
+},
+{
+"id": "flex-on_pv",
+"w": "flex on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To bully (someone); to extort, threaten, intimidate, menace or harass (someone); to demonstrate strength or dominance over (someone)."
+]
+},
+{
+"id": "feed-through_pv",
+"w": "feed through",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To go through a process or location, producing a predictable result."
+]
+},
+{
+"id": "melt-out_pv",
+"w": "melt out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To remove (a substance) by melting it."
+]
+},
+{
+"id": "snake-up_pv",
+"w": "snake up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To switch sides by resorting to authorities, to become treacherous, to rat."
+]
+},
+{
+"id": "lift-down_pv",
+"w": "lift down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To reach up and carry (something) down from a higher position."
+]
+},
+{
+"id": "mess-over_pv",
+"w": "mess over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To mistreat, abuse, oppress or bother (someone)."
+]
+},
+{
+"id": "grip-up_pv",
+"w": "grip up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To accost, clutch, grapple or roughly handle (someone or something)."
+]
+}
+]

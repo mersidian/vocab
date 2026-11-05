@@ -1,0 +1,100 @@
+{"id":"capture_noun","th":"การจับกุม; การยึด; การบันทึกภาพ","ex":"The capture of the thief took only an hour.","exTh":"การจับกุมโจรใช้เวลาแค่ชั่วโมงเดียว"}
+{"id":"capture_verb","th":"จับ; ยึด; บันทึกภาพ","ex":"The police captured the thief near the station.","exTh":"ตำรวจจับโจรได้ใกล้สถานี"}
+{"id":"generate_verb","th":"สร้าง; ผลิต; ก่อให้เกิด","ex":"Solar panels generate electricity from sunlight.","exTh":"แผงโซลาร์เซลล์ผลิตไฟฟ้าจากแสงแดด"}
+{"id":"southeast_adj","th":"ตะวันออกเฉียงใต้","ex":"The southeast coast has beautiful beaches.","exTh":"ชายฝั่งตะวันออกเฉียงใต้มีชายหาดสวยงาม"}
+{"id":"southeast_noun","th":"ทิศตะวันออกเฉียงใต้; ภาคตะวันออกเฉียงใต้","ex":"The storm is moving toward the southeast.","exTh":"พายุกำลังเคลื่อนไปทางทิศตะวันออกเฉียงใต้"}
+{"id":"lung_noun","th":"ปอด","ex":"Smoking can damage your lungs.","exTh":"การสูบบุหรี่ทำให้ปอดของคุณเสียหายได้"}
+{"id":"honest_adj","th":"ซื่อสัตย์; จริงใจ; ตรงไปตรงมา","ex":"Please give me your honest opinion.","exTh":"ขอความเห็นตามตรงของคุณหน่อย"}
+{"id":"meanwhile_adv","th":"ในขณะเดียวกัน; ระหว่างนั้น","ex":"I cooked dinner. Meanwhile, he cleaned the kitchen.","exTh":"ฉันทำอาหารเย็น ส่วนเขาก็ทำความสะอาดครัวไปพร้อมกัน"}
+{"id":"shadow_verb","th":"ติดตาม; สะกดรอย; บดบัง","ex":"A detective shadowed him for a week.","exTh":"นักสืบแอบติดตามเขาเป็นเวลาหนึ่งสัปดาห์"}
+{"id":"distinguish_verb","th":"แยกแยะ; จำแนก; ทำให้แตกต่าง","ex":"It is hard to distinguish the twins.","exTh":"แยกแยะฝาแฝดคู่นั้นได้ยาก"}
+{"id":"freely_adv","th":"อย่างอิสระ; โดยเสรี; อย่างเปิดเผย","ex":"You can speak freely in this room.","exTh":"คุณพูดได้อย่างอิสระในห้องนี้"}
+{"id":"passion_noun","th":"ความหลงใหล; ความรักอย่างลึกซึ้ง; อารมณ์รุนแรง","ex":"Music is her greatest passion.","exTh":"ดนตรีคือสิ่งที่เธอหลงใหลที่สุด"}
+{"id":"expand_verb","th":"ขยาย; ขยายตัว; เพิ่มขึ้น","ex":"The company plans to expand into Asia.","exTh":"บริษัทวางแผนขยายกิจการเข้าสู่เอเชีย"}
+{"id":"rely_verb","th":"พึ่งพา; ไว้ใจ; อาศัย","ex":"You can rely on me to help.","exTh":"คุณพึ่งฉันให้ช่วยได้เสมอ","note":"ใช้เป็น rely on"}
+{"id":"civilization_noun","th":"อารยธรรม; ความเจริญ","ex":"Ancient Egypt was a great civilization.","exTh":"อียิปต์โบราณเป็นอารยธรรมที่ยิ่งใหญ่"}
+{"id":"glory_noun","th":"เกียรติยศ; ชื่อเสียง; ความรุ่งโรจน์","ex":"The team won glory by winning the final.","exTh":"ทีมได้รับเกียรติยศจากการชนะรอบชิงชนะเลิศ"}
+{"id":"plenty_pron","th":"มากมาย; เหลือเฟือ; เพียงพอ","ex":"Don't hurry. We have plenty of time.","exTh":"ไม่ต้องรีบ เรามีเวลาเหลือเฟือ","note":"มักใช้ plenty of"}
+{"id":"intensive_adj","th":"เข้มข้น; เร่งรัด; ต่อเนื่องหนัก","ex":"She took an intensive English course.","exTh":"เธอเรียนคอร์สภาษาอังกฤษแบบเข้มข้น"}
+{"id":"isolation_noun","th":"การแยกตัว; ความโดดเดี่ยว; การแยกกัก","ex":"Many old people suffer from isolation.","exTh":"ผู้สูงอายุหลายคนทุกข์ทรมานจากความโดดเดี่ยว"}
+{"id":"wherever_conj","th":"ที่ไหนก็ตาม; ทุกแห่งที่","ex":"I will follow you wherever you go.","exTh":"ฉันจะตามคุณไปไม่ว่าคุณจะไปที่ไหน"}
+{"id":"stick_verb","th":"ติด; แปะ; ทิ่ม","ex":"Please stick the stamp on the envelope.","exTh":"กรุณาติดแสตมป์บนซองจดหมาย","note":"รูปอดีตคือ stuck"}
+{"id":"tin_noun","th":"ดีบุก; กระป๋อง","ex":"I opened a tin of tomatoes.","exTh":"ฉันเปิดมะเขือเทศกระป๋องหนึ่งกระป๋อง","note":"เป็นคำแบบอังกฤษสำหรับกระป๋อง"}
+{"id":"diverse_adj","th":"หลากหลาย; แตกต่างกัน","ex":"The city has a diverse population.","exTh":"เมืองนี้มีประชากรที่หลากหลาย"}
+{"id":"occasional_adj","th":"นานๆ ครั้ง; เป็นครั้งคราว","ex":"We have an occasional visit from my aunt.","exTh":"ป้าของฉันแวะมาเยี่ยมเราเป็นครั้งคราว"}
+{"id":"frozen_adj","th":"แช่แข็ง; เป็นน้ำแข็ง; หนาวเหน็บ","ex":"I bought some frozen vegetables.","exTh":"ฉันซื้อผักแช่แข็งมานิดหน่อย"}
+{"id":"pace_noun","th":"ก้าว; จังหวะ; ความเร็ว","ex":"He walks at a slow pace.","exTh":"เขาเดินด้วยก้าวช้าๆ"}
+{"id":"courage_noun","th":"ความกล้าหาญ; ความกล้า","ex":"It took courage to tell the truth.","exTh":"ต้องใช้ความกล้าในการบอกความจริง"}
+{"id":"essence_noun","th":"สาระสำคัญ; แก่นแท้; น้ำมันหอมระเหย","ex":"Honesty is the essence of friendship.","exTh":"ความซื่อสัตย์คือแก่นแท้ของมิตรภาพ","note":"ภาษาทางการ"}
+{"id":"primitive_adj","th":"ดั้งเดิม; ล้าหลัง; โบราณ","ex":"Early humans used primitive tools.","exTh":"มนุษย์ยุคแรกใช้เครื่องมือแบบดั้งเดิม"}
+{"id":"nearby_adj","th":"ใกล้เคียง; ที่อยู่ใกล้","ex":"We ate at a nearby restaurant.","exTh":"เรากินข้าวที่ร้านอาหารใกล้ๆ"}
+{"id":"nearby_adv","th":"ใกล้ๆ; แถวนั้น","ex":"My grandmother lives nearby.","exTh":"คุณยายของฉันอาศัยอยู่แถวใกล้ๆ"}
+{"id":"unlikely_adj","th":"ไม่น่าจะเป็นไปได้; ไม่น่าเกิดขึ้น","ex":"It is unlikely to rain today.","exTh":"วันนี้ฝนไม่น่าจะตก"}
+{"id":"departure_noun","th":"การออกเดินทาง; การจากไป; เที่ยวบินขาออก","ex":"The departure time is nine o'clock.","exTh":"เวลาออกเดินทางคือเก้าโมง"}
+{"id":"workshop_noun","th":"โรงงานเล็ก; ห้องปฏิบัติงาน; การอบรมเชิงปฏิบัติการ","ex":"I joined a writing workshop last weekend.","exTh":"ฉันเข้าร่วมเวิร์กช็อปการเขียนเมื่อสุดสัปดาห์ที่แล้ว"}
+{"id":"disaster_noun","th":"ภัยพิบัติ; หายนะ","ex":"The flood was a terrible disaster.","exTh":"น้ำท่วมครั้งนั้นเป็นภัยพิบัติที่เลวร้ายมาก"}
+{"id":"usage_noun","th":"การใช้; วิธีใช้; การใช้ภาษา","ex":"The usage of this word is quite rare.","exTh":"การใช้คำนี้ค่อนข้างหายาก"}
+{"id":"southwest_adj","th":"ตะวันตกเฉียงใต้","ex":"The southwest region is very dry.","exTh":"ภูมิภาคตะวันตกเฉียงใต้แห้งแล้งมาก"}
+{"id":"southwest_noun","th":"ทิศตะวันตกเฉียงใต้; ภาคตะวันตกเฉียงใต้","ex":"The wind is blowing from the southwest.","exTh":"ลมกำลังพัดมาจากทิศตะวันตกเฉียงใต้"}
+{"id":"dealer_noun","th":"ผู้ค้า; พ่อค้า; เจ้ามือแจกไพ่","ex":"He works as a car dealer.","exTh":"เขาทำงานเป็นพ่อค้ารถยนต์"}
+{"id":"lock_verb","th":"ล็อก; ใส่กุญแจ; ปิดล็อก","ex":"Don't forget to lock the door.","exTh":"อย่าลืมล็อกประตูนะ"}
+{"id":"killing_noun","th":"การฆ่า; การสังหาร; การฆาตกรรม","ex":"The killing shocked the whole town.","exTh":"เหตุฆาตกรรมครั้งนั้นสร้างความตกใจให้คนทั้งเมือง"}
+{"id":"geology_noun","th":"ธรณีวิทยา","ex":"She studies geology at university.","exTh":"เธอเรียนธรณีวิทยาที่มหาวิทยาลัย"}
+{"id":"disk_noun","th":"แผ่นดิสก์; จานกลม; จานเก็บข้อมูล","ex":"My computer's hard disk is full.","exTh":"ฮาร์ดดิสก์ในคอมพิวเตอร์ของฉันเต็มแล้ว"}
+{"id":"settle_verb","th":"ตั้งรกราก; ตกลงกันได้; ทำให้สงบ","ex":"They settled in a small town near the sea.","exTh":"พวกเขาตั้งรกรากในเมืองเล็กๆ ใกล้ทะเล"}
+{"id":"habitat_noun","th":"ถิ่นที่อยู่อาศัย; แหล่งที่อยู่ตามธรรมชาติ","ex":"Forests are the habitat of many animals.","exTh":"ป่าไม้เป็นถิ่นที่อยู่ของสัตว์มากมาย"}
+{"id":"folk_noun","th":"ผู้คน; ชาวบ้าน; ญาติพี่น้อง","ex":"The village folk are very friendly.","exTh":"ชาวบ้านในหมู่บ้านนี้เป็นมิตรมาก","note":"มักใช้พหูพจน์ folks"}
+{"id":"graph_noun","th":"กราฟ; แผนภูมิ","ex":"The graph shows how sales have grown.","exTh":"กราฟแสดงให้เห็นว่ายอดขายเติบโตอย่างไร"}
+{"id":"humanity_noun","th":"มนุษยชาติ; ความเป็นมนุษย์; ความเมตตา","ex":"The war was a crime against humanity.","exTh":"สงครามครั้งนั้นเป็นอาชญากรรมต่อมนุษยชาติ"}
+{"id":"geographical_adj","th":"ทางภูมิศาสตร์","ex":"The country has a unique geographical position.","exTh":"ประเทศนี้มีที่ตั้งทางภูมิศาสตร์ที่โดดเด่น"}
+{"id":"tropical_adj","th":"เขตร้อน; แบบร้อนชื้น","ex":"We ate tropical fruit on the beach.","exTh":"เรากินผลไม้เมืองร้อนที่ชายหาด"}
+{"id":"defeat_verb","th":"เอาชนะ; ทำให้พ่ายแพ้","ex":"Our team defeated the champions last night.","exTh":"ทีมของเราเอาชนะแชมป์ได้เมื่อคืนนี้"}
+{"id":"bent_adj","th":"งอ; คด; โค้ง","ex":"The metal bar was bent and useless.","exTh":"แท่งโลหะงอและใช้ไม่ได้แล้ว"}
+{"id":"firmly_adv","th":"อย่างแน่น; อย่างหนักแน่น; อย่างมั่นคง","ex":"She held the rope firmly.","exTh":"เธอจับเชือกไว้แน่น"}
+{"id":"bare_adj","th":"เปลือย; เปล่า; โล่ง","ex":"The children ran on the sand in bare feet.","exTh":"เด็กๆ วิ่งบนผืนทรายด้วยเท้าเปล่า"}
+{"id":"hunt_noun","th":"การล่า; การค้นหา","ex":"The hunt for the missing dog continued all night.","exTh":"การตามหาสุนัขที่หายไปดำเนินต่อไปทั้งคืน"}
+{"id":"hunt_verb","th":"ล่า; ตามหา; ค้นหา","ex":"Lions hunt in groups.","exTh":"สิงโตล่าเหยื่อเป็นฝูง"}
+{"id":"scholarship_noun","th":"ทุนการศึกษา; ความรู้ทางวิชาการ","ex":"She won a scholarship to study in Japan.","exTh":"เธอได้ทุนไปเรียนที่ญี่ปุ่น"}
+{"id":"irregular_adj","th":"ไม่สม่ำเสมอ; ผิดปกติ; ไม่เป็นไปตามกฎ","ex":"\"Go\" is an irregular verb.","exTh":"\"go\" เป็นกริยาไม่ปกติ"}
+{"id":"lecture_noun","th":"การบรรยาย; คำสอน; การเทศนา","ex":"The professor gave a lecture on history.","exTh":"ศาสตราจารย์บรรยายเรื่องประวัติศาสตร์"}
+{"id":"refusal_noun","th":"การปฏิเสธ; การไม่ยอม","ex":"His refusal to help made her angry.","exTh":"การที่เขาไม่ยอมช่วยทำให้เธอโกรธ"}
+{"id":"abundant_adj","th":"อุดมสมบูรณ์; มากมาย; เหลือเฟือ","ex":"The region has abundant water and fertile land.","exTh":"ภูมิภาคนี้มีน้ำอุดมสมบูรณ์และที่ดินอันอุดมสมบูรณ์","note":"ภาษาทางการ"}
+{"id":"slavery_noun","th":"การเป็นทาส; ระบบทาส","ex":"Slavery was ended in many countries long ago.","exTh":"หลายประเทศเลิกระบบทาสไปนานแล้ว"}
+{"id":"upward_adj","th":"ขึ้นสู่ข้างบน; เพิ่มขึ้น","ex":"There is an upward trend in prices.","exTh":"ราคามีแนวโน้มสูงขึ้น"}
+{"id":"slip_noun","th":"การลื่น; ความผิดพลาดเล็กน้อย; ใบสลิป","ex":"A small slip cost him the game.","exTh":"ความผิดพลาดเล็กน้อยทำให้เขาแพ้เกม"}
+{"id":"slip_verb","th":"ลื่น; ไถล; หลุดมือ","ex":"Be careful not to slip on the wet floor.","exTh":"ระวังอย่าลื่นบนพื้นที่เปียกนะ"}
+{"id":"worn_adj","th":"สึกหรอ; เก่าขาด; อ่อนล้า","ex":"He wore a worn jacket with torn sleeves.","exTh":"เขาใส่แจ็กเก็ตเก่าที่แขนเสื้อขาด"}
+{"id":"silk_noun","th":"ไหม; ผ้าไหม","ex":"Thai silk is famous around the world.","exTh":"ผ้าไหมไทยมีชื่อเสียงไปทั่วโลก"}
+{"id":"accurately_adv","th":"อย่างถูกต้อง; อย่างแม่นยำ","ex":"The machine measures time very accurately.","exTh":"เครื่องนี้วัดเวลาได้แม่นยำมาก"}
+{"id":"curious_adj","th":"อยากรู้อยากเห็น; แปลก; น่าสงสัย","ex":"Children are curious about everything.","exTh":"เด็กๆ อยากรู้อยากเห็นไปหมดทุกอย่าง"}
+{"id":"propose_verb","th":"เสนอ; ขอแต่งงาน; ตั้งใจจะ","ex":"I propose that we meet on Friday.","exTh":"ฉันขอเสนอให้เรานัดเจอกันวันศุกร์"}
+{"id":"inform_verb","th":"แจ้ง; บอกให้ทราบ; รายงาน","ex":"Please inform me if the plan changes.","exTh":"กรุณาแจ้งให้ฉันทราบหากแผนเปลี่ยน"}
+{"id":"praise_noun","th":"คำชม; การสรรเสริญ","ex":"The teacher gave her high praise.","exTh":"ครูให้คำชมเธออย่างมาก"}
+{"id":"fix_verb","th":"ซ่อม; แก้ไข; กำหนด","ex":"Can you fix my bike?","exTh":"คุณช่วยซ่อมจักรยานของฉันได้ไหม"}
+{"id":"pole_noun","th":"เสา; ไม้ยาว; ขั้วโลก","ex":"A flag was hanging from the pole.","exTh":"มีธงแขวนอยู่บนเสา"}
+{"id":"disabled_adj","th":"พิการ; ใช้การไม่ได้","ex":"The building has a ramp for disabled people.","exTh":"อาคารนี้มีทางลาดสำหรับผู้พิการ"}
+{"id":"buyer_noun","th":"ผู้ซื้อ; ลูกค้า","ex":"The buyer paid in cash.","exTh":"ผู้ซื้อจ่ายเป็นเงินสด"}
+{"id":"shallow_adj","th":"ตื้น; ผิวเผิน","ex":"The river is shallow here.","exTh":"แม่น้ำตรงนี้ตื้น"}
+{"id":"thorough_adj","th":"ละเอียดถี่ถ้วน; รอบคอบ; สมบูรณ์","ex":"The doctor did a thorough check.","exTh":"หมอตรวจร่างกายอย่างละเอียดถี่ถ้วน"}
+{"id":"craft_noun","th":"งานฝีมือ; หัตถกรรม; ทักษะ","ex":"She sells traditional crafts at the market.","exTh":"เธอขายงานหัตถกรรมแบบดั้งเดิมที่ตลาด"}
+{"id":"tie_verb","th":"ผูก; มัด; เสมอกัน","ex":"Let me tie my shoes.","exTh":"ขอผูกเชือกรองเท้าก่อนนะ"}
+{"id":"laugh_noun","th":"เสียงหัวเราะ; เรื่องขำ","ex":"His joke got a big laugh.","exTh":"มุกของเขาทำให้ทุกคนหัวเราะลั่น"}
+{"id":"gay_adj","th":"เกย์; รักร่วมเพศชาย","ex":"He is gay and lives with his partner.","exTh":"เขาเป็นเกย์และอยู่กับคู่ของเขา","note":"ปัจจุบันใช้ในความหมายนี้เป็นหลัก ความหมายเก่าคือร่าเริง"}
+{"id":"specially_adv","th":"เป็นพิเศษ; โดยเฉพาะ","ex":"This cake was made specially for you.","exTh":"เค้กนี้ทำขึ้นมาเป็นพิเศษสำหรับคุณ"}
+{"id":"giant_adj","th":"ยักษ์; มหึมา; ขนาดใหญ่มาก","ex":"We saw a giant tree in the forest.","exTh":"เราเห็นต้นไม้ยักษ์ในป่า"}
+{"id":"compromise_noun","th":"การประนีประนอม; ข้อตกลงที่ยอมกันคนละครึ่งทาง","ex":"After a long talk, they reached a compromise.","exTh":"หลังจากคุยกันนาน พวกเขาก็ตกลงประนีประนอมกันได้"}
+{"id":"resolve_verb","th":"แก้ไข; ตัดสินใจเด็ดขาด; ยุติ","ex":"We need to resolve this problem quickly.","exTh":"เราต้องแก้ปัญหานี้ให้เร็ว"}
+{"id":"passive_adj","th":"เฉื่อยชา; ไม่โต้ตอบ; (ประโยค) ถูกกระทำ","ex":"He is too passive in meetings.","exTh":"เขาเฉื่อยชาเกินไปในการประชุม"}
+{"id":"defend_verb","th":"ป้องกัน; ปกป้อง; แก้ต่าง","ex":"Soldiers defended the city for weeks.","exTh":"ทหารปกป้องเมืองไว้นานหลายสัปดาห์"}
+{"id":"parking_noun","th":"การจอดรถ; ที่จอดรถ","ex":"There is free parking behind the shop.","exTh":"มีที่จอดรถฟรีหลังร้าน"}
+{"id":"tale_noun","th":"นิทาน; เรื่องเล่า","ex":"My grandfather told us an old tale.","exTh":"คุณตาเล่านิทานเก่าให้เราฟัง"}
+{"id":"artistic_adj","th":"เกี่ยวกับศิลปะ; มีศิลปะ; มีพรสวรรค์ทางศิลปะ","ex":"She is very artistic and loves painting.","exTh":"เธอมีพรสวรรค์ทางศิลปะและรักการวาดภาพ"}
+{"id":"calculate_verb","th":"คำนวณ; คิดเลข; ประมาณ","ex":"Can you calculate the total cost?","exTh":"คุณช่วยคำนวณค่าใช้จ่ายทั้งหมดได้ไหม"}
+{"id":"geography_noun","th":"ภูมิศาสตร์","ex":"I enjoy geography because I love maps.","exTh":"ฉันชอบวิชาภูมิศาสตร์เพราะรักแผนที่"}
+{"id":"inevitable_adj","th":"หลีกเลี่ยงไม่ได้; ย่อมเกิดขึ้นแน่","ex":"Change is inevitable in life.","exTh":"การเปลี่ยนแปลงเป็นสิ่งที่หลีกเลี่ยงไม่ได้ในชีวิต"}
+{"id":"mild_adj","th":"อ่อน; ไม่รุนแรง; อบอุ่น","ex":"The weather is mild in spring.","exTh":"อากาศช่วงฤดูใบไม้ผลิอบอุ่นสบาย"}
+{"id":"signature_noun","th":"ลายเซ็น; เอกลักษณ์","ex":"Please put your signature at the bottom.","exTh":"กรุณาเซ็นชื่อตรงด้านล่าง"}
+{"id":"prejudice_noun","th":"อคติ; ความลำเอียง","ex":"He faced prejudice because of his accent.","exTh":"เขาเจออคติเพราะสำเนียงของเขา"}
+{"id":"calm_adj","th":"สงบ; ใจเย็น; เงียบสงบ","ex":"Stay calm and listen to me.","exTh":"ใจเย็นๆ แล้วฟังฉันนะ"}
+{"id":"weakness_noun","th":"จุดอ่อน; ความอ่อนแอ","ex":"Speaking in public is my weakness.","exTh":"การพูดต่อหน้าคนเยอะๆ คือจุดอ่อนของฉัน"}
+{"id":"agenda_noun","th":"ระเบียบวาระ; กำหนดการประชุม; วาระซ่อนเร้น","ex":"What is on the agenda for today's meeting?","exTh":"วาระการประชุมวันนี้มีอะไรบ้าง"}

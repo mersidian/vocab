@@ -1,0 +1,100 @@
+{"id":"theory_noun","th":"ทฤษฎี; หลักการ; ข้อสันนิษฐาน","ex":"Scientists have a new theory about the disease.","exTh":"นักวิทยาศาสตร์มีทฤษฎีใหม่เกี่ยวกับโรคนี้"}
+{"id":"annual_adj","th":"ประจำปี; รายปี","ex":"The company holds an annual meeting in March.","exTh":"บริษัทจัดประชุมประจำปีในเดือนมีนาคม"}
+{"id":"decision_noun","th":"การตัดสินใจ; ข้อตัดสิน","ex":"It was a difficult decision for her.","exTh":"มันเป็นการตัดสินใจที่ยากสำหรับเธอ"}
+{"id":"respect_noun","th":"ความเคารพ; ความนับถือ","ex":"Children should show respect to older people.","exTh":"เด็กควรแสดงความเคารพต่อผู้ใหญ่"}
+{"id":"respect_verb","th":"เคารพ; นับถือ; ให้เกียรติ","ex":"I respect my teacher a lot.","exTh":"ฉันเคารพครูของฉันมาก"}
+{"id":"generally_adv","th":"โดยทั่วไป; ส่วนใหญ่","ex":"People generally arrive before nine o'clock.","exTh":"โดยทั่วไปผู้คนมาถึงก่อนเก้าโมง"}
+{"id":"agreement_noun","th":"ข้อตกลง; สัญญา; ความเห็นพ้อง","ex":"The two companies signed an agreement.","exTh":"สองบริษัทลงนามในข้อตกลง"}
+{"id":"complete_verb","th":"ทำให้เสร็จ; ทำให้สมบูรณ์; กรอก","ex":"Please complete the form and sign it.","exTh":"กรุณากรอกแบบฟอร์มให้ครบและลงชื่อ"}
+{"id":"financial_adj","th":"ทางการเงิน; เกี่ยวกับการเงิน","ex":"He gave me some financial advice.","exTh":"เขาให้คำแนะนำทางการเงินแก่ฉันบ้าง"}
+{"id":"organization_noun","th":"องค์กร; หน่วยงาน; การจัดระเบียบ","ex":"She works for a charity organization.","exTh":"เธอทำงานให้องค์กรการกุศลแห่งหนึ่ง"}
+{"id":"effective_adj","th":"มีประสิทธิภาพ; ได้ผล","ex":"This medicine is very effective.","exTh":"ยานี้ได้ผลดีมาก"}
+{"id":"distribution_noun","th":"การแจกจ่าย; การกระจาย; การจัดจำหน่าย","ex":"The distribution of food took all morning.","exTh":"การแจกจ่ายอาหารใช้เวลาทั้งเช้า"}
+{"id":"security_noun","th":"ความปลอดภัย; การรักษาความปลอดภัย; หลักประกัน","ex":"Airport security is very strict.","exTh":"การรักษาความปลอดภัยที่สนามบินเข้มงวดมาก"}
+{"id":"limited_adj","th":"จำกัด; มีจำนวนจำกัด","ex":"We have limited time, so please be quick.","exTh":"เรามีเวลาจำกัด ช่วยเร็วหน่อยนะ"}
+{"id":"insurance_noun","th":"ประกัน; การประกันภัย","ex":"Do you have health insurance?","exTh":"คุณมีประกันสุขภาพไหม"}
+{"id":"direct_verb","th":"กำกับ; ชี้ทาง; สั่งการ","ex":"A famous artist directed the film.","exTh":"ศิลปินชื่อดังเป็นผู้กำกับภาพยนตร์เรื่องนี้"}
+{"id":"industrial_adj","th":"ทางอุตสาหกรรม; เกี่ยวกับอุตสาหกรรม","ex":"They live near an industrial area.","exTh":"พวกเขาอาศัยอยู่ใกล้เขตอุตสาหกรรม"}
+{"id":"nor_conj","th":"ก็ไม่; และก็ไม่","ex":"He doesn't smoke, nor does he drink.","exTh":"เขาไม่สูบบุหรี่ และก็ไม่ดื่มเหล้าด้วย","note":"มักใช้คู่ neither...nor"}
+{"id":"written_adj","th":"เป็นลายลักษณ์อักษร; ที่เขียนไว้","ex":"I need a written answer by Friday.","exTh":"ฉันต้องการคำตอบเป็นลายลักษณ์อักษรภายในวันศุกร์"}
+{"id":"journal_noun","th":"วารสาร; สมุดบันทึกประจำวัน","ex":"She writes in her journal every night.","exTh":"เธอเขียนบันทึกประจำวันทุกคืน"}
+{"id":"loss_noun","th":"การสูญเสีย; ความสูญเสีย; ขาดทุน","ex":"The family felt the loss deeply.","exTh":"ครอบครัวรู้สึกเสียใจอย่างลึกซึ้งกับการสูญเสีย"}
+{"id":"approach_noun","th":"แนวทาง; วิธีการ; การเข้าใกล้","ex":"We need a new approach to this problem.","exTh":"เราต้องการแนวทางใหม่ในการแก้ปัญหานี้"}
+{"id":"supply_noun","th":"อุปทาน; เสบียง; ปริมาณที่มี","ex":"The town has a good water supply.","exTh":"เมืองนี้มีแหล่งน้ำประปาที่ดี"}
+{"id":"employment_noun","th":"การจ้างงาน; การมีงานทำ","ex":"Many young people are looking for employment.","exTh":"คนหนุ่มสาวจำนวนมากกำลังหางานทำ"}
+{"id":"volume_noun","th":"ปริมาณ; ระดับเสียง; เล่ม (หนังสือ)","ex":"Please turn down the volume of the TV.","exTh":"กรุณาลดเสียงโทรทัศน์ลงหน่อย"}
+{"id":"region_noun","th":"ภูมิภาค; แถบ; เขต","ex":"This region is famous for its tea.","exTh":"ภูมิภาคนี้มีชื่อเสียงเรื่องชา"}
+{"id":"chief_adj","th":"หลัก; สำคัญที่สุด; หัวหน้า","ex":"Cost is the chief reason for the delay.","exTh":"ค่าใช้จ่ายเป็นสาเหตุหลักของความล่าช้า"}
+{"id":"particularly_adv","th":"โดยเฉพาะ; เป็นพิเศษ","ex":"I like fruit, particularly mangoes.","exTh":"ฉันชอบผลไม้ โดยเฉพาะมะม่วง"}
+{"id":"notice_verb","th":"สังเกตเห็น; ทันเห็น; รู้สึกได้","ex":"Did you notice her new haircut?","exTh":"คุณสังเกตเห็นทรงผมใหม่ของเธอไหม"}
+{"id":"involved_adj","th":"เกี่ยวข้อง; ยุ่งเกี่ยว; ซับซ้อน","ex":"Everyone involved in the project was happy.","exTh":"ทุกคนที่เกี่ยวข้องกับโครงการต่างก็พอใจ"}
+{"id":"sometimes_adv","th":"บางครั้ง; บางที","ex":"Sometimes I walk to work.","exTh":"บางครั้งฉันเดินไปทำงาน"}
+{"id":"legal_adj","th":"ถูกกฎหมาย; ทางกฎหมาย","ex":"You must be eighteen for it to be legal.","exTh":"คุณต้องอายุสิบแปดปีจึงจะถูกกฎหมาย"}
+{"id":"top_adj","th":"สูงสุด; บนสุด; ดีที่สุด","ex":"She is a top student in her class.","exTh":"เธอเป็นนักเรียนที่เก่งที่สุดในชั้น"}
+{"id":"length_noun","th":"ความยาว; ระยะเวลา","ex":"What is the length of this table?","exTh":"โต๊ะตัวนี้ยาวเท่าไร"}
+{"id":"civil_adj","th":"เกี่ยวกับพลเรือน; ทางแพ่ง; สุภาพ","ex":"They fought for their civil rights.","exTh":"พวกเขาต่อสู้เพื่อสิทธิพลเมืองของตน"}
+{"id":"movement_noun","th":"การเคลื่อนไหว; ขบวนการ; ความเคลื่อนไหว","ex":"I saw a quick movement behind the tree.","exTh":"ฉันเห็นการเคลื่อนไหวรวดเร็วหลังต้นไม้"}
+{"id":"disease_noun","th":"โรค; โรคภัย","ex":"Doctors are trying to find a cure for the disease.","exTh":"แพทย์พยายามหาวิธีรักษาโรคนี้"}
+{"id":"potential_noun","th":"ศักยภาพ; ความเป็นไปได้","ex":"This young player has great potential.","exTh":"นักกีฬาหนุ่มคนนี้มีศักยภาพสูง"}
+{"id":"base_verb","th":"อาศัย (เป็นฐาน); ตั้งอยู่บน; ตั้งฐาน","ex":"The movie is based on a true story.","exTh":"หนังเรื่องนี้สร้างจากเรื่องจริง","note":"มักใช้ be based on / based in"}
+{"id":"army_noun","th":"กองทัพบก; กองทัพ; ทหาร","ex":"He joined the army at eighteen.","exTh":"เขาเข้ากองทัพตอนอายุสิบแปด"}
+{"id":"relationship_noun","th":"ความสัมพันธ์; ความเกี่ยวข้อง","ex":"They have a good relationship with their neighbors.","exTh":"พวกเขามีความสัมพันธ์ที่ดีกับเพื่อนบ้าน"}
+{"id":"charge_noun","th":"ค่าบริการ; ข้อกล่าวหา; การดูแล","ex":"There is no charge for children.","exTh":"เด็กไม่เสียค่าใช้จ่าย"}
+{"id":"charge_verb","th":"คิดเงิน; ชาร์จ; กล่าวหา","ex":"The shop charged me ten dollars for it.","exTh":"ร้านคิดเงินฉันสิบดอลลาร์สำหรับสิ่งนี้"}
+{"id":"extent_noun","th":"ขอบเขต; ระดับ; ขนาด","ex":"No one knew the extent of the damage.","exTh":"ไม่มีใครรู้ว่าความเสียหายมีมากแค่ไหน"}
+{"id":"leave_noun","th":"การลา; วันลา","ex":"She is on sick leave this week.","exTh":"สัปดาห์นี้เธอลาป่วย"}
+{"id":"flow_noun","th":"การไหล; กระแส; การหลั่งไหล","ex":"The flow of water was very strong.","exTh":"กระแสน้ำไหลแรงมาก"}
+{"id":"flow_verb","th":"ไหล; หลั่งไหล","ex":"The river flows through the city.","exTh":"แม่น้ำไหลผ่านเมือง"}
+{"id":"fund_noun","th":"กองทุน; เงินทุน","ex":"They started a fund to help the families.","exTh":"พวกเขาตั้งกองทุนเพื่อช่วยเหลือครอบครัวเหล่านั้น"}
+{"id":"fund_verb","th":"ให้เงินทุน; สนับสนุนทางการเงิน","ex":"The government funds the new school.","exTh":"รัฐบาลให้เงินทุนสนับสนุนโรงเรียนแห่งใหม่"}
+{"id":"protection_noun","th":"การป้องกัน; การคุ้มครอง","ex":"Wear a hat for protection from the sun.","exTh":"สวมหมวกเพื่อป้องกันแสงแดด"}
+{"id":"lead_adj","th":"นำ; หลัก; เป็นผู้นำ","ex":"She plays the lead role in the film.","exTh":"เธอรับบทนำในภาพยนตร์เรื่องนี้"}
+{"id":"lead_verb","th":"นำ; นำทาง; เป็นผู้นำ","ex":"Please lead us to the meeting room.","exTh":"ช่วยนำพวกเราไปห้องประชุมหน่อย","note":"รูปผัน lead, led, led"}
+{"id":"risk_noun","th":"ความเสี่ยง; อันตราย","ex":"Smoking increases the risk of cancer.","exTh":"การสูบบุหรี่เพิ่มความเสี่ยงของโรคมะเร็ง"}
+{"id":"cut_noun","th":"แผลบาด; การตัด; การลด","ex":"He has a small cut on his finger.","exTh":"เขามีแผลบาดเล็กๆ ที่นิ้ว"}
+{"id":"cell_noun","th":"เซลล์; ห้องขัง; โทรศัพท์มือถือ","ex":"The human body is made of many cells.","exTh":"ร่างกายมนุษย์ประกอบด้วยเซลล์จำนวนมาก"}
+{"id":"live_adj","th":"สด; มีชีวิต; ถ่ายทอดสด","ex":"We watched a live concert on TV.","exTh":"เราดูคอนเสิร์ตสดทางโทรทัศน์"}
+{"id":"commercial_adj","th":"ทางการค้า; เชิงพาณิชย์","ex":"The film was a big commercial success.","exTh":"ภาพยนตร์เรื่องนี้ประสบความสำเร็จทางการค้าอย่างมาก"}
+{"id":"throughout_prep","th":"ตลอด; ทั่ว","ex":"It rained throughout the night.","exTh":"ฝนตกตลอดทั้งคืน"}
+{"id":"address_verb","th":"แก้ไข (ปัญหา); กล่าวปราศรัย; จ่าหน้า","ex":"The mayor addressed the crowd.","exTh":"นายกเทศมนตรีกล่าวปราศรัยต่อฝูงชน"}
+{"id":"institute_noun","th":"สถาบัน","ex":"She studies at a technology institute.","exTh":"เธอเรียนที่สถาบันเทคโนโลยีแห่งหนึ่ง"}
+{"id":"unless_conj","th":"นอกจากว่า; เว้นแต่; ถ้าไม่","ex":"Don't call me unless it is important.","exTh":"อย่าโทรหาฉัน เว้นแต่จะเป็นเรื่องสำคัญ"}
+{"id":"equal_adj","th":"เท่ากัน; เท่าเทียม","ex":"Men and women should have equal rights.","exTh":"ชายและหญิงควรมีสิทธิเท่าเทียมกัน"}
+{"id":"claim_noun","th":"ข้ออ้าง; การเรียกร้อง; ข้อกล่าวอ้าง","ex":"His claim turned out to be false.","exTh":"ข้อกล่าวอ้างของเขาพิสูจน์ได้ว่าเป็นเท็จ"}
+{"id":"capacity_noun","th":"ความจุ; ขีดความสามารถ","ex":"The stadium has a capacity of fifty thousand.","exTh":"สนามกีฬานี้จุคนได้ห้าหมื่นคน"}
+{"id":"goods_noun","th":"สินค้า; ของ","ex":"The store sells goods from many countries.","exTh":"ร้านนี้ขายสินค้าจากหลายประเทศ","note":"ใช้รูปพหูพจน์เสมอ"}
+{"id":"exchange_verb","th":"แลกเปลี่ยน; เปลี่ยน; แลกเงิน","ex":"I'd like to exchange this shirt for a bigger one.","exTh":"ฉันอยากเปลี่ยนเสื้อตัวนี้เป็นตัวที่ใหญ่กว่า"}
+{"id":"judgment_noun","th":"การตัดสิน; วิจารณญาณ; คำพิพากษา","ex":"I trust his judgment about people.","exTh":"ฉันเชื่อวิจารณญาณของเขาเรื่องคน"}
+{"id":"fine_noun","th":"ค่าปรับ","ex":"He had to pay a fine for parking there.","exTh":"เขาต้องจ่ายค่าปรับที่จอดรถตรงนั้น"}
+{"id":"patient_adj","th":"อดทน; ใจเย็น","ex":"The teacher is very patient with children.","exTh":"ครูใจเย็นกับเด็กมาก"}
+{"id":"former_adj","th":"อดีต; เก่า; ก่อนหน้า","ex":"My former boss lives in London now.","exTh":"อดีตเจ้านายของฉันอาศัยอยู่ที่ลอนดอนตอนนี้"}
+{"id":"engineering_noun","th":"วิศวกรรม; วิศวกรรมศาสตร์","ex":"My brother studies engineering at university.","exTh":"พี่ชายของฉันเรียนวิศวกรรมศาสตร์ที่มหาวิทยาลัย"}
+{"id":"soil_verb","th":"ทำให้สกปรก; เปรอะเปื้อน","ex":"The children soiled their clothes in the mud.","exTh":"เด็กๆ ทำเสื้อผ้าเปื้อนโคลน","note":"ภาษาทางการ ไม่ค่อยใช้ในชีวิตประจำวัน"}
+{"id":"demand_noun","th":"ความต้องการ; อุปสงค์; การเรียกร้อง","ex":"There is a high demand for new houses.","exTh":"มีความต้องการบ้านใหม่สูง"}
+{"id":"demand_verb","th":"เรียกร้อง; ต้องการ; ทวง","ex":"The workers demanded better pay.","exTh":"คนงานเรียกร้องค่าจ้างที่ดีขึ้น"}
+{"id":"determine_verb","th":"กำหนด; ตัดสิน; หาข้อสรุป","ex":"Tests will determine the cause of the problem.","exTh":"การทดสอบจะบ่งชี้สาเหตุของปัญหา"}
+{"id":"directly_adv","th":"โดยตรง; ตรงๆ","ex":"Please speak directly to the manager.","exTh":"กรุณาพูดกับผู้จัดการโดยตรง"}
+{"id":"steel_noun","th":"เหล็กกล้า; เหล็ก","ex":"The bridge is made of steel.","exTh":"สะพานนี้ทำจากเหล็กกล้า"}
+{"id":"safety_noun","th":"ความปลอดภัย","ex":"Wear a helmet for your safety.","exTh":"สวมหมวกกันน็อกเพื่อความปลอดภัยของคุณ"}
+{"id":"previous_adj","th":"ก่อนหน้า; ที่แล้ว","ex":"I met her at my previous job.","exTh":"ฉันรู้จักเธอที่งานก่อนหน้านี้"}
+{"id":"hope_verb","th":"หวัง; ภาวนา; อยากให้","ex":"I hope you feel better soon.","exTh":"ฉันหวังว่าคุณจะรู้สึกดีขึ้นเร็วๆ นี้"}
+{"id":"heat_verb","th":"ทำให้ร้อน; อุ่น","ex":"Heat the soup for two minutes.","exTh":"อุ่นซุปประมาณสองนาที"}
+{"id":"entire_adj","th":"ทั้งหมด; ทั้ง","ex":"I spent the entire day at home.","exTh":"ฉันอยู่บ้านทั้งวัน"}
+{"id":"content_noun","th":"เนื้อหา; สิ่งที่อยู่ข้างใน; ปริมาณที่มี","ex":"I enjoy the content of this website.","exTh":"ฉันชอบเนื้อหาของเว็บไซต์นี้"}
+{"id":"justice_noun","th":"ความยุติธรรม; ศาล","ex":"Everyone wants justice for the victims.","exTh":"ทุกคนต้องการความยุติธรรมให้ผู้เสียหาย"}
+{"id":"rest_noun","th":"การพักผ่อน; ส่วนที่เหลือ","ex":"You need some rest after the trip.","exTh":"คุณต้องพักผ่อนหลังการเดินทาง"}
+{"id":"rest_verb","th":"พัก; พักผ่อน; พิง","ex":"Let's rest for a few minutes.","exTh":"เรามาพักสักสองสามนาทีกันเถอะ"}
+{"id":"fall_noun","th":"การล้ม; การตก; ฤดูใบไม้ร่วง (อเมริกัน)","ex":"She had a bad fall on the stairs.","exTh":"เธอล้มอย่างแรงบนบันได"}
+{"id":"agricultural_adj","th":"ทางเกษตร; เกี่ยวกับการเกษตร","ex":"This is a rich agricultural area.","exTh":"ที่นี่เป็นพื้นที่เกษตรกรรมที่อุดมสมบูรณ์"}
+{"id":"net_noun","th":"ตาข่าย; อวน; เน็ต","ex":"The ball hit the net.","exTh":"ลูกบอลชนตาข่าย"}
+{"id":"duty_noun","th":"หน้าที่; ภาษี (ศุลกากร)","ex":"It is your duty to help your family.","exTh":"การช่วยเหลือครอบครัวเป็นหน้าที่ของคุณ"}
+{"id":"prepared_adj","th":"พร้อม; เตรียมตัวแล้ว; เตรียมไว้","ex":"I am prepared for the exam tomorrow.","exTh":"ฉันเตรียมตัวพร้อมสำหรับการสอบพรุ่งนี้"}
+{"id":"assistance_noun","th":"ความช่วยเหลือ; การสนับสนุน","ex":"Do you need any assistance?","exTh":"คุณต้องการความช่วยเหลือไหม"}
+{"id":"otherwise_adv","th":"มิฉะนั้น; ไม่เช่นนั้น; ในทางอื่น","ex":"Hurry up, otherwise we'll miss the bus.","exTh":"รีบหน่อย ไม่เช่นนั้นเราจะตกรถเมล์"}
+{"id":"status_noun","th":"สถานะ; ฐานะ; สภาพ","ex":"Please check the status of your order.","exTh":"กรุณาตรวจสอบสถานะคำสั่งซื้อของคุณ"}
+{"id":"presence_noun","th":"การมีอยู่; การปรากฏตัว; ตัวตน","ex":"I felt his presence in the room.","exTh":"ฉันรู้สึกถึงการมีอยู่ของเขาในห้อง"}
+{"id":"require_verb","th":"ต้องการ; จำเป็นต้องมี; กำหนดให้","ex":"This job requires good English.","exTh":"งานนี้ต้องใช้ภาษาอังกฤษที่ดี"}
+{"id":"concerned_adj","th":"กังวล; เป็นห่วง; เกี่ยวข้อง","ex":"Her parents are concerned about her health.","exTh":"พ่อแม่ของเธอเป็นห่วงสุขภาพของเธอ"}
+{"id":"active_adj","th":"คล่องแคล่ว; กระตือรือร้น; ที่ใช้งานอยู่","ex":"My grandfather is still very active.","exTh":"คุณตาของฉันยังคล่องแคล่วกระฉับกระเฉงมาก"}
+{"id":"deal_verb","th":"จัดการ; รับมือ; แจก (ไพ่)","ex":"How do you deal with stress?","exTh":"คุณรับมือกับความเครียดอย่างไร","note":"มักใช้ deal with"}
+{"id":"consideration_noun","th":"การพิจารณา; ความเกรงใจ; ข้อที่ต้องคำนึงถึง","ex":"Thank you for your consideration.","exTh":"ขอบคุณที่กรุณาพิจารณา"}

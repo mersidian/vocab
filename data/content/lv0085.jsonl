@@ -1,0 +1,100 @@
+{"id":"spartan_adj","th":"เรียบง่ายเคร่งครัด; อดออม; ไม่หรูหรา","ex":"He lives a spartan life in a tiny room.","exTh":"เขาใช้ชีวิตเรียบง่ายเคร่งครัดในห้องเล็กๆ"}
+{"id":"pleasurable_adj","th":"น่ายินดี; ให้ความสุข; เพลิดเพลิน","ex":"Reading by the sea is a pleasurable activity.","exTh":"การอ่านหนังสือริมทะเลเป็นกิจกรรมที่เพลิดเพลิน"}
+{"id":"scramble_noun","th":"การแย่งชิง; การปีนป่ายอย่างรีบเร่ง","ex":"There was a scramble for the best seats.","exTh":"ผู้คนแย่งชิงกันเพื่อให้ได้ที่นั่งที่ดีที่สุด"}
+{"id":"cynicism_noun","th":"ความมองโลกในแง่ร้าย; ความเหยียดหยัน","ex":"His cynicism about politics is well known.","exTh":"ความมองโลกในแง่ร้ายของเขาเรื่องการเมืองเป็นที่รู้กันดี"}
+{"id":"commendation_noun","th":"การยกย่อง; คำชมเชย; ประกาศเกียรติคุณ","ex":"The firefighter received a commendation for bravery.","exTh":"นักดับเพลิงได้รับการยกย่องในความกล้าหาญ"}
+{"id":"revere_verb","th":"เคารพบูชา; นับถืออย่างสูง","ex":"Many people revere the old teacher.","exTh":"หลายคนเคารพนับถือครูเก่าแก่ท่านนี้อย่างสูง"}
+{"id":"placid_adj","th":"สงบ; ราบเรียบ; ใจเย็น","ex":"The placid lake looked like a mirror.","exTh":"ทะเลสาบที่สงบนิ่งดูเหมือนกระจก"}
+{"id":"negligently_adv","th":"อย่างประมาท; อย่างเลินเล่อ","ex":"He negligently left the door unlocked.","exTh":"เขาประมาทปล่อยให้ประตูไม่ได้ล็อก"}
+{"id":"ludicrous_adj","th":"น่าขัน; ไร้สาระ; เหลวไหล","ex":"The idea of walking to Chiang Mai in a day is ludicrous.","exTh":"ความคิดที่จะเดินไปเชียงใหม่ภายในหนึ่งวันเป็นเรื่องไร้สาระ"}
+{"id":"ferocious_adj","th":"ดุร้าย; โหดเหี้ยม; รุนแรง","ex":"A ferocious dog ran toward us.","exTh":"สุนัขดุร้ายตัวหนึ่งวิ่งเข้ามาหาเรา"}
+{"id":"tantamount_adj","th":"เท่ากับ; เทียบเท่า; ไม่ต่างจาก","ex":"Staying silent is tantamount to agreeing.","exTh":"การนิ่งเงียบเท่ากับการเห็นด้วย","note":"ใช้กับโครงสร้าง tantamount to"}
+{"id":"fatality_noun","th":"การเสียชีวิต; ผู้เสียชีวิต","ex":"The crash caused three fatalities.","exTh":"อุบัติเหตุครั้งนี้มีผู้เสียชีวิตสามราย"}
+{"id":"restorative_adj","th":"ที่ช่วยฟื้นฟู; ที่ทำให้สดชื่น","ex":"A restorative sleep helped him recover.","exTh":"การนอนหลับที่ช่วยฟื้นฟูทำให้เขาหายดี"}
+{"id":"itinerary_noun","th":"กำหนดการเดินทาง; แผนการเที่ยว","ex":"Our itinerary includes three days in Rome.","exTh":"กำหนดการเดินทางของเรามีสามวันในโรม"}
+{"id":"ghostly_adj","th":"คล้ายผี; น่าขนลุก; ซีดเผือด","ex":"A ghostly light shone in the old house.","exTh":"แสงสลัวน่าขนลุกส่องออกมาจากบ้านเก่า"}
+{"id":"homely_adj","th":"อบอุ่นเหมือนบ้าน; เรียบง่าย; หน้าตาธรรมดา","ex":"The small hotel has a warm, homely feel.","exTh":"โรงแรมเล็กๆ แห่งนี้ให้ความรู้สึกอบอุ่นเหมือนบ้าน","note":"ในอเมริกาหมายถึงหน้าตาไม่สวย"}
+{"id":"limitless_adj","th":"ไร้ขีดจำกัด; ไม่มีที่สิ้นสุด","ex":"Children have limitless energy.","exTh":"เด็กๆ มีพลังงานไม่มีที่สิ้นสุด"}
+{"id":"fiddle_verb","th":"เล่นซุกซน; จับเล่น; โกง","ex":"Stop fiddling with your phone during dinner.","exTh":"เลิกจับโทรศัพท์เล่นตอนกินข้าวเย็นได้แล้ว"}
+{"id":"fiddle_noun","th":"ไวโอลิน; การโกง; กลโกง","ex":"He plays the fiddle in a folk band.","exTh":"เขาเล่นไวโอลินในวงดนตรีโฟล์ก"}
+{"id":"clutter_noun","th":"ของรกรุงรัง; ความรก","ex":"There is too much clutter on my desk.","exTh":"โต๊ะทำงานของฉันมีของรกมากเกินไป"}
+{"id":"clutter_verb","th":"ทำให้รก; วางของเกะกะ","ex":"Old boxes clutter the garage.","exTh":"กล่องเก่าๆ วางเกะกะรกอยู่ในโรงรถ"}
+{"id":"monotony_noun","th":"ความจำเจ; ความซ้ำซากน่าเบื่อ","ex":"He wanted to escape the monotony of office work.","exTh":"เขาอยากหนีจากความจำเจของงานออฟฟิศ"}
+{"id":"chisel_verb","th":"สกัด; แกะสลัก; ตอก","ex":"The artist chiselled a face in the stone.","exTh":"ศิลปินสกัดใบหน้าลงบนก้อนหิน"}
+{"id":"stoke_verb","th":"เติมเชื้อเพลิง; ปลุกเร้า; ก่อให้เกิด","ex":"His comments stoked the anger of the crowd.","exTh":"คำพูดของเขาปลุกเร้าความโกรธของฝูงชน"}
+{"id":"repel_verb","th":"ขับไล่; ผลัก; ทำให้รังเกียจ","ex":"This spray repels mosquitoes.","exTh":"สเปรย์นี้ไล่ยุงได้"}
+{"id":"sarcasm_noun","th":"การพูดเสียดสี; คำประชด","ex":"I could hear the sarcasm in her voice.","exTh":"ฉันได้ยินน้ำเสียงประชดในคำพูดของเธอ"}
+{"id":"inexhaustible_adj","th":"ไม่มีวันหมด; ไม่รู้จักเหน็ดเหนื่อย","ex":"The sun is an inexhaustible source of energy.","exTh":"ดวงอาทิตย์เป็นแหล่งพลังงานที่ไม่มีวันหมด"}
+{"id":"blister_noun","th":"แผลพุพอง; ตุ่มน้ำ; ตุ่มพอง","ex":"I got a blister on my heel from the new shoes.","exTh":"ฉันเป็นตุ่มพองที่ส้นเท้าจากรองเท้าคู่ใหม่"}
+{"id":"blister_verb","th":"พอง; ทำให้เป็นตุ่มพอง","ex":"The hot sun made his skin blister.","exTh":"แดดร้อนทำให้ผิวของเขาพองเป็นตุ่ม"}
+{"id":"renown_noun","th":"ชื่อเสียง; ความโด่งดัง","ex":"The chef is a man of great renown.","exTh":"เชฟคนนี้เป็นผู้มีชื่อเสียงโด่งดังมาก"}
+{"id":"insightful_adj","th":"หยั่งรู้ลึกซึ้ง; มองทะลุ; มีมุมมองเฉียบแหลม","ex":"She wrote an insightful article about city life.","exTh":"เธอเขียนบทความที่มีมุมมองลึกซึ้งเกี่ยวกับชีวิตในเมือง"}
+{"id":"tinker_verb","th":"ซ่อมแซมเล่นๆ; ลองปรับแต่ง; ขลุกอยู่กับ","ex":"He likes to tinker with old radios.","exTh":"เขาชอบนั่งขลุกซ่อมวิทยุเก่า"}
+{"id":"tinker_noun","th":"ช่างซ่อมเร่ร่อน; ช่างทำหม้อ","ex":"The tinker went from village to village.","exTh":"ช่างซ่อมเร่ร่อนเดินทางจากหมู่บ้านหนึ่งไปอีกหมู่บ้านหนึ่ง","note":"คำเก่า ไม่ค่อยใช้ในปัจจุบัน"}
+{"id":"demo_noun","th":"การสาธิต; ตัวอย่างทดลองใช้; การชุมนุมประท้วง","ex":"The salesman gave us a quick demo of the app.","exTh":"พนักงานขายสาธิตแอปให้เราดูอย่างรวดเร็ว"}
+{"id":"altruism_noun","th":"การเห็นแก่ผู้อื่น; ความเสียสละ","ex":"Her altruism inspired many young people.","exTh":"ความเสียสละของเธอเป็นแรงบันดาลใจให้คนหนุ่มสาวจำนวนมาก"}
+{"id":"repute_verb","th":"เล่าลือ; ถือว่า","ex":"He is reputed to be the richest man in town.","exTh":"เขาเป็นที่เล่าลือว่าเป็นคนรวยที่สุดในเมือง","note":"มักใช้ในรูป passive: is reputed to be"}
+{"id":"carpentry_noun","th":"งานช่างไม้; ช่างไม้","ex":"He learned carpentry from his grandfather.","exTh":"เขาเรียนงานช่างไม้จากคุณปู่"}
+{"id":"antiquated_adj","th":"ล้าสมัย; โบราณ","ex":"The office still uses antiquated computers.","exTh":"สำนักงานยังใช้คอมพิวเตอร์ที่ล้าสมัยอยู่"}
+{"id":"flick_verb","th":"ดีด; สะบัด; เปิด (สวิตช์)","ex":"She flicked the light switch on.","exTh":"เธอกดสวิตช์เปิดไฟ"}
+{"id":"rumble_verb","th":"ดังครืน; ดังกึกก้อง","ex":"Thunder rumbled in the distance.","exTh":"เสียงฟ้าร้องครืนครางมาแต่ไกล"}
+{"id":"rumble_noun","th":"เสียงครืนๆ; เสียงกึกก้อง","ex":"We heard the rumble of a passing truck.","exTh":"เราได้ยินเสียงครืนของรถบรรทุกที่แล่นผ่านไป"}
+{"id":"ewe_noun","th":"แกะตัวเมีย","ex":"The ewe stayed close to her lamb.","exTh":"แม่แกะอยู่ใกล้ลูกแกะของมัน"}
+{"id":"flattery_noun","th":"การประจบสอพลอ; คำเยินยอ","ex":"Flattery will not get you a better grade.","exTh":"การประจบจะไม่ทำให้คุณได้เกรดดีขึ้น"}
+{"id":"avid_adj","th":"กระตือรือร้น; คลั่งไคล้; หลงใหล","ex":"He is an avid reader of history books.","exTh":"เขาเป็นนักอ่านหนังสือประวัติศาสตร์ตัวยง"}
+{"id":"pinnacle_noun","th":"จุดสูงสุด; ยอดแหลม","ex":"Winning the gold medal was the pinnacle of her career.","exTh":"การได้เหรียญทองคือจุดสูงสุดของอาชีพเธอ"}
+{"id":"diverge_verb","th":"แยกออกจากกัน; เบี่ยงเบน; แตกต่าง","ex":"The two roads diverge after the bridge.","exTh":"ถนนสองสายแยกออกจากกันหลังข้ามสะพาน"}
+{"id":"daunting_adj","th":"น่ากลัว; น่าหวั่นใจ; ท้าทายอย่างหนัก","ex":"Moving to a new country is a daunting task.","exTh":"การย้ายไปอยู่ประเทศใหม่เป็นเรื่องที่น่าหวั่นใจ"}
+{"id":"screenplay_noun","th":"บทภาพยนตร์","ex":"She wrote the screenplay for the movie.","exTh":"เธอเขียนบทภาพยนตร์เรื่องนี้"}
+{"id":"malfunction_verb","th":"ทำงานผิดปกติ; ขัดข้อง","ex":"The machine malfunctioned and stopped.","exTh":"เครื่องทำงานผิดปกติแล้วหยุดไป"}
+{"id":"mingle_verb","th":"ผสมปนเป; เข้าร่วมวงสนทนา; ปะปนกัน","ex":"Guests mingled in the garden before dinner.","exTh":"แขกเดินพูดคุยกันในสวนก่อนอาหารค่ำ"}
+{"id":"extortion_noun","th":"การขู่กรรโชกทรัพย์; การรีดไถ","ex":"He was arrested for extortion.","exTh":"เขาถูกจับข้อหาขู่กรรโชกทรัพย์"}
+{"id":"envisage_verb","th":"คาดการณ์; จินตนาการ; มองเห็นภาพ","ex":"We envisage a quiet future for the town.","exTh":"เราจินตนาการว่าเมืองนี้จะมีอนาคตที่สงบสุข"}
+{"id":"conscientiously_adv","th":"อย่างรอบคอบ; อย่างมีสำนึกรับผิดชอบ","ex":"She did her homework conscientiously every day.","exTh":"เธอทำการบ้านอย่างรับผิดชอบทุกวัน"}
+{"id":"disillusionment_noun","th":"ความผิดหวัง; ความหมดภาพลวงตา","ex":"He felt disillusionment after years in politics.","exTh":"เขารู้สึกผิดหวังหลังจากอยู่ในวงการการเมืองมาหลายปี"}
+{"id":"veneration_noun","th":"การเคารพบูชา; ความเคารพนับถืออย่างสูง","ex":"The villagers showed great veneration for the old temple.","exTh":"ชาวบ้านแสดงความเคารพนับถือวัดเก่าแก่นั้นเป็นอย่างยิ่ง"}
+{"id":"gourmet_adj","th":"ชั้นเลิศ; สำหรับผู้รู้ค่าของอาหาร","ex":"They opened a gourmet pizza restaurant.","exTh":"พวกเขาเปิดร้านพิซซ่าระดับพรีเมียม"}
+{"id":"gourmet_noun","th":"ผู้รู้จักอาหารดี; นักชิมอาหาร","ex":"The chef cooks for gourmets from all over the country.","exTh":"เชฟทำอาหารให้นักชิมจากทั่วประเทศ"}
+{"id":"motley_adj","th":"หลากหลายปะปน; มั่วๆ; หลากสี","ex":"A motley crowd gathered in the square.","exTh":"ฝูงชนหลากหลายประเภทมารวมตัวกันที่จัตุรัส"}
+{"id":"supple_adj","th":"อ่อนตัว; ยืดหยุ่น; นุ่มนวล","ex":"The dancer has a supple body.","exTh":"นักเต้นมีร่างกายที่อ่อนตัว"}
+{"id":"gig_noun","th":"งานแสดงดนตรี; งานชั่วคราว","ex":"Their band has a gig on Friday night.","exTh":"วงดนตรีของพวกเขามีโชว์คืนวันศุกร์"}
+{"id":"sarcastic_adj","th":"ประชดประชัน; เสียดสี","ex":"Don't be sarcastic with your teacher.","exTh":"อย่าพูดประชดครูของเธอ"}
+{"id":"poise_noun","th":"ความสง่างามสุขุม; ความนิ่งมั่นคง","ex":"She answered the hard question with poise.","exTh":"เธอตอบคำถามยากด้วยท่าทีสุขุมสง่างาม"}
+{"id":"methodical_adj","th":"เป็นระเบียบ; ทำอย่างมีระบบ","ex":"He is a methodical worker who checks every step.","exTh":"เขาเป็นคนทำงานอย่างมีระบบและตรวจทุกขั้นตอน"}
+{"id":"detritus_noun","th":"เศษซาก; เศษขยะที่ตกค้าง","ex":"The beach was covered with detritus after the storm.","exTh":"ชายหาดเต็มไปด้วยเศษซากหลังพายุ"}
+{"id":"aqua_adj","th":"สีฟ้าอมเขียว; สีน้ำทะเล","ex":"She wore an aqua dress to the party.","exTh":"เธอสวมชุดสีฟ้าอมเขียวไปงานปาร์ตี้"}
+{"id":"sprout_verb","th":"งอก; แตกหน่อ; ผุดขึ้น","ex":"The beans sprouted within a week.","exTh":"ถั่วงอกภายในหนึ่งสัปดาห์"}
+{"id":"sprout_noun","th":"หน่อ; ต้นอ่อน; ถั่วงอก","ex":"A small green sprout came out of the soil.","exTh":"ต้นอ่อนสีเขียวเล็กๆ โผล่ขึ้นมาจากดิน"}
+{"id":"unsettling_adj","th":"น่าวิตก; ทำให้ไม่สบายใจ; รบกวนจิตใจ","ex":"The film has an unsettling ending.","exTh":"ภาพยนตร์เรื่องนี้มีตอนจบที่ทำให้ไม่สบายใจ"}
+{"id":"ethically_adv","th":"อย่างมีจริยธรรม; ในทางจริยธรรม","ex":"The company tries to act ethically.","exTh":"บริษัทพยายามทำงานอย่างมีจริยธรรม"}
+{"id":"wayside_noun","th":"ข้างทาง; ริมทาง","ex":"We stopped at a small stall by the wayside.","exTh":"เราแวะที่แผงเล็กๆ ริมทาง"}
+{"id":"stamina_noun","th":"ความทนทาน; พละกำลัง; ความอึด","ex":"Marathon runners need great stamina.","exTh":"นักวิ่งมาราธอนต้องมีความอึดอย่างมาก"}
+{"id":"heifer_noun","th":"วัวสาว; วัวตัวเมียที่ยังไม่เคยคลอด","ex":"The farmer bought a young heifer.","exTh":"ชาวนาซื้อวัวสาวตัวหนึ่ง"}
+{"id":"altruistic_adj","th":"เสียสละเพื่อผู้อื่น; เห็นแก่ผู้อื่น","ex":"He gave away his money for altruistic reasons.","exTh":"เขาบริจาคเงินด้วยเหตุผลเพื่อผู้อื่น"}
+{"id":"panoramic_adj","th":"เห็นทัศนียภาพกว้าง; แบบพาโนรามา","ex":"The hotel room has a panoramic view of the sea.","exTh":"ห้องพักของโรงแรมมองเห็นทิวทัศน์ทะเลกว้างไกล"}
+{"id":"somber_adj","th":"หม่นหมอง; เคร่งขรึม; มืดครึ้ม","ex":"Everyone was in a somber mood at the funeral.","exTh":"ทุกคนอยู่ในอารมณ์เศร้าหม่นในงานศพ","note":"อังกฤษแบบอังกฤษสะกด sombre"}
+{"id":"lethargy_noun","th":"ความเซื่องซึม; ความเฉื่อยชา","ex":"The heat caused a feeling of lethargy.","exTh":"อากาศร้อนทำให้รู้สึกเซื่องซึม"}
+{"id":"wry_adj","th":"แสยะยิ้มประชด; ขำขื่น; เจ้าเล่ห์","ex":"He gave a wry smile when he heard the news.","exTh":"เขายิ้มขำขื่นเมื่อได้ยินข่าว"}
+{"id":"conditionally_adv","th":"อย่างมีเงื่อนไข; ภายใต้เงื่อนไข","ex":"The school accepted him conditionally.","exTh":"โรงเรียนรับเขาโดยมีเงื่อนไข"}
+{"id":"succulent_noun","th":"พืชอวบน้ำ; ไม้อวบน้ำ","ex":"Cacti are a type of succulent.","exTh":"กระบองเพชรเป็นพืชอวบน้ำชนิดหนึ่ง"}
+{"id":"succulent_adj","th":"ฉ่ำ; อวบน้ำ; อร่อยฉ่ำ","ex":"The steak was soft and succulent.","exTh":"สเต็กนุ่มและฉ่ำ"}
+{"id":"ceaseless_adj","th":"ไม่หยุดหย่อน; ไม่มีที่สิ้นสุด","ex":"The ceaseless noise kept me awake.","exTh":"เสียงดังไม่หยุดทำให้ฉันนอนไม่หลับ"}
+{"id":"plausibility_noun","th":"ความน่าเชื่อถือ; ความเป็นไปได้","ex":"I doubt the plausibility of his story.","exTh":"ฉันสงสัยว่าเรื่องที่เขาเล่าน่าเชื่อถือหรือไม่"}
+{"id":"alienate_verb","th":"ทำให้รู้สึกแปลกแยก; ทำให้ห่างเหิน","ex":"His rude comments alienated his friends.","exTh":"คำพูดหยาบคายของเขาทำให้เพื่อนๆ ห่างเหินไป"}
+{"id":"exuberant_adj","th":"ร่าเริงเต็มที่; กระตือรือร้น; เปี่ยมพลัง","ex":"The exuberant children ran around the park.","exTh":"เด็กๆ ที่เต็มไปด้วยพลังวิ่งเล่นไปทั่วสวน"}
+{"id":"twitch_verb","th":"กระตุก; สั่นกระตุก","ex":"His eye twitches when he is tired.","exTh":"ตาของเขากระตุกเวลาเหนื่อย"}
+{"id":"twitch_noun","th":"อาการกระตุก; การสั่นกระตุก","ex":"She had a nervous twitch in her hand.","exTh":"มือของเธอกระตุกด้วยความประหม่า"}
+{"id":"congregate_verb","th":"มารวมตัวกัน; ชุมนุม","ex":"Fans congregated outside the stadium.","exTh":"แฟนๆ มารวมตัวกันอยู่หน้าสนามกีฬา"}
+{"id":"crave_verb","th":"อยากได้อย่างแรง; ปรารถนา","ex":"I crave something sweet after dinner.","exTh":"ฉันอยากกินของหวานอย่างมากหลังอาหารเย็น"}
+{"id":"overalls_noun","th":"ชุดหมี; เอี๊ยมกางเกง","ex":"The painter wore blue overalls at work.","exTh":"ช่างทาสีสวมชุดหมีสีน้ำเงินตอนทำงาน","note":"ใช้เป็นพหูพจน์เสมอ"}
+{"id":"conjure_verb","th":"เสกขึ้น; ร่ายมนตร์; เรียกภาพให้นึกถึง","ex":"The smell of bread conjured memories of home.","exTh":"กลิ่นขนมปังทำให้นึกถึงความทรงจำที่บ้าน"}
+{"id":"unmanned_adj","th":"ไร้คนขับ; ไม่มีคนประจำ","ex":"An unmanned plane flew over the field.","exTh":"เครื่องบินไร้คนขับบินผ่านทุ่ง"}
+{"id":"gruesome_adj","th":"น่าสยดสยอง; น่าขยะแขยง","ex":"The police found a gruesome scene in the house.","exTh":"ตำรวจพบเหตุการณ์น่าสยดสยองในบ้าน"}
+{"id":"rudiments_noun","th":"ความรู้พื้นฐาน; หลักเบื้องต้น","ex":"She learned the rudiments of cooking from her mother.","exTh":"เธอเรียนรู้พื้นฐานการทำอาหารจากแม่","note":"ใช้เป็นพหูพจน์"}
+{"id":"crumble_verb","th":"ร่วนเป็นชิ้นเล็ก; พังทลาย; สลายไป","ex":"The old wall began to crumble.","exTh":"กำแพงเก่าเริ่มพังทลายลง"}
+{"id":"tranquility_noun","th":"ความสงบ; ความเยือกเย็น","ex":"I enjoy the tranquility of the countryside.","exTh":"ฉันชอบความสงบของชนบท","note":"อังกฤษแบบอังกฤษสะกด tranquillity"}
+{"id":"smug_adj","th":"ลำพองใจ; ถือดี; ภูมิใจในตัวเองเกินไป","ex":"He had a smug smile after winning.","exTh":"เขายิ้มอย่างลำพองหลังจากชนะ"}
+{"id":"heighten_verb","th":"ทำให้สูงขึ้น; ยกระดับ; เพิ่ม","ex":"Loud music heightened the tension in the room.","exTh":"เสียงเพลงดังเพิ่มความตึงเครียดให้ห้องนั้น"}
+{"id":"collaborator_noun","th":"ผู้ร่วมงาน; ผู้ร่วมมือ","ex":"She thanked her collaborators at the end of the talk.","exTh":"เธอกล่าวขอบคุณผู้ร่วมงานตอนท้ายการบรรยาย"}
+{"id":"firewall_noun","th":"ไฟร์วอลล์; ระบบป้องกันเครือข่าย; กำแพงกันไฟ","ex":"The firewall blocked the strange website.","exTh":"ไฟร์วอลล์บล็อกเว็บไซต์แปลกๆ นั้น"}
+{"id":"domestication_noun","th":"การทำให้เชื่อง; การนำมาเลี้ยง","ex":"The domestication of horses changed human history.","exTh":"การนำม้ามาเลี้ยงเปลี่ยนประวัติศาสตร์มนุษย์"}

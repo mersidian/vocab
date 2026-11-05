@@ -1,0 +1,100 @@
+{"id":"serial_adj","th":"เป็นชุด; ต่อเนื่องกัน; ตามลำดับ","ex":"The police are looking for a serial thief in the city.","exTh":"ตำรวจกำลังตามหาโจรที่ก่อเหตุต่อเนื่องหลายครั้งในเมือง"}
+{"id":"flexible_adj","th":"ยืดหยุ่น; โอนอ่อนผ่อนตาม","ex":"I like my job because the hours are flexible.","exTh":"ฉันชอบงานนี้เพราะเวลาทำงานยืดหยุ่น"}
+{"id":"ridge_noun","th":"สันเขา; สัน; แนวนูน","ex":"We walked along the ridge and looked at the valley.","exTh":"เราเดินไปตามสันเขาและมองลงไปที่หุบเขา"}
+{"id":"numerical_adj","th":"เกี่ยวกับตัวเลข; เชิงตัวเลข","ex":"The files are kept in numerical order.","exTh":"ไฟล์ถูกจัดเก็บเรียงตามลำดับตัวเลข"}
+{"id":"crucial_adj","th":"สำคัญยิ่ง; เป็นหัวใจสำคัญ; ชี้ขาด","ex":"Sleep is crucial for good health.","exTh":"การนอนหลับมีความสำคัญยิ่งต่อสุขภาพที่ดี"}
+{"id":"undoubtedly_adv","th":"อย่างไม่ต้องสงสัย; แน่นอน","ex":"She is undoubtedly the best player on our team.","exTh":"เธอเป็นผู้เล่นที่เก่งที่สุดในทีมของเราอย่างไม่ต้องสงสัย"}
+{"id":"alliance_noun","th":"พันธมิตร; การเป็นพันธมิตร; สัมพันธมิตร","ex":"The two companies formed an alliance to share costs.","exTh":"สองบริษัทจับมือเป็นพันธมิตรกันเพื่อแบ่งเบาค่าใช้จ่าย"}
+{"id":"educated_adj","th":"มีการศึกษา; ได้รับการศึกษา","ex":"He is a well educated man who speaks four languages.","exTh":"เขาเป็นคนมีการศึกษาดีและพูดได้สี่ภาษา"}
+{"id":"servant_noun","th":"คนรับใช้; ผู้รับใช้; ข้าราชการ","ex":"In the old story, the servant opened the door for the king.","exTh":"ในนิทานเก่า คนรับใช้เปิดประตูให้พระราชา"}
+{"id":"tail_noun","th":"หาง; ส่วนท้าย","ex":"The dog wagged its tail when I came home.","exTh":"สุนัขกระดิกหางเมื่อฉันกลับถึงบ้าน"}
+{"id":"strictly_adv","th":"อย่างเคร่งครัด; โดยเด็ดขาด; เฉพาะ","ex":"Smoking is strictly forbidden in this building.","exTh":"อาคารนี้ห้ามสูบบุหรี่โดยเด็ดขาด"}
+{"id":"subdivision_noun","th":"การแบ่งย่อย; ส่วนย่อย; หมู่บ้านจัดสรร","ex":"They bought a house in a new subdivision near the lake.","exTh":"พวกเขาซื้อบ้านในหมู่บ้านจัดสรรแห่งใหม่ใกล้ทะเลสาบ","note":"ในอเมริกามักหมายถึงโครงการบ้านจัดสรร"}
+{"id":"walker_noun","th":"คนเดิน; นักเดินเท้า; โครงช่วยเดิน","ex":"The park is popular with walkers on weekends.","exTh":"สวนสาธารณะเป็นที่นิยมของคนที่มาเดินเล่นในวันหยุดสุดสัปดาห์"}
+{"id":"hunting_noun","th":"การล่าสัตว์; การค้นหา","ex":"Hunting is not allowed in this area.","exTh":"พื้นที่นี้ไม่อนุญาตให้ล่าสัตว์"}
+{"id":"tight_adv","th":"แน่น; แน่นหนา; อย่างแน่น","ex":"Hold tight because the bus is moving fast.","exTh":"จับให้แน่นนะ เพราะรถเมล์กำลังวิ่งเร็ว"}
+{"id":"fate_noun","th":"โชคชะตา; ชะตากรรม; เคราะห์กรรม","ex":"Some people believe that fate brought them together.","exTh":"บางคนเชื่อว่าโชคชะตาทำให้พวกเขาได้มาพบกัน"}
+{"id":"tumor_noun","th":"เนื้องอก; ก้อนเนื้อ","ex":"The doctor found a small tumor in his lung.","exTh":"หมอพบเนื้องอกก้อนเล็กในปอดของเขา","note":"สะกดแบบอเมริกัน อังกฤษใช้ tumour"}
+{"id":"fraud_noun","th":"การฉ้อโกง; การหลอกลวง; คนหลอกลวง","ex":"He was arrested for credit card fraud.","exTh":"เขาถูกจับข้อหาฉ้อโกงบัตรเครดิต"}
+{"id":"dimension_noun","th":"มิติ; ขนาด; แง่มุม","ex":"Please measure the dimensions of the box.","exTh":"กรุณาวัดขนาดของกล่องใบนี้"}
+{"id":"complexity_noun","th":"ความซับซ้อน; ความยุ่งยาก","ex":"Many people are surprised by the complexity of the tax system.","exTh":"หลายคนแปลกใจกับความซับซ้อนของระบบภาษี"}
+{"id":"protest_verb","th":"ประท้วง; คัดค้าน","ex":"Students gathered to protest against the new rules.","exTh":"นักศึกษารวมตัวกันเพื่อประท้วงกฎใหม่"}
+{"id":"flesh_noun","th":"เนื้อ; เนื้อหนัง; เนื้อผลไม้","ex":"The flesh of this fruit is sweet and soft.","exTh":"เนื้อของผลไม้ชนิดนี้หวานและนุ่ม"}
+{"id":"throat_noun","th":"คอ; ลำคอ; ลำคอหอย","ex":"I have a sore throat and a cough.","exTh":"ฉันเจ็บคอและไอ"}
+{"id":"facilitate_verb","th":"ช่วยให้ง่ายขึ้น; อำนวยความสะดวก; สนับสนุน","ex":"New software can facilitate communication between teams.","exTh":"ซอฟต์แวร์ใหม่ช่วยให้การสื่อสารระหว่างทีมง่ายขึ้นได้","note":"ภาษาทางการ"}
+{"id":"capability_noun","th":"ความสามารถ; ขีดความสามารถ","ex":"The new phone has the capability to record in 4K.","exTh":"โทรศัพท์รุ่นใหม่มีความสามารถในการอัดวิดีโอ 4K"}
+{"id":"outline_noun","th":"โครงร่าง; เค้าโครง; เส้นขอบ","ex":"Please send me an outline of your report.","exTh":"กรุณาส่งโครงร่างรายงานของคุณมาให้ฉัน"}
+{"id":"investigate_verb","th":"สืบสวน; ตรวจสอบ; สอบสวน","ex":"Police are investigating the cause of the fire.","exTh":"ตำรวจกำลังสืบสวนสาเหตุของเพลิงไหม้"}
+{"id":"worship_noun","th":"การบูชา; การนมัสการ; การสักการะ","ex":"Many people go to the temple for worship on holidays.","exTh":"หลายคนไปวัดเพื่อสักการะในวันหยุด"}
+{"id":"wound_verb","th":"ทำให้บาดเจ็บ; ทำร้าย; ทำให้เจ็บใจ","ex":"The soldier was wounded in the leg.","exTh":"ทหารคนนั้นได้รับบาดเจ็บที่ขา","note":"wound ออกเสียง วูนด์ ต่างจาก wound (past of wind) ที่ออกเสียง เวานด์"}
+{"id":"audit_noun","th":"การตรวจสอบบัญชี; การตรวจสอบ","ex":"The company has an audit of its accounts every year.","exTh":"บริษัทมีการตรวจสอบบัญชีทุกปี"}
+{"id":"label_noun","th":"ฉลาก; ป้าย; สลาก","ex":"Always read the label before you take the medicine.","exTh":"อ่านฉลากทุกครั้งก่อนกินยา"}
+{"id":"navigation_noun","th":"การนำทาง; การเดินเรือ; การเดินอากาศ","ex":"My car has a navigation system that shows the best route.","exTh":"รถของฉันมีระบบนำทางที่แสดงเส้นทางที่ดีที่สุด"}
+{"id":"bottle_verb","th":"บรรจุขวด; เก็บใส่ขวด","ex":"They bottle the water at a factory near the mountain.","exTh":"พวกเขาบรรจุน้ำใส่ขวดที่โรงงานใกล้ภูเขา"}
+{"id":"justify_verb","th":"แสดงเหตุผลให้ถูกต้อง; ให้เหตุผลสนับสนุน; ทำให้สมเหตุสมผล","ex":"How can you justify spending so much money on a watch?","exTh":"คุณจะให้เหตุผลได้อย่างไรที่ใช้เงินมากมายกับนาฬิกาเรือนเดียว"}
+{"id":"trail_verb","th":"ลากไปตามพื้น; ตามหลัง; ไล่ตาม","ex":"Our team is trailing by two points at half time.","exTh":"ทีมของเราตามหลังอยู่สองแต้มเมื่อจบครึ่งแรก"}
+{"id":"gear_noun","th":"อุปกรณ์; เกียร์; เครื่องมือ","ex":"I packed all my camping gear in the car.","exTh":"ฉันเก็บอุปกรณ์แคมป์ปิ้งทั้งหมดใส่รถ"}
+{"id":"philosophical_adj","th":"เกี่ยวกับปรัชญา; มีทัศนคติสงบยอมรับ","ex":"They had a long philosophical discussion about happiness.","exTh":"พวกเขาคุยเชิงปรัชญากันยาวนานเรื่องความสุข"}
+{"id":"assurance_noun","th":"การรับรอง; คำยืนยัน; ความมั่นใจ","ex":"She gave me her assurance that the work would be done on time.","exTh":"เธอให้คำมั่นกับฉันว่างานจะเสร็จตรงเวลา"}
+{"id":"strip_verb","th":"ปลด; ถอดออก; ลอกออก","ex":"We need to strip the old paint from the wall.","exTh":"เราต้องลอกสีเก่าออกจากผนัง"}
+{"id":"certification_noun","th":"การรับรอง; ใบรับรอง; การออกใบรับรอง","ex":"You need a special certification to teach this course.","exTh":"คุณต้องมีใบรับรองพิเศษจึงจะสอนหลักสูตรนี้ได้"}
+{"id":"genuine_adj","th":"ของแท้; จริงใจ; แท้จริง","ex":"This bag is made of genuine leather.","exTh":"กระเป๋าใบนี้ทำจากหนังแท้"}
+{"id":"arch_noun","th":"ซุ้มโค้ง; สะพานโค้ง; อุ้งเท้า","ex":"We walked under the stone arch into the old town.","exTh":"เราเดินผ่านซุ้มโค้งหินเข้าไปในเมืองเก่า"}
+{"id":"verse_noun","th":"บทกลอน; ท่อนเพลง; โคลงกลอน","ex":"She read a verse from her favorite poem.","exTh":"เธออ่านบทกลอนจากบทกวีที่เธอชอบที่สุด"}
+{"id":"verse_verb","th":"ให้ความรู้ความชำนาญ; แต่งเป็นกลอน","ex":"He is well versed in Thai history.","exTh":"เขาเชี่ยวชาญประวัติศาสตร์ไทยเป็นอย่างดี","note":"มักใช้ในรูป versed in แปลว่า ชำนาญใน"}
+{"id":"assure_verb","th":"รับรอง; ยืนยัน; ทำให้มั่นใจ","ex":"I can assure you that the food is safe to eat.","exTh":"ฉันรับรองได้ว่าอาหารนี้ปลอดภัยที่จะรับประทาน"}
+{"id":"hardware_noun","th":"ฮาร์ดแวร์; อุปกรณ์เหล็ก; เครื่องมือช่าง","ex":"He bought some nails at the hardware store.","exTh":"เขาซื้อตะปูบางส่วนที่ร้านฮาร์ดแวร์"}
+{"id":"innovation_noun","th":"นวัตกรรม; สิ่งใหม่; การริเริ่มสิ่งใหม่","ex":"The company is famous for its innovation in electric cars.","exTh":"บริษัทนี้มีชื่อเสียงด้านนวัตกรรมรถยนต์ไฟฟ้า"}
+{"id":"stuff_verb","th":"ยัด; อัด; ใส่ให้เต็ม","ex":"She stuffed her clothes into the small bag.","exTh":"เธอยัดเสื้อผ้าลงในกระเป๋าใบเล็ก"}
+{"id":"illustration_noun","th":"ภาพประกอบ; ตัวอย่างประกอบ; การอธิบายด้วยตัวอย่าง","ex":"The book has a beautiful illustration on every page.","exTh":"หนังสือเล่มนี้มีภาพประกอบสวยงามในทุกหน้า"}
+{"id":"polish_noun","th":"น้ำยาขัดเงา; ความเงางาม; ความประณีต","ex":"I used shoe polish to make my boots shine.","exTh":"ฉันใช้ยาขัดรองเท้าเพื่อให้รองเท้าบูทเงางาม"}
+{"id":"controversy_noun","th":"ข้อถกเถียง; ความขัดแย้ง; เรื่องที่โต้เถียงกัน","ex":"The new law caused a lot of controversy.","exTh":"กฎหมายใหม่ก่อให้เกิดข้อถกเถียงมากมาย"}
+{"id":"supervisor_noun","th":"หัวหน้างาน; ผู้ควบคุมดูแล; ผู้บังคับบัญชา","ex":"My supervisor asked me to finish the report today.","exTh":"หัวหน้างานขอให้ฉันทำรายงานให้เสร็จวันนี้"}
+{"id":"presumably_adv","th":"สันนิษฐานว่า; คาดว่า; น่าจะ","ex":"He is late, so presumably he missed the train.","exTh":"เขามาสาย ก็คงจะตกรถไฟนั่นแหละ"}
+{"id":"fox_noun","th":"สุนัขจิ้งจอก; จิ้งจอก","ex":"A fox ran across the road in the dark.","exTh":"สุนัขจิ้งจอกตัวหนึ่งวิ่งข้ามถนนในความมืด"}
+{"id":"deficit_noun","th":"การขาดดุล; ส่วนที่ขาด; ยอดขาดทุน","ex":"The country has a large trade deficit this year.","exTh":"ปีนี้ประเทศขาดดุลการค้าเป็นจำนวนมาก"}
+{"id":"divorce_noun","th":"การหย่าร้าง; การหย่า","ex":"After the divorce, she moved to a new city.","exTh":"หลังการหย่าร้าง เธอย้ายไปอยู่เมืองใหม่"}
+{"id":"divorce_verb","th":"หย่า; หย่าร้าง; แยกออกจากกัน","ex":"They divorced after ten years of marriage.","exTh":"พวกเขาหย่ากันหลังจากแต่งงานมาสิบปี"}
+{"id":"bid_verb","th":"เสนอราคา; ประมูล; ยื่นข้อเสนอ","ex":"Several people bid for the old painting at the auction.","exTh":"หลายคนเสนอราคาภาพวาดเก่าในการประมูล","note":"รูปผัน bid, bid, bid"}
+{"id":"underground_adj","th":"ใต้ดิน; ลับ; นอกกระแส","ex":"The city has a large underground train system.","exTh":"เมืองนี้มีระบบรถไฟใต้ดินขนาดใหญ่"}
+{"id":"underground_adv","th":"ใต้ดิน; ไปอยู่ใต้ดิน; อย่างลับๆ","ex":"The pipes run underground across the whole town.","exTh":"ท่อต่างๆ ฝังอยู่ใต้ดินทั่วทั้งเมือง"}
+{"id":"withdrawal_noun","th":"การถอนเงิน; การถอนตัว; การถอนกำลัง","ex":"You can make a cash withdrawal at any ATM.","exTh":"คุณสามารถถอนเงินสดได้ที่ตู้ ATM ทุกแห่ง"}
+{"id":"stick_noun","th":"กิ่งไม้; ไม้เท้า; แท่ง","ex":"The boy picked up a stick and threw it for the dog.","exTh":"เด็กชายหยิบกิ่งไม้ขึ้นมาแล้วขว้างให้สุนัข"}
+{"id":"informal_adj","th":"ไม่เป็นทางการ; เป็นกันเอง","ex":"We had an informal meeting over coffee.","exTh":"เรามีการประชุมแบบไม่เป็นทางการระหว่างดื่มกาแฟ"}
+{"id":"illustrate_verb","th":"แสดงให้เห็น; อธิบายด้วยตัวอย่าง; วาดภาพประกอบ","ex":"The teacher drew a picture to illustrate the idea.","exTh":"ครูวาดรูปเพื่ออธิบายให้เห็นภาพความคิดนั้น"}
+{"id":"landing_noun","th":"การลงจอด; ชานพัก; ท่าเรือ","ex":"The plane had a smooth landing despite the rain.","exTh":"เครื่องบินลงจอดได้อย่างนุ่มนวลแม้ฝนจะตก"}
+{"id":"holder_noun","th":"ผู้ถือ; ที่ใส่; ผู้ครอบครอง","ex":"She is the holder of a national swimming record.","exTh":"เธอเป็นผู้ครองสถิติว่ายน้ำระดับประเทศ"}
+{"id":"potentially_adv","th":"อาจจะ; ที่อาจเกิดขึ้นได้; โดยศักยภาพ","ex":"This is a potentially dangerous road in the rain.","exTh":"ถนนเส้นนี้อาจเป็นอันตรายได้ในวันที่ฝนตก"}
+{"id":"possessed_adj","th":"ถูกผีเข้า; ถูกสิง; บ้าคลั่ง","ex":"In the film, the girl looks as if she is possessed.","exTh":"ในหนัง เด็กหญิงดูเหมือนถูกผีเข้า","note":"อีกความหมายคือ possessed of แปลว่า ครอบครอง/มี"}
+{"id":"legitimate_adj","th":"ถูกกฎหมาย; ชอบธรรม; สมเหตุสมผล","ex":"That is a legitimate business with all the right licenses.","exTh":"นั่นเป็นธุรกิจที่ถูกกฎหมายและมีใบอนุญาตครบถ้วน"}
+{"id":"forestry_noun","th":"การป่าไม้; วนศาสตร์","ex":"He studies forestry at university.","exTh":"เขาเรียนวนศาสตร์ที่มหาวิทยาลัย"}
+{"id":"feedback_noun","th":"ข้อเสนอแนะ; ผลตอบรับ; เสียงสะท้อน","ex":"Thank you for your feedback on my presentation.","exTh":"ขอบคุณสำหรับข้อเสนอแนะเกี่ยวกับการนำเสนอของฉัน"}
+{"id":"bankruptcy_noun","th":"การล้มละลาย; ภาวะล้มละลาย","ex":"The shop closed after the owner declared bankruptcy.","exTh":"ร้านปิดตัวลงหลังเจ้าของประกาศล้มละลาย"}
+{"id":"offense_noun","th":"ความผิด; การกระทำผิด; การทำให้ขุ่นเคือง","ex":"Driving without a license is a serious offense.","exTh":"การขับรถโดยไม่มีใบขับขี่เป็นความผิดร้ายแรง","note":"สะกดแบบอเมริกัน อังกฤษใช้ offence"}
+{"id":"presidential_adj","th":"เกี่ยวกับประธานาธิบดี; ของประธานาธิบดี","ex":"The country will hold a presidential election next year.","exTh":"ประเทศนี้จะมีการเลือกตั้งประธานาธิบดีในปีหน้า"}
+{"id":"odd_adj","th":"แปลก; ประหลาด; เป็นเลขคี่","ex":"It is odd that he didn't call me back.","exTh":"แปลกที่เขาไม่โทรกลับหาฉัน"}
+{"id":"flexibility_noun","th":"ความยืดหยุ่น; ความคล่องตัว","ex":"My manager gives me flexibility in my working hours.","exTh":"ผู้จัดการให้ความยืดหยุ่นเรื่องเวลาทำงานแก่ฉัน"}
+{"id":"balanced_adj","th":"สมดุล; เป็นกลาง; พอเหมาะ","ex":"Try to eat a balanced diet every day.","exTh":"พยายามกินอาหารที่สมดุลทุกวัน"}
+{"id":"merchandise_noun","th":"สินค้า; ของขาย","ex":"The store sells official merchandise from the football club.","exTh":"ร้านขายสินค้าที่ระลึกอย่างเป็นทางการของสโมสรฟุตบอล"}
+{"id":"evidently_adv","th":"เห็นได้ชัดว่า; ดูเหมือนว่า","ex":"He was evidently tired because he fell asleep at once.","exTh":"เห็นได้ชัดว่าเขาเหนื่อยเพราะเขาหลับไปทันที"}
+{"id":"mature_adj","th":"เป็นผู้ใหญ่; สุกงอม; เติบโตเต็มที่","ex":"She is very mature for her age.","exTh":"เธอเป็นผู้ใหญ่มากสำหรับวัยของเธอ"}
+{"id":"venture_noun","th":"กิจการเสี่ยง; โครงการใหม่; ธุรกิจร่วมทุน","ex":"His first business venture was a small coffee shop.","exTh":"ธุรกิจแรกของเขาคือร้านกาแฟเล็กๆ"}
+{"id":"extract_noun","th":"สารสกัด; ข้อความตัดตอน; สิ่งที่สกัดได้","ex":"This soap contains natural plant extract.","exTh":"สบู่ก้อนนี้มีสารสกัดจากพืชธรรมชาติ"}
+{"id":"extract_verb","th":"สกัด; ดึงออก; ถอนออก","ex":"The dentist had to extract my tooth.","exTh":"ทันตแพทย์ต้องถอนฟันของฉัน"}
+{"id":"beneficial_adj","th":"เป็นประโยชน์; มีคุณประโยชน์","ex":"Regular exercise is beneficial to your health.","exTh":"การออกกำลังกายสม่ำเสมอเป็นประโยชน์ต่อสุขภาพของคุณ"}
+{"id":"hay_noun","th":"หญ้าแห้ง; ฟาง","ex":"The farmer gave hay to the cows.","exTh":"ชาวนาให้หญ้าแห้งแก่วัว"}
+{"id":"amongst_prep","th":"ท่ามกลาง; ในหมู่; ระหว่าง","ex":"She found her keys amongst the papers on the desk.","exTh":"เธอเจอกุญแจท่ามกลางกองกระดาษบนโต๊ะ","note":"เหมือน among แต่เป็นสำนวนอังกฤษและค่อนข้างเป็นทางการ"}
+{"id":"insufficient_adj","th":"ไม่เพียงพอ; ไม่พอ","ex":"There was insufficient evidence to prove his guilt.","exTh":"มีหลักฐานไม่เพียงพอที่จะพิสูจน์ว่าเขามีความผิด"}
+{"id":"defeat_noun","th":"ความพ่ายแพ้; การเอาชนะ","ex":"Our team suffered a heavy defeat last night.","exTh":"ทีมของเราพ่ายแพ้ยับเยินเมื่อคืนนี้"}
+{"id":"alter_verb","th":"เปลี่ยนแปลง; ดัดแปลง; แก้ไข","ex":"I need to alter this dress because it is too long.","exTh":"ฉันต้องแก้ชุดนี้เพราะมันยาวเกินไป"}
+{"id":"bare_verb","th":"เปิดเผย; เผยให้เห็น; เปลือย","ex":"The dog bared its teeth at the stranger.","exTh":"สุนัขขู่ยิงฟันใส่คนแปลกหน้า"}
+{"id":"skilled_adj","th":"ชำนาญ; มีทักษะ; เชี่ยวชาญ","ex":"He is a skilled worker who builds beautiful furniture.","exTh":"เขาเป็นช่างฝีมือที่ทำเฟอร์นิเจอร์ได้สวยงาม"}
+{"id":"enhance_verb","th":"เพิ่มพูน; ยกระดับ; ทำให้ดีขึ้น","ex":"Good lighting can enhance the look of a room.","exTh":"แสงสว่างที่ดีช่วยเพิ่มความสวยงามให้ห้องได้"}
+{"id":"classic_noun","th":"งานคลาสสิก; ของดีที่อยู่ยงคงกระพัน; แบบฉบับ","ex":"This film is a classic that everyone should see.","exTh":"หนังเรื่องนี้เป็นงานคลาสสิกที่ทุกคนควรดู"}
+{"id":"deduction_noun","th":"การหักลบ; การอนุมาน; ข้อสรุป","ex":"There is a deduction for tax on your monthly pay.","exTh":"เงินเดือนของคุณมีการหักภาษีทุกเดือน"}
+{"id":"approximate_adj","th":"โดยประมาณ; คร่าวๆ; ใกล้เคียง","ex":"The approximate cost of the trip is five thousand baht.","exTh":"ค่าใช้จ่ายโดยประมาณของการเดินทางครั้งนี้คือห้าพันบาท"}
+{"id":"deck_noun","th":"ดาดฟ้าเรือ; ระเบียงไม้; สำรับไพ่","ex":"We stood on the deck and watched the sunset.","exTh":"เรายืนอยู่บนดาดฟ้าเรือและดูพระอาทิตย์ตก"}
+{"id":"rental_noun","th":"การเช่า; ค่าเช่า; สิ่งที่ให้เช่า","ex":"We picked up our rental car at the airport.","exTh":"เรารับรถเช่าที่สนามบิน"}
+{"id":"praise_verb","th":"ชมเชย; สรรเสริญ; ยกย่อง","ex":"The teacher praised him for his hard work.","exTh":"ครูชมเชยเขาที่ตั้งใจทำงานหนัก"}
+{"id":"seldom_adv","th":"ไม่ค่อย; นานๆ ครั้ง; แทบไม่","ex":"He seldom eats meat.","exTh":"เขาแทบไม่กินเนื้อสัตว์"}
+{"id":"heritage_noun","th":"มรดก; มรดกทางวัฒนธรรม; สิ่งที่สืบทอดมา","ex":"The old town is a World Heritage site.","exTh":"เมืองเก่าแห่งนี้เป็นแหล่งมรดกโลก"}

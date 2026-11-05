@@ -1,0 +1,100 @@
+{"id":"zoo_noun","th":"สวนสัตว์","ex":"We saw a big elephant at the zoo.","exTh":"เราเห็นช้างตัวใหญ่ที่สวนสัตว์"}
+{"id":"soccer_noun","th":"ฟุตบอล","ex":"My son plays soccer after school.","exTh":"ลูกชายของฉันเล่นฟุตบอลหลังเลิกเรียน","note":"สำเนียงอเมริกัน; อังกฤษใช้ football"}
+{"id":"pizza_noun","th":"พิซซ่า","ex":"We ordered a large pizza for dinner.","exTh":"เราสั่งพิซซ่าถาดใหญ่เป็นมื้อเย็น"}
+{"id":"girlfriend_noun","th":"แฟนสาว; เพื่อนผู้หญิง","ex":"He is meeting his girlfriend tonight.","exTh":"คืนนี้เขาจะไปพบแฟนสาว"}
+{"id":"boyfriend_noun","th":"แฟนหนุ่ม","ex":"Her boyfriend cooks very well.","exTh":"แฟนหนุ่มของเธอทำอาหารเก่งมาก"}
+{"id":"interviewer_noun","th":"ผู้สัมภาษณ์","ex":"The interviewer asked me about my job.","exTh":"ผู้สัมภาษณ์ถามฉันเกี่ยวกับงานของฉัน"}
+{"id":"waiter_noun","th":"พนักงานเสิร์ฟชาย; บริกร","ex":"The waiter brought us some water.","exTh":"พนักงานเสิร์ฟเอาน้ำมาให้เรา"}
+{"id":"grandma_noun","th":"คุณยาย; คุณย่า","ex":"My grandma makes the best soup.","exTh":"คุณยายของฉันทำซุปอร่อยที่สุด","note":"ภาษาพูด; ไม่แยกฝั่งแม่หรือพ่อ"}
+{"id":"surf_noun","th":"คลื่น (ที่ซัดเข้าฝั่ง); การเล่นเซิร์ฟ","ex":"The surf was high at the beach today.","exTh":"วันนี้คลื่นที่ชายหาดสูง"}
+{"id":"hobby_noun","th":"งานอดิเรก","ex":"My hobby is taking photos of flowers.","exTh":"งานอดิเรกของฉันคือถ่ายรูปดอกไม้"}
+{"id":"vase_noun","th":"แจกัน","ex":"She put the flowers in a vase.","exTh":"เธอปักดอกไม้ลงในแจกัน"}
+{"id":"apron_noun","th":"ผ้ากันเปื้อน","ex":"He wears an apron when he cooks.","exTh":"เขาใส่ผ้ากันเปื้อนเวลาทำอาหาร"}
+{"id":"cartoon_noun","th":"การ์ตูน","ex":"The children watch a cartoon every morning.","exTh":"เด็กๆ ดูการ์ตูนทุกเช้า"}
+{"id":"foreigner_noun","th":"ชาวต่างชาติ; คนต่างประเทศ","ex":"Many foreigners visit Thailand every year.","exTh":"ชาวต่างชาติมากมายมาเที่ยวเมืองไทยทุกปี"}
+{"id":"cloudy_adj","th":"มีเมฆมาก; ครึ้ม","ex":"It is cloudy today, so take an umbrella.","exTh":"วันนี้ฟ้าครึ้ม เอาร่มไปด้วยนะ"}
+{"id":"cute_adj","th":"น่ารัก; น่าเอ็นดู","ex":"Your little dog is so cute.","exTh":"สุนัขตัวเล็กของคุณน่ารักมาก"}
+{"id":"burger_noun","th":"เบอร์เกอร์; แฮมเบอร์เกอร์","ex":"I had a burger and fries for lunch.","exTh":"ฉันกินเบอร์เกอร์กับเฟรนช์ฟรายส์เป็นมื้อกลางวัน"}
+{"id":"supermarket_noun","th":"ซูเปอร์มาร์เก็ต","ex":"I buy fruit at the supermarket.","exTh":"ฉันซื้อผลไม้ที่ซูเปอร์มาร์เก็ต"}
+{"id":"bye_noun","th":"การบอกลา; ลาก่อน","ex":"She waved and said bye to us.","exTh":"เธอโบกมือและกล่าวลาเรา","note":"ใช้เป็นคำอุทานว่า bye ก็ได้"}
+{"id":"cookie_noun","th":"คุกกี้","ex":"My mother baked some cookies today.","exTh":"วันนี้แม่ของฉันอบคุกกี้"}
+{"id":"grandpa_noun","th":"คุณตา; คุณปู่","ex":"My grandpa tells us funny stories.","exTh":"คุณตาของฉันเล่าเรื่องตลกให้เราฟัง","note":"ภาษาพูด; ไม่แยกฝั่งแม่หรือพ่อ"}
+{"id":"snowy_adj","th":"มีหิมะตก; เต็มไปด้วยหิมะ","ex":"It is a cold and snowy day.","exTh":"วันนี้เป็นวันที่หนาวและมีหิมะตก"}
+{"id":"olympics_noun","th":"กีฬาโอลิมปิก","ex":"The Olympics are held every four years.","exTh":"โอลิมปิกจัดขึ้นทุกสี่ปี","note":"มักใช้ the Olympics เป็นรูปพหูพจน์"}
+{"id":"bookstore_noun","th":"ร้านหนังสือ","ex":"I bought this book at the bookstore.","exTh":"ฉันซื้อหนังสือเล่มนี้ที่ร้านหนังสือ"}
+{"id":"biscuit_noun","th":"บิสกิต; ขนมปังกรอบ","ex":"I like a biscuit with my tea.","exTh":"ฉันชอบกินบิสกิตกับชา","note":"อังกฤษ = คุกกี้/แครกเกอร์; อเมริกัน = ขนมปังก้อนนุ่ม"}
+{"id":"waitress_noun","th":"พนักงานเสิร์ฟหญิง","ex":"The waitress smiled and took our order.","exTh":"พนักงานเสิร์ฟหญิงยิ้มแล้วรับออเดอร์ของเรา"}
+{"id":"underline_noun","th":"เส้นใต้ตัวอักษร; ขีดเส้นใต้","ex":"Put an underline under the main word.","exTh":"ขีดเส้นใต้คำหลักด้วย"}
+{"id":"kite_noun","th":"ว่าว","ex":"The boy flew a red kite in the park.","exTh":"เด็กชายเล่นว่าวสีแดงในสวนสาธารณะ"}
+{"id":"mommy_noun","th":"แม่; หม่ามี้","ex":"The little girl called out, Mommy, look!","exTh":"เด็กหญิงตัวน้อยร้องเรียกว่า แม่ขา ดูสิ","note":"ภาษาเด็ก; สำเนียงอเมริกัน"}
+{"id":"yogurt_noun","th":"โยเกิร์ต","ex":"I eat yogurt with fruit for breakfast.","exTh":"ฉันกินโยเกิร์ตกับผลไม้เป็นอาหารเช้า"}
+{"id":"hometown_noun","th":"บ้านเกิด; เมืองเกิด","ex":"I visit my hometown every New Year.","exTh":"ฉันกลับไปบ้านเกิดทุกปีใหม่"}
+{"id":"hamburger_noun","th":"แฮมเบอร์เกอร์","ex":"He ordered a hamburger with cheese.","exTh":"เขาสั่งแฮมเบอร์เกอร์ใส่ชีส"}
+{"id":"volleyball_noun","th":"วอลเลย์บอล","ex":"We play volleyball on the beach.","exTh":"เราเล่นวอลเลย์บอลที่ชายหาด"}
+{"id":"foggy_adj","th":"มีหมอกหนา","ex":"It was too foggy to see the road.","exTh":"หมอกหนาจนมองไม่เห็นถนน"}
+{"id":"classmate_noun","th":"เพื่อนร่วมชั้น; เพื่อนร่วมห้อง","ex":"My classmate sits next to me.","exTh":"เพื่อนร่วมชั้นของฉันนั่งข้างฉัน"}
+{"id":"grandparent_noun","th":"ปู่ย่าตายาย","ex":"Both of my grandparents live in the country.","exTh":"ปู่ย่าตายายของฉันทั้งสองฝั่งอยู่ต่างจังหวัด"}
+{"id":"haircut_noun","th":"การตัดผม; ทรงผม","ex":"I need a haircut before the wedding.","exTh":"ฉันต้องไปตัดผมก่อนงานแต่งงาน"}
+{"id":"m_verb","th":"เป็น (รูปย่อของ am)","ex":"I'm happy to see you today.","exTh":"ฉันดีใจที่ได้เจอคุณวันนี้","note":"รูปย่อ I'm = I am"}
+{"id":"re_verb","th":"เป็น; อยู่; คือ (รูปย่อของ are)","ex":"They're my best friends.","exTh":"พวกเขาเป็นเพื่อนสนิทของฉัน","note":"รูปย่อ you're, we're, they're = are"}
+{"id":"s_verb","th":"เป็น; อยู่; คือ (รูปย่อของ is)","ex":"She's a teacher at my school.","exTh":"เธอเป็นครูที่โรงเรียนของฉัน","note":"รูปย่อ he's, she's, it's = is"}
+{"id":"a-m_adv","th":"ก่อนเที่ยง; ช่วงเช้า","ex":"The class starts at nine a.m.","exTh":"ชั้นเรียนเริ่มตอนเก้าโมงเช้า","note":"ใช้หลังเวลา เช่น 9 a.m."}
+{"id":"all-right_adj","th":"โอเค; ไม่เป็นไร; พอใช้ได้","ex":"Are you all right after the fall?","exTh":"คุณโอเคไหมหลังจากล้มไปเมื่อกี้"}
+{"id":"all-right_adv","th":"พอใช้ได้; ดีพอสมควร","ex":"The test went all right for me.","exTh":"การสอบผ่านไปได้ด้วยดีสำหรับฉัน"}
+{"id":"cd-player_noun","th":"เครื่องเล่นซีดี","ex":"My old car has a CD player.","exTh":"รถเก่าของฉันมีเครื่องเล่นซีดี"}
+{"id":"credit-card_noun","th":"บัตรเครดิต","ex":"Can I pay by credit card here?","exTh":"ที่นี่จ่ายด้วยบัตรเครดิตได้ไหม"}
+{"id":"dining-room_noun","th":"ห้องรับประทานอาหาร","ex":"We eat dinner in the dining room.","exTh":"เรากินอาหารเย็นในห้องรับประทานอาหาร"}
+{"id":"dvd_noun","th":"ดีวีดี","ex":"We watched a DVD at home last night.","exTh":"เมื่อคืนเราดูดีวีดีที่บ้าน"}
+{"id":"each-other_pron","th":"กันและกัน","ex":"The two sisters help each other.","exTh":"สองพี่น้องช่วยเหลือกันและกัน"}
+{"id":"false_adj","th":"เท็จ; ไม่จริง; ผิด","ex":"The answer to question two is false.","exTh":"คำตอบของข้อสองคือเท็จ"}
+{"id":"good-afternoon_interj","th":"สวัสดีตอนบาย","ex":"Good afternoon, how can I help you?","exTh":"สวัสดีตอนบายค่ะ ให้ช่วยอะไรไหมคะ"}
+{"id":"good-morning_interj","th":"สวัสดีตอนเช้า; อรุณสวัสดิ์","ex":"Good morning, did you sleep well?","exTh":"อรุณสวัสดิ์ นอนหลับสบายไหม"}
+{"id":"good-night_interj","th":"ราตรีสวัสดิ์; ฝันดี","ex":"Good night, see you tomorrow.","exTh":"ราตรีสวัสดิ์ พรุ่งนี้เจอกันนะ"}
+{"id":"have-to_modal","th":"ต้อง; จำเป็นต้อง","ex":"I have to get up early tomorrow.","exTh":"พรุ่งนี้ฉันต้องตื่นเช้า","note":"ผันเป็น has to, had to"}
+{"id":"hello_noun","th":"คำทักทาย; การทักทาย","ex":"She gave me a warm hello at the door.","exTh":"เธอทักทายฉันอย่างอบอุ่นที่ประตู","note":"ใช้เป็นคำอุทานว่า hello = สวัสดี ก็ได้"}
+{"id":"ice-cream_noun","th":"ไอศกรีม","ex":"The children want ice cream after dinner.","exTh":"เด็กๆ อยากกินไอศกรีมหลังอาหารเย็น"}
+{"id":"last-name_noun","th":"นามสกุล","ex":"Please write your last name here.","exTh":"กรุณาเขียนนามสกุลของคุณตรงนี้"}
+{"id":"living-room_noun","th":"ห้องนั่งเล่น","ex":"The sofa is in the living room.","exTh":"โซฟาอยู่ในห้องนั่งเล่น"}
+{"id":"mobile-phone_noun","th":"โทรศัพท์มือถือ","ex":"Please turn off your mobile phone.","exTh":"กรุณาปิดโทรศัพท์มือถือของคุณ"}
+{"id":"mr_noun","th":"นาย; คุณ (ผู้ชาย)","ex":"Mr. Brown is our English teacher.","exTh":"คุณบราวน์เป็นครูภาษาอังกฤษของเรา","note":"ใช้นำหน้านามสกุล ตัวย่อของ Mister"}
+{"id":"mrs_noun","th":"นาง; คุณ (ผู้หญิงที่แต่งงานแล้ว)","ex":"Mrs. Green lives next door to us.","exTh":"คุณนายกรีนอาศัยอยู่บ้านติดกับเรา","note":"ใช้นำหน้านามสกุล"}
+{"id":"o-clock_adv","th":"นาฬิกา; โมง (เวลาตรง)","ex":"The shop opens at nine o'clock.","exTh":"ร้านเปิดตอนเก้าโมง","note":"ใช้กับเวลาตรงชั่วโมงเท่านั้น"}
+{"id":"p-m_adv","th":"หลังเที่ยง; ช่วงบ่ายถึงค่ำ","ex":"The movie starts at seven p.m.","exTh":"ภาพยนตร์เริ่มตอนหนึ่งทุ่ม","note":"ใช้หลังเวลา เช่น 7 p.m."}
+{"id":"swimming-pool_noun","th":"สระว่ายน้ำ","ex":"There is a swimming pool at the hotel.","exTh":"ที่โรงแรมมีสระว่ายน้ำ"}
+{"id":"t-shirt_noun","th":"เสื้อยืด","ex":"He wore a white T-shirt and jeans.","exTh":"เขาใส่เสื้อยืดสีขาวกับกางเกงยีนส์"}
+{"id":"in_adv","th":"เข้าไป; ข้างใน; อยู่บ้าน","ex":"Please come in and sit down.","exTh":"เชิญเข้ามานั่งก่อนครับ"}
+{"id":"for_conj","th":"เพราะ; เนื่องจาก","ex":"She stayed home, for she felt sick.","exTh":"เธออยู่บ้านเพราะรู้สึกไม่สบาย","note":"ค่อนข้างเป็นทางการหรือแบบวรรณกรรม"}
+{"id":"as_conj","th":"ขณะที่; เมื่อ; เพราะ","ex":"I saw him as I was leaving.","exTh":"ฉันเห็นเขาตอนที่กำลังจะออกไป"}
+{"id":"it_noun","th":"ผู้ที่ถูกไล่จับ (ในเกม); เสน่ห์","ex":"In this game, you are it now.","exTh":"ในเกมนี้ ตอนนี้คุณเป็นคนไล่จับ","note":"ความหมายเฉพาะ ใช้น้อย"}
+{"id":"on_adv","th":"ต่อไป; ติดอยู่; เปิดอยู่","ex":"Keep on walking, we are almost there.","exTh":"เดินต่อไปเรื่อยๆ ใกล้ถึงแล้ว"}
+{"id":"all_adv","th":"ทั้งหมด; ล้วน; สิ้นเชิง","ex":"The kitchen was all clean this morning.","exTh":"เช้านี้ห้องครัวสะอาดทั้งห้อง"}
+{"id":"one_pron","th":"คนหนึ่ง; อันหนึ่ง; ผู้ที่","ex":"I lost my pen, so I need a new one.","exTh":"ฉันทำปากกาหาย เลยต้องใช้อันใหม่"}
+{"id":"been_verb","th":"เคยเป็น; เคยไป; เป็นมาแล้ว","ex":"I have been to Japan twice.","exTh":"ฉันเคยไปญี่ปุ่นสองครั้ง","note":"รูป past participle ของ be"}
+{"id":"can_noun","th":"กระป๋อง; ถัง","ex":"Please put the empty can in the bin.","exTh":"กรุณาทิ้งกระป๋องเปล่าลงในถังขยะ"}
+{"id":"other_pron","th":"อีกอัน; อีกคน; สิ่งอื่น","ex":"One shoe is here, but where is the other?","exTh":"รองเท้าข้างหนึ่งอยู่นี่ แล้วอีกข้างอยู่ไหน"}
+{"id":"such_det","th":"เช่นนั้น; ขนาดนั้น; อย่างนี้","ex":"It was such a nice day yesterday.","exTh":"เมื่อวานเป็นวันที่ดีจริงๆ"}
+{"id":"such_pron","th":"สิ่งเช่นนั้น; อย่างนั้น","ex":"Dogs, cats and such are welcome here.","exTh":"สุนัข แมว และสัตว์ทำนองนั้นเข้าได้ที่นี่","note":"ใช้ค่อนข้างเป็นทางการ"}
+{"id":"so_adv","th":"มาก; ขนาดนั้น; ดังนั้น","ex":"I am so tired after work today.","exTh":"วันนี้หลังเลิกงานฉันเหนื่อยมาก"}
+{"id":"up_adv","th":"ขึ้น; ขึ้นไป; ตื่น","ex":"He looked up at the bright moon.","exTh":"เขาเงยหน้ามองดวงจันทร์ที่สว่าง"}
+{"id":"state_noun","th":"รัฐ; สภาพ; สถานะ","ex":"California is a large state in the USA.","exTh":"แคลิฟอร์เนียเป็นรัฐใหญ่ในสหรัฐอเมริกา"}
+{"id":"after_adv","th":"ภายหลัง; ต่อมา","ex":"We ate lunch and went home soon after.","exTh":"เรากินข้าวกลางวันและกลับบ้านหลังจากนั้นไม่นาน"}
+{"id":"over_adv","th":"ข้ามไป; จบแล้ว; ซ้ำอีกครั้ง","ex":"Come over to my house this weekend.","exTh":"สุดสัปดาห์นี้แวะมาที่บ้านฉันนะ"}
+{"id":"most_adv","th":"มากที่สุด; ที่สุด","ex":"She is the most helpful person here.","exTh":"เธอเป็นคนที่ช่วยเหลือผู้อื่นมากที่สุดที่นี่","note":"ใช้สร้างขั้นสูงสุด เช่น most beautiful"}
+{"id":"most_pron","th":"ส่วนใหญ่; คนส่วนใหญ่","ex":"Most of my friends live in Bangkok.","exTh":"เพื่อนส่วนใหญ่ของฉันอาศัยอยู่ในกรุงเทพฯ"}
+{"id":"use_noun","th":"การใช้; ประโยชน์","ex":"This old phone is of no use now.","exTh":"โทรศัพท์เครื่องเก่านี้ไม่มีประโยชน์แล้ว","note":"ออกเสียง ยูส (noun) ต่างจาก ยูซ (verb)"}
+{"id":"shall_modal","th":"จะ (ชวนหรือเสนอ); ต้อง (ทางการ)","ex":"Shall we go out for dinner tonight?","exTh":"คืนนี้เราไปกินข้าวข้างนอกกันไหม","note":"ใช้กับ I/we ในคำถามเสนอหรือชวน"}
+{"id":"being_noun","th":"สิ่งมีชีวิต; บุคคล; การดำรงอยู่","ex":"Every human being needs food and water.","exTh":"มนุษย์ทุกคนต้องการอาหารและน้ำ"}
+{"id":"used_adj","th":"มือสอง; ที่ใช้แล้ว","ex":"He bought a used car last month.","exTh":"เขาซื้อรถมือสองเมื่อเดือนที่แล้ว","note":"be used to + V-ing = คุ้นเคยกับ"}
+{"id":"before_conj","th":"ก่อนที่; ก่อน","ex":"Wash your hands before you eat.","exTh":"ล้างมือก่อนกินข้าว"}
+{"id":"part_noun","th":"ส่วน; ชิ้นส่วน; บทบาท","ex":"This is the best part of the movie.","exTh":"นี่เป็นส่วนที่ดีที่สุดของหนัง"}
+{"id":"even_adv","th":"แม้แต่; ยิ่งกว่า; แม้กระทั่ง","ex":"Even a child can do this easily.","exTh":"แม้แต่เด็กก็ทำสิ่งนี้ได้ง่ายๆ"}
+{"id":"during_prep","th":"ระหว่าง; ในช่วง","ex":"Please be quiet during the movie.","exTh":"กรุณาเงียบระหว่างที่ฉายหนัง"}
+{"id":"system_noun","th":"ระบบ; วิธีการ","ex":"The school has a new computer system.","exTh":"โรงเรียนมีระบบคอมพิวเตอร์ใหม่"}
+{"id":"upon_prep","th":"บน; เมื่อ; ทันทีที่","ex":"Upon arrival, please call me at once.","exTh":"เมื่อมาถึงแล้ว กรุณาโทรหาฉันทันที","note":"ทางการกว่า on"}
+{"id":"public_noun","th":"สาธารณชน; ประชาชน; คนทั่วไป","ex":"The park is open to the public.","exTh":"สวนสาธารณะเปิดให้ประชาชนเข้าใช้","note":"มักใช้ the public"}
+{"id":"however_adv","th":"อย่างไรก็ตาม; แต่ทว่า","ex":"I like it. However, it is too expensive.","exTh":"ฉันชอบมัน อย่างไรก็ตามมันแพงเกินไป"}
+{"id":"act_noun","th":"การกระทำ; พระราชบัญญัติ; ฉาก (ละคร)","ex":"Giving food to the poor is a kind act.","exTh":"การแจกอาหารให้คนยากจนเป็นการกระทำที่ใจดี"}
+{"id":"government_noun","th":"รัฐบาล; การปกครอง","ex":"The government plans to build a new road.","exTh":"รัฐบาลวางแผนจะสร้างถนนสายใหม่"}
+{"id":"while_conj","th":"ขณะที่; ในขณะที่; แต่ว่า","ex":"I listen to music while I cook.","exTh":"ฉันฟังเพลงขณะทำอาหาร"}
+{"id":"high_adv","th":"สูง; ในที่สูง","ex":"The bird flew high above the trees.","exTh":"นกบินสูงเหนือต้นไม้"}
+{"id":"order_verb","th":"สั่ง (อาหาร/สินค้า); สั่งการ","ex":"Are you ready to order your food?","exTh":"พร้อมจะสั่งอาหารหรือยังคะ"}

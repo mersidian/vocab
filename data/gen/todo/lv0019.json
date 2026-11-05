@@ -1,0 +1,602 @@
+[
+{
+"id": "graduate_verb",
+"w": "graduate",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "rent_noun",
+"w": "rent",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "rent_verb",
+"w": "rent",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "consequence_noun",
+"w": "consequence",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "banking_noun",
+"w": "banking",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "sweet_noun",
+"w": "sweet",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "wine_noun",
+"w": "wine",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "personality_noun",
+"w": "personality",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "ending_noun",
+"w": "ending",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "reply_noun",
+"w": "reply",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "escape_noun",
+"w": "escape",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "snow_verb",
+"w": "snow",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "automatic_adj",
+"w": "automatic",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "depend_verb",
+"w": "depend",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "prepare_verb",
+"w": "prepare",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "grace_noun",
+"w": "grace",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "crown_noun",
+"w": "crown",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "weekly_adj",
+"w": "weekly",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "weekly_adv",
+"w": "weekly",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "roll_noun",
+"w": "roll",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "tone_noun",
+"w": "tone",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "dream_verb",
+"w": "dream",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "worse_adj",
+"w": "worse",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "worse_adv",
+"w": "worse",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "liberty_noun",
+"w": "liberty",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "abroad_adv",
+"w": "abroad",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "wonder_verb",
+"w": "wonder",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "fail_verb",
+"w": "fail",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "comparative_noun",
+"w": "comparative",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "expert_noun",
+"w": "expert",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "empty_adj",
+"w": "empty",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "honor_noun",
+"w": "honor",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "encourage_verb",
+"w": "encourage",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "commitment_noun",
+"w": "commitment",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "smooth_adj",
+"w": "smooth",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "golden_adj",
+"w": "golden",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "shell_noun",
+"w": "shell",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "entrance_noun",
+"w": "entrance",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "unusual_adj",
+"w": "unusual",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "fault_noun",
+"w": "fault",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "compare_verb",
+"w": "compare",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "architecture_noun",
+"w": "architecture",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "wise_adj",
+"w": "wise",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "plastic_adj",
+"w": "plastic",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "gun_noun",
+"w": "gun",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "realize_verb",
+"w": "realize",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "fashion_noun",
+"w": "fashion",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "dust_noun",
+"w": "dust",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "gender_noun",
+"w": "gender",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "silence_noun",
+"w": "silence",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "wet_adj",
+"w": "wet",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "unlike_adj",
+"w": "unlike",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "occupation_noun",
+"w": "occupation",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "calendar_noun",
+"w": "calendar",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "seriously_adv",
+"w": "seriously",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "walking_noun",
+"w": "walking",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "chest_noun",
+"w": "chest",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "flood_noun",
+"w": "flood",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "shock_noun",
+"w": "shock",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "unfortunately_adv",
+"w": "unfortunately",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "successfully_adv",
+"w": "successfully",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "shore_noun",
+"w": "shore",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "journey_noun",
+"w": "journey",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "mobile_adj",
+"w": "mobile",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "pro_noun",
+"w": "pro",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "passenger_noun",
+"w": "passenger",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "perfectly_adv",
+"w": "perfectly",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "aged_adj",
+"w": "aged",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "remote_adj",
+"w": "remote",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "pilot_noun",
+"w": "pilot",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "latest_adj",
+"w": "latest",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "gate_noun",
+"w": "gate",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "furniture_noun",
+"w": "furniture",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "diet_noun",
+"w": "diet",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "musical_adj",
+"w": "musical",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "deeply_adv",
+"w": "deeply",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "murder_noun",
+"w": "murder",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "creative_adj",
+"w": "creative",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "junior_adj",
+"w": "junior",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "acceptable_adj",
+"w": "acceptable",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "receipt_noun",
+"w": "receipt",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "alive_adj",
+"w": "alive",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "chart_noun",
+"w": "chart",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "citizen_noun",
+"w": "citizen",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "sudden_adj",
+"w": "sudden",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "dress_verb",
+"w": "dress",
+"pos": "verb",
+"lvl": "A2"
+},
+{
+"id": "roof_noun",
+"w": "roof",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "helpful_adj",
+"w": "helpful",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "wisdom_noun",
+"w": "wisdom",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "artificial_adj",
+"w": "artificial",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "joy_noun",
+"w": "joy",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "pleased_adj",
+"w": "pleased",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "online_adj",
+"w": "online",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "online_adv",
+"w": "online",
+"pos": "adv",
+"lvl": "A2"
+},
+{
+"id": "custom_noun",
+"w": "custom",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "nervous_adj",
+"w": "nervous",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "attractive_adj",
+"w": "attractive",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "missing_adj",
+"w": "missing",
+"pos": "adj",
+"lvl": "A2"
+},
+{
+"id": "lane_noun",
+"w": "lane",
+"pos": "noun",
+"lvl": "A2"
+},
+{
+"id": "logical_adj",
+"w": "logical",
+"pos": "adj",
+"lvl": "A2"
+}
+]

@@ -1,0 +1,602 @@
+[
+{
+"id": "then_adv",
+"w": "then",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "over_prep",
+"w": "over",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "between_prep",
+"w": "between",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "most_det",
+"w": "most",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "your_det",
+"w": "your",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "me_pron",
+"w": "me",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "work_noun",
+"w": "work",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "work_verb",
+"w": "work",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "where_adv",
+"w": "where",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "where_conj",
+"w": "where",
+"pos": "conj",
+"lvl": "A1"
+},
+{
+"id": "each_det",
+"w": "each",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "each_pron",
+"w": "each",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "very_adv",
+"w": "very",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "through_prep",
+"w": "through",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "now_adv",
+"w": "now",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "year_noun",
+"w": "year",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "did_verb",
+"w": "did",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "use_verb",
+"w": "use",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "those_det",
+"w": "those",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "those_pron",
+"w": "those",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "many_det",
+"w": "many",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "many_pron",
+"w": "many",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "like_prep",
+"w": "like",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "like_verb",
+"w": "like",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "well_adj",
+"w": "well",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "well_adv",
+"w": "well",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "same_adj",
+"w": "same",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "same_adv",
+"w": "same",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "same_pron",
+"w": "same",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "must_modal",
+"w": "must",
+"pos": "modal",
+"lvl": "A1"
+},
+{
+"id": "because_conj",
+"w": "because",
+"pos": "conj",
+"lvl": "A1"
+},
+{
+"id": "before_adv",
+"w": "before",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "before_prep",
+"w": "before",
+"pos": "prep",
+"lvl": "A1"
+},
+{
+"id": "people_noun",
+"w": "people",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "how_adv",
+"w": "how",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "both_adv",
+"w": "both",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "both_det",
+"w": "both",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "both_pron",
+"w": "both",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "number_noun",
+"w": "number",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "much_adv",
+"w": "much",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "much_det",
+"w": "much",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "much_pron",
+"w": "much",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "case_noun",
+"w": "case",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "way_noun",
+"w": "way",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "three_num",
+"w": "three",
+"pos": "num",
+"lvl": "A1"
+},
+{
+"id": "make_verb",
+"w": "make",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "section_noun",
+"w": "section",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "life_noun",
+"w": "life",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "water_noun",
+"w": "water",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "good_adj",
+"w": "good",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "day_noun",
+"w": "day",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "high_adj",
+"w": "high",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "order_noun",
+"w": "order",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "long_adj",
+"w": "long",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "just_adv",
+"w": "just",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "man_noun",
+"w": "man",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "world_noun",
+"w": "world",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "us_pron",
+"w": "us",
+"pos": "pron",
+"lvl": "A1"
+},
+{
+"id": "does_verb",
+"w": "does",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "right_adj",
+"w": "right",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "right_adv",
+"w": "right",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "great_adj",
+"w": "great",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "information_noun",
+"w": "information",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "here_adv",
+"w": "here",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "own_adj",
+"w": "own",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "back_adv",
+"w": "back",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "back_noun",
+"w": "back",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "know_verb",
+"w": "know",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "another_det",
+"w": "another",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "down_adv",
+"w": "down",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "school_noun",
+"w": "school",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "take_verb",
+"w": "take",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "small_adj",
+"w": "small",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "present_noun",
+"w": "present",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "place_noun",
+"w": "place",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "little_adj",
+"w": "little",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "little_adv",
+"w": "little",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "following_adj",
+"w": "following",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "different_adj",
+"w": "different",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "large_adj",
+"w": "large",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "house_noun",
+"w": "house",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "second_adj",
+"w": "second",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "city_noun",
+"w": "city",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "still_adj",
+"w": "still",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "point_noun",
+"w": "point",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "business_noun",
+"w": "business",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "form_noun",
+"w": "form",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "get_verb",
+"w": "get",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "every_det",
+"w": "every",
+"pos": "det",
+"lvl": "A1"
+},
+{
+"id": "social_adj",
+"w": "social",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "too_adv",
+"w": "too",
+"pos": "adv",
+"lvl": "A1"
+},
+{
+"id": "group_noun",
+"w": "group",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "end_noun",
+"w": "end",
+"pos": "noun",
+"lvl": "A1"
+},
+{
+"id": "set_verb",
+"w": "set",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "old_adj",
+"w": "old",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "study_verb",
+"w": "study",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "think_verb",
+"w": "think",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "important_adj",
+"w": "important",
+"pos": "adj",
+"lvl": "A1"
+},
+{
+"id": "go_verb",
+"w": "go",
+"pos": "verb",
+"lvl": "A1"
+},
+{
+"id": "need_modal",
+"w": "need",
+"pos": "modal",
+"lvl": "A1"
+}
+]

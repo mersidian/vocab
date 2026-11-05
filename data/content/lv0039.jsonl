@@ -1,0 +1,100 @@
+{"id":"pot_noun","th":"หม้อ; กระถาง; ภาชนะทรงกลม","ex":"She put the soup pot on the stove.","exTh":"เธอวางหม้อซุปบนเตา"}
+{"id":"smell_verb","th":"ได้กลิ่น; ดม; มีกลิ่น","ex":"Something smells good in the kitchen.","exTh":"มีกลิ่นหอมจากในครัว"}
+{"id":"pit_noun","th":"หลุม; บ่อ; เมล็ดในผลไม้","ex":"The workers dug a deep pit in the garden.","exTh":"คนงานขุดหลุมลึกในสวน"}
+{"id":"mankind_noun","th":"มนุษยชาติ; มวลมนุษย์","ex":"The internet has changed mankind.","exTh":"อินเทอร์เน็ตเปลี่ยนแปลงมนุษยชาติ"}
+{"id":"repeatedly_adv","th":"ซ้ำแล้วซ้ำเล่า; บ่อยครั้ง","ex":"I asked him repeatedly to stop.","exTh":"ฉันขอให้เขาหยุดซ้ำแล้วซ้ำเล่า"}
+{"id":"appoint_verb","th":"แต่งตั้ง; กำหนด (เวลา); นัดหมาย","ex":"The company appointed a new manager.","exTh":"บริษัทแต่งตั้งผู้จัดการคนใหม่"}
+{"id":"brass_noun","th":"ทองเหลือง; เครื่องทองเหลือง","ex":"The door handle is made of brass.","exTh":"ที่จับประตูทำจากทองเหลือง"}
+{"id":"emphasize_verb","th":"เน้น; ย้ำ; ให้ความสำคัญ","ex":"The teacher emphasized the importance of sleep.","exTh":"ครูเน้นย้ำความสำคัญของการนอนหลับ"}
+{"id":"suicide_noun","th":"การฆ่าตัวตาย","ex":"The group helps people who think about suicide.","exTh":"กลุ่มนี้ช่วยเหลือคนที่คิดฆ่าตัวตาย","note":"หัวข้ออ่อนไหว ควรใช้ด้วยความระมัดระวัง"}
+{"id":"confirm_verb","th":"ยืนยัน; รับรอง; ยืนยันการจอง","ex":"Please confirm your booking by email.","exTh":"กรุณายืนยันการจองของคุณทางอีเมล"}
+{"id":"virtual_adj","th":"เสมือนจริง; เสมือน; ออนไลน์","ex":"We had a virtual meeting yesterday.","exTh":"เมื่อวานเราประชุมออนไลน์กัน"}
+{"id":"exit_noun","th":"ทางออก; การออก","ex":"The nearest exit is on your left.","exTh":"ทางออกที่ใกล้ที่สุดอยู่ทางซ้ายมือของคุณ"}
+{"id":"exit_verb","th":"ออก; ออกจาก; ออกจากระบบ","ex":"Please exit the building calmly.","exTh":"กรุณาออกจากอาคารอย่างสงบ"}
+{"id":"steadily_adv","th":"อย่างต่อเนื่อง; อย่างมั่นคง; สม่ำเสมอ","ex":"Prices have risen steadily this year.","exTh":"ราคาสินค้าสูงขึ้นอย่างต่อเนื่องในปีนี้"}
+{"id":"molecule_noun","th":"โมเลกุล","ex":"A water molecule has two hydrogen atoms.","exTh":"โมเลกุลของน้ำมีอะตอมไฮโดรเจนสองอะตอม"}
+{"id":"collapse_noun","th":"การพังทลาย; การล่มสลาย; การล้มลง","ex":"The collapse of the bridge shocked everyone.","exTh":"การพังถล่มของสะพานทำให้ทุกคนตกใจ"}
+{"id":"strengthen_verb","th":"ทำให้แข็งแรง; เสริมกำลัง; เพิ่มความเข้มแข็ง","ex":"Exercise can strengthen your muscles.","exTh":"การออกกำลังกายช่วยทำให้กล้ามเนื้อแข็งแรงขึ้น"}
+{"id":"tide_noun","th":"น้ำขึ้นน้ำลง; กระแสน้ำ; กระแส","ex":"The tide is coming in fast.","exTh":"น้ำกำลังขึ้นเร็ว"}
+{"id":"invitation_noun","th":"คำเชิญ; บัตรเชิญ; การเชิญ","ex":"I got an invitation to her wedding.","exTh":"ฉันได้รับบัตรเชิญไปงานแต่งงานของเธอ"}
+{"id":"severely_adv","th":"อย่างรุนแรง; อย่างหนัก","ex":"The storm severely damaged the roof.","exTh":"พายุทำให้หลังคาเสียหายอย่างรุนแรง"}
+{"id":"generous_adj","th":"ใจกว้าง; ใจดี; มากมาย","ex":"He is generous with his time and money.","exTh":"เขาใจกว้างทั้งเรื่องเวลาและเงิน"}
+{"id":"acknowledge_verb","th":"ยอมรับ; รับทราบ; ตอบรับ","ex":"He acknowledged that he made a mistake.","exTh":"เขายอมรับว่าตัวเองทำผิดพลาด"}
+{"id":"commit_verb","th":"กระทำ (ความผิด); ผูกมัด; ให้คำมั่น","ex":"He committed a serious crime.","exTh":"เขากระทำความผิดร้ายแรง","note":"คำเต็มมักใช้ commit a crime / commit to"}
+{"id":"volunteer_verb","th":"อาสา; เสนอตัวทำ","ex":"She volunteered to clean the park.","exTh":"เธออาสาไปทำความสะอาดสวนสาธารณะ"}
+{"id":"stressed_adj","th":"เครียด; กดดัน","ex":"I feel stressed before exams.","exTh":"ฉันรู้สึกเครียดก่อนสอบ"}
+{"id":"bronze_noun","th":"ทองสัมฤทธิ์; สีบรอนซ์; เหรียญทองแดง","ex":"She won a bronze medal in swimming.","exTh":"เธอได้เหรียญทองแดงจากการแข่งว่ายน้ำ"}
+{"id":"burst_verb","th":"ระเบิด; แตก; ปะทุ","ex":"The balloon burst with a loud bang.","exTh":"ลูกโป่งแตกดังโพละ","note":"รูปอดีตคือ burst เหมือนเดิม"}
+{"id":"hiv_noun","th":"เอชไอวี (เชื้อไวรัสที่ทำลายภูมิคุ้มกัน)","ex":"Medicine can help people living with HIV.","exTh":"ยาช่วยให้ผู้ติดเชื้อเอชไอวีมีชีวิตที่ดีได้"}
+{"id":"publicly_adv","th":"อย่างเปิดเผย; ต่อหน้าสาธารณชน","ex":"The mayor publicly thanked the volunteers.","exTh":"นายกเทศมนตรีกล่าวขอบคุณอาสาสมัครต่อหน้าสาธารณชน"}
+{"id":"salmon_noun","th":"ปลาแซลมอน","ex":"We had grilled salmon for dinner.","exTh":"มื้อเย็นเรากินปลาแซลมอนย่าง"}
+{"id":"rainfall_noun","th":"ปริมาณน้ำฝน; ฝนที่ตก","ex":"The region has heavy rainfall in July.","exTh":"ภูมิภาคนี้ฝนตกหนักในเดือนกรกฎาคม"}
+{"id":"charity_noun","th":"การกุศล; องค์กรการกุศล; ทาน","ex":"They raised money for a children's charity.","exTh":"พวกเขาระดมเงินให้องค์กรการกุศลเพื่อเด็ก"}
+{"id":"jail_noun","th":"คุก; เรือนจำ","ex":"He spent two years in jail.","exTh":"เขาติดคุกอยู่สองปี"}
+{"id":"horn_noun","th":"เขา (สัตว์); แตร; แตรรถ","ex":"The driver pressed the horn.","exTh":"คนขับกดแตรรถ"}
+{"id":"safely_adv","th":"อย่างปลอดภัย; โดยปลอดภัย","ex":"Please drive safely.","exTh":"ขับรถอย่างปลอดภัยนะ"}
+{"id":"delicate_adj","th":"บอบบาง; ละเอียดอ่อน; เปราะบาง","ex":"Be careful with the delicate glass.","exTh":"ระวังแก้วที่บอบบางใบนั้นด้วย"}
+{"id":"declare_verb","th":"ประกาศ; แถลง; แจ้ง (สินค้า)","ex":"The government declared a holiday.","exTh":"รัฐบาลประกาศให้เป็นวันหยุด"}
+{"id":"chase_noun","th":"การไล่ล่า; การติดตาม","ex":"The police chase ended near the river.","exTh":"การไล่ล่าของตำรวจสิ้นสุดลงใกล้แม่น้ำ"}
+{"id":"connect_verb","th":"เชื่อมต่อ; เชื่อม; เกี่ยวข้อง","ex":"Connect your phone to the Wi-Fi.","exTh":"เชื่อมต่อโทรศัพท์ของคุณกับไวไฟ"}
+{"id":"invest_verb","th":"ลงทุน; ทุ่มเท (เวลาหรือแรง)","ex":"He invested his savings in a small shop.","exTh":"เขานำเงินเก็บไปลงทุนในร้านเล็กๆ"}
+{"id":"excitement_noun","th":"ความตื่นเต้น; ความสนุกสนาน","ex":"The children jumped with excitement.","exTh":"เด็กๆ กระโดดโลดเต้นด้วยความตื่นเต้น"}
+{"id":"modify_verb","th":"ดัดแปลง; ปรับเปลี่ยน; แก้ไข","ex":"We modified the plan to save money.","exTh":"เราปรับแผนเพื่อประหยัดเงิน"}
+{"id":"painful_adj","th":"เจ็บปวด; ทรมาน; ปวด","ex":"My knee is still painful.","exTh":"เข่าของฉันยังเจ็บอยู่"}
+{"id":"liberation_noun","th":"การปลดปล่อย; การปลดแอก; อิสรภาพ","ex":"The country celebrated its liberation.","exTh":"ประเทศฉลองวันปลดปล่อยของตน"}
+{"id":"legally_adv","th":"โดยถูกกฎหมาย; ตามกฎหมาย","ex":"You must be 18 to drive legally.","exTh":"คุณต้องอายุ 18 ปีจึงขับรถได้ตามกฎหมาย"}
+{"id":"laughter_noun","th":"เสียงหัวเราะ; การหัวเราะ","ex":"The room was full of laughter.","exTh":"ห้องนั้นเต็มไปด้วยเสียงหัวเราะ"}
+{"id":"continually_adv","th":"อย่างต่อเนื่อง; ซ้ำแล้วซ้ำอีก","ex":"My phone is continually ringing today.","exTh":"วันนี้โทรศัพท์ของฉันดังไม่หยุดเลย"}
+{"id":"timely_adj","th":"ทันเวลา; ถูกจังหวะ; ทันท่วงที","ex":"Thank you for your timely help.","exTh":"ขอบคุณสำหรับความช่วยเหลือที่ทันเวลา"}
+{"id":"organism_noun","th":"สิ่งมีชีวิต; สิ่งมีชีวิตขนาดเล็ก","ex":"Bacteria are tiny living organisms.","exTh":"แบคทีเรียเป็นสิ่งมีชีวิตขนาดเล็กมาก"}
+{"id":"flash_adj","th":"ฉับพลัน; รวดเร็ว; (ฟลัด) ท่วมฉับพลัน","ex":"A flash flood hit the village last night.","exTh":"น้ำท่วมฉับพลันถล่มหมู่บ้านเมื่อคืนนี้","note":"มักใช้เป็นคำขยายนาม เช่น flash flood"}
+{"id":"loyalty_noun","th":"ความจงรักภักดี; ความซื่อสัตย์","ex":"The company rewards loyalty.","exTh":"บริษัทให้รางวัลแก่ความจงรักภักดี"}
+{"id":"analyze_verb","th":"วิเคราะห์; แยกแยะ; ตรวจสอบ","ex":"Scientists analyze the data carefully.","exTh":"นักวิทยาศาสตร์วิเคราะห์ข้อมูลอย่างรอบคอบ","note":"สะกดแบบอังกฤษคือ analyse"}
+{"id":"telecommunications_noun","th":"โทรคมนาคม","ex":"He works in the telecommunications industry.","exTh":"เขาทำงานในอุตสาหกรรมโทรคมนาคม"}
+{"id":"compete_verb","th":"แข่งขัน; แข่ง","ex":"Many teams compete for the prize.","exTh":"หลายทีมแข่งขันกันเพื่อชิงรางวัล"}
+{"id":"fancy_noun","th":"จินตนาการ; ความชอบชั่วคราว; ความพึงใจ","ex":"He took a fancy to the old guitar.","exTh":"เขาหลงชอบกีตาร์ตัวเก่านั้นขึ้นมา"}
+{"id":"fancy_verb","th":"อยากได้; ชอบ; นึกไม่ถึง","ex":"Do you fancy a cup of tea?","exTh":"คุณอยากดื่มชาสักถ้วยไหม","note":"ใช้แบบอังกฤษมากกว่า"}
+{"id":"pregnant_adj","th":"ตั้งครรภ์; ท้อง","ex":"She is five months pregnant.","exTh":"เธอตั้งครรภ์ได้ห้าเดือนแล้ว"}
+{"id":"examiner_noun","th":"ผู้คุมสอบ; ผู้ตรวจข้อสอบ; ผู้สอบ","ex":"The examiner asked me three questions.","exTh":"ผู้สอบถามคำถามฉันสามข้อ"}
+{"id":"ecology_noun","th":"นิเวศวิทยา; ระบบนิเวศ","ex":"She studies the ecology of the river.","exTh":"เธอศึกษานิเวศวิทยาของแม่น้ำสายนี้"}
+{"id":"mediterranean_noun","th":"ทะเลเมดิเตอร์เรเนียน; ภูมิภาคเมดิเตอร์เรเนียน","ex":"We sailed across the Mediterranean last summer.","exTh":"ฤดูร้อนที่แล้วเราแล่นเรือข้ามทะเลเมดิเตอร์เรเนียน","note":"มักเขียนตัวใหญ่ the Mediterranean"}
+{"id":"tragedy_noun","th":"โศกนาฏกรรม; เหตุการณ์เศร้า; ละครโศก","ex":"The fire was a terrible tragedy for the family.","exTh":"ไฟไหม้ครั้งนั้นเป็นโศกนาฏกรรมอันเลวร้ายของครอบครัว"}
+{"id":"minimize_verb","th":"ลดให้น้อยที่สุด; ย่อ; ทำให้ดูเล็กน้อย","ex":"We want to minimize the cost.","exTh":"เราต้องการลดค่าใช้จ่ายให้น้อยที่สุด"}
+{"id":"occupy_verb","th":"ครอบครอง; ใช้พื้นที่; ทำให้ไม่ว่าง","ex":"The shop occupies the first floor.","exTh":"ร้านนี้ใช้พื้นที่ชั้นหนึ่ง"}
+{"id":"twin_noun","th":"แฝด; ฝาแฝด","ex":"My brother is a twin.","exTh":"พี่ชายของฉันเป็นแฝด"}
+{"id":"terror_noun","th":"ความหวาดกลัว; ความสยองขวัญ; การก่อการร้าย","ex":"The children screamed in terror.","exTh":"เด็กๆ กรีดร้องด้วยความหวาดกลัว"}
+{"id":"arrange_verb","th":"จัดเตรียม; จัดวาง; นัดหมาย","ex":"I will arrange a meeting for Monday.","exTh":"ฉันจะจัดการนัดประชุมวันจันทร์ให้"}
+{"id":"urgent_adj","th":"เร่งด่วน; ด่วน; สำคัญเร่งด่วน","ex":"I have an urgent message for you.","exTh":"ฉันมีข้อความด่วนถึงคุณ"}
+{"id":"attract_verb","th":"ดึงดูด; เรียกร้องความสนใจ; ล่อใจ","ex":"The festival attracts many tourists.","exTh":"เทศกาลนี้ดึงดูดนักท่องเที่ยวมากมาย"}
+{"id":"myth_noun","th":"ตำนาน; เทพนิยาย; ความเชื่อที่ผิดๆ","ex":"It is a myth that we use only ten percent of our brains.","exTh":"ที่ว่าเราใช้สมองแค่สิบเปอร์เซ็นต์เป็นความเชื่อที่ผิด"}
+{"id":"ignore_verb","th":"เพิกเฉย; ไม่สนใจ; มองข้าม","ex":"She ignored my message all day.","exTh":"เธอไม่สนใจข้อความของฉันทั้งวัน"}
+{"id":"ceremony_noun","th":"พิธี; พิธีการ","ex":"The wedding ceremony begins at ten.","exTh":"พิธีแต่งงานเริ่มตอนสิบโมง"}
+{"id":"intend_verb","th":"ตั้งใจ; มีเจตนา; ตั้งใจจะ","ex":"I intend to call him tomorrow.","exTh":"ฉันตั้งใจจะโทรหาเขาพรุ่งนี้"}
+{"id":"alarm_verb","th":"ทำให้ตกใจ; ทำให้กังวล","ex":"The loud noise alarmed the children.","exTh":"เสียงดังทำให้เด็กๆ ตกใจ"}
+{"id":"funeral_noun","th":"งานศพ; พิธีฝังศพ","ex":"Many people came to his funeral.","exTh":"คนมากมายมาร่วมงานศพของเขา"}
+{"id":"reject_verb","th":"ปฏิเสธ; ไม่รับ; ไม่ยอมรับ","ex":"The company rejected my application.","exTh":"บริษัทปฏิเสธใบสมัครของฉัน"}
+{"id":"cave_noun","th":"ถ้ำ","ex":"Bats live in the cave.","exTh":"ค้างคาวอาศัยอยู่ในถ้ำ"}
+{"id":"remark_verb","th":"กล่าวถึง; พูดว่า; สังเกตเห็น","ex":"She remarked that the room was cold.","exTh":"เธอพูดขึ้นว่าห้องนี้หนาว"}
+{"id":"needle_noun","th":"เข็ม; เข็มฉีดยา; ใบสน","ex":"I need a needle and some thread.","exTh":"ฉันต้องการเข็มกับด้ายหน่อย"}
+{"id":"approve_verb","th":"อนุมัติ; เห็นชอบ; เห็นด้วย","ex":"The boss approved my holiday request.","exTh":"หัวหน้าอนุมัติคำขอลาพักร้อนของฉัน"}
+{"id":"motive_noun","th":"แรงจูงใจ; มูลเหตุจูงใจ","ex":"The police could not find a motive for the crime.","exTh":"ตำรวจหาแรงจูงใจในการก่ออาชญากรรมไม่พบ"}
+{"id":"naked_adj","th":"เปลือย; เปลือยเปล่า","ex":"The baby was naked after the bath.","exTh":"ทารกเปลือยตัวหลังอาบน้ำ"}
+{"id":"similarity_noun","th":"ความคล้ายคลึง; จุดที่เหมือนกัน","ex":"There is a strong similarity between the two plans.","exTh":"แผนทั้งสองมีความคล้ายคลึงกันมาก"}
+{"id":"certainty_noun","th":"ความแน่นอน; ความมั่นใจ; สิ่งที่แน่นอน","ex":"I cannot say with certainty who will win.","exTh":"ฉันบอกอย่างแน่นอนไม่ได้ว่าใครจะชนะ"}
+{"id":"disturbance_noun","th":"การรบกวน; ความวุ่นวาย; เหตุจลาจล","ex":"Neighbors complained about the noise disturbance.","exTh":"เพื่อนบ้านร้องเรียนเรื่องเสียงรบกวน"}
+{"id":"summit_noun","th":"ยอดเขา; การประชุมสุดยอด","ex":"We reached the summit at sunrise.","exTh":"เราถึงยอดเขาตอนพระอาทิตย์ขึ้น"}
+{"id":"convey_verb","th":"ถ่ายทอด; สื่อ; ขนส่ง","ex":"Her smile conveyed her happiness.","exTh":"รอยยิ้มของเธอสื่อถึงความสุข"}
+{"id":"nonetheless_adv","th":"อย่างไรก็ตาม; ถึงกระนั้น","ex":"It was raining. Nonetheless, we went out.","exTh":"ฝนตก แต่ถึงอย่างนั้นเราก็ออกไปข้างนอกอยู่ดี","note":"ภาษาทางการ"}
+{"id":"downward_adj","th":"ลดลง; ลงสู่ข้างล่าง","ex":"There is a downward trend in sales.","exTh":"ยอดขายมีแนวโน้มลดลง"}
+{"id":"caution_noun","th":"ความระมัดระวัง; คำเตือน","ex":"Please cross the road with caution.","exTh":"กรุณาข้ามถนนด้วยความระมัดระวัง"}
+{"id":"rescue_noun","th":"การช่วยชีวิต; การกู้ภัย","ex":"The rescue took many hours.","exTh":"การช่วยเหลือใช้เวลาหลายชั่วโมง"}
+{"id":"rescue_verb","th":"ช่วยชีวิต; กู้ภัย; ช่วยออกมา","ex":"Firefighters rescued the cat from the tree.","exTh":"นักดับเพลิงช่วยแมวลงมาจากต้นไม้"}
+{"id":"unexpected_adj","th":"ไม่คาดคิด; ที่ไม่ได้คาดไว้","ex":"We had an unexpected visitor today.","exTh":"วันนี้เรามีแขกที่ไม่คาดคิดมาเยี่ยม"}
+{"id":"stuck_adj","th":"ติด; ติดแหง็ก; ไปต่อไม่ได้","ex":"My car is stuck in the mud.","exTh":"รถของฉันติดอยู่ในโคลน"}
+{"id":"extensively_adv","th":"อย่างกว้างขวาง; อย่างมาก","ex":"She has traveled extensively in Asia.","exTh":"เธอเดินทางท่องเที่ยวในเอเชียมาอย่างกว้างขวาง"}
+{"id":"dull_adj","th":"น่าเบื่อ; ทื่อ; หม่นมัว","ex":"The movie was dull and too long.","exTh":"หนังเรื่องนั้นน่าเบื่อและยาวเกินไป"}
+{"id":"kid_verb","th":"ล้อเล่น; หยอกล้อ; หลอก","ex":"I'm just kidding. Don't be angry.","exTh":"ฉันแค่ล้อเล่น อย่าโกรธนะ"}
+{"id":"permanently_adv","th":"อย่างถาวร; ตลอดไป","ex":"The shop is permanently closed.","exTh":"ร้านนี้ปิดถาวรแล้ว"}
+{"id":"stretch_verb","th":"ยืด; ขยาย; เหยียด","ex":"Stretch your legs before you run.","exTh":"ยืดขาก่อนวิ่ง"}
+{"id":"transform_verb","th":"เปลี่ยนแปลง; แปลงสภาพ; ทำให้เปลี่ยนไปมาก","ex":"The new park transformed the area.","exTh":"สวนสาธารณะแห่งใหม่เปลี่ยนโฉมย่านนี้ไปมาก"}
+{"id":"lasting_adj","th":"ยั่งยืน; ที่คงอยู่นาน","ex":"They built a lasting friendship.","exTh":"พวกเขามีมิตรภาพที่ยั่งยืน"}

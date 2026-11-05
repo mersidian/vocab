@@ -1,0 +1,802 @@
+[
+{
+"id": "two-lamps-burning-and-no-ship-at-sea_idiom",
+"w": "two lamps burning and no ship at sea",
+"kind": "idiom",
+"gloss": [
+"Said of an unwisely or overly extravagant person."
+]
+},
+{
+"id": "foot-voting_idiom",
+"w": "foot voting",
+"kind": "idiom",
+"gloss": [
+"Expressing one's preferences through one's actions, by voluntarily participating in or withdrawing from an activity, group, or process; especially, physical migration to leave a situation one does not like, or to move to a situation one regards as more beneficial."
+]
+},
+{
+"id": "stick-one-s-dick-in-crazy_idiom",
+"w": "stick one's dick in crazy",
+"kind": "idiom",
+"gloss": [
+"To have sex with an individual deemed insane."
+]
+},
+{
+"id": "which-way-the-wind-is-blowing_idiom",
+"w": "which way the wind is blowing",
+"kind": "idiom",
+"gloss": [
+"The prevailing opinion or current view of most people, especially people with influence."
+]
+},
+{
+"id": "push-against-an-open-door_idiom",
+"w": "push against an open door",
+"kind": "idiom",
+"gloss": [
+"To do something pointless or unnecessary; to try doing something already done."
+]
+},
+{
+"id": "this-is-where-we-came-in_idiom",
+"w": "this is where we came in",
+"kind": "idiom",
+"gloss": [
+"Said of a situation which has become repetitive."
+]
+},
+{
+"id": "wait-in-the-wings_idiom",
+"w": "wait in the wings",
+"kind": "idiom",
+"gloss": [
+"To be about to become important or central."
+]
+},
+{
+"id": "in-one-s-wildest-dreams_idiom",
+"w": "in one's wildest dreams",
+"kind": "idiom",
+"gloss": [
+"Much better than one could ever expect."
+]
+},
+{
+"id": "blow-this-popsicle-stand_idiom",
+"w": "blow this Popsicle stand",
+"kind": "idiom",
+"gloss": [
+"To leave a place, often with anger or anticipation of going somewhere more exciting."
+]
+},
+{
+"id": "hit-the-high-notes_idiom",
+"w": "hit the high notes",
+"kind": "idiom",
+"gloss": [
+"To produce or attain, at least for a period of time, an especially satisfactory degree of achievement or fulfilment."
+]
+},
+{
+"id": "point-fingers_idiom",
+"w": "point fingers",
+"kind": "idiom",
+"gloss": [
+"To accuse people of being responsible for something bad."
+]
+},
+{
+"id": "steal-someone-s-heart_idiom",
+"w": "steal someone's heart",
+"kind": "idiom",
+"gloss": [
+"To captivate someone; to mesmerize someone."
+]
+},
+{
+"id": "blow-one-s-own-trumpet_idiom",
+"w": "blow one's own trumpet",
+"kind": "idiom",
+"gloss": [
+"To praise oneself."
+]
+},
+{
+"id": "window-on-the-world_idiom",
+"w": "window on the world",
+"kind": "idiom",
+"gloss": [
+"Something which provides information about or interaction with a variety of people, places, events, or things outside of one's immediate sphere of experience."
+]
+},
+{
+"id": "trade-hands_idiom",
+"w": "trade hands",
+"kind": "idiom",
+"gloss": [
+"To change ownership."
+]
+},
+{
+"id": "hitch-one-s-wagon-to-a-star_idiom",
+"w": "hitch one's wagon to a star",
+"kind": "idiom",
+"gloss": [
+"To commit to an aspirational goal or course of action that will lead to fulfillment."
+]
+},
+{
+"id": "halloo-before-one-is-out-of-the-wood_idiom",
+"w": "halloo before one is out of the wood",
+"kind": "idiom",
+"gloss": [
+"To count on safety before one is out of danger."
+]
+},
+{
+"id": "before-it-was-cool_idiom",
+"w": "before it was cool",
+"kind": "idiom",
+"gloss": [
+"Before (an idea or activity) was popular, trendy, famous, or duly appreciated."
+]
+},
+{
+"id": "graceful-degradation_idiom",
+"w": "graceful degradation",
+"kind": "idiom",
+"gloss": [
+"The ability of a system to maintain at least some of its functionality when portions are not working, or when certain features are not available."
+]
+},
+{
+"id": "have-one-s-mind-about-one_idiom",
+"w": "have one's mind about one",
+"kind": "idiom",
+"gloss": [
+"To be composed or lucid (especially of an elderly or mentally ill person)."
+]
+},
+{
+"id": "get-it-how-one-lives_idiom",
+"w": "get it how one lives",
+"kind": "idiom",
+"gloss": [
+"To achieve wealth or success by any means necessary."
+]
+},
+{
+"id": "fast-sheet_idiom",
+"w": "fast sheet",
+"kind": "idiom",
+"gloss": [
+"A hotel or similar establishment catering to prostitutes."
+]
+},
+{
+"id": "give-the-axe_idiom",
+"w": "give the axe",
+"kind": "idiom",
+"gloss": [
+"To fire (dismiss from employment)."
+]
+},
+{
+"id": "coffee-talk_idiom",
+"w": "coffee talk",
+"kind": "idiom",
+"gloss": [
+"Informal conversation among friends or acquaintances, of the kind that occurs in a casual gathering where people sit together and drink coffee."
+]
+},
+{
+"id": "improve-the-occasion_idiom",
+"w": "improve the occasion",
+"kind": "idiom",
+"gloss": [
+"To point out a moral to be learned from some event that has just occurred."
+]
+},
+{
+"id": "see-one-s-way-clear-to_idiom",
+"w": "see one's way clear to",
+"kind": "idiom",
+"gloss": [
+"To manage to commit oneself to (a decision or course of action)."
+]
+},
+{
+"id": "to-overflowing_idiom",
+"w": "to overflowing",
+"kind": "idiom",
+"gloss": [
+"So as to be absolutely full."
+]
+},
+{
+"id": "yuck-someone-s-yum_idiom",
+"w": "yuck someone's yum",
+"kind": "idiom",
+"gloss": [
+"To disparage someone's tastes or preferences."
+]
+},
+{
+"id": "give-a-hoot_idiom",
+"w": "give a hoot",
+"kind": "idiom",
+"gloss": [
+"To care about; to place value on something."
+]
+},
+{
+"id": "life-s-a-bitch_idiom",
+"w": "life's a bitch",
+"kind": "idiom",
+"gloss": [
+"Life can be tough, unpleasant, unrewarding."
+]
+},
+{
+"id": "end-in-tears_idiom",
+"w": "end in tears",
+"kind": "idiom",
+"gloss": [
+"To end badly."
+]
+},
+{
+"id": "what-was-someone-thinking_idiom",
+"w": "what was someone thinking",
+"kind": "idiom",
+"gloss": [
+"Used to express disappointment about someone's uncharacteristic or abnormal past actions."
+]
+},
+{
+"id": "empty-words_idiom",
+"w": "empty words",
+"kind": "idiom",
+"gloss": [
+"Any type of talk with little meaning; a message that seems to contain meaningful content but is actually vapid."
+]
+},
+{
+"id": "dried-fish-woman_idiom",
+"w": "dried-fish woman",
+"kind": "idiom",
+"gloss": [
+"A woman, especially a young one, who lacks a significant other."
+]
+},
+{
+"id": "day-at-the-beach_idiom",
+"w": "day at the beach",
+"kind": "idiom",
+"gloss": [
+"An easy and pleasant task or situation."
+]
+},
+{
+"id": "as-ever_idiom",
+"w": "as ever",
+"kind": "idiom",
+"gloss": [
+"Consistent with past behaviour, as expected; as usual; as always."
+]
+},
+{
+"id": "like-a-bull-at-a-gate_idiom",
+"w": "like a bull at a gate",
+"kind": "idiom",
+"gloss": [
+"charging into some task without much thought, taking action hastily"
+]
+},
+{
+"id": "show-someone-one-s-etchings_idiom",
+"w": "show someone one's etchings",
+"kind": "idiom",
+"gloss": [
+"A clichéd innuendo used to offer to bring someone to a private location in order to have sex, to show a place where people can engage in sexual intercourse (alternatively replacing \"someone\" with a phrase starting with to)"
+]
+},
+{
+"id": "see-someone-s-etchings_idiom",
+"w": "see someone's etchings",
+"kind": "idiom",
+"gloss": [
+"To have sex with (someone)."
+]
+},
+{
+"id": "ghost-from-one-s-past_idiom",
+"w": "ghost from one's past",
+"kind": "idiom",
+"gloss": [
+"Something unpleasant from one's past that \"haunts\" them (makes them feel uneasy) to the present day."
+]
+},
+{
+"id": "black-over-bill-s-mother-s_idiom",
+"w": "black over Bill's mother's",
+"kind": "idiom",
+"gloss": [
+"Describing rain-bearing dark clouds on the horizon."
+]
+},
+{
+"id": "couldn-t-stop-a-pig-in-a-passage_idiom",
+"w": "couldn't stop a pig in a passage",
+"kind": "idiom",
+"gloss": [
+"To be bow-legged."
+]
+},
+{
+"id": "go-around-the-houses_idiom",
+"w": "go around the houses",
+"kind": "idiom",
+"gloss": [
+"To do something (especially to speak) circuitously."
+]
+},
+{
+"id": "go-all-around-the-wrekin_idiom",
+"w": "go all around the Wrekin",
+"kind": "idiom",
+"gloss": [
+"Take a long time to arrive."
+]
+},
+{
+"id": "go-hollywood_idiom",
+"w": "go Hollywood",
+"kind": "idiom",
+"gloss": [
+"To adapt one's lifestyle in order to pursue fame; especially, to debase oneself by adopting decadent culture."
+]
+},
+{
+"id": "fret-the-gizzard_idiom",
+"w": "fret the gizzard",
+"kind": "idiom",
+"gloss": [
+"To vex oneself; to worry."
+]
+},
+{
+"id": "get-someone-s-dander-up_idiom",
+"w": "get someone's dander up",
+"kind": "idiom",
+"gloss": [
+"To anger or annoy someone."
+]
+},
+{
+"id": "hold-yew-hard_idiom",
+"w": "hold yew hard",
+"kind": "idiom",
+"gloss": [
+"Wait for a moment. Be patient."
+]
+},
+{
+"id": "new-dawn_idiom",
+"w": "new dawn",
+"kind": "idiom",
+"gloss": [
+"A new beginning; a fresh start; an important, promising turning point."
+]
+},
+{
+"id": "mind-one-s-language_idiom",
+"w": "mind one's language",
+"kind": "idiom",
+"gloss": [
+"To be careful to speak properly, especially concerning the avoidance of swear words."
+]
+},
+{
+"id": "too-cool-for-school_idiom",
+"w": "too cool for school",
+"kind": "idiom",
+"gloss": [
+"Very cool (trendy, fashionable, etc.)."
+]
+},
+{
+"id": "take-someone-to-the-grave_idiom",
+"w": "take someone to the grave",
+"kind": "idiom",
+"gloss": [
+"To kill someone; to cause someone's death."
+]
+},
+{
+"id": "buy-a-dog-and-bark-oneself_idiom",
+"w": "buy a dog and bark oneself",
+"kind": "idiom",
+"gloss": [
+"To do something that one has hired someone else to do."
+]
+},
+{
+"id": "come-up-with-the-goods_idiom",
+"w": "come up with the goods",
+"kind": "idiom",
+"gloss": [
+"To produce what was expected or required."
+]
+},
+{
+"id": "take-form_idiom",
+"w": "take form",
+"kind": "idiom",
+"gloss": [
+"To take shape"
+]
+},
+{
+"id": "grammar-police_idiom",
+"w": "grammar police",
+"kind": "idiom",
+"gloss": [
+"One or more people who make negative comments, which are usually unsolicited and unwanted, concerning the correctness of someone's English usage."
+]
+},
+{
+"id": "any-time-now_idiom",
+"w": "any time now",
+"kind": "idiom",
+"gloss": [
+"Very soon."
+]
+},
+{
+"id": "make-a-fist-of_idiom",
+"w": "make a fist of",
+"kind": "idiom",
+"gloss": [
+"To do (something) reasonably successfully."
+]
+},
+{
+"id": "cop-one-s-whack_idiom",
+"w": "cop one's whack",
+"kind": "idiom",
+"gloss": [
+"To die."
+]
+},
+{
+"id": "to-the-moon-and-back_idiom",
+"w": "to the moon and back",
+"kind": "idiom",
+"gloss": [
+"Immensely."
+]
+},
+{
+"id": "mukluk-telegraph_idiom",
+"w": "mukluk telegraph",
+"kind": "idiom",
+"gloss": [
+"The spread of information and gossip by word of mouth in rural Alaska."
+]
+},
+{
+"id": "roll-up-the-sidewalks_idiom",
+"w": "roll up the sidewalks",
+"kind": "idiom",
+"gloss": [
+"To close all commercial businesses for the day."
+]
+},
+{
+"id": "crank-the-handle_idiom",
+"w": "crank the handle",
+"kind": "idiom",
+"gloss": [
+"To perform a process; to do some work."
+]
+},
+{
+"id": "ski-jump-nose_idiom",
+"w": "ski-jump nose",
+"kind": "idiom",
+"gloss": [
+"A long nose with an inwardly curving ridge and a tip that curves somewhat upward, resembling the shape of a downhill ramp used in the sport of ski jumping."
+]
+},
+{
+"id": "talk-a-good-game_idiom",
+"w": "talk a good game",
+"kind": "idiom",
+"gloss": [
+"To speak emphatically and at length about one's ability, intentions, or achievements, without yet producing any clear evidence or actual results."
+]
+},
+{
+"id": "make-all-the-difference_idiom",
+"w": "make all the difference",
+"kind": "idiom",
+"gloss": [
+"To be a crucial or deciding factor; to have a very significant effect (often a positive one)."
+]
+},
+{
+"id": "drive-a-coach-and-horses-through_idiom",
+"w": "drive a coach and horses through",
+"kind": "idiom",
+"gloss": [
+"To spoil, break or render ineffective (a rule, plan or agreement)."
+]
+},
+{
+"id": "i-have-a-bridge-to-sell-you_idiom",
+"w": "I have a bridge to sell you",
+"kind": "idiom",
+"gloss": [
+"An indirect way of expressing that the addressee is gullible."
+]
+},
+{
+"id": "all-one-s-taste-is-in-one-s-mouth_idiom",
+"w": "all one's taste is in one's mouth",
+"kind": "idiom",
+"gloss": [
+"One lacks good taste in aesthetic or cultural matters."
+]
+},
+{
+"id": "give-me-a-break_idiom",
+"w": "give me a break",
+"kind": "idiom",
+"gloss": [
+"An expression of disbelief or exasperation, or a request for leniency."
+]
+},
+{
+"id": "blow-one-s-chance_idiom",
+"w": "blow one's chance",
+"kind": "idiom",
+"gloss": [
+"To ruin, or fail to capitalise on an opportunity."
+]
+},
+{
+"id": "walk-on-sunshine_idiom",
+"w": "walk on sunshine",
+"kind": "idiom",
+"gloss": [
+"To be extremely happy."
+]
+},
+{
+"id": "ghost-home_idiom",
+"w": "ghost home",
+"kind": "idiom",
+"gloss": [
+"A residence intentionally kept vacant by an absentee owner, especially a foreign investor, as a financially safe asset to be liquidated at a convenient time."
+]
+},
+{
+"id": "a-mite_idiom",
+"w": "a mite",
+"kind": "idiom",
+"gloss": [
+"To a small extent; in a small amount; rather."
+]
+},
+{
+"id": "pour-honey-in-one-s-ear_idiom",
+"w": "pour honey in one's ear",
+"kind": "idiom",
+"gloss": [
+"To tell one something pleasing or flattering."
+]
+},
+{
+"id": "run-the-rule-over_idiom",
+"w": "run the rule over",
+"kind": "idiom",
+"gloss": [
+"To examine carefully and thoroughly."
+]
+},
+{
+"id": "shoot-from-the-lip_idiom",
+"w": "shoot from the lip",
+"kind": "idiom",
+"gloss": [
+"To speak confidently and unhesitantly but without careful forethought or a reliable knowledge of important facts pertaining to the subject matter."
+]
+},
+{
+"id": "throw-things-at-the-wall-and-see-what-sticks_idiom",
+"w": "throw things at the wall and see what sticks",
+"kind": "idiom",
+"gloss": [
+"To experiment in a haphazard or random manner with the hope that some amount of success may be achieved."
+]
+},
+{
+"id": "jam-today_idiom",
+"w": "jam today",
+"kind": "idiom",
+"gloss": [
+"The availability of a resource at the present date."
+]
+},
+{
+"id": "go-nowhere-fast_idiom",
+"w": "go nowhere fast",
+"kind": "idiom",
+"gloss": [
+"To fail to make any progress."
+]
+},
+{
+"id": "up-to-one-s-neck-in-alligators_idiom",
+"w": "up to one's neck in alligators",
+"kind": "idiom",
+"gloss": [
+"Extremely busy; having many pressing obligations, distractions, etc., consuming one's time."
+]
+},
+{
+"id": "pagoda-tree_idiom",
+"w": "pagoda tree",
+"kind": "idiom",
+"gloss": [
+"Styphnolobium japonicum, a tree in the pea family Fabaceae."
+]
+},
+{
+"id": "without-batting-an-eye_idiom",
+"w": "without batting an eye",
+"kind": "idiom",
+"gloss": [
+"Showing no emotional reaction."
+]
+},
+{
+"id": "hit-two-targets-with-one-arrow_idiom",
+"w": "hit two targets with one arrow",
+"kind": "idiom",
+"gloss": [
+"Synonym of kill two birds with one stone."
+]
+},
+{
+"id": "for-the-taking_idiom",
+"w": "for the taking",
+"kind": "idiom",
+"gloss": [
+"Available; able to be taken without difficulty."
+]
+},
+{
+"id": "bucket-of-rust_idiom",
+"w": "bucket of rust",
+"kind": "idiom",
+"gloss": [
+"Synonym of rustbucket."
+]
+},
+{
+"id": "big-dick-energy_idiom",
+"w": "big dick energy",
+"kind": "idiom",
+"gloss": [
+"Unassuming self-confidence."
+]
+},
+{
+"id": "risk-it-for-the-biscuit_idiom",
+"w": "risk it for the biscuit",
+"kind": "idiom",
+"gloss": [
+"To take a risk for the chance of some benefit or reward."
+]
+},
+{
+"id": "sell-the-pass_idiom",
+"w": "sell the pass",
+"kind": "idiom",
+"gloss": [
+"To betray one's comrades or countrymen; to betray a cause."
+]
+},
+{
+"id": "have-an-easy-time-of-it_idiom",
+"w": "have an easy time of it",
+"kind": "idiom",
+"gloss": [
+"To have few problems."
+]
+},
+{
+"id": "pay-off-old-scores_idiom",
+"w": "pay off old scores",
+"kind": "idiom",
+"gloss": [
+"To settle old grudges by taking revenge."
+]
+},
+{
+"id": "starving-artist_idiom",
+"w": "starving artist",
+"kind": "idiom",
+"gloss": [
+"A person who works as an artist or performer despite making little or no money for it, therefore suffering in poverty."
+]
+},
+{
+"id": "under-the-hammer_idiom",
+"w": "under the hammer",
+"kind": "idiom",
+"gloss": [
+"For sale by auction."
+]
+},
+{
+"id": "swallow-the-dictionary_idiom",
+"w": "swallow the dictionary",
+"kind": "idiom",
+"gloss": [
+"To speak using long or obscure words."
+]
+},
+{
+"id": "hold-it-together_idiom",
+"w": "hold it together",
+"kind": "idiom",
+"gloss": [
+"Synonym of cope: to remain calm in adversity, to successfully manage one's difficulties."
+]
+},
+{
+"id": "see-the-dark-side-of-the-moon_idiom",
+"w": "see the dark side of the moon",
+"kind": "idiom",
+"gloss": [
+"To do or experience something exceedingly difficult or rare."
+]
+},
+{
+"id": "wait-till-the-clouds-roll-by_idiom",
+"w": "wait till the clouds roll by",
+"kind": "idiom",
+"gloss": [
+"To await more favourable circumstances."
+]
+},
+{
+"id": "know-where-the-bodies-are-buried_idiom",
+"w": "know where the bodies are buried",
+"kind": "idiom",
+"gloss": [
+"To possess confidential and incriminating information about a person's or organization's misdeeds or other secrets."
+]
+},
+{
+"id": "shake-a-stick-at_idiom",
+"w": "shake a stick at",
+"kind": "idiom",
+"gloss": [
+"Disparage; rail against."
+]
+},
+{
+"id": "put-the-saddle-on-the-right-horse_idiom",
+"w": "put the saddle on the right horse",
+"kind": "idiom",
+"gloss": [
+"To assign praise or blame where it is properly due."
+]
+}
+]

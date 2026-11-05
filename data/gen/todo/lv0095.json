@@ -1,0 +1,602 @@
+[
+{
+"id": "truism_noun",
+"w": "truism",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "idiomatic_adj",
+"w": "idiomatic",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "flagging_adj",
+"w": "flagging",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "mien_noun",
+"w": "mien",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "disparaging_adj",
+"w": "disparaging",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "stoicism_noun",
+"w": "stoicism",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "leaven_verb",
+"w": "leaven",
+"pos": "verb",
+"lvl": "C2"
+},
+{
+"id": "magnanimity_noun",
+"w": "magnanimity",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "edification_noun",
+"w": "edification",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "confrontational_adj",
+"w": "confrontational",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "virtuosity_noun",
+"w": "virtuosity",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "inchoate_adj",
+"w": "inchoate",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "recluse_noun",
+"w": "recluse",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "buzzard_noun",
+"w": "buzzard",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "syllabic_adj",
+"w": "syllabic",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "recuperation_noun",
+"w": "recuperation",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "arcane_adj",
+"w": "arcane",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "magnanimous_adj",
+"w": "magnanimous",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "topple_verb",
+"w": "topple",
+"pos": "verb",
+"lvl": "C2"
+},
+{
+"id": "fabled_adj",
+"w": "fabled",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "rhetorically_adv",
+"w": "rhetorically",
+"pos": "adv",
+"lvl": "C2"
+},
+{
+"id": "pyre_noun",
+"w": "pyre",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "magnate_noun",
+"w": "magnate",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "euphemism_noun",
+"w": "euphemism",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "cinematography_noun",
+"w": "cinematography",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "protrude_verb",
+"w": "protrude",
+"pos": "verb",
+"lvl": "C2"
+},
+{
+"id": "angst_noun",
+"w": "angst",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "economize_verb",
+"w": "economize",
+"pos": "verb",
+"lvl": "C2"
+},
+{
+"id": "impressionistic_adj",
+"w": "impressionistic",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "maggot_noun",
+"w": "maggot",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "posturing_noun",
+"w": "posturing",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "marketability_noun",
+"w": "marketability",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "frolic_verb",
+"w": "frolic",
+"pos": "verb",
+"lvl": "C2"
+},
+{
+"id": "vestigial_adj",
+"w": "vestigial",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "indiscretion_noun",
+"w": "indiscretion",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "babble_verb",
+"w": "babble",
+"pos": "verb",
+"lvl": "C2"
+},
+{
+"id": "innuendo_noun",
+"w": "innuendo",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "opulence_noun",
+"w": "opulence",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "perversity_noun",
+"w": "perversity",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "torrential_adj",
+"w": "torrential",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "breadwinner_noun",
+"w": "breadwinner",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "abhorrent_adj",
+"w": "abhorrent",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "autonomously_adv",
+"w": "autonomously",
+"pos": "adv",
+"lvl": "C2"
+},
+{
+"id": "tenaciously_adv",
+"w": "tenaciously",
+"pos": "adv",
+"lvl": "C2"
+},
+{
+"id": "magpie_noun",
+"w": "magpie",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "abhor_verb",
+"w": "abhor",
+"pos": "verb",
+"lvl": "C2"
+},
+{
+"id": "disparagement_noun",
+"w": "disparagement",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "exorcism_noun",
+"w": "exorcism",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "contractually_adv",
+"w": "contractually",
+"pos": "adv",
+"lvl": "C2"
+},
+{
+"id": "brimstone_noun",
+"w": "brimstone",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "virginal_adj",
+"w": "virginal",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "haphazardly_adv",
+"w": "haphazardly",
+"pos": "adv",
+"lvl": "C2"
+},
+{
+"id": "capacious_adj",
+"w": "capacious",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "hysterically_adv",
+"w": "hysterically",
+"pos": "adv",
+"lvl": "C2"
+},
+{
+"id": "proscription_noun",
+"w": "proscription",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "anarchic_adj",
+"w": "anarchic",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "farcical_adj",
+"w": "farcical",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "ruminant_adj",
+"w": "ruminant",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "shimmer_verb",
+"w": "shimmer",
+"pos": "verb",
+"lvl": "C2"
+},
+{
+"id": "ingenuous_adj",
+"w": "ingenuous",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "gravitate_verb",
+"w": "gravitate",
+"pos": "verb",
+"lvl": "C2"
+},
+{
+"id": "unnerving_adj",
+"w": "unnerving",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "autopilot_noun",
+"w": "autopilot",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "zoologist_noun",
+"w": "zoologist",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "disparage_verb",
+"w": "disparage",
+"pos": "verb",
+"lvl": "C2"
+},
+{
+"id": "seedy_adj",
+"w": "seedy",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "ignominious_adj",
+"w": "ignominious",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "puritanical_adj",
+"w": "puritanical",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "disdainful_adj",
+"w": "disdainful",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "methodologically_adv",
+"w": "methodologically",
+"pos": "adv",
+"lvl": "C2"
+},
+{
+"id": "smattering_noun",
+"w": "smattering",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "pervasiveness_noun",
+"w": "pervasiveness",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "surreptitious_adj",
+"w": "surreptitious",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "recuperate_verb",
+"w": "recuperate",
+"pos": "verb",
+"lvl": "C2"
+},
+{
+"id": "connote_verb",
+"w": "connote",
+"pos": "verb",
+"lvl": "C2"
+},
+{
+"id": "fete_noun",
+"w": "fete",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "squirm_verb",
+"w": "squirm",
+"pos": "verb",
+"lvl": "C2"
+},
+{
+"id": "nonchalantly_adv",
+"w": "nonchalantly",
+"pos": "adv",
+"lvl": "C2"
+},
+{
+"id": "reptilian_adj",
+"w": "reptilian",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "unadulterated_adj",
+"w": "unadulterated",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "flit_verb",
+"w": "flit",
+"pos": "verb",
+"lvl": "C2"
+},
+{
+"id": "gambit_noun",
+"w": "gambit",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "wallow_verb",
+"w": "wallow",
+"pos": "verb",
+"lvl": "C2"
+},
+{
+"id": "verisimilitude_noun",
+"w": "verisimilitude",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "euphoric_adj",
+"w": "euphoric",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "maelstrom_noun",
+"w": "maelstrom",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "blubber_noun",
+"w": "blubber",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "consign_verb",
+"w": "consign",
+"pos": "verb",
+"lvl": "C2"
+},
+{
+"id": "unpromising_adj",
+"w": "unpromising",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "revelatory_adj",
+"w": "revelatory",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "derisive_adj",
+"w": "derisive",
+"pos": "adj",
+"lvl": "C2"
+},
+{
+"id": "unobtrusively_adv",
+"w": "unobtrusively",
+"pos": "adv",
+"lvl": "C2"
+},
+{
+"id": "prise_verb",
+"w": "prise",
+"pos": "verb",
+"lvl": "C2"
+},
+{
+"id": "snobbery_noun",
+"w": "snobbery",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "denotation_noun",
+"w": "denotation",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "lassitude_noun",
+"w": "lassitude",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "relegate_verb",
+"w": "relegate",
+"pos": "verb",
+"lvl": "C2"
+},
+{
+"id": "contraption_noun",
+"w": "contraption",
+"pos": "noun",
+"lvl": "C2"
+},
+{
+"id": "feign_verb",
+"w": "feign",
+"pos": "verb",
+"lvl": "C2"
+},
+{
+"id": "calamitous_adj",
+"w": "calamitous",
+"pos": "adj",
+"lvl": "C2"
+}
+]

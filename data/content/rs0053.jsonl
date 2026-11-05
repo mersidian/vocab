@@ -1,0 +1,100 @@
+{"id":"clue-in_pv","th":"บอกให้ทราบ; ให้ข้อมูล","ex":"Can you clue me in on what happened?","exTh":"ช่วยบอกฉันหน่อยว่าเกิดอะไรขึ้น","c":3}
+{"id":"skip-out_pv","th":"แอบหนีไป; หนีงานหรือเรียน","ex":"He skipped out of work early.","exTh":"เขาแอบหนีงานก่อนเวลา","c":3}
+{"id":"slow-up_pv","th":"ชะลอลง; ทำให้ช้าลง","ex":"Traffic slowed up near the bridge.","exTh":"การจราจรชะลอตัวใกล้สะพาน","c":2}
+{"id":"footle-around_pv","th":"ทำอะไรไร้สาระ; เล่นไปเรื่อย","ex":"He footled around the house all morning.","exTh":"เขาทำโน่นนี่ไร้สาระอยู่ในบ้านทั้งเช้า","c":1,"note":"ภาษาพูด อังกฤษ"}
+{"id":"footle-about_pv","th":"ทำอะไรไร้สาระ; เล่นไปเรื่อย","ex":"Stop footling about and help me.","exTh":"เลิกทำอะไรไร้สาระแล้วมาช่วยฉัน","c":1,"note":"ภาษาพูด อังกฤษ"}
+{"id":"footle-away_pv","th":"ใช้เวลาไปอย่างเปล่าประโยชน์","ex":"She footled away the whole afternoon.","exTh":"เธอปล่อยเวลาทั้งบ่ายหมดไปอย่างเปล่าประโยชน์","c":1,"note":"ภาษาพูด อังกฤษ"}
+{"id":"die-back_pv","th":"เหี่ยวเฉา; ตายส่วนบน (พืช)","ex":"The plants die back in winter.","exTh":"พืชเหล่านี้เหี่ยวเฉาในฤดูหนาว","c":2}
+{"id":"cry-out-for_pv","th":"ต้องการอย่างยิ่ง; เรียกร้อง","ex":"This old house is crying out for repairs.","exTh":"บ้านเก่าหลังนี้ต้องการการซ่อมแซมอย่างยิ่ง","c":3}
+{"id":"bum-out_pv","th":"ทำให้หดหู่; ทำให้ผิดหวัง","ex":"The bad news really bummed me out.","exTh":"ข่าวร้ายทำให้ฉันหดหู่มาก","c":3,"note":"ภาษาพูด"}
+{"id":"have-up_pv","th":"นำตัวขึ้นศาล; ฟ้องร้อง","ex":"He was had up for speeding.","exTh":"เขาถูกนำตัวขึ้นศาลข้อหาขับรถเร็วเกินกำหนด","c":1,"note":"ภาษาพูด อังกฤษ"}
+{"id":"gang-up_pv","th":"รวมหัวกัน; รุมต่อต้าน","ex":"The older kids ganged up on him.","exTh":"เด็กโตรวมหัวกันรุมเขา","c":3}
+{"id":"pull-together_pv","th":"ร่วมมือกัน; รวมพลัง","ex":"We must pull together to finish on time.","exTh":"เราต้องร่วมมือกันเพื่อให้เสร็จทันเวลา","c":3}
+{"id":"ring-around_pv","th":"โทรหาหลายๆ คน","ex":"I'll ring around and find a good plumber.","exTh":"ฉันจะโทรถามหลายๆ คนเพื่อหาช่างประปาที่ดี","c":2,"note":"ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"ring-round_pv","th":"โทรหาหลายๆ คน","ex":"She rang round to see who could come.","exTh":"เธอโทรหาหลายๆ คนเพื่อดูว่าใครมาได้","c":2,"note":"ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"hussy-up_pv","th":"แต่งตัวยั่วยวน","ex":"She hussied up for the party with bright red lipstick.","exTh":"เธอแต่งตัวยั่วยวนไปงานปาร์ตี้ด้วยลิปสติกสีแดงสด","c":1,"note":"ภาษาพูด อาจฟังดูดูถูก"}
+{"id":"come-from-behind_pv","th":"พลิกกลับมาชนะ; ไล่ตามจนชนะ","ex":"The team made a great come-from-behind win.","exTh":"ทีมพลิกกลับมาชนะได้อย่างยอดเยี่ยม","c":2}
+{"id":"fend-away_pv","th":"ปัดป้อง; ผลักไสไป","ex":"He fended away the questions with a smile.","exTh":"เขายิ้มและปัดคำถามไป","c":1}
+{"id":"wuss-out_pv","th":"ขี้ขลาดถอยหนี; ไม่กล้าทำ","ex":"Don't wuss out now; we're almost there.","exTh":"อย่าขี้ขลาดตอนนี้ เราใกล้ถึงแล้ว","c":2,"note":"ภาษาพูด ไม่สุภาพ"}
+{"id":"think-on_pv","th":"ใคร่ครวญ; คิดถึง","ex":"Think on what I said before you answer.","exTh":"ใคร่ครวญสิ่งที่ฉันพูดก่อนตอบ","c":1,"note":"ภาษาเก่า"}
+{"id":"mouse-over_pv","th":"เลื่อนเมาส์ไปวางเหนือ","ex":"Mouse over the icon to see a short tip.","exTh":"เลื่อนเมาส์ไปวางเหนือไอคอนเพื่อดูคำแนะนำสั้นๆ","c":2}
+{"id":"knock-around_pv","th":"เที่ยวไปเรื่อย; ทุบตีเล่น","ex":"He knocked around Asia for a year.","exTh":"เขาเที่ยวไปทั่วเอเชียเป็นเวลาหนึ่งปี","c":2}
+{"id":"potter-around_pv","th":"ทำโน่นนี่เรื่อยเปื่อย","ex":"Dad likes to potter around the garden.","exTh":"พ่อชอบทำโน่นนี่เรื่อยเปื่อยในสวน","c":2,"note":"ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"frown-on_pv","th":"ไม่เห็นด้วย; ไม่ยอมรับ","ex":"Many schools frown on cell phones in class.","exTh":"โรงเรียนจำนวนมากไม่เห็นด้วยกับการใช้โทรศัพท์ในห้องเรียน","c":3}
+{"id":"boss-about_pv","th":"ชอบสั่งให้ทำโน่นนี่","ex":"Stop bossing me about; I'm not your servant.","exTh":"เลิกสั่งฉันได้แล้ว ฉันไม่ใช่คนรับใช้เธอ","c":2,"note":"ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"wet-through_pv","th":"เปียกโชก","ex":"We got wet through in the heavy rain.","exTh":"เราเปียกโชกในฝนที่ตกหนัก","c":2}
+{"id":"lie-in_pv","th":"นอนตื่นสาย; นอนต่อ","ex":"I love to lie in on Sundays.","exTh":"ฉันชอบนอนตื่นสายวันอาทิตย์","c":3,"note":"ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"snap-in_pv","th":"ฝึกเล็งและยิงปืนโดยไม่ใช้กระสุน","ex":"The recruits snapped in with empty rifles.","exTh":"ทหารใหม่ฝึกเล็งและยิงด้วยปืนไรเฟิลที่ไม่มีกระสุน","c":1}
+{"id":"bring-upon_pv","th":"นำมาซึ่ง; ก่อให้เกิดเรื่องร้าย","ex":"He brought trouble upon himself.","exTh":"เขาก่อปัญหาให้ตัวเอง","c":2}
+{"id":"delight-in_pv","th":"ชื่นชอบ; เพลิดเพลินกับ","ex":"She delights in teasing her little brother.","exTh":"เธอชอบแกล้งน้องชายตัวเล็ก","c":3}
+{"id":"fall-back-upon_pv","th":"หันไปพึ่ง; ใช้เป็นทางเลือกสำรอง","ex":"We can fall back upon our savings if needed.","exTh":"เราหันไปพึ่งเงินเก็บได้ถ้าจำเป็น","c":3}
+{"id":"page-down_pv","th":"เลื่อนลงไปหน้าถัดไป","ex":"Press the key to page down.","exTh":"กดปุ่มเพื่อเลื่อนลงไปหน้าถัดไป","c":2}
+{"id":"page-up_pv","th":"เลื่อนขึ้นไปหน้าก่อนหน้า","ex":"Page up to see the first section.","exTh":"เลื่อนขึ้นเพื่อดูส่วนแรก","c":2}
+{"id":"piss-away_pv","th":"ผลาญทิ้งเปล่าๆ; ใช้อย่างสุรุ่ยสุร่าย","ex":"He pissed away all his money on bad ideas.","exTh":"เขาผลาญเงินทั้งหมดไปกับความคิดแย่ๆ","c":2,"note":"คำหยาบ ภาษาพูด"}
+{"id":"power-down_pv","th":"ปิดเครื่อง; ลดกำลังไฟ","ex":"Power down the computer before you leave.","exTh":"ปิดคอมพิวเตอร์ก่อนกลับ","c":3}
+{"id":"fair-off_pv","th":"(อากาศ) แจ่มใสขึ้น","ex":"The sky should fair off by noon.","exTh":"ท้องฟ้าน่าจะแจ่มใสขึ้นก่อนเที่ยง","c":1}
+{"id":"fair-up_pv","th":"(อากาศ) แจ่มใสขึ้น","ex":"The weather began to fair up in the afternoon.","exTh":"อากาศเริ่มแจ่มใสขึ้นตอนบ่าย","c":1}
+{"id":"light-into_pv","th":"ตำหนิรุนแรง; จู่โจม","ex":"The coach lit into the players after the loss.","exTh":"โค้ชต่อว่าผู้เล่นอย่างรุนแรงหลังแพ้","c":2}
+{"id":"hard-up_pv","th":"แข็งตัว; ทำให้แข็ง","ex":"The mud hard up in the sun.","exTh":"โคลนแข็งตัวเมื่อโดนแดด","c":1}
+{"id":"page-out_pv","th":"ย้ายข้อมูลหน่วยความจำไปที่ดิสก์","ex":"The system pages out unused data to the disk.","exTh":"ระบบย้ายข้อมูลที่ไม่ได้ใช้ไปเก็บในดิสก์","c":1}
+{"id":"page-in_pv","th":"ดึงข้อมูลจากดิสก์เข้าหน่วยความจำ","ex":"The computer pages in data when you open the file.","exTh":"คอมพิวเตอร์ดึงข้อมูลเข้าหน่วยความจำเมื่อคุณเปิดไฟล์","c":1}
+{"id":"locked-out_pv","th":"ไม่มีสมาธิ; ใจไม่จดจ่อ","ex":"I was locked out during the whole lecture.","exTh":"ฉันไม่มีสมาธิตลอดการบรรยาย","c":1,"note":"ความหมายนี้เป็นสแลง ความหมายทั่วไปคือ ถูกล็อกไม่ให้เข้า"}
+{"id":"puke-up_pv","th":"อาเจียน; อ้วก","ex":"The baby puked up all her milk.","exTh":"ทารกอาเจียนนมออกหมด","c":2,"note":"ภาษาพูด"}
+{"id":"share-out_pv","th":"แบ่งให้เท่าๆ กัน","ex":"Please share out the cake among the children.","exTh":"ช่วยแบ่งเค้กให้เด็กๆ เท่าๆ กัน","c":3}
+{"id":"inquire-of_pv","th":"สอบถาม; ถาม","ex":"I will inquire of the manager about the price.","exTh":"ฉันจะสอบถามผู้จัดการเรื่องราคา","c":2,"note":"ภาษาทางการ"}
+{"id":"will-on_pv","th":"เอาใจช่วยอยู่ในใจ","ex":"We all willed her on as she reached the finish line.","exTh":"พวกเราเอาใจช่วยเธอเงียบๆ ขณะที่เธอวิ่งเข้าเส้นชัย","c":2}
+{"id":"melt-into_pv","th":"ค่อยๆ หลอมรวมเข้ากับ; กลืนหายไปใน","ex":"The thief melted into the crowd.","exTh":"โจรกลืนหายไปในฝูงชน","c":3}
+{"id":"raunch-out_pv","th":"ทำให้รู้สึกไม่สบายใจเพราะความหยาบโลน","ex":"His crude jokes raunched out the guests.","exTh":"มุกหยาบโลนของเขาทำให้แขกอึดอัด","c":1,"note":"คำสแลง"}
+{"id":"goth-up_pv","th":"แต่งตัวหรือตกแต่งแนวกอธิค","ex":"She gothed up her room with black curtains.","exTh":"เธอตกแต่งห้องแนวกอธิคด้วยผ้าม่านสีดำ","c":1}
+{"id":"snazz-up_pv","th":"ตกแต่งให้ดูเก๋; ทำให้ดูน่าสนใจ","ex":"We snazzed up the room with new cushions.","exTh":"เราตกแต่งห้องให้ดูเก๋ขึ้นด้วยเบาะใหม่","c":2}
+{"id":"get-off-on_pv","th":"รู้สึกตื่นเต้นสนุกกับ; ได้ความสุขจาก","ex":"He gets off on winning arguments.","exTh":"เขาสนุกกับการชนะการโต้เถียง","c":2,"note":"ภาษาพูด บางบริบทมีนัยทางเพศ"}
+{"id":"splinter-up_pv","th":"ดามกระดูกด้วยเฝือกไม้","ex":"The medic splintered up his broken arm.","exTh":"แพทย์ทหารดามแขนที่หักของเขาด้วยเฝือก","c":1}
+{"id":"tough-out_pv","th":"อดทนฝ่าไป; ทนจนผ่าน","ex":"We'll just have to tough it out until winter ends.","exTh":"เราต้องอดทนฝ่าไปจนกว่าฤดูหนาวจะจบ","c":3}
+{"id":"blob-out_pv","th":"นอนเอกเขนก; พักผ่อนอย่างเกียจคร้าน","ex":"I just blobbed out on the sofa all day.","exTh":"ฉันนอนเอกเขนกบนโซฟาทั้งวัน","c":2,"note":"ภาษาพูด"}
+{"id":"wimp-out_pv","th":"ขี้ขลาดถอยหนี; ไม่กล้าทำ","ex":"He wimped out of the bungee jump.","exTh":"เขาขี้ขลาดไม่กล้ากระโดดบันจี้จัมป์","c":3,"note":"ภาษาพูด"}
+{"id":"guts-out_pv","th":"อดทนฝ่าไปจนสำเร็จ","ex":"She gutsed out the last mile despite the pain.","exTh":"เธอฝืนวิ่งไมล์สุดท้ายจนจบแม้เจ็บปวด","c":1}
+{"id":"add-up-to_pv","th":"รวมแล้วเท่ากับ; สรุปได้ว่า","ex":"All these small costs add up to a lot.","exTh":"ค่าใช้จ่ายเล็กๆ น้อยๆ เหล่านี้รวมกันแล้วเป็นเงินมาก","c":3}
+{"id":"hole-out_pv","th":"ตีลูกลงหลุมจนจบ (กอล์ฟ)","ex":"He holed out from ten feet.","exTh":"เขาตีลูกลงหลุมจากระยะสิบฟุต","c":2}
+{"id":"argue-out_pv","th":"โต้เถียงจนได้ข้อสรุป","ex":"They argued out the plan for hours.","exTh":"พวกเขาถกเถียงเรื่องแผนกันหลายชั่วโมงจนได้ข้อสรุป","c":1}
+{"id":"notch-up_pv","th":"ทำสำเร็จ; สะสมได้","ex":"The team notched up their fifth win in a row.","exTh":"ทีมสะสมชัยชนะนัดที่ห้าติดต่อกัน","c":3}
+{"id":"ask-in_pv","th":"เชิญเข้าบ้าน","ex":"She asked the guests in for tea.","exTh":"เธอเชิญแขกเข้ามาดื่มชา","c":2}
+{"id":"auction-off_pv","th":"ประมูลขาย","ex":"They auctioned off the old paintings.","exTh":"พวกเขาประมูลขายภาพวาดเก่า","c":3}
+{"id":"bail-out-on_pv","th":"ทิ้งไป; ถอนตัวจาก","ex":"He bailed out on us at the last minute.","exTh":"เขาทิ้งเราไปในนาทีสุดท้าย","c":3}
+{"id":"bang-about_pv","th":"ส่งเสียงดังโครมครามขณะเคลื่อนไหว","ex":"Someone is banging about in the kitchen.","exTh":"มีคนทำเสียงโครมครามอยู่ในครัว","c":2}
+{"id":"track-with_pv","th":"ออกเดต; คบหา","ex":"She tracks with a boy from her school.","exTh":"เธอคบกับเด็กผู้ชายจากโรงเรียนเดียวกัน","c":1,"note":"ภาษาสแลง"}
+{"id":"bash-about_pv","th":"ทุบตี; ทำให้เสียหาย","ex":"The kids bashed about the old toys.","exTh":"เด็กๆ ทุบตีของเล่นเก่าจนเสียหาย","c":1,"note":"ภาษาพูด อังกฤษ"}
+{"id":"face-off_pv","th":"เผชิญหน้ากัน; ประจันหน้า","ex":"The two teams will face off tonight.","exTh":"สองทีมจะประจันหน้ากันคืนนี้","c":3}
+{"id":"honk-off_pv","th":"ทำให้หงุดหงิด; ทำให้โมโห","ex":"His loud music really honks me off.","exTh":"เพลงเสียงดังของเขาทำให้ฉันหงุดหงิดมาก","c":1,"note":"ภาษาพูด"}
+{"id":"swot-up-on_pv","th":"อ่านหนังสือหนักเพื่อรู้เรื่อง","ex":"I need to swot up on history before the exam.","exTh":"ฉันต้องอ่านวิชาประวัติศาสตร์หนักก่อนสอบ","c":2,"note":"ภาษาพูด อังกฤษ"}
+{"id":"be-along_pv","th":"มาถึง","ex":"The bus will be along in a minute.","exTh":"รถเมล์จะมาถึงในอีกสักครู่","c":2,"note":"ภาษาพูด อังกฤษ"}
+{"id":"bear-down-on_pv","th":"มุ่งตรงเข้าหาอย่างเด็ดเดี่ยว","ex":"The security guard bore down on the thief.","exTh":"ยามมุ่งตรงเข้าหาโจรอย่างเด็ดเดี่ยว","c":2}
+{"id":"blimp-out_pv","th":"อ้วนขึ้นมาก","ex":"He blimped out over the holidays.","exTh":"เขาอ้วนขึ้นมากในช่วงวันหยุด","c":1,"note":"ภาษาพูด ไม่สุภาพ"}
+{"id":"stop-down_pv","th":"หรี่รูรับแสง (กล้อง)","ex":"Stop down the lens to get a sharper picture.","exTh":"หรี่รูรับแสงเลนส์เพื่อให้ภาพคมชัดขึ้น","c":2}
+{"id":"warm-down_pv","th":"ผ่อนร่างกายหลังออกกำลังกาย","ex":"Always warm down after a hard run.","exTh":"ควรผ่อนร่างกายหลังวิ่งหนักทุกครั้ง","c":2,"note":"ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"base-off-of_pv","th":"ใช้เป็นพื้นฐาน; อิงจาก","ex":"The story is based off of a true event.","exTh":"เรื่องนี้อิงจากเหตุการณ์จริง","c":2,"note":"ภาษาพูด อเมริกัน"}
+{"id":"seven-out_pv","th":"ทอยได้เลขเจ็ดจนแพ้ (เกมเครพส์)","ex":"He sevened out and lost the dice.","exTh":"เขาทอยได้เลขเจ็ดและเสียสิทธิ์ทอยลูกเต๋า","c":1}
+{"id":"f-off_pv","th":"ไสหัวไป (คำหยาบแบบอ้อม)","ex":"He told the reporter to f off.","exTh":"เขาบอกนักข่าวให้ไสหัวไป","c":2,"note":"คำหยาบ ภาษาพูด"}
+{"id":"bomb-around_pv","th":"ขับรถเที่ยวไปมา; ซิ่งไปทั่ว","ex":"We bombed around the island on motorbikes.","exTh":"เราขี่มอเตอร์ไซค์เที่ยวไปทั่วเกาะ","c":2,"note":"ภาษาพูด"}
+{"id":"flub-up_pv","th":"ทำพลาด; ทำเละ","ex":"I flubbed up my lines in the play.","exTh":"ฉันพูดบทผิดในละคร","c":2,"note":"ภาษาพูด"}
+{"id":"arse-around_pv","th":"เล่นไม่เป็นเรื่อง; เสียเวลาไปเรื่อย","ex":"Stop arsing around and do your job.","exTh":"เลิกเล่นไม่เป็นเรื่องแล้วทำงานของเธอซะ","c":2,"note":"ภาษาพูด หยาบคาย อังกฤษ"}
+{"id":"lash-up_pv","th":"ประกอบอย่างลวกๆ; ทำชั่วคราว","ex":"We lashed up a shelter from branches.","exTh":"เราประกอบที่พักชั่วคราวจากกิ่งไม้","c":2,"note":"ภาษาพูด อังกฤษ"}
+{"id":"charge-off_pv","th":"ตัดเป็นหนี้สูญ; ตัดรายจ่าย","ex":"The bank charged off the old debt.","exTh":"ธนาคารตัดหนี้เก่าเป็นหนี้สูญ","c":2}
+{"id":"chase-up_pv","th":"ตามเรื่อง; ติดตามให้เสร็จ","ex":"Please chase up the payment from the client.","exTh":"ช่วยตามเรื่องเงินจากลูกค้าให้หน่อย","c":3,"note":"ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"frost-up_pv","th":"เป็นน้ำแข็งเกาะ; เป็นฝ้า","ex":"The windows frosted up overnight.","exTh":"หน้าต่างมีน้ำแข็งเกาะข้ามคืน","c":2}
+{"id":"piss-around_pv","th":"เสียเวลาเล่นไปเรื่อย","ex":"Stop pissing around and make a decision.","exTh":"เลิกเสียเวลาแล้วตัดสินใจเสียที","c":2,"note":"คำหยาบ ภาษาพูด"}
+{"id":"plow-on_pv","th":"ลุยทำต่อไป","ex":"We plowed on with the work until midnight.","exTh":"เราลุยทำงานต่อไปจนถึงเที่ยงคืน","c":2,"note":"ภาษาอังกฤษแบบอเมริกัน"}
+{"id":"make-into_pv","th":"เปลี่ยนให้เป็น; ทำให้กลายเป็น","ex":"She made the old barn into a studio.","exTh":"เธอเปลี่ยนโรงนาเก่าให้เป็นสตูดิโอ","c":4}
+{"id":"pretty-up_pv","th":"ตกแต่งให้สวยงาม","ex":"We prettied up the garden for the party.","exTh":"เราตกแต่งสวนให้สวยสำหรับงานเลี้ยง","c":2}
+{"id":"print-out_pv","th":"พิมพ์ออกมา","ex":"Please print out the report for me.","exTh":"ช่วยพิมพ์รายงานออกมาให้ฉันหน่อย","c":4}
+{"id":"pull-ahead_pv","th":"แซงขึ้นนำ","ex":"She pulled ahead in the last lap.","exTh":"เธอแซงขึ้นนำในรอบสุดท้าย","c":3}
+{"id":"plough-on_pv","th":"ลุยทำต่อไป","ex":"Despite the rain, they ploughed on.","exTh":"แม้ฝนตก พวกเขาก็ยังลุยต่อไป","c":2,"note":"ภาษาอังกฤษแบบอังกฤษ"}
+{"id":"plow-back_pv","th":"นำกำไรกลับไปลงทุนใหม่","ex":"They plowed back all the profits into the shop.","exTh":"พวกเขานำกำไรทั้งหมดกลับไปลงทุนในร้าน","c":2}
+{"id":"plow-into_pv","th":"พุ่งชน; ชนอย่างแรง","ex":"A truck plowed into the fence.","exTh":"รถบรรทุกพุ่งชนรั้ว","c":3}
+{"id":"gone-on_pv","th":"หลงรัก; ปิ๊งมาก","ex":"He is really gone on her.","exTh":"เขาหลงรักเธอมาก","c":1,"note":"ภาษาพูดเก่า"}
+{"id":"throw-in-with_pv","th":"ร่วมมือกับ; จับมือกับ","ex":"He threw in with his cousin to start a shop.","exTh":"เขาจับมือกับญาติเปิดร้าน","c":1}
+{"id":"go-in-with_pv","th":"ร่วมหุ้นกับ; ร่วมลงทุนกับ","ex":"I'll go in with you on the gift.","exTh":"ฉันจะร่วมออกเงินซื้อของขวัญกับคุณ","c":2}
+{"id":"put-in-with_pv","th":"ร่วมหุ้นกับ; ร่วมมือกับ","ex":"He put in with a friend to buy the boat.","exTh":"เขาร่วมหุ้นกับเพื่อนซื้อเรือ","c":1}
+{"id":"happen-along_pv","th":"บังเอิญผ่านมา; มาถึงโดยบังเอิญ","ex":"A friend happened along just then.","exTh":"เพื่อนคนหนึ่งบังเอิญผ่านมาพอดี","c":2}
+{"id":"hang-in_pv","th":"อดทนสู้ต่อไป; ยืนหยัด","ex":"Hang in there; it will get better.","exTh":"สู้ต่อไปนะ เดี๋ยวก็ดีขึ้น","c":3}
+{"id":"short-out_pv","th":"ลัดวงจร","ex":"The wire shorted out in the rain.","exTh":"สายไฟลัดวงจรในสายฝน","c":3}
+{"id":"save-down_pv","th":"บันทึกไฟล์ลงดิสก์","ex":"Save down the file before you shut the computer.","exTh":"บันทึกไฟล์ก่อนปิดคอมพิวเตอร์","c":1}

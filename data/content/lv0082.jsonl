@@ -1,0 +1,100 @@
+{"id":"temperament_noun","th":"อารมณ์; นิสัยใจคอ; อุปนิสัย","ex":"Her calm temperament makes her a good leader.","exTh":"นิสัยใจเย็นของเธอทำให้เธอเป็นผู้นำที่ดี"}
+{"id":"slack_verb","th":"ย่อหย่อน; อู้งาน; ผ่อนคลาย","ex":"Don't slack off just because the boss is away.","exTh":"อย่าอู้งานแค่เพราะเจ้านายไม่อยู่"}
+{"id":"slack_noun","th":"ส่วนที่หย่อน; ช่วงว่าง; ความหย่อนยาน","ex":"Pull the rope tight to remove the slack.","exTh":"ดึงเชือกให้ตึงเพื่อเอาส่วนที่หย่อนออก"}
+{"id":"slack_adj","th":"หย่อน; ไม่ตึง; ซบเซา","ex":"The rope was slack, so the tent fell down.","exTh":"เชือกหย่อน เต็นท์จึงล้มลง"}
+{"id":"incision_noun","th":"รอยกรีด; แผลผ่าตัด","ex":"The surgeon made a small incision in his side.","exTh":"ศัลยแพทย์กรีดแผลเล็กๆ ที่ข้างลำตัวของเขา"}
+{"id":"parasite_noun","th":"ปรสิต; พยาธิ; ตัวเกาะกิน","ex":"The dog had a parasite living in its stomach.","exTh":"สุนัขมีปรสิตอาศัยอยู่ในกระเพาะ"}
+{"id":"divergence_noun","th":"ความแตกต่าง; การแยกออกจากกัน; ความเบี่ยงเบน","ex":"There is a clear divergence between their opinions.","exTh":"ความคิดเห็นของพวกเขามีความแตกต่างกันอย่างชัดเจน"}
+{"id":"bypass_verb","th":"เลี่ยง; ข้าม; อ้อมผ่าน","ex":"We took a side road to bypass the traffic.","exTh":"เราใช้ทางลัดเพื่อเลี่ยงรถติด"}
+{"id":"goose_noun","th":"ห่าน","ex":"A goose was walking near the lake.","exTh":"ห่านตัวหนึ่งเดินอยู่ใกล้ทะเลสาบ"}
+{"id":"lust_noun","th":"ราคะ; ตัณหา; ความใคร่","ex":"The film is about greed, lust and power.","exTh":"ภาพยนตร์เรื่องนี้เกี่ยวกับความโลภ ตัณหา และอำนาจ","note":"ยังใช้กับความอยากได้มากๆ เช่น lust for power"}
+{"id":"puzzle_verb","th":"ทำให้งง; ทำให้สับสน","ex":"His strange answer puzzled the whole class.","exTh":"คำตอบแปลกๆ ของเขาทำให้ทั้งห้องงง"}
+{"id":"individuality_noun","th":"เอกลักษณ์ส่วนบุคคล; ความเป็นตัวของตัวเอง","ex":"She shows her individuality through her clothes.","exTh":"เธอแสดงความเป็นตัวของตัวเองผ่านเสื้อผ้าที่สวมใส่"}
+{"id":"fragmentation_noun","th":"การแตกเป็นเสี่ยง; การแตกแยก; การกระจัดกระจาย","ex":"The fragmentation of the market made it hard to compete.","exTh":"การที่ตลาดแตกออกเป็นส่วนย่อยทำให้แข่งขันได้ยาก"}
+{"id":"credible_adj","th":"น่าเชื่อถือ; เชื่อได้","ex":"The police found no credible evidence against him.","exTh":"ตำรวจไม่พบหลักฐานที่น่าเชื่อถือมัดตัวเขา"}
+{"id":"awe_verb","th":"ทำให้เกรงขาม; ทำให้ตื่นตะลึง","ex":"The huge mountain awed all the visitors.","exTh":"ภูเขาลูกใหญ่ทำให้ผู้มาเยือนทุกคนตื่นตะลึง","note":"มักใช้ในรูป awed (รู้สึกทึ่ง)"}
+{"id":"cloak_noun","th":"เสื้อคลุม; ม่านบังตา; สิ่งปิดบัง","ex":"He wore a long black cloak in the rain.","exTh":"เขาสวมเสื้อคลุมสีดำยาวตอนฝนตก"}
+{"id":"spontaneously_adv","th":"อย่างฉับพลัน; โดยธรรมชาติ; โดยไม่ได้วางแผน","ex":"The children spontaneously started to sing.","exTh":"เด็กๆ เริ่มร้องเพลงขึ้นมาเองโดยไม่ได้นัดหมาย"}
+{"id":"apprentice_noun","th":"ลูกมือฝึกหัด; ผู้ฝึกงาน; เด็กฝึกงาน","ex":"He started as an apprentice in a small workshop.","exTh":"เขาเริ่มต้นเป็นลูกมือฝึกงานในโรงงานเล็กๆ"}
+{"id":"apprentice_verb","th":"ให้ไปฝึกงาน; รับเป็นลูกมือ","ex":"His father apprenticed him to a carpenter.","exTh":"พ่อส่งเขาไปฝึกงานกับช่างไม้"}
+{"id":"preach_verb","th":"เทศนา; สั่งสอน; พร่ำสอน","ex":"The priest preaches every Sunday morning.","exTh":"บาทหลวงเทศนาทุกเช้าวันอาทิตย์"}
+{"id":"meaningless_adj","th":"ไร้ความหมาย; ไม่มีความหมาย; ไร้สาระ","ex":"Without you, my life feels meaningless.","exTh":"ถ้าไม่มีคุณ ชีวิตของฉันก็รู้สึกไร้ความหมาย"}
+{"id":"startling_adj","th":"น่าตกใจ; ที่ทำให้สะดุ้ง; น่าประหลาดใจ","ex":"The test results were startling to everyone.","exTh":"ผลการทดสอบน่าตกใจสำหรับทุกคน"}
+{"id":"mythology_noun","th":"เทพนิยาย; ตำนาน; ปกรณัม","ex":"She loves reading about Greek mythology.","exTh":"เธอชอบอ่านเรื่องเทพปกรณัมของกรีก"}
+{"id":"justly_adv","th":"อย่างยุติธรรม; อย่างเป็นธรรม; อย่างสมควร","ex":"The judge treated everyone justly.","exTh":"ผู้พิพากษาปฏิบัติต่อทุกคนอย่างยุติธรรม"}
+{"id":"naive_adj","th":"อ่อนต่อโลก; ไร้เดียงสา; ซื่อเกินไป","ex":"It was naive to trust a stranger with your money.","exTh":"การไว้ใจคนแปลกหน้าเรื่องเงินเป็นความซื่อเกินไป"}
+{"id":"canoe_noun","th":"เรือแคนู; เรือพาย","ex":"We crossed the river in a small canoe.","exTh":"เราข้ามแม่น้ำด้วยเรือแคนูลำเล็ก"}
+{"id":"intuitive_adj","th":"ตามสัญชาตญาณ; เข้าใจได้โดยง่าย; ใช้งานง่าย","ex":"The app is easy to use because it is intuitive.","exTh":"แอปนี้ใช้ง่ายเพราะใช้งานได้เป็นธรรมชาติ"}
+{"id":"divergent_adj","th":"ที่แตกต่างกัน; ที่แยกออกไป; ที่ไม่ตรงกัน","ex":"The two groups have divergent views on the plan.","exTh":"สองกลุ่มมีมุมมองต่อแผนที่แตกต่างกัน"}
+{"id":"appliance_noun","th":"เครื่องใช้ไฟฟ้า; อุปกรณ์ในบ้าน","ex":"A washing machine is a common home appliance.","exTh":"เครื่องซักผ้าเป็นเครื่องใช้ไฟฟ้าในบ้านที่พบทั่วไป"}
+{"id":"rally_verb","th":"รวมพล; ชุมนุมสนับสนุน; ฟื้นตัว","ex":"Fans rallied behind the team after the loss.","exTh":"แฟนๆ รวมตัวกันให้กำลังใจทีมหลังจากแพ้"}
+{"id":"forensic_adj","th":"เกี่ยวกับนิติวิทยาศาสตร์; ทางนิติเวช","ex":"Forensic experts examined the room for clues.","exTh":"ผู้เชี่ยวชาญด้านนิติวิทยาศาสตร์ตรวจห้องหาเบาะแส"}
+{"id":"wares_noun","th":"สินค้า; ของที่ขาย","ex":"The street vendors displayed their wares on the ground.","exTh":"พ่อค้าแม่ค้าริมถนนวางสินค้าโชว์บนพื้น","note":"ใช้เป็นรูปพหูพจน์เสมอ"}
+{"id":"exodus_noun","th":"การอพยพครั้งใหญ่; การเดินทางออกพร้อมกัน","ex":"There was a mass exodus from the city after the flood.","exTh":"ผู้คนอพยพออกจากเมืองครั้งใหญ่หลังน้ำท่วม"}
+{"id":"ingenious_adj","th":"ฉลาดล้ำ; มีไหวพริบ; คิดค้นเก่ง","ex":"She found an ingenious way to save water.","exTh":"เธอหาวิธีประหยัดน้ำที่ชาญฉลาดมาก"}
+{"id":"amplification_noun","th":"การขยาย; การเพิ่มความดัง; การทำให้รุนแรงขึ้น","ex":"The band needs more amplification for the big hall.","exTh":"วงดนตรีต้องการเครื่องขยายเสียงเพิ่มสำหรับห้องโถงใหญ่"}
+{"id":"sentimental_adj","th":"อ่อนไหวทางอารมณ์; ซาบซึ้งใจ; รำลึกถึงอดีต","ex":"I keep my old letters for sentimental reasons.","exTh":"ฉันเก็บจดหมายเก่าไว้เพราะมีความผูกพันทางใจ"}
+{"id":"sap_noun","th":"ยางไม้; น้ำเลี้ยงต้นไม้; คนหลอกง่าย","ex":"Sap ran down the trunk of the cut tree.","exTh":"ยางไหลลงมาตามลำต้นของต้นไม้ที่ถูกตัด"}
+{"id":"bald_verb","th":"ผมร่วง; หัวล้าน","ex":"My uncle began to bald in his thirties.","exTh":"ลุงของฉันเริ่มหัวล้านตอนอายุสามสิบกว่า","note":"ใช้เป็นกริยาไม่บ่อย ส่วนใหญ่ใช้ bald เป็นคุณศัพท์"}
+{"id":"fuse_verb","th":"หลอมรวม; ผสานเข้าด้วยกัน; ไฟขาด","ex":"The two metals fuse when they are heated.","exTh":"โลหะสองชนิดหลอมรวมกันเมื่อถูกความร้อน"}
+{"id":"enormously_adv","th":"อย่างมหาศาล; มากมาย; เป็นอย่างยิ่ง","ex":"The movie was enormously popular last year.","exTh":"ภาพยนตร์เรื่องนี้ได้รับความนิยมอย่างมหาศาลเมื่อปีที่แล้ว"}
+{"id":"prophetic_adj","th":"ที่เป็นคำทำนาย; ที่ล่วงรู้อนาคต","ex":"Her warning turned out to be prophetic.","exTh":"คำเตือนของเธอกลายเป็นจริงในเวลาต่อมา"}
+{"id":"socialization_noun","th":"การเข้าสังคม; การขัดเกลาทางสังคม","ex":"School helps children with socialization.","exTh":"โรงเรียนช่วยให้เด็กๆ เรียนรู้การเข้าสังคม"}
+{"id":"reluctantly_adv","th":"อย่างไม่เต็มใจ; อย่างลังเล","ex":"He reluctantly agreed to help us.","exTh":"เขาตกลงช่วยเราอย่างไม่เต็มใจ"}
+{"id":"adversary_noun","th":"ศัตรู; คู่ต่อสู้; ปฏิปักษ์","ex":"The boxer faced his old adversary in the final.","exTh":"นักมวยพบกับคู่ปรับเก่าในรอบชิง"}
+{"id":"elaboration_noun","th":"การขยายความ; การอธิบายเพิ่มเติม; ความประณีต","ex":"Your idea needs more elaboration before we decide.","exTh":"ความคิดของคุณต้องอธิบายเพิ่มเติมก่อนที่เราจะตัดสินใจ"}
+{"id":"alleviate_verb","th":"บรรเทา; ทำให้เบาลง","ex":"This medicine will alleviate your headache.","exTh":"ยานี้จะช่วยบรรเทาอาการปวดหัวของคุณ"}
+{"id":"invoice_noun","th":"ใบแจ้งหนี้; ใบกำกับสินค้า","ex":"Please pay the invoice within thirty days.","exTh":"กรุณาชำระตามใบแจ้งหนี้ภายในสามสิบวัน"}
+{"id":"conscientious_adj","th":"มีความรับผิดชอบ; ละเอียดรอบคอบ; ซื่อสัตย์ต่อหน้าที่","ex":"She is a conscientious student who always checks her work.","exTh":"เธอเป็นนักเรียนที่รับผิดชอบและตรวจงานของตัวเองเสมอ"}
+{"id":"rotate_verb","th":"หมุน; สลับเวียน","ex":"The Earth rotates once every twenty-four hours.","exTh":"โลกหมุนรอบตัวเองหนึ่งรอบทุกยี่สิบสี่ชั่วโมง"}
+{"id":"psychiatrist_noun","th":"จิตแพทย์","ex":"He sees a psychiatrist once a month.","exTh":"เขาไปพบจิตแพทย์เดือนละครั้ง"}
+{"id":"commend_verb","th":"ชมเชย; ยกย่อง; มอบหมาย","ex":"The manager commended her for her hard work.","exTh":"ผู้จัดการชมเชยเธอที่ทำงานหนัก","note":"ภาษาทางการ"}
+{"id":"anchored_adj","th":"ทอดสมอ; ยึดมั่น; ตรึงแน่น","ex":"The boat was anchored near the beach.","exTh":"เรือจอดทอดสมออยู่ใกล้ชายหาด"}
+{"id":"acidic_adj","th":"เป็นกรด; เปรี้ยว; เสียดสี","ex":"Lemon juice is very acidic.","exTh":"น้ำมะนาวเป็นกรดมาก"}
+{"id":"eccentric_adj","th":"ประหลาด; พิลึก; ไม่เหมือนใคร","ex":"My eccentric uncle keeps ten cats in his house.","exTh":"ลุงสุดแปลกของฉันเลี้ยงแมวสิบตัวในบ้าน"}
+{"id":"eccentric_noun","th":"คนประหลาด; คนนอกคอก","ex":"Everyone in the village knew him as a harmless eccentric.","exTh":"ทุกคนในหมู่บ้านรู้จักเขาในฐานะคนแปลกที่ไม่มีพิษภัย"}
+{"id":"reminiscent_adj","th":"ที่ชวนให้นึกถึง; ที่คล้าย","ex":"The smell is reminiscent of my grandmother's kitchen.","exTh":"กลิ่นนี้ชวนให้นึกถึงครัวของคุณยาย"}
+{"id":"prop_verb","th":"ค้ำ; พิง; ยันไว้","ex":"He propped the door open with a chair.","exTh":"เขาใช้เก้าอี้ยันประตูให้เปิดค้างไว้"}
+{"id":"prop_noun","th":"เสาค้ำ; ไม้ค้ำยัน; อุปกรณ์ประกอบฉาก","ex":"The actor held a toy sword as a prop.","exTh":"นักแสดงถือดาบของเล่นเป็นอุปกรณ์ประกอบฉาก"}
+{"id":"victorious_adj","th":"ชนะ; ได้รับชัยชนะ","ex":"The victorious team danced in the street.","exTh":"ทีมผู้ชนะเต้นรำกันกลางถนน"}
+{"id":"compromised_adj","th":"ถูกบุกรุก; เสียหาย; ถูกลดทอน","ex":"My email account was compromised by hackers.","exTh":"บัญชีอีเมลของฉันถูกแฮกเกอร์เจาะเข้าไป"}
+{"id":"faction_noun","th":"ฝ่าย; กลุ่มย่อย; พรรคพวก","ex":"One faction in the party opposed the new law.","exTh":"กลุ่มหนึ่งในพรรคคัดค้านกฎหมายใหม่"}
+{"id":"conserve_verb","th":"อนุรักษ์; ประหยัด; สงวนไว้","ex":"We must conserve water during the dry season.","exTh":"เราต้องประหยัดน้ำในช่วงหน้าแล้ง"}
+{"id":"knowledgeable_adj","th":"มีความรู้; รอบรู้","ex":"The guide was very knowledgeable about local history.","exTh":"ไกด์มีความรู้เรื่องประวัติศาสตร์ท้องถิ่นเป็นอย่างดี"}
+{"id":"plaque_noun","th":"คราบหินปูน; แผ่นป้ายจารึก","ex":"The dentist removed the plaque from my teeth.","exTh":"หมอฟันขูดหินปูนออกจากฟันของฉัน"}
+{"id":"flourish_noun","th":"การโบกสะบัด; ลวดลายประดิษฐ์; ท่าทางโอ่อ่า","ex":"He signed his name with a big flourish.","exTh":"เขาเซ็นชื่ออย่างสะบัดลวดลายอย่างโอ่อ่า"}
+{"id":"flourish_verb","th":"เจริญรุ่งเรือง; เติบโตงอกงาม","ex":"Small businesses flourish in this area.","exTh":"ธุรกิจขนาดเล็กเจริญรุ่งเรืองในย่านนี้"}
+{"id":"expire_verb","th":"หมดอายุ; สิ้นสุด","ex":"My passport will expire next month.","exTh":"หนังสือเดินทางของฉันจะหมดอายุเดือนหน้า"}
+{"id":"tread_noun","th":"ดอกยาง; รอยเท้า; เสียงฝีเท้า","ex":"The tires have almost no tread left.","exTh":"ยางรถแทบไม่มีดอกยางเหลือแล้ว"}
+{"id":"ingenuity_noun","th":"ความช่างคิด; ความฉลาดเฉลียว; ความคิดสร้างสรรค์","ex":"They solved the problem with great ingenuity.","exTh":"พวกเขาแก้ปัญหาได้ด้วยความช่างคิดอย่างมาก"}
+{"id":"convict_verb","th":"ตัดสินว่ามีความผิด; พิพากษาว่ามีความผิด","ex":"The jury convicted him of stealing a car.","exTh":"คณะลูกขุนตัดสินว่าเขามีความผิดฐานขโมยรถ"}
+{"id":"convict_noun","th":"นักโทษ; ผู้ต้องโทษ","ex":"The convict escaped from prison last night.","exTh":"นักโทษแหกคุกหนีไปเมื่อคืนนี้"}
+{"id":"stray_verb","th":"หลงทาง; เดินเตลิด; ออกนอกเรื่อง","ex":"Don't let the children stray too far from us.","exTh":"อย่าปล่อยให้เด็กๆ เดินห่างจากเราไกลเกินไป"}
+{"id":"stray_adj","th":"จรจัด; หลงมา; ที่เตลิดไป","ex":"A stray dog followed me home.","exTh":"สุนัขจรจัดตัวหนึ่งเดินตามฉันกลับบ้าน"}
+{"id":"stray_noun","th":"สัตว์จรจัด; สัตว์ที่หลงทาง","ex":"The shelter takes care of strays.","exTh":"ศูนย์พักพิงดูแลสัตว์จรจัด"}
+{"id":"demise_noun","th":"การล่มสลาย; ความตาย; ความล้มเหลว","ex":"The company's demise surprised many people.","exTh":"การล่มสลายของบริษัททำให้หลายคนประหลาดใจ"}
+{"id":"recognizable_adj","th":"จำได้; สังเกตได้","ex":"His voice is easily recognizable.","exTh":"เสียงของเขาจำได้ง่าย"}
+{"id":"tedious_adj","th":"น่าเบื่อ; ซ้ำซากน่าเบื่อ","ex":"Filling out these forms is a tedious job.","exTh":"การกรอกแบบฟอร์มเหล่านี้เป็นงานที่น่าเบื่อ"}
+{"id":"readable_adj","th":"อ่านง่าย; น่าอ่าน","ex":"The handwriting was neat and readable.","exTh":"ลายมือเรียบร้อยและอ่านง่าย"}
+{"id":"battered_adj","th":"ยับเยิน; ชำรุด; ถูกทำร้าย","ex":"He drove a battered old truck to work.","exTh":"เขาขับรถกระบะเก่าสภาพยับเยินไปทำงาน"}
+{"id":"tailor_noun","th":"ช่างตัดเสื้อ","ex":"The tailor measured me for a new suit.","exTh":"ช่างตัดเสื้อวัดตัวฉันเพื่อตัดสูทชุดใหม่"}
+{"id":"tailor_verb","th":"ปรับให้เหมาะสม; ตัดเย็บให้พอดี","ex":"We tailor our lessons to each student.","exTh":"เราปรับบทเรียนให้เหมาะกับนักเรียนแต่ละคน"}
+{"id":"niche_noun","th":"ช่องทางเฉพาะ; ตลาดเฉพาะกลุ่ม; ซอกเว้า","ex":"The shop found a niche selling only tea.","exTh":"ร้านนี้หาตลาดเฉพาะกลุ่มได้ด้วยการขายแต่ชา"}
+{"id":"detriment_noun","th":"ความเสียหาย; ผลเสีย","ex":"He worked long hours to the detriment of his health.","exTh":"เขาทำงานหลายชั่วโมงจนเสียสุขภาพ","note":"มักใช้ในสำนวน to the detriment of"}
+{"id":"gem_noun","th":"อัญมณี; เพชรพลอย; สิ่งล้ำค่า","ex":"The ring has a small blue gem in the middle.","exTh":"แหวนวงนี้มีอัญมณีสีน้ำเงินเม็ดเล็กอยู่ตรงกลาง"}
+{"id":"linearly_adv","th":"เป็นเส้นตรง; ตามลำดับ; เป็นสัดส่วนโดยตรง","ex":"The cost increases linearly with the number of users.","exTh":"ต้นทุนเพิ่มขึ้นเป็นเส้นตรงตามจำนวนผู้ใช้"}
+{"id":"pigeon_noun","th":"นกพิราบ","ex":"Pigeons were eating bread in the square.","exTh":"นกพิราบกำลังกินขนมปังอยู่ในจัตุรัส"}
+{"id":"maneuver_verb","th":"เคลื่อนย้ายอย่างคล่องแคล่ว; ขับหลบ; วางกลอุบาย","ex":"She maneuvered the car into a tight space.","exTh":"เธอขับรถเข้าช่องจอดแคบๆ ได้อย่างคล่องแคล่ว","note":"อังกฤษแบบอังกฤษสะกด manoeuvre"}
+{"id":"maneuver_noun","th":"การเคลื่อนไหวอย่างชำนาญ; กลยุทธ์; การซ้อมรบ","ex":"The driver made a quick maneuver to avoid the bike.","exTh":"คนขับหักหลบอย่างรวดเร็วเพื่อไม่ให้ชนจักรยาน","note":"อังกฤษแบบอังกฤษสะกด manoeuvre"}
+{"id":"compulsion_noun","th":"แรงผลักดันที่ห้ามไม่ได้; การบังคับ","ex":"He felt a compulsion to check the door again.","exTh":"เขารู้สึกห้ามใจไม่ได้ที่จะไปเช็กประตูอีกครั้ง"}
+{"id":"symptomatic_adj","th":"ที่เป็นอาการของ; ที่แสดงให้เห็นถึง","ex":"His tiredness is symptomatic of a deeper problem.","exTh":"ความอ่อนเพลียของเขาเป็นสัญญาณของปัญหาที่ลึกกว่านั้น"}
+{"id":"turmoil_noun","th":"ความวุ่นวาย; ความปั่นป่วน","ex":"The country was in turmoil after the election.","exTh":"ประเทศตกอยู่ในความวุ่นวายหลังการเลือกตั้ง"}
+{"id":"boast_noun","th":"คำโอ้อวด; ความภาคภูมิใจ","ex":"His boast about winning every game was not true.","exTh":"คำโอ้อวดของเขาที่ว่าชนะทุกเกมไม่เป็นความจริง"}
+{"id":"allege_verb","th":"กล่าวหา; อ้างว่า","ex":"The report alleges that the company hid the facts.","exTh":"รายงานกล่าวหาว่าบริษัทปิดบังข้อเท็จจริง","note":"ภาษาทางการ มักใช้ในข่าวหรือกฎหมาย"}
+{"id":"spacious_adj","th":"กว้างขวาง; โอ่โถง","ex":"The new apartment is bright and spacious.","exTh":"อพาร์ตเมนต์ใหม่สว่างและกว้างขวาง"}
+{"id":"contextual_adj","th":"ตามบริบท; เกี่ยวกับบริบท","ex":"Contextual clues can help you guess a word's meaning.","exTh":"เบาะแสจากบริบทช่วยให้เดาความหมายของคำได้"}
+{"id":"elusive_adj","th":"จับยาก; หลบเลี่ยง; นิยามยาก","ex":"The elusive thief has not been caught yet.","exTh":"โจรที่จับตัวยากคนนั้นยังไม่ถูกจับได้"}
+{"id":"drawback_noun","th":"ข้อเสีย; ข้อเสียเปรียบ; อุปสรรค","ex":"The main drawback of this phone is its battery.","exTh":"ข้อเสียหลักของโทรศัพท์เครื่องนี้คือแบตเตอรี่"}
+{"id":"strap_noun","th":"สายรัด; สายคล้อง; สายกระเป๋า","ex":"The strap on my bag broke today.","exTh":"สายกระเป๋าของฉันขาดวันนี้"}
+{"id":"strap_verb","th":"รัด; มัดด้วยสาย; คาดเข็มขัด","ex":"Please strap the box onto the back of the bike.","exTh":"กรุณามัดกล่องไว้กับท้ายจักรยาน"}
+{"id":"dissection_noun","th":"การผ่า; การชำแหละ; การวิเคราะห์อย่างละเอียด","ex":"Students did a frog dissection in biology class.","exTh":"นักเรียนผ่ากบในคาบชีววิทยา"}

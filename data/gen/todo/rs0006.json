@@ -1,0 +1,859 @@
+[
+{
+"id": "broker_x",
+"w": "broker",
+"gloss": [
+"A mediator between a buyer and seller.",
+"A stockbroker.",
+"A mediator in general, one who liaises between two or more parties to attempt to achieve an outcome of some kind."
+]
+},
+{
+"id": "insulin_x",
+"w": "insulin",
+"gloss": [
+"A polypeptide hormone that regulates carbohydrate metabolism (in various animals including humans).",
+"Any exogenous preparation of this hormone for use as a medication.",
+"Any exogenous preparation of this hormone or its analogues for use as a medication."
+]
+},
+{
+"id": "confidential_x",
+"w": "confidential",
+"gloss": [
+"Kept, or meant to be kept, secret within a certain circle of persons; not intended to be known publicly.",
+"Inclined to share confidences; (of things) making people inclined to share confidences; involving the sharing of confidences.",
+"Having someone's confidence or trust; having a position requiring trust; worthy of being trusted with confidences."
+]
+},
+{
+"id": "critique_x",
+"w": "critique",
+"gloss": [
+"The art of criticism.",
+"An essay in which another piece of work is criticized, reviewed, etc.",
+"A point made to criticize something."
+]
+},
+{
+"id": "partition_x",
+"w": "partition",
+"gloss": [
+"An action which divides a thing into parts, or separates one thing from another.",
+"A part of something that has been divided.",
+"An approach to division in which one asks what the size of each part is, rather than (as in quotition) how many parts there are."
+]
+},
+{
+"id": "binary_x",
+"w": "binary",
+"gloss": [
+"Being in one of two mutually exclusive states.",
+"Concerning logic whose subject matter concerns such states.",
+"Concerning numbers and calculations using the binary number system."
+]
+},
+{
+"id": "spine_x",
+"w": "spine",
+"gloss": [
+"A series of bones situated at the back from the head to the pelvis of a human, or from the head to the tail of an animal, enclosing the spinal cord and providing support for the thorax and abdomen.",
+"Courage or assertiveness.",
+"Something resembling a backbone, such as a ridge, or a long, central structure from which other structures radiate."
+]
+},
+{
+"id": "feminist_x",
+"w": "feminist",
+"gloss": [
+"Relating to or in accordance with feminism.",
+"An advocate of feminism; a person who believes in bringing about the equality of the sexes (of women and men) in all aspects of public and private life.",
+"A member of a feminist political movement."
+]
+},
+{
+"id": "turnover_x",
+"w": "turnover",
+"gloss": [
+"The amount of money taken as sales transacted in a given period.",
+"The frequency with which stock is replaced after being used or sold, workers leave and are replaced, a property changes hands, etc.",
+"A semicircular pastry made by turning one half of a circular crust over the other, enclosing the filling (such as fruit)."
+]
+},
+{
+"id": "tribute_x",
+"w": "tribute",
+"gloss": [
+"An acknowledgment of gratitude, respect or admiration; an accompanying gift.",
+"An homage made in a body of work to another work or creator.",
+"A payment made by one nation to another in submission."
+]
+},
+{
+"id": "attributable_x",
+"w": "attributable",
+"gloss": [
+"Capable of being attributed.",
+"Allowed to be attributed."
+]
+},
+{
+"id": "pasture_x",
+"w": "pasture",
+"gloss": [
+"Land, specifically, an open field, on which livestock is kept for feeding.",
+"Ground covered with grass or herbage, used or suitable for the grazing of livestock.",
+"Food, nourishment."
+]
+},
+{
+"id": "inequality_x",
+"w": "inequality",
+"gloss": [
+"A condition or state (of social, cultural, or legal matters) that is not equal; especially, such a condition that is thereby also unfair.",
+"A statement that of two quantities one is specifically less than (or greater than) another. Symbol: < or ≤ or > or ≥ or ne , as appropriate.",
+"Unevenness, irregularity."
+]
+},
+{
+"id": "wireless_x",
+"w": "wireless",
+"gloss": [
+"Not having any wires.",
+"Functioning without an external wired connection.",
+"The medium of radio communication."
+]
+},
+{
+"id": "meantime_x",
+"w": "meantime",
+"gloss": [
+"The time spent waiting for another event; time in between.",
+"During the interval; meanwhile."
+]
+},
+{
+"id": "fellowship_x",
+"w": "fellowship",
+"gloss": [
+"A company of people that share the same interest or aim.",
+"Company, companions; a group of people or things following another.",
+"A feeling of friendship, relatedness or connection between people."
+]
+},
+{
+"id": "founder_x",
+"w": "founder",
+"gloss": [
+"One who founds or establishes (a company, project, organisation, state, etc.).",
+"A common ancestor of some population (especially one with a certain genetic mutation).",
+"The iron worker in charge of the blast furnace and the smelting operation."
+]
+},
+{
+"id": "consecutive_x",
+"w": "consecutive",
+"gloss": [
+"Following, in succession, without interruption.",
+"Having some logical sequence.",
+"A sequence of notes or chords that results from repeated shifts in pitch of the same interval."
+]
+},
+{
+"id": "notify_x",
+"w": "notify",
+"gloss": [
+"To give (someone) notice (of some event).",
+"To make (something) known.",
+"To make note of (something)."
+]
+},
+{
+"id": "incorporate_x",
+"w": "incorporate",
+"gloss": [
+"To include (something) as a part.",
+"To mix (something in) as an ingredient; to blend",
+"To admit as a member of a company"
+]
+},
+{
+"id": "mandate_x",
+"w": "mandate",
+"gloss": [
+"An official or authoritative command; an order or injunction; a commission; a judicial precept; an authorization.",
+"The order or authority to do something, as granted to a politician by the electorate.",
+"A period during which a government is in power."
+]
+},
+{
+"id": "psychiatry_x",
+"w": "psychiatry",
+"gloss": [
+"The branch of medicine that focuses on mental and behavioral health by subjectively diagnosing, treating, or preventing mental disorders (mental illnesses) and behavioural conditions."
+]
+},
+{
+"id": "abortion_x",
+"w": "abortion",
+"gloss": [
+"A spontaneous abortion; a miscarriage.",
+"An induced abortion.",
+"An aborted foetus; an abortus."
+]
+},
+{
+"id": "sensor_x",
+"w": "sensor",
+"gloss": [
+"A device or organ that detects certain external stimuli and responds in a distinctive manner."
+]
+},
+{
+"id": "introductory_x",
+"w": "introductory",
+"gloss": [
+"Introducing; giving a preview, idea or foretaste of."
+]
+},
+{
+"id": "efficiently_x",
+"w": "efficiently",
+"gloss": [
+"In an efficient manner."
+]
+},
+{
+"id": "instability_x",
+"w": "instability",
+"gloss": [
+"The quality of being unstable.",
+"A state that is not in equilibrium, or in which a small change has a large irreversible effect."
+]
+},
+{
+"id": "unpaid_x",
+"w": "unpaid",
+"gloss": [
+"Not paid for.",
+"Of work: done without agreed payment, usually voluntarily."
+]
+},
+{
+"id": "rebellion_x",
+"w": "rebellion",
+"gloss": [
+"Armed resistance to an established government or ruler.",
+"Defiance of authority or control; the act of rebelling.",
+"An organized, forceful subversion of the law of the land in an attempt to replace it with another form of government."
+]
+},
+{
+"id": "ass_x",
+"w": "ass",
+"gloss": [
+"Any of several species of horselike animals, especially Equus asinus, the domesticated of which are used as beasts of burden.",
+"Equus asinus; a domesticated specimen thereof.",
+"A stupid or inconsiderate person."
+]
+},
+{
+"id": "conspiracy_x",
+"w": "conspiracy",
+"gloss": [
+"An agreement or arrangement between multiple parties to do something harmful, immoral or subversive; an instance of collusion.",
+"An agreement between two or more persons to break the law at some time in the future.",
+"A secret agreement to do something."
+]
+},
+{
+"id": "nationalism_x",
+"w": "nationalism",
+"gloss": [
+"A more extreme form of patriotism; the idea of a more extreme support for one's country, people or culture.",
+"Support for the creation of a sovereign nation (which does not currently exist).",
+"Support for the union of Northern Ireland and the Republic of Ireland."
+]
+},
+{
+"id": "wavelength_x",
+"w": "wavelength",
+"gloss": [
+"The length of a single cycle of a wave, as measured by the distance between one peak or trough of a wave and the next; it is often designated in physics as λ, and corresponds to the velocity of the wave divided by its frequency.",
+"A person's attitude and way of thinking as compared to another person's."
+]
+},
+{
+"id": "recruitment_x",
+"w": "recruitment",
+"gloss": [
+"The process or art of finding candidates for a post in an organization, or recruits for the armed forces.",
+"A style or process of recruiting.",
+"The addition of new adult or breeding-age individuals (recruits) to a population."
+]
+},
+{
+"id": "derivative_x",
+"w": "derivative",
+"gloss": [
+"Obtained by derivation; not radical, original, or fundamental.",
+"Imitative of the work of someone else.",
+"Referring to a work, such as a translation or adaptation, based on another work that may be subject to copyright restrictions."
+]
+},
+{
+"id": "instrumental_x",
+"w": "instrumental",
+"gloss": [
+"Essential or central; of great importance or relevance.",
+"Serving as an instrument, medium, means, or agency.",
+"Pertaining to, made by, or prepared for an instrument, especially a musical instrument (rather than the human voice)."
+]
+},
+{
+"id": "automotive_x",
+"w": "automotive",
+"gloss": [
+"Having the ability to move by itself; self-propelled or self-propelling.",
+"Of, or relating to motor vehicles.",
+"A shop or company that sells motor vehicle parts."
+]
+},
+{
+"id": "designate_x",
+"w": "designate",
+"gloss": [
+"Designated; appointed; chosen.",
+"Used after a role title to indicate that the person has been selected but has yet to take up the role.",
+"To mark out and make known; to point out; to indicate; to show; to distinguish by marks or description"
+]
+},
+{
+"id": "carcinoma_x",
+"w": "carcinoma",
+"gloss": [
+"An invasive malignant tumour derived from epithelial tissue that tends to metastasize to other areas of the body.",
+"A form of cancer; (uncountable) cancer in general as a disease."
+]
+},
+{
+"id": "prevalence_x",
+"w": "prevalence",
+"gloss": [
+"The quality or condition of being prevalent; wide extension or spread.",
+"The total number of cases of a disease in a given statistical population at a given time, divided by the number of individuals in that population."
+]
+},
+{
+"id": "administer_x",
+"w": "administer",
+"gloss": [
+"To apportion out, distribute.",
+"To manage or supervise the conduct, performance or execution of; to govern or regulate the parameters for the conduct, performance or execution of; to work in an administrative capacity.",
+"To minister (to)."
+]
+},
+{
+"id": "reimbursement_x",
+"w": "reimbursement",
+"gloss": [
+"The act of compensating someone for an expense."
+]
+},
+{
+"id": "crane_x",
+"w": "crane",
+"gloss": [
+"Any bird of the family Gruidae, large birds with long legs and a long neck which is extended during flight.",
+"Ardea herodias, the great blue heron.",
+"A mechanical lifting machine or device, often used for lifting heavy loads for industrial or construction purposes."
+]
+},
+{
+"id": "predominantly_x",
+"w": "predominantly",
+"gloss": [
+"In a predominant manner. Most commonly or frequently by a large margin."
+]
+},
+{
+"id": "evolutionary_x",
+"w": "evolutionary",
+"gloss": [
+"Of or relating to the biological theory of evolution.",
+"Having formal similarities to the biological theory of evolution."
+]
+},
+{
+"id": "gland_x",
+"w": "gland",
+"gloss": [
+"A specialized cell, group of cells, or organ of endothelial origin in the human or animal body that synthesizes a chemical substance, such as hormones or breast milk, and releases it, often into the bloodstream (endocrine gland) or into cavities inside the body or its outer surface (exocrine gland).",
+"A structure resembling a gland, especially a lymph node.",
+"A secretory structure on the surface of an organ."
+]
+},
+{
+"id": "materially_x",
+"w": "materially",
+"gloss": [
+"In a material manner; with regard to physical things or characteristics.",
+"To a significant degree."
+]
+},
+{
+"id": "lever_x",
+"w": "lever",
+"gloss": [
+"A rigid piece which is capable of turning about one point, or axis (fulcrum), and in which are two or more other points where forces are applied; — used for transmitting and modifying force and motion.",
+"Specifically, a bar of metal, wood or other rigid substance, used to exert a pressure, or sustain a weight, at one point of its length, by receiving a force or power at a second, and turning at a third on a fixed point called a fulcrum. It is usually named as the first of the six mechanical powers, and is of three kinds, according as either the fulcrum F, the weight W, or the power P, respectively, is situated between the other two, as in the figures.",
+"A small such piece to trigger or control a mechanical device (like a switch or a button)."
+]
+},
+{
+"id": "layout_x",
+"w": "layout",
+"gloss": [
+"A structured arrangement of items within certain limits.",
+"A plan for such arrangement.",
+"The act of laying out something."
+]
+},
+{
+"id": "quasi_x",
+"w": "quasi",
+"gloss": [
+"Resembling or having a likeness to the named thing."
+]
+},
+{
+"id": "insurer_x",
+"w": "insurer",
+"gloss": [
+"One who insures."
+]
+},
+{
+"id": "bodily_x",
+"w": "bodily",
+"gloss": [
+"Of, relating to, or concerning the body.",
+"Having a body or material form; physical; corporeal.",
+"Real; actual; put into execution."
+]
+},
+{
+"id": "sewer_x",
+"w": "sewer",
+"gloss": [
+"A pipe or channel, or system of pipes or channels, used to remove human waste and to provide drainage.",
+"To provide (a place) with a system of sewers.",
+"An official in charge of a princely household, also responsible for the ceremonial task of attending at dinners, seating the guests and serving dishes."
+]
+},
+{
+"id": "constituent_x",
+"w": "constituent",
+"gloss": [
+"Being a part or component of a whole.",
+"Constitutive or constituting.",
+"Authorized to make a constitution."
+]
+},
+{
+"id": "cortex_x",
+"w": "cortex",
+"gloss": [
+"The outer layer of an internal organ or body structure, such as the kidney or the brain.",
+"The tissue of a stem or root that lies inward from the epidermis, but exterior to the vascular tissue.",
+"The outer surface of a piece of flint."
+]
+},
+{
+"id": "annuity_x",
+"w": "annuity",
+"gloss": [
+"A right to receive amounts of money regularly over a certain fixed period, in perpetuity, or, especially, over the remaining life or lives of one or more beneficiaries.",
+"He used his savings to purchase an annuity that would provide a regular income.",
+"The contract provides for an annuity payable for twenty years."
+]
+},
+{
+"id": "scripture_x",
+"w": "scripture",
+"gloss": [
+"The foundational text of a given religion, or a text considered especially holy.",
+"A sacred writing or holy book.",
+"An authoritative statement."
+]
+},
+{
+"id": "dietary_x",
+"w": "dietary",
+"gloss": [
+"A regulated diet that excludes or constrains certain types of food, especially for health reasons; also, a book or similar setting out such regulations.",
+"A prescribed meal plan setting out how the inhabitants of an institution (such as a prison, hospital etc.) should be fed, and on what foods.",
+"Pertaining to a prescribed diet; (generally), relating to what a person or animal eats."
+]
+},
+{
+"id": "antibodies_x",
+"w": "antibodies"
+},
+{
+"id": "bladder_x",
+"w": "bladder",
+"gloss": [
+"A flexible sac that can expand and contract and that holds liquids or gases.",
+"Specifically, the urinary bladder.",
+"A hollow, inflatable organ of a plant."
+]
+},
+{
+"id": "vendor_x",
+"w": "vendor",
+"gloss": [
+"A person or a company that vends or sells.",
+"A vending machine.",
+"To bundle third-party dependencies with the source code for one's own program."
+]
+},
+{
+"id": "contraction_x",
+"w": "contraction",
+"gloss": [
+"An act of incurring debt; also (generally), an act of acquiring something (generally negative).",
+"An act of entering into a contract or agreement; specifically, a contract of marriage; a contracting; also (obsolete), a betrothal.",
+"The process of contracting or becoming infected with a disease."
+]
+},
+{
+"id": "adaptive_x",
+"w": "adaptive",
+"gloss": [
+"Of, pertaining to, characterized by or showing adaptation; making or made fit or suitable.",
+"Capable of being adapted or of adapting; susceptible of or undergoing accordant change.",
+"Of a trait: that helps an organism to function well in its environment."
+]
+},
+{
+"id": "whatsoever_x",
+"w": "whatsoever",
+"gloss": [
+"Whatever.",
+"In any way; at all; whatever."
+]
+},
+{
+"id": "scarce_x",
+"w": "scarce",
+"gloss": [
+"Uncommon, rare; difficult to find; insufficient to meet a demand.",
+"Scantily supplied (with); deficient (in); used with of.",
+"Scarcely, only just."
+]
+},
+{
+"id": "processor_x",
+"w": "processor",
+"gloss": [
+"A person or institution who processes things (foods, photos, applications, etc.).",
+"A device which processes, which changes something (a computer processor, food processor, etc.).",
+"A central processing unit."
+]
+},
+{
+"id": "optimization_x",
+"w": "optimization",
+"gloss": [
+"The design and operation of a system or process to make it as good as possible in some defined sense.",
+"The reduction of a program or algorithm to its most efficient form, as during compilation, by removing unused portions of code and improving the speed or resource usage of others."
+]
+},
+{
+"id": "dissertation_x",
+"w": "dissertation",
+"gloss": [
+"A formal exposition of a subject, especially a research paper that students write in order to complete the requirements for a doctoral degree in the US and a non-doctoral degree in the UK; a thesis.",
+"A lengthy lecture on a subject; a treatise; a discourse; a sermon."
+]
+},
+{
+"id": "skull_x",
+"w": "skull",
+"gloss": [
+"The main bones of the head considered as a unit; including the cranium, facial bones, and mandible.",
+"These bones as a symbol for death; death's-head.",
+"The mind or brain."
+]
+},
+{
+"id": "impairment_x",
+"w": "impairment",
+"gloss": [
+"The result of being impaired.",
+"A deterioration or weakening.",
+"A disability or handicap."
+]
+},
+{
+"id": "rifle_x",
+"w": "rifle",
+"gloss": [
+"A firearm fired from the shoulder; improved range and accuracy is provided by a long, rifled barrel.",
+"A rifleman.",
+"An artillery piece with a rifled barrel."
+]
+},
+{
+"id": "scrap_x",
+"w": "scrap",
+"gloss": [
+"A (small) piece; a fragment; a detached, incomplete portion.",
+"The smallest amount.",
+"Leftover food."
+]
+},
+{
+"id": "defensive_x",
+"w": "defensive",
+"gloss": [
+"Intended for defence; protective.",
+"Intended to deter attack.",
+"Performed so as to minimise risk."
+]
+},
+{
+"id": "advisable_x",
+"w": "advisable",
+"gloss": [
+"Worthy of being recommended; desirable.",
+"Capable of being advised or willing to be advised."
+]
+},
+{
+"id": "viable_x",
+"w": "viable",
+"gloss": [
+"Able to live on its own (as for a newborn).",
+"Able to be done, possible, practicable, feasible.",
+"Capable of working successfully"
+]
+},
+{
+"id": "harsh_x",
+"w": "harsh",
+"gloss": [
+"Unpleasantly rough to the touch or other senses.",
+"Severe or cruel.",
+"To negatively criticize."
+]
+},
+{
+"id": "communism_x",
+"w": "communism",
+"gloss": [
+"Any far-left political ideology or philosophy advocating holding the production of resources collectively, especially by seizing it through revolution.",
+"Any political social system that implements a communist political philosophy.",
+"The international socialist society where classes, money, and the state no longer exist."
+]
+},
+{
+"id": "pharmaceutical_x",
+"w": "pharmaceutical",
+"gloss": [
+"Of or relating to pharmacy or pharmacists.",
+"A pharmaceutical or pharmacological preparation or product; a drug."
+]
+},
+{
+"id": "factual_x",
+"w": "factual",
+"gloss": [
+"Pertaining to or consisting of objective claims.",
+"True, accurate, corresponding to reality.",
+"Programmes having content based on facts, such as documentaries."
+]
+},
+{
+"id": "unstable_x",
+"w": "unstable",
+"gloss": [
+"Not stable.",
+"Having a strong tendency to change.",
+"Fluctuating; not constant."
+]
+},
+{
+"id": "plantation_x",
+"w": "plantation",
+"gloss": [
+"A large farm; estate or area of land designated for agricultural growth. Often includes housing for the owner and workers.",
+"An area where trees are planted, either for commercial purposes, or to adorn an estate.",
+"The importation of large numbers of workers and soldiers to displace the local population, such as in medieval Ireland and in the Americas; colonization."
+]
+},
+{
+"id": "authentic_x",
+"w": "authentic",
+"gloss": [
+"Of the same origin as claimed; genuine.",
+"Conforming to reality and therefore worthy of trust, reliance, or belief.",
+"Designating a mode having the final as the lowest note."
+]
+},
+{
+"id": "adolescent_x",
+"w": "adolescent",
+"gloss": [
+"Of, relating to, or at the age of adolescence; at the stage between being a child and an adult.",
+"A person who is in adolescence; someone who has reached puberty but is not yet an adult."
+]
+},
+{
+"id": "enhancement_x",
+"w": "enhancement",
+"gloss": [
+"An improvement or supplement that tends to increase a sense of esteem.",
+"The degree to which the image of a scan stands out as a bright area."
+]
+},
+{
+"id": "departmental_x",
+"w": "departmental",
+"gloss": [
+"Of or relating to a department."
+]
+},
+{
+"id": "esteem_x",
+"w": "esteem",
+"gloss": [
+"Assessment, estimation, or regard; especially; favourable estimation or regard.",
+"To set a high value on; to regard with respect or reverence.",
+"To regard something as valuable; to prize."
+]
+},
+{
+"id": "norm_x",
+"w": "norm",
+"gloss": [
+"That which is normal or typical.",
+"A rule that is imposed by regulations and/or socially enforced by members of a community.",
+"A sentence with non-descriptive meaning, such as a command, permission, or prohibition."
+]
+},
+{
+"id": "precedent_x",
+"w": "precedent",
+"gloss": [
+"An act in the past which may be used as an example to help decide the outcome of similar instances in the future.",
+"A decided case which is cited or used as an example to justify a judgment in a subsequent case.",
+"An established habit or custom."
+]
+},
+{
+"id": "morphology_x",
+"w": "morphology",
+"gloss": [
+"The study of the internal structure of morphemes (words and their semantic building blocks).",
+"The study of the form and structure of animals and plants.",
+"The study of the structure of rocks and landforms."
+]
+},
+{
+"id": "ceramic_x",
+"w": "ceramic",
+"gloss": [
+"Made of material produced by the high-temperature firing of inorganic, nonmetallic rocks and minerals.",
+"A hard, brittle, inorganic, nonmetallic material, made by firing a material such as clay at a high temperature.",
+"An object made of this material."
+]
+},
+{
+"id": "convergence_x",
+"w": "convergence",
+"gloss": [
+"The act of moving toward union or uniformity.",
+"A meeting place.",
+"The intersection of three electron beams for red, green and blue onto a single pixel in a CRT."
+]
+},
+{
+"id": "reversal_x",
+"w": "reversal",
+"gloss": [
+"The state of being reversed.",
+"An instance of reversing.",
+"A change to an opposite direction."
+]
+},
+{
+"id": "initiate_x",
+"w": "initiate",
+"gloss": [
+"To begin; to start.",
+"To instruct in the rudiments or principles; to introduce.",
+"To confer membership on; especially, to admit to a secret order with mysterious rites or ceremonies."
+]
+},
+{
+"id": "sincerely_x",
+"w": "sincerely",
+"gloss": [
+"In a sincere or earnest manner; honestly.",
+"A conventional formula for ending a letter, used when the salutation addresses the person for whom the letter is intended by his or her name."
+]
+},
+{
+"id": "recorder_x",
+"w": "recorder",
+"gloss": [
+"An apparatus for recording; a device which records.",
+"A judge in a municipal court.",
+"A musical instrument of the woodwind family; a type of fipple flute, a simple internal duct flute."
+]
+},
+{
+"id": "insertion_x",
+"w": "insertion",
+"gloss": [
+"The act of inserting, or something inserted.",
+"The distal end of attachment of a muscle to a bone that will be moved by the muscle.",
+"The addition of a nucleotide to a chromosome by mutation."
+]
+},
+{
+"id": "abdomen_x",
+"w": "abdomen",
+"gloss": [
+"The fat surrounding the belly.",
+"The belly, or that part of the body between the thorax and the pelvis, not including the back; or in some lower vertebrates, the portion between the cardiac and caudal regions.",
+"The cavity of the belly, which is lined by the peritoneum, and contains the viscera; often restricted in humans to the part between the diaphragm and the commencement of the pelvis, the remainder being called the pelvic cavity."
+]
+},
+{
+"id": "prey_x",
+"w": "prey",
+"gloss": [
+"That which is or may be seized by animals to be devoured.",
+"A person or thing given up as a victim.",
+"A living thing, usually an animal, that is eaten by another living thing."
+]
+},
+{
+"id": "supervisory_x",
+"w": "supervisory",
+"gloss": [
+"Of, pertaining to, or in the capacity of a supervisor"
+]
+},
+{
+"id": "plainly_x",
+"w": "plainly",
+"gloss": [
+"In a plain manner; simply; basically.",
+"Obviously; clearly."
+]
+}
+]

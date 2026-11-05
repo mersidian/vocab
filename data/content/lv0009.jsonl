@@ -1,0 +1,100 @@
+{"id":"cool_adj","th":"เย็น; เท่; เจ๋ง","ex":"The air is cool in the morning.","exTh":"อากาศตอนเช้าเย็นสบาย"}
+{"id":"suggestion_noun","th":"ข้อเสนอแนะ; คำแนะนำ","ex":"Do you have any suggestions?","exTh":"คุณมีข้อเสนอแนะอะไรไหม"}
+{"id":"sorry_adj","th":"เสียใจ; ขอโทษ; รู้สึกผิด","ex":"I am sorry for being late.","exTh":"ขอโทษที่มาสาย"}
+{"id":"sixty_num","th":"หกสิบ; 60","ex":"My grandfather is sixty years old.","exTh":"คุณตาของฉันอายุหกสิบปี"}
+{"id":"bread_noun","th":"ขนมปัง","ex":"I had bread and eggs for breakfast.","exTh":"ฉันกินขนมปังกับไข่เป็นอาหารเช้า"}
+{"id":"cloth_noun","th":"ผ้า; ผืนผ้า","ex":"Wipe the table with a clean cloth.","exTh":"เช็ดโต๊ะด้วยผ้าสะอาด"}
+{"id":"topic_noun","th":"หัวข้อ; เรื่อง","ex":"What is the topic of your talk?","exTh":"หัวข้อการพูดของคุณคืออะไร"}
+{"id":"nurse_noun","th":"พยาบาล","ex":"The nurse is very kind.","exTh":"พยาบาลใจดีมาก"}
+{"id":"guy_noun","th":"ผู้ชาย; หนุ่ม; เพื่อน","ex":"He is a nice guy.","exTh":"เขาเป็นผู้ชายที่ใจดี","note":"ภาษาพูด ไม่เป็นทางการ"}
+{"id":"guess_verb","th":"เดา; คาดเดา","ex":"Can you guess my age?","exTh":"คุณเดาอายุฉันได้ไหม"}
+{"id":"leg_noun","th":"ขา","ex":"He broke his leg last year.","exTh":"ปีที่แล้วเขาขาหัก"}
+{"id":"match_noun","th":"การแข่งขัน; ไม้ขีดไฟ","ex":"We watched the football match last night.","exTh":"เมื่อคืนเราดูการแข่งขันฟุตบอล"}
+{"id":"fly_noun","th":"แมลงวัน","ex":"A fly is sitting on the food.","exTh":"มีแมลงวันตอมอยู่บนอาหาร"}
+{"id":"fly_verb","th":"บิน; เดินทางโดยเครื่องบิน","ex":"Birds fly over the lake.","exTh":"นกบินอยู่เหนือทะเลสาบ","note":"รูปผันคือ flew, flown"}
+{"id":"wonderful_adj","th":"วิเศษ; ยอดเยี่ยม","ex":"We had a wonderful holiday.","exTh":"เราได้วันหยุดที่วิเศษมาก"}
+{"id":"surprise_noun","th":"เรื่องที่ไม่คาดคิด; ความประหลาดใจ; ของเซอร์ไพรส์","ex":"The party was a big surprise.","exTh":"งานปาร์ตี้นี้เซอร์ไพรส์มาก"}
+{"id":"hurt_verb","th":"เจ็บ; ทำให้เจ็บ","ex":"My back hurts.","exTh":"หลังของฉันเจ็บ","note":"รูปผันคือ hurt, hurt"}
+{"id":"meal_noun","th":"มื้ออาหาร; อาหาร","ex":"Dinner is my favorite meal.","exTh":"อาหารเย็นเป็นมื้อโปรดของฉัน"}
+{"id":"bag_noun","th":"กระเป๋า; ถุง","ex":"I left my bag on the bus.","exTh":"ฉันลืมกระเป๋าไว้บนรถเมล์"}
+{"id":"cat_noun","th":"แมว","ex":"The cat is sleeping on the sofa.","exTh":"แมวกำลังนอนอยู่บนโซฟา"}
+{"id":"smoke_noun","th":"ควัน; ควันไฟ","ex":"I can smell smoke in the kitchen.","exTh":"ฉันได้กลิ่นควันในครัว"}
+{"id":"tall_adj","th":"สูง","ex":"My brother is very tall.","exTh":"พี่ชายของฉันสูงมาก"}
+{"id":"yard_noun","th":"สนามหญ้า; บริเวณบ้าน; ลานบ้าน","ex":"The children play in the yard.","exTh":"เด็กๆ เล่นกันในลานบ้าน"}
+{"id":"egg_noun","th":"ไข่","ex":"I eat an egg every morning.","exTh":"ฉันกินไข่หนึ่งฟองทุกเช้า"}
+{"id":"busy_adj","th":"ยุ่ง; วุ่นวาย; ไม่ว่าง","ex":"I am busy today.","exTh":"วันนี้ฉันยุ่ง"}
+{"id":"camera_noun","th":"กล้องถ่ายรูป; กล้อง","ex":"She bought a new camera.","exTh":"เธอซื้อกล้องตัวใหม่"}
+{"id":"photo_noun","th":"รูปถ่าย; ภาพถ่าย","ex":"Can I take a photo here?","exTh":"ฉันถ่ายรูปตรงนี้ได้ไหม"}
+{"id":"cream_noun","th":"ครีม; วิปครีม","ex":"Would you like cream in your coffee?","exTh":"คุณอยากใส่ครีมในกาแฟไหม"}
+{"id":"tower_noun","th":"หอคอย; ตึกสูง","ex":"We climbed to the top of the tower.","exTh":"เราปีนขึ้นไปถึงยอดหอคอย"}
+{"id":"nose_noun","th":"จมูก","ex":"My nose is cold.","exTh":"จมูกของฉันเย็น"}
+{"id":"everywhere_adv","th":"ทุกที่; ทั่วทุกแห่ง","ex":"I looked everywhere for my keys.","exTh":"ฉันหากุญแจทั่วทุกที่"}
+{"id":"solve_verb","th":"แก้ (ปัญหา); ไขปริศนา","ex":"Can you help me solve this problem?","exTh":"คุณช่วยฉันแก้ปัญหานี้ได้ไหม"}
+{"id":"cap_noun","th":"หมวกแก๊ป; ฝา","ex":"He wears a cap in the sun.","exTh":"เขาสวมหมวกแก๊ปเวลาออกแดด"}
+{"id":"saturday_noun","th":"วันเสาร์","ex":"We go shopping on Saturday.","exTh":"เราไปช้อปปิ้งวันเสาร์"}
+{"id":"paint_noun","th":"สี; สีทา","ex":"The paint on the wall is still wet.","exTh":"สีที่ทาผนังยังไม่แห้ง"}
+{"id":"paint_verb","th":"ทาสี; วาดภาพ","ex":"We paint the house every five years.","exTh":"เราทาสีบ้านทุกห้าปี"}
+{"id":"desk_noun","th":"โต๊ะทำงาน; โต๊ะเขียนหนังสือ","ex":"There are many books on my desk.","exTh":"มีหนังสือมากมายบนโต๊ะทำงานของฉัน"}
+{"id":"tomorrow_adv","th":"พรุ่งนี้","ex":"I will call you tomorrow.","exTh":"พรุ่งนี้ฉันจะโทรหาคุณ"}
+{"id":"tomorrow_noun","th":"วันพรุ่งนี้; อนาคต","ex":"Tomorrow is my birthday.","exTh":"พรุ่งนี้เป็นวันเกิดของฉัน"}
+{"id":"pocket_noun","th":"กระเป๋า (เสื้อ/กางเกง)","ex":"He put the key in his pocket.","exTh":"เขาใส่กุญแจไว้ในกระเป๋ากางเกง"}
+{"id":"fever_noun","th":"ไข้; อาการตัวร้อน","ex":"The child has a fever.","exTh":"เด็กมีไข้"}
+{"id":"finish_noun","th":"ตอนจบ; เส้นชัย; การสิ้นสุด","ex":"The runners are near the finish.","exTh":"นักวิ่งอยู่ใกล้เส้นชัยแล้ว"}
+{"id":"finish_verb","th":"เสร็จ; ทำให้เสร็จ; จบ","ex":"I finish work at five.","exTh":"ฉันเลิกงานตอนห้าโมงเย็น"}
+{"id":"uncle_noun","th":"ลุง; อา; น้า","ex":"My uncle lives in the north.","exTh":"ลุงของฉันอาศัยอยู่ทางภาคเหนือ","note":"ภาษาอังกฤษใช้ uncle แทนลุง อา น้า"}
+{"id":"monday_noun","th":"วันจันทร์","ex":"I start work on Monday.","exTh":"ฉันเริ่มงานวันจันทร์"}
+{"id":"collect_verb","th":"สะสม; เก็บรวบรวม; ไปรับ","ex":"She collects old coins.","exTh":"เธอสะสมเหรียญเก่า"}
+{"id":"introduce_verb","th":"แนะนำ; นำเสนอ","ex":"Let me introduce my friend.","exTh":"ขอแนะนำเพื่อนของฉันนะ"}
+{"id":"yours_pron","th":"ของคุณ","ex":"Is this pen yours?","exTh":"ปากกาด้ามนี้เป็นของคุณหรือเปล่า"}
+{"id":"everybody_pron","th":"ทุกคน","ex":"Everybody is here today.","exTh":"วันนี้ทุกคนมากันครบ"}
+{"id":"airport_noun","th":"สนามบิน","ex":"We arrived at the airport early.","exTh":"เรามาถึงสนามบินเร็ว"}
+{"id":"butter_noun","th":"เนย","ex":"I put butter on my bread.","exTh":"ฉันทาเนยบนขนมปัง"}
+{"id":"classroom_noun","th":"ห้องเรียน","ex":"The classroom is on the second floor.","exTh":"ห้องเรียนอยู่ชั้นสอง"}
+{"id":"turkey_noun","th":"ไก่งวง","ex":"We eat turkey at Christmas.","exTh":"เรากินไก่งวงในวันคริสต์มาส"}
+{"id":"fun_adj","th":"สนุก; ตลก","ex":"The trip was really fun.","exTh":"ทริปนี้สนุกมาก"}
+{"id":"fun_noun","th":"ความสนุก; ความสนุกสนาน","ex":"We had a lot of fun at the beach.","exTh":"เราสนุกกันมากที่ชายหาด"}
+{"id":"drama_noun","th":"ละคร; ละครโทรทัศน์","ex":"My mother loves watching drama on TV.","exTh":"แม่ของฉันชอบดูละครทางทีวี"}
+{"id":"flower_noun","th":"ดอกไม้","ex":"She gave me a red flower.","exTh":"เธอให้ดอกไม้สีแดงแก่ฉัน"}
+{"id":"tight_adj","th":"คับ; แน่น; รัดแน่น","ex":"These shoes are too tight.","exTh":"รองเท้าคู่นี้คับเกินไป"}
+{"id":"dad_noun","th":"พ่อ; คุณพ่อ","ex":"My dad cooks on Sundays.","exTh":"พ่อของฉันทำอาหารทุกวันอาทิตย์","note":"ภาษาพูด ไม่เป็นทางการ"}
+{"id":"bath_noun","th":"การอาบน้ำ; อ่างอาบน้ำ","ex":"I take a bath before bed.","exTh":"ฉันอาบน้ำก่อนนอน"}
+{"id":"throw_noun","th":"การขว้าง; การโยน","ex":"That was a great throw.","exTh":"นั่นเป็นการขว้างที่ยอดเยี่ยม"}
+{"id":"friday_noun","th":"วันศุกร์","ex":"We have a meeting on Friday.","exTh":"เรามีประชุมวันศุกร์"}
+{"id":"hat_noun","th":"หมวก","ex":"He wears a black hat.","exTh":"เขาสวมหมวกสีดำ"}
+{"id":"cry_noun","th":"เสียงร้อง; เสียงตะโกน; การร้องไห้","ex":"We heard a cry for help.","exTh":"เราได้ยินเสียงร้องขอความช่วยเหลือ"}
+{"id":"coat_noun","th":"เสื้อโค้ต; เสื้อคลุม","ex":"Take your coat. It's cold outside.","exTh":"เอาเสื้อโค้ตไปด้วยนะ ข้างนอกหนาว"}
+{"id":"repeat_verb","th":"พูดซ้ำ; ทำซ้ำ","ex":"Can you repeat that, please?","exTh":"พูดอีกครั้งได้ไหมคะ"}
+{"id":"eleven_num","th":"สิบเอ็ด; 11","ex":"The game starts at eleven.","exTh":"เกมเริ่มตอนสิบเอ็ดโมง"}
+{"id":"cloud_noun","th":"เมฆ; กลุ่มเมฆ","ex":"There are dark clouds in the sky.","exTh":"มีเมฆดำบนท้องฟ้า"}
+{"id":"yesterday_adv","th":"เมื่อวาน","ex":"I met her yesterday.","exTh":"ฉันเจอเธอเมื่อวาน"}
+{"id":"bottle_noun","th":"ขวด","ex":"She bought a bottle of water.","exTh":"เธอซื้อน้ำหนึ่งขวด"}
+{"id":"worry_noun","th":"ความกังวล; เรื่องกลุ้มใจ","ex":"Money is my biggest worry.","exTh":"เรื่องเงินเป็นสิ่งที่ฉันกังวลที่สุด"}
+{"id":"palace_noun","th":"พระราชวัง; วัง","ex":"We visited the Grand Palace.","exTh":"เราไปเที่ยวพระบรมมหาราชวัง"}
+{"id":"ride_noun","th":"การนั่ง (รถ/ม้า); การเดินทาง","ex":"Thanks for the ride home.","exTh":"ขอบคุณที่ไปส่งที่บ้านนะ"}
+{"id":"ride_verb","th":"ขี่; นั่ง (รถจักรยาน/ม้า)","ex":"I ride my bike to school.","exTh":"ฉันขี่จักรยานไปโรงเรียน","note":"รูปผันคือ rode, ridden"}
+{"id":"rat_noun","th":"หนู","ex":"A rat ran across the kitchen floor.","exTh":"หนูวิ่งผ่านพื้นครัว"}
+{"id":"push_verb","th":"ผลัก; ดัน; กด","ex":"Push the door to open it.","exTh":"ผลักประตูเพื่อเปิด"}
+{"id":"lesson_noun","th":"บทเรียน; คาบเรียน","ex":"Today's lesson is about animals.","exTh":"บทเรียนวันนี้เกี่ยวกับสัตว์"}
+{"id":"lunch_noun","th":"อาหารกลางวัน; มื้อเที่ยง","ex":"We have lunch at noon.","exTh":"เรากินข้าวเที่ยงตอนเที่ยงวัน"}
+{"id":"habit_noun","th":"นิสัย; ความเคยชิน","ex":"Reading before bed is a good habit.","exTh":"การอ่านหนังสือก่อนนอนเป็นนิสัยที่ดี"}
+{"id":"blow_verb","th":"พัด; เป่า","ex":"The wind blows hard in winter.","exTh":"ลมพัดแรงในฤดูหนาว","note":"รูปผันคือ blew, blown"}
+{"id":"terrible_adj","th":"แย่มาก; เลวร้าย; น่ากลัว","ex":"The weather was terrible yesterday.","exTh":"เมื่อวานอากาศแย่มาก"}
+{"id":"angry_adj","th":"โกรธ; โมโห","ex":"He was angry about the noise.","exTh":"เขาโมโหเรื่องเสียงดัง"}
+{"id":"restaurant_noun","th":"ร้านอาหาร; ภัตตาคาร","ex":"We had dinner at a small restaurant.","exTh":"เรากินอาหารเย็นที่ร้านอาหารเล็กๆ"}
+{"id":"strict_adj","th":"เข้มงวด; เคร่งครัด","ex":"Our teacher is very strict.","exTh":"ครูของเราเข้มงวดมาก"}
+{"id":"wash_noun","th":"การล้าง; การซัก","ex":"The car needs a wash.","exTh":"รถคันนี้ต้องล้างแล้ว"}
+{"id":"wash_verb","th":"ล้าง; ซัก; อาบน้ำ","ex":"Please wash your hands.","exTh":"กรุณาล้างมือ"}
+{"id":"arrive_verb","th":"มาถึง; ไปถึง","ex":"The train arrives at noon.","exTh":"รถไฟมาถึงตอนเที่ยง"}
+{"id":"tired_adj","th":"เหนื่อย; เหนื่อยล้า; ง่วง","ex":"I am tired after work.","exTh":"ฉันเหนื่อยหลังเลิกงาน"}
+{"id":"cd_noun","th":"แผ่นซีดี","ex":"He bought a new music CD.","exTh":"เขาซื้อซีดีเพลงแผ่นใหม่"}
+{"id":"pen_noun","th":"ปากกา","ex":"Can I borrow your pen?","exTh":"ขอยืมปากกาของคุณหน่อยได้ไหม"}
+{"id":"apple_noun","th":"แอปเปิล","ex":"An apple a day is good for you.","exTh":"กินแอปเปิลวันละลูกดีต่อสุขภาพ"}
+{"id":"button_noun","th":"กระดุม; ปุ่ม","ex":"Press the red button to start.","exTh":"กดปุ่มสีแดงเพื่อเริ่ม"}
+{"id":"flag_noun","th":"ธง","ex":"The flag is red, white and blue.","exTh":"ธงนี้มีสีแดง ขาว และน้ำเงิน"}
+{"id":"seventy_num","th":"เจ็ดสิบ; 70","ex":"My grandmother is seventy.","exTh":"คุณยายของฉันอายุเจ็ดสิบปี"}
+{"id":"sport_noun","th":"กีฬา","ex":"Football is my favorite sport.","exTh":"ฟุตบอลเป็นกีฬาที่ฉันชอบที่สุด"}
+{"id":"blank_adj","th":"ว่างเปล่า; ว่าง","ex":"Please leave this page blank.","exTh":"กรุณาเว้นหน้านี้ไว้ให้ว่าง"}
+{"id":"player_noun","th":"ผู้เล่น; นักกีฬา; เครื่องเล่น","ex":"He is a good tennis player.","exTh":"เขาเป็นนักเทนนิสที่เก่ง"}
+{"id":"breakfast_noun","th":"อาหารเช้า; มื้อเช้า","ex":"What did you have for breakfast?","exTh":"คุณกินอะไรเป็นอาหารเช้า"}
+{"id":"cheese_noun","th":"ชีส; เนยแข็ง","ex":"I like cheese on my pizza.","exTh":"ฉันชอบชีสบนพิซซ่า"}
+{"id":"opera_noun","th":"โอเปร่า; อุปรากร","ex":"We went to the opera last night.","exTh":"เมื่อคืนเราไปดูโอเปร่า"}

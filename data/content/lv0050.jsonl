@@ -1,0 +1,100 @@
+{"id":"inscribe_verb","th":"จารึก; สลัก; เขียนบนพื้นผิว","ex":"They will inscribe his name on the silver cup.","exTh":"พวกเขาจะสลักชื่อของเขาไว้บนถ้วยเงิน"}
+{"id":"sportsmanship_noun","th":"น้ำใจนักกีฬา; จิตวิญญาณนักกีฬา","ex":"The team showed good sportsmanship even after losing.","exTh":"ทีมแสดงน้ำใจนักกีฬาที่ดีแม้จะแพ้"}
+{"id":"stun_verb","th":"ทำให้ตะลึง; ทำให้อึ้ง; ทำให้สลบ","ex":"The sad news stunned the whole town.","exTh":"ข่าวเศร้าทำให้ทั้งเมืองตะลึงงัน"}
+{"id":"paralyze_verb","th":"ทำให้เป็นอัมพาต; ทำให้ขยับไม่ได้","ex":"The accident paralyzed him from the waist down.","exTh":"อุบัติเหตุทำให้เขาเป็นอัมพาตตั้งแต่เอวลงไป"}
+{"id":"babysitter_noun","th":"พี่เลี้ยงเด็ก; คนรับเลี้ยงเด็กชั่วคราว","ex":"We asked a babysitter to look after the kids tonight.","exTh":"เราขอให้พี่เลี้ยงเด็กดูแลลูกๆ ในคืนนี้"}
+{"id":"aerobics_noun","th":"แอโรบิก; การเต้นแอโรบิก","ex":"She goes to aerobics class every Tuesday.","exTh":"เธอไปเรียนแอโรบิกทุกวันอังคาร"}
+{"id":"backache_noun","th":"อาการปวดหลัง","ex":"I have a terrible backache today.","exTh":"วันนี้ฉันปวดหลังมาก"}
+{"id":"accustom_verb","th":"ทำให้คุ้นเคย; ทำให้ชิน","ex":"It took time to accustom myself to the cold weather.","exTh":"ต้องใช้เวลาสักพักกว่าฉันจะชินกับอากาศหนาว","note":"มักใช้ accustom oneself to / be accustomed to"}
+{"id":"mountaintop_noun","th":"ยอดเขา","ex":"We watched the sunrise from the mountaintop.","exTh":"เราชมพระอาทิตย์ขึ้นจากยอดเขา"}
+{"id":"fascinate_verb","th":"ทำให้หลงใหล; ทำให้สนใจมาก","ex":"Space has always fascinated me.","exTh":"อวกาศทำให้ฉันหลงใหลมาโดยตลอด"}
+{"id":"handball_noun","th":"แฮนด์บอล; กีฬาแฮนด์บอล","ex":"My brother plays handball at school.","exTh":"พี่ชายของฉันเล่นแฮนด์บอลที่โรงเรียน"}
+{"id":"underpants_noun","th":"กางเกงใน","ex":"He packed socks and underpants in his bag.","exTh":"เขาใส่ถุงเท้าและกางเกงในไว้ในกระเป๋า","note":"ใช้รูปพหูพจน์เสมอ"}
+{"id":"signpost_noun","th":"เสาป้ายบอกทาง; ป้ายชี้ทาง","ex":"The signpost said the village was two miles away.","exTh":"ป้ายบอกทางบอกว่าหมู่บ้านอยู่ห่างไป 2 ไมล์"}
+{"id":"backpacking_noun","th":"การท่องเที่ยวแบบแบกเป้","ex":"They went backpacking around Asia for six months.","exTh":"พวกเขาไปเที่ยวแบบแบกเป้รอบเอเชียหกเดือน"}
+{"id":"sundial_noun","th":"นาฬิกาแดด","ex":"The old sundial in the garden still shows the time.","exTh":"นาฬิกาแดดเก่าในสวนยังบอกเวลาได้"}
+{"id":"lifeguard_noun","th":"ผู้ช่วยชีวิตที่ชายหาด; เจ้าหน้าที่ดูแลความปลอดภัยทางน้ำ","ex":"The lifeguard jumped into the pool to help the boy.","exTh":"ผู้ช่วยชีวิตกระโดดลงสระไปช่วยเด็กชาย"}
+{"id":"wristwatch_noun","th":"นาฬิกาข้อมือ","ex":"He gave me a nice wristwatch for my birthday.","exTh":"เขามอบนาฬิกาข้อมือสวยๆ ให้ฉันเป็นของขวัญวันเกิด"}
+{"id":"devastate_verb","th":"ทำลายล้าง; ทำให้เสียใจอย่างมาก","ex":"The storm devastated the small coastal town.","exTh":"พายุทำลายเมืองชายฝั่งเล็กๆ จนย่อยยับ"}
+{"id":"duvet_noun","th":"ผ้านวม","ex":"I pulled the duvet over my head and went to sleep.","exTh":"ฉันดึงผ้านวมคลุมหัวแล้วหลับไป","note":"คำแบบอังกฤษ"}
+{"id":"retell_verb","th":"เล่าใหม่; เล่าซ้ำ","ex":"Please retell the story in your own words.","exTh":"กรุณาเล่าเรื่องนี้ใหม่ด้วยคำพูดของคุณเอง","note":"รูปผันคือ retold, retold"}
+{"id":"immigrate_verb","th":"อพยพเข้าประเทศ; ย้ายถิ่นฐานเข้ามา","ex":"His family immigrated to Canada in 2010.","exTh":"ครอบครัวของเขาอพยพไปอยู่แคนาดาในปี 2010"}
+{"id":"aborigine_noun","th":"ชนพื้นเมืองดั้งเดิม","ex":"The aborigines have lived on this land for thousands of years.","exTh":"ชนพื้นเมืองดั้งเดิมอาศัยอยู่บนผืนแผ่นดินนี้มานับพันปี","note":"คำเก่า บางคนมองว่าไม่เหมาะสม ปัจจุบันนิยมใช้ Aboriginal people"}
+{"id":"goalkeeper_noun","th":"ผู้รักษาประตู; ผู้รักษาประตูฟุตบอล","ex":"The goalkeeper saved the ball at the last second.","exTh":"ผู้รักษาประตูรับลูกบอลไว้ได้ในวินาทีสุดท้าย"}
+{"id":"takeaway_noun","th":"อาหารซื้อกลับบ้าน; ร้านอาหารซื้อกลับ","ex":"Let's get a takeaway for dinner tonight.","exTh":"คืนนี้เราซื้ออาหารกลับไปกินที่บ้านกันเถอะ","note":"คำแบบอังกฤษ (อเมริกันใช้ takeout)"}
+{"id":"antonym_noun","th":"คำตรงข้าม","ex":"Hot is the antonym of cold.","exTh":"Hot เป็นคำตรงข้ามของ cold"}
+{"id":"dustbin_noun","th":"ถังขยะ","ex":"Please put the paper in the dustbin.","exTh":"กรุณาทิ้งกระดาษลงในถังขยะ","note":"คำแบบอังกฤษ"}
+{"id":"pullover_noun","th":"เสื้อสวมหัว; เสื้อกันหนาวแบบสวม","ex":"She put on a warm pullover and went outside.","exTh":"เธอสวมเสื้อกันหนาวอุ่นๆ แล้วออกไปข้างนอก"}
+{"id":"firework_noun","th":"พลุ; ดอกไม้ไฟ","ex":"We watched the fireworks on New Year's Eve.","exTh":"เราดูพลุในคืนส่งท้ายปีเก่า","note":"มักใช้รูปพหูพจน์ fireworks"}
+{"id":"schoolmate_noun","th":"เพื่อนร่วมโรงเรียน","ex":"I met an old schoolmate at the supermarket.","exTh":"ฉันเจอเพื่อนร่วมโรงเรียนเก่าที่ซูเปอร์มาร์เก็ต"}
+{"id":"babysit_verb","th":"เลี้ยงเด็กชั่วคราว; ดูแลเด็กให้","ex":"I babysit my neighbor's kids on weekends.","exTh":"ฉันรับเลี้ยงลูกของเพื่อนบ้านในวันหยุดสุดสัปดาห์"}
+{"id":"backpacker_noun","th":"นักท่องเที่ยวแบบแบกเป้","ex":"The cheap hostel was full of backpackers.","exTh":"โฮสเทลราคาถูกเต็มไปด้วยนักท่องเที่ยวแบบแบกเป้"}
+{"id":"earache_noun","th":"อาการปวดหู","ex":"The child cried because of a bad earache.","exTh":"เด็กร้องไห้เพราะปวดหูมาก"}
+{"id":"latecomer_noun","th":"ผู้มาสาย; คนมาทีหลัง","ex":"Latecomers must wait outside until the end of the song.","exTh":"ผู้มาสายต้องรออยู่ข้างนอกจนกว่าเพลงจะจบ"}
+{"id":"flunk_verb","th":"สอบตก; สอบไม่ผ่าน","ex":"He flunked the math exam last week.","exTh":"สัปดาห์ที่แล้วเขาสอบคณิตศาสตร์ตก","note":"ภาษาพูดไม่เป็นทางการ"}
+{"id":"tracksuit_noun","th":"ชุดวอร์ม; ชุดกีฬา","ex":"He wore a tracksuit to the gym.","exTh":"เขาใส่ชุดวอร์มไปยิม"}
+{"id":"horrify_verb","th":"ทำให้ตกใจกลัว; ทำให้สยดสยอง","ex":"The pictures of the accident horrified everyone.","exTh":"ภาพอุบัติเหตุทำให้ทุกคนตกใจกลัว"}
+{"id":"reunify_verb","th":"รวมกลับเป็นหนึ่งอีกครั้ง; รวมชาติใหม่","ex":"The two parts of the country were reunified in 1990.","exTh":"สองส่วนของประเทศถูกรวมกลับเป็นหนึ่งในปี 1990","note":"ภาษาทางการ"}
+{"id":"hairdryer_noun","th":"ไดร์เป่าผม","ex":"I dried my hair with a hairdryer.","exTh":"ฉันเป่าผมด้วยไดร์เป่าผม"}
+{"id":"courgette_noun","th":"บวบฝรั่ง; ซุกินี","ex":"I fried a courgette with garlic.","exTh":"ฉันผัดซุกินีกับกระเทียม","note":"คำแบบอังกฤษ (อเมริกันใช้ zucchini)"}
+{"id":"sunbathe_verb","th":"อาบแดด","ex":"They like to sunbathe on the beach.","exTh":"พวกเขาชอบอาบแดดที่ชายหาด"}
+{"id":"washbowl_noun","th":"อ่างล้างหน้า; กะละมังล้างมือ","ex":"There is a small washbowl in the corner of the room.","exTh":"มีอ่างล้างหน้าใบเล็กอยู่มุมห้อง"}
+{"id":"according-to_prep","th":"ตามที่...กล่าว; อ้างอิงจาก; ตาม","ex":"According to the news, it will rain tomorrow.","exTh":"ตามข่าวพยากรณ์ พรุ่งนี้ฝนจะตก"}
+{"id":"air-conditioning_noun","th":"เครื่องปรับอากาศ; ระบบปรับอากาศ","ex":"The air conditioning in this room is too cold.","exTh":"เครื่องปรับอากาศในห้องนี้เย็นเกินไป"}
+{"id":"air-force_noun","th":"กองทัพอากาศ","ex":"My uncle works for the air force.","exTh":"ลุงของฉันทำงานในกองทัพอากาศ"}
+{"id":"bank-account_noun","th":"บัญชีธนาคาร","ex":"I opened a bank account last week.","exTh":"สัปดาห์ที่แล้วฉันเปิดบัญชีธนาคาร"}
+{"id":"because-of_prep","th":"เพราะ; เนื่องจาก","ex":"We stayed home because of the rain.","exTh":"เราอยู่บ้านเพราะฝนตก"}
+{"id":"blog_noun","th":"บล็อก; เว็บบล็อก","ex":"She writes a blog about her travels.","exTh":"เธอเขียนบล็อกเกี่ยวกับการเดินทางของเธอ"}
+{"id":"blogger_noun","th":"บล็อกเกอร์; ผู้เขียนบล็อก","ex":"The blogger shared photos from her trip.","exTh":"บล็อกเกอร์แชร์รูปจากการเดินทางของเธอ"}
+{"id":"brand-new_adj","th":"ใหม่เอี่ยม; ใหม่ล่าสุด","ex":"He bought a brand-new phone yesterday.","exTh":"เมื่อวานเขาซื้อโทรศัพท์ใหม่เอี่ยม"}
+{"id":"cashpoint_noun","th":"ตู้เอทีเอ็ม; ตู้กดเงินสด","ex":"I need to find a cashpoint to get some money.","exTh":"ฉันต้องหาตู้เอทีเอ็มเพื่อกดเงิน","note":"คำแบบอังกฤษ (อเมริกันใช้ ATM)"}
+{"id":"cd-rom_noun","th":"ซีดีรอม","ex":"The dictionary comes with a CD-ROM.","exTh":"พจนานุกรมเล่มนี้มีซีดีรอมแถมมาด้วย"}
+{"id":"central-heating_noun","th":"ระบบทำความร้อนส่วนกลาง","ex":"The house has central heating in every room.","exTh":"บ้านหลังนี้มีระบบทำความร้อนส่วนกลางทุกห้อง"}
+{"id":"chat-show_noun","th":"รายการทอล์กโชว์","ex":"She was a guest on a popular chat show.","exTh":"เธอเป็นแขกรับเชิญในรายการทอล์กโชว์ยอดนิยม","note":"คำแบบอังกฤษ (อเมริกันใช้ talk show)"}
+{"id":"check-in-counter_noun","th":"เคาน์เตอร์เช็กอิน","ex":"Please go to the check-in counter with your passport.","exTh":"กรุณาไปที่เคาน์เตอร์เช็กอินพร้อมหนังสือเดินทางของคุณ"}
+{"id":"check-in-desk_noun","th":"เคาน์เตอร์เช็กอิน; โต๊ะลงทะเบียน","ex":"There was a long line at the check-in desk.","exTh":"มีคิวยาวที่เคาน์เตอร์เช็กอิน"}
+{"id":"chest-of-drawers_noun","th":"ตู้ลิ้นชัก","ex":"I keep my socks in the chest of drawers.","exTh":"ฉันเก็บถุงเท้าไว้ในตู้ลิ้นชัก"}
+{"id":"chewing-gum_noun","th":"หมากฝรั่ง","ex":"Please do not leave chewing gum on the floor.","exTh":"กรุณาอย่าทิ้งหมากฝรั่งไว้บนพื้น"}
+{"id":"common-sense_noun","th":"สามัญสำนึก; ความรู้สึกที่เป็นเหตุเป็นผล","ex":"Use your common sense when you cross the road.","exTh":"ใช้สามัญสำนึกของคุณเวลาข้ามถนน"}
+{"id":"definite-article_noun","th":"คำนำหน้านามเฉพาะเจาะจง (the)","ex":"The word the is the definite article in English.","exTh":"คำว่า the คือคำนำหน้านามเฉพาะเจาะจงในภาษาอังกฤษ","note":"คำศัพท์ไวยากรณ์"}
+{"id":"disc-jockey_noun","th":"ดีเจ; ผู้เปิดแผ่นเสียง","ex":"The disc jockey played music all night.","exTh":"ดีเจเปิดเพลงตลอดทั้งคืน"}
+{"id":"duty-free_adj","th":"ปลอดภาษี","ex":"I bought some duty-free perfume at the airport.","exTh":"ฉันซื้อน้ำหอมปลอดภาษีที่สนามบิน"}
+{"id":"exchange-rate_noun","th":"อัตราแลกเปลี่ยน","ex":"The exchange rate changes every day.","exTh":"อัตราแลกเปลี่ยนเปลี่ยนแปลงทุกวัน"}
+{"id":"extreme-sports_noun","th":"กีฬาผาดโผน; กีฬาเอ็กซ์ตรีม","ex":"He loves extreme sports like skydiving.","exTh":"เขาชอบกีฬาเอ็กซ์ตรีม เช่น กระโดดร่ม"}
+{"id":"face-to-face_adv","th":"ซึ่งหน้า; ต่อหน้า; เผชิญหน้า","ex":"I would like to talk to you face to face.","exTh":"ฉันอยากคุยกับคุณซึ่งหน้า"}
+{"id":"face-to-face_adj","th":"ซึ่งหน้า; ที่เจอกันโดยตรง","ex":"We had a face-to-face meeting with the manager.","exTh":"เราได้ประชุมแบบเจอหน้ากันกับผู้จัดการ"}
+{"id":"film-maker_noun","th":"ผู้สร้างภาพยนตร์; ผู้กำกับภาพยนตร์","ex":"The young film-maker won a prize for her short film.","exTh":"ผู้สร้างภาพยนตร์สาวได้รางวัลจากหนังสั้นของเธอ"}
+{"id":"fire-station_noun","th":"สถานีดับเพลิง","ex":"The fire station is next to the post office.","exTh":"สถานีดับเพลิงอยู่ข้างที่ทำการไปรษณีย์"}
+{"id":"first-floor_noun","th":"ชั้นหนึ่ง; ชั้นสอง (แบบอังกฤษ)","ex":"My room is on the first floor.","exTh":"ห้องของฉันอยู่ชั้นหนึ่ง","note":"อังกฤษหมายถึงชั้นสอง อเมริกันหมายถึงชั้นล่าง"}
+{"id":"first-lady_noun","th":"สตรีหมายเลขหนึ่ง; ภริยาของประธานาธิบดี","ex":"The first lady visited a children's hospital.","exTh":"สตรีหมายเลขหนึ่งไปเยี่ยมโรงพยาบาลเด็ก"}
+{"id":"first-floor_adj","th":"ที่อยู่ชั้นหนึ่ง; ที่อยู่ชั้นสอง (แบบอังกฤษ)","ex":"They live in a first-floor flat.","exTh":"พวกเขาอาศัยอยู่ในแฟลตชั้นหนึ่ง","note":"อังกฤษหมายถึงชั้นสอง อเมริกันหมายถึงชั้นล่าง"}
+{"id":"frying-pan_noun","th":"กระทะ","ex":"She cooked eggs in a frying pan.","exTh":"เธอทอดไข่ในกระทะ"}
+{"id":"full-stop_noun","th":"จุด; เครื่องหมายมหัพภาค","ex":"Put a full stop at the end of the sentence.","exTh":"ใส่จุดที่ท้ายประโยค","note":"คำแบบอังกฤษ (อเมริกันใช้ period)"}
+{"id":"full-time_adj","th":"เต็มเวลา; งานประจำ","ex":"She has a full-time job at a bank.","exTh":"เธอทำงานประจำเต็มเวลาที่ธนาคาร"}
+{"id":"full-time_adv","th":"เต็มเวลา; ทั้งวัน","ex":"He works full-time in a hospital.","exTh":"เขาทำงานเต็มเวลาที่โรงพยาบาล"}
+{"id":"ground-floor_noun","th":"ชั้นล่าง; ชั้นหนึ่ง","ex":"The shop is on the ground floor.","exTh":"ร้านอยู่ที่ชั้นล่าง"}
+{"id":"hand-held_adj","th":"แบบถือด้วยมือ; แบบพกพา","ex":"He recorded the video with a hand-held camera.","exTh":"เขาถ่ายวิดีโอด้วยกล้องแบบถือด้วยมือ"}
+{"id":"hard-working_adj","th":"ขยันขันแข็ง; ทำงานหนัก","ex":"My father is a hard-working man.","exTh":"พ่อของฉันเป็นคนขยันขันแข็ง"}
+{"id":"heart-attack_noun","th":"โรคหัวใจวาย; อาการหัวใจวายเฉียบพลัน","ex":"He had a heart attack and went to the hospital.","exTh":"เขามีอาการหัวใจวายและถูกส่งโรงพยาบาล"}
+{"id":"ice-hockey_noun","th":"ฮอกกี้น้ำแข็ง","ex":"Ice hockey is popular in Canada.","exTh":"ฮอกกี้น้ำแข็งเป็นที่นิยมในแคนาดา"}
+{"id":"ice-skating_noun","th":"การเล่นสเก็ตน้ำแข็ง","ex":"We went ice-skating on Saturday.","exTh":"เราไปเล่นสเก็ตน้ำแข็งเมื่อวันเสาร์"}
+{"id":"identity-card_noun","th":"บัตรประจำตัว; บัตรประชาชน","ex":"Please show your identity card at the door.","exTh":"กรุณาแสดงบัตรประจำตัวที่ประตู"}
+{"id":"indefinite-article_noun","th":"คำนำหน้านามไม่เจาะจง (a, an)","ex":"A and an are indefinite articles.","exTh":"A และ an เป็นคำนำหน้านามไม่เจาะจง","note":"คำศัพท์ไวยากรณ์"}
+{"id":"instead-of_prep","th":"แทนที่จะ; แทน","ex":"I drank tea instead of coffee.","exTh":"ฉันดื่มชาแทนกาแฟ"}
+{"id":"message-board_noun","th":"กระดานข้อความ; เว็บบอร์ด","ex":"I posted my question on the message board.","exTh":"ฉันโพสต์คำถามไว้บนเว็บบอร์ด"}
+{"id":"middle-aged_adj","th":"วัยกลางคน","ex":"A middle-aged man opened the door.","exTh":"ชายวัยกลางคนมาเปิดประตู"}
+{"id":"mixing-bowl_noun","th":"ชามผสมอาหาร","ex":"Put the flour and eggs in the mixing bowl.","exTh":"ใส่แป้งและไข่ลงในชามผสม"}
+{"id":"modal-verb_noun","th":"กริยาช่วยกลุ่มโมดอล","ex":"Can and must are modal verbs.","exTh":"Can และ must เป็นกริยาช่วยกลุ่มโมดอล","note":"คำศัพท์ไวยากรณ์"}
+{"id":"navy-blue_adj","th":"สีน้ำเงินเข้ม; สีกรมท่า","ex":"He wore a navy-blue jacket.","exTh":"เขาสวมแจ็กเก็ตสีน้ำเงินเข้ม"}
+{"id":"next-door_adv","th":"ข้างบ้าน; ห้องถัดไป","ex":"My best friend lives next door.","exTh":"เพื่อนสนิทของฉันอาศัยอยู่บ้านข้างๆ"}
+{"id":"next-door_adj","th":"ข้างบ้าน; ที่อยู่ติดกัน","ex":"Our next-door neighbor is very kind.","exTh":"เพื่อนบ้านข้างบ้านของเราใจดีมาก"}
+{"id":"noticeboard_noun","th":"บอร์ดประกาศ; กระดานแจ้งข่าว","ex":"The class list is on the noticeboard.","exTh":"รายชื่อนักเรียนอยู่บนบอร์ดประกาศ"}
+{"id":"old-fashioned_adj","th":"ล้าสมัย; แบบโบราณ","ex":"My grandmother has an old-fashioned phone.","exTh":"คุณยายของฉันมีโทรศัพท์แบบเก่าล้าสมัย"}
+{"id":"ought-to_modal","th":"ควรจะ; น่าจะ","ex":"You ought to see a doctor about that cough.","exTh":"คุณควรไปหาหมอเรื่องอาการไอนั้น","note":"กริยาช่วยโมดอล ตามด้วยกริยาช่อง 1"}
+{"id":"out-of-date_adj","th":"ล้าสมัย; หมดอายุ; เก่าไปแล้ว","ex":"This map is out of date.","exTh":"แผนที่นี้ล้าสมัยแล้ว"}
+{"id":"part-time_adj","th":"พาร์ตไทม์; ไม่เต็มเวลา","ex":"She has a part-time job at a cafe.","exTh":"เธอทำงานพาร์ตไทม์ที่คาเฟ่"}
+{"id":"part-time_adv","th":"แบบพาร์ตไทม์; ไม่เต็มเวลา","ex":"He studies full-time and works part-time.","exTh":"เขาเรียนเต็มเวลาและทำงานพาร์ตไทม์"}
+{"id":"phrasal-verb_noun","th":"กริยาวลี; กริยาที่ตามด้วยคำบุพบทหรือคำวิเศษณ์","ex":"Give up is a common phrasal verb.","exTh":"Give up เป็นกริยาวลีที่ใช้บ่อย","note":"คำศัพท์ไวยากรณ์"}
+{"id":"pocket-money_noun","th":"เงินติดกระเป๋า; เงินค่าขนมของเด็ก","ex":"My parents give me pocket money every week.","exTh":"พ่อแม่ให้เงินค่าขนมฉันทุกสัปดาห์"}
+{"id":"primary-school_noun","th":"โรงเรียนประถม","ex":"My son goes to primary school now.","exTh":"ตอนนี้ลูกชายของฉันเรียนอยู่โรงเรียนประถม"}
+{"id":"public-transport_noun","th":"ระบบขนส่งสาธารณะ","ex":"I go to work by public transport.","exTh":"ฉันไปทำงานด้วยระบบขนส่งสาธารณะ"}

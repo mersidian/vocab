@@ -1,0 +1,602 @@
+[
+{
+"id": "serial_adj",
+"w": "serial",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "flexible_adj",
+"w": "flexible",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "ridge_noun",
+"w": "ridge",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "numerical_adj",
+"w": "numerical",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "crucial_adj",
+"w": "crucial",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "undoubtedly_adv",
+"w": "undoubtedly",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "alliance_noun",
+"w": "alliance",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "educated_adj",
+"w": "educated",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "servant_noun",
+"w": "servant",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "tail_noun",
+"w": "tail",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "strictly_adv",
+"w": "strictly",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "subdivision_noun",
+"w": "subdivision",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "walker_noun",
+"w": "walker",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "hunting_noun",
+"w": "hunting",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "tight_adv",
+"w": "tight",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "fate_noun",
+"w": "fate",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "tumor_noun",
+"w": "tumor",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "fraud_noun",
+"w": "fraud",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "dimension_noun",
+"w": "dimension",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "complexity_noun",
+"w": "complexity",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "protest_verb",
+"w": "protest",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "flesh_noun",
+"w": "flesh",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "throat_noun",
+"w": "throat",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "facilitate_verb",
+"w": "facilitate",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "capability_noun",
+"w": "capability",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "outline_noun",
+"w": "outline",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "investigate_verb",
+"w": "investigate",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "worship_noun",
+"w": "worship",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "wound_verb",
+"w": "wound",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "audit_noun",
+"w": "audit",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "label_noun",
+"w": "label",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "navigation_noun",
+"w": "navigation",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "bottle_verb",
+"w": "bottle",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "justify_verb",
+"w": "justify",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "trail_verb",
+"w": "trail",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "gear_noun",
+"w": "gear",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "philosophical_adj",
+"w": "philosophical",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "assurance_noun",
+"w": "assurance",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "strip_verb",
+"w": "strip",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "certification_noun",
+"w": "certification",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "genuine_adj",
+"w": "genuine",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "arch_noun",
+"w": "arch",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "verse_noun",
+"w": "verse",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "verse_verb",
+"w": "verse",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "assure_verb",
+"w": "assure",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "hardware_noun",
+"w": "hardware",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "innovation_noun",
+"w": "innovation",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "stuff_verb",
+"w": "stuff",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "illustration_noun",
+"w": "illustration",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "polish_noun",
+"w": "polish",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "controversy_noun",
+"w": "controversy",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "supervisor_noun",
+"w": "supervisor",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "presumably_adv",
+"w": "presumably",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "fox_noun",
+"w": "fox",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "deficit_noun",
+"w": "deficit",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "divorce_noun",
+"w": "divorce",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "divorce_verb",
+"w": "divorce",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "bid_verb",
+"w": "bid",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "underground_adj",
+"w": "underground",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "underground_adv",
+"w": "underground",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "withdrawal_noun",
+"w": "withdrawal",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "stick_noun",
+"w": "stick",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "informal_adj",
+"w": "informal",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "illustrate_verb",
+"w": "illustrate",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "landing_noun",
+"w": "landing",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "holder_noun",
+"w": "holder",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "potentially_adv",
+"w": "potentially",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "possessed_adj",
+"w": "possessed",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "legitimate_adj",
+"w": "legitimate",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "forestry_noun",
+"w": "forestry",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "feedback_noun",
+"w": "feedback",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "bankruptcy_noun",
+"w": "bankruptcy",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "offense_noun",
+"w": "offense",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "presidential_adj",
+"w": "presidential",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "odd_adj",
+"w": "odd",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "flexibility_noun",
+"w": "flexibility",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "balanced_adj",
+"w": "balanced",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "merchandise_noun",
+"w": "merchandise",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "evidently_adv",
+"w": "evidently",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "mature_adj",
+"w": "mature",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "venture_noun",
+"w": "venture",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "extract_noun",
+"w": "extract",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "extract_verb",
+"w": "extract",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "beneficial_adj",
+"w": "beneficial",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "hay_noun",
+"w": "hay",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "amongst_prep",
+"w": "amongst",
+"pos": "prep",
+"lvl": "B2"
+},
+{
+"id": "insufficient_adj",
+"w": "insufficient",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "defeat_noun",
+"w": "defeat",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "alter_verb",
+"w": "alter",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "bare_verb",
+"w": "bare",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "skilled_adj",
+"w": "skilled",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "enhance_verb",
+"w": "enhance",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "classic_noun",
+"w": "classic",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "deduction_noun",
+"w": "deduction",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "approximate_adj",
+"w": "approximate",
+"pos": "adj",
+"lvl": "B2"
+},
+{
+"id": "deck_noun",
+"w": "deck",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "rental_noun",
+"w": "rental",
+"pos": "noun",
+"lvl": "B2"
+},
+{
+"id": "praise_verb",
+"w": "praise",
+"pos": "verb",
+"lvl": "B2"
+},
+{
+"id": "seldom_adv",
+"w": "seldom",
+"pos": "adv",
+"lvl": "B2"
+},
+{
+"id": "heritage_noun",
+"w": "heritage",
+"pos": "noun",
+"lvl": "B2"
+}
+]

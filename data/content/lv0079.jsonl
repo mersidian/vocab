@@ -1,0 +1,100 @@
+{"id": "commission_verb", "th": "มอบหมายให้ทำ; ว่าจ้าง; แต่งตั้ง", "ex": "The city commissioned a statue of the founder.", "exTh": "เมืองว่าจ้างให้สร้างรูปปั้นของผู้ก่อตั้ง"}
+{"id": "class_verb", "th": "จัดประเภท; จัดชั้น", "ex": "Experts class this plant as a weed.", "exTh": "ผู้เชี่ยวชาญจัดพืชชนิดนี้เป็นวัชพืช"}
+{"id": "contract_verb", "th": "หดตัว; ทำสัญญา; ติด (โรค)", "ex": "Metal contracts when it gets cold.", "exTh": "โลหะหดตัวเมื่ออากาศเย็น"}
+{"id": "ground_verb", "th": "ห้ามออกไปไหน (ลงโทษ); ห้ามบิน; ตั้งอยู่บน", "ex": "Her parents grounded her for a week.", "exTh": "พ่อแม่ลงโทษเธอห้ามออกจากบ้านหนึ่งสัปดาห์"}
+{"id": "stock_verb", "th": "สต็อกสินค้า; มีไว้ขาย", "ex": "The shop stocks fresh fruit and vegetables.", "exTh": "ร้านนี้มีผลไม้และผักสดไว้ขาย"}
+{"id": "condition_verb", "th": "ปรับสภาพ; ฝึกให้คุ้นเคย; ทำให้ชิน", "ex": "Advertising conditions us to want new things.", "exTh": "โฆษณาทำให้เราชินกับการอยากได้ของใหม่"}
+{"id": "provisions_noun", "th": "เสบียง; ข้อกำหนด", "ex": "We packed provisions for the long hike.", "exTh": "เราเตรียมเสบียงสำหรับการเดินป่าระยะไกล", "note": "ใช้รูปพหูพจน์"}
+{"id": "institute_verb", "th": "ก่อตั้ง; เริ่มใช้ (กฎ ระบบ)", "ex": "The school instituted a new dress code.", "exTh": "โรงเรียนเริ่มใช้กฎการแต่งกายใหม่", "note": "ภาษาทางการ"}
+{"id": "voice_verb", "th": "แสดงความคิดเห็น; เปล่งเสียง", "ex": "Many residents voiced concern about the noise.", "exTh": "ชาวบ้านจำนวนมากแสดงความกังวลเรื่องเสียงรบกวน"}
+{"id": "firm_verb", "th": "ทำให้แน่นขึ้น; ทำให้มั่นคง", "ex": "Firm the soil gently around the young plant.", "exTh": "กดดินรอบต้นไม้เล็กเบาๆ ให้แน่น"}
+{"id": "trying_adj", "th": "ที่ลำบาก; ที่ทดสอบความอดทน", "ex": "It has been a trying year for the family.", "exTh": "เป็นปีที่ลำบากสำหรับครอบครัว"}
+{"id": "removed_adj", "th": "ห่างไกล; ไม่เกี่ยวข้อง; แยกออกมา", "ex": "His ideas are far removed from reality.", "exTh": "ความคิดของเขาห่างไกลจากความเป็นจริงมาก"}
+{"id": "clinical_adj", "th": "ทางคลินิก; ทางการแพทย์; เย็นชาไร้อารมณ์", "ex": "The drug is now in clinical trials.", "exTh": "ยานี้อยู่ในขั้นการทดลองทางคลินิกแล้ว"}
+{"id": "jurisdiction_noun", "th": "เขตอำนาจศาล; อำนาจตามกฎหมาย", "ex": "This case is outside the court's jurisdiction.", "exTh": "คดีนี้อยู่นอกเขตอำนาจของศาล"}
+{"id": "hence_adv", "th": "ดังนั้น; จากนี้ไป", "ex": "He was ill, hence his absence from class.", "exTh": "เขาป่วย จึงขาดเรียน", "note": "ภาษาทางการ"}
+{"id": "signal_verb", "th": "ส่งสัญญาณ; บอกให้ทราบ", "ex": "She signalled the waiter to bring the bill.", "exTh": "เธอส่งสัญญาณให้บริกรเอาบิลมา"}
+{"id": "brief_verb", "th": "สรุปข้อมูลให้; แจ้งความคืบหน้า", "ex": "The manager briefed the team before the meeting.", "exTh": "ผู้จัดการแจ้งข้อมูลให้ทีมก่อนการประชุม"}
+{"id": "dependent_noun", "th": "ผู้อยู่ในความอุปการะ", "ex": "You can list your children as dependents.", "exTh": "คุณสามารถระบุลูกของคุณเป็นผู้อยู่ในความอุปการะได้"}
+{"id": "perfect_verb", "th": "ทำให้สมบูรณ์แบบ; ฝึกจนเชี่ยวชาญ", "ex": "She spent years perfecting her technique.", "exTh": "เธอใช้เวลาหลายปีฝึกเทคนิคของเธอจนสมบูรณ์แบบ"}
+{"id": "structural_adj", "th": "ที่เกี่ยวกับโครงสร้าง", "ex": "The bridge has serious structural damage.", "exTh": "สะพานมีความเสียหายด้านโครงสร้างอย่างรุนแรง"}
+{"id": "mechanism_noun", "th": "กลไก; ระบบการทำงาน", "ex": "The lock has a simple mechanism.", "exTh": "กุญแจนี้มีกลไกง่ายๆ"}
+{"id": "engineer_verb", "th": "ออกแบบสร้าง; จัดการให้เกิดขึ้น", "ex": "He engineered a deal between the two companies.", "exTh": "เขาวางแผนจัดการให้เกิดข้อตกลงระหว่างสองบริษัท"}
+{"id": "criteria_noun", "th": "เกณฑ์; หลักเกณฑ์", "ex": "What are the criteria for getting the job?", "exTh": "เกณฑ์ในการได้งานนี้คืออะไร", "note": "เป็นพหูพจน์ของ criterion"}
+{"id": "carrier_noun", "th": "ผู้ขนส่ง; สายการบิน; ผู้แพร่เชื้อ", "ex": "Mosquitoes can be carriers of disease.", "exTh": "ยุงอาจเป็นพาหะนำโรคได้"}
+{"id": "linear_adj", "th": "เป็นเส้นตรง; เป็นลำดับ", "ex": "The graph shows a linear increase in sales.", "exTh": "กราฟแสดงยอดขายที่เพิ่มขึ้นเป็นเส้นตรง"}
+{"id": "campaign_verb", "th": "รณรงค์; หาเสียง", "ex": "Activists campaigned for cleaner air.", "exTh": "นักกิจกรรมรณรงค์เพื่ออากาศที่สะอาดขึ้น"}
+{"id": "till_noun", "th": "เครื่องคิดเงิน; ลิ้นชักเก็บเงิน", "ex": "Please pay at the till by the door.", "exTh": "กรุณาชำระเงินที่เครื่องคิดเงินข้างประตู"}
+{"id": "angle_verb", "th": "เอียง; ปรับมุม; ตกปลา", "ex": "She angled the lamp towards her book.", "exTh": "เธอปรับโคมไฟให้เอียงไปทางหนังสือ"}
+{"id": "grounds_noun", "th": "เหตุผล; บริเวณพื้นที่", "ex": "He quit on the grounds of poor health.", "exTh": "เขาลาออกด้วยเหตุผลเรื่องสุขภาพ", "note": "ใช้รูปพหูพจน์"}
+{"id": "magnetic_adj", "th": "ที่มีแม่เหล็ก; ที่ดึงดูดใจ", "ex": "A compass uses the earth's magnetic field.", "exTh": "เข็มทิศใช้สนามแม่เหล็กของโลก"}
+{"id": "absolute_noun", "th": "สิ่งที่เป็นสัมบูรณ์; หลักการที่ตายตัว", "ex": "In politics, there are few absolutes.", "exTh": "ในทางการเมืองมีหลักการตายตัวอยู่น้อยมาก"}
+{"id": "thereby_adv", "th": "ด้วยวิธีนั้น; ซึ่งทำให้", "ex": "He saved money, thereby reaching his goal sooner.", "exTh": "เขาประหยัดเงิน ซึ่งทำให้ถึงเป้าหมายเร็วขึ้น", "note": "ภาษาทางการ"}
+{"id": "vertical_adj", "th": "แนวตั้ง; ตั้งฉาก", "ex": "Draw a vertical line down the page.", "exTh": "ลากเส้นแนวตั้งลงมาตามหน้ากระดาษ"}
+{"id": "coverage_noun", "th": "การรายงานข่าว; ความคุ้มครอง; ขอบเขตการครอบคลุม", "ex": "The channel offers live coverage of the match.", "exTh": "ช่องนี้ถ่ายทอดสดการแข่งขัน"}
+{"id": "corps_noun", "th": "กองทหาร; หน่วย; คณะ", "ex": "He served in the Marine Corps.", "exTh": "เขาเคยรับใช้ในกองนาวิกโยธิน", "note": "ออกเสียง \"คอร์\""}
+{"id": "jersey_noun", "th": "เสื้อกีฬา; เสื้อไหมพรม", "ex": "The player wore a red jersey.", "exTh": "นักกีฬาสวมเสื้อสีแดง"}
+{"id": "jersey_adj", "th": "ถักด้วยผ้ายืดเจอร์ซีย์", "ex": "She bought a jersey dress for the trip.", "exTh": "เธอซื้อชุดผ้ายืดสำหรับการเดินทาง"}
+{"id": "compliance_noun", "th": "การปฏิบัติตามกฎ; ความยินยอม", "ex": "The factory is in compliance with safety rules.", "exTh": "โรงงานปฏิบัติตามกฎความปลอดภัย"}
+{"id": "substantially_adv", "th": "อย่างมาก; ในสาระสำคัญ", "ex": "Prices have risen substantially this year.", "exTh": "ราคาเพิ่มขึ้นอย่างมากในปีนี้"}
+{"id": "automatic_verb", "th": "ทำให้เป็นอัตโนมัติ", "ex": "Managers want to automatic the whole process.", "exTh": "ผู้จัดการต้องการให้กระบวนการทั้งหมดเป็นอัตโนมัติ", "note": "พบน้อยมาก ปกติใช้ automate"}
+{"id": "isolated_adj", "th": "ที่โดดเดี่ยว; ห่างไกล; เกิดขึ้นเพียงครั้งเดียว", "ex": "It was an isolated case, not a trend.", "exTh": "เป็นกรณีเดียวเท่านั้น ไม่ใช่แนวโน้ม"}
+{"id": "tone_verb", "th": "ปรับสี; ทำให้กระชับ", "ex": "Regular exercise will tone your muscles.", "exTh": "การออกกำลังกายสม่ำเสมอจะช่วยให้กล้ามเนื้อกระชับ"}
+{"id": "duration_noun", "th": "ระยะเวลา", "ex": "The film is two hours in duration.", "exTh": "ภาพยนตร์เรื่องนี้ยาวสองชั่วโมง"}
+{"id": "circulation_noun", "th": "การไหลเวียน; ยอดจำหน่ายหนังสือพิมพ์", "ex": "Exercise improves blood circulation.", "exTh": "การออกกำลังกายช่วยให้การไหลเวียนของเลือดดีขึ้น"}
+{"id": "advisory_adj", "th": "ที่ให้คำปรึกษา", "ex": "She sits on the company's advisory board.", "exTh": "เธอเป็นกรรมการที่ปรึกษาของบริษัท"}
+{"id": "charter_verb", "th": "เช่าเหมาลำ; ออกกฎบัตร", "ex": "We chartered a boat for the island tour.", "exTh": "เราเช่าเรือเหมาลำเพื่อทัวร์เกาะ"}
+{"id": "charter_noun", "th": "กฎบัตร; เที่ยวบินเช่าเหมาลำ", "ex": "The UN charter was signed in 1945.", "exTh": "กฎบัตรสหประชาชาติลงนามในปี 1945"}
+{"id": "contractor_noun", "th": "ผู้รับเหมา", "ex": "The contractor finished the roof last week.", "exTh": "ผู้รับเหมาทำหลังคาเสร็จเมื่อสัปดาห์ที่แล้ว"}
+{"id": "bulk_noun", "th": "ส่วนใหญ่; ปริมาณมาก; ขนาดใหญ่", "ex": "The bulk of my salary goes on rent.", "exTh": "เงินเดือนส่วนใหญ่ของฉันหมดไปกับค่าเช่า"}
+{"id": "premises_noun", "th": "สถานที่; อาคารและบริเวณ", "ex": "Smoking is not allowed on the premises.", "exTh": "ห้ามสูบบุหรี่ในบริเวณสถานที่นี้", "note": "ใช้รูปพหูพจน์"}
+{"id": "acre_noun", "th": "เอเคอร์ (หน่วยวัดพื้นที่)", "ex": "The farm covers about fifty acres.", "exTh": "ฟาร์มนี้กว้างประมาณห้าสิบเอเคอร์", "note": "1 เอเคอร์ ประมาณ 2.5 ไร่"}
+{"id": "con_verb", "th": "หลอกลวง; ต้มตุ๋น", "ex": "He conned old people out of their savings.", "exTh": "เขาหลอกเอาเงินเก็บของคนแก่", "note": "ภาษาพูด"}
+{"id": "con_noun", "th": "การหลอกลวง; ข้อเสีย", "ex": "The offer turned out to be a con.", "exTh": "ข้อเสนอนั้นกลายเป็นการหลอกลวง", "note": "ภาษาพูด"}
+{"id": "voluntary_adj", "th": "โดยสมัครใจ; อาสา", "ex": "She does voluntary work at a shelter.", "exTh": "เธอทำงานอาสาสมัครที่ศูนย์พักพิง"}
+{"id": "recall_noun", "th": "การเรียกคืนสินค้า; ความจำ", "ex": "The company announced a recall of faulty cars.", "exTh": "บริษัทประกาศเรียกคืนรถยนต์ที่บกพร่อง"}
+{"id": "conviction_noun", "th": "การตัดสินว่ามีความผิด; ความเชื่อมั่น", "ex": "He has a previous conviction for theft.", "exTh": "เขาเคยถูกตัดสินว่ามีความผิดฐานลักทรัพย์"}
+{"id": "dominant_adj", "th": "ที่โดดเด่นเหนือกว่า; ที่เป็นหลัก", "ex": "English is the dominant language of the internet.", "exTh": "ภาษาอังกฤษเป็นภาษาหลักของอินเทอร์เน็ต"}
+{"id": "chart_verb", "th": "บันทึกเป็นแผนภูมิ; ติดอันดับ", "ex": "The report charts the growth of the city.", "exTh": "รายงานนี้บันทึกการเติบโตของเมืองเป็นแผนภูมิ"}
+{"id": "specimen_noun", "th": "ตัวอย่าง; ชิ้นตัวอย่าง", "ex": "The museum has a rare specimen of butterfly.", "exTh": "พิพิธภัณฑ์มีตัวอย่างผีเสื้อหายาก"}
+{"id": "fraction_noun", "th": "เศษส่วน; ส่วนเล็กน้อย", "ex": "Half is the same as the fraction one over two.", "exTh": "ครึ่งหนึ่งเท่ากับเศษส่วนหนึ่งส่วนสอง"}
+{"id": "organizational_adj", "th": "ที่เกี่ยวกับองค์กร; ด้านการจัดการ", "ex": "She has strong organizational skills.", "exTh": "เธอมีทักษะด้านการจัดการที่ดี"}
+{"id": "diversity_noun", "th": "ความหลากหลาย", "ex": "The school celebrates cultural diversity.", "exTh": "โรงเรียนยกย่องความหลากหลายทางวัฒนธรรม"}
+{"id": "occupational_adj", "th": "ที่เกี่ยวกับอาชีพ", "ex": "Back pain is a common occupational problem.", "exTh": "อาการปวดหลังเป็นปัญหาจากการทำงานที่พบบ่อย"}
+{"id": "geological_adj", "th": "ทางธรณีวิทยา", "ex": "The area has a rich geological history.", "exTh": "พื้นที่นี้มีประวัติทางธรณีวิทยาที่น่าสนใจ"}
+{"id": "harbor_verb", "th": "ซ่อนไว้; เก็บความรู้สึกไว้ในใจ", "ex": "He harbors a deep fear of failure.", "exTh": "เขาเก็บความกลัวความล้มเหลวไว้ลึกๆ ในใจ"}
+{"id": "landscape_verb", "th": "จัดสวน; ตกแต่งภูมิทัศน์", "ex": "They landscaped the yard with palm trees.", "exTh": "พวกเขาจัดสวนในลานบ้านด้วยต้นปาล์ม"}
+{"id": "crude_adj", "th": "หยาบ; ดิบ; ไม่ประณีต", "ex": "He made a crude joke at dinner.", "exTh": "เขาเล่นมุกหยาบคายระหว่างมื้อเย็น"}
+{"id": "suspension_noun", "th": "การพักงาน; การระงับ; ระบบรองรับแรงสะเทือน", "ex": "The player got a two-game suspension.", "exTh": "นักกีฬาถูกพักการแข่งขันสองนัด"}
+{"id": "tract_noun", "th": "ผืนที่ดิน; ทางเดินอวัยวะ", "ex": "A large tract of forest was cleared.", "exTh": "ผืนป่าขนาดใหญ่ถูกถางโล่ง"}
+{"id": "integral_adj", "th": "ที่เป็นส่วนสำคัญ; ขาดไม่ได้", "ex": "Music is an integral part of Thai festivals.", "exTh": "ดนตรีเป็นส่วนสำคัญที่ขาดไม่ได้ของเทศกาลไทย"}
+{"id": "transit_noun", "th": "การขนส่ง; การเดินทางผ่าน", "ex": "Public transit here is clean and cheap.", "exTh": "ระบบขนส่งสาธารณะที่นี่สะอาดและราคาถูก"}
+{"id": "discourse_noun", "th": "การสนทนา; วาทกรรม; ข้อความ", "ex": "Public discourse about money is changing.", "exTh": "วาทกรรมสาธารณะเรื่องเงินกำลังเปลี่ยนไป"}
+{"id": "desert_verb", "th": "ละทิ้ง; หนีทัพ", "ex": "The soldier deserted his post at night.", "exTh": "ทหารหนีออกจากที่ประจำการตอนกลางคืน"}
+{"id": "notwithstanding_prep", "th": "ถึงแม้จะ; โดยไม่คำนึงถึง", "ex": "The game went ahead notwithstanding the rain.", "exTh": "การแข่งขันดำเนินต่อไปแม้ฝนจะตก", "note": "ภาษาทางการ"}
+{"id": "comply_verb", "th": "ปฏิบัติตาม; ทำตาม", "ex": "All drivers must comply with the traffic laws.", "exTh": "ผู้ขับขี่ทุกคนต้องปฏิบัติตามกฎจราจร"}
+{"id": "render_verb", "th": "ทำให้กลายเป็น; มอบให้; แปล", "ex": "The storm rendered the road impassable.", "exTh": "พายุทำให้ถนนผ่านไม่ได้", "note": "ภาษาทางการ"}
+{"id": "ethical_adj", "th": "ถูกหลักจริยธรรม; ทางจริยธรรม", "ex": "It is not ethical to lie to patients.", "exTh": "การโกหกคนไข้ไม่ถูกหลักจริยธรรม"}
+{"id": "restoration_noun", "th": "การบูรณะ; การฟื้นฟู", "ex": "The restoration of the old temple took ten years.", "exTh": "การบูรณะวัดเก่าใช้เวลาสิบปี"}
+{"id": "sacrifice_noun", "th": "การเสียสละ; ของบูชา", "ex": "Her parents made many sacrifices for her education.", "exTh": "พ่อแม่ของเธอเสียสละหลายอย่างเพื่อการศึกษาของเธอ"}
+{"id": "sacrifice_verb", "th": "เสียสละ; ยอมสละ", "ex": "He sacrificed his weekends to finish the project.", "exTh": "เขายอมสละวันหยุดเสาร์อาทิตย์เพื่อทำโครงการให้เสร็จ"}
+{"id": "marginal_adj", "th": "เล็กน้อย; ชายขอบ", "ex": "There was only a marginal difference in price.", "exTh": "ราคามีความต่างเพียงเล็กน้อย"}
+{"id": "pace_verb", "th": "เดินไปมา; กำหนดจังหวะ", "ex": "He paced the room while he waited.", "exTh": "เขาเดินไปมาในห้องระหว่างรอ"}
+{"id": "juvenile_noun", "th": "เยาวชน; เด็กและวัยรุ่น", "ex": "The juvenile was sent to a youth center.", "exTh": "เยาวชนคนนั้นถูกส่งไปศูนย์ฝึกอบรมเด็กและเยาวชน", "note": "ภาษาทางการ"}
+{"id": "juvenile_adj", "th": "เยาวชน; อ่อนวัย; เด็กๆ", "ex": "Stop that juvenile behavior and grow up.", "exTh": "เลิกทำตัวเป็นเด็กๆ แล้วโตเสียที"}
+{"id": "precision_noun", "th": "ความแม่นยำ; ความเที่ยงตรง", "ex": "The surgeon worked with great precision.", "exTh": "ศัลยแพทย์ทำงานด้วยความแม่นยำสูง"}
+{"id": "specification_noun", "th": "ข้อกำหนด; รายละเอียดจำเพาะ", "ex": "The phone meets all the technical specifications.", "exTh": "โทรศัพท์เครื่องนี้ตรงตามข้อกำหนดทางเทคนิคทั้งหมด"}
+{"id": "consultation_noun", "th": "การปรึกษา; การให้คำปรึกษา", "ex": "You can book a free consultation online.", "exTh": "คุณสามารถจองเข้ารับคำปรึกษาฟรีทางออนไลน์"}
+{"id": "inherent_adj", "th": "ที่มีมาโดยธรรมชาติ; ที่แฝงอยู่", "ex": "Every sport has some inherent risk.", "exTh": "กีฬาทุกชนิดมีความเสี่ยงแฝงอยู่"}
+{"id": "whilst_conj", "th": "ขณะที่; ในขณะที่", "ex": "Please stay seated whilst the train is moving.", "exTh": "กรุณานั่งอยู่กับที่ขณะที่รถไฟกำลังเคลื่อนที่", "note": "ภาษาอังกฤษแบบอังกฤษ ทางการ"}
+{"id": "harvest_verb", "th": "เก็บเกี่ยว", "ex": "Farmers harvest the rice in November.", "exTh": "ชาวนาเก็บเกี่ยวข้าวในเดือนพฤศจิกายน"}
+{"id": "verdict_noun", "th": "คำตัดสิน; คำพิพากษา", "ex": "The jury reached a verdict after two days.", "exTh": "คณะลูกขุนได้คำตัดสินหลังจากสองวัน"}
+{"id": "inclusion_noun", "th": "การรวมเข้า; การไม่กีดกัน", "ex": "The school promotes the inclusion of all children.", "exTh": "โรงเรียนส่งเสริมการรวมเด็กทุกคนเข้าด้วยกัน"}
+{"id": "coupled_adj", "th": "ควบคู่กับ; เชื่อมต่อกัน", "ex": "Low pay coupled with long hours made him quit.", "exTh": "ค่าตอบแทนต่ำควบคู่กับชั่วโมงทำงานยาวทำให้เขาลาออก"}
+{"id": "atmospheric_adj", "th": "ทางบรรยากาศ; ชวนให้รู้สึกถึงบรรยากาศ", "ex": "Atmospheric pressure drops before a storm.", "exTh": "ความกดอากาศลดลงก่อนเกิดพายุ"}
+{"id": "vegetation_noun", "th": "พืชพรรณ; พืชพันธุ์", "ex": "The island has thick tropical vegetation.", "exTh": "เกาะนี้มีพืชพรรณเขตร้อนหนาแน่น"}
+{"id": "elevation_noun", "th": "ความสูงจากระดับน้ำทะเล; การยกระดับ", "ex": "The town sits at an elevation of 1,000 meters.", "exTh": "เมืองนี้ตั้งอยู่ที่ความสูงหนึ่งพันเมตรจากระดับน้ำทะเล"}
+{"id": "craft_verb", "th": "ประดิษฐ์; ทำอย่างประณีต", "ex": "She crafted a table from old wood.", "exTh": "เธอทำโต๊ะอย่างประณีตจากไม้เก่า"}
+{"id": "succession_noun", "th": "การต่อเนื่อง; การสืบทอด", "ex": "There was a succession of cold days.", "exTh": "มีวันอากาศหนาวติดต่อกันหลายวัน"}
+{"id": "estimation_noun", "th": "การประมาณ; การประเมิน", "ex": "By my estimation, the trip will take three hours.", "exTh": "จากการประมาณของฉัน การเดินทางจะใช้เวลาสามชั่วโมง"}
+{"id": "retention_noun", "th": "การรักษาไว้; การคงไว้", "ex": "The company works on staff retention.", "exTh": "บริษัททำงานเรื่องการรักษาพนักงานไว้"}

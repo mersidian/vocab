@@ -1,0 +1,100 @@
+{"id":"second_adv","th":"เป็นอันดับสอง; ที่สอง","ex":"She finished second in the race.","exTh":"เธอเข้าเส้นชัยเป็นอันดับสองในการแข่งขัน"}
+{"id":"control_verb","th":"ควบคุม; บังคับ; คุมให้อยู่","ex":"He tried to control his anger.","exTh":"เขาพยายามควบคุมความโกรธของตัวเอง"}
+{"id":"form_verb","th":"ก่อตัว; จัดตั้ง; สร้างขึ้น","ex":"Ice forms on the lake in winter.","exTh":"น้ำแข็งก่อตัวบนทะเลสาบในฤดูหนาว"}
+{"id":"report_verb","th":"รายงาน; แจ้ง; ให้ข่าว","ex":"Please report any problems to the manager.","exTh":"กรุณาแจ้งปัญหาใดๆ ให้ผู้จัดการทราบ"}
+{"id":"last_adv","th":"ครั้งสุดท้าย; เป็นคนสุดท้าย; ล่าสุด","ex":"I last saw him at the party.","exTh":"ครั้งสุดท้ายที่ฉันเจอเขาคือที่งานเลี้ยง"}
+{"id":"last_verb","th":"คงอยู่; ทนทาน; ใช้ได้นาน","ex":"The movie lasted about two hours.","exTh":"หนังเรื่องนี้ยาวประมาณสองชั่วโมง"}
+{"id":"group_verb","th":"จัดกลุ่ม; แบ่งเป็นกลุ่ม","ex":"The teacher grouped the students by age.","exTh":"ครูจัดกลุ่มนักเรียนตามอายุ"}
+{"id":"department_noun","th":"แผนก; ฝ่าย; ภาควิชา","ex":"She works in the sales department.","exTh":"เธอทำงานในแผนกขาย"}
+{"id":"go_noun","th":"ความพยายาม; ครั้ง; ตาเล่น","ex":"Let me have a go at fixing it.","exTh":"ขอฉันลองซ่อมดูหน่อย","note":"have a go = ลองทำดู"}
+{"id":"program_verb","th":"เขียนโปรแกรม; ตั้งโปรแกรม","ex":"He programs computers for a living.","exTh":"เขาเขียนโปรแกรมคอมพิวเตอร์เป็นอาชีพ"}
+{"id":"off_prep","th":"ออกจาก; หลุดจาก; ห่างจาก","ex":"Please take your feet off the chair.","exTh":"กรุณายกเท้าลงจากเก้าอี้"}
+{"id":"interest_verb","th":"ทำให้สนใจ; ดึงดูดความสนใจ","ex":"Science has always interested me.","exTh":"วิทยาศาสตร์ดึงดูดความสนใจฉันมาตลอด"}
+{"id":"few_pron","th":"ไม่กี่คน; ไม่กี่อย่าง; น้อย","ex":"Few of my friends live nearby.","exTh":"เพื่อนของฉันอยู่ใกล้ที่นี่ไม่กี่คน"}
+{"id":"board_verb","th":"ขึ้น (เครื่องบิน/เรือ/รถ); ขึ้นเครื่อง","ex":"Passengers may now board the plane.","exTh":"ผู้โดยสารขึ้นเครื่องบินได้แล้ว"}
+{"id":"above_adj","th":"ข้างต้น; ที่กล่าวไว้ข้างบน","ex":"Please check the above information carefully.","exTh":"กรุณาตรวจสอบข้อมูลข้างต้นให้ละเอียด","note":"ใช้หน้านามในงานเขียน"}
+{"id":"thus_adv","th":"ดังนั้น; ด้วยเหตุนี้; ด้วยวิธีนี้","ex":"He was late and thus missed the start.","exTh":"เขามาสาย ดังนั้นจึงพลาดช่วงเริ่มต้น","note":"ภาษาทางการ"}
+{"id":"whether_conj","th":"ไม่ว่าจะ...หรือไม่; หรือไม่","ex":"I don't know whether she will come.","exTh":"ฉันไม่รู้ว่าเธอจะมาหรือไม่"}
+{"id":"until_conj","th":"จนกระทั่ง; จนกว่า","ex":"Wait here until I come back.","exTh":"รอที่นี่จนกว่าฉันจะกลับมา"}
+{"id":"process_noun","th":"กระบวนการ; ขั้นตอน","ex":"Learning a language is a slow process.","exTh":"การเรียนภาษาเป็นกระบวนการที่ช้า"}
+{"id":"land_noun","th":"ที่ดิน; แผ่นดิน; ผืนดิน","ex":"They bought some land near the sea.","exTh":"พวกเขาซื้อที่ดินใกล้ทะเล"}
+{"id":"further_adv","th":"ไกลออกไป; เพิ่มเติม; ต่อไปอีก","ex":"The hotel is a little further down the road.","exTh":"โรงแรมอยู่ไกลออกไปอีกเล็กน้อยตามถนน"}
+{"id":"county_noun","th":"เขตการปกครอง; มณฑล; เคาน์ตี","ex":"This county has a population of two million.","exTh":"เขตนี้มีประชากรสองล้านคน","note":"หน่วยการปกครองในสหรัฐฯ/อังกฤษ"}
+{"id":"available_adj","th":"ว่าง; มีให้; หาได้","ex":"Is this seat available?","exTh":"ที่นั่งนี้ว่างไหม"}
+{"id":"level_adj","th":"ราบเรียบ; เสมอกัน; เท่ากัน","ex":"The ground here is flat and level.","exTh":"พื้นที่ตรงนี้แบนและราบเรียบ"}
+{"id":"president_noun","th":"ประธานาธิบดี; ประธาน; อธิการบดี","ex":"The president spoke on television last night.","exTh":"ประธานาธิบดีกล่าวทางโทรทัศน์เมื่อคืนนี้"}
+{"id":"amount_noun","th":"จำนวน; ปริมาณ; ยอดเงิน","ex":"I spent a large amount of money.","exTh":"ฉันใช้เงินไปเป็นจำนวนมาก"}
+{"id":"type_verb","th":"พิมพ์; พิมพ์ดีด","ex":"She can type very fast.","exTh":"เธอพิมพ์ได้เร็วมาก"}
+{"id":"economic_adj","th":"ทางเศรษฐกิจ; เกี่ยวกับเศรษฐกิจ","ex":"The country faces serious economic problems.","exTh":"ประเทศนี้เผชิญกับปัญหาทางเศรษฐกิจที่ร้ายแรง"}
+{"id":"including_prep","th":"รวมทั้ง; รวมถึง","ex":"Everyone came, including the children.","exTh":"ทุกคนมา รวมทั้งเด็กๆ ด้วย"}
+{"id":"human_noun","th":"มนุษย์; คน","ex":"Humans need water to live.","exTh":"มนุษย์ต้องการน้ำเพื่อมีชีวิตอยู่"}
+{"id":"name_verb","th":"ตั้งชื่อ; เรียกชื่อ; ระบุชื่อ","ex":"They named their baby Lily.","exTh":"พวกเขาตั้งชื่อลูกว่าลิลลี่"}
+{"id":"percent_noun","th":"เปอร์เซ็นต์; ร้อยละ","ex":"About fifty percent of students passed.","exTh":"นักเรียนประมาณห้าสิบเปอร์เซ็นต์สอบผ่าน"}
+{"id":"support_verb","th":"สนับสนุน; ค้ำ; เลี้ยงดู","ex":"My parents always support my decisions.","exTh":"พ่อแม่ของฉันสนับสนุนการตัดสินใจของฉันเสมอ"}
+{"id":"provided_conj","th":"หากว่า; ตราบใดที่; โดยมีเงื่อนไขว่า","ex":"You can go out provided you finish your work.","exTh":"ไปเที่ยวได้ ตราบใดที่ทำงานเสร็จแล้ว"}
+{"id":"policy_noun","th":"นโยบาย; ข้อกำหนด; กรมธรรม์","ex":"The company has a strict safety policy.","exTh":"บริษัทมีนโยบายความปลอดภัยที่เข้มงวด"}
+{"id":"property_noun","th":"ทรัพย์สิน; อสังหาริมทรัพย์; คุณสมบัติ","ex":"He owns property in the city.","exTh":"เขามีอสังหาริมทรัพย์ในเมือง"}
+{"id":"book_verb","th":"จอง; สั่งจอง","ex":"I booked a table for four people.","exTh":"ฉันจองโต๊ะสำหรับสี่คน"}
+{"id":"either_det","th":"ทั้งสอง (ข้าง); อันใดอันหนึ่ง","ex":"You can sit on either side of the table.","exTh":"คุณนั่งข้างไหนของโต๊ะก็ได้"}
+{"id":"either_pron","th":"คนใดคนหนึ่ง; อย่างใดอย่างหนึ่ง","ex":"I like both, so either is fine.","exTh":"ฉันชอบทั้งสองอย่าง เลือกอย่างไหนก็ได้"}
+{"id":"yet_conj","th":"แต่; อย่างไรก็ตาม","ex":"He is rich, yet he is not happy.","exTh":"เขารวย แต่เขาก็ไม่มีความสุข"}
+{"id":"result_verb","th":"เป็นผลให้; เกิดจาก; ส่งผลเป็น","ex":"The accident resulted in a long delay.","exTh":"อุบัติเหตุทำให้เกิดความล่าช้ายาวนาน","note":"มักใช้ result in / result from"}
+{"id":"increase_noun","th":"การเพิ่มขึ้น; ส่วนที่เพิ่ม","ex":"There was a big increase in prices.","exTh":"ราคาสินค้าเพิ่มขึ้นมาก"}
+{"id":"analysis_noun","th":"การวิเคราะห์; ผลวิเคราะห์","ex":"The analysis showed a clear pattern.","exTh":"ผลการวิเคราะห์แสดงรูปแบบที่ชัดเจน"}
+{"id":"least_adv","th":"น้อยที่สุด","ex":"I like this one the least.","exTh":"ฉันชอบอันนี้น้อยที่สุด"}
+{"id":"light_verb","th":"จุด (ไฟ); ทำให้สว่าง","ex":"She lit a candle on the table.","exTh":"เธอจุดเทียนบนโต๊ะ","note":"รูปผัน light, lit, lit"}
+{"id":"various_adj","th":"หลากหลาย; ต่างๆ","ex":"The shop sells various kinds of tea.","exTh":"ร้านนี้ขายชาหลายชนิด"}
+{"id":"whole_noun","th":"ทั้งหมด; ส่วนรวม; ผลรวม","ex":"The whole is greater than its parts.","exTh":"ส่วนรวมย่อมมากกว่าส่วนย่อยรวมกัน"}
+{"id":"management_noun","th":"การจัดการ; ฝ่ายบริหาร; ผู้บริหาร","ex":"Good management is important for any business.","exTh":"การบริหารจัดการที่ดีสำคัญต่อทุกธุรกิจ"}
+{"id":"tax_noun","th":"ภาษี","ex":"We pay tax on everything we earn.","exTh":"เราจ่ายภาษีจากทุกอย่างที่หาได้"}
+{"id":"individual_adj","th":"เฉพาะบุคคล; แต่ละคน; เดี่ยว","ex":"Each student gets individual attention.","exTh":"นักเรียนแต่ละคนได้รับความสนใจเป็นรายบุคคล"}
+{"id":"bill_verb","th":"เรียกเก็บเงิน; ส่งใบแจ้งหนี้","ex":"The hotel billed me for the extra night.","exTh":"โรงแรมเรียกเก็บเงินค่าพักเพิ่มหนึ่งคืนจากฉัน"}
+{"id":"care_verb","th":"ใส่ใจ; แคร์; สนใจ","ex":"I really care about my friends.","exTh":"ฉันใส่ใจเพื่อนๆ ของฉันจริงๆ"}
+{"id":"district_noun","th":"เขต; ย่าน; อำเภอ","ex":"They live in a quiet district of the city.","exTh":"พวกเขาอาศัยอยู่ในย่านเงียบสงบของเมือง"}
+{"id":"view_verb","th":"ชม; มองดู; พิจารณา","ex":"Many people viewed the video online.","exTh":"หลายคนดูวิดีโอนั้นทางออนไลน์"}
+{"id":"industry_noun","th":"อุตสาหกรรม; ธุรกิจ","ex":"He works in the film industry.","exTh":"เขาทำงานในวงการภาพยนตร์"}
+{"id":"market_verb","th":"ทำการตลาด; วางขาย; โฆษณา","ex":"They market their products on social media.","exTh":"พวกเขาทำการตลาดสินค้าผ่านโซเชียลมีเดีย"}
+{"id":"press_noun","th":"สื่อมวลชน; หนังสือพิมพ์; การกด","ex":"The press was waiting outside the building.","exTh":"สื่อมวลชนรออยู่หน้าอาคาร"}
+{"id":"press_verb","th":"กด; ดัน; รีด","ex":"Press the button to start the machine.","exTh":"กดปุ่มเพื่อเริ่มเครื่อง"}
+{"id":"half_adv","th":"ครึ่งหนึ่ง; กึ่ง","ex":"The glass is half full.","exTh":"แก้วนี้มีน้ำครึ่งแก้ว"}
+{"id":"current_adj","th":"ปัจจุบัน; ในขณะนี้","ex":"What is your current address?","exTh":"ที่อยู่ปัจจุบันของคุณคืออะไร"}
+{"id":"term_noun","th":"ภาคเรียน; ระยะเวลา; ศัพท์","ex":"The new term starts in May.","exTh":"ภาคเรียนใหม่เริ่มในเดือนพฤษภาคม"}
+{"id":"date_verb","th":"ลงวันที่; ระบุอายุ; เดท","ex":"Please date the letter before you send it.","exTh":"กรุณาลงวันที่ในจดหมายก่อนส่ง"}
+{"id":"income_noun","th":"รายได้","ex":"Her income is not very high.","exTh":"รายได้ของเธอไม่ค่อยสูง"}
+{"id":"plan_verb","th":"วางแผน; ตั้งใจ","ex":"We are planning a trip to Japan.","exTh":"พวกเราวางแผนไปเที่ยวญี่ปุ่น"}
+{"id":"application_noun","th":"ใบสมัคร; การสมัคร; แอปพลิเคชัน","ex":"I sent my job application yesterday.","exTh":"ฉันส่งใบสมัครงานเมื่อวานนี้"}
+{"id":"room_verb","th":"พักอาศัยร่วมกัน; เช่าห้องอยู่","ex":"She rooms with two other students.","exTh":"เธออยู่ห้องร่วมกับนักเรียนอีกสองคน","note":"ใช้ไม่บ่อย มักเป็นสำนวนอเมริกัน"}
+{"id":"model_adj","th":"ต้นแบบ; เป็นแบบอย่าง; จำลอง","ex":"He is a model student in our class.","exTh":"เขาเป็นนักเรียนตัวอย่างของชั้นเรา"}
+{"id":"model_verb","th":"เป็นแบบ; แสดงแบบ; ทำแบบจำลอง","ex":"She models clothes for a magazine.","exTh":"เธอเป็นนางแบบใส่เสื้อผ้าให้นิตยสาร"}
+{"id":"union_noun","th":"สหภาพ; สหภาพแรงงาน; การรวมกัน","ex":"The workers joined a union.","exTh":"คนงานเข้าร่วมสหภาพแรงงาน"}
+{"id":"account_verb","th":"อธิบาย; คิดเป็นสัดส่วน","ex":"Rent accounts for half of my spending.","exTh":"ค่าเช่าคิดเป็นครึ่งหนึ่งของรายจ่ายฉัน","note":"มักใช้ account for"}
+{"id":"experience_verb","th":"ประสบ; เผชิญ; รู้สึก","ex":"Many people experience stress at work.","exTh":"หลายคนประสบความเครียดจากการทำงาน"}
+{"id":"treatment_noun","th":"การรักษา; การปฏิบัติ; การดูแล","ex":"He is receiving treatment for his back.","exTh":"เขากำลังรับการรักษาอาการปวดหลัง"}
+{"id":"surface_noun","th":"พื้นผิว; ผิวหน้า","ex":"The surface of the table is very smooth.","exTh":"พื้นผิวของโต๊ะเรียบมาก"}
+{"id":"central_adj","th":"ตรงกลาง; ส่วนกลาง; สำคัญที่สุด","ex":"Our hotel is in central Bangkok.","exTh":"โรงแรมของเราอยู่ใจกลางกรุงเทพฯ"}
+{"id":"basis_noun","th":"พื้นฐาน; หลักการ; เกณฑ์","ex":"We meet on a weekly basis.","exTh":"เราพบกันเป็นประจำทุกสัปดาห์","note":"on a ... basis = เป็นประจำ/ตามแบบ"}
+{"id":"working_adj","th":"ที่ทำงาน; ใช้งานได้; ในการทำงาน","ex":"The working day starts at eight o'clock.","exTh":"วันทำงานเริ่มตอนแปดโมง"}
+{"id":"single_noun","th":"เพลงซิงเกิล; ตั๋วเที่ยวเดียว; คนโสด","ex":"Her new single is number one this week.","exTh":"ซิงเกิลใหม่ของเธออยู่อันดับหนึ่งสัปดาห์นี้"}
+{"id":"able_adj","th":"สามารถ; มีความสามารถ","ex":"She is able to speak three languages.","exTh":"เธอสามารถพูดได้สามภาษา"}
+{"id":"future_adj","th":"ในอนาคต; ข้างหน้า","ex":"Who will be our future leader?","exTh":"ใครจะเป็นผู้นำของเราในอนาคต"}
+{"id":"council_noun","th":"สภา; คณะกรรมการ; สภาเทศบาล","ex":"The city council voted to build a new park.","exTh":"สภาเมืองลงมติให้สร้างสวนสาธารณะแห่งใหม่"}
+{"id":"growth_noun","th":"การเติบโต; การเจริญเติบโต","ex":"The company showed strong growth this year.","exTh":"บริษัทมีการเติบโตที่แข็งแกร่งในปีนี้"}
+{"id":"past_adj","th":"ที่ผ่านมา; ในอดีต; เมื่อก่อน","ex":"I have lived here for the past ten years.","exTh":"ฉันอาศัยอยู่ที่นี่มาสิบปีที่ผ่านมา"}
+{"id":"construction_noun","th":"การก่อสร้าง; สิ่งก่อสร้าง","ex":"The construction of the bridge took two years.","exTh":"การก่อสร้างสะพานใช้เวลาสองปี"}
+{"id":"march_verb","th":"เดินสวนสนาม; เดินขบวน; เดินเป็นแถว","ex":"Thousands of people marched through the city.","exTh":"ผู้คนหลายพันคนเดินขบวนผ่านเมือง"}
+{"id":"authority_noun","th":"อำนาจ; ผู้มีอำนาจ; หน่วยงานรัฐ","ex":"Only the police have the authority to stop cars.","exTh":"มีเพียงตำรวจที่มีอำนาจสั่งหยุดรถ"}
+{"id":"series_noun","th":"ชุด; ซีรีส์; ลำดับ","ex":"I'm watching a new series about doctors.","exTh":"ฉันกำลังดูซีรีส์เรื่องใหม่เกี่ยวกับหมอ","note":"รูปเอกพจน์และพหูพจน์เหมือนกัน"}
+{"id":"design_verb","th":"ออกแบบ; วางแบบ","ex":"She designs websites for small businesses.","exTh":"เธอออกแบบเว็บไซต์ให้ธุรกิจขนาดเล็ก"}
+{"id":"paid_adj","th":"ได้รับค่าจ้าง; จ่ายแล้ว; มีค่าตอบแทน","ex":"This is a paid job, not volunteer work.","exTh":"นี่เป็นงานที่มีค่าจ้าง ไม่ใช่งานอาสา"}
+{"id":"near_adj","th":"ใกล้; ใกล้เคียง","ex":"The nearest bank is five minutes away.","exTh":"ธนาคารที่ใกล้ที่สุดอยู่ห่างไปห้านาที"}
+{"id":"near_adv","th":"ใกล้; ใกล้เข้ามา","ex":"Please come near so I can see you.","exTh":"กรุณาเข้ามาใกล้ๆ เพื่อให้ฉันมองเห็น"}
+{"id":"plant_verb","th":"ปลูก; ฝัง; วาง","ex":"We planted three trees in the garden.","exTh":"เราปลูกต้นไม้สามต้นในสวน"}
+{"id":"main_adj","th":"หลัก; สำคัญที่สุด","ex":"The main road is closed today.","exTh":"ถนนสายหลักปิดวันนี้"}
+{"id":"standard_noun","th":"มาตรฐาน; เกณฑ์","ex":"The hotel has a high standard of service.","exTh":"โรงแรมนี้มีมาตรฐานการบริการสูง"}
+{"id":"equipment_noun","th":"อุปกรณ์; เครื่องมือ","ex":"The gym has a lot of new equipment.","exTh":"ฟิตเนสมีอุปกรณ์ใหม่ๆ มากมาย","note":"นามนับไม่ได้"}
+{"id":"operation_noun","th":"การผ่าตัด; การทำงาน; การดำเนินการ","ex":"He needs an operation on his knee.","exTh":"เขาต้องผ่าตัดหัวเข่า"}
+{"id":"clear_verb","th":"เคลียร์; ทำให้โล่ง; ล้างออก","ex":"Please clear the table after dinner.","exTh":"กรุณาเก็บโต๊ะหลังกินข้าวเย็น"}
+{"id":"quality_adj","th":"คุณภาพดี; มีคุณภาพ","ex":"They sell quality products at fair prices.","exTh":"พวกเขาขายสินค้าคุณภาพดีในราคายุติธรรม"}
+{"id":"administration_noun","th":"การบริหาร; ฝ่ายบริหาร; รัฐบาล","ex":"She works in school administration.","exTh":"เธอทำงานด้านการบริหารโรงเรียน"}
+{"id":"record_noun","th":"บันทึก; สถิติ; แผ่นเสียง","ex":"He broke the world record in swimming.","exTh":"เขาทำลายสถิติโลกในการว่ายน้ำ"}
+{"id":"function_noun","th":"หน้าที่; ฟังก์ชัน; งานเลี้ยงพิธีการ","ex":"What is the function of this button?","exTh":"ปุ่มนี้มีหน้าที่อะไร"}

@@ -1,0 +1,100 @@
+{"id":"greeting_noun","th":"การทักทาย; คำทักทาย; คำอวยพร","ex":"He gave me a warm greeting at the door.","exTh":"เขาทักทายฉันอย่างอบอุ่นที่ประตู"}
+{"id":"swell_verb","th":"บวม; พอง; เพิ่มขึ้น","ex":"My foot started to swell after the long flight.","exTh":"เท้าของฉันเริ่มบวมหลังนั่งเครื่องบินนานๆ","note":"รูปผันคือ swelled, swollen"}
+{"id":"competitor_noun","th":"คู่แข่ง; ผู้เข้าแข่งขัน","ex":"Our main competitor just lowered its prices.","exTh":"คู่แข่งรายใหญ่ของเราเพิ่งลดราคา"}
+{"id":"discourage_verb","th":"ทำให้ท้อใจ; ห้ามปราม; ขัดขวาง","ex":"Don't let one bad grade discourage you.","exTh":"อย่าปล่อยให้เกรดแย่ครั้งเดียวทำให้ท้อใจ"}
+{"id":"simplify_verb","th":"ทำให้ง่ายขึ้น; ลดความซับซ้อน","ex":"This app will simplify your daily work.","exTh":"แอปนี้จะทำให้งานประจำวันของคุณง่ายขึ้น"}
+{"id":"clip_noun","th":"คลิป; ที่หนีบ; ตัวหนีบกระดาษ","ex":"I watched a funny video clip on my phone.","exTh":"ฉันดูคลิปวิดีโอตลกๆ ในโทรศัพท์"}
+{"id":"scream_verb","th":"กรีดร้อง; ร้องเสียงหลง","ex":"She screamed when she saw the spider.","exTh":"เธอกรี๊ดเมื่อเห็นแมงมุม"}
+{"id":"talented_adj","th":"มีพรสวรรค์; มีความสามารถ","ex":"He is a talented young artist.","exTh":"เขาเป็นศิลปินหนุ่มที่มีพรสวรรค์"}
+{"id":"harness_noun","th":"สายรัด; เครื่องรัด; สายรัดนิรภัย","ex":"The climber checked his safety harness.","exTh":"นักปีนเขาตรวจเช็กสายรัดนิรภัยของเขา"}
+{"id":"weird_adj","th":"แปลก; ประหลาด; พิลึก","ex":"I heard a weird noise from the kitchen.","exTh":"ฉันได้ยินเสียงแปลกๆ จากในครัว"}
+{"id":"misunderstanding_noun","th":"ความเข้าใจผิด; ความไม่เข้าใจกัน","ex":"It was just a misunderstanding between friends.","exTh":"เป็นแค่ความเข้าใจผิดระหว่างเพื่อน"}
+{"id":"hop_noun","th":"การกระโดดเขย่ง; การกระโดดสั้นๆ; ฮอปส์","ex":"The rabbit made a small hop across the grass.","exTh":"กระต่ายกระโดดตัวเล็กๆ ข้ามสนามหญ้า","note":"hops (พหูพจน์) คือดอกฮอปส์ที่ใช้ทำเบียร์"}
+{"id":"dislike_verb","th":"ไม่ชอบ; เกลียด","ex":"I dislike loud music in the morning.","exTh":"ฉันไม่ชอบเพลงเสียงดังตอนเช้า"}
+{"id":"amusing_adj","th":"ตลก; ขำขัน; สนุก","ex":"He told us an amusing story about his dog.","exTh":"เขาเล่าเรื่องตลกเกี่ยวกับสุนัขของเขาให้เราฟัง"}
+{"id":"cultivate_verb","th":"เพาะปลูก; ปลูกฝัง; บ่มเพาะ","ex":"Farmers here cultivate rice and corn.","exTh":"เกษตรกรที่นี่ปลูกข้าวและข้าวโพด"}
+{"id":"novelist_noun","th":"นักเขียนนวนิยาย","ex":"The novelist is writing her third book.","exTh":"นักเขียนนวนิยายกำลังเขียนหนังสือเล่มที่สาม"}
+{"id":"ski_verb","th":"เล่นสกี","ex":"We ski in the mountains every winter.","exTh":"เราไปเล่นสกีบนภูเขาทุกฤดูหนาว"}
+{"id":"nod_noun","th":"การพยักหน้า; การผงกศีรษะ","ex":"She gave a nod to say yes.","exTh":"เธอพยักหน้าเพื่อบอกว่าตกลง"}
+{"id":"stuffed_adj","th":"ยัดไส้; อิ่มแน่น; ยัดนุ่น","ex":"The child hugged his stuffed bear all night.","exTh":"เด็กชายกอดตุ๊กตาหมีนุ่นทั้งคืน","note":"ในภาษาพูด I'm stuffed = อิ่มมาก"}
+{"id":"puzzle_noun","th":"ปริศนา; จิ๊กซอว์; เกมต่อภาพ","ex":"We finished the puzzle in two hours.","exTh":"เราต่อจิ๊กซอว์เสร็จในสองชั่วโมง"}
+{"id":"terribly_adv","th":"อย่างเลวร้าย; อย่างมาก","ex":"I'm terribly sorry for the mistake.","exTh":"ฉันขอโทษอย่างยิ่งสำหรับความผิดพลาด"}
+{"id":"notorious_adj","th":"ขึ้นชื่อในทางไม่ดี; เสียชื่อ","ex":"The road is notorious for traffic jams.","exTh":"ถนนสายนี้ขึ้นชื่อเรื่องรถติด"}
+{"id":"memorable_adj","th":"น่าจดจำ; ประทับใจ","ex":"It was a memorable trip with my family.","exTh":"เป็นการเดินทางที่น่าจดจำกับครอบครัว"}
+{"id":"ness_noun","th":"แหลม; แหลมยื่นลงทะเล","ex":"The old lighthouse stands on the ness.","exTh":"ประภาคารเก่าตั้งอยู่บนแหลมยื่นลงทะเล","note":"พบเฉพาะในชื่อสถานที่ ในสกอตแลนด์และอังกฤษ เช่น Inverness"}
+{"id":"survivor_noun","th":"ผู้รอดชีวิต","ex":"The survivor was found safe after two days.","exTh":"ผู้รอดชีวิตถูกพบอย่างปลอดภัยหลังผ่านไปสองวัน"}
+{"id":"curiously_adv","th":"อย่างอยากรู้อยากเห็น; อย่างน่าแปลก","ex":"The boy looked curiously at the strange box.","exTh":"เด็กชายมองกล่องแปลกๆ ด้วยความอยากรู้อยากเห็น"}
+{"id":"fashionable_adj","th":"ทันสมัย; เป็นที่นิยม; ตามแฟชั่น","ex":"Those shoes are very fashionable this year.","exTh":"รองเท้าคู่นั้นฮิตมากในปีนี้"}
+{"id":"informative_adj","th":"ให้ข้อมูลมาก; มีประโยชน์ต่อความรู้","ex":"The guide gave us an informative talk.","exTh":"ไกด์บรรยายให้ความรู้แก่เราอย่างมีประโยชน์"}
+{"id":"persuasive_adj","th":"ที่โน้มน้าวใจได้; มีน้ำหนัก","ex":"She gave a persuasive speech to the class.","exTh":"เธอกล่าวสุนทรพจน์ที่โน้มน้าวใจให้ทั้งห้องฟัง"}
+{"id":"gossip_noun","th":"ข่าวซุบซิบ; เรื่องนินทา; คนชอบนินทา","ex":"I don't like office gossip.","exTh":"ฉันไม่ชอบเรื่องนินทาในที่ทำงาน"}
+{"id":"amazed_adj","th":"ทึ่ง; ประหลาดใจมาก","ex":"We were amazed by the size of the cave.","exTh":"เราทึ่งกับขนาดของถ้ำ"}
+{"id":"passport_noun","th":"หนังสือเดินทาง; พาสปอร์ต","ex":"Don't forget your passport at the airport.","exTh":"อย่าลืมหนังสือเดินทางที่สนามบินนะ"}
+{"id":"repay_verb","th":"จ่ายคืน; ตอบแทน","ex":"I will repay the money next month.","exTh":"ฉันจะจ่ายเงินคืนเดือนหน้า"}
+{"id":"scatter_verb","th":"กระจาย; โปรย; แยกย้าย","ex":"The birds scattered when the dog ran in.","exTh":"ฝูงนกแตกกระจายเมื่อสุนัขวิ่งเข้ามา"}
+{"id":"spider_noun","th":"แมงมุม","ex":"A spider made a web in the corner.","exTh":"แมงมุมชักใยอยู่ที่มุมห้อง"}
+{"id":"diving_noun","th":"การดำน้ำ; การกระโดดน้ำ","ex":"Diving is my favorite sport on holiday.","exTh":"การดำน้ำเป็นกีฬาที่ฉันชอบที่สุดตอนไปเที่ยว"}
+{"id":"whistle_noun","th":"นกหวีด; เสียงผิวปาก; เสียงหวีด","ex":"The coach blew his whistle to start the game.","exTh":"โค้ชเป่านกหวีดเพื่อเริ่มเกม"}
+{"id":"poisonous_adj","th":"เป็นพิษ; มีพิษ","ex":"Some mushrooms are poisonous, so be careful.","exTh":"เห็ดบางชนิดมีพิษ ต้องระวังให้ดี"}
+{"id":"trash_noun","th":"ขยะ; เศษขยะ","ex":"Please take the trash out before you leave.","exTh":"ช่วยเอาขยะไปทิ้งก่อนออกไปนะ","note":"ภาษาอเมริกัน; อังกฤษใช้ rubbish"}
+{"id":"cabbage_noun","th":"กะหล่ำปลี","ex":"She cut the cabbage to make a salad.","exTh":"เธอหั่นกะหล่ำปลีเพื่อทำสลัด"}
+{"id":"chat_noun","th":"การคุยเล่น; การสนทนา; แชต","ex":"We had a long chat over coffee.","exTh":"เราคุยกันนานระหว่างดื่มกาแฟ"}
+{"id":"inspire_verb","th":"บันดาลใจ; สร้างแรงบันดาลใจ; ปลุกใจ","ex":"Her story inspired me to start running.","exTh":"เรื่องราวของเธอบันดาลใจให้ฉันเริ่มวิ่ง"}
+{"id":"violently_adv","th":"อย่างรุนแรง; อย่างดุเดือด","ex":"The ship shook violently in the storm.","exTh":"เรือสั่นสะเทือนอย่างรุนแรงท่ามกลางพายุ"}
+{"id":"coffin_noun","th":"โลงศพ","ex":"The family followed the coffin into the church.","exTh":"ครอบครัวเดินตามโลงศพเข้าไปในโบสถ์"}
+{"id":"graceful_adj","th":"สง่างาม; อ่อนช้อย; ละมุนละไม","ex":"The dancer moved in a graceful way.","exTh":"นักเต้นเคลื่อนไหวอย่างอ่อนช้อยสง่างาม"}
+{"id":"circus_noun","th":"ละครสัตว์; คณะละครสัตว์","ex":"The children loved the clowns at the circus.","exTh":"เด็กๆ ชอบตัวตลกที่ละครสัตว์"}
+{"id":"alphabet_noun","th":"ตัวอักษร; อักษรเรียงลำดับ","ex":"The English alphabet has twenty-six letters.","exTh":"ตัวอักษรภาษาอังกฤษมีทั้งหมดยี่สิบหกตัว"}
+{"id":"animated_adj","th":"คึกคัก; มีชีวิตชีวา; เป็นแอนิเมชัน","ex":"They had an animated talk about football.","exTh":"พวกเขาคุยกันอย่างคึกคักเรื่องฟุตบอล"}
+{"id":"hearted_adj","th":"ใจ... (ใช้ต่อท้ายคำ); มีจิตใจ...","ex":"She is a kind-hearted woman who helps everyone.","exTh":"เธอเป็นผู้หญิงใจดีที่ช่วยเหลือทุกคน","note":"ใช้เป็นส่วนต่อท้ายคำประสม เช่น kind-hearted, warm-hearted"}
+{"id":"devastating_adj","th":"ทำลายล้าง; สร้างความเสียหายหนัก; เจ็บปวดมาก","ex":"The flood had a devastating effect on the town.","exTh":"น้ำท่วมสร้างความเสียหายหนักต่อเมือง"}
+{"id":"crush_noun","th":"ความหลงรักแบบชอบข้างเดียว; ฝูงชนอัดแน่น","ex":"She had a crush on her classmate.","exTh":"เธอแอบชอบเพื่อนร่วมชั้น"}
+{"id":"visually_adv","th":"ทางสายตา; ในแง่ภาพ","ex":"The poster looks visually exciting.","exTh":"โปสเตอร์นี้ดูสะดุดตาในแง่ภาพ"}
+{"id":"apology_noun","th":"คำขอโทษ; การขออภัย","ex":"I owe you an apology for being late.","exTh":"ฉันต้องขอโทษคุณที่มาสาย"}
+{"id":"stall_noun","th":"แผงขายของ; คอก; ห้องแยกในห้องน้ำ","ex":"He sells fruit at a stall in the market.","exTh":"เขาขายผลไม้ที่แผงในตลาด"}
+{"id":"ginger_noun","th":"ขิง; สีส้มแดง (ผม)","ex":"I drink ginger tea when I have a sore throat.","exTh":"ฉันดื่มชาขิงเวลาเจ็บคอ"}
+{"id":"teen_noun","th":"วัยรุ่น (13-19 ปี)","ex":"This show is popular with teens.","exTh":"รายการนี้เป็นที่นิยมในหมู่วัยรุ่น","note":"ย่อมาจาก teenager"}
+{"id":"gardening_noun","th":"การทำสวน; งานสวน","ex":"Gardening is a relaxing hobby for my mother.","exTh":"การทำสวนเป็นงานอดิเรกที่ทำให้แม่ของฉันผ่อนคลาย"}
+{"id":"thirst_verb","th":"กระหายน้ำ; ใฝ่ฝันอย่างยิ่ง","ex":"He thirsts for knowledge and reads every day.","exTh":"เขากระหายความรู้และอ่านหนังสือทุกวัน","note":"ภาษาทางการ/วรรณกรรม; มักใช้ thirst for"}
+{"id":"vet_noun","th":"สัตวแพทย์","ex":"I took my dog to the vet yesterday.","exTh":"เมื่อวานฉันพาสุนัขไปหาสัตวแพทย์"}
+{"id":"regain_verb","th":"ได้คืน; ฟื้นคืน","ex":"He slowly regained his strength after the illness.","exTh":"เขาค่อยๆ ฟื้นกำลังคืนมาหลังหายป่วย"}
+{"id":"defender_noun","th":"ผู้ปกป้อง; กองหลัง","ex":"The defender stopped the ball near the goal.","exTh":"กองหลังสกัดลูกบอลไว้ใกล้ประตู"}
+{"id":"englishman_noun","th":"ชายชาวอังกฤษ","ex":"An Englishman sat next to me on the train.","exTh":"ชายชาวอังกฤษคนหนึ่งนั่งข้างฉันบนรถไฟ"}
+{"id":"dusty_adj","th":"เต็มไปด้วยฝุ่น; เก่าเก็บ","ex":"The books on the old shelf were dusty.","exTh":"หนังสือบนชั้นเก่าเต็มไปด้วยฝุ่น"}
+{"id":"mustard_noun","th":"มัสตาร์ด; สีเหลืองมัสตาร์ด","ex":"Would you like mustard on your hot dog?","exTh":"คุณอยากได้มัสตาร์ดในฮอตดอกไหม"}
+{"id":"gall_noun","th":"ความกล้าหน้าด้านๆ; ความขมขื่น; ถุงน้ำดี","ex":"He had the gall to ask me for more money.","exTh":"เขามีหน้ามาขอเงินฉันเพิ่มอีก","note":"ความหมายนี้ใช้ในภาษาพูด มักใช้ the gall to ..."}
+{"id":"surround_verb","th":"ล้อมรอบ; โอบล้อม","ex":"Tall trees surround the little lake.","exTh":"ต้นไม้สูงล้อมรอบทะเลสาบเล็กๆ"}
+{"id":"actress_noun","th":"นักแสดงหญิง; นางเอก","ex":"The actress won an award for her new film.","exTh":"นักแสดงหญิงได้รับรางวัลจากภาพยนตร์เรื่องใหม่"}
+{"id":"piety_noun","th":"ความศรัทธา; ความเคร่งศาสนา","ex":"The monk was known for his piety.","exTh":"พระรูปนั้นเป็นที่รู้จักในเรื่องความศรัทธา","note":"ภาษาทางการ"}
+{"id":"terrified_adj","th":"หวาดกลัวมาก; ตกใจกลัวสุดขีด","ex":"I was terrified during the storm.","exTh":"ฉันกลัวสุดขีดตอนเกิดพายุ"}
+{"id":"butcher_noun","th":"คนขายเนื้อ; ร้านขายเนื้อ","ex":"We bought fresh beef from the butcher.","exTh":"เราซื้อเนื้อวัวสดจากร้านขายเนื้อ"}
+{"id":"bang_noun","th":"เสียงดังโครม; เสียงปัง","ex":"I heard a loud bang in the night.","exTh":"ฉันได้ยินเสียงดังปังตอนกลางคืน"}
+{"id":"bang_verb","th":"ทุบ; กระแทก; ปิดเสียงดัง","ex":"He banged on the door until I woke up.","exTh":"เขาทุบประตูจนฉันตื่น"}
+{"id":"fetch_verb","th":"ไปเอามา; ไปรับมา","ex":"Please fetch me a glass of water.","exTh":"ช่วยไปเอาน้ำมาให้ฉันหนึ่งแก้วหน่อย"}
+{"id":"preschool_adj","th":"ก่อนวัยเรียน; ระดับอนุบาล","ex":"My son is in preschool this year.","exTh":"ลูกชายของฉันเรียนระดับอนุบาลในปีนี้"}
+{"id":"turtle_noun","th":"เต่า; เต่าทะเล","ex":"A turtle slowly crossed the road.","exTh":"เต่าตัวหนึ่งค่อยๆ เดินข้ามถนน"}
+{"id":"unexpectedly_adv","th":"อย่างไม่คาดคิด; โดยไม่คาดฝัน","ex":"My cousin arrived unexpectedly last night.","exTh":"ลูกพี่ลูกน้องของฉันมาถึงโดยไม่คาดคิดเมื่อคืน"}
+{"id":"unwanted_adj","th":"ไม่ต้องการ; ไม่พึงประสงค์","ex":"I got an unwanted call from a stranger.","exTh":"ฉันได้รับสายที่ไม่พึงประสงค์จากคนแปลกหน้า"}
+{"id":"bald_adj","th":"หัวล้าน; โล้น","ex":"My uncle went bald when he was thirty.","exTh":"ลุงของฉันศีรษะล้านตั้งแต่อายุสามสิบ"}
+{"id":"freshman_noun","th":"นักศึกษาปีหนึ่ง; เด็กใหม่","ex":"She is a freshman at the university.","exTh":"เธอเป็นนักศึกษาปีหนึ่งของมหาวิทยาลัย","note":"ภาษาอเมริกัน"}
+{"id":"animation_noun","th":"แอนิเมชัน; ภาพเคลื่อนไหว; ความมีชีวิตชีวา","ex":"He works in animation for a film studio.","exTh":"เขาทำงานด้านแอนิเมชันให้สตูดิโอภาพยนตร์"}
+{"id":"mosquito_noun","th":"ยุง","ex":"A mosquito bit me on the arm.","exTh":"ยุงกัดฉันที่แขน"}
+{"id":"accidentally_adv","th":"โดยบังเอิญ; โดยไม่ได้ตั้งใจ","ex":"I accidentally deleted the file.","exTh":"ฉันเผลอลบไฟล์ไปโดยไม่ได้ตั้งใจ"}
+{"id":"unfit_adj","th":"ไม่เหมาะสม; สุขภาพไม่แข็งแรง","ex":"I'm unfit, so I get tired when I run.","exTh":"ฉันร่างกายไม่ฟิต พอวิ่งแล้วก็เหนื่อยง่าย"}
+{"id":"allergic_adj","th":"แพ้; เป็นภูมิแพ้","ex":"I am allergic to peanuts.","exTh":"ฉันแพ้ถั่วลิสง"}
+{"id":"runway_noun","th":"รันเวย์; ทางวิ่งเครื่องบิน; เวทีเดินแบบ","ex":"The plane landed on the long runway.","exTh":"เครื่องบินลงจอดบนรันเวย์ที่ยาว"}
+{"id":"handwriting_noun","th":"ลายมือ; การเขียนด้วยมือ","ex":"Her handwriting is neat and easy to read.","exTh":"ลายมือของเธอเป็นระเบียบและอ่านง่าย"}
+{"id":"dive_noun","th":"การดำน้ำ; การกระโดดน้ำ; การพุ่งลง","ex":"He took a deep dive off the boat.","exTh":"เขากระโดดดำน้ำลงลึกจากเรือ"}
+{"id":"dive_verb","th":"ดำน้ำ; กระโดดลงน้ำ; พุ่งลง","ex":"The children dived into the pool.","exTh":"เด็กๆ กระโดดลงสระน้ำ","note":"รูปอดีตคือ dived (อังกฤษ) หรือ dove (อเมริกัน)"}
+{"id":"knit_verb","th":"ถักไหมพรม; ถัก","ex":"My grandmother knits a scarf every winter.","exTh":"คุณยายของฉันถักผ้าพันคอทุกฤดูหนาว"}
+{"id":"lessen_verb","th":"ลดลง; บรรเทา; ทำให้น้อยลง","ex":"This medicine will lessen the pain.","exTh":"ยานี้จะช่วยบรรเทาอาการปวด"}
+{"id":"spoil_verb","th":"ทำให้เสีย; ตามใจจนเสียนิสัย; บูดเน่า","ex":"The rain spoiled our picnic.","exTh":"ฝนทำให้ปิกนิกของเราเสียหมด"}
+{"id":"hearty_adj","th":"อบอุ่นจริงใจ; หนักท้อง (อาหาร); เต็มที่","ex":"We had a hearty breakfast before the hike.","exTh":"เรากินอาหารเช้ามื้อใหญ่ก่อนเดินป่า"}
+{"id":"impair_verb","th":"ทำให้เสื่อมถอย; ทำให้บกพร่อง","ex":"Loud noise can impair your hearing.","exTh":"เสียงดังอาจทำให้การได้ยินของคุณเสื่อมลง","note":"ภาษาทางการ"}
+{"id":"mule_noun","th":"ล่อ (ลูกผสมม้ากับลา)","ex":"The farmer used a mule to carry the bags.","exTh":"ชาวนาใช้ล่อบรรทุกถุงสัมภาระ"}
+{"id":"extinct_adj","th":"สูญพันธุ์; ที่ดับสูญแล้ว","ex":"Dinosaurs became extinct millions of years ago.","exTh":"ไดโนเสาร์สูญพันธุ์ไปเมื่อหลายล้านปีก่อน"}
+{"id":"helmet_noun","th":"หมวกกันน็อก; หมวกนิรภัย","ex":"Always wear a helmet when you ride a bike.","exTh":"สวมหมวกกันน็อกทุกครั้งเมื่อขี่จักรยาน"}
+{"id":"lottery_noun","th":"ลอตเตอรี่; สลากกินแบ่ง; การจับสลาก","ex":"He won money in the lottery last week.","exTh":"สัปดาห์ก่อนเขาถูกลอตเตอรี่"}
+{"id":"stubborn_adj","th":"ดื้อ; ดื้อรั้น; หัวแข็ง","ex":"My grandfather is stubborn and never changes his mind.","exTh":"คุณปู่ของฉันหัวแข็งและไม่เคยเปลี่ยนใจ"}
+{"id":"yoga_noun","th":"โยคะ","ex":"I do yoga at home every morning.","exTh":"ฉันเล่นโยคะที่บ้านทุกเช้า"}
+{"id":"annoyed_adj","th":"หงุดหงิด; รำคาญ","ex":"She was annoyed because he was late again.","exTh":"เธอหงุดหงิดที่เขามาสายอีกแล้ว"}

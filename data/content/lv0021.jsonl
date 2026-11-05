@@ -1,0 +1,100 @@
+{"id":"surprising_adj","th":"น่าประหลาดใจ; น่าแปลกใจ","ex":"It is not surprising that she won.","exTh":"ไม่น่าแปลกใจเลยที่เธอชนะ"}
+{"id":"harvest_noun","th":"การเก็บเกี่ยว; ผลผลิต; ฤดูเก็บเกี่ยว","ex":"The rice harvest was good this year.","exTh":"ปีนี้เก็บเกี่ยวข้าวได้ผลผลิตดี"}
+{"id":"intelligent_adj","th":"ฉลาด; มีปัญญา; เฉลียวฉลาด","ex":"She is a very intelligent student.","exTh":"เธอเป็นนักเรียนที่ฉลาดมาก"}
+{"id":"container_noun","th":"ภาชนะ; กล่อง; ตู้คอนเทนเนอร์","ex":"Put the leftover food in a container.","exTh":"เอาอาหารที่เหลือใส่กล่องเก็บไว้"}
+{"id":"flour_noun","th":"แป้ง; แป้งสาลี","ex":"We need flour and eggs to bake a cake.","exTh":"เราต้องใช้แป้งกับไข่เพื่ออบเค้ก"}
+{"id":"anxious_adj","th":"กังวล; วิตก; กระวนกระวาย","ex":"I felt anxious before the test.","exTh":"ฉันรู้สึกกังวลก่อนสอบ"}
+{"id":"explore_verb","th":"สำรวจ; ค้นหา; ศึกษา","ex":"We want to explore the old town.","exTh":"เราอยากสำรวจเมืองเก่า"}
+{"id":"fortune_noun","th":"โชคชะตา; โชค; โชคลาภ; ทรัพย์สมบัติ","ex":"He made a fortune selling coffee.","exTh":"เขาร่ำรวยจากการขายกาแฟ"}
+{"id":"singing_noun","th":"การร้องเพลง; เสียงร้อง","ex":"Her singing makes everyone happy.","exTh":"การร้องเพลงของเธอทำให้ทุกคนมีความสุข"}
+{"id":"classic_adj","th":"คลาสสิก; ยอดเยี่ยมตลอดกาล; ดั้งเดิม","ex":"This is a classic film from the 1960s.","exTh":"นี่เป็นหนังคลาสสิกจากยุค 1960"}
+{"id":"hero_noun","th":"วีรบุรุษ; ฮีโร่; ตัวเอก","ex":"The firefighter is a hero in our town.","exTh":"พนักงานดับเพลิงคนนั้นเป็นวีรบุรุษของเมืองเรา"}
+{"id":"fix_noun","th":"วิธีแก้ไข; การแก้ไข; การซ่อม","ex":"There is no quick fix for this problem.","exTh":"ปัญหานี้ไม่มีวิธีแก้ง่ายๆ ในทันที"}
+{"id":"photograph_noun","th":"ภาพถ่าย; รูปถ่าย","ex":"She keeps an old photograph of her family.","exTh":"เธอเก็บรูปถ่ายเก่าของครอบครัวไว้"}
+{"id":"meter_noun","th":"เมตร; เครื่องวัด; มาตรวัด","ex":"The pool is twenty-five meters long.","exTh":"สระว่ายน้ำยาวยี่สิบห้าเมตร","note":"สะกดแบบอเมริกัน; แบบอังกฤษคือ metre"}
+{"id":"tie_noun","th":"เนคไท; เชือก; ผลเสมอ","ex":"He wears a tie to work every day.","exTh":"เขาผูกเนคไทไปทำงานทุกวัน"}
+{"id":"entertainment_noun","th":"ความบันเทิง; การแสดงบันเทิง","ex":"The hotel has live entertainment every night.","exTh":"โรงแรมมีการแสดงสดทุกคืน"}
+{"id":"pink_noun","th":"สีชมพู","ex":"She painted her room pink.","exTh":"เธอทาห้องเป็นสีชมพู"}
+{"id":"hunter_noun","th":"นักล่า; นายพราน","ex":"The hunter walked through the forest.","exTh":"นายพรานเดินผ่านป่า"}
+{"id":"portrait_noun","th":"ภาพเหมือน; ภาพวาดบุคคล; ภาพถ่ายบุคคล","ex":"There is a portrait of a king on the wall.","exTh":"มีภาพเหมือนของกษัตริย์แขวนอยู่บนผนัง"}
+{"id":"cooking_noun","th":"การทำอาหาร; อาหารที่ปรุง","ex":"My mother's cooking is the best.","exTh":"อาหารฝีมือแม่ของฉันอร่อยที่สุด"}
+{"id":"lamp_noun","th":"โคมไฟ; ตะเกียง","ex":"Turn on the lamp next to the bed.","exTh":"เปิดโคมไฟข้างเตียงหน่อย"}
+{"id":"mood_noun","th":"อารมณ์; ความรู้สึก; บรรยากาศ","ex":"She is in a good mood today.","exTh":"วันนี้เธออารมณ์ดี"}
+{"id":"convenience_noun","th":"ความสะดวก; สิ่งอำนวยความสะดวก","ex":"I like the convenience of online shopping.","exTh":"ฉันชอบความสะดวกของการซื้อของออนไลน์"}
+{"id":"somebody_pron","th":"บางคน; ใครสักคน","ex":"Somebody left a bag on the bus.","exTh":"มีใครสักคนลืมกระเป๋าไว้บนรถเมล์"}
+{"id":"succeed_verb","th":"ประสบความสำเร็จ; สำเร็จ; สืบต่อ","ex":"If you work hard, you will succeed.","exTh":"ถ้าคุณตั้งใจทำงาน คุณจะประสบความสำเร็จ"}
+{"id":"sandy_adj","th":"เป็นทราย; เต็มไปด้วยทราย; สีทราย","ex":"We walked along the sandy beach.","exTh":"เราเดินไปตามชายหาดทราย"}
+{"id":"unfair_adj","th":"ไม่ยุติธรรม; ไม่เป็นธรรม","ex":"It is unfair to give him all the work.","exTh":"ไม่ยุติธรรมเลยที่ให้งานทั้งหมดกับเขา"}
+{"id":"uncertain_adj","th":"ไม่แน่นอน; ไม่แน่ใจ; ไม่ชัดเจน","ex":"The future is uncertain.","exTh":"อนาคตไม่แน่นอน"}
+{"id":"physically_adv","th":"ทางกายภาพ; ทางร่างกาย","ex":"The job is physically hard.","exTh":"งานนี้หนักทางร่างกาย"}
+{"id":"pursue_verb","th":"ไล่ตาม; แสวงหา; ติดตามเป้าหมาย","ex":"She wants to pursue a career in music.","exTh":"เธออยากทำงานด้านดนตรีเป็นอาชีพ"}
+{"id":"badly_adv","th":"แย่; ไม่ดี; อย่างมาก","ex":"I slept badly last night.","exTh":"เมื่อคืนฉันนอนไม่ค่อยหลับ"}
+{"id":"marry_verb","th":"แต่งงาน; แต่งงานกับ","ex":"They plan to marry next spring.","exTh":"พวกเขาวางแผนจะแต่งงานฤดูใบไม้ผลิหน้า"}
+{"id":"continent_noun","th":"ทวีป","ex":"Asia is the largest continent.","exTh":"เอเชียเป็นทวีปที่ใหญ่ที่สุด"}
+{"id":"divide_verb","th":"แบ่ง; หาร; แยก","ex":"Divide the cake into eight pieces.","exTh":"แบ่งเค้กออกเป็นแปดชิ้น"}
+{"id":"invention_noun","th":"สิ่งประดิษฐ์; การประดิษฐ์","ex":"The telephone was a great invention.","exTh":"โทรศัพท์เป็นสิ่งประดิษฐ์ที่ยอดเยี่ยม"}
+{"id":"quietly_adv","th":"อย่างเงียบๆ; อย่างสงบ","ex":"Please close the door quietly.","exTh":"กรุณาปิดประตูเบาๆ"}
+{"id":"brilliant_adj","th":"ยอดเยี่ยม; เฉลียวฉลาด; สว่างจ้า","ex":"That is a brilliant idea!","exTh":"นั่นเป็นความคิดที่ยอดเยี่ยมมาก"}
+{"id":"pack_noun","th":"แพ็ก; ห่อ; กระเป๋าเป้","ex":"I bought a pack of gum.","exTh":"ฉันซื้อหมากฝรั่งมาหนึ่งแพ็ก"}
+{"id":"pack_verb","th":"เก็บของ; จัดกระเป๋า; บรรจุ","ex":"I need to pack my bag for the trip.","exTh":"ฉันต้องจัดกระเป๋าสำหรับการเดินทาง"}
+{"id":"hate_verb","th":"เกลียด; ไม่ชอบมาก","ex":"I hate waking up early.","exTh":"ฉันเกลียดการตื่นเช้า"}
+{"id":"confused_adj","th":"สับสน; งง","ex":"I was confused by the instructions.","exTh":"ฉันงงกับคำแนะนำพวกนี้"}
+{"id":"slide_noun","th":"สไลด์; กระดานลื่น; การลื่นไถล","ex":"The children played on the slide.","exTh":"เด็กๆ เล่นกระดานลื่น"}
+{"id":"diamond_noun","th":"เพชร; ข้าวหลามตัด","ex":"She wore a ring with a small diamond.","exTh":"เธอสวมแหวนเพชรเม็ดเล็ก"}
+{"id":"harmony_noun","th":"ความกลมกลืน; ความสามัคคี; เสียงประสาน","ex":"They live together in harmony.","exTh":"พวกเขาอยู่ร่วมกันอย่างสามัคคี"}
+{"id":"communicate_verb","th":"สื่อสาร; ติดต่อ; บอกกล่าว","ex":"We communicate by email every day.","exTh":"เราติดต่อกันทางอีเมลทุกวัน"}
+{"id":"mystery_noun","th":"เรื่องลึกลับ; ปริศนา; นิยายสืบสวน","ex":"The missing key is still a mystery.","exTh":"กุญแจที่หายไปยังคงเป็นปริศนา"}
+{"id":"bench_noun","th":"ม้านั่ง; ม้ายาว","ex":"We sat on a bench in the park.","exTh":"เรานั่งบนม้านั่งในสวนสาธารณะ"}
+{"id":"gentle_adj","th":"อ่อนโยน; นุ่มนวล; เบา","ex":"He is a gentle man with children.","exTh":"เขาเป็นคนอ่อนโยนกับเด็กๆ"}
+{"id":"tonight_noun","th":"คืนนี้; ค่ำคืนนี้","ex":"Tonight is going to be cold.","exTh":"คืนนี้จะหนาว"}
+{"id":"rush_noun","th":"ความเร่งรีบ; การรีบเร่ง; การหลั่งไหล","ex":"There is always a rush at lunchtime.","exTh":"ตอนพักเที่ยงมักเร่งรีบเสมอ"}
+{"id":"concentrate_verb","th":"มีสมาธิ; ตั้งใจ; รวมศูนย์","ex":"It is hard to concentrate with this noise.","exTh":"มีสมาธิยากเพราะเสียงดังแบบนี้"}
+{"id":"grateful_adj","th":"ซาบซึ้งใจ; กตัญญู; รู้สึกขอบคุณ","ex":"I am grateful for your help.","exTh":"ฉันรู้สึกขอบคุณสำหรับความช่วยเหลือของคุณ"}
+{"id":"burn_noun","th":"แผลไฟไหม้; รอยไหม้; แผลพุพอง","ex":"She has a small burn on her hand.","exTh":"เธอมีแผลไหม้เล็กๆ ที่มือ"}
+{"id":"cheap_adj","th":"ถูก; ราคาถูก; คุณภาพต่ำ","ex":"This shirt was very cheap.","exTh":"เสื้อตัวนี้ราคาถูกมาก"}
+{"id":"blame_verb","th":"โทษ; ตำหนิ; กล่าวโทษ","ex":"Don't blame him for the mistake.","exTh":"อย่าโทษเขาสำหรับความผิดพลาดนั้น"}
+{"id":"honey_noun","th":"น้ำผึ้ง; ที่รัก","ex":"I put honey in my tea.","exTh":"ฉันใส่น้ำผึ้งลงในชา"}
+{"id":"mad_adj","th":"โกรธ; บ้า; หัวเสีย","ex":"My mom was mad because I came home late.","exTh":"แม่โกรธเพราะฉันกลับบ้านดึก","note":"แบบอเมริกันใช้ว่า โกรธ; แบบอังกฤษมักหมายถึง บ้า"}
+{"id":"prediction_noun","th":"การพยากรณ์; การคาดการณ์; คำทำนาย","ex":"His prediction about the game was right.","exTh":"การคาดการณ์ของเขาเกี่ยวกับเกมนั้นถูกต้อง"}
+{"id":"peaceful_adj","th":"สงบ; เงียบสงบ; รักสงบ","ex":"The lake is quiet and peaceful.","exTh":"ทะเลสาบเงียบและสงบ"}
+{"id":"romantic_adj","th":"โรแมนติก; เกี่ยวกับความรัก","ex":"They had a romantic dinner by the sea.","exTh":"พวกเขาทานอาหารเย็นสุดโรแมนติกริมทะเล"}
+{"id":"atom_noun","th":"อะตอม; ปรมาณู","ex":"An atom is a very small particle.","exTh":"อะตอมเป็นอนุภาคที่เล็กมาก"}
+{"id":"wedding_noun","th":"งานแต่งงาน; พิธีสมรส","ex":"We are going to a wedding on Saturday.","exTh":"วันเสาร์เราจะไปงานแต่งงาน"}
+{"id":"affair_noun","th":"เรื่อง; กิจการ; ความสัมพันธ์ลับ","ex":"That is a private affair.","exTh":"นั่นเป็นเรื่องส่วนตัว"}
+{"id":"drill_noun","th":"สว่าน; การฝึกซ้อม; แบบฝึกหัด","ex":"He used a drill to make a hole in the wall.","exTh":"เขาใช้สว่านเจาะรูที่ผนัง"}
+{"id":"adjust_verb","th":"ปรับ; ปรับตัว; ปรับแต่ง","ex":"You can adjust the seat height.","exTh":"คุณปรับความสูงของเบาะได้"}
+{"id":"basically_adv","th":"โดยพื้นฐาน; โดยสรุป; เอาเป็นว่า","ex":"Basically, the plan is simple.","exTh":"โดยสรุปแล้ว แผนนี้ไม่ซับซ้อน"}
+{"id":"predict_verb","th":"ทำนาย; คาดการณ์; พยากรณ์","ex":"No one can predict the weather exactly.","exTh":"ไม่มีใครพยากรณ์อากาศได้แม่นยำเป๊ะ"}
+{"id":"worried_adj","th":"กังวล; เป็นห่วง; วิตก","ex":"I'm worried about my exam results.","exTh":"ฉันกังวลเรื่องผลสอบของฉัน"}
+{"id":"gather_verb","th":"รวบรวม; ชุมนุม; เก็บ","ex":"People gathered in the square.","exTh":"ผู้คนมารวมตัวกันที่ลานกว้าง"}
+{"id":"stamp_noun","th":"แสตมป์; ตราประทับ","ex":"I need a stamp for this letter.","exTh":"ฉันต้องใช้แสตมป์ติดจดหมายฉบับนี้"}
+{"id":"pile_noun","th":"กอง; ปึก; จำนวนมาก","ex":"There is a pile of clothes on the bed.","exTh":"มีกองเสื้อผ้าอยู่บนเตียง"}
+{"id":"earn_verb","th":"หาเงิน; ได้รับ; สมควรได้รับ","ex":"She earns a good salary.","exTh":"เธอได้เงินเดือนดี"}
+{"id":"worldwide_adv","th":"ทั่วโลก; ทั่วโลกนี้","ex":"The game is sold worldwide.","exTh":"เกมนี้ขายทั่วโลก"}
+{"id":"publish_verb","th":"ตีพิมพ์; เผยแพร่; จัดพิมพ์","ex":"The company will publish her book next year.","exTh":"บริษัทจะตีพิมพ์หนังสือของเธอปีหน้า"}
+{"id":"shade_noun","th":"ร่มเงา; ที่ร่ม; เฉดสี","ex":"We sat in the shade of a big tree.","exTh":"เรานั่งอยู่ในร่มเงาของต้นไม้ใหญ่"}
+{"id":"shoot_verb","th":"ยิง; ถ่าย (ภาพ); พุ่ง","ex":"They will shoot the film in Chiang Mai.","exTh":"พวกเขาจะถ่ายหนังเรื่องนี้ที่เชียงใหม่","note":"shot, shot"}
+{"id":"angel_noun","th":"เทวดา; นางฟ้า; คนใจดี","ex":"The little girl dressed as an angel.","exTh":"เด็กหญิงแต่งตัวเป็นนางฟ้า"}
+{"id":"advise_verb","th":"แนะนำ; ให้คำปรึกษา; แจ้ง","ex":"The doctor advised me to rest.","exTh":"หมอแนะนำให้ฉันพักผ่อน"}
+{"id":"differently_adv","th":"แตกต่างออกไป; ต่างกัน","ex":"Everyone thinks differently about this.","exTh":"ทุกคนคิดเรื่องนี้ไม่เหมือนกัน"}
+{"id":"talent_noun","th":"พรสวรรค์; ความสามารถพิเศษ","ex":"She has a talent for painting.","exTh":"เธอมีพรสวรรค์ด้านการวาดภาพ"}
+{"id":"insect_noun","th":"แมลง","ex":"An insect flew into the room.","exTh":"แมลงตัวหนึ่งบินเข้ามาในห้อง"}
+{"id":"rope_noun","th":"เชือก; เชือกหนา","ex":"He tied the boat with a strong rope.","exTh":"เขาผูกเรือไว้ด้วยเชือกเส้นแข็งแรง"}
+{"id":"menu_noun","th":"เมนู; รายการอาหาร","ex":"Can I see the menu, please?","exTh":"ขอดูเมนูหน่อยได้ไหมครับ"}
+{"id":"fancy_adj","th":"หรูหรา; วิจิตร; ประณีต","ex":"We ate at a fancy restaurant.","exTh":"เรากินข้าวที่ร้านอาหารหรูๆ"}
+{"id":"verb_noun","th":"กริยา; คำกริยา","ex":"\"Run\" is a verb.","exTh":"\"Run\" เป็นคำกริยา"}
+{"id":"pour_verb","th":"เท; รินใส่; หลั่ง","ex":"Pour some water into the glass.","exTh":"รินน้ำใส่แก้วหน่อย"}
+{"id":"handicapped_adj","th":"พิการ; มีความบกพร่อง","ex":"The building has a ramp for handicapped visitors.","exTh":"อาคารมีทางลาดสำหรับผู้มาเยือนที่พิการ","note":"คำเก่า บางคนมองว่าไม่สุภาพ ปัจจุบันนิยมใช้ disabled"}
+{"id":"organize_verb","th":"จัดระเบียบ; จัดงาน; วางแผน","ex":"She organized a party for her friend.","exTh":"เธอจัดปาร์ตี้ให้เพื่อน"}
+{"id":"audio_adj","th":"เกี่ยวกับเสียง; ทางเสียง","ex":"The audio quality of this video is poor.","exTh":"คุณภาพเสียงของวิดีโอนี้ไม่ดี"}
+{"id":"alarm_noun","th":"สัญญาณเตือน; นาฬิกาปลุก; เสียงเตือนภัย","ex":"The fire alarm rang loudly.","exTh":"สัญญาณเตือนไฟไหม้ดังลั่น"}
+{"id":"trap_noun","th":"กับดัก; การหลอกล่อ","ex":"The mouse was caught in a trap.","exTh":"หนูติดกับดัก"}
+{"id":"planet_noun","th":"ดาวเคราะห์; ดาว","ex":"Earth is the planet we live on.","exTh":"โลกคือดาวเคราะห์ที่เราอาศัยอยู่"}
+{"id":"confident_adj","th":"มั่นใจ; เชื่อมั่นในตัวเอง","ex":"I feel confident about the interview.","exTh":"ฉันรู้สึกมั่นใจเรื่องการสัมภาษณ์"}
+{"id":"maker_noun","th":"ผู้ผลิต; ผู้สร้าง; เครื่องทำ","ex":"This coffee maker is easy to use.","exTh":"เครื่องชงกาแฟนี้ใช้ง่าย"}
+{"id":"stranger_noun","th":"คนแปลกหน้า; คนไม่รู้จัก","ex":"Don't talk to strangers.","exTh":"อย่าคุยกับคนแปลกหน้า"}
+{"id":"fence_noun","th":"รั้ว","ex":"There is a white fence around the garden.","exTh":"มีรั้วสีขาวล้อมสวนอยู่"}
+{"id":"bend_verb","th":"งอ; โค้ง; ก้ม","ex":"Bend your knees when you lift a box.","exTh":"งอเข่าเวลายกกล่อง"}
+{"id":"printer_noun","th":"เครื่องพิมพ์; เครื่องปริ้นท์","ex":"The printer is out of paper.","exTh":"เครื่องพิมพ์กระดาษหมด"}
+{"id":"purple_adj","th":"สีม่วง","ex":"She wore a purple dress to the party.","exTh":"เธอสวมชุดสีม่วงไปงานปาร์ตี้"}
+{"id":"creature_noun","th":"สิ่งมีชีวิต; สัตว์; ตัวประหลาด","ex":"The sea is home to many strange creatures.","exTh":"ทะเลเป็นที่อยู่ของสิ่งมีชีวิตประหลาดมากมาย"}

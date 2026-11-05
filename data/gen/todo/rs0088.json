@@ -1,0 +1,861 @@
+[
+{
+"id": "sob-story_idiom",
+"w": "sob story",
+"kind": "idiom",
+"gloss": [
+"A sad story, especially one intended to elicit sympathy."
+]
+},
+{
+"id": "wait-on-someone-hand-and-foot_idiom",
+"w": "wait on someone hand and foot",
+"kind": "idiom",
+"gloss": [
+"To attend to (someone's) every need, to the point of excess."
+]
+},
+{
+"id": "boot-camp_idiom",
+"w": "boot camp",
+"kind": "idiom",
+"gloss": [
+"An initial, basic indoctrination, physical fitness training and basic instruction in service-related subjects for new recruits in the armed forces (army, Air Force, navy and Marine Corps).",
+"A short, intensive, quasi-military program generally aimed at young offenders as an alternative to a jail term.",
+"Any short, often intensive course of training."
+]
+},
+{
+"id": "stay-put_idiom",
+"w": "stay put",
+"kind": "idiom",
+"gloss": [
+"To remain in one fixed place"
+]
+},
+{
+"id": "on-the-wagon_idiom",
+"w": "on the wagon",
+"kind": "idiom",
+"gloss": [
+"Abstaining from drinking any alcoholic drink, usually in the sense of having given it up (as opposed to never having partaken); teetotal.",
+"Maintaining a program of self-improvement or abstinence from some other undesirable habit.",
+"Used other than figuratively or idiomatically: see on, the, wagon."
+]
+},
+{
+"id": "my-foot_idiom",
+"w": "my foot",
+"kind": "idiom",
+"gloss": [
+"Indicates disapproval, disregard, disdain, disgust or disbelief.",
+"Used other than figuratively or idiomatically: see my, foot."
+]
+},
+{
+"id": "elbow-grease_idiom",
+"w": "elbow grease",
+"kind": "idiom",
+"gloss": [
+"Effort or hard work, especially physical work involving repeated motion of the forearm, such as scrubbing."
+]
+},
+{
+"id": "act-one-s-age_idiom",
+"w": "act one's age",
+"kind": "idiom",
+"gloss": [
+"To behave in a manner appropriate to one's age.",
+"To behave in a mature manner; to avoid being childish."
+]
+},
+{
+"id": "at-one-s-fingertips_idiom",
+"w": "at one's fingertips",
+"kind": "idiom",
+"gloss": [
+"Readily available."
+]
+},
+{
+"id": "at-a-loss-for-words_idiom",
+"w": "at a loss for words",
+"kind": "idiom",
+"gloss": [
+"Having nothing to say; not knowing what to say; stunned to the point of being speechless."
+]
+},
+{
+"id": "old-saw_idiom",
+"w": "old saw",
+"kind": "idiom",
+"gloss": [
+"A cliché, saying, or overused expression, especially a proverb or maxim."
+]
+},
+{
+"id": "from-the-ground-up_idiom",
+"w": "from the ground up",
+"kind": "idiom",
+"gloss": [
+"From the beginning; starting with the basics, foundation, or fundamentals."
+]
+},
+{
+"id": "see-eye-to-eye_idiom",
+"w": "see eye to eye",
+"kind": "idiom",
+"gloss": [
+"To agree, especially in every respect; to concur; to get along."
+]
+},
+{
+"id": "don-t-hold-your-breath_idiom",
+"w": "don't hold your breath",
+"kind": "idiom",
+"gloss": [
+"Don't wait. Said cynically to suggest that what has just been mentioned is unlikely to happen soon or at all."
+]
+},
+{
+"id": "birds-and-bees_idiom",
+"w": "birds and bees",
+"kind": "idiom",
+"gloss": [
+"Informal education about sex.",
+"Informal (by analogy) sex itself."
+]
+},
+{
+"id": "top-it-off_idiom",
+"w": "top it off",
+"kind": "idiom",
+"gloss": [
+"To emphasize or underscore; to make something even better or worse."
+]
+},
+{
+"id": "touch-base_idiom",
+"w": "touch base",
+"kind": "idiom",
+"gloss": [
+"To touch a base, usually with a foot but sometimes with a hand.",
+"To meet or make contact with someone, usually to consult, review, visit, or communicate."
+]
+},
+{
+"id": "give-the-time-of-day_idiom",
+"w": "give the time of day",
+"kind": "idiom",
+"gloss": [
+"To acknowledge someone; to give someone respect or attention; to tip one's hat.",
+"To not acknowledge someone; to snub someone; to disrespect someone; to ignore someone."
+]
+},
+{
+"id": "over-and-out_idiom",
+"w": "over and out",
+"kind": "idiom",
+"gloss": [
+"A fictitious proword used to end a conversation over push-to-talk radio."
+]
+},
+{
+"id": "hem-and-haw_idiom",
+"w": "hem and haw",
+"kind": "idiom",
+"gloss": [
+"To discuss, deliberate, or contemplate rather than taking action or making up one's mind.",
+"To mumble and procrastinate in one's speech, especially with a reply to a hard question or with voicing a decision on a topical matter; to evade a question, giving vague answers; to equivocate or temporize."
+]
+},
+{
+"id": "take-liberties_idiom",
+"w": "take liberties",
+"kind": "idiom",
+"gloss": [
+"To act on one's own authority, without asking for permission.",
+"To behave disrespectfully, especially to make unwanted sexual advances."
+]
+},
+{
+"id": "stand-corrected_idiom",
+"w": "stand corrected",
+"kind": "idiom",
+"gloss": [
+"To acknowledge, after someone else's correction of a statement one made, that this statement was indeed incorrect and that this correction is justified."
+]
+},
+{
+"id": "rub-someone-the-wrong-way_idiom",
+"w": "rub someone the wrong way",
+"kind": "idiom",
+"gloss": [
+"To cause someone irritation, discomfort or annoyance, often unintentionally, because of one's behavior, manner, attitude or personality."
+]
+},
+{
+"id": "throw-down-the-gauntlet_idiom",
+"w": "throw down the gauntlet",
+"kind": "idiom",
+"gloss": [
+"To issue a challenge."
+]
+},
+{
+"id": "to-the-fore_idiom",
+"w": "to the fore",
+"kind": "idiom",
+"gloss": [
+"In, into, or towards a prominent position."
+]
+},
+{
+"id": "bogged-down_idiom",
+"w": "bogged down",
+"kind": "idiom",
+"gloss": [
+"Stuck, as if in a bog.",
+"Stuck; mired, as in detail, difficulty; delayed or made slower."
+]
+},
+{
+"id": "give-and-take_idiom",
+"w": "give and take",
+"kind": "idiom",
+"gloss": [
+"A process of compromise or accommodation."
+]
+},
+{
+"id": "for-the-birds_idiom",
+"w": "for the birds",
+"kind": "idiom",
+"gloss": [
+"Not deserving serious consideration; unimportant; useless, worthless."
+]
+},
+{
+"id": "throw-a-spanner-in-the-works_idiom",
+"w": "throw a spanner in the works",
+"kind": "idiom",
+"gloss": [
+"To introduce a problem, dilemma or obstacle, something unexpected or troublesome."
+]
+},
+{
+"id": "clear-the-air_idiom",
+"w": "clear the air",
+"kind": "idiom",
+"gloss": [
+"To assuage a hostile or uncomfortable situation."
+]
+},
+{
+"id": "out-of-the-loop_idiom",
+"w": "out of the loop",
+"kind": "idiom",
+"gloss": [
+"Not informed, up-to-date, or current; not included in a process or discussion."
+]
+},
+{
+"id": "breath-of-fresh-air_idiom",
+"w": "breath of fresh air",
+"kind": "idiom",
+"gloss": [
+"Something relieving, refreshing, or new."
+]
+},
+{
+"id": "all-the-rage_idiom",
+"w": "all the rage",
+"kind": "idiom",
+"gloss": [
+"Very fashionable and popular, like a craze."
+]
+},
+{
+"id": "there-and-back_idiom",
+"w": "there and back",
+"kind": "idiom",
+"gloss": [
+"On or for a round trip journey, literal or figurative."
+]
+},
+{
+"id": "have-it-coming_idiom",
+"w": "have it coming",
+"kind": "idiom",
+"gloss": [
+"To deserve or merit, as the consequences of one's actions."
+]
+},
+{
+"id": "out-of-bounds_idiom",
+"w": "out of bounds",
+"kind": "idiom",
+"gloss": [
+"Where one is prohibited to enter.",
+"Beyond the bounds of civility, morality, or normality.",
+"Outside the area of play; beyond the sideline of a playing field or court."
+]
+},
+{
+"id": "talk-someone-s-ear-off_idiom",
+"w": "talk someone's ear off",
+"kind": "idiom",
+"gloss": [
+"To talk to someone excessively, or far more than is wanted or appreciated."
+]
+},
+{
+"id": "know-inside-and-out_idiom",
+"w": "know inside and out",
+"kind": "idiom",
+"gloss": [
+"To know (something or someone) very thoroughly."
+]
+},
+{
+"id": "one-trick-pony_idiom",
+"w": "one-trick pony",
+"kind": "idiom",
+"gloss": [
+"A performing animal (especially a pony) that knows only one trick.",
+"A person or group noteworthy for only a single achievement, skill, or characteristic."
+]
+},
+{
+"id": "throw-money-away_idiom",
+"w": "throw money away",
+"kind": "idiom",
+"gloss": [
+"To spend money foolishly or indiscriminately; to waste money without regard of the consequences."
+]
+},
+{
+"id": "attention-whore_idiom",
+"w": "attention whore",
+"kind": "idiom",
+"gloss": [
+"A person who routinely solicits attention through inappropriate tactics and provocation."
+]
+},
+{
+"id": "bust-one-s-butt_idiom",
+"w": "bust one's butt",
+"kind": "idiom",
+"gloss": [
+"To work exceptionally hard."
+]
+},
+{
+"id": "round-the-bend_idiom",
+"w": "round the bend",
+"kind": "idiom",
+"gloss": [
+"Crazy, mad or insane.",
+"Close to or in close proximity to another location.",
+"Used other than figuratively or idiomatically: see round, bend."
+]
+},
+{
+"id": "and-then-some_idiom",
+"w": "and then some",
+"kind": "idiom",
+"gloss": [
+"Used to confirm preceding utterance, while implying that what was said or asked is an understatement."
+]
+},
+{
+"id": "go-fly-a-kite_idiom",
+"w": "go fly a kite",
+"kind": "idiom",
+"gloss": [
+"To go away; get lost; leave."
+]
+},
+{
+"id": "put-to-the-test_idiom",
+"w": "put to the test",
+"kind": "idiom",
+"gloss": [
+"To test (something or someone); to evaluate, scrutinize or explore by testing or experimentation."
+]
+},
+{
+"id": "haul-ass_idiom",
+"w": "haul ass",
+"kind": "idiom",
+"gloss": [
+"To hurry; to move quickly, especially to leave.",
+"To carry a heavy load for a long distance."
+]
+},
+{
+"id": "stone-cold_idiom",
+"w": "stone cold",
+"kind": "idiom",
+"gloss": [
+"Very cold (literally); lacking any semblance of warmth.",
+"Lacking emotion or compassion.",
+"Certain; definite; obvious."
+]
+},
+{
+"id": "magic-bullet_idiom",
+"w": "magic bullet",
+"kind": "idiom",
+"gloss": [
+"A simple remedy for a difficult or complex problem, especially a cure for a disease."
+]
+},
+{
+"id": "bad-egg_idiom",
+"w": "bad egg",
+"kind": "idiom",
+"gloss": [
+"Someone whose behaviour is reprehensible or irresponsible; a rogue.",
+"An egg that has gone bad; a rotten egg."
+]
+},
+{
+"id": "many-happy-returns_idiom",
+"w": "many happy returns",
+"kind": "idiom",
+"gloss": [
+"A greeting, usually for birthdays, in reference to the passing year. Happy birthday!"
+]
+},
+{
+"id": "thick-and-thin_idiom",
+"w": "thick and thin",
+"kind": "idiom",
+"gloss": [
+"Both thickets and thin woodland; all obstacles in a path (including bad weather).",
+"Both good and bad times."
+]
+},
+{
+"id": "feet-of-clay_idiom",
+"w": "feet of clay",
+"kind": "idiom",
+"gloss": [
+"In someone apparently strong and without failings, a hidden weakness which could lead to downfall."
+]
+},
+{
+"id": "worth-one-s-salt_idiom",
+"w": "worth one's salt",
+"kind": "idiom",
+"gloss": [
+"Adept or competent, especially at one's occupation."
+]
+},
+{
+"id": "go-public_idiom",
+"w": "go public",
+"kind": "idiom",
+"gloss": [
+"To make something public; to announce publicly or to the press.",
+"To launch an initial public offering."
+]
+},
+{
+"id": "cry-one-s-eyes-out_idiom",
+"w": "cry one's eyes out",
+"kind": "idiom",
+"gloss": [
+"To weep for an elongated time, or in an excessive manner."
+]
+},
+{
+"id": "widow-s-mite_idiom",
+"w": "widow's mite",
+"kind": "idiom",
+"gloss": [
+"A very small gift or donation which, however, represents a great sacrifice on the part of the giver.",
+"The lepton coin."
+]
+},
+{
+"id": "x-factor_idiom",
+"w": "X factor",
+"kind": "idiom",
+"gloss": [
+"An unknown or hard-to-define influence; a factor with unknown or unforeseeable consequences.",
+"A special talent, ability or quality or its indefinable cause.",
+"Prothrombinase."
+]
+},
+{
+"id": "for-a-song_idiom",
+"w": "for a song",
+"kind": "idiom",
+"gloss": [
+"For a very low price; very cheaply."
+]
+},
+{
+"id": "against-the-law_idiom",
+"w": "against the law",
+"kind": "idiom",
+"gloss": [
+"Forbidden by law.",
+"Being in principled opposition to a law's existence or wording, or to a school of thought about its application."
+]
+},
+{
+"id": "tell-the-truth_idiom",
+"w": "tell the truth",
+"kind": "idiom",
+"gloss": [
+"Used to positively assert the frank honesty of an associated statement of set of statements; equivalent to \"to tell the truth\"."
+]
+},
+{
+"id": "on-the-heels-of_idiom",
+"w": "on the heels of",
+"kind": "idiom",
+"gloss": [
+"In close pursuit of; close behind.",
+"Closely following; in succession immediately after."
+]
+},
+{
+"id": "in-focus_idiom",
+"w": "in focus",
+"kind": "idiom",
+"gloss": [
+"Sharp and clear with no fuzziness.",
+"Clearly perceived."
+]
+},
+{
+"id": "rain-or-shine_idiom",
+"w": "rain or shine",
+"kind": "idiom",
+"gloss": [
+"Regardless of the circumstances; (more literally) regardless of the state of the weather."
+]
+},
+{
+"id": "first-among-equals_idiom",
+"w": "first among equals",
+"kind": "idiom",
+"gloss": [
+"A person or position that is formally of equal rank to others in a group, but nonetheless takes a leading role within that group."
+]
+},
+{
+"id": "deep-six_idiom",
+"w": "deep six",
+"kind": "idiom",
+"gloss": [
+"To discard, get rid of, or cancel; to completely put an end to something.",
+"To submerge (something) in water.",
+"An ejection, discardment or destruction."
+]
+},
+{
+"id": "lay-claim_idiom",
+"w": "lay claim",
+"kind": "idiom",
+"gloss": [
+"To state that something belongs to oneself."
+]
+},
+{
+"id": "out-of-one-s-depth_idiom",
+"w": "out of one's depth",
+"kind": "idiom",
+"gloss": [
+"In water so deep that one cannot stand and may be at risk of drowning.",
+"In a situation which one is poorly prepared or unprepared to handle."
+]
+},
+{
+"id": "hedge-one-s-bets_idiom",
+"w": "hedge one's bets",
+"kind": "idiom",
+"gloss": [
+"To place bets with a third party in order to offset potential losses.",
+"To reduce the risk of making a mistake by keeping one's options open."
+]
+},
+{
+"id": "feather-one-s-nest_idiom",
+"w": "feather one's nest",
+"kind": "idiom",
+"gloss": [
+"To achieve benefits, especially financial ones, by taking advantage of the opportunities with which one is presented; to amass a comfortable amount of personal wealth; especially, to do so to a degree that involves venality (e.g., insider trading, police corruption)."
+]
+},
+{
+"id": "say-what_idiom",
+"w": "say what",
+"kind": "idiom",
+"gloss": [
+"What did you say?; Huh?; expresses incredulity."
+]
+},
+{
+"id": "on-course_idiom",
+"w": "on course",
+"kind": "idiom",
+"gloss": [
+"Following the intended route.",
+"Proceeding smoothly as planned.",
+"Likely to happen or to undergo something."
+]
+},
+{
+"id": "bump-and-grind_idiom",
+"w": "bump and grind",
+"kind": "idiom",
+"gloss": [
+"A sexually suggestive dance involving exaggerated hip movements, especially a striptease dance.",
+"A combination of movements resembling such a dance, as in road racing, whitewater kayaking, or exercising; any activity involving prolonged jarring or shaking.",
+"To perform such a dance or such movements."
+]
+},
+{
+"id": "at-the-high-port_idiom",
+"w": "at the high port",
+"kind": "idiom",
+"gloss": [
+"Held with two hands as in \"port arms\", but carried well above the head. The high port is often the position taught for running (at the double) or charging.",
+"Sticking up; (of hair, etc) standing up at a marked angle.",
+"Held in front of the body, especially in an authoritative or aggressive way."
+]
+},
+{
+"id": "honey-trap_idiom",
+"w": "honey trap",
+"kind": "idiom",
+"gloss": [
+"The use of a romantic or a sexual relationship to entice a person into revealing secret information."
+]
+},
+{
+"id": "pull-the-trigger_idiom",
+"w": "pull the trigger",
+"kind": "idiom",
+"gloss": [
+"To fire a gun.",
+"To commit to a course of action.",
+"To shoot, kick the ball in hope of scoring a goal."
+]
+},
+{
+"id": "in-the-air_idiom",
+"w": "in the air",
+"kind": "idiom",
+"gloss": [
+"In the surrounding ambience.",
+"In the generally prevailing feeling, idea, atmosphere, or mood.",
+"Prevalent without traceable origin or authority."
+]
+},
+{
+"id": "slow-burn_idiom",
+"w": "slow burn",
+"kind": "idiom",
+"gloss": [
+"Something that emerges or unfolds slowly or gradually.",
+"A gradually increasing expression of emotion, especially anger or frustration.",
+"A work of fiction with a slow-paced plot; also, such a storyline."
+]
+},
+{
+"id": "grease-someone-s-palm_idiom",
+"w": "grease someone's palm",
+"kind": "idiom",
+"gloss": [
+"To bribe a person."
+]
+},
+{
+"id": "stand-a-chance_idiom",
+"w": "stand a chance",
+"kind": "idiom",
+"gloss": [
+"To have a chance, for the odds to somewhat be in someone's favor."
+]
+},
+{
+"id": "grease-payment_idiom",
+"w": "grease payment",
+"kind": "idiom",
+"gloss": [
+"A bribe or extorted money, usually relatively small in amount, provided to a low-level government official or business person, in order to expedite a business decision, shipment, or other transaction, especially in a country where such payments are not unusual."
+]
+},
+{
+"id": "prime-of-life_idiom",
+"w": "prime of life",
+"kind": "idiom",
+"gloss": [
+"The period of one's mature life when one is at a peak of health and performance."
+]
+},
+{
+"id": "take-out-the-trash_idiom",
+"w": "take out the trash",
+"kind": "idiom",
+"gloss": [
+"Often used other than figuratively or idiomatically: see take out, trash.",
+"To forcefully remove undesirable people from a place.",
+"To announce something, hoping it will not get much publicity, at a time when it is not likely to be noticed by the news media, for instance on election day or late on Friday afternoon before a holiday weekend."
+]
+},
+{
+"id": "ax-to-grind_idiom",
+"w": "ax to grind",
+"kind": "idiom",
+"gloss": [
+"A proposition or point of view to advocate, especially motivated by self-interest.",
+"A grudge or grievance, with implications of confrontation."
+]
+},
+{
+"id": "out-of-thin-air_idiom",
+"w": "out of thin air",
+"kind": "idiom",
+"gloss": [
+"From nowhere or nothing; from a non-existent or unknown source."
+]
+},
+{
+"id": "bounce-off-the-walls_idiom",
+"w": "bounce off the walls",
+"kind": "idiom",
+"gloss": [
+"To be overly active relative to the enclosed space in which one is.",
+"To be brimful of agitation from excitement, indignation, or anxiety."
+]
+},
+{
+"id": "to-pieces_idiom",
+"w": "to pieces",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see to, piece.",
+"Into fragments or parts.",
+"Completely, utterly."
+]
+},
+{
+"id": "punch-above-one-s-weight_idiom",
+"w": "punch above one's weight",
+"kind": "idiom",
+"gloss": [
+"To (attempt to) achieve or perform at a higher level than would be expected based on one's preparation, attributes, rank, or past accomplishments."
+]
+},
+{
+"id": "come-to-life_idiom",
+"w": "come to life",
+"kind": "idiom",
+"gloss": [
+"To become alive, to be given life; to be brought into existence.",
+"To appear as if alive.",
+"To start to become energetic."
+]
+},
+{
+"id": "count-one-s-blessings_idiom",
+"w": "count one's blessings",
+"kind": "idiom",
+"gloss": [
+"To focus one's attention on the circumstances of one's life which are pleasant or fortunate, especially with the intention of diverting one's thoughts from serious or disagreeable matters."
+]
+},
+{
+"id": "come-to-grips-with_idiom",
+"w": "come to grips with",
+"kind": "idiom",
+"gloss": [
+"To confront or deal with directly; to commence a confrontation."
+]
+},
+{
+"id": "beer-muscles_idiom",
+"w": "beer muscles",
+"kind": "idiom",
+"gloss": [
+"An aggressive attitude resulting from consumption of an alcoholic beverage.",
+"A protruding stomach, supposedly indicative of excessive consumption of beer.",
+"Used other than figuratively or idiomatically: see beer, muscles."
+]
+},
+{
+"id": "bite-the-big-one_idiom",
+"w": "bite the big one",
+"kind": "idiom",
+"gloss": [
+"To die.",
+"To break down; to be impossible to repair or not worth repairing.",
+"To perform poorly; to fail."
+]
+},
+{
+"id": "behind-time_idiom",
+"w": "behind time",
+"kind": "idiom",
+"gloss": [
+"Late, arriving late."
+]
+},
+{
+"id": "pour-one-s-heart-out_idiom",
+"w": "pour one's heart out",
+"kind": "idiom",
+"gloss": [
+"To express one's innermost thoughts or feelings effusively."
+]
+},
+{
+"id": "down-the-road_idiom",
+"w": "down the road",
+"kind": "idiom",
+"gloss": [
+"Further along, in terms of time or progress.",
+"Dismissed; fired from one's employment.",
+"Used other than figuratively or idiomatically: see down, road."
+]
+},
+{
+"id": "you-re-telling-me_idiom",
+"w": "you're telling me",
+"kind": "idiom",
+"gloss": [
+"Used to indicate that the speaker was in agreement with the preceding statement before it was made."
+]
+},
+{
+"id": "go-halves_idiom",
+"w": "go halves",
+"kind": "idiom",
+"gloss": [
+"To divide equally between two parties."
+]
+},
+{
+"id": "in-jest_idiom",
+"w": "in jest",
+"kind": "idiom",
+"gloss": [
+"As a joke."
+]
+},
+{
+"id": "there-we-go_idiom",
+"w": "there we go",
+"kind": "idiom",
+"gloss": [
+"said after an action has been performed successfully"
+]
+}
+]

@@ -1,0 +1,100 @@
+{"id":"desperate_adj","th":"สิ้นหวัง; เร่งด่วนอย่างยิ่ง; ขาดแคลนสุดๆ","ex":"He was desperate for a job.","exTh":"เขาต้องการงานอย่างสิ้นหวัง"}
+{"id":"beloved_adj","th":"เป็นที่รัก; ที่รักยิ่ง","ex":"She lost her beloved dog last year.","exTh":"ปีที่แล้วเธอสูญเสียสุนัขที่รักยิ่งไป"}
+{"id":"straw_noun","th":"ฟาง; หลอดดูด","ex":"I drink juice with a straw.","exTh":"ฉันดื่มน้ำผลไม้ด้วยหลอด"}
+{"id":"faint_adj","th":"จางๆ; เลือนราง; เบามาก","ex":"I heard a faint sound outside.","exTh":"ฉันได้ยินเสียงแผ่วเบาจากข้างนอก"}
+{"id":"monument_noun","th":"อนุสาวรีย์; อนุสรณ์สถาน","ex":"The monument is in the center of the city.","exTh":"อนุสาวรีย์ตั้งอยู่กลางเมือง"}
+{"id":"fragment_noun","th":"เศษ; ส่วนเล็กๆ; ชิ้นส่วน","ex":"A fragment of glass cut his foot.","exTh":"เศษแก้วบาดเท้าของเขา"}
+{"id":"outward_adj","th":"ภายนอก; ออกไปข้างนอก; ปรากฏ","ex":"She showed no outward sign of fear.","exTh":"เธอไม่แสดงอาการกลัวออกมาให้เห็นเลย"}
+{"id":"hunger_noun","th":"ความหิว; ความอดอยาก","ex":"Hunger made it hard to focus.","exTh":"ความหิวทำให้โฟกัสได้ยาก"}
+{"id":"tire_verb","th":"เหนื่อย; ทำให้เหนื่อย; เบื่อ","ex":"Long walks tire me quickly.","exTh":"การเดินไกลๆ ทำให้ฉันเหนื่อยเร็ว"}
+{"id":"deaf_adj","th":"หูหนวก; หูตึง","ex":"My grandfather is partly deaf.","exTh":"คุณตาของฉันหูตึงบางส่วน"}
+{"id":"tent_noun","th":"เต็นท์","ex":"We put up a tent near the lake.","exTh":"เรากางเต็นท์ใกล้ทะเลสาบ"}
+{"id":"fitness_noun","th":"ความฟิต; สุขภาพร่างกายแข็งแรง; ความเหมาะสม","ex":"She goes to the gym to improve her fitness.","exTh":"เธอไปยิมเพื่อเพิ่มความฟิตของร่างกาย"}
+{"id":"comedy_noun","th":"ตลก; ละครตลก; หนังตลก","ex":"We watched a comedy last night.","exTh":"เมื่อคืนเราดูหนังตลก"}
+{"id":"overwhelming_adj","th":"ท่วมท้น; มากเกินรับไหว; เหนือกว่าอย่างมาก","ex":"The support from fans was overwhelming.","exTh":"กำลังใจจากแฟนๆ ท่วมท้นมาก"}
+{"id":"amazing_adj","th":"น่าทึ่ง; ยอดเยี่ยม; อัศจรรย์","ex":"The view from the hotel is amazing.","exTh":"ทิวทัศน์จากโรงแรมน่าทึ่งมาก"}
+{"id":"drunk_adj","th":"เมา; เมาสุรา","ex":"He was too drunk to drive home.","exTh":"เขาเมาเกินกว่าจะขับรถกลับบ้านได้"}
+{"id":"tightly_adv","th":"แน่น; อย่างแน่นหนา; อย่างรัดกุม","ex":"She held the baby tightly.","exTh":"เธออุ้มทารกไว้แน่น"}
+{"id":"lean_adj","th":"ผอมเพรียว; ไม่ติดมัน; ขาดแคลน","ex":"Chicken is a lean meat.","exTh":"เนื้อไก่เป็นเนื้อไม่ติดมัน"}
+{"id":"humor_noun","th":"อารมณ์ขัน; ความตลกขบขัน","ex":"He has a great sense of humor.","exTh":"เขามีอารมณ์ขันดีมาก","note":"สะกดแบบอังกฤษคือ humour"}
+{"id":"endless_adj","th":"ไม่มีที่สิ้นสุด; ไม่รู้จบ","ex":"The road seemed endless.","exTh":"ถนนดูเหมือนไม่มีที่สิ้นสุด"}
+{"id":"boom_noun","th":"ช่วงเฟื่องฟู; เสียงดังตูม; ความเจริญรุ่งเรืองฉับพลัน","ex":"The city had a building boom in the 1990s.","exTh":"เมืองนี้มีช่วงที่การก่อสร้างเฟื่องฟูในทศวรรษ 1990"}
+{"id":"dig_verb","th":"ขุด; เจาะ; ค้นหา","ex":"The children dug a hole in the sand.","exTh":"เด็กๆ ขุดหลุมในทราย","note":"รูปอดีตคือ dug"}
+{"id":"assign_verb","th":"มอบหมาย; กำหนด; แต่งตั้ง","ex":"The teacher assigned homework to the class.","exTh":"ครูมอบหมายการบ้านให้ทั้งห้อง"}
+{"id":"refund_noun","th":"เงินคืน; การคืนเงิน","ex":"I asked for a refund because the shirt was damaged.","exTh":"ฉันขอเงินคืนเพราะเสื้อเสียหาย"}
+{"id":"stir_verb","th":"คน; กวน; ปลุกเร้า","ex":"Stir the soup so it doesn't burn.","exTh":"คนซุปไว้ไม่ให้ไหม้"}
+{"id":"herd_noun","th":"ฝูง (สัตว์); ฝูงชน","ex":"A herd of cows crossed the road.","exTh":"วัวฝูงหนึ่งข้ามถนน"}
+{"id":"devotion_noun","th":"ความทุ่มเท; ความศรัทธา; ความจงรักภักดี","ex":"Her devotion to her family is clear.","exTh":"ความทุ่มเทที่เธอมีต่อครอบครัวเห็นได้ชัดเจน"}
+{"id":"install_verb","th":"ติดตั้ง; ลง (โปรแกรม)","ex":"I installed a new app on my phone.","exTh":"ฉันติดตั้งแอปใหม่ในโทรศัพท์"}
+{"id":"terrorism_noun","th":"การก่อการร้าย; ลัทธิก่อการร้าย","ex":"The government is fighting terrorism.","exTh":"รัฐบาลกำลังต่อสู้กับการก่อการร้าย"}
+{"id":"controversial_adj","th":"ที่ถกเถียงกัน; ก่อให้เกิดข้อโต้แย้ง","ex":"The new law is very controversial.","exTh":"กฎหมายใหม่นี้เป็นที่ถกเถียงกันมาก"}
+{"id":"abandon_verb","th":"ทอดทิ้ง; ละทิ้ง; เลิกล้ม","ex":"They abandoned the car on the road.","exTh":"พวกเขาทิ้งรถไว้บนถนน"}
+{"id":"lighter_noun","th":"ไฟแช็ก","ex":"Do you have a lighter?","exTh":"คุณมีไฟแช็กไหม"}
+{"id":"critic_noun","th":"นักวิจารณ์; ผู้วิพากษ์วิจารณ์","ex":"The film critic gave the movie five stars.","exTh":"นักวิจารณ์ภาพยนตร์ให้หนังเรื่องนี้ห้าดาว"}
+{"id":"convince_verb","th":"ทำให้เชื่อ; โน้มน้าว","ex":"She convinced me to join the club.","exTh":"เธอโน้มน้าวให้ฉันเข้าชมรม"}
+{"id":"basement_noun","th":"ห้องใต้ดิน; ชั้นใต้ดิน","ex":"We keep old boxes in the basement.","exTh":"เราเก็บกล่องเก่าๆ ไว้ในห้องใต้ดิน"}
+{"id":"forbidden_adj","th":"ต้องห้าม; ถูกห้าม","ex":"Smoking is forbidden in this building.","exTh":"อาคารนี้ห้ามสูบบุหรี่"}
+{"id":"cruel_adj","th":"โหดร้าย; ทารุณ","ex":"It is cruel to hurt animals.","exTh":"การทำร้ายสัตว์เป็นเรื่องโหดร้าย"}
+{"id":"breed_verb","th":"ผสมพันธุ์; เพาะพันธุ์; ก่อให้เกิด","ex":"Farmers breed cows for milk.","exTh":"เกษตรกรเพาะพันธุ์วัวเพื่อเอาน้ำนม"}
+{"id":"loyal_adj","th":"ซื่อสัตย์; จงรักภักดี","ex":"He is a loyal friend.","exTh":"เขาเป็นเพื่อนที่ซื่อสัตย์"}
+{"id":"bet_verb","th":"พนัน; เดิมพัน; มั่นใจว่า","ex":"I bet you ten dollars that he's late.","exTh":"ฉันพนันสิบดอลลาร์ว่าเขามาสาย","note":"รูปอดีตคือ bet เหมือนเดิม"}
+{"id":"attraction_noun","th":"สถานที่ท่องเที่ยว; แรงดึงดูด; เสน่ห์","ex":"The castle is a popular tourist attraction.","exTh":"ปราสาทแห่งนี้เป็นสถานที่ท่องเที่ยวยอดนิยม"}
+{"id":"surprisingly_adv","th":"อย่างน่าประหลาดใจ; ไม่น่าเชื่อว่า","ex":"The test was surprisingly easy.","exTh":"ข้อสอบง่ายอย่างน่าประหลาดใจ"}
+{"id":"deserve_verb","th":"สมควรได้รับ; คู่ควรกับ","ex":"You deserve a holiday after all that work.","exTh":"คุณสมควรได้พักร้อนหลังจากทำงานหนักขนาดนี้"}
+{"id":"sponsor_noun","th":"ผู้สนับสนุน; สปอนเซอร์; ผู้อุปถัมภ์","ex":"The race has a new sponsor this year.","exTh":"การแข่งขันครั้งนี้มีสปอนเซอร์รายใหม่ในปีนี้"}
+{"id":"casual_adj","th":"สบายๆ; ลำลอง; ไม่เป็นทางการ","ex":"You can wear casual clothes to the party.","exTh":"คุณใส่ชุดลำลองไปงานเลี้ยงได้"}
+{"id":"despair_noun","th":"ความสิ้นหวัง; ความท้อแท้","ex":"He cried in despair.","exTh":"เขาร้องไห้ด้วยความสิ้นหวัง"}
+{"id":"alcoholic_adj","th":"ที่มีแอลกอฮอล์; เกี่ยวกับสุรา","ex":"The shop does not sell alcoholic drinks.","exTh":"ร้านนี้ไม่ขายเครื่องดื่มแอลกอฮอล์"}
+{"id":"sculpture_noun","th":"ประติมากรรม; รูปปั้น; รูปแกะสลัก","ex":"The park has a large stone sculpture.","exTh":"สวนสาธารณะมีประติมากรรมหินขนาดใหญ่"}
+{"id":"restrict_verb","th":"จำกัด; ควบคุม; ห้าม","ex":"The law restricts the use of plastic bags.","exTh":"กฎหมายจำกัดการใช้ถุงพลาสติก"}
+{"id":"fortunate_adj","th":"โชคดี; มีโชค","ex":"We were fortunate to find a seat.","exTh":"เราโชคดีที่หาที่นั่งได้"}
+{"id":"lately_adv","th":"เมื่อไม่นานมานี้; ช่วงนี้","ex":"I haven't seen him lately.","exTh":"ช่วงนี้ฉันไม่ได้เจอเขาเลย"}
+{"id":"prescription_noun","th":"ใบสั่งยา; ยาตามใบสั่งแพทย์","ex":"You need a prescription for this medicine.","exTh":"ยาตัวนี้ต้องมีใบสั่งยาจากแพทย์"}
+{"id":"forehead_noun","th":"หน้าผาก","ex":"She kissed the baby on the forehead.","exTh":"เธอหอมหน้าผากทารก"}
+{"id":"gesture_noun","th":"ท่าทาง; ภาษากาย; การแสดงออก","ex":"He made a rude gesture at the driver.","exTh":"เขาทำท่าทางไม่สุภาพใส่คนขับรถ"}
+{"id":"hip_noun","th":"สะโพก","ex":"She put her hands on her hips.","exTh":"เธอเอามือเท้าสะเอว"}
+{"id":"pottery_noun","th":"เครื่องปั้นดินเผา; งานปั้นเซรามิก","ex":"We bought some pottery at the village market.","exTh":"เราซื้อเครื่องปั้นดินเผาที่ตลาดหมู่บ้าน"}
+{"id":"plug_noun","th":"ปลั๊กไฟ; จุกอุด","ex":"Pull the plug out of the socket.","exTh":"ดึงปลั๊กออกจากเต้ารับ"}
+{"id":"poison_noun","th":"สารพิษ; ยาพิษ","ex":"Keep the poison away from children.","exTh":"เก็บสารพิษให้พ้นมือเด็ก"}
+{"id":"curiosity_noun","th":"ความอยากรู้อยากเห็น; ของแปลกน่าสนใจ","ex":"Curiosity made her open the box.","exTh":"ความอยากรู้อยากเห็นทำให้เธอเปิดกล่องนั้น"}
+{"id":"gratitude_noun","th":"ความกตัญญู; ความรู้สึกขอบคุณ","ex":"She showed her gratitude with a small gift.","exTh":"เธอแสดงความขอบคุณด้วยของขวัญชิ้นเล็กๆ"}
+{"id":"viewpoint_noun","th":"มุมมอง; ทัศนคติ; จุดชมวิว","ex":"I understand your viewpoint, but I disagree.","exTh":"ฉันเข้าใจมุมมองของคุณ แต่ฉันไม่เห็นด้วย"}
+{"id":"tragic_adj","th":"น่าเศร้า; เป็นโศกนาฏกรรม","ex":"It was a tragic accident.","exTh":"มันเป็นอุบัติเหตุที่น่าเศร้า"}
+{"id":"incorrect_adj","th":"ไม่ถูกต้อง; ผิด","ex":"Your answer is incorrect.","exTh":"คำตอบของคุณไม่ถูกต้อง"}
+{"id":"philosopher_noun","th":"นักปรัชญา","ex":"The philosopher wrote about happiness.","exTh":"นักปรัชญาเขียนเรื่องความสุข"}
+{"id":"negotiate_verb","th":"เจรจา; ต่อรอง; ตกลง","ex":"They negotiated a better price.","exTh":"พวกเขาต่อรองราคาที่ดีกว่าเดิมได้"}
+{"id":"lightning_noun","th":"ฟ้าผ่า; ฟ้าแลบ; สายฟ้า","ex":"Lightning struck the tall tree.","exTh":"ฟ้าผ่าลงที่ต้นไม้สูง"}
+{"id":"adviser_noun","th":"ที่ปรึกษา; ผู้ให้คำแนะนำ","ex":"He is a financial adviser.","exTh":"เขาเป็นที่ปรึกษาด้านการเงิน","note":"อีกสะกดคือ advisor"}
+{"id":"mess_noun","th":"ความรก; ความยุ่งเหยิง; สถานการณ์ที่แย่","ex":"Your room is a mess.","exTh":"ห้องของคุณรกมาก"}
+{"id":"thumb_noun","th":"นิ้วหัวแม่มือ","ex":"I hurt my thumb with the hammer.","exTh":"ฉันเอาค้อนทุบโดนนิ้วหัวแม่มือ"}
+{"id":"charm_noun","th":"เสน่ห์; มนต์เสน่ห์; เครื่องราง","ex":"The old town has a lot of charm.","exTh":"เมืองเก่าแห่งนี้มีเสน่ห์มาก"}
+{"id":"goodness_interj","th":"โอ้โฮ; ตายจริง; ว้าย","ex":"Goodness! I forgot my keys again.","exTh":"ตายจริง! ฉันลืมกุญแจอีกแล้ว","note":"มักใช้ในวลี my goodness / thank goodness"}
+{"id":"sorrow_noun","th":"ความโศกเศร้า; ความเสียใจ","ex":"She felt deep sorrow after his death.","exTh":"เธอรู้สึกเศร้าอย่างลึกซึ้งหลังจากเขาเสียชีวิต"}
+{"id":"champion_noun","th":"แชมป์; ผู้ชนะเลิศ; ผู้ปกป้อง","ex":"He is the world champion in tennis.","exTh":"เขาเป็นแชมป์โลกเทนนิส"}
+{"id":"graphics_noun","th":"ภาพกราฟิก; การออกแบบกราฟิก","ex":"The game has amazing graphics.","exTh":"เกมนี้มีกราฟิกสวยมาก"}
+{"id":"attach_verb","th":"แนบ; ติด; ผูก","ex":"Please attach the file to your email.","exTh":"กรุณาแนบไฟล์ไปกับอีเมลของคุณ"}
+{"id":"blessing_noun","th":"พร; การอวยพร; สิ่งดีๆ","ex":"The old monk gave them his blessing.","exTh":"พระชราให้พรแก่พวกเขา"}
+{"id":"parcel_noun","th":"พัสดุ; ห่อของ","ex":"A parcel arrived for you this morning.","exTh":"เช้านี้มีพัสดุมาส่งถึงคุณ"}
+{"id":"chaos_noun","th":"ความโกลาหล; ความวุ่นวาย","ex":"The storm caused chaos at the airport.","exTh":"พายุทำให้สนามบินโกลาหลวุ่นวาย"}
+{"id":"deadline_noun","th":"กำหนดส่ง; เส้นตาย","ex":"The deadline for the report is Friday.","exTh":"กำหนดส่งรายงานคือวันศุกร์"}
+{"id":"ferry_noun","th":"เรือข้ามฟาก; เรือเฟอร์รี","ex":"We took the ferry to the island.","exTh":"เรานั่งเรือข้ามฟากไปยังเกาะ"}
+{"id":"theft_noun","th":"การขโมย; การลักทรัพย์","ex":"The theft happened at night.","exTh":"การขโมยเกิดขึ้นตอนกลางคืน"}
+{"id":"owe_verb","th":"เป็นหนี้; ติดค้าง; ควรขอบคุณ","ex":"I owe my friend fifty dollars.","exTh":"ฉันติดเงินเพื่อนอยู่ห้าสิบดอลลาร์"}
+{"id":"glorious_adj","th":"รุ่งโรจน์; งดงามน่าภูมิใจ; สดใสมาก","ex":"We had a glorious day at the beach.","exTh":"เรามีวันที่แสนวิเศษที่ชายหาด"}
+{"id":"trigger_noun","th":"ไกปืน; ตัวกระตุ้น; ชนวนเหตุ","ex":"Stress can be a trigger for headaches.","exTh":"ความเครียดอาจเป็นตัวกระตุ้นให้ปวดหัว"}
+{"id":"earnest_adj","th":"จริงจัง; จริงใจ; ตั้งใจ","ex":"He gave an earnest answer to the question.","exTh":"เขาตอบคำถามอย่างจริงใจ"}
+{"id":"enjoyment_noun","th":"ความสนุกสนาน; ความเพลิดเพลิน; ความสุข","ex":"She reads for pleasure and enjoyment.","exTh":"เธออ่านหนังสือเพื่อความเพลิดเพลิน"}
+{"id":"workplace_noun","th":"ที่ทำงาน; สถานที่ทำงาน","ex":"Safety is important in the workplace.","exTh":"ความปลอดภัยสำคัญในที่ทำงาน"}
+{"id":"arithmetic_noun","th":"เลขคณิต; การคำนวณพื้นฐาน","ex":"Children learn arithmetic in primary school.","exTh":"เด็กๆ เรียนเลขคณิตในชั้นประถม"}
+{"id":"minus_prep","th":"ลบ; หักออก; ไม่มี","ex":"Ten minus three is seven.","exTh":"สิบลบสามเท่ากับเจ็ด"}
+{"id":"unusually_adv","th":"อย่างผิดปกติ; ผิดธรรมดา","ex":"It is unusually cold for April.","exTh":"อากาศหนาวผิดปกติสำหรับเดือนเมษายน"}
+{"id":"forgive_verb","th":"ให้อภัย; ยกโทษ","ex":"Please forgive me for being late.","exTh":"ขออภัยที่มาสาย โปรดยกโทษให้ฉันด้วย","note":"รูปอดีตคือ forgave, forgiven"}
+{"id":"luxury_noun","th":"ความหรูหรา; สิ่งฟุ่มเฟือย; ของที่เกินจำเป็น","ex":"A holiday abroad is a luxury for us.","exTh":"การไปเที่ยวต่างประเทศเป็นเรื่องฟุ่มเฟือยสำหรับเรา"}
+{"id":"dot_noun","th":"จุด; จุดเล็กๆ","ex":"Put a dot at the end of the sentence.","exTh":"ใส่จุดท้ายประโยค"}
+{"id":"telegram_noun","th":"โทรเลข; สาร (ทางโทรเลข)","ex":"In the past, people sent a telegram for urgent news.","exTh":"ในอดีต คนส่งโทรเลขเมื่อมีข่าวด่วน"}
+{"id":"patrol_noun","th":"การลาดตระเวน; หน่วยลาดตระเวน; การตรวจตรา","ex":"A police patrol passes here every hour.","exTh":"ตำรวจลาดตระเวนผ่านที่นี่ทุกชั่วโมง"}
+{"id":"wax_noun","th":"ขี้ผึ้ง; ไขเทียน; ขี้หู","ex":"Hot wax dripped from the candle.","exTh":"ไขเทียนร้อนๆ หยดจากเทียน"}
+{"id":"wax_verb","th":"ขัดด้วยขี้ผึ้ง; เคลือบแว็กซ์; กำจัดขนด้วยแว็กซ์","ex":"He waxed his car on Sunday.","exTh":"วันอาทิตย์เขาขัดแว็กซ์รถ"}
+{"id":"hammer_noun","th":"ค้อน","ex":"Pass me the hammer, please.","exTh":"ส่งค้อนให้ฉันหน่อย"}
+{"id":"whoever_pron","th":"ใครก็ตาม; ผู้ใดก็ตามที่","ex":"Whoever finds the key will get a prize.","exTh":"ใครก็ตามที่พบกุญแจจะได้รับรางวัล"}
+{"id":"warmth_noun","th":"ความอบอุ่น; ไออุ่น; ความเป็นมิตร","ex":"I enjoyed the warmth of the fire.","exTh":"ฉันชอบความอบอุ่นจากกองไฟ"}

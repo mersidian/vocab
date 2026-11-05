@@ -1,0 +1,802 @@
+[
+{
+"id": "marry-the-ketchup_idiom",
+"w": "marry the ketchup",
+"kind": "idiom",
+"gloss": [
+"To combine ketchup from half-empty bottles in a restaurant, in order to reduce the number of bottles."
+]
+},
+{
+"id": "cry-oneself-to-sleep_idiom",
+"w": "cry oneself to sleep",
+"kind": "idiom",
+"gloss": [
+"To cry until one falls asleep."
+]
+},
+{
+"id": "shut-one-s-gob_idiom",
+"w": "shut one's gob",
+"kind": "idiom",
+"gloss": [
+"To stop talking; to be quiet."
+]
+},
+{
+"id": "test-someone-s-patience_idiom",
+"w": "test someone's patience",
+"kind": "idiom",
+"gloss": [
+"To begin to frustrate someone."
+]
+},
+{
+"id": "smite-hip-and-thigh_idiom",
+"w": "smite hip and thigh",
+"kind": "idiom",
+"gloss": [
+"To defeat overwhelmingly."
+]
+},
+{
+"id": "raise-someone-s-spirits_idiom",
+"w": "raise someone's spirits",
+"kind": "idiom",
+"gloss": [
+"To make someone feel in a better mood"
+]
+},
+{
+"id": "walk-on-broken-glass_idiom",
+"w": "walk on broken glass",
+"kind": "idiom",
+"gloss": [
+"To do everything possible to achieve something, even if it involves great risk or discomfort."
+]
+},
+{
+"id": "hold-the-floor_idiom",
+"w": "hold the floor",
+"kind": "idiom",
+"gloss": [
+"To give a speech at a gathering of people, particularly one that lasts for a long time and is the focus of attention in the room."
+]
+},
+{
+"id": "meat-sweats_idiom",
+"w": "meat sweats",
+"kind": "idiom",
+"gloss": [
+"Excessive perspiration resulting from eating large quantities of meat."
+]
+},
+{
+"id": "need-one-s-eyes-checked_idiom",
+"w": "need one's eyes checked",
+"kind": "idiom",
+"gloss": [
+"To be seeing things (having visual hallucinations)."
+]
+},
+{
+"id": "go-at-a-good-clip_idiom",
+"w": "go at a good clip",
+"kind": "idiom",
+"gloss": [
+"To go fast"
+]
+},
+{
+"id": "wrap-in-cotton-wool_idiom",
+"w": "wrap in cotton wool",
+"kind": "idiom",
+"gloss": [
+"To treat delicately, to baby, to coddle."
+]
+},
+{
+"id": "in-a-minor-key_idiom",
+"w": "in a minor key",
+"kind": "idiom",
+"gloss": [
+"In a restrained manner; on a small or limited scale."
+]
+},
+{
+"id": "in-a-major-key_idiom",
+"w": "in a major key",
+"kind": "idiom",
+"gloss": [
+"In an unrestrained manner; on a large or expansive scale."
+]
+},
+{
+"id": "put-a-shift-in_idiom",
+"w": "put a shift in",
+"kind": "idiom",
+"gloss": [
+"To work hard; to make an effort"
+]
+},
+{
+"id": "bend-the-brain_idiom",
+"w": "bend the brain",
+"kind": "idiom",
+"gloss": [
+"To be difficult to comprehend."
+]
+},
+{
+"id": "eat-and-leave-no-crumbs_idiom",
+"w": "eat and leave no crumbs",
+"kind": "idiom",
+"gloss": [
+"To do or perform in a thorough and stunning manner without mess or wasted opportunity; to wholly consume a challenge successfully and stylishly. Synonym of eat (“to be very good at something; to rule; to slay”)."
+]
+},
+{
+"id": "our-era_idiom",
+"w": "our era",
+"kind": "idiom",
+"gloss": [
+"Anno Domini; the current date era beginning approximately 2000 years ago in the Gregorian calendar."
+]
+},
+{
+"id": "write-checks-one-can-t-cash_idiom",
+"w": "write checks one can't cash",
+"kind": "idiom",
+"gloss": [
+"To make promises one cannot keep, or to make boasts that are not true."
+]
+},
+{
+"id": "make-the-running_idiom",
+"w": "make the running",
+"kind": "idiom",
+"gloss": [
+"To have a leading or influential position in a field or activity; to be more active than others."
+]
+},
+{
+"id": "eat-the-mic_idiom",
+"w": "eat the mic",
+"kind": "idiom",
+"gloss": [
+"To speak or sing with one's mouth close to, or in contact with, a microphone."
+]
+},
+{
+"id": "ain-t-what-it-used-to-was_idiom",
+"w": "ain't what it used to was",
+"kind": "idiom",
+"gloss": [
+"Is not what it used to be; (expressing nostalgia)."
+]
+},
+{
+"id": "cross-the-thames_idiom",
+"w": "cross the Thames",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see cross, the, Thames."
+]
+},
+{
+"id": "sink-of-iniquity_idiom",
+"w": "sink of iniquity",
+"kind": "idiom",
+"gloss": [
+"A place where criminal activity is rife; a resort of criminals."
+]
+},
+{
+"id": "kick-at-an-open-door_idiom",
+"w": "kick at an open door",
+"kind": "idiom",
+"gloss": [
+"To carry out a redundant activity."
+]
+},
+{
+"id": "jump-salty_idiom",
+"w": "jump salty",
+"kind": "idiom",
+"gloss": [
+"To become angry."
+]
+},
+{
+"id": "drain-the-python_idiom",
+"w": "drain the python",
+"kind": "idiom",
+"gloss": [
+"To urinate."
+]
+},
+{
+"id": "drain-the-snake_idiom",
+"w": "drain the snake",
+"kind": "idiom",
+"gloss": [
+"To urinate."
+]
+},
+{
+"id": "not-enough-to-hang-a-dog-on_idiom",
+"w": "not enough to hang a dog on",
+"kind": "idiom",
+"gloss": [
+"Of evidence, not strong or compelling; being very little or insubstantial evidence."
+]
+},
+{
+"id": "sow-the-seeds-of_idiom",
+"w": "sow the seeds of",
+"kind": "idiom",
+"gloss": [
+"To carry out a certain action which will eventually bring about a particular result."
+]
+},
+{
+"id": "cold-hand_idiom",
+"w": "cold hand",
+"kind": "idiom",
+"gloss": [
+"Used in reference to a player who fails to make successful shots in a game."
+]
+},
+{
+"id": "green-handshake_idiom",
+"w": "green handshake",
+"kind": "idiom",
+"gloss": [
+"A bribe, or a transfer of money that the interested parties represent as a tip but that disinterested third parties are likely to view as a bribe."
+]
+},
+{
+"id": "pray-to-the-porcelain-goddess_idiom",
+"w": "pray to the porcelain goddess",
+"kind": "idiom",
+"gloss": [
+"Synonym of worship the porcelain god (“to vomit into a toilet bowl”)."
+]
+},
+{
+"id": "off-one-s-hinges_idiom",
+"w": "off one's hinges",
+"kind": "idiom",
+"gloss": [
+"Unstable or irrational; crazy."
+]
+},
+{
+"id": "straight-face-test_idiom",
+"w": "straight-face test",
+"kind": "idiom",
+"gloss": [
+"A tongue-in-cheek test of the merits of an argument which asks whether it can be made with a straight face (without laughing)."
+]
+},
+{
+"id": "reset-the-dial_idiom",
+"w": "reset the dial",
+"kind": "idiom",
+"gloss": [
+"To change something radically; to reform or revolutionize something."
+]
+},
+{
+"id": "take-a-dookie_idiom",
+"w": "take a dookie",
+"kind": "idiom",
+"gloss": [
+"To defecate."
+]
+},
+{
+"id": "hit-the-accelerator_idiom",
+"w": "hit the accelerator",
+"kind": "idiom",
+"gloss": [
+"Synonym of hit the gas."
+]
+},
+{
+"id": "first-mover-disadvantage_idiom",
+"w": "first-mover disadvantage",
+"kind": "idiom",
+"gloss": [
+"A situation in which a company or individual that creates or introduces a new idea, product, or service is later at a disadvantage because others are able to copy or improve upon it, making the original seem less innovative or valuable, or because of other factors, such as breaking down barriers (at a cost) that others thus won't have to face."
+]
+},
+{
+"id": "get-the-door_idiom",
+"w": "get the door",
+"kind": "idiom",
+"gloss": [
+"To open a door to help another person to pass through."
+]
+},
+{
+"id": "bawl-one-s-eyes-out_idiom",
+"w": "bawl one's eyes out",
+"kind": "idiom",
+"gloss": [
+"To cry, shed tears, weep loudly."
+]
+},
+{
+"id": "make-oneself-clear_idiom",
+"w": "make oneself clear",
+"kind": "idiom",
+"gloss": [
+"To have one's meaning fully understood."
+]
+},
+{
+"id": "buy-a-ticket-to_idiom",
+"w": "buy a ticket to",
+"kind": "idiom",
+"gloss": [
+"Used to indicate that someone is in agreement with an assertion, statement, or suggestion."
+]
+},
+{
+"id": "catch-a-stray_idiom",
+"w": "catch a stray",
+"kind": "idiom",
+"gloss": [
+"To be unexpectedly and casually insulted in a seemingly unrelated discussion or argument."
+]
+},
+{
+"id": "bet-the-ranch_idiom",
+"w": "bet the ranch",
+"kind": "idiom",
+"gloss": [
+"Synonym of bet the farm."
+]
+},
+{
+"id": "sail-the-red-sea_idiom",
+"w": "sail the Red Sea",
+"kind": "idiom",
+"gloss": [
+"To have vaginal sex with a woman during her menstruation"
+]
+},
+{
+"id": "blow-someone-s-back-out_idiom",
+"w": "blow someone's back out",
+"kind": "idiom",
+"gloss": [
+"To sexually penetrate someone in a vigorous, intense manner, as if causing them to throw out their back."
+]
+},
+{
+"id": "i-d-like-to-see-someone-try_idiom",
+"w": "I'd like to see someone try",
+"kind": "idiom",
+"gloss": [
+"Expressing a threat or challenge to someone."
+]
+},
+{
+"id": "otherwise-engaged_idiom",
+"w": "otherwise engaged",
+"kind": "idiom",
+"gloss": [
+"busy doing something else"
+]
+},
+{
+"id": "hold-one-s-jaw_idiom",
+"w": "hold one's jaw",
+"kind": "idiom",
+"gloss": [
+"Used other than figuratively or idiomatically: see hold, jaw."
+]
+},
+{
+"id": "in-no-small-part_idiom",
+"w": "in no small part",
+"kind": "idiom",
+"gloss": [
+"Synonym of in no small measure."
+]
+},
+{
+"id": "dim-and-distant_idiom",
+"w": "dim and distant",
+"kind": "idiom",
+"gloss": [
+"Of a very long time ago, so as to be almost forgotten."
+]
+},
+{
+"id": "floor-one-could-eat-off_idiom",
+"w": "floor one could eat off",
+"kind": "idiom",
+"gloss": [
+"An extremely clean floor."
+]
+},
+{
+"id": "rough-justice_idiom",
+"w": "rough justice",
+"kind": "idiom",
+"gloss": [
+"Treatment or punishment that is not considered fair or in accordance with the law."
+]
+},
+{
+"id": "race-of-truth_idiom",
+"w": "race of truth",
+"kind": "idiom",
+"gloss": [
+"A time trial."
+]
+},
+{
+"id": "arrow-in-the-quiver_idiom",
+"w": "arrow in the quiver",
+"kind": "idiom",
+"gloss": [
+"One of several available options or courses of action."
+]
+},
+{
+"id": "in-token-of_idiom",
+"w": "in token of",
+"kind": "idiom",
+"gloss": [
+"As an indication of; in a show of; on account of; because of."
+]
+},
+{
+"id": "benjamin-button_idiom",
+"w": "Benjamin Button",
+"kind": "idiom",
+"gloss": [
+"To seemingly age in reverse; to appear younger, either through changes in appearance or one's personality and lifestyle."
+]
+},
+{
+"id": "close-one-s-mind_idiom",
+"w": "close one's mind",
+"kind": "idiom",
+"gloss": [
+"To refuse to understand things."
+]
+},
+{
+"id": "break-a-promise_idiom",
+"w": "break a promise",
+"kind": "idiom",
+"gloss": [
+"To fail to keep a promise."
+]
+},
+{
+"id": "land-in-someone-s-lap_idiom",
+"w": "land in someone's lap",
+"kind": "idiom",
+"gloss": [
+"To come into somebody's possession without that person making any effort to attain it, and possibly without them expecting it."
+]
+},
+{
+"id": "smile-a-thousand-smiles_idiom",
+"w": "smile a thousand smiles",
+"kind": "idiom",
+"gloss": [
+"To smile a very beaming smile"
+]
+},
+{
+"id": "that-s-that-on-that_idiom",
+"w": "that's that on that",
+"kind": "idiom",
+"gloss": [
+"Synonym of that's that; there is nothing more to say or to do concerning the matter and is not up for discussion or debate."
+]
+},
+{
+"id": "have-a-time-of-it_idiom",
+"w": "have a time of it",
+"kind": "idiom",
+"gloss": [
+"To undergo a painful or difficult experience."
+]
+},
+{
+"id": "welsh-comb_idiom",
+"w": "Welsh comb",
+"kind": "idiom",
+"gloss": [
+"One's fingers, used as an improvised method to straighten one's hair."
+]
+},
+{
+"id": "give-someone-a-shout_idiom",
+"w": "give someone a shout",
+"kind": "idiom",
+"gloss": [
+"To contact or get in touch with someone."
+]
+},
+{
+"id": "baby-and-bathwater_idiom",
+"w": "baby and bathwater",
+"kind": "idiom",
+"gloss": [
+"Used in reference to an error in which something valuable is discarded in the process of removing or rejecting something unwanted."
+]
+},
+{
+"id": "does-the-pope-wear-a-funny-hat_idiom",
+"w": "does the Pope wear a funny hat",
+"kind": "idiom",
+"gloss": [
+"Obviously! Rhetorical question in response to a question where the answer is an emphatic yes."
+]
+},
+{
+"id": "flash-the-cash_idiom",
+"w": "flash the cash",
+"kind": "idiom",
+"gloss": [
+"To spend money, especially in an ostentatious manner; to pay up."
+]
+},
+{
+"id": "stir-the-embers_idiom",
+"w": "stir the embers",
+"kind": "idiom",
+"gloss": [
+"Synonym of fan the flames."
+]
+},
+{
+"id": "feed-the-fire_idiom",
+"w": "feed the fire",
+"kind": "idiom",
+"gloss": [
+"Synonym of add fuel to the fire."
+]
+},
+{
+"id": "show-colour_idiom",
+"w": "show colour",
+"kind": "idiom",
+"gloss": [
+"To get angry, to scowl."
+]
+},
+{
+"id": "cream-the-crop_idiom",
+"w": "cream the crop",
+"kind": "idiom",
+"gloss": [
+"To pick out the most valuable or desirable things or people from a group for one's own interests."
+]
+},
+{
+"id": "roll-the-pitch_idiom",
+"w": "roll the pitch",
+"kind": "idiom",
+"gloss": [
+"Preparing audiences for an unpopular change."
+]
+},
+{
+"id": "wipe-someone-s-nose_idiom",
+"w": "wipe someone's nose",
+"kind": "idiom",
+"gloss": [
+"To defeat someone humiliatingly, usually by robbing or killing."
+]
+},
+{
+"id": "dead-inside_idiom",
+"w": "dead inside",
+"kind": "idiom",
+"gloss": [
+"Unable to feel any emotions, especially as a symptom of depression."
+]
+},
+{
+"id": "have-other-ideas_idiom",
+"w": "have other ideas",
+"kind": "idiom",
+"gloss": [
+"To do something different from what is proposed or expected."
+]
+},
+{
+"id": "wouldn-t-you-say_idiom",
+"w": "wouldn't you say",
+"kind": "idiom",
+"gloss": [
+"Don't you agree?"
+]
+},
+{
+"id": "work-into-the-ground_idiom",
+"w": "work into the ground",
+"kind": "idiom",
+"gloss": [
+"To exhaust through heavy labour."
+]
+},
+{
+"id": "rest-one-s-soul_idiom",
+"w": "rest one's soul",
+"kind": "idiom",
+"gloss": [
+"To wish that a person might find peace in the afterlife."
+]
+},
+{
+"id": "smoke-one-s-own-dope_idiom",
+"w": "smoke one's own dope",
+"kind": "idiom",
+"gloss": [
+"To believe one's own lies or posturings."
+]
+},
+{
+"id": "for-the-book_idiom",
+"w": "for the book",
+"kind": "idiom",
+"gloss": [
+"Notable, remarkable or surprising."
+]
+},
+{
+"id": "get-one-s-fuck-on_idiom",
+"w": "get one's fuck on",
+"kind": "idiom",
+"gloss": [
+"to have sex"
+]
+},
+{
+"id": "step-into-someone-s-shoes_idiom",
+"w": "step into someone's shoes",
+"kind": "idiom",
+"gloss": [
+"Synonym of stand in someone's shoes (“see from another's point of view”)."
+]
+},
+{
+"id": "suffer-in-silence_idiom",
+"w": "suffer in silence",
+"kind": "idiom",
+"gloss": [
+"To tolerate a bad situation without complaining."
+]
+},
+{
+"id": "lay-store-by_idiom",
+"w": "lay store by",
+"kind": "idiom",
+"gloss": [
+"Synonym of set store by."
+]
+},
+{
+"id": "tip-of-the-ice-cube_idiom",
+"w": "tip of the ice cube",
+"kind": "idiom",
+"gloss": [
+"The first aspect of an insignificant or exaggerated problem or situation."
+]
+},
+{
+"id": "leave-the-ball-in-someone-s-court_idiom",
+"w": "leave the ball in someone's court",
+"kind": "idiom",
+"gloss": [
+"To hand over the responsibility or choice to someone to make a decision or take action about something."
+]
+},
+{
+"id": "put-someone-on-to_idiom",
+"w": "put someone on to",
+"kind": "idiom",
+"gloss": [
+"To show; to draw someone's attention to something useful or interesting."
+]
+},
+{
+"id": "milk-of-human-kindness_idiom",
+"w": "milk of human kindness",
+"kind": "idiom",
+"gloss": [
+"Compassion shown to other people."
+]
+},
+{
+"id": "like-a-champ_idiom",
+"w": "like a champ",
+"kind": "idiom",
+"gloss": [
+"Very well; with great success or skill."
+]
+},
+{
+"id": "throw-an-ant-into-a-sty_idiom",
+"w": "throw an ant into a sty",
+"kind": "idiom",
+"gloss": [
+"To cause confusion."
+]
+},
+{
+"id": "sour-tooth_idiom",
+"w": "sour tooth",
+"kind": "idiom",
+"gloss": [
+"A liking for foods that are sour."
+]
+},
+{
+"id": "spicy-tooth_idiom",
+"w": "spicy tooth",
+"kind": "idiom",
+"gloss": [
+"A liking for foods that are spicy."
+]
+},
+{
+"id": "salty-tooth_idiom",
+"w": "salty tooth",
+"kind": "idiom",
+"gloss": [
+"A liking for foods that are salty."
+]
+},
+{
+"id": "spoil-the-market_idiom",
+"w": "spoil the market",
+"kind": "idiom",
+"gloss": [
+"To set higher standards by overachieving, so others look inferior or unmotivated in comparison."
+]
+},
+{
+"id": "gone-case_idiom",
+"w": "gone case",
+"kind": "idiom",
+"gloss": [
+"Someone or something that is deemed irredeemable, hopeless and beyond help; a doomed person or thing."
+]
+},
+{
+"id": "fogged-out_idiom",
+"w": "fogged out",
+"kind": "idiom",
+"gloss": [
+"In a confused and unaware mental state."
+]
+},
+{
+"id": "play-all-one-s-cards_idiom",
+"w": "play all one's cards",
+"kind": "idiom",
+"gloss": [
+"To use all one's resources."
+]
+},
+{
+"id": "ugly-customer_idiom",
+"w": "ugly customer",
+"kind": "idiom",
+"gloss": [
+"Someone or something unwelcome or unpleasant."
+]
+}
+]

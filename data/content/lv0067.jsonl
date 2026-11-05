@@ -1,0 +1,100 @@
+{"id":"insult_verb","th":"ดูหมิ่น; ด่า; สบประมาท","ex":"He insulted her in front of everyone at the meeting.","exTh":"เขาดูหมิ่นเธอต่อหน้าทุกคนในที่ประชุม"}
+{"id":"excel_verb","th":"เก่งเป็นเลิศ; โดดเด่น","ex":"She excels at math and science.","exTh":"เธอเก่งคณิตศาสตร์และวิทยาศาสตร์เป็นพิเศษ"}
+{"id":"battlefield_noun","th":"สมรภูมิ; สนามรบ","ex":"The old battlefield is now a quiet park.","exTh":"สมรภูมิเก่าตอนนี้กลายเป็นสวนสาธารณะที่เงียบสงบ"}
+{"id":"worthless_adj","th":"ไร้ค่า; ไม่มีประโยชน์","ex":"The old coins turned out to be worthless.","exTh":"เหรียญเก่าเหล่านั้นกลายเป็นของไร้ค่า"}
+{"id":"retailer_noun","th":"ผู้ค้าปลีก; ร้านค้าปลีก","ex":"The retailer is having a big sale this weekend.","exTh":"ร้านค้าปลีกจัดลดราคาครั้งใหญ่ในสุดสัปดาห์นี้"}
+{"id":"vanity_noun","th":"ความหลงตัวเอง; ความเย่อหยิ่ง","ex":"His vanity made him spend hours in front of the mirror.","exTh":"ความหลงตัวเองทำให้เขายืนหน้ากระจกเป็นชั่วโมง"}
+{"id":"vigor_noun","th":"พลัง; ความแข็งแรงกระปรี้กระเปร่า","ex":"He started the new project with great vigor.","exTh":"เขาเริ่มโครงการใหม่ด้วยพลังเต็มเปี่ยม","note":"สะกดแบบอังกฤษคือ vigour"}
+{"id":"tolerant_adj","th":"อดทนอดกลั้น; ใจกว้าง","ex":"We should be tolerant of different opinions.","exTh":"เราควรใจกว้างยอมรับความคิดเห็นที่แตกต่าง"}
+{"id":"translator_noun","th":"นักแปล; ล่าม","ex":"My sister works as a translator for a Japanese company.","exTh":"พี่สาวของฉันทำงานเป็นนักแปลให้บริษัทญี่ปุ่น"}
+{"id":"bitterly_adv","th":"อย่างขมขื่น; อย่างรุนแรง","ex":"She complained bitterly about the poor service.","exTh":"เธอบ่นอย่างขมขื่นเรื่องการบริการที่แย่"}
+{"id":"willingly_adv","th":"ด้วยความเต็มใจ; อย่างเต็มใจ","ex":"He willingly helped us move to the new house.","exTh":"เขาเต็มใจช่วยเราย้ายไปบ้านหลังใหม่"}
+{"id":"starvation_noun","th":"ความอดอยาก; การอดอาหารจนตาย","ex":"Many families faced starvation during the drought.","exTh":"หลายครอบครัวเผชิญความอดอยากในช่วงภัยแล้ง"}
+{"id":"unrest_noun","th":"ความไม่สงบ; ความวุ่นวาย","ex":"Rising prices caused social unrest in the city.","exTh":"ราคาสินค้าที่สูงขึ้นทำให้เกิดความไม่สงบในสังคมของเมือง"}
+{"id":"comb_verb","th":"หวี; ค้นหาอย่างละเอียด","ex":"She combed her hair before leaving the house.","exTh":"เธอหวีผมก่อนออกจากบ้าน"}
+{"id":"traverse_noun","th":"การข้าม; ทางข้าม","ex":"The traverse across the rocky ridge took two hours.","exTh":"การข้ามสันเขาหินใช้เวลาสองชั่วโมง","note":"คำนามนี้พบน้อย มักใช้ในการปีนเขาและงานสำรวจ"}
+{"id":"trader_noun","th":"พ่อค้า; นักเทรด","ex":"The trader sold spices at the market every morning.","exTh":"พ่อค้าขายเครื่องเทศที่ตลาดทุกเช้า"}
+{"id":"syllable_noun","th":"พยางค์","ex":"The word banana has three syllables.","exTh":"คำว่า banana มีสามพยางค์"}
+{"id":"merge_verb","th":"รวมกัน; ควบรวม","ex":"The two small companies decided to merge.","exTh":"บริษัทเล็กสองแห่งตัดสินใจควบรวมกัน"}
+{"id":"transistor_noun","th":"ทรานซิสเตอร์","ex":"A transistor is a tiny part inside every computer chip.","exTh":"ทรานซิสเตอร์เป็นชิ้นส่วนเล็กๆ ภายในชิปคอมพิวเตอร์ทุกตัว"}
+{"id":"predicate_verb","th":"ตั้งอยู่บน; อาศัยเป็นพื้นฐาน","ex":"Their plan is predicated on good weather.","exTh":"แผนของพวกเขาตั้งอยู่บนสมมติฐานว่าอากาศจะดี","note":"ภาษาทางการ มักใช้ในรูป be predicated on"}
+{"id":"skip_verb","th":"ข้าม; โดด; กระโดดเขย่ง","ex":"I skipped breakfast because I was late.","exTh":"ฉันข้ามมื้อเช้าเพราะสาย"}
+{"id":"needy_adj","th":"ยากจน; ขัดสน; ต้องการความเอาใจใส่","ex":"The charity gives food to needy families.","exTh":"องค์กรการกุศลแจกอาหารให้ครอบครัวที่ขัดสน"}
+{"id":"underwater_adv","th":"ใต้น้ำ","ex":"The divers swam underwater for several minutes.","exTh":"นักดำน้ำว่ายอยู่ใต้น้ำหลายนาที"}
+{"id":"astonishing_adj","th":"น่าประหลาดใจ; น่าอัศจรรย์","ex":"The view from the mountain was astonishing.","exTh":"วิวจากบนภูเขาน่าอัศจรรย์มาก"}
+{"id":"dwarf_noun","th":"คนแคระ; ดาวแคระ","ex":"In the story, a dwarf lived in a cave.","exTh":"ในเรื่อง มีคนแคระอาศัยอยู่ในถ้ำ","note":"ใช้กับคนจริงอาจไม่สุภาพ ใช้ในนิทานหรือดาราศาสตร์ได้"}
+{"id":"impossibility_noun","th":"ความเป็นไปไม่ได้; สิ่งที่เป็นไปไม่ได้","ex":"The impossibility of the task became clear to everyone.","exTh":"ทุกคนเห็นชัดว่างานนี้เป็นไปไม่ได้"}
+{"id":"squad_noun","th":"หน่วย; ทีม; กลุ่ม","ex":"The police squad arrived within five minutes.","exTh":"หน่วยตำรวจมาถึงภายในห้านาที"}
+{"id":"densely_adv","th":"อย่างหนาแน่น","ex":"The island is densely populated.","exTh":"เกาะนี้มีประชากรอาศัยอยู่อย่างหนาแน่น"}
+{"id":"handicap_noun","th":"อุปสรรค; ข้อเสียเปรียบ; ความพิการ","ex":"Not speaking English is a big handicap in this job.","exTh":"การพูดภาษาอังกฤษไม่ได้เป็นข้อเสียเปรียบใหญ่ในงานนี้","note":"ความหมายว่า ความพิการ อาจฟังไม่สุภาพ ปัจจุบันนิยมใช้ disability"}
+{"id":"reconsider_verb","th":"พิจารณาใหม่; คิดทบทวน","ex":"Please reconsider your decision before it is too late.","exTh":"โปรดคิดทบทวนการตัดสินใจของคุณก่อนที่จะสายเกินไป"}
+{"id":"rally_noun","th":"การชุมนุม; การรวมพลัง; การตีโต้ (กีฬา)","ex":"Thousands of people joined the rally in the park.","exTh":"ผู้คนหลายพันคนเข้าร่วมการชุมนุมในสวนสาธารณะ"}
+{"id":"owl_noun","th":"นกฮูก; นกเค้าแมว","ex":"An owl was sitting in the tree at night.","exTh":"นกฮูกตัวหนึ่งเกาะอยู่บนต้นไม้ตอนกลางคืน"}
+{"id":"inaccurate_adj","th":"ไม่ถูกต้อง; คลาดเคลื่อน","ex":"The news report was inaccurate.","exTh":"รายงานข่าวนั้นไม่ถูกต้อง"}
+{"id":"mock_adj","th":"จำลอง; เลียนแบบ; ล้อเลียน","ex":"Students took a mock exam before the real test.","exTh":"นักเรียนสอบจำลองก่อนสอบจริง"}
+{"id":"scar_noun","th":"แผลเป็น; รอยแผล","ex":"He has a small scar on his knee.","exTh":"เขามีแผลเป็นเล็กๆ ที่หัวเข่า"}
+{"id":"listener_noun","th":"ผู้ฟัง","ex":"She is a good listener, so friends tell her everything.","exTh":"เธอเป็นผู้ฟังที่ดี เพื่อนๆ จึงเล่าทุกเรื่องให้เธอฟัง"}
+{"id":"cellar_noun","th":"ห้องใต้ดิน; ห้องเก็บของใต้ดิน","ex":"They keep old wine in the cellar.","exTh":"พวกเขาเก็บไวน์เก่าไว้ในห้องใต้ดิน"}
+{"id":"outpatient_noun","th":"ผู้ป่วยนอก","ex":"He went to the hospital as an outpatient.","exTh":"เขาไปโรงพยาบาลในฐานะผู้ป่วยนอก"}
+{"id":"liner_noun","th":"เรือเดินสมุทรโดยสาร; แผ่นรอง; ดินสอเขียนขอบตา","ex":"A big ocean liner entered the port this morning.","exTh":"เรือเดินสมุทรลำใหญ่เข้าท่าเรือเมื่อเช้านี้"}
+{"id":"jam_verb","th":"อัดแน่น; ติดขัด; ทำให้ติด","ex":"The printer jammed again in the middle of my work.","exTh":"เครื่องพิมพ์กระดาษติดอีกแล้วกลางคันตอนฉันทำงาน"}
+{"id":"bio_noun","th":"ประวัติย่อ; ชีวประวัติสั้นๆ","ex":"Please send a short bio for the event program.","exTh":"กรุณาส่งประวัติย่อสั้นๆ สำหรับโปรแกรมงาน","note":"ย่อมาจาก biography; อีกความหมายคือชีววิทยา (ภาษาพูด)"}
+{"id":"nicely_adv","th":"อย่างดี; อย่างน่ารัก; อย่างสุภาพ","ex":"She asked nicely, so I gave her the book.","exTh":"เธอขอด้วยดี ฉันเลยให้หนังสือเธอไป"}
+{"id":"rite_noun","th":"พิธี; พิธีกรรม","ex":"The village held a rite to welcome the new year.","exTh":"หมู่บ้านจัดพิธีต้อนรับปีใหม่"}
+{"id":"donation_noun","th":"การบริจาค; เงินบริจาค","ex":"I made a small donation to the animal shelter.","exTh":"ฉันบริจาคเงินจำนวนเล็กน้อยให้ศูนย์พักพิงสัตว์"}
+{"id":"holocaust_noun","th":"การล้างเผ่าพันธุ์; หายนะครั้งใหญ่","ex":"Students learn about the Holocaust in history class.","exTh":"นักเรียนเรียนเรื่องเหตุการณ์ฮอโลคอสต์ในวิชาประวัติศาสตร์","note":"เมื่อขึ้นต้นด้วยตัวใหญ่ หมายถึงการล้างเผ่าพันธุ์ชาวยิวในสงครามโลกครั้งที่สอง"}
+{"id":"nightmare_noun","th":"ฝันร้าย; เรื่องที่เลวร้ายมาก","ex":"I had a nightmare and woke up at three.","exTh":"ฉันฝันร้ายแล้วตื่นตอนตีสาม"}
+{"id":"upgrade_noun","th":"การอัปเกรด; ของที่ปรับปรุงให้ดีขึ้น","ex":"The new software upgrade is free for all users.","exTh":"การอัปเกรดซอฟต์แวร์ใหม่ฟรีสำหรับผู้ใช้ทุกคน"}
+{"id":"upgrade_verb","th":"อัปเกรด; ปรับปรุงให้ดีขึ้น","ex":"I want to upgrade my phone this year.","exTh":"ปีนี้ฉันอยากอัปเกรดโทรศัพท์"}
+{"id":"benevolent_adj","th":"ใจดี; เมตตากรุณา","ex":"The benevolent owner gave free meals to workers.","exTh":"เจ้าของใจดีแจกอาหารฟรีให้คนงาน"}
+{"id":"penicillin_noun","th":"เพนิซิลลิน","ex":"Penicillin was the first widely used antibiotic.","exTh":"เพนิซิลลินเป็นยาปฏิชีวนะตัวแรกที่ใช้กันอย่างกว้างขวาง"}
+{"id":"dove_noun","th":"นกพิราบ; นกเขา","ex":"A white dove is a symbol of peace.","exTh":"นกพิราบสีขาวเป็นสัญลักษณ์ของสันติภาพ"}
+{"id":"wipe_verb","th":"เช็ด; ถู; ลบ","ex":"Please wipe the table after dinner.","exTh":"กรุณาเช็ดโต๊ะหลังมื้อเย็น"}
+{"id":"thirst_noun","th":"ความกระหายน้ำ; ความอยาก","ex":"A cold drink quickly cured my thirst.","exTh":"เครื่องดื่มเย็นๆ ช่วยดับกระหายของฉันได้ทันที"}
+{"id":"calmly_adv","th":"อย่างใจเย็น; อย่างสงบ","ex":"She calmly explained what had happened.","exTh":"เธออธิบายสิ่งที่เกิดขึ้นอย่างใจเย็น"}
+{"id":"misfortune_noun","th":"โชคร้าย; เคราะห์ร้าย","ex":"He had the misfortune of losing his job twice.","exTh":"เขาโชคร้ายตกงานถึงสองครั้ง"}
+{"id":"roar_verb","th":"คำราม; ตะโกนเสียงดัง; ดังกึกก้อง","ex":"The lion roared loudly in the zoo.","exTh":"สิงโตคำรามเสียงดังในสวนสัตว์"}
+{"id":"soaked_adj","th":"เปียกโชก; ชุ่ม","ex":"I was soaked after walking in the rain.","exTh":"ฉันเปียกโชกหลังเดินตากฝน"}
+{"id":"vinegar_noun","th":"น้ำส้มสายชู","ex":"Add a little vinegar to the salad.","exTh":"ใส่น้ำส้มสายชูนิดหน่อยลงในสลัด"}
+{"id":"affordable_adj","th":"ราคาไม่แพง; จ่ายไหว","ex":"They are looking for an affordable apartment.","exTh":"พวกเขากำลังหาอพาร์ตเมนต์ราคาจ่ายไหว"}
+{"id":"risky_adj","th":"เสี่ยง; อันตราย","ex":"Driving fast in the rain is risky.","exTh":"ขับรถเร็วตอนฝนตกเป็นเรื่องเสี่ยง"}
+{"id":"overthrow_verb","th":"โค่นล้ม; ล้มล้าง","ex":"The army tried to overthrow the government.","exTh":"กองทัพพยายามโค่นล้มรัฐบาล"}
+{"id":"resign_verb","th":"ลาออก; สละตำแหน่ง","ex":"The manager resigned after the company lost money.","exTh":"ผู้จัดการลาออกหลังบริษัทขาดทุน"}
+{"id":"biotechnology_noun","th":"เทคโนโลยีชีวภาพ","ex":"She studies biotechnology at university.","exTh":"เธอเรียนเทคโนโลยีชีวภาพที่มหาวิทยาลัย"}
+{"id":"bothered_adj","th":"รำคาญ; กังวลใจ; ใส่ใจ","ex":"He was bothered by the noise from the street.","exTh":"เขารำคาญเสียงดังจากถนน"}
+{"id":"crab_noun","th":"ปู","ex":"We ate fresh crab at the beach restaurant.","exTh":"เรากินปูสดที่ร้านอาหารริมหาด"}
+{"id":"astonished_adj","th":"ประหลาดใจมาก; ตกตะลึง","ex":"I was astonished by the good news.","exTh":"ฉันตกตะลึงกับข่าวดี"}
+{"id":"overly_adv","th":"เกินไป; มากเกินไป","ex":"Don't be overly worried about the exam.","exTh":"อย่ากังวลเรื่องการสอบมากเกินไป"}
+{"id":"rub_verb","th":"ถู; นวด; ขัด","ex":"He rubbed his eyes because he was sleepy.","exTh":"เขาขยี้ตาเพราะง่วงนอน"}
+{"id":"disapproval_noun","th":"การไม่เห็นด้วย; ความไม่พอใจ","ex":"Her father looked at her with disapproval.","exTh":"พ่อของเธอมองเธอด้วยความไม่พอใจ"}
+{"id":"viewer_noun","th":"ผู้ชม; ผู้ชมโทรทัศน์","ex":"Millions of viewers watched the final match.","exTh":"ผู้ชมหลายล้านคนดูการแข่งขันนัดชิง"}
+{"id":"butcher_verb","th":"ฆ่าและชำแหละ; ทำพัง; สังหารหมู่","ex":"The farmer butchered a pig for the festival.","exTh":"ชาวนาชำแหละหมูสำหรับงานเทศกาล"}
+{"id":"torch_noun","th":"ไฟฉาย; คบเพลิง","ex":"Bring a torch because the path is dark.","exTh":"เอาไฟฉายไปด้วยเพราะทางมืด","note":"อังกฤษ-อังกฤษใช้ torch เป็นไฟฉาย อเมริกันใช้ flashlight"}
+{"id":"thermometer_noun","th":"เทอร์โมมิเตอร์; ปรอทวัดไข้","ex":"The nurse checked my temperature with a thermometer.","exTh":"พยาบาลวัดอุณหภูมิของฉันด้วยปรอท"}
+{"id":"wreck_noun","th":"ซากเรือ; ซากรถ; คนที่ย่ำแย่","ex":"Divers found the wreck of an old ship.","exTh":"นักดำน้ำพบซากเรือเก่า"}
+{"id":"innate_adj","th":"มาแต่กำเนิด; ติดตัวมาแต่เกิด","ex":"Some children have an innate talent for music.","exTh":"เด็กบางคนมีพรสวรรค์ด้านดนตรีมาแต่กำเนิด"}
+{"id":"helper_noun","th":"ผู้ช่วย; ผู้ช่วยเหลือ","ex":"My little brother is a good helper in the kitchen.","exTh":"น้องชายของฉันเป็นผู้ช่วยที่ดีในครัว"}
+{"id":"cube_noun","th":"ลูกบาศก์; ก้อนสี่เหลี่ยม","ex":"Put two ice cubes in my drink, please.","exTh":"ช่วยใส่น้ำแข็งก้อนสองก้อนในเครื่องดื่มของฉันหน่อย"}
+{"id":"fireplace_noun","th":"เตาผิง","ex":"The family sat around the fireplace in winter.","exTh":"ครอบครัวนั่งล้อมเตาผิงในฤดูหนาว"}
+{"id":"catastrophe_noun","th":"หายนะ; ภัยพิบัติ","ex":"The flood was a catastrophe for the farmers.","exTh":"น้ำท่วมเป็นหายนะสำหรับชาวนา"}
+{"id":"coaching_noun","th":"การฝึกสอน; การติวเข้ม","ex":"He got private coaching to improve his English.","exTh":"เขาเรียนพิเศษตัวต่อตัวเพื่อพัฒนาภาษาอังกฤษ"}
+{"id":"console_verb","th":"ปลอบใจ; ปลอบโยน","ex":"She tried to console her friend after the bad news.","exTh":"เธอพยายามปลอบใจเพื่อนหลังรู้ข่าวร้าย"}
+{"id":"explorer_noun","th":"นักสำรวจ","ex":"The explorer spent years in the jungle.","exTh":"นักสำรวจใช้เวลาหลายปีอยู่ในป่าดิบ"}
+{"id":"ramp_noun","th":"ทางลาด","ex":"There is a ramp for wheelchairs at the entrance.","exTh":"มีทางลาดสำหรับรถเข็นที่ทางเข้า"}
+{"id":"tutor_noun","th":"ครูพิเศษ; ติวเตอร์","ex":"I have a tutor who helps me with math.","exTh":"ฉันมีติวเตอร์ที่ช่วยสอนคณิตศาสตร์"}
+{"id":"anguish_noun","th":"ความทุกข์ทรมานใจ; ความปวดร้าวใจ","ex":"She cried in anguish when she heard the news.","exTh":"เธอร้องไห้ด้วยความปวดร้าวใจเมื่อได้ยินข่าว"}
+{"id":"alphabetical_adj","th":"ตามลำดับตัวอักษร","ex":"The names are listed in alphabetical order.","exTh":"รายชื่อเรียงตามลำดับตัวอักษร"}
+{"id":"tub_noun","th":"อ่างอาบน้ำ; ถัง; กระปุก","ex":"She bought a tub of ice cream.","exTh":"เธอซื้อไอศกรีมกระปุกใหญ่หนึ่งกระปุก"}
+{"id":"flip_verb","th":"พลิก; ตีลังกา; โยนเหรียญ","ex":"Flip the pancake when the bottom turns brown.","exTh":"พลิกแพนเค้กเมื่อด้านล่างเป็นสีน้ำตาล"}
+{"id":"disguise_noun","th":"การปลอมตัว; เครื่องแต่งกายปลอมตัว","ex":"He wore a wig as a disguise.","exTh":"เขาสวมวิกเพื่อปลอมตัว"}
+{"id":"disguise_verb","th":"ปลอมตัว; ปกปิด; อำพราง","ex":"She disguised herself as a man to enter the contest.","exTh":"เธอปลอมตัวเป็นผู้ชายเพื่อเข้าร่วมการแข่งขัน"}
+{"id":"resonant_adj","th":"ก้องกังวาน; ซึ่งสะท้อนความรู้สึก","ex":"He has a deep, resonant voice.","exTh":"เขามีเสียงทุ้มก้องกังวาน"}
+{"id":"invoke_verb","th":"อ้างถึง; เรียกใช้; อัญเชิญ","ex":"The lawyer invoked a rule to protect his client.","exTh":"ทนายอ้างกฎข้อหนึ่งเพื่อปกป้องลูกความ","note":"ภาษาทางการ; ในการเขียนโปรแกรมแปลว่า เรียกใช้ฟังก์ชัน"}
+{"id":"unavailable_adj","th":"ไม่ว่าง; ไม่มีให้; หาไม่ได้","ex":"The doctor is unavailable until Monday.","exTh":"คุณหมอไม่ว่างจนถึงวันจันทร์"}
+{"id":"corporal_adj","th":"เกี่ยวกับร่างกาย","ex":"Corporal punishment is banned in many schools.","exTh":"การลงโทษทางกายถูกห้ามในโรงเรียนหลายแห่ง","note":"ภาษาทางการ ใช้ในวลี corporal punishment"}
+{"id":"comfortably_adv","th":"อย่างสบาย; อย่างผ่อนคลาย","ex":"Five people can sit comfortably in this car.","exTh":"รถคันนี้นั่งได้อย่างสบายห้าคน"}
+{"id":"muddy_adj","th":"เป็นโคลน; เปื้อนโคลน","ex":"Take off your muddy shoes before you come in.","exTh":"ถอดรองเท้าที่เปื้อนโคลนก่อนเข้ามา"}
+{"id":"steer_verb","th":"บังคับทิศทาง; ขับ; นำพา","ex":"He steered the boat toward the shore.","exTh":"เขาบังคับเรือมุ่งหน้าเข้าฝั่ง"}
+{"id":"artificially_adv","th":"อย่างเทียม; โดยการสร้างขึ้น","ex":"The room was artificially cooled all day.","exTh":"ห้องนี้ถูกทำให้เย็นด้วยเครื่องทั้งวัน"}
+{"id":"unsafe_adj","th":"ไม่ปลอดภัย; เป็นอันตราย","ex":"The old bridge is unsafe for heavy trucks.","exTh":"สะพานเก่าไม่ปลอดภัยสำหรับรถบรรทุกหนัก"}
+{"id":"rhythmic_adj","th":"เป็นจังหวะ; มีจังหวะ","ex":"I like the rhythmic sound of the rain.","exTh":"ฉันชอบเสียงฝนที่ตกเป็นจังหวะ"}

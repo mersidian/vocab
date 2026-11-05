@@ -1,0 +1,902 @@
+[
+{
+"id": "line-off_pv",
+"w": "line off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To mark off using lines."
+]
+},
+{
+"id": "line-in_pv",
+"w": "line in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To finish a sketch or outline by using a permanent marker, pencil, etc. to trace over lines made with a softer implement."
+]
+},
+{
+"id": "sling-over_pv",
+"w": "sling over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Used other than figuratively or idiomatically: see sling, over."
+]
+},
+{
+"id": "sling-to_pv",
+"w": "sling to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To pay a bribe to a police officer from the profits of gambling."
+]
+},
+{
+"id": "sling-about_pv",
+"w": "sling about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of sling along."
+]
+},
+{
+"id": "sling-along_pv",
+"w": "sling along",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To hang around or loiter."
+]
+},
+{
+"id": "jerky-up_pv",
+"w": "jerky up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To turn (something) into jerky (dried meat)."
+]
+},
+{
+"id": "noodle-up_pv",
+"w": "noodle up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To come up with (something); to brainstorm (an idea)."
+]
+},
+{
+"id": "breadcrumb-up_pv",
+"w": "breadcrumb up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To coat (something) in breadcrumbs."
+]
+},
+{
+"id": "crumb-up_pv",
+"w": "crumb up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of clean up."
+]
+},
+{
+"id": "crumble-up_pv",
+"w": "crumble up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make (something) into crumbs."
+]
+},
+{
+"id": "be-on-at_pv",
+"w": "be on at",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To complain to (someone)."
+]
+},
+{
+"id": "butter-down_pv",
+"w": "butter down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To butter (something) thoroughly; to add a substantial amount of butter to (something)."
+]
+},
+{
+"id": "roll-away_pv",
+"w": "roll away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To move or spray away suddenly, as from being kicked, earthquakes, explosions, impacts, etc."
+]
+},
+{
+"id": "nick-up_pv",
+"w": "nick up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To nick or notch (someone or something) many times."
+]
+},
+{
+"id": "merc-up_pv",
+"w": "merc up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To hire mercenaries in a game."
+]
+},
+{
+"id": "sex-in_pv",
+"w": "sex in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To have sex with one or more members of a gang as an initiation."
+]
+},
+{
+"id": "blood-in_pv",
+"w": "blood in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To join a criminal gang by committing an act of violence (often murder) as an initiation."
+]
+},
+{
+"id": "blood-out_pv",
+"w": "blood out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To leave a criminal gang by committing a murder for the organization in order to be given permission to leave, because the departing gangbanger can not snitch without also being charged with the murder."
+]
+},
+{
+"id": "sniff-up_pv",
+"w": "sniff up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To sniff (something) in; to snort (something); to smell (something)."
+]
+},
+{
+"id": "coffee-up_pv",
+"w": "coffee up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To buy, make or drink a coffee."
+]
+},
+{
+"id": "caffeine-up_pv",
+"w": "caffeine up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To ingest caffeine, such as by drinking coffee or tea."
+]
+},
+{
+"id": "seat-down_pv",
+"w": "seat down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of sit down."
+]
+},
+{
+"id": "walk-behind_pv",
+"w": "walk behind",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To ride at the back of a self-propelled walk-behind lawnmower."
+]
+},
+{
+"id": "tone-with_pv",
+"w": "tone with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To match, blend or look good with (something)."
+]
+},
+{
+"id": "land-with_pv",
+"w": "land with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To assign extra work or burdensome work to (someone)."
+]
+},
+{
+"id": "futz-with_pv",
+"w": "futz with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To handle, tweak or mess with (something) idly, inefficiently or reluctantly."
+]
+},
+{
+"id": "read-across_pv",
+"w": "read across",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To draw a conclusion about one phenomenon based on another phenomenon."
+]
+},
+{
+"id": "beat-about_pv",
+"w": "beat about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To search for something; to look around for something; to hunt for something."
+]
+},
+{
+"id": "buzz-about_pv",
+"w": "buzz about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To run around or scurry around."
+]
+},
+{
+"id": "bucket-about_pv",
+"w": "bucket about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To be tossed around; to experience turbulence; to shake violently."
+]
+},
+{
+"id": "kick-about_pv",
+"w": "kick about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of kick around."
+]
+},
+{
+"id": "crap-around_pv",
+"w": "crap around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To waste time on foolish endeavors."
+]
+},
+{
+"id": "hang-round_pv",
+"w": "hang round",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of hang around."
+]
+},
+{
+"id": "lark-around_pv",
+"w": "lark around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To joke around and be silly or frivolous; to be silly to make people laugh."
+]
+},
+{
+"id": "lark-about_pv",
+"w": "lark about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of lark around."
+]
+},
+{
+"id": "loll-around_pv",
+"w": "loll around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To waste time by relaxing, sitting, reclining and being lazy."
+]
+},
+{
+"id": "loll-about_pv",
+"w": "loll about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of loll around."
+]
+},
+{
+"id": "hand-around_pv",
+"w": "hand around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To distribute something by having one person hand it to another so it spreads through the group."
+]
+},
+{
+"id": "dig-around_pv",
+"w": "dig around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To thoroughly search every part of an area or a container in hopes of finding something."
+]
+},
+{
+"id": "dig-round_pv",
+"w": "dig round",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of dig around."
+]
+},
+{
+"id": "hell-around_pv",
+"w": "hell around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To live a life of wild behavior; to stir up trouble or cause a commotion."
+]
+},
+{
+"id": "hack-around_pv",
+"w": "hack around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To be idle; to waste time; to socialize."
+]
+},
+{
+"id": "fuss-around_pv",
+"w": "fuss around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To engage in useless, annoying or unhelpful activities."
+]
+},
+{
+"id": "frig-around_pv",
+"w": "frig around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of fool around."
+]
+},
+{
+"id": "bugger-about_pv",
+"w": "bugger about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To waste time; to spend time on trivial tasks."
+]
+},
+{
+"id": "bugger-around_pv",
+"w": "bugger around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of bugger about."
+]
+},
+{
+"id": "pull-about_pv",
+"w": "pull about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To treat crudely, meanly or harshly."
+]
+},
+{
+"id": "see-after_pv",
+"w": "see after",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To look after, watch over or care for (someone)."
+]
+},
+{
+"id": "whore-after_pv",
+"w": "whore after",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To pursue (something or someone licentious or immoral)."
+]
+},
+{
+"id": "fetch-about_pv",
+"w": "fetch about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To come onto a new tack."
+]
+},
+{
+"id": "kick-against_pv",
+"w": "kick against",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To react to an uncontrollable situation suddenly, violently or aggressively."
+]
+},
+{
+"id": "ramp-along_pv",
+"w": "ramp along",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To sail on a tack that as all sails filled."
+]
+},
+{
+"id": "worry-along_pv",
+"w": "worry along",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To use great effort to progress; to persevere despite difficulties."
+]
+},
+{
+"id": "fool-along_pv",
+"w": "fool along",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To proceed slowly and leisurely."
+]
+},
+{
+"id": "drift-along_pv",
+"w": "drift along",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To idle through life; to be generally aimless."
+]
+},
+{
+"id": "cosy-along_pv",
+"w": "cosy along",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To falsely reassure (someone)."
+]
+},
+{
+"id": "hum-along_pv",
+"w": "hum along",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To continue functioning efficiently and smoothly without needing correction or supervision."
+]
+},
+{
+"id": "prepare-ahead_pv",
+"w": "prepare ahead",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make food before a meal; to prep meal ingredients so as to make it easy to cook a meal at the correct time."
+]
+},
+{
+"id": "roar-ahead_pv",
+"w": "roar ahead",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To greatly increase in speed or intensity."
+]
+},
+{
+"id": "radio-ahead_pv",
+"w": "radio ahead",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make make contact by radio at a destination before arriving there to let people there know one is coming and to make suitable arrangements."
+]
+},
+{
+"id": "phone-ahead_pv",
+"w": "phone ahead",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make a phone call at a destination before arriving there to let people there know one is coming and to make suitable arrangements."
+]
+},
+{
+"id": "call-ahead_pv",
+"w": "call ahead",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of phone ahead."
+]
+},
+{
+"id": "plan-ahead_pv",
+"w": "plan ahead",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To schedule or plan extensively for problems before it is needed; to come up with solutions before problems occur; to prepare for future situations."
+]
+},
+{
+"id": "lumber-with_pv",
+"w": "lumber with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To be required to interact with (someone) despite them being an annoyance, burden or problem."
+]
+},
+{
+"id": "loom-ahead_pv",
+"w": "loom ahead",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To be likely to occur and to be disastrous; to be foreboding."
+]
+},
+{
+"id": "settle-with_pv",
+"w": "settle with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To get revenge on (someone); to resolve a grudge with (someone)."
+]
+},
+{
+"id": "have-against_pv",
+"w": "have against",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To have (reasons) to dislike or disrespect (someone or something); to have (good cause) to hold a grudge against (someone)."
+]
+},
+{
+"id": "bound-ahead_pv",
+"w": "bound ahead",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To gather momentum; to increase quickly; to increase concerningly quickly."
+]
+},
+{
+"id": "power-ahead_pv",
+"w": "power ahead",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become stronger; to gather momentum; to increase in energy; to become more successful."
+]
+},
+{
+"id": "brief-against_pv",
+"w": "brief against",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To harm the reputation of (someone or something) by making unfavorable or demeaning comments about (someone or something)."
+]
+},
+{
+"id": "side-against_pv",
+"w": "side against",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To take sides in opposition to (someone or something); to favor or oppose a position in opposition to (someone or something)."
+]
+},
+{
+"id": "close-with_pv",
+"w": "close with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To fight in a battle with (someone)."
+]
+},
+{
+"id": "leap-ahead_pv",
+"w": "leap ahead",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make great strides; to advance far in advance of others; to innovate unexpectedly or in an unexpected manner."
+]
+},
+{
+"id": "nudge-ahead_pv",
+"w": "nudge ahead",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To increase slightly; to experience a token increase."
+]
+},
+{
+"id": "order-about_pv",
+"w": "order about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To bully (someone); to be bossy toward (someone); to dominate (someone)."
+]
+},
+{
+"id": "come-up-against_pv",
+"w": "come up against",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To face (someone, something) in a match, problem, competition or fight."
+]
+},
+{
+"id": "hedge-about_pv",
+"w": "hedge about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To encumber an agreement with rules and conditions."
+]
+},
+{
+"id": "hedge-around_pv",
+"w": "hedge around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of hedge about."
+]
+},
+{
+"id": "reason-with_pv",
+"w": "reason with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To convince (someone) to do (or not do) something using rational arguments; to get (someone) to view something rationally."
+]
+},
+{
+"id": "rip-apart_pv",
+"w": "rip apart",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To be destroyed due to the malevolent actions of others."
+]
+},
+{
+"id": "tease-apart_pv",
+"w": "tease apart",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To carefully separate two interlaced or interlocking items; to figuratively separate two opposing or overlapping concepts."
+]
+},
+{
+"id": "push-aside_pv",
+"w": "push aside",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To ignore, reject or subdue (something)."
+]
+},
+{
+"id": "fly-at_pv",
+"w": "fly at",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To viciously and aggressively attack (someone) eihter physically or verbally."
+]
+},
+{
+"id": "wink-at_pv",
+"w": "wink at",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To turn a blind eye to (something); to corruptly ignore (some wrongdoing); to pretend not to have seen (something); to signal one's approval of (illicit activities) while maintaining the ability to plausibly deny knowing about it; to tolerate or tacitly encourage (inappropriate, immoral or illegal behavior)."
+]
+},
+{
+"id": "boil-away_pv",
+"w": "boil away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To boil a liquid until it has turned entirely to steam/vapor."
+]
+},
+{
+"id": "tick-by_pv",
+"w": "tick by",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of tick past."
+]
+},
+{
+"id": "buy-down_pv",
+"w": "buy down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To reduce a mortgage interest rate by means of a buydown."
+]
+},
+{
+"id": "clew-down_pv",
+"w": "clew down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To secure an unfurled sail."
+]
+},
+{
+"id": "pop-for_pv",
+"w": "pop for",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To pay for (something) as a special treat or a gift; to spring for."
+]
+},
+{
+"id": "book-into_pv",
+"w": "book into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of book in."
+]
+},
+{
+"id": "drum-into_pv",
+"w": "drum into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To repeat (something) to (a person) until they accept, remember or understand it."
+]
+},
+{
+"id": "barge-into_pv",
+"w": "barge into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of barge in."
+]
+},
+{
+"id": "move-into_pv",
+"w": "move into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of move in (To start living or working in a new place)"
+]
+},
+{
+"id": "pot-on_pv",
+"w": "pot on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To move a potted plant to a larger, more suitable flowerpot."
+]
+},
+{
+"id": "lip-out_pv",
+"w": "lip out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To touch the rim of a hole or hoop but not go in."
+]
+},
+{
+"id": "dig-over_pv",
+"w": "dig over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To dig thoroughly through an area so as to loosen the soil and make it suitable for planting."
+]
+},
+{
+"id": "hash-over_pv",
+"w": "hash over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To engage in a long discussion of the details of a (topic)."
+]
+},
+{
+"id": "gain-over_pv",
+"w": "gain over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To win over (someone); to convince (someone) into joining one's own side in a conflict."
+]
+},
+{
+"id": "nose-over_pv",
+"w": "nose over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To crash by landing such that the nose of the plane hits the ground first, causing the plane to topple forward."
+]
+}
+]

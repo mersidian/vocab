@@ -1,0 +1,100 @@
+{"id":"folder_noun","th":"โฟลเดอร์; แฟ้มเอกสาร","ex":"I saved the photos in a new folder.","exTh":"ฉันเก็บรูปไว้ในโฟลเดอร์ใหม่"}
+{"id":"countryside_noun","th":"ชนบท; ท้องทุ่ง","ex":"They live in the countryside near a river.","exTh":"พวกเขาอาศัยอยู่ในชนบทใกล้แม่น้ำ"}
+{"id":"batch_noun","th":"ชุด; ล็อต; (ของที่ทำพร้อมกัน) หนึ่งเตา","ex":"She baked a batch of cookies for the party.","exTh":"เธออบคุกกี้หนึ่งเตาสำหรับงานปาร์ตี้"}
+{"id":"composer_noun","th":"นักแต่งเพลง; คีตกวี","ex":"Mozart was a famous composer.","exTh":"โมสาร์ทเป็นคีตกวีที่มีชื่อเสียง"}
+{"id":"robin_noun","th":"นกโรบิน","ex":"A robin sat on the garden fence.","exTh":"นกโรบินตัวหนึ่งเกาะอยู่บนรั้วสวน"}
+{"id":"downtown_adv","th":"ในตัวเมือง; ย่านใจกลางเมือง","ex":"We went downtown to buy new shoes.","exTh":"เราเข้าไปในตัวเมืองเพื่อซื้อรองเท้าใหม่","note":"ภาษาอเมริกัน"}
+{"id":"complain_verb","th":"บ่น; ร้องเรียน; ตำหนิ","ex":"Customers complained about the slow service.","exTh":"ลูกค้าบ่นเรื่องการบริการที่ช้า"}
+{"id":"climbing_noun","th":"การปีนเขา; การปีนป่าย","ex":"Climbing is my favorite weekend activity.","exTh":"การปีนเขาเป็นกิจกรรมโปรดวันหยุดของฉัน"}
+{"id":"fascinating_adj","th":"น่าสนใจมาก; น่าหลงใหล","ex":"The museum had a fascinating story about space.","exTh":"พิพิธภัณฑ์มีเรื่องราวเกี่ยวกับอวกาศที่น่าสนใจมาก"}
+{"id":"lively_adj","th":"มีชีวิตชีวา; คึกคัก; ร่าเริง","ex":"The market is always lively on Saturdays.","exTh":"ตลาดคึกคักเสมอในวันเสาร์"}
+{"id":"lemon_noun","th":"มะนาวเหลือง; เลมอน","ex":"Add some lemon to your tea.","exTh":"ใส่เลมอนลงในชาของคุณหน่อย"}
+{"id":"freeze_verb","th":"แข็งตัว; แช่แข็ง; หนาวมาก","ex":"Water freezes at zero degrees.","exTh":"น้ำจะแข็งตัวที่ศูนย์องศา","note":"รูปผัน froze, frozen"}
+{"id":"cab_noun","th":"แท็กซี่","ex":"We took a cab to the airport.","exTh":"เรานั่งแท็กซี่ไปสนามบิน"}
+{"id":"trick_noun","th":"กลอุบาย; เล่ห์กล; มายากล","ex":"The magician showed us a clever trick.","exTh":"นักมายากลแสดงกลที่ชาญฉลาดให้เราดู"}
+{"id":"comic_adj","th":"ตลก; ขบขัน","ex":"The film has many comic moments.","exTh":"หนังเรื่องนี้มีช่วงตลกหลายตอน"}
+{"id":"comic_noun","th":"หนังสือการ์ตูน; นักแสดงตลก","ex":"My brother reads a comic every week.","exTh":"น้องชายของฉันอ่านหนังสือการ์ตูนทุกสัปดาห์"}
+{"id":"fog_noun","th":"หมอก","ex":"Thick fog covered the road this morning.","exTh":"เช้านี้หมอกหนาปกคลุมถนน"}
+{"id":"joke_noun","th":"เรื่องตลก; มุกตลก","ex":"He told a funny joke at dinner.","exTh":"เขาเล่าเรื่องตลกที่ขำมากตอนกินข้าวเย็น"}
+{"id":"knock_noun","th":"เสียงเคาะ; การเคาะ","ex":"There was a knock at the door.","exTh":"มีเสียงเคาะประตู"}
+{"id":"winner_noun","th":"ผู้ชนะ; ผู้ได้รับรางวัล","ex":"The winner will get a free trip.","exTh":"ผู้ชนะจะได้ทริปท่องเที่ยวฟรี"}
+{"id":"float_noun","th":"ทุ่น; ห่วงยาง; รถแห่","ex":"The child held onto a float in the pool.","exTh":"เด็กจับห่วงลอยน้ำไว้ในสระ"}
+{"id":"weigh_verb","th":"ชั่งน้ำหนัก; มีน้ำหนัก","ex":"This bag weighs about five kilos.","exTh":"กระเป๋าใบนี้หนักประมาณห้ากิโล"}
+{"id":"happily_adv","th":"อย่างมีความสุข; ด้วยความยินดี","ex":"The children played happily in the garden.","exTh":"เด็กๆ เล่นกันอย่างมีความสุขในสวน"}
+{"id":"uncomfortable_adj","th":"ไม่สบาย; อึดอัด; ไม่สะดวกสบาย","ex":"These shoes are very uncomfortable.","exTh":"รองเท้าคู่นี้ใส่แล้วไม่สบายเท้าเลย"}
+{"id":"disagree_verb","th":"ไม่เห็นด้วย; เห็นต่าง","ex":"I disagree with you about this.","exTh":"ฉันไม่เห็นด้วยกับคุณเรื่องนี้"}
+{"id":"belly_noun","th":"พุง; ท้อง","ex":"The cat lay on its back with its belly up.","exTh":"แมวนอนหงายท้องขึ้น"}
+{"id":"daylight_noun","th":"แสงกลางวัน; แสงสว่าง","ex":"We must finish before daylight ends.","exTh":"เราต้องทำให้เสร็จก่อนแสงกลางวันหมด"}
+{"id":"symphony_noun","th":"ซิมโฟนี; วงดุริยางค์","ex":"We went to hear a symphony last night.","exTh":"เมื่อคืนเราไปฟังซิมโฟนี"}
+{"id":"upstairs_adv","th":"ชั้นบน; ขึ้นไปข้างบน","ex":"She went upstairs to change her clothes.","exTh":"เธอขึ้นไปชั้นบนเพื่อเปลี่ยนเสื้อผ้า"}
+{"id":"duck_noun","th":"เป็ด","ex":"A duck swam across the small lake.","exTh":"เป็ดตัวหนึ่งว่ายข้ามทะเลสาบเล็กๆ"}
+{"id":"retire_verb","th":"เกษียณ; ออกจากงาน","ex":"My father will retire next year.","exTh":"พ่อของฉันจะเกษียณปีหน้า"}
+{"id":"terrorist_adj","th":"เกี่ยวกับการก่อการร้าย","ex":"The news reported a terrorist attack.","exTh":"ข่าวรายงานเหตุโจมตีของผู้ก่อการร้าย"}
+{"id":"cruise_noun","th":"การล่องเรือ; ทัวร์เรือสำราญ","ex":"They took a cruise around the islands.","exTh":"พวกเขาล่องเรือท่องเที่ยวรอบเกาะ"}
+{"id":"relax_verb","th":"ผ่อนคลาย; พักผ่อน","ex":"I like to relax with music after work.","exTh":"ฉันชอบผ่อนคลายด้วยการฟังเพลงหลังเลิกงาน"}
+{"id":"toe_noun","th":"นิ้วเท้า","ex":"I hurt my toe on the table leg.","exTh":"ฉันเตะนิ้วเท้าโดนขาโต๊ะจนเจ็บ"}
+{"id":"stove_noun","th":"เตา; เตาแก๊ส","ex":"Turn off the stove before you leave.","exTh":"ปิดเตาก่อนออกจากบ้านด้วย"}
+{"id":"ham_noun","th":"แฮม; เนื้อหมูแฮม","ex":"I made a ham and cheese sandwich.","exTh":"ฉันทำแซนด์วิชแฮมกับชีส"}
+{"id":"endangered_adj","th":"ใกล้สูญพันธุ์; ตกอยู่ในอันตราย","ex":"The tiger is an endangered animal.","exTh":"เสือเป็นสัตว์ใกล้สูญพันธุ์"}
+{"id":"amusement_noun","th":"ความขบขัน; ความสนุกสนาน","ex":"She laughed with amusement at his story.","exTh":"เธอหัวเราะอย่างขบขันกับเรื่องของเขา"}
+{"id":"silly_adj","th":"โง่; ไร้สาระ; งี่เง่า","ex":"Don't be silly, it's only a dog.","exTh":"อย่าทำตัวเหลวไหลน่า มันก็แค่หมาตัวหนึ่ง"}
+{"id":"bother_verb","th":"รบกวน; ทำให้รำคาญ; ใส่ใจ","ex":"Sorry to bother you, but I need help.","exTh":"ขอโทษที่รบกวนนะ แต่ฉันต้องการความช่วยเหลือ"}
+{"id":"breeze_noun","th":"สายลมเบาๆ; ลมโชย","ex":"A cool breeze came through the window.","exTh":"สายลมเย็นๆ พัดเข้ามาทางหน้าต่าง"}
+{"id":"textbook_noun","th":"ตำราเรียน; หนังสือเรียน","ex":"Please open your textbook to page ten.","exTh":"กรุณาเปิดหนังสือเรียนหน้าสิบ"}
+{"id":"unpleasant_adj","th":"ไม่น่าพอใจ; น่ารังเกียจ; ไม่สบายใจ","ex":"There was an unpleasant smell in the room.","exTh":"มีกลิ่นไม่น่าพึงใจในห้อง"}
+{"id":"exam_noun","th":"การสอบ; ข้อสอบ","ex":"I have an English exam tomorrow.","exTh":"พรุ่งนี้ฉันมีสอบภาษาอังกฤษ"}
+{"id":"pretend_verb","th":"แกล้งทำ; ทำเป็น","ex":"The children pretend to be animals.","exTh":"เด็กๆ แกล้งทำเป็นสัตว์"}
+{"id":"rob_verb","th":"ปล้น; ขโมย","ex":"Two men tried to rob the bank.","exTh":"ชายสองคนพยายามปล้นธนาคาร"}
+{"id":"theirs_pron","th":"ของพวกเขา; ของพวกเธอ","ex":"Our house is small, but theirs is big.","exTh":"บ้านของเราเล็ก แต่บ้านของพวกเขาใหญ่"}
+{"id":"barber_noun","th":"ช่างตัดผมชาย","ex":"My father goes to the barber monthly.","exTh":"พ่อของฉันไปร้านตัดผมทุกเดือน"}
+{"id":"robbery_noun","th":"การปล้น; คดีปล้นทรัพย์","ex":"The police are looking into the robbery.","exTh":"ตำรวจกำลังสืบสวนคดีปล้นทรัพย์"}
+{"id":"lifestyle_noun","th":"วิถีชีวิต; ไลฟ์สไตล์","ex":"A healthy lifestyle includes sport and good food.","exTh":"วิถีชีวิตที่ดีต่อสุขภาพรวมถึงการออกกำลังกายและอาหารดีๆ"}
+{"id":"curse_noun","th":"คำสาปแช่ง; คำสบถ","ex":"People say the old house has a curse.","exTh":"ผู้คนบอกว่าบ้านหลังเก่ามีคำสาป"}
+{"id":"silently_adv","th":"อย่างเงียบๆ; อย่างไร้เสียง","ex":"He silently left the room.","exTh":"เขาเดินออกจากห้องไปอย่างเงียบๆ"}
+{"id":"fighter_noun","th":"นักสู้; นักมวย","ex":"The young fighter trained every morning.","exTh":"นักสู้หนุ่มซ้อมทุกเช้า"}
+{"id":"bulb_noun","th":"หลอดไฟ; หัว (พืช)","ex":"The light bulb in my room is broken.","exTh":"หลอดไฟในห้องของฉันเสีย"}
+{"id":"energetic_adj","th":"กระฉับกระเฉง; มีพลัง","ex":"My grandmother is still very energetic.","exTh":"คุณยายของฉันยังกระฉับกระเฉงมาก"}
+{"id":"pleasing_adj","th":"น่าพอใจ; ถูกใจ; น่ายินดี","ex":"The room has a pleasing smell of flowers.","exTh":"ห้องมีกลิ่นดอกไม้ที่น่าพอใจ"}
+{"id":"boiled_adj","th":"ต้ม; ที่ต้มแล้ว","ex":"I had a boiled egg for breakfast.","exTh":"ฉันกินไข่ต้มเป็นอาหารเช้า"}
+{"id":"killer_noun","th":"ฆาตกร; ผู้สังหาร","ex":"The police caught the killer last night.","exTh":"ตำรวจจับตัวฆาตกรได้เมื่อคืน"}
+{"id":"fantastic_adj","th":"ยอดเยี่ยม; วิเศษมาก","ex":"We had a fantastic time at the beach.","exTh":"เรามีช่วงเวลาที่ยอดเยี่ยมที่ชายหาด"}
+{"id":"psychologist_noun","th":"นักจิตวิทยา","ex":"She talked to a psychologist about her stress.","exTh":"เธอคุยกับนักจิตวิทยาเรื่องความเครียดของเธอ"}
+{"id":"mall_noun","th":"ห้างสรรพสินค้า; ศูนย์การค้า","ex":"We went to the mall to see a movie.","exTh":"เราไปห้างเพื่อดูหนัง"}
+{"id":"plural_noun","th":"พหูพจน์; รูปพหูพจน์","ex":"The plural of cat is cats.","exTh":"พหูพจน์ของ cat คือ cats","note":"คำศัพท์ไวยากรณ์"}
+{"id":"drawer_noun","th":"ลิ้นชัก","ex":"Your keys are in the top drawer.","exTh":"กุญแจของคุณอยู่ในลิ้นชักบนสุด"}
+{"id":"onion_noun","th":"หัวหอม","ex":"Cutting an onion can make you cry.","exTh":"การหั่นหัวหอมอาจทำให้น้ำตาไหล"}
+{"id":"steal_verb","th":"ขโมย; ลักขโมย","ex":"Someone stole my bike last night.","exTh":"เมื่อคืนมีคนขโมยจักรยานของฉัน","note":"รูปผัน stole, stolen"}
+{"id":"fry_noun","th":"ของทอด; (fries) เฟรนช์ฟรายส์","ex":"I ordered a burger and a fry.","exTh":"ฉันสั่งเบอร์เกอร์กับมันทอด","note":"ส่วนใหญ่ใช้รูปพหูพจน์ fries"}
+{"id":"elephant_noun","th":"ช้าง","ex":"The elephant drank water with its long trunk.","exTh":"ช้างดื่มน้ำด้วยงวงยาวของมัน"}
+{"id":"nowadays_adv","th":"ทุกวันนี้; ในปัจจุบัน","ex":"Nowadays most people have a smartphone.","exTh":"ทุกวันนี้คนส่วนใหญ่มีสมาร์ทโฟน"}
+{"id":"slice_noun","th":"ชิ้นบางๆ; แผ่น; ชิ้น","ex":"Can I have a slice of cake?","exTh":"ขอเค้กหนึ่งชิ้นได้ไหม"}
+{"id":"boil_verb","th":"ต้ม; เดือด","ex":"Boil the water before you make tea.","exTh":"ต้มน้ำให้เดือดก่อนชงชา"}
+{"id":"balloon_noun","th":"ลูกโป่ง; บอลลูน","ex":"The child let go of the red balloon.","exTh":"เด็กปล่อยลูกโป่งสีแดงหลุดมือไป"}
+{"id":"smoothly_adv","th":"อย่างราบรื่น; อย่างนุ่มนวล","ex":"The meeting went smoothly.","exTh":"การประชุมดำเนินไปอย่างราบรื่น"}
+{"id":"clue_noun","th":"เบาะแส; ร่องรอย","ex":"The police found a clue at the house.","exTh":"ตำรวจพบเบาะแสที่บ้านหลังนั้น"}
+{"id":"garlic_noun","th":"กระเทียม","ex":"Add some garlic to the soup.","exTh":"ใส่กระเทียมลงในซุปหน่อย"}
+{"id":"sadly_adv","th":"อย่างเศร้าใจ; น่าเศร้าที่","ex":"Sadly, the shop closed last month.","exTh":"น่าเศร้าที่ร้านปิดตัวไปเมื่อเดือนที่แล้ว"}
+{"id":"inexpensive_adj","th":"ราคาไม่แพง; ถูก","ex":"We found an inexpensive hotel near the beach.","exTh":"เราเจอโรงแรมราคาไม่แพงใกล้ชายหาด"}
+{"id":"olympic_adj","th":"เกี่ยวกับโอลิมปิก","ex":"She dreams of winning an Olympic medal.","exTh":"เธอฝันที่จะได้เหรียญโอลิมปิก"}
+{"id":"refrigerator_noun","th":"ตู้เย็น","ex":"Put the milk in the refrigerator.","exTh":"เอานมใส่ตู้เย็นด้วย"}
+{"id":"cereal_noun","th":"ซีเรียล; ธัญพืช","ex":"I eat cereal with milk for breakfast.","exTh":"ฉันกินซีเรียลกับนมเป็นอาหารเช้า"}
+{"id":"loudly_adv","th":"เสียงดัง; ดังๆ","ex":"The baby cried loudly all night.","exTh":"ทารกร้องไห้เสียงดังทั้งคืน"}
+{"id":"bored_adj","th":"เบื่อ; เบื่อหน่าย","ex":"I am bored. There is nothing to do.","exTh":"ฉันเบื่อ ไม่มีอะไรทำเลย"}
+{"id":"swallow_verb","th":"กลืน; กลืนลงคอ","ex":"It hurts when I swallow.","exTh":"ฉันเจ็บเวลากลืน"}
+{"id":"photographer_noun","th":"ช่างภาพ; ผู้ถ่ายภาพ","ex":"The photographer took many pictures of the bride.","exTh":"ช่างภาพถ่ายรูปเจ้าสาวไว้หลายภาพ"}
+{"id":"violin_noun","th":"ไวโอลิน","ex":"She plays the violin very well.","exTh":"เธอเล่นไวโอลินได้ดีมาก"}
+{"id":"polite_adj","th":"สุภาพ; มีมารยาท","ex":"It is polite to say thank you.","exTh":"การกล่าวขอบคุณถือเป็นการสุภาพ"}
+{"id":"indoor_adj","th":"ในร่ม; ภายในอาคาร","ex":"We play indoor games when it rains.","exTh":"เราเล่นเกมในร่มเวลาฝนตก"}
+{"id":"scenery_noun","th":"ทิวทัศน์; ฉากธรรมชาติ","ex":"The mountain scenery was beautiful.","exTh":"ทิวทัศน์ภูเขาสวยงามมาก"}
+{"id":"learner_noun","th":"ผู้เรียน; ผู้เริ่มเรียนรู้","ex":"She is a quick learner.","exTh":"เธอเป็นคนเรียนรู้เร็ว"}
+{"id":"shine_verb","th":"ส่องแสง; เปล่งประกาย; ส่องสว่าง","ex":"The sun shines brightly today.","exTh":"วันนี้ดวงอาทิตย์ส่องแสงจ้า","note":"รูปผัน shone, shone"}
+{"id":"policeman_noun","th":"ตำรวจชาย; เจ้าหน้าที่ตำรวจ","ex":"The policeman helped us cross the road.","exTh":"ตำรวจช่วยพาเราข้ามถนน"}
+{"id":"shout_noun","th":"เสียงตะโกน; เสียงร้อง","ex":"I heard a shout from the street.","exTh":"ฉันได้ยินเสียงตะโกนมาจากถนน"}
+{"id":"disturb_verb","th":"รบกวน; ทำให้เสียสมาธิ","ex":"Please do not disturb me when I study.","exTh":"กรุณาอย่ารบกวนฉันเวลาที่ฉันอ่านหนังสือ"}
+{"id":"cleaner_noun","th":"คนทำความสะอาด; น้ำยาทำความสะอาด","ex":"The cleaner comes every Monday morning.","exTh":"คนทำความสะอาดมาทุกเช้าวันจันทร์"}
+{"id":"grandson_noun","th":"หลานชาย","ex":"My grandson is five years old.","exTh":"หลานชายของฉันอายุห้าขวบ"}
+{"id":"downstairs_adv","th":"ชั้นล่าง; ลงไปข้างล่าง","ex":"I'll wait for you downstairs.","exTh":"ฉันจะรอคุณอยู่ข้างล่างนะ"}
+{"id":"bury_verb","th":"ฝัง; กลบ","ex":"The dog buried a bone in the garden.","exTh":"สุนัขฝังกระดูกไว้ในสวน"}
+{"id":"envy_noun","th":"ความอิจฉา; ความริษยา","ex":"She looked at his new car with envy.","exTh":"เธอมองรถคันใหม่ของเขาด้วยความอิจฉา"}
+{"id":"feather_noun","th":"ขนนก","ex":"I found a white feather on the ground.","exTh":"ฉันเจอขนนกสีขาวบนพื้น"}
+{"id":"ankle_noun","th":"ข้อเท้า","ex":"She hurt her ankle while running.","exTh":"เธอเจ็บข้อเท้าตอนวิ่ง"}

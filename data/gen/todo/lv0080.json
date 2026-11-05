@@ -1,0 +1,602 @@
+[
+{
+"id": "synthetic_adj",
+"w": "synthetic",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "testament_noun",
+"w": "testament",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "lodge_verb",
+"w": "lodge",
+"pos": "verb",
+"lvl": "C1"
+},
+{
+"id": "prospective_adj",
+"w": "prospective",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "elastic_noun",
+"w": "elastic",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "elastic_adj",
+"w": "elastic",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "inclusive_adj",
+"w": "inclusive",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "resort_verb",
+"w": "resort",
+"pos": "verb",
+"lvl": "C1"
+},
+{
+"id": "hanging_noun",
+"w": "hanging",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "profound_adj",
+"w": "profound",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "withdrawn_adj",
+"w": "withdrawn",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "fatigue_noun",
+"w": "fatigue",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "collaboration_noun",
+"w": "collaboration",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "cavity_noun",
+"w": "cavity",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "induction_noun",
+"w": "induction",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "contest_verb",
+"w": "contest",
+"pos": "verb",
+"lvl": "C1"
+},
+{
+"id": "elaborate_adj",
+"w": "elaborate",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "elaborate_verb",
+"w": "elaborate",
+"pos": "verb",
+"lvl": "C1"
+},
+{
+"id": "drill_verb",
+"w": "drill",
+"pos": "verb",
+"lvl": "C1"
+},
+{
+"id": "continuity_noun",
+"w": "continuity",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "notable_adj",
+"w": "notable",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "burst_noun",
+"w": "burst",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "likelihood_noun",
+"w": "likelihood",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "psychiatric_adj",
+"w": "psychiatric",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "sketch_noun",
+"w": "sketch",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "norms_noun",
+"w": "norms",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "fusion_noun",
+"w": "fusion",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "principally_adv",
+"w": "principally",
+"pos": "adv",
+"lvl": "C1"
+},
+{
+"id": "salvation_noun",
+"w": "salvation",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "characterization_noun",
+"w": "characterization",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "hostile_adj",
+"w": "hostile",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "ordinarily_adv",
+"w": "ordinarily",
+"pos": "adv",
+"lvl": "C1"
+},
+{
+"id": "conform_verb",
+"w": "conform",
+"pos": "verb",
+"lvl": "C1"
+},
+{
+"id": "inheritance_noun",
+"w": "inheritance",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "shed_verb",
+"w": "shed",
+"pos": "verb",
+"lvl": "C1"
+},
+{
+"id": "pertinent_adj",
+"w": "pertinent",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "degradation_noun",
+"w": "degradation",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "sustainable_adj",
+"w": "sustainable",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "exploitation_noun",
+"w": "exploitation",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "launch_noun",
+"w": "launch",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "aesthetic_adj",
+"w": "aesthetic",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "spontaneous_adj",
+"w": "spontaneous",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "customary_adj",
+"w": "customary",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "buffer_verb",
+"w": "buffer",
+"pos": "verb",
+"lvl": "C1"
+},
+{
+"id": "buffer_noun",
+"w": "buffer",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "immense_adj",
+"w": "immense",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "prophet_noun",
+"w": "prophet",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "simplicity_noun",
+"w": "simplicity",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "trauma_noun",
+"w": "trauma",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "peninsula_noun",
+"w": "peninsula",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "scenario_noun",
+"w": "scenario",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "pioneer_verb",
+"w": "pioneer",
+"pos": "verb",
+"lvl": "C1"
+},
+{
+"id": "pioneer_noun",
+"w": "pioneer",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "maternal_adj",
+"w": "maternal",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "exhaust_verb",
+"w": "exhaust",
+"pos": "verb",
+"lvl": "C1"
+},
+{
+"id": "purity_noun",
+"w": "purity",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "sentiment_noun",
+"w": "sentiment",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "subordinate_noun",
+"w": "subordinate",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "ventilation_noun",
+"w": "ventilation",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "assertion_noun",
+"w": "assertion",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "anthropology_noun",
+"w": "anthropology",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "citation_noun",
+"w": "citation",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "peasant_noun",
+"w": "peasant",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "descent_noun",
+"w": "descent",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "apt_adj",
+"w": "apt",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "frost_verb",
+"w": "frost",
+"pos": "verb",
+"lvl": "C1"
+},
+{
+"id": "portable_adj",
+"w": "portable",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "portable_noun",
+"w": "portable",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "conditional_adj",
+"w": "conditional",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "rendering_noun",
+"w": "rendering",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "adjoining_adj",
+"w": "adjoining",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "ego_noun",
+"w": "ego",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "conformity_noun",
+"w": "conformity",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "accustomed_adj",
+"w": "accustomed",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "quest_noun",
+"w": "quest",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "exterior_noun",
+"w": "exterior",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "obscure_verb",
+"w": "obscure",
+"pos": "verb",
+"lvl": "C1"
+},
+{
+"id": "obscure_adj",
+"w": "obscure",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "legacy_noun",
+"w": "legacy",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "carpenter_noun",
+"w": "carpenter",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "stimuli_noun",
+"w": "stimuli",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "fossil_noun",
+"w": "fossil",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "humble_verb",
+"w": "humble",
+"pos": "verb",
+"lvl": "C1"
+},
+{
+"id": "superficial_adj",
+"w": "superficial",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "mutually_adv",
+"w": "mutually",
+"pos": "adv",
+"lvl": "C1"
+},
+{
+"id": "alignment_noun",
+"w": "alignment",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "uniformity_noun",
+"w": "uniformity",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "demographic_adj",
+"w": "demographic",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "demographic_noun",
+"w": "demographic",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "imperative_adj",
+"w": "imperative",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "query_verb",
+"w": "query",
+"pos": "verb",
+"lvl": "C1"
+},
+{
+"id": "anchor_verb",
+"w": "anchor",
+"pos": "verb",
+"lvl": "C1"
+},
+{
+"id": "resin_noun",
+"w": "resin",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "tune_verb",
+"w": "tune",
+"pos": "verb",
+"lvl": "C1"
+},
+{
+"id": "constraint_noun",
+"w": "constraint",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "pose_verb",
+"w": "pose",
+"pos": "verb",
+"lvl": "C1"
+},
+{
+"id": "manipulation_noun",
+"w": "manipulation",
+"pos": "noun",
+"lvl": "C1"
+},
+{
+"id": "negligible_adj",
+"w": "negligible",
+"pos": "adj",
+"lvl": "C1"
+},
+{
+"id": "bloom_verb",
+"w": "bloom",
+"pos": "verb",
+"lvl": "C1"
+},
+{
+"id": "acoustic_adj",
+"w": "acoustic",
+"pos": "adj",
+"lvl": "C1"
+}
+]

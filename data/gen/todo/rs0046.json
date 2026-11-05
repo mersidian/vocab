@@ -1,0 +1,998 @@
+[
+{
+"id": "rub-along_pv",
+"w": "rub along",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To survive or get by with some difficulty.",
+"To get along, to have an amicable relationship."
+]
+},
+{
+"id": "rush-off_pv",
+"w": "rush off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To leave in a hurry.",
+"To produce in great haste."
+]
+},
+{
+"id": "carry-forward_pv",
+"w": "carry forward",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To transfer to a new page, column, ledger, or similar entity.",
+"To apply to the taxable income of following years, thereby easing the overall tax burden; carry over."
+]
+},
+{
+"id": "hit-off_pv",
+"w": "hit off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To play the first shot off the fairway.",
+"To give; to hand over."
+]
+},
+{
+"id": "box-off_pv",
+"w": "box off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To turn the head of a vessel either way by bracing the headyards aback.",
+"To enclose an area and separate it from a larger area by surrounding it in walls."
+]
+},
+{
+"id": "funk-out_pv",
+"w": "funk out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To malfunction.",
+"To rock out to funk music."
+]
+},
+{
+"id": "carry-up_pv",
+"w": "carry up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To convey or extend in an upward course or direction; to build.",
+"To trace back."
+]
+},
+{
+"id": "toe-in_pv",
+"w": "toe in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To stand or carry the feet in such a way that the toes of each foot incline toward the other.",
+"To align the front wheels of a vehicle so that they point slightly toward each other."
+]
+},
+{
+"id": "hold-in_pv",
+"w": "hold in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To keep something to oneself; to prevent from escaping.",
+"To keep (someone) in prison or jail."
+]
+},
+{
+"id": "buzz-in_pv",
+"w": "buzz in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To open a remote-controlled door to allow (a person) to enter after sounding the doorbell or buzzer.",
+"On a game show or similar competition, to press the buzzer to provide an answer."
+]
+},
+{
+"id": "pencil-out_pv",
+"w": "pencil out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Of an investment, to make sense financially or to be expected to generate the desired returns.",
+"To roughly calculate the expected returns of an investment."
+]
+},
+{
+"id": "bitch-off_pv",
+"w": "bitch off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To complain or criticise",
+"To annoy or irk."
+]
+},
+{
+"id": "flip-over_pv",
+"w": "flip over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To turn upside down.",
+"Used other than figuratively or idiomatically: see flip, over."
+]
+},
+{
+"id": "hail-down_pv",
+"w": "hail down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"to fall from the sky, as hail",
+"to beat down suddenly and harshly"
+]
+},
+{
+"id": "price-out_pv",
+"w": "price out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To compute the total price of something.",
+"To exclude (someone) from a market due to rising or unaffordable prices."
+]
+},
+{
+"id": "crow-over_pv",
+"w": "crow over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To triumph over (someone).",
+"To gloat over (a triumph, an opponent's defeat, someone else's misfortune)."
+]
+},
+{
+"id": "stay-out_pv",
+"w": "stay out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To spend time away from one's home.",
+"To avoid going into a place."
+]
+},
+{
+"id": "go-up-for_pv",
+"w": "go up for",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Used other than figuratively or idiomatically: see go, up, for.",
+"Of the fielding side, to appeal for the batsman or batswoman to be out."
+]
+},
+{
+"id": "connect-up_pv",
+"w": "connect up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To join together, to connect.",
+"To join to a network or supply."
+]
+},
+{
+"id": "pork-out_pv",
+"w": "pork out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of pig out (“to eat greedily”).",
+"Synonym of pork up (“to grow fat”)."
+]
+},
+{
+"id": "balls-about_pv",
+"w": "balls about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To engage in a lot of activity with many unwanted or unnecessary details.",
+"To bullshit; to speak or act as a joke or with no real point."
+]
+},
+{
+"id": "crease-up_pv",
+"w": "crease up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To crease or become creased.",
+"To laugh (or make someone laugh) uncontrollably."
+]
+},
+{
+"id": "cowboy-up_pv",
+"w": "cowboy up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To deal with hardship with toughness and without complaining; man up.",
+"To put on a more heterosexual manner, in order to fit in."
+]
+},
+{
+"id": "scuzz-up_pv",
+"w": "scuzz up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"to ruin",
+"to become ruined"
+]
+},
+{
+"id": "dampen-down_pv",
+"w": "dampen down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"to reduce the intensity of (a fire)",
+"to reduce the intensity of (an emotion or problem)"
+]
+},
+{
+"id": "hulk-out_pv",
+"w": "hulk out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become enraged in an imposing or intimidating manner.",
+"To gain significant muscle mass from exercise."
+]
+},
+{
+"id": "sack-up_pv",
+"w": "sack up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To put (something) in a sack.",
+"To force oneself to become more manly; to toughen up or man up."
+]
+},
+{
+"id": "tip-back_pv",
+"w": "tip back",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To drink a beverage, especially alcoholic and in large amounts.",
+"To open such a beverage."
+]
+},
+{
+"id": "hack-away_pv",
+"w": "hack away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make progress on a difficult problem; to continue trying.",
+"Used other than figuratively or idiomatically: see hack, away."
+]
+},
+{
+"id": "punk-out_pv",
+"w": "punk out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To give up or cravenly abandon something difficult.",
+"To treat as a punk (either as a worthless person or the bottom in a male-male relationship, especially a nonconsenting prison relationship)."
+]
+},
+{
+"id": "move-over_pv",
+"w": "move over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To move (oneself, or someone/something else) so as to free up space."
+]
+},
+{
+"id": "type-out_pv",
+"w": "type out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To write out on a computer keyboard.",
+"To be rejected as an actor (such as at an audition) because of categorical factors like height, race and general appearance, rather than acting ability."
+]
+},
+{
+"id": "drain-out_pv",
+"w": "drain out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To empty (something) completely of liquids; to drain completely.",
+"To be emptied of liquid; to be drained completely."
+]
+},
+{
+"id": "sell-away_pv",
+"w": "sell away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To sell all of an item or group of items.",
+"To sell a financial product without the authorization of one's employing broker-dealer to sell that product."
+]
+},
+{
+"id": "call-down_pv",
+"w": "call down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To bring (punishment, condemnation etc.) upon someone, as from above.",
+"To reprimand or insult (someone) severely."
+]
+},
+{
+"id": "holla-at_pv",
+"w": "holla at",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To call on a telephone; to contact or maintain contact with.",
+"To express romantic or sexual interest in."
+]
+},
+{
+"id": "cart-away_pv",
+"w": "cart away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To take something away in order to dispose of it; to remove a large volume of materials.",
+"To remove someone difficult or troublesome."
+]
+},
+{
+"id": "queen-up_pv",
+"w": "queen up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To get in drag; to get ready to perform as a drag queen.",
+"To dress like, or become appropriate for, a queen."
+]
+},
+{
+"id": "slip-through_pv",
+"w": "slip through",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To get past an inspection or procedure without any issue.",
+"To barely pass; to minimally succeed at something."
+]
+},
+{
+"id": "bob-up_pv",
+"w": "bob up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To rise to the surface; to ascend to the surface and remain floating there.",
+"To appear or arrive unexpectedly."
+]
+},
+{
+"id": "bring-up-to_pv",
+"w": "bring up to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To raise (something) so that it reaches a particular standard or minimum requirement.",
+"To raise (a person) to enter the specified career."
+]
+},
+{
+"id": "shine-through_pv",
+"w": "shine through",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To be discernible despite obstruction; to be apparent or evidenced.",
+"To be visible across a barrier."
+]
+},
+{
+"id": "mean-to_pv",
+"w": "mean to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To intend to."
+]
+},
+{
+"id": "muddy-up_pv",
+"w": "muddy up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make muddy; to make clear water into muddy water.",
+"To confuse (an issue or situation); to obscure or obfuscate (an issue or situation)."
+]
+},
+{
+"id": "paw-at_pv",
+"w": "paw at",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To come on to (someone) in a rude way, with excessive and unwelcome touching; to handle (someone or something) rudely or clumsily.",
+"To repeatedly hit (someone or something) with a paw."
+]
+},
+{
+"id": "pitch-on_pv",
+"w": "pitch on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To throw (something) onto (something).",
+"To give a pitch (a presentation to convince someone on an idea) to (someone)."
+]
+},
+{
+"id": "push-past_pv",
+"w": "push past",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To rudely force one's way in front of another.",
+"To force a conversation or situation to continue after an awkward interruption."
+]
+},
+{
+"id": "blow-past_pv",
+"w": "blow past",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To easily overcome or go around a safeguard or limit.",
+"Synonym of blow over."
+]
+},
+{
+"id": "smack-down_pv",
+"w": "smack down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To defeat utterly and decisively, especially in a humiliating way.",
+"To successfully refute someone or someone's idea or proposal."
+]
+},
+{
+"id": "reach-past_pv",
+"w": "reach past",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To extend beyond (something).",
+"Synonym of get past."
+]
+},
+{
+"id": "cut-across_pv",
+"w": "cut across",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To take a shortcut over or through (a place).",
+"To go through figurative barriers; to go beyond an expected boundary."
+]
+},
+{
+"id": "jumble-together_pv",
+"w": "jumble together",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To haphazardly combine things; to make a seemingly random assortment of items.",
+"To clumsily assemble."
+]
+},
+{
+"id": "knit-together_pv",
+"w": "knit together",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To create (something) by knitting.",
+"To heal; to reform a single strong bone."
+]
+},
+{
+"id": "weld-together_pv",
+"w": "weld together",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To forge a social or emotional bond between people.",
+"Used other than figuratively or idiomatically: see weld, together."
+]
+},
+{
+"id": "draw-together_pv",
+"w": "draw together",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Used other than figuratively or idiomatically: see draw, together.",
+"To cause (someone) to seek emotional support from each other; to cause to pull together or come together."
+]
+},
+{
+"id": "work-through_pv",
+"w": "work through",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Used other than figuratively or idiomatically: see work, through.",
+"To get past a difficult or stressful situation by thinking or talking about it."
+]
+},
+{
+"id": "quarrel-with_pv",
+"w": "quarrel with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Used other than figuratively or idiomatically: see quarrel, with, to argue with (someone).",
+"To dispute (an issue or fact)."
+]
+},
+{
+"id": "key-down_pv",
+"w": "key down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To lower in pitch, level, or intensity; to tone down.",
+"To relax."
+]
+},
+{
+"id": "punch-down_pv",
+"w": "punch down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To attack or target a group that is weaker or of lower status than oneself.",
+"Used other than figuratively or idiomatically: see punch, down."
+]
+},
+{
+"id": "chomp-down-on_pv",
+"w": "chomp down on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To eat (something); to bite (something).",
+"To defeat."
+]
+},
+{
+"id": "lead-in_pv",
+"w": "lead in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Used other than figuratively or idiomatically: see lead, in.",
+"To introduce, to mark the beginning of something, especially in music."
+]
+},
+{
+"id": "throttle-down_pv",
+"w": "throttle down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To reduce power to (an engine), reduce speed",
+"To suppress (an emotion)"
+]
+},
+{
+"id": "pen-up_pv",
+"w": "pen up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To enclose (animals) in a pen.",
+"To enclose as if in a pen."
+]
+},
+{
+"id": "hunch-over_pv",
+"w": "hunch over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To slouch, stoop, curl, or lean.",
+"To bend or stoop to issues that may not warrant such attention."
+]
+},
+{
+"id": "paste-up_pv",
+"w": "paste up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To paste (things) into position, especially in layout and page makeup.",
+"To display on a wall, kiosk, or other prominent surface, using adhesive."
+]
+},
+{
+"id": "curtain-off_pv",
+"w": "curtain off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To separate, isolate or block by means of a curtain or other barrier.",
+"To isolate."
+]
+},
+{
+"id": "lay-to_pv",
+"w": "lay to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To turn towards the wind so that the boat stops; to remain stationary in open water or to lie to.",
+"To try or to expend effort to achieve (something)."
+]
+},
+{
+"id": "hold-onto_pv",
+"w": "hold onto",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To manage to keep something.",
+"Used other than figuratively or idiomatically: see hold, onto."
+]
+},
+{
+"id": "lam-out_pv",
+"w": "lam out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Lash out, strike out.",
+"Bang out."
+]
+},
+{
+"id": "rope-into_pv",
+"w": "rope into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Used other than figuratively or idiomatically: see rope, into.",
+"To inveigle someone into (doing something) that they are reluctant to do."
+]
+},
+{
+"id": "red-up_pv",
+"w": "red up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To become or make (something) red in color.",
+"To put on or wear redface makeup."
+]
+},
+{
+"id": "dumb-out_pv",
+"w": "dumb out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To go crazy on something or someone.",
+"To fail to notice or realize something."
+]
+},
+{
+"id": "sack-off_pv",
+"w": "sack off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To abandon, to avoid, to get rid of, to cut relations with.",
+"To play truant from."
+]
+},
+{
+"id": "sift-out_pv",
+"w": "sift out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To isolate or identify one particular thing from a collection that includes less relevant things."
+]
+},
+{
+"id": "have-out_pv",
+"w": "have out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To argue to a conclusion or resolution.",
+"To remove; extricate."
+]
+},
+{
+"id": "moor-up_pv",
+"w": "moor up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To cast anchor or become fastened.",
+"To fix or secure (e.g. a vessel) in a particular place by casting anchor, or by fastening with ropes, cables or chains or the like"
+]
+},
+{
+"id": "wheel-out_pv",
+"w": "wheel out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To employ or bring out (something predictable or perennial).",
+"Used other than figuratively or idiomatically: see wheel, out."
+]
+},
+{
+"id": "fap-off_pv",
+"w": "fap off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To masturbate.",
+"To release tension by masturbation."
+]
+},
+{
+"id": "belly-out_pv",
+"w": "belly out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To bulge or billow outward.",
+"To cause to bulge or billow outward."
+]
+},
+{
+"id": "wind-off_pv",
+"w": "wind off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To unwind, unspool, or unreel something.",
+"To cancel (an event) due to high wind speeds."
+]
+},
+{
+"id": "wheel-about_pv",
+"w": "wheel about",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To change direction quickly, turn, pivot, whirl about.",
+"To transport someone or something to various locations by pushing a wheeled transporter such as a wheelchair, wheelbarrow or trolley."
+]
+},
+{
+"id": "gob-off_pv",
+"w": "gob off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of shoot one's mouth off.",
+"To gossip; to chat idly."
+]
+},
+{
+"id": "live-in_pv",
+"w": "live in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To reside on the premises of one's employer (used especially of domestic staff such as nannies, cooks, maids, etc.)",
+"Used other than figuratively or idiomatically: see live, in."
+]
+},
+{
+"id": "soak-in_pv",
+"w": "soak in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To wet a surface and be absorbed completely (of a liquid)",
+"To spend time experiencing something"
+]
+},
+{
+"id": "hire-out_pv",
+"w": "hire out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To allow others to use temporarily in exchange for money.",
+"To arrange to do work for money."
+]
+},
+{
+"id": "lift-off_pv",
+"w": "lift off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of take off (leave the ground and begin flight).",
+"To lift something physically off the ground, or off something else."
+]
+},
+{
+"id": "float-at_pv",
+"w": "float at",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To present or make available (something) to (someone); offer, especially prospectively.",
+"To come to (a person) gradually but without warning."
+]
+},
+{
+"id": "go-in-on_pv",
+"w": "go in on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To contribute money for a joint purchase.",
+"To participate in; to join."
+]
+},
+{
+"id": "marry-out_pv",
+"w": "marry out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To marry someone who is from another family; To avoid incest.",
+"To marry someone from a different religion or ethnic group."
+]
+},
+{
+"id": "sleep-out_pv",
+"w": "sleep out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To sleep outside.",
+"To sleep throughout the duration of; sleep off."
+]
+},
+{
+"id": "pink-up_pv",
+"w": "pink up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Of a transplanted organ: to acquire a pinkish hue as a result of blood entering it from the circulatory system.",
+"To blush."
+]
+},
+{
+"id": "roll-with_pv",
+"w": "roll with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To handle and accept (something, especially an inconvenience or setback).",
+"To spend time (with someone); to be someone's companion or part of a crew with someone or with a gang."
+]
+},
+{
+"id": "bow-to_pv",
+"w": "bow to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To subserviently adhere to (a tradition, etc.)."
+]
+},
+{
+"id": "smell-out_pv",
+"w": "smell out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To find or locate by smell.",
+"To find out by prying."
+]
+},
+{
+"id": "bust-on_pv",
+"w": "bust on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make a joke concerning; to ridicule or make fun of.",
+"To hit or attack (someone); to insult (someone); to snitch on (someone)."
+]
+},
+{
+"id": "order-up_pv",
+"w": "order up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To summon for military duty.",
+"To place an order for (something)."
+]
+},
+{
+"id": "camo-up_pv",
+"w": "camo up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To put on clothing, make-up, etc. with a camouflage pattern, to wear camouflage.",
+"To camouflage one's person or equipment, to hide or obscure from view."
+]
+},
+{
+"id": "dispense-with_pv",
+"w": "dispense with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To eliminate; to dispose of.",
+"To do without."
+]
+},
+{
+"id": "swamp-out_pv",
+"w": "swamp out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To clean or tidy, especially a place that is very messy.",
+"To overwhelm or outnumber."
+]
+},
+{
+"id": "reach-down_pv",
+"w": "reach down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To take an item down from a high shelf or the like.",
+"Used other than figuratively or idiomatically: see reach, down."
+]
+}
+]

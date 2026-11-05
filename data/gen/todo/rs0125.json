@@ -1,0 +1,802 @@
+[
+{
+"id": "let-s-not-and-say-we-did_idiom",
+"w": "let's not and say we did",
+"kind": "idiom",
+"gloss": [
+"Indicates that the speaker does not agree with a proposed action, and does not wish to participate."
+]
+},
+{
+"id": "potter-s-field_idiom",
+"w": "potter's field",
+"kind": "idiom",
+"gloss": [
+"A public place where strangers, paupers, and criminals are buried."
+]
+},
+{
+"id": "broken-vessel_idiom",
+"w": "broken vessel",
+"kind": "idiom",
+"gloss": [
+"A person who is destroyed or forgotten, or who feels flawed or broken."
+]
+},
+{
+"id": "bite-to-eat_idiom",
+"w": "bite to eat",
+"kind": "idiom",
+"gloss": [
+"A snack or quick meal."
+]
+},
+{
+"id": "fit-to-be-tied_idiom",
+"w": "fit to be tied",
+"kind": "idiom",
+"gloss": [
+"Very agitated or distressed; also, very angry; enraged, furious."
+]
+},
+{
+"id": "house-cooling-party_idiom",
+"w": "house cooling party",
+"kind": "idiom",
+"gloss": [
+"A party to celebrate when a person decides to leave a house or flat, and sometimes to help prepare the space for the incoming residents."
+]
+},
+{
+"id": "totus-porcus_idiom",
+"w": "totus porcus",
+"kind": "idiom",
+"gloss": [
+"Completely; unreservedly."
+]
+},
+{
+"id": "phone-tag_idiom",
+"w": "phone tag",
+"kind": "idiom",
+"gloss": [
+"A situation in which two individuals attempting to contact each other by telephone repeatedly do not get a live person and instead trade messages, such as by voice mail."
+]
+},
+{
+"id": "best-of-the-bunch_idiom",
+"w": "best of the bunch",
+"kind": "idiom",
+"gloss": [
+"The best or most preferred person or item within a group."
+]
+},
+{
+"id": "live-in-sin_idiom",
+"w": "live in sin",
+"kind": "idiom",
+"gloss": [
+"To cohabit as if husband and wife without being married."
+]
+},
+{
+"id": "all-sizzle-and-no-steak_idiom",
+"w": "all sizzle and no steak",
+"kind": "idiom",
+"gloss": [
+"A thing or person which fails to measure up to its description or advance promotion."
+]
+},
+{
+"id": "put-a-lid-on-it_idiom",
+"w": "put a lid on it",
+"kind": "idiom",
+"gloss": [
+"To be quiet; to shut up; to stop talking about something or making noise."
+]
+},
+{
+"id": "humpty-dumptyism_idiom",
+"w": "Humpty Dumptyism",
+"kind": "idiom",
+"gloss": [
+"The practice of insisting that a word means whatever one wishes it to."
+]
+},
+{
+"id": "cock-of-the-walk_idiom",
+"w": "cock of the walk",
+"kind": "idiom",
+"gloss": [
+"A proud or conceited person."
+]
+},
+{
+"id": "all-eyes-and-ears_idiom",
+"w": "all eyes and ears",
+"kind": "idiom",
+"gloss": [
+"Very attentive."
+]
+},
+{
+"id": "wrestle-with-a-pig_idiom",
+"w": "wrestle with a pig",
+"kind": "idiom",
+"gloss": [
+"To engage in a struggle with an opponent that benefits from the struggle even without winning it."
+]
+},
+{
+"id": "installed-base_idiom",
+"w": "installed base",
+"kind": "idiom",
+"gloss": [
+"The number of units of a system or product that are currently in use."
+]
+},
+{
+"id": "put-the-clock-forward_idiom",
+"w": "put the clock forward",
+"kind": "idiom",
+"gloss": [
+"To change the time in a time zone to a later time."
+]
+},
+{
+"id": "more-equal_idiom",
+"w": "more equal",
+"kind": "idiom",
+"gloss": [
+"Ostensibly equal, but more privileged in reality."
+]
+},
+{
+"id": "in-the-hospital_idiom",
+"w": "in the hospital",
+"kind": "idiom",
+"gloss": [
+"Admitted as a patient in a hospital."
+]
+},
+{
+"id": "throw-away-the-key_idiom",
+"w": "throw away the key",
+"kind": "idiom",
+"gloss": [
+"To never release someone (e.g., from prison)."
+]
+},
+{
+"id": "urban-fabric_idiom",
+"w": "urban fabric",
+"kind": "idiom",
+"gloss": [
+"The physical aspect of urbanism, emphasizing building types, thoroughfares, open space, frontages, and streetscapes but excluding environmental, functional, economic and sociocultural aspects."
+]
+},
+{
+"id": "shoulder-to-cry-on_idiom",
+"w": "shoulder to cry on",
+"kind": "idiom",
+"gloss": [
+"Someone offering emotional support to another in distress."
+]
+},
+{
+"id": "dead-tree-edition_idiom",
+"w": "dead tree edition",
+"kind": "idiom",
+"gloss": [
+"The physical, printed version of a publication."
+]
+},
+{
+"id": "every-man-jack_idiom",
+"w": "every man Jack",
+"kind": "idiom",
+"gloss": [
+"All the members of a group with no exceptions."
+]
+},
+{
+"id": "buy-to-let_idiom",
+"w": "buy to let",
+"kind": "idiom",
+"gloss": [
+"To purchase a property as in investment, and to let it out for rental instead of living in it"
+]
+},
+{
+"id": "in-the-twinkling-of-an-eye_idiom",
+"w": "in the twinkling of an eye",
+"kind": "idiom",
+"gloss": [
+"Immediately; instantaneously."
+]
+},
+{
+"id": "run-something-up-the-flagpole_idiom",
+"w": "run something up the flagpole",
+"kind": "idiom",
+"gloss": [
+"To propose an idea or make a suggestion in order to acquire feedback from others."
+]
+},
+{
+"id": "sleep-with-the-fishes_idiom",
+"w": "sleep with the fishes",
+"kind": "idiom",
+"gloss": [
+"To be dead, with one's corpse disposed of in a body of water."
+]
+},
+{
+"id": "have-the-wind-up_idiom",
+"w": "have the wind up",
+"kind": "idiom",
+"gloss": [
+"To be frightened or disturbed."
+]
+},
+{
+"id": "get-into-one-s-stride_idiom",
+"w": "get into one's stride",
+"kind": "idiom",
+"gloss": [
+"To become familiar with something"
+]
+},
+{
+"id": "no-skin-off-one-s-nose_idiom",
+"w": "no skin off one's nose",
+"kind": "idiom",
+"gloss": [
+"No harm to one."
+]
+},
+{
+"id": "get-moving_idiom",
+"w": "get moving",
+"kind": "idiom",
+"gloss": [
+"To start hurrying to undertake a task."
+]
+},
+{
+"id": "asleep-at-the-switch_idiom",
+"w": "asleep at the switch",
+"kind": "idiom",
+"gloss": [
+"Neglectful of an important task, responsibility, or opportunity."
+]
+},
+{
+"id": "offer-affordances_idiom",
+"w": "offer affordances",
+"kind": "idiom",
+"gloss": [
+"To give elbow room or leeway (for something to happen)."
+]
+},
+{
+"id": "screw-you_idiom",
+"w": "screw you",
+"kind": "idiom",
+"gloss": [
+"less offensive version of fuck you."
+]
+},
+{
+"id": "full-to-the-gills_idiom",
+"w": "full to the gills",
+"kind": "idiom",
+"gloss": [
+"Completely or overly full."
+]
+},
+{
+"id": "go-snake_idiom",
+"w": "go snake",
+"kind": "idiom",
+"gloss": [
+"To act in an erratic or unrestrained manner."
+]
+},
+{
+"id": "nigger-rich_idiom",
+"w": "nigger rich",
+"kind": "idiom",
+"gloss": [
+"Of a person, living ostentatiously; spending money recklessly, especially a limited supply of money."
+]
+},
+{
+"id": "god-s-honest-truth_idiom",
+"w": "God's honest truth",
+"kind": "idiom",
+"gloss": [
+"Unquestionable, absolute truth."
+]
+},
+{
+"id": "one-in-the-eye-for_idiom",
+"w": "one in the eye for",
+"kind": "idiom",
+"gloss": [
+"An event or achievement which is unpleasant for someone, especially for those who considered it impossible or unwelcome; an annoyance."
+]
+},
+{
+"id": "high-and-mighty_idiom",
+"w": "high and mighty",
+"kind": "idiom",
+"gloss": [
+"An arrogant or self-important person."
+]
+},
+{
+"id": "bottom-of-the-line_idiom",
+"w": "bottom of the line",
+"kind": "idiom",
+"gloss": [
+"The worst or lowest quality on the market, especially among a range of products."
+]
+},
+{
+"id": "run-hot-and-cold_idiom",
+"w": "run hot and cold",
+"kind": "idiom",
+"gloss": [
+"To alternate between two opposite extremes, such as enthusiasm and disinterest or success and failure."
+]
+},
+{
+"id": "dig-up-dirt_idiom",
+"w": "dig up dirt",
+"kind": "idiom",
+"gloss": [
+"To examine (someone or something) in order to find negative or unfavorable information about them for public opinion, usually with the purpose of embarrassing or discrediting a person."
+]
+},
+{
+"id": "out-of-someone-s-way_idiom",
+"w": "out of someone's way",
+"kind": "idiom",
+"gloss": [
+"Not in the direct route that one would normally use."
+]
+},
+{
+"id": "blot-one-s-copy-book_idiom",
+"w": "blot one's copy book",
+"kind": "idiom",
+"gloss": [
+"To damage one's own reputation through bad behavior."
+]
+},
+{
+"id": "rebound-relationship_idiom",
+"w": "rebound relationship",
+"kind": "idiom",
+"gloss": [
+"A relationship following a prior long-term relationship, usually short in duration and used to help mend the \"broken heart\"."
+]
+},
+{
+"id": "steal-a-glance_idiom",
+"w": "steal a glance",
+"kind": "idiom",
+"gloss": [
+"To look quickly at someone or something, hoping that nobody notices the action."
+]
+},
+{
+"id": "in-control_idiom",
+"w": "in control",
+"kind": "idiom",
+"gloss": [
+"Exercising control over a machine, vehicle, situation etc."
+]
+},
+{
+"id": "in-the-short-run_idiom",
+"w": "in the short run",
+"kind": "idiom",
+"gloss": [
+"Lasting only a short time, shortsightedly."
+]
+},
+{
+"id": "out-of-the-running_idiom",
+"w": "out of the running",
+"kind": "idiom",
+"gloss": [
+"No longer in a competition; eliminated from consideration."
+]
+},
+{
+"id": "hang-the-moon_idiom",
+"w": "hang the moon",
+"kind": "idiom",
+"gloss": [
+"To place the moon in the sky: used as an example of a superlative act attributed to someone viewed with uncritical or excessive awe, reverence, or infatuation."
+]
+},
+{
+"id": "like-it-or-lump-it_idiom",
+"w": "like it or lump it",
+"kind": "idiom",
+"gloss": [
+"To accept a situation whether one agrees with it or not."
+]
+},
+{
+"id": "lump-it_idiom",
+"w": "lump it",
+"kind": "idiom",
+"gloss": [
+"To endure, accept, put up with a situation one does not like."
+]
+},
+{
+"id": "grind-one-s-gears_idiom",
+"w": "grind one's gears",
+"kind": "idiom",
+"gloss": [
+"To annoy or irritate one."
+]
+},
+{
+"id": "beef-to-the-hoof_idiom",
+"w": "beef to the hoof",
+"kind": "idiom",
+"gloss": [
+"fat, chubby, particularly with fat legs."
+]
+},
+{
+"id": "assume-the-mantle_idiom",
+"w": "assume the mantle",
+"kind": "idiom",
+"gloss": [
+"To take on a specific role or position, along with any associated responsibilities."
+]
+},
+{
+"id": "under-one-s-hat_idiom",
+"w": "under one's hat",
+"kind": "idiom",
+"gloss": [
+"Concealed; confidential; secret."
+]
+},
+{
+"id": "cool-one-s-jets_idiom",
+"w": "cool one's jets",
+"kind": "idiom",
+"gloss": [
+"To become less excited, intense, or active; to exercise self-restraint."
+]
+},
+{
+"id": "sleeping-policeman_idiom",
+"w": "sleeping policeman",
+"kind": "idiom",
+"gloss": [
+"A speed bump."
+]
+},
+{
+"id": "make-an-honest-woman_idiom",
+"w": "make an honest woman",
+"kind": "idiom",
+"gloss": [
+"To marry (a woman), especially if there is an existing sexual relationship."
+]
+},
+{
+"id": "porcelain-god_idiom",
+"w": "porcelain god",
+"kind": "idiom",
+"gloss": [
+"A commode; a toilet bowl."
+]
+},
+{
+"id": "hanging-offence_idiom",
+"w": "hanging offence",
+"kind": "idiom",
+"gloss": [
+"A crime so serious that it is punishable by means of death by hanging."
+]
+},
+{
+"id": "paint-with-a-broad-brush_idiom",
+"w": "paint with a broad brush",
+"kind": "idiom",
+"gloss": [
+"To describe a class of objects or a kind of phenomenon in general terms, without specific details and without attention to individual variations."
+]
+},
+{
+"id": "good-enough-for-government-work_idiom",
+"w": "good enough for government work",
+"kind": "idiom",
+"gloss": [
+"Synonym of close enough for government work."
+]
+},
+{
+"id": "come-unstuck_idiom",
+"w": "come unstuck",
+"kind": "idiom",
+"gloss": [
+"To get into trouble, to have an accident or mishap, to go off the rails."
+]
+},
+{
+"id": "live-the-dream_idiom",
+"w": "live the dream",
+"kind": "idiom",
+"gloss": [
+"To experience the achievement of every success that one has aspired to achieve, especially from a career."
+]
+},
+{
+"id": "three-guys-in-a-garage_idiom",
+"w": "three guys in a garage",
+"kind": "idiom",
+"gloss": [
+"A small, agile group of startup innovators with a big idea, passion, and modest resources."
+]
+},
+{
+"id": "take-a-shot-in-the-dark_idiom",
+"w": "take a shot in the dark",
+"kind": "idiom",
+"gloss": [
+"To try or guess at something without having any knowledge about the subject."
+]
+},
+{
+"id": "german-virgin_idiom",
+"w": "German virgin",
+"kind": "idiom",
+"gloss": [
+"A poker hand in Texas hold 'em, consisting of two nine cards."
+]
+},
+{
+"id": "dog-and-pony-show_idiom",
+"w": "dog and pony show",
+"kind": "idiom",
+"gloss": [
+"Any presentation or display that is overly contrived or intricate, while lacking real substance."
+]
+},
+{
+"id": "scratch-one-s-head_idiom",
+"w": "scratch one's head",
+"kind": "idiom",
+"gloss": [
+"To puzzle, ponder, or wonder about something."
+]
+},
+{
+"id": "run-someone-ragged_idiom",
+"w": "run someone ragged",
+"kind": "idiom",
+"gloss": [
+"To exhaust; to demand excessive effort or work from somebody."
+]
+},
+{
+"id": "left-handed-compliment_idiom",
+"w": "left-handed compliment",
+"kind": "idiom",
+"gloss": [
+"A complimentary remark which is ambiguous or ineptly worded, so that it may be interpreted as having an unflattering or dismissive sense."
+]
+},
+{
+"id": "hell-and-half-of-georgia_idiom",
+"w": "hell and half of Georgia",
+"kind": "idiom",
+"gloss": [
+"A very large region; everywhere."
+]
+},
+{
+"id": "short-hairs_idiom",
+"w": "short hairs",
+"kind": "idiom",
+"gloss": [
+"Pubic hair."
+]
+},
+{
+"id": "bird-of-one-s-own-brain_idiom",
+"w": "bird of one's own brain",
+"kind": "idiom",
+"gloss": [
+"One's own idea or conception."
+]
+},
+{
+"id": "thin-end-of-the-wedge_idiom",
+"w": "thin end of the wedge",
+"kind": "idiom",
+"gloss": [
+"Something that if allowed or accepted to a small degree would lead to systematic encroachment."
+]
+},
+{
+"id": "keep-one-s-head_idiom",
+"w": "keep one's head",
+"kind": "idiom",
+"gloss": [
+"To remain calm, reasonable, level-headed, especially in a situation likely to cause distress."
+]
+},
+{
+"id": "knuckle-dragger_idiom",
+"w": "knuckle dragger",
+"kind": "idiom",
+"gloss": [
+"A large, strong, and rather dimwitted person."
+]
+},
+{
+"id": "cheap-and-cheerful_idiom",
+"w": "cheap and cheerful",
+"kind": "idiom",
+"gloss": [
+"Not of bad quality, or otherwise enjoyable, despite being cheap."
+]
+},
+{
+"id": "be-taken-ill_idiom",
+"w": "be taken ill",
+"kind": "idiom",
+"gloss": [
+"To become ill."
+]
+},
+{
+"id": "take-ill_idiom",
+"w": "take ill",
+"kind": "idiom",
+"gloss": [
+"To become ill, to fall ill."
+]
+},
+{
+"id": "huckleberry-above-a-persimmon_idiom",
+"w": "huckleberry above a persimmon",
+"kind": "idiom",
+"gloss": [
+"Someone or something that is better than others."
+]
+},
+{
+"id": "above-the-salt_idiom",
+"w": "above the salt",
+"kind": "idiom",
+"gloss": [
+"Of high standing or honor."
+]
+},
+{
+"id": "put-a-damper-on_idiom",
+"w": "put a damper on",
+"kind": "idiom",
+"gloss": [
+"To stop people from enjoying an activity."
+]
+},
+{
+"id": "poor-power_idiom",
+"w": "poor power",
+"kind": "idiom",
+"gloss": [
+"Limited ability."
+]
+},
+{
+"id": "down-cellar_idiom",
+"w": "down cellar",
+"kind": "idiom",
+"gloss": [
+"Downstairs; the opposite of upstairs."
+]
+},
+{
+"id": "put-oneself-across_idiom",
+"w": "put oneself across",
+"kind": "idiom",
+"gloss": [
+"To explain one's ideas and opinions clearly so that another person can understand them and get a picture of your personality."
+]
+},
+{
+"id": "torqued-off_idiom",
+"w": "torqued off",
+"kind": "idiom",
+"gloss": [
+"Annoyed, upset, angry."
+]
+},
+{
+"id": "put-down-as_idiom",
+"w": "put down as",
+"kind": "idiom",
+"gloss": [
+"To assume the particularity of someone's character based on very little information."
+]
+},
+{
+"id": "sweet-mary_idiom",
+"w": "sweet Mary",
+"kind": "idiom",
+"gloss": [
+"Used to add emphasis, particularly by Catholics."
+]
+},
+{
+"id": "bust-a-cap_idiom",
+"w": "bust a cap",
+"kind": "idiom",
+"gloss": [
+"To fire a weapon; to shoot with a gun."
+]
+},
+{
+"id": "put-up-job_idiom",
+"w": "put-up job",
+"kind": "idiom",
+"gloss": [
+"An attempt to trick, deceive, or con someone."
+]
+},
+{
+"id": "put-up-or-shut-up_idiom",
+"w": "put up or shut up",
+"kind": "idiom",
+"gloss": [
+"To desist from saying something unless one is able to prove it; to act in a manner that makes further talk unnecessary."
+]
+},
+{
+"id": "due-course_idiom",
+"w": "due course",
+"kind": "idiom",
+"gloss": [
+"Regular or appropriate passage or occurrence"
+]
+},
+{
+"id": "in-the-reign-of-queen-dick_idiom",
+"w": "in the reign of Queen Dick",
+"kind": "idiom",
+"gloss": [
+"when pigs fly; never"
+]
+},
+{
+"id": "have-it-large_idiom",
+"w": "have it large",
+"kind": "idiom",
+"gloss": [
+"To engage intensely in pleasure-seeking activities."
+]
+},
+{
+"id": "for-xyz-reasons_idiom",
+"w": "for XYZ reasons",
+"kind": "idiom",
+"gloss": [
+"For reasons unknown and not worth speculating on."
+]
+}
+]

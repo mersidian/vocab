@@ -1,0 +1,902 @@
+[
+{
+"id": "mike-off_pv",
+"w": "mike off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To leave, run away, abandon or escape."
+]
+},
+{
+"id": "micky-off_pv",
+"w": "micky off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of mike off."
+]
+},
+{
+"id": "love-away_pv",
+"w": "love away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To resolve conflicts and emotional pain through love and intimacy."
+]
+},
+{
+"id": "gobble-off_pv",
+"w": "gobble off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To fellate."
+]
+},
+{
+"id": "camp-out-on_pv",
+"w": "camp out on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To exert or maintain control over a website, domain name, wiki page, etc."
+]
+},
+{
+"id": "graff-up_pv",
+"w": "graff up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To graffiti."
+]
+},
+{
+"id": "brick-over_pv",
+"w": "brick over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To wall up with brick."
+]
+},
+{
+"id": "inch-along_pv",
+"w": "inch along",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To move slowly or to make progress gradually, bit by bit."
+]
+},
+{
+"id": "inch-forward_pv",
+"w": "inch forward",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To move forward in a very slow, cautious, and careful way."
+]
+},
+{
+"id": "inch-up_pv",
+"w": "inch up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To move or increase by small increments, typically slowly and carefully."
+]
+},
+{
+"id": "gingerbread-up_pv",
+"w": "gingerbread up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of gingerbread (“to decorate or embellish in an ornate or intricate way”)."
+]
+},
+{
+"id": "dandy-up_pv",
+"w": "dandy up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make fashionable, stylish or flashy in appearance."
+]
+},
+{
+"id": "inch-back_pv",
+"w": "inch back",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To move something backward by a very small amount, often in a slow and gradual way."
+]
+},
+{
+"id": "report-out_pv",
+"w": "report out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To send a piece of legislation back to a legislature to vote on after having considered and edited it."
+]
+},
+{
+"id": "buckle-over_pv",
+"w": "buckle over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To bend over suddenly, pitching forward from the waist, as for example when vomiting suddenly."
+]
+},
+{
+"id": "rot-off_pv",
+"w": "rot off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To fall off by rotting."
+]
+},
+{
+"id": "slap-around_pv",
+"w": "slap around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of smack around"
+]
+},
+{
+"id": "pretzel-up_pv",
+"w": "pretzel up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make or become confused, perplexed, twisted or entangled."
+]
+},
+{
+"id": "come-on-in_pv",
+"w": "come on in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of come in (“to enter”)."
+]
+},
+{
+"id": "moss-out_pv",
+"w": "moss out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To relax; to be lazy or sluggish."
+]
+},
+{
+"id": "tackle-on_pv",
+"w": "tackle on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To deal with; to confront; to tackle head on."
+]
+},
+{
+"id": "stance-up_pv",
+"w": "stance up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To assume bold body language."
+]
+},
+{
+"id": "rally-behind_pv",
+"w": "rally behind",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To support, particularly in a time of crisis."
+]
+},
+{
+"id": "be-to_pv",
+"w": "be to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Especially, to be expected to (do something)."
+]
+},
+{
+"id": "hoard-up_pv",
+"w": "hoard up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To hoard or stack up"
+]
+},
+{
+"id": "tinker-up_pv",
+"w": "tinker up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To repair by tinkering"
+]
+},
+{
+"id": "fly-up_pv",
+"w": "fly up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To ascend rapidly"
+]
+},
+{
+"id": "leap-up_pv",
+"w": "leap up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To quickly stand up"
+]
+},
+{
+"id": "lease-out_pv",
+"w": "lease out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To lease; to let (property, as a landlord)"
+]
+},
+{
+"id": "move-to_pv",
+"w": "move to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To attack; to hit."
+]
+},
+{
+"id": "move-with_pv",
+"w": "move with",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To be in a clique with; to associate with."
+]
+},
+{
+"id": "scarf-up_pv",
+"w": "scarf up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of scarf down."
+]
+},
+{
+"id": "scoff-up_pv",
+"w": "scoff up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of scarf down."
+]
+},
+{
+"id": "gobble-down_pv",
+"w": "gobble down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of gobble up."
+]
+},
+{
+"id": "share-in_pv",
+"w": "share in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To take a portion of something; to experience something jointly with others."
+]
+},
+{
+"id": "wink-out_pv",
+"w": "wink out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"to come to an end; to stop"
+]
+},
+{
+"id": "fort-up_pv",
+"w": "fort up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To fortify (a place); to convert into a fort."
+]
+},
+{
+"id": "chat-away_pv",
+"w": "chat away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To keep talking in a friendly and informal way to each other."
+]
+},
+{
+"id": "spoon-out_pv",
+"w": "spoon out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To serve from a container with a spoon."
+]
+},
+{
+"id": "trample-out_pv",
+"w": "trample out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make (a path) by trampling on vegetation or the like."
+]
+},
+{
+"id": "swell-out_pv",
+"w": "swell out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To swell or bulge"
+]
+},
+{
+"id": "farm-down_pv",
+"w": "farm down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To sell stakes in a project to third-party investors."
+]
+},
+{
+"id": "slip-past_pv",
+"w": "slip past",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of sneak past"
+]
+},
+{
+"id": "hop-in_pv",
+"w": "hop in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To enter a vehicle, especially a car."
+]
+},
+{
+"id": "tote-up_pv",
+"w": "tote up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To tally up; to calculate a total."
+]
+},
+{
+"id": "cost-out_pv",
+"w": "cost out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To calculate the cost of a future enterprise (project, plan, etc.)"
+]
+},
+{
+"id": "putz-around_pv",
+"w": "putz around",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To waste time."
+]
+},
+{
+"id": "putz-round_pv",
+"w": "putz round",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of putz around"
+]
+},
+{
+"id": "darwin-out_pv",
+"w": "Darwin out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To remove (a person) from the gene pool when they engage in foolish, thoughtless, or reckless behavior."
+]
+},
+{
+"id": "roof-over_pv",
+"w": "roof over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To place a roof over an outdoor area."
+]
+},
+{
+"id": "swing-back_pv",
+"w": "swing back",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To return to a previous position."
+]
+},
+{
+"id": "ape-in_pv",
+"w": "ape in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To buy recklessly large amounts of an untried cryptocurrency."
+]
+},
+{
+"id": "warn-off_pv",
+"w": "warn off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To directly or indirectly persuade someone not to take a particular course of action."
+]
+},
+{
+"id": "whittle-away_pv",
+"w": "whittle away",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To drain away; to wear down or be slowly worn down."
+]
+},
+{
+"id": "rail-out_pv",
+"w": "rail out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of rail (“to complain violently”)."
+]
+},
+{
+"id": "bling-up_pv",
+"w": "bling up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of bling out"
+]
+},
+{
+"id": "be-into_pv",
+"w": "be into",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To enjoy and/or like something in a sexual way or as a fetish."
+]
+},
+{
+"id": "edit-in_pv",
+"w": "edit in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To add before publication or broadcasting (as an editorial decision)."
+]
+},
+{
+"id": "contract-in_pv",
+"w": "contract in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To hire and bring a contractor into a project locally."
+]
+},
+{
+"id": "pull-round_pv",
+"w": "pull round",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To recover; to return to normal."
+]
+},
+{
+"id": "rack-out_pv",
+"w": "rack out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To go to sleep as a group for the night; (by extension) to go to bed."
+]
+},
+{
+"id": "beast-on_pv",
+"w": "beast on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To defeat or dominate; to outdo."
+]
+},
+{
+"id": "gut-through_pv",
+"w": "gut through",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To tough it out; to persevere despite pain, fear or setbacks."
+]
+},
+{
+"id": "bump-down_pv",
+"w": "bump down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To transfer (recorded footage) from a wider to a narrower tape format."
+]
+},
+{
+"id": "master-out_pv",
+"w": "master out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To quit a PhD program and earn a master's degree."
+]
+},
+{
+"id": "puzzle-over_pv",
+"w": "puzzle over",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To think intensely and deeply about a confusing problem, situation, or question in an effort to understand it or to find a solution."
+]
+},
+{
+"id": "puzzle-through_pv",
+"w": "puzzle through",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To work methodically to solve or understand something complex."
+]
+},
+{
+"id": "meat-off_pv",
+"w": "meat off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To train an insectivorous bird to eat non-live food."
+]
+},
+{
+"id": "stand-upon_pv",
+"w": "stand upon",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of stand on"
+]
+},
+{
+"id": "slime-out_pv",
+"w": "slime out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To kill."
+]
+},
+{
+"id": "boo-up_pv",
+"w": "boo up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To start a romantic relationship with someone."
+]
+},
+{
+"id": "mask-off_pv",
+"w": "mask off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of mask (“shield from paint or copying, etc.”)."
+]
+},
+{
+"id": "lib-out_pv",
+"w": "lib out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To enthusiastically endorse the implementation of a liberal political agenda."
+]
+},
+{
+"id": "scale-in_pv",
+"w": "scale in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To incrementally enter a position on an oversold market in view of indications of a rebound trend."
+]
+},
+{
+"id": "dob-on_pv",
+"w": "dob on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of dob in (“to betray (someone) by informing on them”)."
+]
+},
+{
+"id": "buck-in_pv",
+"w": "buck in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To align or sight an instrument (such as a theodolite or level) precisely between two marks or points for accurate measurement."
+]
+},
+{
+"id": "glitch-out_pv",
+"w": "glitch out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To fail due to a malfunction or glitch."
+]
+},
+{
+"id": "taco-out_pv",
+"w": "TACO out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Of Donald Trump, to pause or back down from aggressive policies."
+]
+},
+{
+"id": "sull-up_pv",
+"w": "sull up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To sull; to play dead."
+]
+},
+{
+"id": "cut-on_pv",
+"w": "cut on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To turn on (e.g. a light, a television, etc.)."
+]
+},
+{
+"id": "bail-on_pv",
+"w": "bail on",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To abandon (someone or something)."
+]
+},
+{
+"id": "throw-up-to_pv",
+"w": "throw up to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To remind someone of a blunder; to insult someone regarding a fault or failure; to throw something in someone's face."
+]
+},
+{
+"id": "slam-out_pv",
+"w": "slam out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To succeed in a task, usually by producing something, quickly, efficiently or energetically."
+]
+},
+{
+"id": "save-back_pv",
+"w": "save back",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To store for use in leaner periods later (e.g. in winter)"
+]
+},
+{
+"id": "pooch-out_pv",
+"w": "pooch out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To form a bulge or lump."
+]
+},
+{
+"id": "remote-in_pv",
+"w": "remote in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To take control of a computer remotely."
+]
+},
+{
+"id": "work-up-to_pv",
+"w": "work up to",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To reach by gradual effort or developments."
+]
+},
+{
+"id": "mime-out_pv",
+"w": "mime out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To express using mime."
+]
+},
+{
+"id": "shift-in_pv",
+"w": "shift in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To introduce or activate a new configuration, algorithm, or processing step into a running system or workflow."
+]
+},
+{
+"id": "shift-out_pv",
+"w": "shift out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To switch from a primary character set to an alternate (e.g. graphic) character set on a device."
+]
+},
+{
+"id": "steal-in_pv",
+"w": "steal in",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To move, enter, or introduce something into a place quietly or secretly, often without being noticed."
+]
+},
+{
+"id": "roll-forward_pv",
+"w": "roll forward",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To extend a condition, investment, position or benefit into a subsequent period."
+]
+},
+{
+"id": "stove-up_pv",
+"w": "stove up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To be debilitating or crippling to; to cause suffering to (a person)."
+]
+},
+{
+"id": "declare-against_pv",
+"w": "declare against",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To formally and strongly oppose or criticize."
+]
+},
+{
+"id": "ease-down_pv",
+"w": "ease down",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"Synonym of calm down."
+]
+},
+{
+"id": "dike-out_pv",
+"w": "dike out",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To remove a component by using a pair of diagonal cutters (\"dikes\"). By analogy, to remove any part from a larger whole."
+]
+},
+{
+"id": "zoot-up_pv",
+"w": "zoot up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To dress in a zoot suit."
+]
+},
+{
+"id": "fiercen-up_pv",
+"w": "fiercen up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To make fiercer."
+]
+},
+{
+"id": "mull-up_pv",
+"w": "mull up",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To mix cannabis with tobacco."
+]
+},
+{
+"id": "nix-off_pv",
+"w": "nix off",
+"pos": "verb",
+"kind": "phrasal",
+"gloss": [
+"To reject."
+]
+}
+]
