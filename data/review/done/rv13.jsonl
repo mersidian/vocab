@@ -1,0 +1,151 @@
+{"id":"prompt_adj","action":"keep"}
+{"id":"prompt_noun","action":"keep"}
+{"id":"prompt_verb","action":"keep"}
+{"id":"spare_adj","action":"keep"}
+{"id":"spare_verb","action":"keep"}
+{"id":"shed_noun","action":"keep"}
+{"id":"shed_verb","action":"keep"}
+{"id":"micro_noun","action":"drop","why":"rare informal clipping; micro is normally a prefix"}
+{"id":"attribute_noun","action":"keep"}
+{"id":"attribute_verb","action":"keep"}
+{"id":"exhaust_noun","action":"keep"}
+{"id":"exhaust_verb","action":"keep"}
+{"id":"hook_noun","action":"keep"}
+{"id":"hook_verb","action":"keep"}
+{"id":"blast_noun","action":"keep"}
+{"id":"blast_verb","action":"keep"}
+{"id":"swing_noun","action":"keep"}
+{"id":"swing_verb","action":"keep"}
+{"id":"retreat_noun","action":"keep"}
+{"id":"retreat_verb","action":"keep"}
+{"id":"rape_noun","action":"fix","note":"คำเกี่ยวกับอาชญากรรมทางเพศ ใช้ในบริบทข่าวและกฎหมาย"}
+{"id":"rape_verb","action":"keep"}
+{"id":"idle_adj","action":"keep"}
+{"id":"idle_verb","action":"fix","th":"ติดเครื่องทิ้งไว้; เดินเครื่องเปล่า; อยู่เฉยๆ"}
+{"id":"bloody_adj","action":"keep"}
+{"id":"bloody_adv","action":"keep"}
+{"id":"ban_noun","action":"keep"}
+{"id":"ban_verb","action":"keep"}
+{"id":"damn_adj","action":"fix","exTh":"ฉันหากุญแจบ้านั่นไม่เจอเลย"}
+{"id":"damn_adv","action":"keep"}
+{"id":"damn_interj","action":"keep"}
+{"id":"deliberate_adj","action":"keep"}
+{"id":"deliberate_verb","action":"keep"}
+{"id":"humble_adj","action":"keep"}
+{"id":"humble_verb","action":"keep"}
+{"id":"grip_noun","action":"keep"}
+{"id":"grip_verb","action":"keep"}
+{"id":"imperative_noun","action":"keep"}
+{"id":"imperative_adj","action":"keep"}
+{"id":"query_noun","action":"keep"}
+{"id":"query_verb","action":"keep"}
+{"id":"anchor_noun","action":"keep"}
+{"id":"anchor_verb","action":"keep"}
+{"id":"overtime_adv","action":"keep"}
+{"id":"overtime_noun","action":"keep"}
+{"id":"pose_noun","action":"keep"}
+{"id":"pose_verb","action":"keep"}
+{"id":"upright_adj","action":"keep"}
+{"id":"upright_adv","action":"keep"}
+{"id":"explosive_adj","action":"fix","ex":"Gas is highly explosive, so keep it away from fire.","exTh":"แก๊สระเบิดได้ง่ายมาก จึงต้องเก็บให้ห่างจากไฟ"}
+{"id":"explosive_noun","action":"keep"}
+{"id":"mold_noun","action":"keep"}
+{"id":"mold_verb","action":"keep"}
+{"id":"bolt_noun","action":"keep"}
+{"id":"bolt_verb","action":"keep"}
+{"id":"lest_conj","action":"keep"}
+{"id":"punch_noun","action":"keep"}
+{"id":"punch_verb","action":"keep"}
+{"id":"nationwide_adj","action":"keep"}
+{"id":"nationwide_adv","action":"keep"}
+{"id":"darling_adj","action":"drop","why":"dated adjective use; noun covers common use"}
+{"id":"darling_noun","action":"keep"}
+{"id":"plague_noun","action":"keep"}
+{"id":"plague_verb","action":"keep"}
+{"id":"utter_verb","action":"keep"}
+{"id":"utter_adj","action":"keep"}
+{"id":"ally_noun","action":"keep"}
+{"id":"ally_verb","action":"keep"}
+{"id":"edit_noun","action":"keep"}
+{"id":"edit_verb","action":"keep"}
+{"id":"stain_noun","action":"keep"}
+{"id":"stain_verb","action":"keep"}
+{"id":"solo_adj","action":"keep"}
+{"id":"solo_adv","action":"keep"}
+{"id":"solo_noun","action":"keep"}
+{"id":"rebel_noun","action":"keep"}
+{"id":"rebel_verb","action":"keep"}
+{"id":"boost_noun","action":"keep"}
+{"id":"boost_verb","action":"keep"}
+{"id":"surge_noun","action":"keep"}
+{"id":"surge_verb","action":"keep"}
+{"id":"quarrel_noun","action":"keep"}
+{"id":"quarrel_verb","action":"keep"}
+{"id":"leak_noun","action":"keep"}
+{"id":"leak_verb","action":"keep"}
+{"id":"dash_noun","action":"fix","exTh":"เขารีบวิ่งไปขึ้นรถเมล์"}
+{"id":"dash_verb","action":"keep"}
+{"id":"peel_noun","action":"keep"}
+{"id":"peel_verb","action":"keep"}
+{"id":"heap_noun","action":"keep"}
+{"id":"heap_verb","action":"keep"}
+{"id":"cascade_noun","action":"keep"}
+{"id":"cascade_verb","action":"keep"}
+{"id":"articulate_verb","action":"keep"}
+{"id":"articulate_adj","action":"keep"}
+{"id":"awe_noun","action":"keep"}
+{"id":"awe_verb","action":"drop","why":"verb rare outside passive 'awed'; noun covers"}
+{"id":"insult_noun","action":"keep"}
+{"id":"insult_verb","action":"keep"}
+{"id":"dwarf_noun","action":"keep"}
+{"id":"dwarf_verb","action":"keep"}
+{"id":"rally_noun","action":"keep"}
+{"id":"rally_verb","action":"keep"}
+{"id":"upgrade_noun","action":"keep"}
+{"id":"upgrade_verb","action":"keep"}
+{"id":"disguise_noun","action":"keep"}
+{"id":"disguise_verb","action":"keep"}
+{"id":"pedestrian_noun","action":"keep"}
+{"id":"pedestrian_adj","action":"keep"}
+{"id":"converse_noun","action":"keep"}
+{"id":"converse_adj","action":"drop","why":"rare formal adjective; noun covers 'the converse'"}
+{"id":"shrink_noun","action":"keep"}
+{"id":"shrink_verb","action":"keep"}
+{"id":"tread_verb","action":"keep"}
+{"id":"tread_noun","action":"keep"}
+{"id":"ling_noun","action":"drop","why":"obscure fish/plant name"}
+{"id":"debit_noun","action":"keep"}
+{"id":"debit_verb","action":"keep"}
+{"id":"plum_noun","action":"keep"}
+{"id":"plum_adj","action":"keep"}
+{"id":"blaze_noun","action":"keep"}
+{"id":"blaze_verb","action":"keep"}
+{"id":"squash_noun","action":"keep"}
+{"id":"squash_verb","action":"keep"}
+{"id":"buzz_noun","action":"keep"}
+{"id":"buzz_verb","action":"keep"}
+{"id":"soak_noun","action":"keep"}
+{"id":"soak_verb","action":"keep"}
+{"id":"slap_noun","action":"keep"}
+{"id":"slap_verb","action":"keep"}
+{"id":"ow_noun","action":"drop","why":"interjection, not a noun"}
+{"id":"usher_verb","action":"keep"}
+{"id":"usher_noun","action":"keep"}
+{"id":"refresh_noun","action":"drop","why":"noun use uncommon; verb covers"}
+{"id":"refresh_verb","action":"keep"}
+{"id":"neurosis_noun","action":"fix","ex":"His fear of germs had turned into a real neurosis.","exTh":"ความกลัวเชื้อโรคของเขากลายเป็นอาการวิตกกังวลผิดปกติไปแล้ว"}
+{"id":"scramble_verb","action":"keep"}
+{"id":"scramble_noun","action":"keep"}
+{"id":"roam_noun","action":"drop","why":"noun use rare; roam is a verb"}
+{"id":"pluck_verb","action":"keep"}
+{"id":"pluck_noun","action":"drop","why":"dated sense (courage) plus rare offal sense"}
+{"id":"referent_adj","action":"drop","why":"rare technical adjective"}
+{"id":"hone_noun","action":"drop","why":"rare noun; hone is used as a verb"}
+{"id":"tabloid_adj","action":"keep"}
+{"id":"tabloid_noun","action":"keep"}
+{"id":"mutter_noun","action":"drop","why":"noun use uncommon; verb covers"}
+{"id":"mutter_verb","action":"keep"}
+{"id":"yawn_noun","action":"keep"}
+{"id":"yawn_verb","action":"keep"}
+{"id":"stagger_noun","action":"drop","why":"noun use rare; verb covers"}
+{"id":"stagger_verb","action":"keep"}

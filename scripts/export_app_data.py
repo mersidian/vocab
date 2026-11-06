@@ -40,13 +40,31 @@ def main():
 
     # Phrasal verbs / idioms: drop slurs, then order each deck by how common the writer rated
     # it (c = 5 everyday ... 1 rare), keeping the Wiktionary popularity order within a rating.
+    # Review decisions (data/review/done/*.jsonl): "fix" overrides content fields, "drop" removes the entry.
+    review_drops = set()
+    for f in sorted((ROOT / "data" / "review" / "done").glob("*.jsonl")):
+        for line in f.read_text(encoding="utf-8").splitlines():
+            if not line.strip():
+                continue
+            r = json.loads(line)
+            if r.get("action") == "drop":
+                review_drops.add(r["id"])
+            elif r.get("action") == "fix":
+                row = content.setdefault(r["id"], {"id": r["id"]})
+                for k in ("th", "ex", "exTh", "note"):
+                    if k in r:
+                        if r[k]:
+                            row[k] = r[k]
+                        else:
+                            row.pop(k, None)
+
     rules = [l.strip() for l in (ROOT / "data" / "exclude.txt").read_text(encoding="utf-8").splitlines()
              if l.strip() and not l.startswith("#")] if (ROOT / "data" / "exclude.txt").exists() else []
     keep = {l[5:] for l in rules if l.startswith("keep ")}
     listed = {l for l in rules if not l.startswith("keep ")}
     multi = {e["id"] for e in entries if e.get("kind")}
     flagged = {i for i in multi if content.get(i, {}).get("note", "").lower().startswith("slur")}
-    dropped = (listed | flagged) - keep
+    dropped = (listed | flagged | review_drops) - keep
     entries = [e for e in entries if e["id"] not in dropped]
     for d in decks:
         d["ids"] = [i for i in d["ids"] if i not in dropped]
@@ -54,7 +72,7 @@ def main():
             pos = {i: n for n, i in enumerate(d["ids"])}
             d["ids"].sort(key=lambda i: (-int(content.get(i, {}).get("c") or 2), pos[i]))
     if dropped:
-        print(f"left out {len(dropped)} slurs: {sorted(dropped)}")
+        print(f"left out {len(dropped)} entries ({len(review_drops)} from review, rest slurs)")
 
     order = {e["id"]: i for i, e in enumerate(entries)}
     compact = []

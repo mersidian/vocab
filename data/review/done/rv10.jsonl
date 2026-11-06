@@ -1,0 +1,150 @@
+{"id":"vice_adj","action":"drop","why":"really the prefix vice- (vice president), not a standalone adjective"}
+{"id":"stress_noun","action":"keep"}
+{"id":"stress_verb","action":"keep"}
+{"id":"desire_noun","action":"keep"}
+{"id":"desire_verb","action":"keep"}
+{"id":"alternative_adj","action":"keep"}
+{"id":"alternative_noun","action":"keep"}
+{"id":"criminal_adj","action":"keep"}
+{"id":"criminal_noun","action":"keep"}
+{"id":"medium_adj","action":"keep"}
+{"id":"medium_noun","action":"fix","th":"สื่อ; ช่องทาง; ตัวกลาง"}
+{"id":"damage_noun","action":"fix","th":"ความเสียหาย; ผลเสีย"}
+{"id":"damage_verb","action":"keep"}
+{"id":"limit_noun","action":"keep"}
+{"id":"limit_verb","action":"keep"}
+{"id":"sort_noun","action":"keep"}
+{"id":"sort_verb","action":"keep"}
+{"id":"waste_adj","action":"drop","why":"attributive use of the noun; noun entry covers it"}
+{"id":"waste_noun","action":"keep"}
+{"id":"waste_verb","action":"keep"}
+{"id":"finance_noun","action":"keep"}
+{"id":"finance_verb","action":"keep"}
+{"id":"guide_noun","action":"keep"}
+{"id":"guide_verb","action":"keep"}
+{"id":"moral_adj","action":"keep"}
+{"id":"moral_noun","action":"keep"}
+{"id":"race_noun","action":"keep"}
+{"id":"race_verb","action":"keep"}
+{"id":"reserve_noun","action":"keep"}
+{"id":"reserve_verb","action":"keep"}
+{"id":"gain_noun","action":"keep"}
+{"id":"gain_verb","action":"keep"}
+{"id":"signal_noun","action":"keep"}
+{"id":"signal_verb","action":"keep"}
+{"id":"estimate_noun","action":"keep"}
+{"id":"estimate_verb","action":"keep"}
+{"id":"brief_adj","action":"keep"}
+{"id":"brief_verb","action":"keep"}
+{"id":"brief_noun","action":"fix","th":"โจทย์งาน; ขอบเขตงานที่ได้รับมอบหมาย; เอกสารสรุป"}
+{"id":"experiment_noun","action":"keep"}
+{"id":"experiment_verb","action":"keep"}
+{"id":"liquid_adj","action":"keep"}
+{"id":"liquid_noun","action":"keep"}
+{"id":"advance_noun","action":"keep"}
+{"id":"advance_verb","action":"keep"}
+{"id":"dependent_adj","action":"keep"}
+{"id":"dependent_noun","action":"keep"}
+{"id":"anti_adj","action":"drop","why":"essentially the prefix anti-; standalone adjective is rare and informal"}
+{"id":"monthly_adj","action":"keep"}
+{"id":"monthly_adv","action":"keep"}
+{"id":"objective_adj","action":"keep"}
+{"id":"objective_noun","action":"keep"}
+{"id":"cycle_noun","action":"keep"}
+{"id":"cycle_verb","action":"keep"}
+{"id":"decrease_noun","action":"keep"}
+{"id":"decrease_verb","action":"keep"}
+{"id":"witness_noun","action":"keep"}
+{"id":"witness_verb","action":"keep"}
+{"id":"secure_adj","action":"keep"}
+{"id":"secure_verb","action":"keep"}
+{"id":"characteristic_adj","action":"keep"}
+{"id":"characteristic_noun","action":"keep"}
+{"id":"angle_noun","action":"keep"}
+{"id":"angle_verb","action":"fix","th":"เอียง; หันให้ทำมุม; ปรับมุม"}
+{"id":"stream_noun","action":"keep"}
+{"id":"stream_verb","action":"keep"}
+{"id":"absolute_adj","action":"keep"}
+{"id":"absolute_noun","action":"keep"}
+{"id":"shift_noun","action":"keep"}
+{"id":"shift_verb","action":"keep"}
+{"id":"wire_noun","action":"keep"}
+{"id":"wire_verb","action":"keep"}
+{"id":"select_adj","action":"keep"}
+{"id":"select_verb","action":"keep"}
+{"id":"fellow_adj","action":"keep"}
+{"id":"fellow_noun","action":"fix","th":"ผู้ชาย; หมอนี่ (ภาษาพูด); นักวิจัยทุน (ในมหาวิทยาลัย)","ex":"He seems like a nice fellow, but I don't know him well.","exTh":"เขาดูเป็นคนนิสัยดีนะ แต่ฉันไม่ค่อยรู้จักเขา"}
+{"id":"struggle_noun","action":"keep"}
+{"id":"struggle_verb","action":"keep"}
+{"id":"occasion_noun","action":"keep"}
+{"id":"occasion_verb","action":"drop","why":"formal, rarely used verb"}
+{"id":"decline_noun","action":"keep"}
+{"id":"decline_verb","action":"keep"}
+{"id":"oral_adj","action":"keep"}
+{"id":"oral_noun","action":"drop","why":"rare British noun use; adjective covers oral exam"}
+{"id":"register_noun","action":"keep"}
+{"id":"register_verb","action":"keep"}
+{"id":"comment_noun","action":"keep"}
+{"id":"comment_verb","action":"keep"}
+{"id":"sharp_adj","action":"keep"}
+{"id":"sharp_adv","action":"keep"}
+{"id":"burden_noun","action":"keep"}
+{"id":"burden_verb","action":"keep"}
+{"id":"whenever_adv","action":"drop","why":"rare emphatic question use"}
+{"id":"whenever_conj","action":"keep"}
+{"id":"deposit_noun","action":"keep"}
+{"id":"deposit_verb","action":"keep"}
+{"id":"fax_noun","action":"keep"}
+{"id":"fax_verb","action":"keep"}
+{"id":"strain_noun","action":"keep"}
+{"id":"strain_verb","action":"keep"}
+{"id":"slight_adj","action":"keep"}
+{"id":"slight_noun","action":"drop","why":"rare formal noun; adjective is the common use"}
+{"id":"link_noun","action":"keep"}
+{"id":"link_verb","action":"keep"}
+{"id":"exact_adj","action":"keep"}
+{"id":"exact_verb","action":"drop","why":"formal, rarely used verb"}
+{"id":"aim_noun","action":"keep"}
+{"id":"aim_verb","action":"keep"}
+{"id":"counter_noun","action":"fix","th":"เคาน์เตอร์; โต๊ะบริการ; ตัวนับ"}
+{"id":"counter_verb","action":"keep"}
+{"id":"resident_adj","action":"drop","why":"attributive use; noun entry covers the common use"}
+{"id":"resident_noun","action":"keep"}
+{"id":"treat_noun","action":"keep"}
+{"id":"treat_verb","action":"keep"}
+{"id":"taste_noun","action":"keep"}
+{"id":"taste_verb","action":"keep"}
+{"id":"recall_verb","action":"keep"}
+{"id":"recall_noun","action":"keep"}
+{"id":"score_noun","action":"keep"}
+{"id":"score_verb","action":"keep"}
+{"id":"pound_noun","action":"fix","th":"ปอนด์ (สกุลเงินอังกฤษ); ปอนด์ (หน่วยน้ำหนัก)"}
+{"id":"pound_verb","action":"keep"}
+{"id":"guarantee_noun","action":"keep"}
+{"id":"guarantee_verb","action":"keep"}
+{"id":"mount_noun","action":"drop","why":"only used as a title in mountain names"}
+{"id":"mount_verb","action":"keep"}
+{"id":"trace_noun","action":"keep"}
+{"id":"trace_verb","action":"keep"}
+{"id":"switch_noun","action":"keep"}
+{"id":"switch_verb","action":"keep"}
+{"id":"harbor_noun","action":"keep"}
+{"id":"harbor_verb","action":"keep"}
+{"id":"powder_noun","action":"keep"}
+{"id":"powder_verb","action":"drop","why":"dated verb use"}
+{"id":"northwest_adj","action":"keep"}
+{"id":"northwest_noun","action":"keep"}
+{"id":"substitute_noun","action":"keep"}
+{"id":"substitute_verb","action":"keep"}
+{"id":"beat_noun","action":"keep"}
+{"id":"beat_verb","action":"keep"}
+{"id":"refuse_noun","action":"drop","why":"formal/technical word for rubbish; rarely met"}
+{"id":"refuse_verb","action":"keep"}
+{"id":"arrest_noun","action":"keep"}
+{"id":"arrest_verb","action":"keep"}
+{"id":"format_noun","action":"keep"}
+{"id":"format_verb","action":"keep"}
+{"id":"dozen_det","action":"fix","th":"หนึ่งโหล; สิบสอง"}
+{"id":"dozen_noun","action":"keep"}
+{"id":"protest_noun","action":"keep"}
+{"id":"protest_verb","action":"keep"}

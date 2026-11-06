@@ -1,0 +1,151 @@
+{"id": "highlight_noun", "action": "keep"}
+{"id": "highlight_verb", "action": "keep"}
+{"id": "sigh_noun", "action": "keep"}
+{"id": "sigh_verb", "action": "keep"}
+{"id": "twist_noun", "action": "keep"}
+{"id": "twist_verb", "action": "keep"}
+{"id": "safeguard_noun", "action": "keep"}
+{"id": "safeguard_verb", "action": "keep"}
+{"id": "leap_noun", "action": "keep"}
+{"id": "leap_verb", "action": "keep"}
+{"id": "cough_noun", "action": "keep"}
+{"id": "cough_verb", "action": "keep"}
+{"id": "whisper_noun", "action": "keep"}
+{"id": "whisper_verb", "action": "keep"}
+{"id": "wrap_noun", "action": "keep"}
+{"id": "wrap_verb", "action": "keep"}
+{"id": "antique_adj", "action": "keep"}
+{"id": "antique_noun", "action": "keep"}
+{"id": "dump_noun", "action": "keep"}
+{"id": "dump_verb", "action": "keep"}
+{"id": "scratch_noun", "action": "keep"}
+{"id": "scratch_verb", "action": "keep"}
+{"id": "nod_noun", "action": "keep"}
+{"id": "nod_verb", "action": "keep"}
+{"id": "puzzle_noun", "action": "keep"}
+{"id": "puzzle_verb", "action": "keep"}
+{"id": "gossip_noun", "action": "keep"}
+{"id": "gossip_verb", "action": "keep"}
+{"id": "whistle_noun", "action": "keep"}
+{"id": "whistle_verb", "action": "keep"}
+{"id": "thirst_noun", "action": "fix", "ex": "A cold drink quickly quenched my thirst after the run.", "exTh": "เครื่องดื่มเย็นๆ ช่วยดับกระหายของฉันได้ทันทีหลังวิ่ง"}
+{"id": "thirst_verb", "action": "drop", "why": "literary verb; noun covers the common use"}
+{"id": "butcher_noun", "action": "keep"}
+{"id": "butcher_verb", "action": "keep"}
+{"id": "bang_noun", "action": "keep"}
+{"id": "bang_verb", "action": "keep"}
+{"id": "bald_adj", "action": "keep"}
+{"id": "bald_verb", "action": "drop", "why": "rare verb; adjective bald / go bald is the usual form"}
+{"id": "dive_noun", "action": "keep"}
+{"id": "dive_verb", "action": "keep"}
+{"id": "queue_noun", "action": "keep"}
+{"id": "queue_verb", "action": "keep"}
+{"id": "tick_noun", "action": "keep"}
+{"id": "tick_verb", "action": "keep"}
+{"id": "boast_verb", "action": "keep"}
+{"id": "boast_noun", "action": "drop", "why": "noun much less common; verb covers the use"}
+{"id": "wizard_adj", "action": "drop", "why": "dated British slang"}
+{"id": "phantom_adj", "action": "keep"}
+{"id": "phantom_noun", "action": "drop", "why": "literary word for ghost; rarely met"}
+{"id": "eco_noun", "action": "drop", "why": "prefix eco-, not a standalone noun"}
+{"id": "ache_noun", "action": "keep"}
+{"id": "ache_verb", "action": "keep"}
+{"id": "riddle_noun", "action": "keep"}
+{"id": "riddle_verb", "action": "keep"}
+{"id": "grill_noun", "action": "keep"}
+{"id": "grill_verb", "action": "keep"}
+{"id": "blush_noun", "action": "keep"}
+{"id": "blush_verb", "action": "keep"}
+{"id": "yell_noun", "action": "keep"}
+{"id": "yell_verb", "action": "keep"}
+{"id": "paddle_noun", "action": "keep"}
+{"id": "paddle_verb", "action": "keep"}
+{"id": "haunt_noun", "action": "keep"}
+{"id": "haunt_verb", "action": "keep"}
+{"id": "bounce_noun", "action": "keep"}
+{"id": "bounce_verb", "action": "keep"}
+{"id": "vegetarian_adj", "action": "keep"}
+{"id": "vegetarian_noun", "action": "keep"}
+{"id": "tease_noun", "action": "keep"}
+{"id": "tease_verb", "action": "keep"}
+{"id": "jog_noun", "action": "keep"}
+{"id": "jog_verb", "action": "keep"}
+{"id": "glint_noun", "action": "keep"}
+{"id": "glint_verb", "action": "keep"}
+{"id": "sneeze_noun", "action": "keep"}
+{"id": "sneeze_verb", "action": "keep"}
+{"id": "full-time_adj", "action": "keep"}
+{"id": "full-time_adv", "action": "keep"}
+{"id": "part-time_adj", "action": "keep"}
+{"id": "part-time_adv", "action": "keep"}
+{"id": "second-hand_adj", "action": "keep"}
+{"id": "second-hand_adv", "action": "keep"}
+{"id": "commission_noun", "action": "keep"}
+{"id": "commission_verb", "action": "keep"}
+{"id": "project_noun", "action": "keep"}
+{"id": "project_verb", "action": "keep"}
+{"id": "contract_noun", "action": "keep"}
+{"id": "contract_verb", "action": "keep"}
+{"id": "stock_noun", "action": "keep"}
+{"id": "stock_verb", "action": "keep"}
+{"id": "understanding_adj", "action": "keep"}
+{"id": "understanding_noun", "action": "keep"}
+{"id": "executive_adj", "action": "keep"}
+{"id": "executive_noun", "action": "keep"}
+{"id": "neither_adv", "action": "keep"}
+{"id": "neither_conj", "action": "fix", "exTh": "ทั้งพี่ชายและฉันขับรถไม่เป็น"}
+{"id": "neither_det", "action": "fix", "exTh": "คำตอบทั้งสองข้อไม่ถูกเลย"}
+{"id": "neither_pron", "action": "keep"}
+{"id": "purchase_noun", "action": "keep"}
+{"id": "purchase_verb", "action": "keep"}
+{"id": "media_noun", "action": "keep"}
+{"id": "overall_adj", "action": "keep"}
+{"id": "overall_adv", "action": "keep"}
+{"id": "concrete_adj", "action": "keep"}
+{"id": "concrete_noun", "action": "keep"}
+{"id": "export_noun", "action": "keep"}
+{"id": "export_verb", "action": "keep"}
+{"id": "campaign_noun", "action": "keep"}
+{"id": "campaign_verb", "action": "keep"}
+{"id": "cast_noun", "action": "keep"}
+{"id": "cast_verb", "action": "keep"}
+{"id": "considering_conj", "action": "keep"}
+{"id": "considering_prep", "action": "keep"}
+{"id": "manufacture_noun", "action": "drop", "why": "formal; manufacturing is the usual noun"}
+{"id": "manufacture_verb", "action": "keep"}
+{"id": "evil_adj", "action": "keep"}
+{"id": "evil_noun", "action": "keep"}
+{"id": "intellectual_adj", "action": "keep"}
+{"id": "intellectual_noun", "action": "keep"}
+{"id": "manual_adj", "action": "keep"}
+{"id": "manual_noun", "action": "keep"}
+{"id": "pa_noun", "action": "drop", "why": "dated informal word for father"}
+{"id": "unto_prep", "action": "drop", "why": "archaic, biblical"}
+{"id": "ease_noun", "action": "keep"}
+{"id": "ease_verb", "action": "keep"}
+{"id": "implement_noun", "action": "drop", "why": "formal/technical noun for a tool; verb is the common use"}
+{"id": "implement_verb", "action": "keep"}
+{"id": "audit_noun", "action": "keep"}
+{"id": "audit_verb", "action": "keep"}
+{"id": "verse_noun", "action": "keep"}
+{"id": "verse_verb", "action": "drop", "why": "list artifact; only the adjective versed in is used"}
+{"id": "divorce_noun", "action": "keep"}
+{"id": "divorce_verb", "action": "keep"}
+{"id": "underground_adj", "action": "keep"}
+{"id": "underground_adv", "action": "keep"}
+{"id": "extract_noun", "action": "keep"}
+{"id": "extract_verb", "action": "keep"}
+{"id": "stroke_noun", "action": "keep"}
+{"id": "stroke_verb", "action": "fix", "th": "ลูบ; ลูบไล้"}
+{"id": "pitch_noun", "action": "keep"}
+{"id": "pitch_verb", "action": "keep"}
+{"id": "crack_noun", "action": "keep"}
+{"id": "crack_verb", "action": "fix", "ex": "The glass cracked when I poured hot water into it.", "exTh": "แก้วร้าวตอนที่ฉันเทน้ำร้อนลงไป"}
+{"id": "spray_noun", "action": "keep"}
+{"id": "spray_verb", "action": "keep"}
+{"id": "quote_noun", "action": "keep"}
+{"id": "quote_verb", "action": "keep"}
+{"id": "sketch_verb", "action": "keep"}
+{"id": "sketch_noun", "action": "keep"}
+{"id": "drain_noun", "action": "keep"}
+{"id": "drain_verb", "action": "keep"}

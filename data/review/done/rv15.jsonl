@@ -1,0 +1,95 @@
+{"id": "shambles_noun", "action": "keep"}
+{"id": "sedate_verb", "action": "keep"}
+{"id": "sedate_adj", "action": "keep"}
+{"id": "quirky_adj", "action": "keep"}
+{"id": "quirky_noun", "action": "drop", "why": "not a noun; quirky is an adjective"}
+{"id": "suds_noun", "action": "keep"}
+{"id": "daydream_noun", "action": "keep"}
+{"id": "daydream_verb", "action": "keep"}
+{"id": "quip_noun", "action": "keep"}
+{"id": "quip_verb", "action": "keep"}
+{"id": "manicure_noun", "action": "keep"}
+{"id": "manicure_verb", "action": "keep"}
+{"id": "somersault_noun", "action": "keep"}
+{"id": "somersault_verb", "action": "keep"}
+{"id": "honk_verb", "action": "keep"}
+{"id": "honk_noun", "action": "keep"}
+{"id": "repellant_noun", "action": "drop", "why": "misspelling of repellent"}
+{"id": "repellant_adj", "action": "drop", "why": "misspelling of repellent"}
+{"id": "chauffer_noun", "action": "drop", "why": "misspelling of chauffeur"}
+{"id": "chauffer_verb", "action": "drop", "why": "misspelling of chauffeur"}
+{"id": "shortlist_verb", "action": "keep"}
+{"id": "shortlist_noun", "action": "keep"}
+{"id": "unscathing_adj", "action": "drop", "why": "nonstandard word; unscathed is the real form"}
+{"id": "merit_noun", "action": "keep"}
+{"id": "merit_verb", "action": "keep"}
+{"id": "procedural_adj", "action": "keep"}
+{"id": "procedural_noun", "action": "keep"}
+{"id": "echo_noun", "action": "keep"}
+{"id": "echo_verb", "action": "keep"}
+{"id": "herald_verb", "action": "keep"}
+{"id": "herald_noun", "action": "keep"}
+{"id": "annex_noun", "action": "keep"}
+{"id": "annex_verb", "action": "keep"}
+{"id": "diffuse_adj", "action": "keep"}
+{"id": "diffuse_verb", "action": "keep"}
+{"id": "solitary_adj", "action": "keep"}
+{"id": "solitary_noun", "action": "drop", "why": "noun use rare; adjective covers"}
+{"id": "incumbent_noun", "action": "keep"}
+{"id": "incumbent_adj", "action": "keep"}
+{"id": "additive_noun", "action": "keep"}
+{"id": "additive_adj", "action": "drop", "why": "technical adjective; noun covers common use"}
+{"id": "melancholy_noun", "action": "keep"}
+{"id": "melancholy_adj", "action": "keep"}
+{"id": "correlate_noun", "action": "drop", "why": "rare technical noun; verb covers"}
+{"id": "correlate_verb", "action": "keep"}
+{"id": "conjecture_verb", "action": "keep"}
+{"id": "conjecture_noun", "action": "keep"}
+{"id": "brood_verb", "action": "keep"}
+{"id": "brood_noun", "action": "keep"}
+{"id": "blight_noun", "action": "keep"}
+{"id": "blight_verb", "action": "keep"}
+{"id": "perch_verb", "action": "keep"}
+{"id": "perch_noun", "action": "keep"}
+{"id": "nigh_adv", "action": "drop", "why": "archaic/literary"}
+{"id": "repose_verb", "action": "drop", "why": "rare literary verb"}
+{"id": "repose_noun", "action": "keep"}
+{"id": "trifle_noun", "action": "keep"}
+{"id": "trifle_verb", "action": "drop", "why": "dated verb use"}
+{"id": "deviant_noun", "action": "keep"}
+{"id": "deviant_adj", "action": "keep"}
+{"id": "verbatim_adj", "action": "keep"}
+{"id": "verbatim_adv", "action": "keep"}
+{"id": "adept_adj", "action": "keep"}
+{"id": "adept_noun", "action": "drop", "why": "rare noun; adjective covers"}
+{"id": "egalitarian_adj", "action": "keep"}
+{"id": "egalitarian_noun", "action": "drop", "why": "noun use rare; adjective covers"}
+{"id": "verily_adv", "action": "drop", "why": "archaic"}
+{"id": "rebound_verb", "action": "keep"}
+{"id": "rebound_noun", "action": "keep"}
+{"id": "rebuke_verb", "action": "keep"}
+{"id": "rebuke_noun", "action": "keep"}
+{"id": "prostrate_verb", "action": "keep"}
+{"id": "prostrate_adj", "action": "keep"}
+{"id": "quiver_verb", "action": "keep"}
+{"id": "quiver_noun", "action": "keep"}
+{"id": "derelict_adj", "action": "keep"}
+{"id": "derelict_noun", "action": "drop", "why": "rare noun; dated/offensive for people"}
+{"id": "extracurricular_adj", "action": "keep"}
+{"id": "extracurricular_noun", "action": "keep"}
+{"id": "blitz_verb", "action": "keep"}
+{"id": "blitz_noun", "action": "keep"}
+{"id": "huddle_verb", "action": "fix", "th": "เบียดกันเป็นกลุ่ม; ขดตัว; รวมหัวหารือกัน"}
+{"id": "huddle_noun", "action": "keep"}
+{"id": "dribble_verb", "action": "keep"}
+{"id": "dribble_noun", "action": "keep"}
+{"id": "buccaneer_verb", "action": "drop", "why": "verb very rare"}
+{"id": "buccaneer_noun", "action": "keep"}
+{"id": "porten_noun", "action": "drop", "why": "misspelling of portent"}
+{"id": "non_x", "action": "drop", "why": "prefix, not a word"}
+{"id": "pre_x", "action": "drop", "why": "prefix, not a word"}
+{"id": "mid_x", "action": "drop", "why": "prefix, not a standalone word"}
+{"id": "thou_x", "action": "drop", "why": "archaic pronoun"}
+{"id": "multi_x", "action": "drop", "why": "prefix, not a word"}
+{"id": "quasi_x", "action": "drop", "why": "prefix, not a word"}
+{"id": "neo_x", "action": "drop", "why": "prefix, not a word"}

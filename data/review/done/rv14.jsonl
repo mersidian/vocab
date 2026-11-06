@@ -1,0 +1,151 @@
+{"id": "anticancer_noun", "action": "drop", "why": "used as an adjective, not a noun"}
+{"id": "trample_noun", "action": "drop", "why": "noun use rare; trample is a verb"}
+{"id": "scholasticism_noun", "action": "drop", "why": "technical philosophy term"}
+{"id": "bookmark_noun", "action": "keep"}
+{"id": "bookmark_verb", "action": "keep"}
+{"id": "paramedic_adj", "action": "drop", "why": "paramedic is a noun; adjective tag is a list artifact"}
+{"id": "mumble_noun", "action": "keep"}
+{"id": "mumble_verb", "action": "keep"}
+{"id": "prance_noun", "action": "drop", "why": "noun use rare; prance is a verb"}
+{"id": "bombard_noun", "action": "drop", "why": "archaic weapon sense"}
+{"id": "snore_noun", "action": "keep"}
+{"id": "snore_verb", "action": "keep"}
+{"id": "blurt_noun", "action": "drop", "why": "noun use rare; blurt (out) is a verb"}
+{"id": "hijack_noun", "action": "keep"}
+{"id": "hijack_verb", "action": "keep"}
+{"id": "splatter_noun", "action": "keep"}
+{"id": "splatter_verb", "action": "keep"}
+{"id": "antipollution_noun", "action": "drop", "why": "used as an adjective, not a noun"}
+{"id": "grown-up_adj", "action": "keep"}
+{"id": "grown-up_noun", "action": "keep"}
+{"id": "upside-down_adj", "action": "keep"}
+{"id": "upside-down_adv", "action": "keep"}
+{"id": "jersey_noun", "action": "keep"}
+{"id": "jersey_adj", "action": "drop", "why": "noun used as modifier; not a real adjective"}
+{"id": "charter_verb", "action": "keep"}
+{"id": "charter_noun", "action": "keep"}
+{"id": "con_verb", "action": "keep"}
+{"id": "con_noun", "action": "keep"}
+{"id": "sacrifice_noun", "action": "keep"}
+{"id": "sacrifice_verb", "action": "keep"}
+{"id": "juvenile_noun", "action": "keep"}
+{"id": "juvenile_adj", "action": "keep"}
+{"id": "elastic_noun", "action": "keep"}
+{"id": "elastic_adj", "action": "keep"}
+{"id": "elaborate_adj", "action": "keep"}
+{"id": "elaborate_verb", "action": "keep"}
+{"id": "buffer_verb", "action": "keep"}
+{"id": "buffer_noun", "action": "keep"}
+{"id": "pioneer_verb", "action": "keep"}
+{"id": "pioneer_noun", "action": "keep"}
+{"id": "portable_adj", "action": "keep"}
+{"id": "portable_noun", "action": "drop", "why": "noun use uncommon; adjective covers"}
+{"id": "obscure_verb", "action": "keep"}
+{"id": "obscure_adj", "action": "keep"}
+{"id": "demographic_adj", "action": "keep"}
+{"id": "demographic_noun", "action": "keep"}
+{"id": "premier_adj", "action": "keep"}
+{"id": "premier_noun", "action": "keep"}
+{"id": "facial_adj", "action": "keep"}
+{"id": "facial_noun", "action": "keep"}
+{"id": "durable_adj", "action": "keep"}
+{"id": "durable_noun", "action": "drop", "why": "economics jargon (consumer durables)"}
+{"id": "amateur_noun", "action": "keep"}
+{"id": "amateur_adj", "action": "keep"}
+{"id": "posture_noun", "action": "keep"}
+{"id": "posture_verb", "action": "keep"}
+{"id": "plaster_noun", "action": "keep"}
+{"id": "plaster_verb", "action": "keep"}
+{"id": "graft_verb", "action": "keep"}
+{"id": "graft_noun", "action": "keep"}
+{"id": "lapse_noun", "action": "keep"}
+{"id": "lapse_verb", "action": "keep"}
+{"id": "chill_verb", "action": "keep"}
+{"id": "chill_noun", "action": "keep"}
+{"id": "clutch_verb", "action": "keep"}
+{"id": "clutch_noun", "action": "keep"}
+{"id": "slack_verb", "action": "keep"}
+{"id": "slack_noun", "action": "keep"}
+{"id": "slack_adj", "action": "keep"}
+{"id": "apprentice_noun", "action": "keep"}
+{"id": "apprentice_verb", "action": "drop", "why": "verb use dated/rare; noun covers"}
+{"id": "eccentric_adj", "action": "keep"}
+{"id": "eccentric_noun", "action": "keep"}
+{"id": "prop_verb", "action": "keep"}
+{"id": "prop_noun", "action": "keep"}
+{"id": "flourish_noun", "action": "keep"}
+{"id": "flourish_verb", "action": "keep"}
+{"id": "convict_verb", "action": "keep"}
+{"id": "convict_noun", "action": "keep"}
+{"id": "stray_verb", "action": "keep"}
+{"id": "stray_adj", "action": "keep"}
+{"id": "stray_noun", "action": "keep"}
+{"id": "tailor_noun", "action": "keep"}
+{"id": "tailor_verb", "action": "keep"}
+{"id": "maneuver_verb", "action": "keep"}
+{"id": "maneuver_noun", "action": "keep"}
+{"id": "strap_noun", "action": "keep"}
+{"id": "strap_verb", "action": "keep"}
+{"id": "plunge_verb", "action": "keep"}
+{"id": "plunge_noun", "action": "keep"}
+{"id": "debut_noun", "action": "keep"}
+{"id": "debut_verb", "action": "keep"}
+{"id": "marvel_verb", "action": "keep"}
+{"id": "marvel_noun", "action": "keep"}
+{"id": "relapse_verb", "action": "keep"}
+{"id": "relapse_noun", "action": "keep"}
+{"id": "swap_verb", "action": "keep"}
+{"id": "swap_noun", "action": "keep"}
+{"id": "dismay_verb", "action": "keep"}
+{"id": "dismay_noun", "action": "fix", "exTh": "เธอมองแจกันที่แตกด้วยความตกใจและผิดหวัง"}
+{"id": "batter_verb", "action": "keep"}
+{"id": "batter_noun", "action": "keep"}
+{"id": "batter_x", "action": "keep"}
+{"id": "torment_verb", "action": "keep"}
+{"id": "torment_noun", "action": "keep"}
+{"id": "hack_verb", "action": "keep"}
+{"id": "hack_noun", "action": "fix", "th": "การแฮก; เคล็ดลับ/ทางลัด; คนทำงานคุณภาพต่ำ"}
+{"id": "bribe_verb", "action": "keep"}
+{"id": "bribe_noun", "action": "keep"}
+{"id": "numb_adj", "action": "keep"}
+{"id": "numb_verb", "action": "keep"}
+{"id": "eclectic_adj", "action": "keep"}
+{"id": "eclectic_noun", "action": "drop", "why": "noun use rare; adjective covers"}
+{"id": "tangle_verb", "action": "keep"}
+{"id": "tangle_noun", "action": "keep"}
+{"id": "fiddle_verb", "action": "keep"}
+{"id": "fiddle_noun", "action": "keep"}
+{"id": "clutter_noun", "action": "keep"}
+{"id": "clutter_verb", "action": "keep"}
+{"id": "blister_noun", "action": "keep"}
+{"id": "blister_verb", "action": "keep"}
+{"id": "tinker_verb", "action": "keep"}
+{"id": "tinker_noun", "action": "drop", "why": "dated sense (travelling mender)"}
+{"id": "repute_verb", "action": "keep"}
+{"id": "repute_noun", "action": "keep"}
+{"id": "rumble_verb", "action": "keep"}
+{"id": "rumble_noun", "action": "keep"}
+{"id": "gourmet_adj", "action": "keep"}
+{"id": "gourmet_noun", "action": "keep"}
+{"id": "poise_noun", "action": "keep"}
+{"id": "poise_verb", "action": "keep"}
+{"id": "sprout_verb", "action": "keep"}
+{"id": "sprout_noun", "action": "keep"}
+{"id": "succulent_noun", "action": "keep"}
+{"id": "succulent_adj", "action": "keep"}
+{"id": "twitch_verb", "action": "keep"}
+{"id": "twitch_noun", "action": "keep"}
+{"id": "sprawl_noun", "action": "keep"}
+{"id": "sprawl_verb", "action": "keep"}
+{"id": "fanatic_noun", "action": "keep"}
+{"id": "fanatic_adj", "action": "drop", "why": "adjective is normally fanatical"}
+{"id": "overdraft_verb", "action": "drop", "why": "not a verb; the verb is overdraw"}
+{"id": "overdraft_noun", "action": "keep"}
+{"id": "rustle_verb", "action": "keep"}
+{"id": "rustle_noun", "action": "keep"}
+{"id": "quirk_noun", "action": "keep"}
+{"id": "quirk_verb", "action": "drop", "why": "verb use rare; noun covers"}
+{"id": "staccato_adj", "action": "keep"}
+{"id": "staccato_adv", "action": "keep"}
+{"id": "gush_verb", "action": "keep"}
+{"id": "gush_noun", "action": "keep"}

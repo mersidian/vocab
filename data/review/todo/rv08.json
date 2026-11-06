@@ -1,0 +1,1520 @@
+[
+[
+{
+"id": "weekly_adj",
+"w": "weekly",
+"pos": "adj",
+"lvl": "A2",
+"th": "รายสัปดาห์; ทุกสัปดาห์",
+"ex": "We have a weekly meeting on Monday.",
+"exTh": "เรามีประชุมประจำสัปดาห์ทุกวันจันทร์"
+},
+{
+"id": "weekly_adv",
+"w": "weekly",
+"pos": "adv",
+"lvl": "A2",
+"th": "ทุกสัปดาห์; สัปดาห์ละครั้ง",
+"ex": "The magazine comes out weekly.",
+"exTh": "นิตยสารออกทุกสัปดาห์"
+}
+],
+[
+{
+"id": "roll_noun",
+"w": "roll",
+"pos": "noun",
+"lvl": "A2",
+"th": "ม้วน; ขนมปังก้อนกลม; การกลิ้ง",
+"ex": "I bought a roll of tape.",
+"exTh": "ฉันซื้อเทปมาหนึ่งม้วน"
+},
+{
+"id": "roll_verb",
+"w": "roll",
+"pos": "verb",
+"lvl": "B2",
+"th": "กลิ้ง; ม้วน; หมุน",
+"ex": "The ball rolled under the table.",
+"exTh": "ลูกบอลกลิ้งเข้าไปใต้โต๊ะ"
+}
+],
+[
+{
+"id": "tone_noun",
+"w": "tone",
+"pos": "noun",
+"lvl": "A2",
+"th": "น้ำเสียง; โทนเสียง; โทนสี",
+"ex": "I didn't like his angry tone.",
+"exTh": "ฉันไม่ชอบน้ำเสียงโกรธของเขา"
+},
+{
+"id": "tone_verb",
+"w": "tone",
+"pos": "verb",
+"lvl": "C1",
+"th": "ปรับสี; ทำให้กระชับ",
+"ex": "Regular exercise will tone your muscles.",
+"exTh": "การออกกำลังกายสม่ำเสมอจะช่วยให้กล้ามเนื้อกระชับ"
+}
+],
+[
+{
+"id": "worse_adj",
+"w": "worse",
+"pos": "adj",
+"lvl": "A2",
+"th": "แย่กว่า; เลวร้ายกว่า",
+"ex": "The traffic today is worse than yesterday.",
+"exTh": "วันนี้รถติดแย่กว่าเมื่อวาน"
+},
+{
+"id": "worse_adv",
+"w": "worse",
+"pos": "adv",
+"lvl": "A2",
+"th": "แย่ลง; เลวร้ายกว่า",
+"ex": "She sings even worse than I do.",
+"exTh": "เธอร้องเพลงแย่กว่าฉันอีก"
+},
+{
+"id": "worse_noun",
+"w": "worse",
+"pos": "noun",
+"lvl": "B2",
+"th": "สิ่งที่เลวร้ายกว่า; เรื่องแย่ลง",
+"ex": "Things went from bad to worse after the storm.",
+"exTh": "สถานการณ์แย่ลงไปอีกหลังพายุ",
+"note": "มักใช้ในสำนวน from bad to worse"
+}
+],
+[
+{
+"id": "wonder_noun",
+"w": "wonder",
+"pos": "noun",
+"lvl": "B1",
+"th": "สิ่งมหัศจรรย์; ความอัศจรรย์ใจ",
+"ex": "The Great Wall is a wonder of the world.",
+"exTh": "กำแพงเมืองจีนเป็นสิ่งมหัศจรรย์ของโลก"
+},
+{
+"id": "wonder_verb",
+"w": "wonder",
+"pos": "verb",
+"lvl": "A2",
+"th": "สงสัย; อยากรู้; ประหลาดใจ",
+"ex": "I wonder where he is now.",
+"exTh": "ฉันสงสัยว่าตอนนี้เขาอยู่ที่ไหน"
+}
+],
+[
+{
+"id": "expert_adj",
+"w": "expert",
+"pos": "adj",
+"lvl": "B2",
+"th": "ชำนาญ; เชี่ยวชาญ; เป็นผู้เชี่ยวชาญ",
+"ex": "She gave me expert advice on buying a laptop.",
+"exTh": "เธอให้คำแนะนำแบบผู้เชี่ยวชาญเรื่องการซื้อแล็ปท็อป"
+},
+{
+"id": "expert_noun",
+"w": "expert",
+"pos": "noun",
+"lvl": "A2",
+"th": "ผู้เชี่ยวชาญ; ผู้ชำนาญการ",
+"ex": "She is an expert on birds.",
+"exTh": "เธอเป็นผู้เชี่ยวชาญด้านนก"
+}
+],
+[
+{
+"id": "honor_noun",
+"w": "honor",
+"pos": "noun",
+"lvl": "A2",
+"th": "เกียรติ; เกียรติยศ; ศักดิ์ศรี",
+"ex": "It is an honor to meet you.",
+"exTh": "เป็นเกียรติที่ได้พบคุณ",
+"note": "สะกดแบบอเมริกัน; แบบอังกฤษคือ honour"
+},
+{
+"id": "honor_verb",
+"w": "honor",
+"pos": "verb",
+"lvl": "B2",
+"th": "ให้เกียรติ; ยกย่อง; ปฏิบัติตาม (สัญญา)",
+"ex": "The school honored her for her hard work.",
+"exTh": "โรงเรียนมอบเกียรติให้เธอจากความมุ่งมั่นทุ่มเท",
+"note": "สะกดแบบอเมริกัน อังกฤษใช้ honour"
+}
+],
+[
+{
+"id": "shell_noun",
+"w": "shell",
+"pos": "noun",
+"lvl": "A2",
+"th": "เปลือก; หอย; กระดอง",
+"ex": "We collected shells on the beach.",
+"exTh": "เราเก็บเปลือกหอยที่ชายหาด"
+},
+{
+"id": "shell_verb",
+"w": "shell",
+"pos": "verb",
+"lvl": "B2",
+"th": "ปอกเปลือก; กะเทาะเปลือก; ยิงถล่ม",
+"ex": "She shelled the peas for dinner.",
+"exTh": "เธอแกะเปลือกถั่วลันเตาไว้ทำอาหารเย็น"
+}
+],
+[
+{
+"id": "plastic_adj",
+"w": "plastic",
+"pos": "adj",
+"lvl": "A2",
+"th": "ทำด้วยพลาสติก; เป็นพลาสติก",
+"ex": "I use a plastic bag for my lunch.",
+"exTh": "ฉันใช้ถุงพลาสติกใส่อาหารกลางวัน"
+},
+{
+"id": "plastic_noun",
+"w": "plastic",
+"pos": "noun",
+"lvl": "B1",
+"th": "พลาสติก",
+"ex": "Please do not use plastic bags.",
+"exTh": "กรุณาอย่าใช้ถุงพลาสติก"
+}
+],
+[
+{
+"id": "unlike_adj",
+"w": "unlike",
+"pos": "adj",
+"lvl": "A2",
+"th": "ไม่เหมือน; แตกต่างจาก",
+"ex": "The twins are very unlike each other.",
+"exTh": "ฝาแฝดคู่นี้ไม่เหมือนกันเลย",
+"note": "ใช้เป็น prep บ่อยกว่า เช่น unlike me"
+},
+{
+"id": "unlike_prep",
+"w": "unlike",
+"pos": "prep",
+"lvl": "B2",
+"th": "ต่างจาก; ไม่เหมือน",
+"ex": "Unlike his brother, he loves to cook.",
+"exTh": "ต่างจากพี่ชาย เขารักการทำอาหาร"
+}
+],
+[
+{
+"id": "flood_noun",
+"w": "flood",
+"pos": "noun",
+"lvl": "A2",
+"th": "น้ำท่วม; อุทกภัย",
+"ex": "The flood closed many roads.",
+"exTh": "น้ำท่วมทำให้ถนนหลายสายปิด"
+},
+{
+"id": "flood_verb",
+"w": "flood",
+"pos": "verb",
+"lvl": "B1",
+"th": "ท่วม; ทำให้น้ำท่วม; หลั่งไหล",
+"ex": "Heavy rain flooded the streets.",
+"exTh": "ฝนตกหนักทำให้ถนนน้ำท่วม"
+}
+],
+[
+{
+"id": "shock_noun",
+"w": "shock",
+"pos": "noun",
+"lvl": "A2",
+"th": "ความตกใจ; อาการช็อก; การกระแทก",
+"ex": "The news came as a big shock.",
+"exTh": "ข่าวนี้เป็นเรื่องที่น่าตกใจมาก"
+},
+{
+"id": "shock_verb",
+"w": "shock",
+"pos": "verb",
+"lvl": "B2",
+"th": "ทำให้ตกใจ; ทำให้ช็อก; ทำให้ตื่นตะลึง",
+"ex": "The news shocked everyone in the office.",
+"exTh": "ข่าวนี้ทำให้ทุกคนในออฟฟิศตกใจ"
+}
+],
+[
+{
+"id": "musical_adj",
+"w": "musical",
+"pos": "adj",
+"lvl": "A2",
+"th": "เกี่ยวกับดนตรี; มีความสามารถทางดนตรี",
+"ex": "She plays a musical instrument.",
+"exTh": "เธอเล่นเครื่องดนตรี"
+},
+{
+"id": "musical_noun",
+"w": "musical",
+"pos": "noun",
+"lvl": "B2",
+"th": "ละครเพลง; มิวสิคัล",
+"ex": "We saw a musical in London last summer.",
+"exTh": "เราไปดูละครเพลงที่ลอนดอนเมื่อฤดูร้อนที่แล้ว"
+}
+],
+[
+{
+"id": "murder_noun",
+"w": "murder",
+"pos": "noun",
+"lvl": "A2",
+"th": "การฆาตกรรม; คดีฆาตกรรม",
+"ex": "The police are looking into the murder.",
+"exTh": "ตำรวจกำลังสืบสวนคดีฆาตกรรม"
+},
+{
+"id": "murder_verb",
+"w": "murder",
+"pos": "verb",
+"lvl": "B1",
+"th": "ฆ่าคน; ฆาตกรรม",
+"ex": "He was arrested for murdering his neighbor.",
+"exTh": "เขาถูกจับกุมข้อหาฆ่าเพื่อนบ้าน"
+}
+],
+[
+{
+"id": "chart_noun",
+"w": "chart",
+"pos": "noun",
+"lvl": "A2",
+"th": "แผนภูมิ; แผนที่; ตาราง",
+"ex": "The chart shows sales for each month.",
+"exTh": "แผนภูมิแสดงยอดขายของแต่ละเดือน"
+},
+{
+"id": "chart_verb",
+"w": "chart",
+"pos": "verb",
+"lvl": "C1",
+"th": "บันทึกเป็นแผนภูมิ; ติดอันดับ",
+"ex": "The report charts the growth of the city.",
+"exTh": "รายงานนี้บันทึกการเติบโตของเมืองเป็นแผนภูมิ"
+}
+],
+[
+{
+"id": "online_adj",
+"w": "online",
+"pos": "adj",
+"lvl": "A2",
+"th": "ออนไลน์; ทางอินเทอร์เน็ต",
+"ex": "I took an online course last summer.",
+"exTh": "ฉันเรียนคอร์สออนไลน์เมื่อหน้าร้อนที่แล้ว"
+},
+{
+"id": "online_adv",
+"w": "online",
+"pos": "adv",
+"lvl": "A2",
+"th": "ทางออนไลน์; ผ่านอินเทอร์เน็ต",
+"ex": "I buy most of my books online.",
+"exTh": "ฉันซื้อหนังสือส่วนใหญ่ทางออนไลน์"
+}
+],
+[
+{
+"id": "tape_noun",
+"w": "tape",
+"pos": "noun",
+"lvl": "A2",
+"th": "เทป; เทปกาว; เทปบันทึก",
+"ex": "I need some tape to wrap the gift.",
+"exTh": "ฉันต้องใช้เทปกาวห่อของขวัญ"
+},
+{
+"id": "tape_verb",
+"w": "tape",
+"pos": "verb",
+"lvl": "B1",
+"th": "อัดเทป; บันทึก; ติดด้วยเทป",
+"ex": "I taped the show to watch it later.",
+"exTh": "ฉันบันทึกรายการไว้เพื่อดูทีหลัง"
+}
+],
+[
+{
+"id": "shut_adj",
+"w": "shut",
+"pos": "adj",
+"lvl": "B1",
+"th": "ปิด; ปิดอยู่",
+"ex": "The shop was shut when we arrived.",
+"exTh": "ร้านปิดอยู่ตอนที่เรามาถึง"
+},
+{
+"id": "shut_verb",
+"w": "shut",
+"pos": "verb",
+"lvl": "A2",
+"th": "ปิด; หุบ; ปิดกิจการ",
+"ex": "Please shut the window; it's cold.",
+"exTh": "ช่วยปิดหน้าต่างหน่อย หนาวจัง",
+"note": "shut, shut, shut"
+}
+],
+[
+{
+"id": "split_adj",
+"w": "split",
+"pos": "adj",
+"lvl": "A2",
+"th": "แยกออก; แตกแยก; แบ่งออก",
+"ex": "The team was split over the decision.",
+"exTh": "ทีมแตกเป็นสองฝ่ายเรื่องการตัดสินใจนั้น"
+},
+{
+"id": "split_noun",
+"w": "split",
+"pos": "noun",
+"lvl": "B1",
+"th": "รอยแยก; การแตกแยก; การแบ่ง",
+"ex": "There is a split in the wood.",
+"exTh": "ไม้มีรอยแตกแยก"
+},
+{
+"id": "split_verb",
+"w": "split",
+"pos": "verb",
+"lvl": "B2",
+"th": "แยก; หัก; แบ่งกัน",
+"ex": "Let's split the bill in half.",
+"exTh": "หารค่าอาหารกันคนละครึ่งเถอะ",
+"note": "รูปผันคือ split, split"
+}
+],
+[
+{
+"id": "landscape_noun",
+"w": "landscape",
+"pos": "noun",
+"lvl": "A2",
+"th": "ทิวทัศน์; ภูมิประเทศ; ภาพทิวทัศน์",
+"ex": "The landscape here is beautiful.",
+"exTh": "ทิวทัศน์ที่นี่สวยงามมาก"
+},
+{
+"id": "landscape_verb",
+"w": "landscape",
+"pos": "verb",
+"lvl": "C1",
+"th": "จัดสวน; ตกแต่งภูมิทัศน์",
+"ex": "They landscaped the yard with palm trees.",
+"exTh": "พวกเขาจัดสวนในลานบ้านด้วยต้นปาล์ม"
+}
+],
+[
+{
+"id": "overseas_adj",
+"w": "overseas",
+"pos": "adj",
+"lvl": "B2",
+"th": "ต่างประเทศ; ในต่างแดน",
+"ex": "She has many overseas customers.",
+"exTh": "เธอมีลูกค้าต่างประเทศจำนวนมาก"
+},
+{
+"id": "overseas_adv",
+"w": "overseas",
+"pos": "adv",
+"lvl": "A2",
+"th": "ต่างประเทศ; ในต่างแดน; ข้ามทะเล",
+"ex": "Many Thai people work overseas.",
+"exTh": "คนไทยจำนวนมากทำงานอยู่ต่างประเทศ"
+}
+],
+[
+{
+"id": "tip_noun",
+"w": "tip",
+"pos": "noun",
+"lvl": "A2",
+"th": "เคล็ดลับ; ทิป; ปลาย",
+"ex": "Do you have any tips for learning English?",
+"exTh": "คุณมีเคล็ดลับในการเรียนภาษาอังกฤษไหม"
+},
+{
+"id": "tip_verb",
+"w": "tip",
+"pos": "verb",
+"lvl": "B2",
+"th": "ให้ทิป; เอียง; คว่ำ",
+"ex": "Do you tip the waiter in this country?",
+"exTh": "ที่ประเทศนี้ให้ทิปพนักงานเสิร์ฟไหม"
+}
+],
+[
+{
+"id": "mix_noun",
+"w": "mix",
+"pos": "noun",
+"lvl": "B2",
+"th": "ส่วนผสม; การผสมผสาน; แป้งสำเร็จรูป",
+"ex": "The city has a nice mix of old and new buildings.",
+"exTh": "เมืองนี้มีอาคารเก่าและใหม่ผสมผสานกันอย่างลงตัว"
+},
+{
+"id": "mix_verb",
+"w": "mix",
+"pos": "verb",
+"lvl": "A2",
+"th": "ผสม; คลุกเคล้า; ปะปน",
+"ex": "Mix the eggs and flour in a bowl.",
+"exTh": "ผสมไข่กับแป้งในชาม"
+}
+],
+[
+{
+"id": "harm_noun",
+"w": "harm",
+"pos": "noun",
+"lvl": "B2",
+"th": "อันตราย; ความเสียหาย; ภัย",
+"ex": "Smoking can do serious harm to your health.",
+"exTh": "การสูบบุหรี่ทำอันตรายต่อสุขภาพของคุณอย่างร้ายแรง"
+},
+{
+"id": "harm_verb",
+"w": "harm",
+"pos": "verb",
+"lvl": "A2",
+"th": "ทำร้าย; ทำให้เสียหาย",
+"ex": "Smoking can harm your health.",
+"exTh": "การสูบบุหรี่อาจทำร้ายสุขภาพของคุณ"
+}
+],
+[
+{
+"id": "worst_adj",
+"w": "worst",
+"pos": "adj",
+"lvl": "A2",
+"th": "แย่ที่สุด; เลวร้ายที่สุด",
+"ex": "This is the worst day of my life.",
+"exTh": "นี่คือวันที่แย่ที่สุดในชีวิตของฉัน"
+},
+{
+"id": "worst_adv",
+"w": "worst",
+"pos": "adv",
+"lvl": "B2",
+"th": "แย่ที่สุด; อย่างเลวร้ายที่สุด",
+"ex": "The village was worst hit by the flood.",
+"exTh": "หมู่บ้านนี้ได้รับผลกระทบจากน้ำท่วมหนักที่สุด"
+},
+{
+"id": "worst_noun",
+"w": "worst",
+"pos": "noun",
+"lvl": "B1",
+"th": "สิ่งที่แย่ที่สุด; ส่วนที่เลวร้ายที่สุด",
+"ex": "The worst is over now.",
+"exTh": "ช่วงที่แย่ที่สุดผ่านไปแล้ว",
+"note": "มักใช้ the worst"
+}
+],
+[
+{
+"id": "desert_noun",
+"w": "desert",
+"pos": "noun",
+"lvl": "A2",
+"th": "ทะเลทราย",
+"ex": "It is very hot in the desert.",
+"exTh": "ในทะเลทรายร้อนมาก"
+},
+{
+"id": "desert_verb",
+"w": "desert",
+"pos": "verb",
+"lvl": "C1",
+"th": "ละทิ้ง; หนีทัพ",
+"ex": "The soldier deserted his post at night.",
+"exTh": "ทหารหนีออกจากที่ประจำการตอนกลางคืน"
+}
+],
+[
+{
+"id": "click_noun",
+"w": "click",
+"pos": "noun",
+"lvl": "B1",
+"th": "การคลิก; เสียงคลิก",
+"ex": "With one click, you can buy it.",
+"exTh": "คลิกเดียวก็ซื้อได้"
+},
+{
+"id": "click_verb",
+"w": "click",
+"pos": "verb",
+"lvl": "A2",
+"th": "คลิก; กด (เมาส์); ส่งเสียงคลิก",
+"ex": "Click the button to open the page.",
+"exTh": "คลิกปุ่มเพื่อเปิดหน้าเว็บ"
+}
+],
+[
+{
+"id": "tour_noun",
+"w": "tour",
+"pos": "noun",
+"lvl": "A2",
+"th": "การทัวร์; การท่องเที่ยว; การเดินชม",
+"ex": "We took a tour of the old city.",
+"exTh": "เราไปทัวร์เที่ยวชมเมืองเก่า"
+},
+{
+"id": "tour_verb",
+"w": "tour",
+"pos": "verb",
+"lvl": "B1",
+"th": "ท่องเที่ยว; เดินทางเยี่ยมชม",
+"ex": "We toured Europe last summer.",
+"exTh": "เราเที่ยวทั่วยุโรปเมื่อฤดูร้อนที่แล้ว"
+}
+],
+[
+{
+"id": "shadow_noun",
+"w": "shadow",
+"pos": "noun",
+"lvl": "A2",
+"th": "เงา; ร่มเงา",
+"ex": "The tree cast a long shadow on the ground.",
+"exTh": "ต้นไม้ทอดเงายาวบนพื้น"
+},
+{
+"id": "shadow_verb",
+"w": "shadow",
+"pos": "verb",
+"lvl": "B1",
+"th": "ติดตาม; สะกดรอย; บดบัง",
+"ex": "A detective shadowed him for a week.",
+"exTh": "นักสืบแอบติดตามเขาเป็นเวลาหนึ่งสัปดาห์"
+}
+],
+[
+{
+"id": "stuff_noun",
+"w": "stuff",
+"pos": "noun",
+"lvl": "A2",
+"th": "ของ; สิ่งของ; ข้าวของ",
+"ex": "Put your stuff in the car, please.",
+"exTh": "เอาของของคุณไปใส่ในรถหน่อยนะ",
+"note": "ภาษาพูด นับไม่ได้"
+},
+{
+"id": "stuff_verb",
+"w": "stuff",
+"pos": "verb",
+"lvl": "B2",
+"th": "ยัด; อัด; ใส่ให้เต็ม",
+"ex": "She stuffed her clothes into the small bag.",
+"exTh": "เธอยัดเสื้อผ้าลงในกระเป๋าใบเล็ก"
+}
+],
+[
+{
+"id": "plenty_noun",
+"w": "plenty",
+"pos": "noun",
+"lvl": "A2",
+"th": "จำนวนมาก; เหลือเฟือ; พอเพียง",
+"ex": "We have plenty of time before the train.",
+"exTh": "เรามีเวลาเหลือเฟือก่อนรถไฟมา",
+"note": "มักใช้ plenty of"
+},
+{
+"id": "plenty_pron",
+"w": "plenty",
+"pos": "pron",
+"lvl": "B1",
+"th": "มากมาย; เหลือเฟือ; เพียงพอ",
+"ex": "Don't hurry. We have plenty of time.",
+"exTh": "ไม่ต้องรีบ เรามีเวลาเหลือเฟือ",
+"note": "มักใช้ plenty of"
+}
+],
+[
+{
+"id": "magic_adj",
+"w": "magic",
+"pos": "adj",
+"lvl": "A2",
+"th": "มหัศจรรย์; เกี่ยวกับเวทมนตร์; วิเศษ",
+"ex": "The boy found a magic stone.",
+"exTh": "เด็กชายพบหินวิเศษก้อนหนึ่ง"
+},
+{
+"id": "magic_noun",
+"w": "magic",
+"pos": "noun",
+"lvl": "A2",
+"th": "เวทมนตร์; มายากล; มนตร์เสน่ห์",
+"ex": "The children love magic shows.",
+"exTh": "เด็กๆ ชอบการแสดงมายากล"
+}
+],
+[
+{
+"id": "lock_noun",
+"w": "lock",
+"pos": "noun",
+"lvl": "A2",
+"th": "กุญแจ; ตัวล็อก; แม่กุญแจ",
+"ex": "The lock on the door is broken.",
+"exTh": "กุญแจประตูพัง"
+},
+{
+"id": "lock_verb",
+"w": "lock",
+"pos": "verb",
+"lvl": "B1",
+"th": "ล็อก; ใส่กุญแจ; ปิดล็อก",
+"ex": "Don't forget to lock the door.",
+"exTh": "อย่าลืมล็อกประตูนะ"
+}
+],
+[
+{
+"id": "harvest_noun",
+"w": "harvest",
+"pos": "noun",
+"lvl": "A2",
+"th": "การเก็บเกี่ยว; ผลผลิต; ฤดูเก็บเกี่ยว",
+"ex": "The rice harvest was good this year.",
+"exTh": "ปีนี้เก็บเกี่ยวข้าวได้ผลผลิตดี"
+},
+{
+"id": "harvest_verb",
+"w": "harvest",
+"pos": "verb",
+"lvl": "C1",
+"th": "เก็บเกี่ยว",
+"ex": "Farmers harvest the rice in November.",
+"exTh": "ชาวนาเก็บเกี่ยวข้าวในเดือนพฤศจิกายน"
+}
+],
+[
+{
+"id": "classic_adj",
+"w": "classic",
+"pos": "adj",
+"lvl": "A2",
+"th": "คลาสสิก; ยอดเยี่ยมตลอดกาล; ดั้งเดิม",
+"ex": "This is a classic film from the 1960s.",
+"exTh": "นี่เป็นหนังคลาสสิกจากยุค 1960"
+},
+{
+"id": "classic_noun",
+"w": "classic",
+"pos": "noun",
+"lvl": "B2",
+"th": "งานคลาสสิก; ของดีที่อยู่ยงคงกระพัน; แบบฉบับ",
+"ex": "This film is a classic that everyone should see.",
+"exTh": "หนังเรื่องนี้เป็นงานคลาสสิกที่ทุกคนควรดู"
+}
+],
+[
+{
+"id": "fix_noun",
+"w": "fix",
+"pos": "noun",
+"lvl": "A2",
+"th": "วิธีแก้ไข; การแก้ไข; การซ่อม",
+"ex": "There is no quick fix for this problem.",
+"exTh": "ปัญหานี้ไม่มีวิธีแก้ง่ายๆ ในทันที"
+},
+{
+"id": "fix_verb",
+"w": "fix",
+"pos": "verb",
+"lvl": "B1",
+"th": "ซ่อม; แก้ไข; กำหนด",
+"ex": "Can you fix my bike?",
+"exTh": "คุณช่วยซ่อมจักรยานของฉันได้ไหม"
+}
+],
+[
+{
+"id": "photograph_noun",
+"w": "photograph",
+"pos": "noun",
+"lvl": "A2",
+"th": "ภาพถ่าย; รูปถ่าย",
+"ex": "She keeps an old photograph of her family.",
+"exTh": "เธอเก็บรูปถ่ายเก่าของครอบครัวไว้"
+},
+{
+"id": "photograph_verb",
+"w": "photograph",
+"pos": "verb",
+"lvl": "B2",
+"th": "ถ่ายภาพ; ถ่ายรูป",
+"ex": "He loves to photograph birds in the morning.",
+"exTh": "เขาชอบถ่ายภาพนกในตอนเช้า"
+}
+],
+[
+{
+"id": "tie_noun",
+"w": "tie",
+"pos": "noun",
+"lvl": "A2",
+"th": "เนคไท; เชือก; ผลเสมอ",
+"ex": "He wears a tie to work every day.",
+"exTh": "เขาผูกเนคไทไปทำงานทุกวัน"
+},
+{
+"id": "tie_verb",
+"w": "tie",
+"pos": "verb",
+"lvl": "B1",
+"th": "ผูก; มัด; เสมอกัน",
+"ex": "Let me tie my shoes.",
+"exTh": "ขอผูกเชือกรองเท้าก่อนนะ"
+}
+],
+[
+{
+"id": "divide_noun",
+"w": "divide",
+"pos": "noun",
+"lvl": "B1",
+"th": "ความแตกแยก; ช่องว่าง; เส้นแบ่ง",
+"ex": "There is a big divide between rich and poor.",
+"exTh": "มีช่องว่างขนาดใหญ่ระหว่างคนรวยกับคนจน"
+},
+{
+"id": "divide_verb",
+"w": "divide",
+"pos": "verb",
+"lvl": "A2",
+"th": "แบ่ง; หาร; แยก",
+"ex": "Divide the cake into eight pieces.",
+"exTh": "แบ่งเค้กออกเป็นแปดชิ้น"
+}
+],
+[
+{
+"id": "pack_noun",
+"w": "pack",
+"pos": "noun",
+"lvl": "A2",
+"th": "แพ็ก; ห่อ; กระเป๋าเป้",
+"ex": "I bought a pack of gum.",
+"exTh": "ฉันซื้อหมากฝรั่งมาหนึ่งแพ็ก"
+},
+{
+"id": "pack_verb",
+"w": "pack",
+"pos": "verb",
+"lvl": "A2",
+"th": "เก็บของ; จัดกระเป๋า; บรรจุ",
+"ex": "I need to pack my bag for the trip.",
+"exTh": "ฉันต้องจัดกระเป๋าสำหรับการเดินทาง"
+}
+],
+[
+{
+"id": "hate_noun",
+"w": "hate",
+"pos": "noun",
+"lvl": "B1",
+"th": "ความเกลียดชัง; สิ่งที่เกลียด",
+"ex": "Hate can destroy a family.",
+"exTh": "ความเกลียดชังสามารถทำลายครอบครัวได้"
+},
+{
+"id": "hate_verb",
+"w": "hate",
+"pos": "verb",
+"lvl": "A2",
+"th": "เกลียด; ไม่ชอบมาก",
+"ex": "I hate waking up early.",
+"exTh": "ฉันเกลียดการตื่นเช้า"
+}
+],
+[
+{
+"id": "slide_noun",
+"w": "slide",
+"pos": "noun",
+"lvl": "A2",
+"th": "สไลด์; กระดานลื่น; การลื่นไถล",
+"ex": "The children played on the slide.",
+"exTh": "เด็กๆ เล่นกระดานลื่น"
+},
+{
+"id": "slide_verb",
+"w": "slide",
+"pos": "verb",
+"lvl": "B2",
+"th": "ไถล; เลื่อน; ลื่น",
+"ex": "The children slide down the hill on a board.",
+"exTh": "เด็กๆ ไถลลงเนินเขาบนแผ่นกระดาน"
+}
+],
+[
+{
+"id": "rush_noun",
+"w": "rush",
+"pos": "noun",
+"lvl": "A2",
+"th": "ความเร่งรีบ; การรีบเร่ง; การหลั่งไหล",
+"ex": "There is always a rush at lunchtime.",
+"exTh": "ตอนพักเที่ยงมักเร่งรีบเสมอ"
+},
+{
+"id": "rush_verb",
+"w": "rush",
+"pos": "verb",
+"lvl": "B1",
+"th": "รีบ; เร่งรีบ; พุ่งไป",
+"ex": "Don't rush. We have enough time.",
+"exTh": "ไม่ต้องรีบ เรามีเวลาพอ"
+}
+],
+[
+{
+"id": "burn_noun",
+"w": "burn",
+"pos": "noun",
+"lvl": "A2",
+"th": "แผลไฟไหม้; รอยไหม้; แผลพุพอง",
+"ex": "She has a small burn on her hand.",
+"exTh": "เธอมีแผลไหม้เล็กๆ ที่มือ"
+},
+{
+"id": "burn_verb",
+"w": "burn",
+"pos": "verb",
+"lvl": "B1",
+"th": "ไหม้; เผา; ลุกไหม้",
+"ex": "Don't burn the toast.",
+"exTh": "อย่าทำขนมปังปิ้งไหม้นะ"
+}
+],
+[
+{
+"id": "blame_noun",
+"w": "blame",
+"pos": "noun",
+"lvl": "B1",
+"th": "ความผิด; ความรับผิดชอบ; การตำหนิ",
+"ex": "I take the blame for the mistake.",
+"exTh": "ฉันขอรับผิดชอบความผิดพลาดนี้"
+},
+{
+"id": "blame_verb",
+"w": "blame",
+"pos": "verb",
+"lvl": "A2",
+"th": "โทษ; ตำหนิ; กล่าวโทษ",
+"ex": "Don't blame him for the mistake.",
+"exTh": "อย่าโทษเขาสำหรับความผิดพลาดนั้น"
+}
+],
+[
+{
+"id": "drill_noun",
+"w": "drill",
+"pos": "noun",
+"lvl": "A2",
+"th": "สว่าน; การฝึกซ้อม; แบบฝึกหัด",
+"ex": "He used a drill to make a hole in the wall.",
+"exTh": "เขาใช้สว่านเจาะรูที่ผนัง"
+},
+{
+"id": "drill_verb",
+"w": "drill",
+"pos": "verb",
+"lvl": "C1",
+"th": "เจาะ; ฝึกซ้ำๆ",
+"ex": "The workers drilled a hole in the wall.",
+"exTh": "คนงานเจาะรูที่ผนัง"
+}
+],
+[
+{
+"id": "stamp_noun",
+"w": "stamp",
+"pos": "noun",
+"lvl": "A2",
+"th": "แสตมป์; ตราประทับ",
+"ex": "I need a stamp for this letter.",
+"exTh": "ฉันต้องใช้แสตมป์ติดจดหมายฉบับนี้"
+},
+{
+"id": "stamp_verb",
+"w": "stamp",
+"pos": "verb",
+"lvl": "B2",
+"th": "ประทับตรา; กระทืบเท้า; ติดแสตมป์",
+"ex": "The officer stamped my passport at the border.",
+"exTh": "เจ้าหน้าที่ประทับตราลงในหนังสือเดินทางของฉันที่ชายแดน"
+}
+],
+[
+{
+"id": "worldwide_adj",
+"w": "worldwide",
+"pos": "adj",
+"lvl": "B2",
+"th": "ทั่วโลก; ในระดับโลก",
+"ex": "The singer has a worldwide fan base.",
+"exTh": "นักร้องคนนี้มีแฟนเพลงทั่วโลก"
+},
+{
+"id": "worldwide_adv",
+"w": "worldwide",
+"pos": "adv",
+"lvl": "A2",
+"th": "ทั่วโลก; ทั่วโลกนี้",
+"ex": "The game is sold worldwide.",
+"exTh": "เกมนี้ขายทั่วโลก"
+}
+],
+[
+{
+"id": "fancy_adj",
+"w": "fancy",
+"pos": "adj",
+"lvl": "A2",
+"th": "หรูหรา; วิจิตร; ประณีต",
+"ex": "We ate at a fancy restaurant.",
+"exTh": "เรากินข้าวที่ร้านอาหารหรูๆ"
+},
+{
+"id": "fancy_noun",
+"w": "fancy",
+"pos": "noun",
+"lvl": "B1",
+"th": "จินตนาการ; ความชอบชั่วคราว; ความพึงใจ",
+"ex": "He took a fancy to the old guitar.",
+"exTh": "เขาหลงชอบกีตาร์ตัวเก่านั้นขึ้นมา"
+},
+{
+"id": "fancy_verb",
+"w": "fancy",
+"pos": "verb",
+"lvl": "B1",
+"th": "อยากได้; ชอบ; นึกไม่ถึง",
+"ex": "Do you fancy a cup of tea?",
+"exTh": "คุณอยากดื่มชาสักถ้วยไหม",
+"note": "ใช้แบบอังกฤษมากกว่า"
+}
+],
+[
+{
+"id": "alarm_noun",
+"w": "alarm",
+"pos": "noun",
+"lvl": "A2",
+"th": "สัญญาณเตือน; นาฬิกาปลุก; เสียงเตือนภัย",
+"ex": "The fire alarm rang loudly.",
+"exTh": "สัญญาณเตือนไฟไหม้ดังลั่น"
+},
+{
+"id": "alarm_verb",
+"w": "alarm",
+"pos": "verb",
+"lvl": "B1",
+"th": "ทำให้ตกใจ; ทำให้กังวล",
+"ex": "The loud noise alarmed the children.",
+"exTh": "เสียงดังทำให้เด็กๆ ตกใจ"
+}
+],
+[
+{
+"id": "bend_noun",
+"w": "bend",
+"pos": "noun",
+"lvl": "B2",
+"th": "โค้ง; ทางโค้ง; การงอ",
+"ex": "The car slowed down at the bend in the road.",
+"exTh": "รถชะลอความเร็วตรงทางโค้งของถนน"
+},
+{
+"id": "bend_verb",
+"w": "bend",
+"pos": "verb",
+"lvl": "A2",
+"th": "งอ; โค้ง; ก้ม",
+"ex": "Bend your knees when you lift a box.",
+"exTh": "งอเข่าเวลายกกล่อง"
+}
+],
+[
+{
+"id": "regret_noun",
+"w": "regret",
+"pos": "noun",
+"lvl": "B2",
+"th": "ความเสียใจ; ความเสียดาย; ความรู้สึกผิด",
+"ex": "I have no regrets about my decision.",
+"exTh": "ฉันไม่เสียใจกับการตัดสินใจของฉัน"
+},
+{
+"id": "regret_verb",
+"w": "regret",
+"pos": "verb",
+"lvl": "A2",
+"th": "เสียใจ; เสียดาย; รู้สึกผิด",
+"ex": "I regret telling him my secret.",
+"exTh": "ฉันเสียใจที่เล่าความลับให้เขาฟัง"
+}
+],
+[
+{
+"id": "screw_noun",
+"w": "screw",
+"pos": "noun",
+"lvl": "A2",
+"th": "สกรู; ตะปูควง",
+"ex": "I need a screw to fix this shelf.",
+"exTh": "ฉันต้องใช้สกรูตัวหนึ่งเพื่อซ่อมชั้นวางนี้"
+},
+{
+"id": "screw_verb",
+"w": "screw",
+"pos": "verb",
+"lvl": "B2",
+"th": "ขันสกรู; ยึดด้วยสกรู; หมุนเข้า",
+"ex": "He screwed the shelf to the wall.",
+"exTh": "เขาขันสกรูยึดชั้นวางของเข้ากับผนัง"
+}
+],
+[
+{
+"id": "fool_noun",
+"w": "fool",
+"pos": "noun",
+"lvl": "A2",
+"th": "คนโง่; คนเขลา",
+"ex": "Only a fool would believe that story.",
+"exTh": "มีแต่คนโง่เท่านั้นที่จะเชื่อเรื่องนั้น",
+"note": "ค่อนข้างหยาบ ใช้ระวัง"
+},
+{
+"id": "fool_verb",
+"w": "fool",
+"pos": "verb",
+"lvl": "B1",
+"th": "หลอก; ตบตา; ล้อเล่น",
+"ex": "Don't let him fool you.",
+"exTh": "อย่าปล่อยให้เขาหลอกคุณได้"
+}
+],
+[
+{
+"id": "upset_adj",
+"w": "upset",
+"pos": "adj",
+"lvl": "A2",
+"th": "เสียใจ; ไม่สบายใจ; หงุดหงิด",
+"ex": "She was upset about the bad news.",
+"exTh": "เธอเสียใจกับข่าวร้าย"
+},
+{
+"id": "upset_verb",
+"w": "upset",
+"pos": "verb",
+"lvl": "B2",
+"th": "ทำให้เสียใจ; ทำให้ไม่พอใจ; ทำให้ปั่นป่วน",
+"ex": "His rude words upset me.",
+"exTh": "คำพูดหยาบคายของเขาทำให้ฉันเสียใจ",
+"note": "รูปผัน upset, upset, upset"
+}
+],
+[
+{
+"id": "singular_adj",
+"w": "singular",
+"pos": "adj",
+"lvl": "A2",
+"th": "เอกพจน์",
+"ex": "The word dog is singular.",
+"exTh": "คำว่า dog เป็นเอกพจน์",
+"note": "ในไวยากรณ์ ตรงข้ามกับ plural"
+},
+{
+"id": "singular_noun",
+"w": "singular",
+"pos": "noun",
+"lvl": "A2",
+"th": "เอกพจน์; รูปเอกพจน์",
+"ex": "The singular of children is child.",
+"exTh": "เอกพจน์ของ children คือ child",
+"note": "คำศัพท์ไวยากรณ์"
+}
+],
+[
+{
+"id": "sink_noun",
+"w": "sink",
+"pos": "noun",
+"lvl": "A2",
+"th": "อ่างล้างจาน; อ่างล้างหน้า",
+"ex": "There are dirty dishes in the sink.",
+"exTh": "มีจานสกปรกอยู่ในอ่างล้างจาน"
+},
+{
+"id": "sink_verb",
+"w": "sink",
+"pos": "verb",
+"lvl": "B1",
+"th": "จม; ทรุด; ตก",
+"ex": "The boat began to sink slowly.",
+"exTh": "เรือเริ่มจมลงอย่างช้าๆ",
+"note": "รูปอดีตคือ sank, sunk"
+}
+],
+[
+{
+"id": "tear_noun",
+"w": "tear",
+"pos": "noun",
+"lvl": "A2",
+"th": "น้ำตา",
+"ex": "A tear ran down her face.",
+"exTh": "น้ำตาหยดหนึ่งไหลลงมาบนใบหน้าเธอ",
+"note": "อ่านว่า เทียร์ (tɪər) ต่างจาก tear ที่แปลว่าฉีก"
+},
+{
+"id": "tear_verb",
+"w": "tear",
+"pos": "verb",
+"lvl": "B1",
+"th": "ฉีก; ทำให้ขาด; ดึงออก",
+"ex": "Be careful not to tear the paper.",
+"exTh": "ระวังอย่าให้กระดาษฉีกขาดนะ",
+"note": "รูปอดีตคือ tore, torn"
+}
+],
+[
+{
+"id": "brake_noun",
+"w": "brake",
+"pos": "noun",
+"lvl": "A2",
+"th": "เบรก; ที่ห้ามล้อ",
+"ex": "He pushed the brake to stop the car.",
+"exTh": "เขาเหยียบเบรกเพื่อหยุดรถ"
+},
+{
+"id": "brake_verb",
+"w": "brake",
+"pos": "verb",
+"lvl": "B2",
+"th": "เบรก; ห้ามล้อ; ชะลอ",
+"ex": "The driver braked hard to avoid the dog.",
+"exTh": "คนขับเบรกอย่างแรงเพื่อหลบสุนัข"
+}
+],
+[
+{
+"id": "kindly_adj",
+"w": "kindly",
+"pos": "adj",
+"lvl": "A2",
+"th": "ใจดี; อ่อนโยน",
+"ex": "She is a kindly old woman.",
+"exTh": "เธอเป็นหญิงชราใจดี"
+},
+{
+"id": "kindly_adv",
+"w": "kindly",
+"pos": "adv",
+"lvl": "B1",
+"th": "อย่างกรุณา; โปรด; ด้วยความเมตตา",
+"ex": "She kindly offered me a seat.",
+"exTh": "เธอกรุณาเสนอที่นั่งให้ฉัน"
+}
+],
+[
+{
+"id": "tap_noun",
+"w": "tap",
+"pos": "noun",
+"lvl": "A2",
+"th": "ก๊อกน้ำ; ก๊อก",
+"ex": "Please turn off the tap.",
+"exTh": "กรุณาปิดก๊อกน้ำด้วย",
+"note": "อังกฤษแบบอเมริกันใช้ faucet"
+},
+{
+"id": "tap_verb",
+"w": "tap",
+"pos": "verb",
+"lvl": "B2",
+"th": "แตะเบาๆ; เคาะ; ต่อเข้าไป",
+"ex": "She tapped me on the shoulder.",
+"exTh": "เธอแตะไหล่ฉันเบาๆ"
+}
+],
+[
+{
+"id": "bargain_noun",
+"w": "bargain",
+"pos": "noun",
+"lvl": "A2",
+"th": "ของถูก; ของที่ซื้อได้ราคาดี; การต่อรอง",
+"ex": "This jacket was a real bargain.",
+"exTh": "เสื้อแจ็กเก็ตตัวนี้ซื้อได้ถูกมากจริงๆ"
+},
+{
+"id": "bargain_verb",
+"w": "bargain",
+"pos": "verb",
+"lvl": "B2",
+"th": "ต่อรอง; ต่อราคา",
+"ex": "She bargained with the seller for a lower price.",
+"exTh": "เธอต่อรองกับผู้ขายเพื่อให้ได้ราคาถูกลง"
+}
+],
+[
+{
+"id": "panic_noun",
+"w": "panic",
+"pos": "noun",
+"lvl": "A2",
+"th": "ความตื่นตระหนก; ความแตกตื่น",
+"ex": "There was panic when the fire alarm rang.",
+"exTh": "เกิดความตื่นตระหนกเมื่อสัญญาณเตือนไฟไหม้ดังขึ้น"
+},
+{
+"id": "panic_verb",
+"w": "panic",
+"pos": "verb",
+"lvl": "B2",
+"th": "ตื่นตระหนก; ตกใจจนลนลาน",
+"ex": "Don't panic, everything will be fine.",
+"exTh": "อย่าตื่นตระหนก ทุกอย่างจะเรียบร้อย"
+}
+],
+[
+{
+"id": "quit_adj",
+"w": "quit",
+"pos": "adj",
+"lvl": "B2",
+"th": "หลุดพ้น; ปลอดจาก; พ้นจาก",
+"ex": "I am glad to be quit of that job.",
+"exTh": "ฉันดีใจที่หลุดพ้นจากงานนั้นแล้ว",
+"note": "เป็นคำคุณศัพท์ที่เก่าและใช้น้อย มักเป็น quit of; ส่วนใหญ่ quit เป็นกริยา แปลว่า เลิก"
+},
+{
+"id": "quit_verb",
+"w": "quit",
+"pos": "verb",
+"lvl": "A2",
+"th": "เลิก; ลาออก; หยุด",
+"ex": "He quit his job last month.",
+"exTh": "เขาลาออกจากงานเมื่อเดือนที่แล้ว",
+"note": "รูปผัน quit, quit"
+}
+],
+[
+{
+"id": "tune_noun",
+"w": "tune",
+"pos": "noun",
+"lvl": "A2",
+"th": "ทำนองเพลง; เสียงเพลง",
+"ex": "I cannot get that tune out of my head.",
+"exTh": "ฉันลืมทำนองเพลงนั้นไม่ได้เลย"
+},
+{
+"id": "tune_verb",
+"w": "tune",
+"pos": "verb",
+"lvl": "C1",
+"th": "ปรับเสียง; ปรับจูน",
+"ex": "He tuned his guitar before the show.",
+"exTh": "เขาตั้งสายกีตาร์ก่อนขึ้นแสดง"
+}
+],
+[
+{
+"id": "bloom_noun",
+"w": "bloom",
+"pos": "noun",
+"lvl": "A2",
+"th": "ดอกไม้; การออกดอก",
+"ex": "The roses are in full bloom now.",
+"exTh": "ตอนนี้กุหลาบกำลังบานเต็มที่"
+},
+{
+"id": "bloom_verb",
+"w": "bloom",
+"pos": "verb",
+"lvl": "C1",
+"th": "ออกดอก; เบ่งบาน",
+"ex": "The cherry trees bloom in early spring.",
+"exTh": "ต้นซากุระออกดอกในต้นฤดูใบไม้ผลิ"
+}
+],
+[
+{
+"id": "ruin_noun",
+"w": "ruin",
+"pos": "noun",
+"lvl": "B1",
+"th": "ซากปรักหักพัง; ความพินาศ",
+"ex": "We visited the ruins of an old temple.",
+"exTh": "เราไปเที่ยวชมซากวัดเก่า"
+},
+{
+"id": "ruin_verb",
+"w": "ruin",
+"pos": "verb",
+"lvl": "A2",
+"th": "ทำลาย; ทำให้เสียหาย",
+"ex": "The rain ruined our picnic.",
+"exTh": "ฝนทำให้งานปิกนิกของเราเสียหมด"
+}
+],
+[
+{
+"id": "sweat_noun",
+"w": "sweat",
+"pos": "noun",
+"lvl": "B1",
+"th": "เหงื่อ; การออกเหงื่อ",
+"ex": "Sweat ran down his face after the run.",
+"exTh": "เหงื่อไหลลงมาตามใบหน้าของเขาหลังวิ่ง"
+},
+{
+"id": "sweat_verb",
+"w": "sweat",
+"pos": "verb",
+"lvl": "A2",
+"th": "เหงื่อออก",
+"ex": "I sweat a lot when I run.",
+"exTh": "ฉันเหงื่อออกมากเวลาวิ่ง"
+}
+],
+[
+{
+"id": "bite_noun",
+"w": "bite",
+"pos": "noun",
+"lvl": "A2",
+"th": "รอยกัด; การกัด; คำที่กัด",
+"ex": "The mosquito bite is very itchy.",
+"exTh": "รอยยุงกัดคันมาก"
+},
+{
+"id": "bite_verb",
+"w": "bite",
+"pos": "verb",
+"lvl": "B1",
+"th": "กัด; ขบ",
+"ex": "Be careful, that dog may bite you.",
+"exTh": "ระวังนะ สุนัขตัวนั้นอาจกัดเธอได้",
+"note": "รูปผันคือ bit, bitten"
+}
+],
+[
+{
+"id": "trick_noun",
+"w": "trick",
+"pos": "noun",
+"lvl": "A2",
+"th": "กลอุบาย; เล่ห์กล; มายากล",
+"ex": "The magician showed us a clever trick.",
+"exTh": "นักมายากลแสดงกลที่ชาญฉลาดให้เราดู"
+},
+{
+"id": "trick_verb",
+"w": "trick",
+"pos": "verb",
+"lvl": "B2",
+"th": "หลอก; ตบตา",
+"ex": "He tricked me into believing his story.",
+"exTh": "เขาหลอกให้ฉันเชื่อเรื่องที่เขาเล่า"
+}
+],
+[
+{
+"id": "comic_adj",
+"w": "comic",
+"pos": "adj",
+"lvl": "A2",
+"th": "ตลก; ขบขัน",
+"ex": "The film has many comic moments.",
+"exTh": "หนังเรื่องนี้มีช่วงตลกหลายตอน"
+},
+{
+"id": "comic_noun",
+"w": "comic",
+"pos": "noun",
+"lvl": "A2",
+"th": "หนังสือการ์ตูน; นักแสดงตลก",
+"ex": "My brother reads a comic every week.",
+"exTh": "น้องชายของฉันอ่านหนังสือการ์ตูนทุกสัปดาห์"
+}
+],
+[
+{
+"id": "joke_noun",
+"w": "joke",
+"pos": "noun",
+"lvl": "A2",
+"th": "เรื่องตลก; มุกตลก",
+"ex": "He told a funny joke at dinner.",
+"exTh": "เขาเล่าเรื่องตลกที่ขำมากตอนกินข้าวเย็น"
+},
+{
+"id": "joke_verb",
+"w": "joke",
+"pos": "verb",
+"lvl": "B1",
+"th": "พูดเล่น; ล้อเล่น",
+"ex": "I was only joking, please don't be angry.",
+"exTh": "ฉันแค่พูดเล่น อย่าโกรธนะ"
+}
+],
+[
+{
+"id": "knock_noun",
+"w": "knock",
+"pos": "noun",
+"lvl": "A2",
+"th": "เสียงเคาะ; การเคาะ",
+"ex": "There was a knock at the door.",
+"exTh": "มีเสียงเคาะประตู"
+},
+{
+"id": "knock_verb",
+"w": "knock",
+"pos": "verb",
+"lvl": "B1",
+"th": "เคาะ; ทุบ; กระแทก",
+"ex": "Please knock on the door before you come in.",
+"exTh": "กรุณาเคาะประตูก่อนเข้ามา"
+}
+]
+]

@@ -1,0 +1,1515 @@
+[
+[
+{
+"id": "figure_noun",
+"w": "figure",
+"pos": "noun",
+"lvl": "A2",
+"th": "ตัวเลข; รูปร่าง; บุคคลสำคัญ",
+"ex": "The sales figures look very good this year.",
+"exTh": "ตัวเลขยอดขายปีนี้ดูดีมาก"
+},
+{
+"id": "figure_verb",
+"w": "figure",
+"pos": "verb",
+"lvl": "A2",
+"th": "คิดว่า; คำนวณ; ปรากฏ",
+"ex": "I figure we can finish by noon.",
+"exTh": "ฉันคิดว่าเราน่าจะทำเสร็จก่อนเที่ยง",
+"note": "ภาษาพูด; figure out = คิดออก"
+}
+],
+[
+{
+"id": "far_adj",
+"w": "far",
+"pos": "adj",
+"lvl": "B2",
+"th": "ไกล; ห่างไกล",
+"ex": "The far side of the lake is very quiet.",
+"exTh": "อีกฝั่งหนึ่งของทะเลสาบเงียบสงบมาก"
+},
+{
+"id": "far_adv",
+"w": "far",
+"pos": "adv",
+"lvl": "A2",
+"th": "ไกล; ห่างไกล",
+"ex": "Is your office far from here?",
+"exTh": "ที่ทำงานของคุณอยู่ไกลจากที่นี่ไหม"
+}
+],
+[
+{
+"id": "cost_noun",
+"w": "cost",
+"pos": "noun",
+"lvl": "A2",
+"th": "ราคา; ค่าใช้จ่าย; ต้นทุน",
+"ex": "The cost of food is rising.",
+"exTh": "ค่าอาหารกำลังแพงขึ้น"
+},
+{
+"id": "cost_verb",
+"w": "cost",
+"pos": "verb",
+"lvl": "A2",
+"th": "มีราคา; ต้องจ่าย",
+"ex": "This bag costs fifty dollars.",
+"exTh": "กระเป๋าใบนี้ราคาห้าสิบดอลลาร์",
+"note": "รูปผัน cost, cost, cost"
+}
+],
+[
+{
+"id": "human_adj",
+"w": "human",
+"pos": "adj",
+"lvl": "A2",
+"th": "ของมนุษย์; เกี่ยวกับมนุษย์",
+"ex": "Making mistakes is a human thing.",
+"exTh": "การทำผิดพลาดเป็นเรื่องของมนุษย์"
+},
+{
+"id": "human_noun",
+"w": "human",
+"pos": "noun",
+"lvl": "B1",
+"th": "มนุษย์; คน",
+"ex": "Humans need water to live.",
+"exTh": "มนุษย์ต้องการน้ำเพื่อมีชีวิตอยู่"
+}
+],
+[
+{
+"id": "south_adj",
+"w": "south",
+"pos": "adj",
+"lvl": "A2",
+"th": "ทางใต้; ใต้",
+"ex": "The south side of the house gets more sun.",
+"exTh": "ด้านทิศใต้ของบ้านได้รับแสงแดดมากกว่า"
+},
+{
+"id": "south_adv",
+"w": "south",
+"pos": "adv",
+"lvl": "A2",
+"th": "ไปทางใต้; ทางทิศใต้",
+"ex": "The birds fly south in winter.",
+"exTh": "นกบินไปทางใต้ในฤดูหนาว"
+},
+{
+"id": "south_noun",
+"w": "south",
+"pos": "noun",
+"lvl": "A2",
+"th": "ทิศใต้; ภาคใต้",
+"ex": "My uncle lives in the south of Thailand.",
+"exTh": "ลุงของฉันอาศัยอยู่ทางภาคใต้ของประเทศไทย"
+}
+],
+[
+{
+"id": "though_adv",
+"w": "though",
+"pos": "adv",
+"lvl": "B2",
+"th": "แต่ก็; อย่างไรก็ตาม",
+"ex": "The test was hard. I passed, though.",
+"exTh": "ข้อสอบยาก แต่ฉันก็สอบผ่าน"
+},
+{
+"id": "though_conj",
+"w": "though",
+"pos": "conj",
+"lvl": "A2",
+"th": "แม้ว่า; ถึงแม้",
+"ex": "Though he is young, he works very hard.",
+"exTh": "แม้เขาจะยังเด็ก แต่ก็ทำงานหนักมาก"
+}
+],
+[
+{
+"id": "support_noun",
+"w": "support",
+"pos": "noun",
+"lvl": "A2",
+"th": "การสนับสนุน; ที่พยุง",
+"ex": "Thank you for your support and kindness.",
+"exTh": "ขอบคุณสำหรับการสนับสนุนและน้ำใจของคุณ"
+},
+{
+"id": "support_verb",
+"w": "support",
+"pos": "verb",
+"lvl": "B1",
+"th": "สนับสนุน; ค้ำ; เลี้ยงดู",
+"ex": "My parents always support my decisions.",
+"exTh": "พ่อแม่ของฉันสนับสนุนการตัดสินใจของฉันเสมอ"
+}
+],
+[
+{
+"id": "increase_noun",
+"w": "increase",
+"pos": "noun",
+"lvl": "B1",
+"th": "การเพิ่มขึ้น; ส่วนที่เพิ่ม",
+"ex": "There was a big increase in prices.",
+"exTh": "ราคาสินค้าเพิ่มขึ้นมาก"
+},
+{
+"id": "increase_verb",
+"w": "increase",
+"pos": "verb",
+"lvl": "A2",
+"th": "เพิ่มขึ้น; เพิ่ม",
+"ex": "Prices increase every year.",
+"exTh": "ราคาสินค้าเพิ่มขึ้นทุกปี"
+}
+],
+[
+{
+"id": "low_adj",
+"w": "low",
+"pos": "adj",
+"lvl": "A2",
+"th": "ต่ำ; เตี้ย; น้อย",
+"ex": "The price at this shop is very low.",
+"exTh": "ราคาที่ร้านนี้ต่ำมาก"
+},
+{
+"id": "low_adv",
+"w": "low",
+"pos": "adv",
+"lvl": "A2",
+"th": "ต่ำ; ในระดับต่ำ",
+"ex": "The plane flew low over the field.",
+"exTh": "เครื่องบินบินต่ำเหนือทุ่งนา"
+}
+],
+[
+{
+"id": "least_adv",
+"w": "least",
+"pos": "adv",
+"lvl": "B1",
+"th": "น้อยที่สุด",
+"ex": "I like this one the least.",
+"exTh": "ฉันชอบอันนี้น้อยที่สุด"
+},
+{
+"id": "least_det",
+"w": "least",
+"pos": "det",
+"lvl": "A2",
+"th": "น้อยที่สุด",
+"ex": "She has the least money of us all.",
+"exTh": "เธอมีเงินน้อยที่สุดในพวกเรา",
+"note": "ขั้นสูงสุดของ little"
+},
+{
+"id": "least_pron",
+"w": "least",
+"pos": "pron",
+"lvl": "B2",
+"th": "น้อยที่สุด; อย่างน้อยที่สุด",
+"ex": "The least you can do is say sorry.",
+"exTh": "อย่างน้อยที่สุดที่คุณทำได้คือขอโทษ"
+}
+],
+[
+{
+"id": "whole_adj",
+"w": "whole",
+"pos": "adj",
+"lvl": "A2",
+"th": "ทั้งหมด; ทั้ง; เต็ม",
+"ex": "I ate the whole pizza by myself.",
+"exTh": "ฉันกินพิซซ่าทั้งถาดคนเดียว"
+},
+{
+"id": "whole_noun",
+"w": "whole",
+"pos": "noun",
+"lvl": "B1",
+"th": "ทั้งหมด; ส่วนรวม; ผลรวม",
+"ex": "The whole is greater than its parts.",
+"exTh": "ส่วนรวมย่อมมากกว่าส่วนย่อยรวมกัน"
+}
+],
+[
+{
+"id": "next_adv",
+"w": "next",
+"pos": "adv",
+"lvl": "A2",
+"th": "ต่อไป; ถัดไป; ครั้งต่อไป",
+"ex": "What should I do next?",
+"exTh": "ต่อไปฉันควรทำอะไรดี"
+},
+{
+"id": "next_det",
+"w": "next",
+"pos": "det",
+"lvl": "A2",
+"th": "ถัดไป; หน้า; ต่อไป",
+"ex": "See you next week.",
+"exTh": "เจอกันสัปดาห์หน้านะ"
+},
+{
+"id": "next_pron",
+"w": "next",
+"pos": "pron",
+"lvl": "B2",
+"th": "คนถัดไป; สิ่งถัดไป",
+"ex": "Who is next in line?",
+"exTh": "คนถัดไปในแถวคือใคร"
+}
+],
+[
+{
+"id": "north_adj",
+"w": "north",
+"pos": "adj",
+"lvl": "A2",
+"th": "ทางเหนือ; เหนือ",
+"ex": "The north wind is cold in winter.",
+"exTh": "ลมเหนือหนาวในฤดูหนาว"
+},
+{
+"id": "north_adv",
+"w": "north",
+"pos": "adv",
+"lvl": "A2",
+"th": "ไปทางเหนือ; ทางทิศเหนือ",
+"ex": "We drove north for three hours.",
+"exTh": "เราขับรถไปทางเหนือสามชั่วโมง"
+},
+{
+"id": "north_noun",
+"w": "north",
+"pos": "noun",
+"lvl": "A2",
+"th": "ทิศเหนือ; ภาคเหนือ",
+"ex": "Chiang Mai is in the north of Thailand.",
+"exTh": "เชียงใหม่อยู่ทางภาคเหนือของประเทศไทย"
+}
+],
+[
+{
+"id": "trade_noun",
+"w": "trade",
+"pos": "noun",
+"lvl": "A2",
+"th": "การค้า; การซื้อขาย; อาชีพช่าง",
+"ex": "Trade between the two countries is growing.",
+"exTh": "การค้าระหว่างสองประเทศกำลังเติบโต"
+},
+{
+"id": "trade_verb",
+"w": "trade",
+"pos": "verb",
+"lvl": "B2",
+"th": "ค้าขาย; แลกเปลี่ยน",
+"ex": "They trade fish for rice at the market.",
+"exTh": "พวกเขาแลกปลากับข้าวที่ตลาด"
+}
+],
+[
+{
+"id": "bill_noun",
+"w": "bill",
+"pos": "noun",
+"lvl": "A2",
+"th": "ใบเรียกเก็บเงิน; บิล; ธนบัตร",
+"ex": "Can we have the bill, please?",
+"exTh": "ขอเช็กบิลหน่อยได้ไหมครับ"
+},
+{
+"id": "bill_verb",
+"w": "bill",
+"pos": "verb",
+"lvl": "B1",
+"th": "เรียกเก็บเงิน; ส่งใบแจ้งหนี้",
+"ex": "The hotel billed me for the extra night.",
+"exTh": "โรงแรมเรียกเก็บเงินค่าพักเพิ่มหนึ่งคืนจากฉัน"
+}
+],
+[
+{
+"id": "view_noun",
+"w": "view",
+"pos": "noun",
+"lvl": "A2",
+"th": "ทิวทัศน์; ความคิดเห็น; มุมมอง",
+"ex": "The hotel room has a great sea view.",
+"exTh": "ห้องพักโรงแรมมีวิวทะเลสวยมาก"
+},
+{
+"id": "view_verb",
+"w": "view",
+"pos": "verb",
+"lvl": "B1",
+"th": "ชม; มองดู; พิจารณา",
+"ex": "Many people viewed the video online.",
+"exTh": "หลายคนดูวิดีโอนั้นทางออนไลน์"
+}
+],
+[
+{
+"id": "market_noun",
+"w": "market",
+"pos": "noun",
+"lvl": "A2",
+"th": "ตลาด; ตลาดซื้อขาย",
+"ex": "We buy fresh fish at the market.",
+"exTh": "เราซื้อปลาสดที่ตลาด"
+},
+{
+"id": "market_verb",
+"w": "market",
+"pos": "verb",
+"lvl": "B1",
+"th": "ทำการตลาด; วางขาย; โฆษณา",
+"ex": "They market their products on social media.",
+"exTh": "พวกเขาทำการตลาดสินค้าผ่านโซเชียลมีเดีย"
+}
+],
+[
+{
+"id": "west_adj",
+"w": "west",
+"pos": "adj",
+"lvl": "A2",
+"th": "ทางตะวันตก; ตะวันตก",
+"ex": "The west side of town is quieter.",
+"exTh": "ฝั่งตะวันตกของเมืองเงียบกว่า"
+},
+{
+"id": "west_adv",
+"w": "west",
+"pos": "adv",
+"lvl": "A2",
+"th": "ไปทางตะวันตก; ทางทิศตะวันตก",
+"ex": "We drove west along the coast.",
+"exTh": "เราขับรถไปทางตะวันตกตามแนวชายฝั่ง"
+},
+{
+"id": "west_noun",
+"w": "west",
+"pos": "noun",
+"lvl": "A2",
+"th": "ทิศตะวันตก; ตะวันตก",
+"ex": "The sun goes down in the west.",
+"exTh": "ดวงอาทิตย์ตกทางทิศตะวันตก"
+}
+],
+[
+{
+"id": "major_adj",
+"w": "major",
+"pos": "adj",
+"lvl": "A2",
+"th": "สำคัญ; ใหญ่; หลัก",
+"ex": "Traffic is a major problem in big cities.",
+"exTh": "การจราจรเป็นปัญหาใหญ่ในเมืองใหญ่"
+},
+{
+"id": "major_noun",
+"w": "major",
+"pos": "noun",
+"lvl": "B2",
+"th": "วิชาเอก; ผู้เรียนวิชาเอก; ยศพันตรี",
+"ex": "My major at university is biology.",
+"exTh": "วิชาเอกของฉันที่มหาวิทยาลัยคือชีววิทยา"
+}
+],
+[
+{
+"id": "force_noun",
+"w": "force",
+"pos": "noun",
+"lvl": "A2",
+"th": "แรง; กำลัง; การบังคับ",
+"ex": "The wind blew with great force.",
+"exTh": "ลมพัดมาด้วยแรงมาก"
+},
+{
+"id": "force_verb",
+"w": "force",
+"pos": "verb",
+"lvl": "B2",
+"th": "บังคับ; ฝืน; ผลักดัน",
+"ex": "Nobody can force you to sign it.",
+"exTh": "ไม่มีใครบังคับให้คุณเซ็นได้"
+}
+],
+[
+{
+"id": "model_adj",
+"w": "model",
+"pos": "adj",
+"lvl": "B1",
+"th": "ต้นแบบ; เป็นแบบอย่าง; จำลอง",
+"ex": "He is a model student in our class.",
+"exTh": "เขาเป็นนักเรียนตัวอย่างของชั้นเรา"
+},
+{
+"id": "model_noun",
+"w": "model",
+"pos": "noun",
+"lvl": "A2",
+"th": "แบบ; รุ่น; นางแบบ/นายแบบ",
+"ex": "This is the newest model of the phone.",
+"exTh": "นี่คือโทรศัพท์รุ่นใหม่ล่าสุด"
+},
+{
+"id": "model_verb",
+"w": "model",
+"pos": "verb",
+"lvl": "B1",
+"th": "เป็นแบบ; แสดงแบบ; ทำแบบจำลอง",
+"ex": "She models clothes for a magazine.",
+"exTh": "เธอเป็นนางแบบใส่เสื้อผ้าให้นิตยสาร"
+}
+],
+[
+{
+"id": "account_noun",
+"w": "account",
+"pos": "noun",
+"lvl": "A2",
+"th": "บัญชี; เรื่องราว; รายงาน",
+"ex": "I opened a bank account last week.",
+"exTh": "สัปดาห์ที่แล้วฉันเปิดบัญชีธนาคาร"
+},
+{
+"id": "account_verb",
+"w": "account",
+"pos": "verb",
+"lvl": "B1",
+"th": "อธิบาย; คิดเป็นสัดส่วน",
+"ex": "Rent accounts for half of my spending.",
+"exTh": "ค่าเช่าคิดเป็นครึ่งหนึ่งของรายจ่ายฉัน",
+"note": "มักใช้ account for"
+}
+],
+[
+{
+"id": "experience_noun",
+"w": "experience",
+"pos": "noun",
+"lvl": "A2",
+"th": "ประสบการณ์",
+"ex": "She has five years of work experience.",
+"exTh": "เธอมีประสบการณ์ทำงานห้าปี"
+},
+{
+"id": "experience_verb",
+"w": "experience",
+"pos": "verb",
+"lvl": "B1",
+"th": "ประสบ; เผชิญ; รู้สึก",
+"ex": "Many people experience stress at work.",
+"exTh": "หลายคนประสบความเครียดจากการทำงาน"
+}
+],
+[
+{
+"id": "average_adj",
+"w": "average",
+"pos": "adj",
+"lvl": "A2",
+"th": "เฉลี่ย; โดยเฉลี่ย; ปานกลาง",
+"ex": "The average age of the class is twenty.",
+"exTh": "อายุเฉลี่ยของนักเรียนในห้องคือยี่สิบปี"
+},
+{
+"id": "average_noun",
+"w": "average",
+"pos": "noun",
+"lvl": "A2",
+"th": "ค่าเฉลี่ย; ค่ากลาง",
+"ex": "The average of two and four is three.",
+"exTh": "ค่าเฉลี่ยของสองกับสี่คือสาม"
+}
+],
+[
+{
+"id": "single_adj",
+"w": "single",
+"pos": "adj",
+"lvl": "A2",
+"th": "โสด; เดี่ยว; เพียงหนึ่งเดียว",
+"ex": "He is single and lives alone.",
+"exTh": "เขาโสดและอยู่คนเดียว"
+},
+{
+"id": "single_noun",
+"w": "single",
+"pos": "noun",
+"lvl": "B1",
+"th": "เพลงซิงเกิล; ตั๋วเที่ยวเดียว; คนโสด",
+"ex": "Her new single is number one this week.",
+"exTh": "ซิงเกิลใหม่ของเธออยู่อันดับหนึ่งสัปดาห์นี้"
+}
+],
+[
+{
+"id": "enough_adv",
+"w": "enough",
+"pos": "adv",
+"lvl": "A2",
+"th": "พอ; เพียงพอ",
+"ex": "Is the room big enough for six people?",
+"exTh": "ห้องนี้ใหญ่พอสำหรับหกคนไหม",
+"note": "วางหลังคำคุณศัพท์"
+},
+{
+"id": "enough_det",
+"w": "enough",
+"pos": "det",
+"lvl": "A2",
+"th": "พอ; เพียงพอ",
+"ex": "We have enough food for everyone.",
+"exTh": "เรามีอาหารพอสำหรับทุกคน"
+},
+{
+"id": "enough_pron",
+"w": "enough",
+"pos": "pron",
+"lvl": "A2",
+"th": "พอแล้ว; เพียงพอ",
+"ex": "Thanks, that's enough for me.",
+"exTh": "ขอบคุณ แค่นี้ก็พอสำหรับฉันแล้ว"
+}
+],
+[
+{
+"id": "cause_noun",
+"w": "cause",
+"pos": "noun",
+"lvl": "B2",
+"th": "สาเหตุ; เหตุผล; อุดมการณ์",
+"ex": "The cause of the fire is still unknown.",
+"exTh": "สาเหตุของไฟไหม้ยังไม่ทราบ"
+},
+{
+"id": "cause_verb",
+"w": "cause",
+"pos": "verb",
+"lvl": "A2",
+"th": "ทำให้เกิด; เป็นสาเหตุของ",
+"ex": "Heavy rain can cause floods.",
+"exTh": "ฝนตกหนักอาจทำให้เกิดน้ำท่วม"
+}
+],
+[
+{
+"id": "range_noun",
+"w": "range",
+"pos": "noun",
+"lvl": "A2",
+"th": "ช่วง; ขอบเขต; ชนิดที่หลากหลาย",
+"ex": "The shop sells a wide range of shoes.",
+"exTh": "ร้านนี้ขายรองเท้าหลากหลายแบบ"
+},
+{
+"id": "range_verb",
+"w": "range",
+"pos": "verb",
+"lvl": "B2",
+"th": "มีตั้งแต่...ถึง; อยู่ในช่วง; แปรผัน",
+"ex": "Prices range from five to fifty dollars.",
+"exTh": "ราคามีตั้งแต่ห้าถึงห้าสิบดอลลาร์"
+}
+],
+[
+{
+"id": "plant_noun",
+"w": "plant",
+"pos": "noun",
+"lvl": "A2",
+"th": "พืช; ต้นไม้; โรงงาน",
+"ex": "I water the plants every morning.",
+"exTh": "ฉันรดน้ำต้นไม้ทุกเช้า"
+},
+{
+"id": "plant_verb",
+"w": "plant",
+"pos": "verb",
+"lvl": "B1",
+"th": "ปลูก; ฝัง; วาง",
+"ex": "We planted three trees in the garden.",
+"exTh": "เราปลูกต้นไม้สามต้นในสวน"
+}
+],
+[
+{
+"id": "east_adj",
+"w": "east",
+"pos": "adj",
+"lvl": "A2",
+"th": "ทางตะวันออก; ตะวันออก",
+"ex": "The east door leads to the garden.",
+"exTh": "ประตูทางทิศตะวันออกเปิดไปสู่สวน"
+},
+{
+"id": "east_adv",
+"w": "east",
+"pos": "adv",
+"lvl": "A2",
+"th": "ไปทางตะวันออก; ทางทิศตะวันออก",
+"ex": "The road goes east for ten miles.",
+"exTh": "ถนนสายนี้ไปทางตะวันออกสิบไมล์"
+},
+{
+"id": "east_noun",
+"w": "east",
+"pos": "noun",
+"lvl": "A2",
+"th": "ทิศตะวันออก; ตะวันออก",
+"ex": "The sun rises in the east.",
+"exTh": "ดวงอาทิตย์ขึ้นทางทิศตะวันออก"
+}
+],
+[
+{
+"id": "issue_noun",
+"w": "issue",
+"pos": "noun",
+"lvl": "A2",
+"th": "ประเด็น; ปัญหา; ฉบับ (หนังสือ)",
+"ex": "Pollution is an important issue today.",
+"exTh": "มลพิษเป็นประเด็นสำคัญในปัจจุบัน"
+},
+{
+"id": "issue_verb",
+"w": "issue",
+"pos": "verb",
+"lvl": "B2",
+"th": "ออก; ออกให้; ประกาศ",
+"ex": "The office will issue your ID card next week.",
+"exTh": "สำนักงานจะออกบัตรประจำตัวให้คุณในสัปดาห์หน้า"
+}
+],
+[
+{
+"id": "except_conj",
+"w": "except",
+"pos": "conj",
+"lvl": "A2",
+"th": "เว้นแต่; นอกจากว่า",
+"ex": "I like all food except that I hate onions.",
+"exTh": "ฉันกินได้หมด ยกเว้นว่าฉันเกลียดหัวหอม",
+"note": "ใช้น้อยในฐานะคำสันธาน"
+},
+{
+"id": "except_prep",
+"w": "except",
+"pos": "prep",
+"lvl": "A2",
+"th": "ยกเว้น; นอกจาก",
+"ex": "The shop is open every day except Monday.",
+"exTh": "ร้านเปิดทุกวันยกเว้นวันจันทร์"
+}
+],
+[
+{
+"id": "clear_adj",
+"w": "clear",
+"pos": "adj",
+"lvl": "A2",
+"th": "ชัดเจน; ใส; โล่ง",
+"ex": "The water in the lake is very clear.",
+"exTh": "น้ำในทะเลสาบใสมาก"
+},
+{
+"id": "clear_verb",
+"w": "clear",
+"pos": "verb",
+"lvl": "B1",
+"th": "เคลียร์; ทำให้โล่ง; ล้างออก",
+"ex": "Please clear the table after dinner.",
+"exTh": "กรุณาเก็บโต๊ะหลังกินข้าวเย็น"
+}
+],
+[
+{
+"id": "quality_adj",
+"w": "quality",
+"pos": "adj",
+"lvl": "B1",
+"th": "คุณภาพดี; มีคุณภาพ",
+"ex": "They sell quality products at fair prices.",
+"exTh": "พวกเขาขายสินค้าคุณภาพดีในราคายุติธรรม"
+},
+{
+"id": "quality_noun",
+"w": "quality",
+"pos": "noun",
+"lvl": "A2",
+"th": "คุณภาพ; คุณลักษณะ",
+"ex": "This shop sells good quality shoes.",
+"exTh": "ร้านนี้ขายรองเท้าคุณภาพดี"
+}
+],
+[
+{
+"id": "record_noun",
+"w": "record",
+"pos": "noun",
+"lvl": "B1",
+"th": "บันทึก; สถิติ; แผ่นเสียง",
+"ex": "He broke the world record in swimming.",
+"exTh": "เขาทำลายสถิติโลกในการว่ายน้ำ"
+},
+{
+"id": "record_verb",
+"w": "record",
+"pos": "verb",
+"lvl": "A2",
+"th": "บันทึก; อัด (เสียง/ภาพ)",
+"ex": "I recorded the song on my phone.",
+"exTh": "ฉันอัดเพลงนั้นไว้ในโทรศัพท์"
+}
+],
+[
+{
+"id": "function_noun",
+"w": "function",
+"pos": "noun",
+"lvl": "B1",
+"th": "หน้าที่; ฟังก์ชัน; งานเลี้ยงพิธีการ",
+"ex": "What is the function of this button?",
+"exTh": "ปุ่มนี้มีหน้าที่อะไร"
+},
+{
+"id": "function_verb",
+"w": "function",
+"pos": "verb",
+"lvl": "A2",
+"th": "ทำงาน; ทำหน้าที่",
+"ex": "The old machine still functions well.",
+"exTh": "เครื่องเก่านี้ยังทำงานได้ดี"
+}
+],
+[
+{
+"id": "sense_noun",
+"w": "sense",
+"pos": "noun",
+"lvl": "A2",
+"th": "สัมผัส; ความรู้สึก; สามัญสำนึก",
+"ex": "Dogs have a strong sense of smell.",
+"exTh": "สุนัขมีประสาทสัมผัสด้านกลิ่นที่ดีมาก"
+},
+{
+"id": "sense_verb",
+"w": "sense",
+"pos": "verb",
+"lvl": "B2",
+"th": "รู้สึก; สัมผัสได้; รับรู้",
+"ex": "I could sense that something was wrong.",
+"exTh": "ฉันรู้สึกได้ว่ามีบางอย่างผิดปกติ"
+}
+],
+[
+{
+"id": "complete_adj",
+"w": "complete",
+"pos": "adj",
+"lvl": "A2",
+"th": "สมบูรณ์; ครบถ้วน; เสร็จสิ้น",
+"ex": "The set is not complete yet.",
+"exTh": "ชุดนี้ยังไม่ครบ"
+},
+{
+"id": "complete_verb",
+"w": "complete",
+"pos": "verb",
+"lvl": "B1",
+"th": "ทำให้เสร็จ; ทำให้สมบูรณ์; กรอก",
+"ex": "Please complete the form and sign it.",
+"exTh": "กรุณากรอกแบบฟอร์มให้ครบและลงชื่อ"
+}
+],
+[
+{
+"id": "return_noun",
+"w": "return",
+"pos": "noun",
+"lvl": "A2",
+"th": "การกลับ; การคืน; ผลตอบแทน",
+"ex": "We look forward to your return.",
+"exTh": "เรารอคอยการกลับมาของคุณ"
+},
+{
+"id": "return_verb",
+"w": "return",
+"pos": "verb",
+"lvl": "A2",
+"th": "กลับ; คืน; ส่งคืน",
+"ex": "I will return this book to the library.",
+"exTh": "ฉันจะคืนหนังสือเล่มนี้ที่ห้องสมุด"
+}
+],
+[
+{
+"id": "direct_adj",
+"w": "direct",
+"pos": "adj",
+"lvl": "A2",
+"th": "ตรง; โดยตรง; ตรงไปตรงมา",
+"ex": "There is a direct flight to Tokyo.",
+"exTh": "มีเที่ยวบินตรงไปโตเกียว"
+},
+{
+"id": "direct_verb",
+"w": "direct",
+"pos": "verb",
+"lvl": "B1",
+"th": "กำกับ; ชี้ทาง; สั่งการ",
+"ex": "A famous artist directed the film.",
+"exTh": "ศิลปินชื่อดังเป็นผู้กำกับภาพยนตร์เรื่องนี้"
+}
+],
+[
+{
+"id": "condition_noun",
+"w": "condition",
+"pos": "noun",
+"lvl": "A2",
+"th": "สภาพ; เงื่อนไข; อาการป่วย",
+"ex": "The car is in very good condition.",
+"exTh": "รถคันนี้อยู่ในสภาพดีมาก"
+},
+{
+"id": "condition_verb",
+"w": "condition",
+"pos": "verb",
+"lvl": "C1",
+"th": "ปรับสภาพ; ฝึกให้คุ้นเคย; ทำให้ชิน",
+"ex": "Advertising conditions us to want new things.",
+"exTh": "โฆษณาทำให้เราชินกับการอยากได้ของใหม่"
+}
+],
+[
+{
+"id": "final_adj",
+"w": "final",
+"pos": "adj",
+"lvl": "A2",
+"th": "สุดท้าย; ขั้นสุดท้าย; เด็ดขาด",
+"ex": "This is the final question on the test.",
+"exTh": "นี่เป็นข้อสุดท้ายของข้อสอบ"
+},
+{
+"id": "final_noun",
+"w": "final",
+"pos": "noun",
+"lvl": "A2",
+"th": "รอบชิงชนะเลิศ; การสอบปลายภาค",
+"ex": "Our team reached the final this year.",
+"exTh": "ปีนี้ทีมของเราเข้าถึงรอบชิงชนะเลิศ"
+}
+],
+[
+{
+"id": "across_adv",
+"w": "across",
+"pos": "adv",
+"lvl": "A2",
+"th": "ข้ามไป; อีกฝั่งหนึ่ง",
+"ex": "The river is only ten meters across.",
+"exTh": "แม่น้ำกว้างแค่สิบเมตรเท่านั้น"
+},
+{
+"id": "across_prep",
+"w": "across",
+"pos": "prep",
+"lvl": "A2",
+"th": "ข้าม; ตลอด; ฝั่งตรงข้าม",
+"ex": "The bank is across the street.",
+"exTh": "ธนาคารอยู่ฝั่งตรงข้ามถนน"
+}
+],
+[
+{
+"id": "original_adj",
+"w": "original",
+"pos": "adj",
+"lvl": "A2",
+"th": "ดั้งเดิม; ต้นฉบับ; ริเริ่ม",
+"ex": "Keep the original box for returns.",
+"exTh": "เก็บกล่องเดิมไว้เผื่อต้องคืนสินค้า"
+},
+{
+"id": "original_noun",
+"w": "original",
+"pos": "noun",
+"lvl": "B2",
+"th": "ของแท้; ต้นฉบับ",
+"ex": "Keep the original and give them a copy.",
+"exTh": "เก็บต้นฉบับไว้และให้สำเนากับพวกเขา"
+}
+],
+[
+{
+"id": "notice_noun",
+"w": "notice",
+"pos": "noun",
+"lvl": "A2",
+"th": "ประกาศ; ใบแจ้ง; ความสังเกต",
+"ex": "There is a notice on the door.",
+"exTh": "มีประกาศติดอยู่ที่ประตู"
+},
+{
+"id": "notice_verb",
+"w": "notice",
+"pos": "verb",
+"lvl": "B1",
+"th": "สังเกตเห็น; ทันเห็น; รู้สึกได้",
+"ex": "Did you notice her new haircut?",
+"exTh": "คุณสังเกตเห็นทรงผมใหม่ของเธอไหม"
+}
+],
+[
+{
+"id": "base_noun",
+"w": "base",
+"pos": "noun",
+"lvl": "A2",
+"th": "ฐาน; ฐานที่ตั้ง; ส่วนล่าง",
+"ex": "The lamp has a heavy base.",
+"exTh": "โคมไฟนี้มีฐานหนัก"
+},
+{
+"id": "base_verb",
+"w": "base",
+"pos": "verb",
+"lvl": "B1",
+"th": "อาศัย (เป็นฐาน); ตั้งอยู่บน; ตั้งฐาน",
+"ex": "The movie is based on a true story.",
+"exTh": "หนังเรื่องนี้สร้างจากเรื่องจริง",
+"note": "มักใช้ be based on / based in"
+}
+],
+[
+{
+"id": "influence_noun",
+"w": "influence",
+"pos": "noun",
+"lvl": "A2",
+"th": "อิทธิพล; ผลกระทบ",
+"ex": "Parents have a strong influence on children.",
+"exTh": "พ่อแม่มีอิทธิพลต่อลูกอย่างมาก"
+},
+{
+"id": "influence_verb",
+"w": "influence",
+"pos": "verb",
+"lvl": "B2",
+"th": "มีอิทธิพลต่อ; ส่งผลต่อ; ชักจูง",
+"ex": "Social media can influence how young people think.",
+"exTh": "โซเชียลมีเดียมีอิทธิพลต่อวิธีคิดของคนรุ่นใหม่ได้"
+}
+],
+[
+{
+"id": "cross_noun",
+"w": "cross",
+"pos": "noun",
+"lvl": "A2",
+"th": "กากบาท; ไม้กางเขน",
+"ex": "Put a cross next to the wrong answer.",
+"exTh": "ทำเครื่องหมายกากบาทข้างคำตอบที่ผิด"
+},
+{
+"id": "cross_verb",
+"w": "cross",
+"pos": "verb",
+"lvl": "A2",
+"th": "ข้าม; ไขว้",
+"ex": "Look both ways before you cross the road.",
+"exTh": "มองซ้ายขวาก่อนข้ามถนน"
+}
+],
+[
+{
+"id": "lead_adj",
+"w": "lead",
+"pos": "adj",
+"lvl": "B1",
+"th": "นำ; หลัก; เป็นผู้นำ",
+"ex": "She plays the lead role in the film.",
+"exTh": "เธอรับบทนำในภาพยนตร์เรื่องนี้"
+},
+{
+"id": "lead_noun",
+"w": "lead",
+"pos": "noun",
+"lvl": "A2",
+"th": "ตัวนำ; การนำ; สายจูง",
+"ex": "Our team has the lead at half time.",
+"exTh": "ทีมเรานำอยู่ตอนพักครึ่ง",
+"note": "ออกเสียง ลีด; ต่างจาก lead (ตะกั่ว) ออกเสียง เลด"
+},
+{
+"id": "lead_verb",
+"w": "lead",
+"pos": "verb",
+"lvl": "B1",
+"th": "นำ; นำทาง; เป็นผู้นำ",
+"ex": "Please lead us to the meeting room.",
+"exTh": "ช่วยนำพวกเราไปห้องประชุมหน่อย",
+"note": "รูปผัน lead, led, led"
+}
+],
+[
+{
+"id": "wide_adj",
+"w": "wide",
+"pos": "adj",
+"lvl": "A2",
+"th": "กว้าง; กว้างขวาง",
+"ex": "The river is very wide here.",
+"exTh": "แม่น้ำตรงนี้กว้างมาก"
+},
+{
+"id": "wide_adv",
+"w": "wide",
+"pos": "adv",
+"lvl": "A2",
+"th": "กว้าง; เต็มที่",
+"ex": "She opened the window wide.",
+"exTh": "เธอเปิดหน้าต่างกว้าง"
+}
+],
+[
+{
+"id": "trust_noun",
+"w": "trust",
+"pos": "noun",
+"lvl": "B2",
+"th": "ความไว้วางใจ; ความเชื่อใจ",
+"ex": "Trust is very important in a good friendship.",
+"exTh": "ความไว้ใจเป็นสิ่งสำคัญมากในมิตรภาพที่ดี"
+},
+{
+"id": "trust_verb",
+"w": "trust",
+"pos": "verb",
+"lvl": "A2",
+"th": "ไว้ใจ; เชื่อใจ; เชื่อถือ",
+"ex": "I trust my best friend completely.",
+"exTh": "ฉันไว้ใจเพื่อนสนิทอย่างเต็มที่"
+}
+],
+[
+{
+"id": "claim_noun",
+"w": "claim",
+"pos": "noun",
+"lvl": "B1",
+"th": "ข้ออ้าง; การเรียกร้อง; ข้อกล่าวอ้าง",
+"ex": "His claim turned out to be false.",
+"exTh": "ข้อกล่าวอ้างของเขาพิสูจน์ได้ว่าเป็นเท็จ"
+},
+{
+"id": "claim_verb",
+"w": "claim",
+"pos": "verb",
+"lvl": "A2",
+"th": "อ้าง; เรียกร้อง; ยืนยัน",
+"ex": "He claims that he never saw the letter.",
+"exTh": "เขาอ้างว่าไม่เคยเห็นจดหมายฉบับนั้น"
+}
+],
+[
+{
+"id": "exchange_noun",
+"w": "exchange",
+"pos": "noun",
+"lvl": "A2",
+"th": "การแลกเปลี่ยน; การแลกเงิน",
+"ex": "Where can I get money exchange here?",
+"exTh": "ที่นี่ฉันแลกเงินได้ที่ไหน"
+},
+{
+"id": "exchange_verb",
+"w": "exchange",
+"pos": "verb",
+"lvl": "B1",
+"th": "แลกเปลี่ยน; เปลี่ยน; แลกเงิน",
+"ex": "I'd like to exchange this shirt for a bigger one.",
+"exTh": "ฉันอยากเปลี่ยนเสื้อตัวนี้เป็นตัวที่ใหญ่กว่า"
+}
+],
+[
+{
+"id": "patient_adj",
+"w": "patient",
+"pos": "adj",
+"lvl": "B1",
+"th": "อดทน; ใจเย็น",
+"ex": "The teacher is very patient with children.",
+"exTh": "ครูใจเย็นกับเด็กมาก"
+},
+{
+"id": "patient_noun",
+"w": "patient",
+"pos": "noun",
+"lvl": "A2",
+"th": "ผู้ป่วย; คนไข้",
+"ex": "The doctor is seeing a patient now.",
+"exTh": "ตอนนี้คุณหมอกำลังตรวจคนไข้อยู่"
+}
+],
+[
+{
+"id": "text_noun",
+"w": "text",
+"pos": "noun",
+"lvl": "A2",
+"th": "ข้อความ; ตัวบท; เนื้อหา",
+"ex": "Read the text and answer the questions.",
+"exTh": "อ่านข้อความแล้วตอบคำถาม"
+},
+{
+"id": "text_verb",
+"w": "text",
+"pos": "verb",
+"lvl": "A2",
+"th": "ส่งข้อความ (SMS)",
+"ex": "I will text you when I get there.",
+"exTh": "ฉันจะส่งข้อความหาคุณเมื่อไปถึง"
+}
+],
+[
+{
+"id": "latter_adj",
+"w": "latter",
+"pos": "adj",
+"lvl": "B2",
+"th": "ที่กล่าวทีหลัง; ช่วงหลัง",
+"ex": "The latter half of the movie was very exciting.",
+"exTh": "ครึ่งหลังของหนังสนุกตื่นเต้นมาก"
+},
+{
+"id": "latter_adv",
+"w": "latter",
+"pos": "adv",
+"lvl": "A2",
+"th": "หลัง; ช่วงหลัง",
+"ex": "The latter half of the film is better.",
+"exTh": "ครึ่งหลังของหนังดีกว่า",
+"note": "ค่อนข้างหายาก; ส่วนมากใช้เป็น adj/pron"
+},
+{
+"id": "latter_pron",
+"w": "latter",
+"pos": "pron",
+"lvl": "A2",
+"th": "อย่างหลัง; คนหลัง",
+"ex": "I like tea and coffee, but I prefer the latter.",
+"exTh": "ฉันชอบชาและกาแฟ แต่ชอบอย่างหลังมากกว่า",
+"note": "ตรงข้ามกับ former"
+}
+],
+[
+{
+"id": "heat_noun",
+"w": "heat",
+"pos": "noun",
+"lvl": "A2",
+"th": "ความร้อน; อากาศร้อน",
+"ex": "I can't stand the heat in April.",
+"exTh": "ฉันทนความร้อนเดือนเมษายนไม่ไหว"
+},
+{
+"id": "heat_verb",
+"w": "heat",
+"pos": "verb",
+"lvl": "B1",
+"th": "ทำให้ร้อน; อุ่น",
+"ex": "Heat the soup for two minutes.",
+"exTh": "อุ่นซุปประมาณสองนาที"
+}
+],
+[
+{
+"id": "sound_adj",
+"w": "sound",
+"pos": "adj",
+"lvl": "B2",
+"th": "สมเหตุสมผล; แข็งแรงสมบูรณ์; มั่นคง",
+"ex": "That is a sound piece of advice.",
+"exTh": "นั่นเป็นคำแนะนำที่สมเหตุสมผล"
+},
+{
+"id": "sound_noun",
+"w": "sound",
+"pos": "noun",
+"lvl": "A2",
+"th": "เสียง",
+"ex": "I heard a strange sound outside.",
+"exTh": "ฉันได้ยินเสียงแปลกๆ ข้างนอก"
+},
+{
+"id": "sound_verb",
+"w": "sound",
+"pos": "verb",
+"lvl": "A2",
+"th": "ฟังดู; ดูเหมือน; ส่งเสียง",
+"ex": "That sounds like a great idea.",
+"exTh": "ฟังดูเป็นความคิดที่ดีมาก"
+}
+],
+[
+{
+"id": "fall_noun",
+"w": "fall",
+"pos": "noun",
+"lvl": "B1",
+"th": "การล้ม; การตก; ฤดูใบไม้ร่วง (อเมริกัน)",
+"ex": "She had a bad fall on the stairs.",
+"exTh": "เธอล้มอย่างแรงบนบันได"
+},
+{
+"id": "fall_verb",
+"w": "fall",
+"pos": "verb",
+"lvl": "A2",
+"th": "ตก; ล้ม; ร่วง",
+"ex": "Leaves fall from the trees in autumn.",
+"exTh": "ใบไม้ร่วงจากต้นในฤดูใบไม้ร่วง",
+"note": "รูปผัน fell, fallen"
+}
+],
+[
+{
+"id": "contact_noun",
+"w": "contact",
+"pos": "noun",
+"lvl": "A2",
+"th": "การติดต่อ; ผู้ติดต่อ",
+"ex": "I'm still in contact with my old teacher.",
+"exTh": "ฉันยังติดต่อกับครูเก่าอยู่"
+},
+{
+"id": "contact_verb",
+"w": "contact",
+"pos": "verb",
+"lvl": "A2",
+"th": "ติดต่อ",
+"ex": "Please contact me by email.",
+"exTh": "กรุณาติดต่อฉันทางอีเมล"
+}
+],
+[
+{
+"id": "net_adj",
+"w": "net",
+"pos": "adj",
+"lvl": "A2",
+"th": "สุทธิ",
+"ex": "My net pay is lower than I expected.",
+"exTh": "เงินเดือนสุทธิของฉันต่ำกว่าที่คิด"
+},
+{
+"id": "net_noun",
+"w": "net",
+"pos": "noun",
+"lvl": "B1",
+"th": "ตาข่าย; อวน; เน็ต",
+"ex": "The ball hit the net.",
+"exTh": "ลูกบอลชนตาข่าย"
+}
+],
+[
+{
+"id": "deal_noun",
+"w": "deal",
+"pos": "noun",
+"lvl": "A2",
+"th": "ข้อตกลง; ดีล; ราคาพิเศษ",
+"ex": "We made a deal to share the cost.",
+"exTh": "เราตกลงกันว่าจะหารค่าใช้จ่าย"
+},
+{
+"id": "deal_verb",
+"w": "deal",
+"pos": "verb",
+"lvl": "B1",
+"th": "จัดการ; รับมือ; แจก (ไพ่)",
+"ex": "How do you deal with stress?",
+"exTh": "คุณรับมือกับความเครียดอย่างไร",
+"note": "มักใช้ deal with"
+}
+],
+[
+{
+"id": "principal_adj",
+"w": "principal",
+"pos": "adj",
+"lvl": "A2",
+"th": "สำคัญที่สุด; หลัก",
+"ex": "Rice is the principal food in Asia.",
+"exTh": "ข้าวเป็นอาหารหลักในเอเชีย"
+},
+{
+"id": "principal_noun",
+"w": "principal",
+"pos": "noun",
+"lvl": "B2",
+"th": "ครูใหญ่; อาจารย์ใหญ่; เงินต้น",
+"ex": "The principal gave a speech at the school ceremony.",
+"exTh": "ครูใหญ่กล่าวสุนทรพจน์ในพิธีของโรงเรียน"
+}
+],
+[
+{
+"id": "chemical_adj",
+"w": "chemical",
+"pos": "adj",
+"lvl": "A2",
+"th": "ทางเคมี; เกี่ยวกับสารเคมี",
+"ex": "The factory makes chemical products.",
+"exTh": "โรงงานนี้ผลิตผลิตภัณฑ์เคมี"
+},
+{
+"id": "chemical_noun",
+"w": "chemical",
+"pos": "noun",
+"lvl": "B1",
+"th": "สารเคมี",
+"ex": "Some cleaning chemicals are dangerous.",
+"exTh": "สารเคมีทำความสะอาดบางชนิดเป็นอันตราย"
+}
+],
+[
+{
+"id": "voice_noun",
+"w": "voice",
+"pos": "noun",
+"lvl": "A2",
+"th": "เสียง (พูด/ร้อง); ความคิดเห็น",
+"ex": "She has a soft and gentle voice.",
+"exTh": "เธอมีเสียงนุ่มนวลอ่อนโยน"
+},
+{
+"id": "voice_verb",
+"w": "voice",
+"pos": "verb",
+"lvl": "C1",
+"th": "แสดงความคิดเห็น; เปล่งเสียง",
+"ex": "Many residents voiced concern about the noise.",
+"exTh": "ชาวบ้านจำนวนมากแสดงความกังวลเรื่องเสียงรบกวน"
+}
+],
+[
+{
+"id": "deep_adj",
+"w": "deep",
+"pos": "adj",
+"lvl": "B2",
+"th": "ลึก; ลึกซึ้ง; (สี/เสียง) เข้ม",
+"ex": "The lake is very deep in the middle.",
+"exTh": "ทะเลสาบตรงกลางลึกมาก"
+},
+{
+"id": "deep_adv",
+"w": "deep",
+"pos": "adv",
+"lvl": "A2",
+"th": "ลึก; ลึกลงไป",
+"ex": "The fish swim deep in the sea.",
+"exTh": "ปลาว่ายอยู่ลึกในทะเล"
+}
+],
+[
+{
+"id": "separate_adj",
+"w": "separate",
+"pos": "adj",
+"lvl": "A2",
+"th": "แยกกัน; ต่างหาก",
+"ex": "We asked for separate bills.",
+"exTh": "เราขอแยกบิลกัน"
+},
+{
+"id": "separate_verb",
+"w": "separate",
+"pos": "verb",
+"lvl": "B2",
+"th": "แยก; แยกออกจากกัน; แยกทาง",
+"ex": "Please separate the plastic from the paper.",
+"exTh": "กรุณาแยกพลาสติกออกจากกระดาษ",
+"note": "เป็นกริยาออกเสียงท้ายเป็น เอท (ˈsepəreɪt) ต่างจากคุณศัพท์"
+}
+],
+[
+{
+"id": "professional_adj",
+"w": "professional",
+"pos": "adj",
+"lvl": "A2",
+"th": "เป็นมืออาชีพ; ตามอาชีพ",
+"ex": "She gave us professional advice.",
+"exTh": "เธอให้คำแนะนำแบบมืออาชีพกับเรา"
+},
+{
+"id": "professional_noun",
+"w": "professional",
+"pos": "noun",
+"lvl": "B2",
+"th": "มืออาชีพ; ผู้เชี่ยวชาญ",
+"ex": "You should ask a professional to fix the wiring.",
+"exTh": "คุณควรให้ช่างมืออาชีพมาซ่อมระบบสายไฟ"
+}
+],
+[
+{
+"id": "request_noun",
+"w": "request",
+"pos": "noun",
+"lvl": "A2",
+"th": "คำขอ; การร้องขอ",
+"ex": "He made a request for a day off.",
+"exTh": "เขายื่นคำขอลาหยุดหนึ่งวัน"
+},
+{
+"id": "request_verb",
+"w": "request",
+"pos": "verb",
+"lvl": "B1",
+"th": "ขอ; ร้องขอ; ขอร้อง",
+"ex": "I requested a window seat on the plane.",
+"exTh": "ฉันขอที่นั่งริมหน้าต่างบนเครื่องบิน"
+}
+],
+[
+{
+"id": "official_adj",
+"w": "official",
+"pos": "adj",
+"lvl": "A2",
+"th": "เป็นทางการ; อย่างเป็นทางการ",
+"ex": "This is the official website of the city.",
+"exTh": "นี่คือเว็บไซต์ทางการของเมือง"
+},
+{
+"id": "official_noun",
+"w": "official",
+"pos": "noun",
+"lvl": "B2",
+"th": "เจ้าหน้าที่; ข้าราชการ",
+"ex": "An official checked our passports at the border.",
+"exTh": "เจ้าหน้าที่ตรวจหนังสือเดินทางของเราที่ชายแดน"
+}
+]
+]

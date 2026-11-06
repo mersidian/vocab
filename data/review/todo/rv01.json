@@ -1,0 +1,1497 @@
+[
+[
+{
+"id": "to_particle",
+"w": "to",
+"pos": "particle",
+"lvl": "A1",
+"th": "(ใช้นำหน้ากริยาแท้) ไม่แปล; เพื่อที่จะ",
+"ex": "I want to eat now.",
+"exTh": "ตอนนี้ฉันอยากกินข้าว"
+},
+{
+"id": "to_prep",
+"w": "to",
+"pos": "prep",
+"lvl": "A1",
+"th": "ไปยัง; ถึง; ต่อ",
+"ex": "We go to school every day.",
+"exTh": "เราไปโรงเรียนทุกวัน"
+}
+],
+[
+{
+"id": "in_adv",
+"w": "in",
+"pos": "adv",
+"lvl": "A2",
+"th": "เข้าไป; ข้างใน; อยู่บ้าน",
+"ex": "Please come in and sit down.",
+"exTh": "เชิญเข้ามานั่งก่อนครับ"
+},
+{
+"id": "in_prep",
+"w": "in",
+"pos": "prep",
+"lvl": "A1",
+"th": "ใน; ที่; ในช่วง",
+"ex": "My phone is in my bag.",
+"exTh": "โทรศัพท์ของฉันอยู่ในกระเป๋า"
+}
+],
+[
+{
+"id": "that_adv",
+"w": "that",
+"pos": "adv",
+"lvl": "B2",
+"th": "ขนาดนั้น; มากขนาดนั้น",
+"ex": "I didn't think it would be that hard.",
+"exTh": "ฉันไม่คิดว่ามันจะยากขนาดนั้น"
+},
+{
+"id": "that_conj",
+"w": "that",
+"pos": "conj",
+"lvl": "A1",
+"th": "ว่า; ที่",
+"ex": "I think that he is right.",
+"exTh": "ฉันคิดว่าเขาพูดถูก"
+},
+{
+"id": "that_det",
+"w": "that",
+"pos": "det",
+"lvl": "A1",
+"th": "นั้น; โน้น",
+"ex": "That house is very big.",
+"exTh": "บ้านหลังนั้นใหญ่มาก"
+},
+{
+"id": "that_pron",
+"w": "that",
+"pos": "pron",
+"lvl": "A1",
+"th": "นั่น; นั้น; สิ่งนั้น",
+"ex": "That is my teacher.",
+"exTh": "นั่นคือครูของฉัน"
+}
+],
+[
+{
+"id": "for_conj",
+"w": "for",
+"pos": "conj",
+"lvl": "A2",
+"th": "เพราะ; เนื่องจาก",
+"ex": "She stayed home, for she felt sick.",
+"exTh": "เธออยู่บ้านเพราะรู้สึกไม่สบาย",
+"note": "ค่อนข้างเป็นทางการหรือแบบวรรณกรรม"
+},
+{
+"id": "for_prep",
+"w": "for",
+"pos": "prep",
+"lvl": "A1",
+"th": "เพื่อ; สำหรับ; เป็นเวลา",
+"ex": "This gift is for you.",
+"exTh": "ของขวัญนี้สำหรับคุณ"
+}
+],
+[
+{
+"id": "as_conj",
+"w": "as",
+"pos": "conj",
+"lvl": "A2",
+"th": "ขณะที่; เมื่อ; เพราะ",
+"ex": "I saw him as I was leaving.",
+"exTh": "ฉันเห็นเขาตอนที่กำลังจะออกไป"
+},
+{
+"id": "as_prep",
+"w": "as",
+"pos": "prep",
+"lvl": "A1",
+"th": "ในฐานะ; เป็น",
+"ex": "She works as a nurse.",
+"exTh": "เธอทำงานเป็นพยาบาล"
+}
+],
+[
+{
+"id": "it_noun",
+"w": "IT",
+"pos": "noun",
+"lvl": "A2",
+"th": "ผู้ที่ถูกไล่จับ (ในเกม); เสน่ห์",
+"ex": "In this game, you are it now.",
+"exTh": "ในเกมนี้ ตอนนี้คุณเป็นคนไล่จับ",
+"note": "ความหมายเฉพาะ ใช้น้อย"
+},
+{
+"id": "it_pron",
+"w": "it",
+"pos": "pron",
+"lvl": "A1",
+"th": "มัน; สิ่งนั้น; (ประธานทั่วไป) ไม่แปล",
+"ex": "I have a dog. It is very small.",
+"exTh": "ฉันมีสุนัขตัวหนึ่ง มันตัวเล็กมาก"
+}
+],
+[
+{
+"id": "on_adv",
+"w": "on",
+"pos": "adv",
+"lvl": "A2",
+"th": "ต่อไป; ติดอยู่; เปิดอยู่",
+"ex": "Keep on walking, we are almost there.",
+"exTh": "เดินต่อไปเรื่อยๆ ใกล้ถึงแล้ว"
+},
+{
+"id": "on_prep",
+"w": "on",
+"pos": "prep",
+"lvl": "A1",
+"th": "บน; ที่; ในวัน",
+"ex": "The cup is on the table.",
+"exTh": "ถ้วยอยู่บนโต๊ะ"
+}
+],
+[
+{
+"id": "this_det",
+"w": "this",
+"pos": "det",
+"lvl": "A1",
+"th": "นี้; นี่",
+"ex": "This bag is new.",
+"exTh": "กระเป๋าใบนี้ใหม่"
+},
+{
+"id": "this_pron",
+"w": "this",
+"pos": "pron",
+"lvl": "A1",
+"th": "นี่; สิ่งนี้",
+"ex": "This is my friend.",
+"exTh": "นี่คือเพื่อนของฉัน"
+}
+],
+[
+{
+"id": "which_det",
+"w": "which",
+"pos": "det",
+"lvl": "A1",
+"th": "ไหน; อันไหน",
+"ex": "Which color do you like?",
+"exTh": "คุณชอบสีไหน"
+},
+{
+"id": "which_pron",
+"w": "which",
+"pos": "pron",
+"lvl": "A1",
+"th": "อันไหน; ซึ่ง; ที่",
+"ex": "Which is your bag?",
+"exTh": "อันไหนคือกระเป๋าของคุณ"
+}
+],
+[
+{
+"id": "his_det",
+"w": "his",
+"pos": "det",
+"lvl": "A1",
+"th": "ของเขา",
+"ex": "His car is very old.",
+"exTh": "รถของเขาเก่ามาก"
+},
+{
+"id": "his_pron",
+"w": "his",
+"pos": "pron",
+"lvl": "A1",
+"th": "ของเขา",
+"ex": "This pen is his.",
+"exTh": "ปากกาด้ามนี้เป็นของเขา"
+}
+],
+[
+{
+"id": "but_conj",
+"w": "but",
+"pos": "conj",
+"lvl": "A1",
+"th": "แต่; แต่ว่า",
+"ex": "I like tea, but I don't like coffee.",
+"exTh": "ฉันชอบชา แต่ไม่ชอบกาแฟ"
+},
+{
+"id": "but_prep",
+"w": "but",
+"pos": "prep",
+"lvl": "B1",
+"th": "ยกเว้น; นอกจาก",
+"ex": "Everyone but Tom came to the meeting.",
+"exTh": "ทุกคนมาประชุมยกเว้นทอม",
+"note": "ใช้หลัง all, everyone, nobody, anything เป็นต้น"
+}
+],
+[
+{
+"id": "all_adv",
+"w": "all",
+"pos": "adv",
+"lvl": "A2",
+"th": "ทั้งหมด; ล้วน; สิ้นเชิง",
+"ex": "The kitchen was all clean this morning.",
+"exTh": "เช้านี้ห้องครัวสะอาดทั้งห้อง"
+},
+{
+"id": "all_det",
+"w": "all",
+"pos": "det",
+"lvl": "A1",
+"th": "ทั้งหมด; ทุก",
+"ex": "All the students are here.",
+"exTh": "นักเรียนทุกคนอยู่ที่นี่"
+},
+{
+"id": "all_pron",
+"w": "all",
+"pos": "pron",
+"lvl": "A1",
+"th": "ทั้งหมด; ทุกคน; ทุกอย่าง",
+"ex": "We all like the movie.",
+"exTh": "พวกเราทุกคนชอบหนังเรื่องนี้"
+}
+],
+[
+{
+"id": "one_det",
+"w": "one",
+"pos": "det",
+"lvl": "A1",
+"th": "หนึ่ง; คนหนึ่ง; อันหนึ่ง",
+"ex": "I have one brother.",
+"exTh": "ฉันมีพี่ชายหนึ่งคน"
+},
+{
+"id": "one_num",
+"w": "one",
+"pos": "num",
+"lvl": "A1",
+"th": "หนึ่ง; เลขหนึ่ง",
+"ex": "I need one more minute.",
+"exTh": "ฉันขออีกหนึ่งนาที"
+},
+{
+"id": "one_pron",
+"w": "one",
+"pos": "pron",
+"lvl": "A2",
+"th": "คนหนึ่ง; อันหนึ่ง; ผู้ที่",
+"ex": "I lost my pen, so I need a new one.",
+"exTh": "ฉันทำปากกาหาย เลยต้องใช้อันใหม่"
+}
+],
+[
+{
+"id": "will_modal",
+"w": "will",
+"pos": "modal",
+"lvl": "A1",
+"th": "จะ; คงจะ",
+"ex": "I will call you tomorrow.",
+"exTh": "พรุ่งนี้ฉันจะโทรหาคุณ"
+},
+{
+"id": "will_noun",
+"w": "will",
+"pos": "noun",
+"lvl": "B2",
+"th": "ความตั้งใจ; เจตจำนง; พินัยกรรม",
+"ex": "She has a strong will to succeed.",
+"exTh": "เธอมีความตั้งใจแน่วแน่ที่จะประสบความสำเร็จ"
+}
+],
+[
+{
+"id": "can_modal",
+"w": "can",
+"pos": "modal",
+"lvl": "A1",
+"th": "สามารถ; ได้; ขอ (อนุญาต)",
+"ex": "I can swim very well.",
+"exTh": "ฉันว่ายน้ำเก่งมาก"
+},
+{
+"id": "can_noun",
+"w": "can",
+"pos": "noun",
+"lvl": "A2",
+"th": "กระป๋อง; ถัง",
+"ex": "Please put the empty can in the bin.",
+"exTh": "กรุณาทิ้งกระป๋องเปล่าลงในถังขยะ"
+}
+],
+[
+{
+"id": "other_det",
+"w": "other",
+"pos": "det",
+"lvl": "A1",
+"th": "อื่น; อีก",
+"ex": "I have no other plans today.",
+"exTh": "วันนี้ฉันไม่มีแผนอื่นแล้ว"
+},
+{
+"id": "other_pron",
+"w": "other",
+"pos": "pron",
+"lvl": "A2",
+"th": "อีกอัน; อีกคน; สิ่งอื่น",
+"ex": "One shoe is here, but where is the other?",
+"exTh": "รองเท้าข้างหนึ่งอยู่นี่ แล้วอีกข้างอยู่ไหน"
+}
+],
+[
+{
+"id": "her_det",
+"w": "her",
+"pos": "det",
+"lvl": "A1",
+"th": "ของเธอ",
+"ex": "Her bag is on the chair.",
+"exTh": "กระเป๋าของเธออยู่บนเก้าอี้"
+},
+{
+"id": "her_pron",
+"w": "her",
+"pos": "pron",
+"lvl": "A1",
+"th": "เธอ (กรรม); ผู้หญิงคนนั้น",
+"ex": "I know her very well.",
+"exTh": "ฉันรู้จักเธอดีมาก"
+}
+],
+[
+{
+"id": "more_adv",
+"w": "more",
+"pos": "adv",
+"lvl": "B1",
+"th": "มากกว่า; อีก; ยิ่งขึ้น",
+"ex": "You should exercise more often.",
+"exTh": "คุณควรออกกำลังกายให้บ่อยขึ้น"
+},
+{
+"id": "more_det",
+"w": "more",
+"pos": "det",
+"lvl": "A1",
+"th": "มากกว่า; เพิ่มอีก",
+"ex": "I need more time.",
+"exTh": "ฉันต้องการเวลาเพิ่มอีก"
+},
+{
+"id": "more_pron",
+"w": "more",
+"pos": "pron",
+"lvl": "A1",
+"th": "มากกว่า; เพิ่มอีก",
+"ex": "Would you like some more?",
+"exTh": "คุณอยากได้เพิ่มอีกไหม"
+}
+],
+[
+{
+"id": "may_modal",
+"w": "may",
+"pos": "modal",
+"lvl": "A1",
+"th": "อาจจะ; ขออนุญาต",
+"ex": "It may rain this afternoon.",
+"exTh": "บ่ายนี้ฝนอาจจะตก"
+},
+{
+"id": "may_noun",
+"w": "May",
+"pos": "noun",
+"lvl": "A1",
+"th": "เดือนพฤษภาคม",
+"ex": "My birthday is in May.",
+"exTh": "วันเกิดของฉันอยู่ในเดือนพฤษภาคม"
+}
+],
+[
+{
+"id": "when_adv",
+"w": "when",
+"pos": "adv",
+"lvl": "A1",
+"th": "เมื่อไร; ตอนไหน",
+"ex": "When do you go home?",
+"exTh": "คุณกลับบ้านตอนไหน"
+},
+{
+"id": "when_conj",
+"w": "when",
+"pos": "conj",
+"lvl": "A1",
+"th": "เมื่อ; ตอนที่",
+"ex": "I was happy when I saw her.",
+"exTh": "ฉันดีใจตอนที่เห็นเธอ"
+}
+],
+[
+{
+"id": "its_det",
+"w": "its",
+"pos": "det",
+"lvl": "A1",
+"th": "ของมัน",
+"ex": "The cat is washing its face.",
+"exTh": "แมวกำลังล้างหน้าของมัน"
+},
+{
+"id": "its_pron",
+"w": "its",
+"pos": "pron",
+"lvl": "A1",
+"th": "ของมัน",
+"ex": "The dog is happy, and the bone is its.",
+"exTh": "สุนัขดีใจ และกระดูกนั้นเป็นของมัน",
+"note": "ใช้น้อยมาก ส่วนใหญ่ใช้ its เป็น det"
+}
+],
+[
+{
+"id": "no_adv",
+"w": "no",
+"pos": "adv",
+"lvl": "A1",
+"th": "ไม่; ไม่ใช่",
+"ex": "No, I am not ready yet.",
+"exTh": "ไม่ ฉันยังไม่พร้อม"
+},
+{
+"id": "no_det",
+"w": "no",
+"pos": "det",
+"lvl": "A1",
+"th": "ไม่มี; ไม่มีเลย",
+"ex": "I have no money today.",
+"exTh": "วันนี้ฉันไม่มีเงินเลย"
+}
+],
+[
+{
+"id": "these_det",
+"w": "these",
+"pos": "det",
+"lvl": "A1",
+"th": "เหล่านี้; พวกนี้",
+"ex": "These shoes are too small.",
+"exTh": "รองเท้าคู่นี้เล็กเกินไป"
+},
+{
+"id": "these_pron",
+"w": "these",
+"pos": "pron",
+"lvl": "A1",
+"th": "เหล่านี้; พวกนี้",
+"ex": "These are my keys.",
+"exTh": "นี่คือกุญแจของฉัน"
+}
+],
+[
+{
+"id": "so_adv",
+"w": "so",
+"pos": "adv",
+"lvl": "A2",
+"th": "มาก; ขนาดนั้น; ดังนั้น",
+"ex": "I am so tired after work today.",
+"exTh": "วันนี้หลังเลิกงานฉันเหนื่อยมาก"
+},
+{
+"id": "so_conj",
+"w": "so",
+"pos": "conj",
+"lvl": "A1",
+"th": "ดังนั้น; เพราะฉะนั้น",
+"ex": "It was late, so we went home.",
+"exTh": "ดึกแล้ว เราจึงกลับบ้านกัน"
+}
+],
+[
+{
+"id": "time_noun",
+"w": "time",
+"pos": "noun",
+"lvl": "A1",
+"th": "เวลา; ครั้ง; ช่วงเวลา",
+"ex": "What time is it now?",
+"exTh": "ตอนนี้กี่โมงแล้ว"
+},
+{
+"id": "time_verb",
+"w": "time",
+"pos": "verb",
+"lvl": "B2",
+"th": "จับเวลา; กำหนดเวลา",
+"ex": "The coach will time each runner.",
+"exTh": "โค้ชจะจับเวลานักวิ่งแต่ละคน"
+}
+],
+[
+{
+"id": "than_conj",
+"w": "than",
+"pos": "conj",
+"lvl": "A1",
+"th": "กว่า; มากกว่า",
+"ex": "She is taller than I am.",
+"exTh": "เธอสูงกว่าฉัน"
+},
+{
+"id": "than_prep",
+"w": "than",
+"pos": "prep",
+"lvl": "A1",
+"th": "กว่า",
+"ex": "My brother is older than me.",
+"exTh": "พี่ชายของฉันอายุมากกว่าฉัน"
+}
+],
+[
+{
+"id": "any_det",
+"w": "any",
+"pos": "det",
+"lvl": "A1",
+"th": "ใดๆ; บ้าง; เลย",
+"ex": "Do you have any questions?",
+"exTh": "คุณมีคำถามอะไรบ้างไหม"
+},
+{
+"id": "any_pron",
+"w": "any",
+"pos": "pron",
+"lvl": "A1",
+"th": "ใดๆ; บ้าง; อันไหนก็ได้",
+"ex": "I need milk, but there isn't any.",
+"exTh": "ฉันต้องการนม แต่ไม่มีเลย"
+}
+],
+[
+{
+"id": "what_det",
+"w": "what",
+"pos": "det",
+"lvl": "A1",
+"th": "อะไร; อะไรบ้าง",
+"ex": "What color is your car?",
+"exTh": "รถของคุณสีอะไร"
+},
+{
+"id": "what_pron",
+"w": "what",
+"pos": "pron",
+"lvl": "A1",
+"th": "อะไร; สิ่งที่",
+"ex": "What do you want to eat?",
+"exTh": "คุณอยากกินอะไร"
+}
+],
+[
+{
+"id": "some_det",
+"w": "some",
+"pos": "det",
+"lvl": "A1",
+"th": "บ้าง; บางส่วน; สักหน่อย",
+"ex": "I want some water.",
+"exTh": "ฉันอยากได้น้ำสักหน่อย"
+},
+{
+"id": "some_pron",
+"w": "some",
+"pos": "pron",
+"lvl": "A1",
+"th": "บางส่วน; บางคน; บางอัน",
+"ex": "I like these cakes. Please take some.",
+"exTh": "ฉันชอบเค้กพวกนี้ เชิญหยิบไปบ้างนะ"
+}
+],
+[
+{
+"id": "about_adv",
+"w": "about",
+"pos": "adv",
+"lvl": "A1",
+"th": "ประมาณ; ราวๆ",
+"ex": "It costs about ten dollars.",
+"exTh": "ราคาประมาณสิบดอลลาร์"
+},
+{
+"id": "about_prep",
+"w": "about",
+"pos": "prep",
+"lvl": "A1",
+"th": "เกี่ยวกับ; เรื่อง",
+"ex": "This book is about animals.",
+"exTh": "หนังสือเล่มนี้เกี่ยวกับสัตว์"
+}
+],
+[
+{
+"id": "only_adj",
+"w": "only",
+"pos": "adj",
+"lvl": "A1",
+"th": "เดียว; เพียงอย่างเดียว",
+"ex": "She is the only child in the family.",
+"exTh": "เธอเป็นลูกคนเดียวของครอบครัว"
+},
+{
+"id": "only_adv",
+"w": "only",
+"pos": "adv",
+"lvl": "A1",
+"th": "เท่านั้น; เพียง",
+"ex": "I only have five dollars.",
+"exTh": "ฉันมีเงินแค่ห้าดอลลาร์เท่านั้น"
+}
+],
+[
+{
+"id": "up_adv",
+"w": "up",
+"pos": "adv",
+"lvl": "A2",
+"th": "ขึ้น; ขึ้นไป; ตื่น",
+"ex": "He looked up at the bright moon.",
+"exTh": "เขาเงยหน้ามองดวงจันทร์ที่สว่าง"
+},
+{
+"id": "up_prep",
+"w": "up",
+"pos": "prep",
+"lvl": "A1",
+"th": "ขึ้น; ขึ้นไปบน",
+"ex": "They walked up the hill.",
+"exTh": "พวกเขาเดินขึ้นเนิน"
+}
+],
+[
+{
+"id": "first_adj",
+"w": "first",
+"pos": "adj",
+"lvl": "A1",
+"th": "แรก; ที่หนึ่ง; อันดับแรก",
+"ex": "This is my first day at work.",
+"exTh": "วันนี้เป็นวันแรกที่ฉันทำงาน"
+},
+{
+"id": "first_adv",
+"w": "first",
+"pos": "adv",
+"lvl": "A1",
+"th": "ก่อน; ก่อนอื่น; เป็นครั้งแรก",
+"ex": "First, wash your hands.",
+"exTh": "ก่อนอื่นให้ล้างมือก่อน"
+}
+],
+[
+{
+"id": "after_adv",
+"w": "after",
+"pos": "adv",
+"lvl": "A2",
+"th": "ภายหลัง; ต่อมา",
+"ex": "We ate lunch and went home soon after.",
+"exTh": "เรากินข้าวกลางวันและกลับบ้านหลังจากนั้นไม่นาน"
+},
+{
+"id": "after_conj",
+"w": "after",
+"pos": "conj",
+"lvl": "B1",
+"th": "หลังจากที่; เมื่อ...แล้ว",
+"ex": "After she finished work, she went home.",
+"exTh": "หลังจากเธอเลิกงาน เธอก็กลับบ้าน"
+},
+{
+"id": "after_prep",
+"w": "after",
+"pos": "prep",
+"lvl": "A1",
+"th": "หลัง; หลังจาก",
+"ex": "We eat dinner after work.",
+"exTh": "เรากินข้าวเย็นหลังเลิกงาน"
+}
+],
+[
+{
+"id": "over_adv",
+"w": "over",
+"pos": "adv",
+"lvl": "A2",
+"th": "ข้ามไป; จบแล้ว; ซ้ำอีกครั้ง",
+"ex": "Come over to my house this weekend.",
+"exTh": "สุดสัปดาห์นี้แวะมาที่บ้านฉันนะ"
+},
+{
+"id": "over_prep",
+"w": "over",
+"pos": "prep",
+"lvl": "A1",
+"th": "เหนือ; ข้าม; มากกว่า",
+"ex": "The bird flew over the house.",
+"exTh": "นกบินข้ามบ้านไป"
+}
+],
+[
+{
+"id": "most_adv",
+"w": "most",
+"pos": "adv",
+"lvl": "A2",
+"th": "มากที่สุด; ที่สุด",
+"ex": "She is the most helpful person here.",
+"exTh": "เธอเป็นคนที่ช่วยเหลือผู้อื่นมากที่สุดที่นี่",
+"note": "ใช้สร้างขั้นสูงสุด เช่น most beautiful"
+},
+{
+"id": "most_det",
+"w": "most",
+"pos": "det",
+"lvl": "A1",
+"th": "ส่วนใหญ่; มากที่สุด",
+"ex": "Most people like music.",
+"exTh": "คนส่วนใหญ่ชอบฟังเพลง"
+},
+{
+"id": "most_pron",
+"w": "most",
+"pos": "pron",
+"lvl": "A2",
+"th": "ส่วนใหญ่; คนส่วนใหญ่",
+"ex": "Most of my friends live in Bangkok.",
+"exTh": "เพื่อนส่วนใหญ่ของฉันอาศัยอยู่ในกรุงเทพฯ"
+}
+],
+[
+{
+"id": "work_noun",
+"w": "work",
+"pos": "noun",
+"lvl": "A1",
+"th": "งาน; ที่ทำงาน; ผลงาน",
+"ex": "I have a lot of work today.",
+"exTh": "วันนี้ฉันมีงานเยอะมาก"
+},
+{
+"id": "work_verb",
+"w": "work",
+"pos": "verb",
+"lvl": "A1",
+"th": "ทำงาน; ใช้งานได้; ได้ผล",
+"ex": "My father works in a bank.",
+"exTh": "พ่อของฉันทำงานที่ธนาคาร"
+}
+],
+[
+{
+"id": "where_adv",
+"w": "where",
+"pos": "adv",
+"lvl": "A1",
+"th": "ที่ไหน; ตรงไหน",
+"ex": "Where do you live?",
+"exTh": "คุณอาศัยอยู่ที่ไหน"
+},
+{
+"id": "where_conj",
+"w": "where",
+"pos": "conj",
+"lvl": "A1",
+"th": "ที่ซึ่ง; ตรงที่",
+"ex": "This is the town where I was born.",
+"exTh": "นี่คือเมืองที่ฉันเกิด"
+}
+],
+[
+{
+"id": "each_det",
+"w": "each",
+"pos": "det",
+"lvl": "A1",
+"th": "แต่ละ; ทุกๆ",
+"ex": "Each student has a book.",
+"exTh": "นักเรียนแต่ละคนมีหนังสือหนึ่งเล่ม"
+},
+{
+"id": "each_pron",
+"w": "each",
+"pos": "pron",
+"lvl": "A1",
+"th": "แต่ละคน; แต่ละอัน",
+"ex": "The apples cost two dollars each.",
+"exTh": "แอปเปิลราคาลูกละสองดอลลาร์"
+}
+],
+[
+{
+"id": "very_adj",
+"w": "very",
+"pos": "adj",
+"lvl": "B2",
+"th": "แท้จริง; ตัวจริง; ตรงนั้นพอดี",
+"ex": "This is the very place where we first met.",
+"exTh": "นี่คือสถานที่นั้นเลยที่เราเจอกันครั้งแรก",
+"note": "ใช้เน้นคำนาม มักมี the นำหน้า"
+},
+{
+"id": "very_adv",
+"w": "very",
+"pos": "adv",
+"lvl": "A1",
+"th": "มาก; อย่างยิ่ง",
+"ex": "The soup is very hot.",
+"exTh": "ซุปร้อนมาก"
+}
+],
+[
+{
+"id": "through_adv",
+"w": "through",
+"pos": "adv",
+"lvl": "B1",
+"th": "ตลอด; ผ่านไป; จนจบ",
+"ex": "The train went through without stopping.",
+"exTh": "รถไฟวิ่งผ่านไปโดยไม่หยุด"
+},
+{
+"id": "through_prep",
+"w": "through",
+"pos": "prep",
+"lvl": "A1",
+"th": "ผ่าน; ทะลุ; ตลอด",
+"ex": "The train goes through a long tunnel.",
+"exTh": "รถไฟวิ่งผ่านอุโมงค์ยาว"
+}
+],
+[
+{
+"id": "now_adv",
+"w": "now",
+"pos": "adv",
+"lvl": "A1",
+"th": "ตอนนี้; ขณะนี้; เดี๋ยวนี้",
+"ex": "I am busy now.",
+"exTh": "ตอนนี้ฉันยุ่งอยู่"
+},
+{
+"id": "now_conj",
+"w": "now",
+"pos": "conj",
+"lvl": "B2",
+"th": "เมื่อ...แล้ว; ในเมื่อ",
+"ex": "Now that you are here, we can start.",
+"exTh": "ในเมื่อคุณมาแล้ว เราก็เริ่มได้",
+"note": "มักใช้ now that"
+}
+],
+[
+{
+"id": "use_noun",
+"w": "use",
+"pos": "noun",
+"lvl": "A2",
+"th": "การใช้; ประโยชน์",
+"ex": "This old phone is of no use now.",
+"exTh": "โทรศัพท์เครื่องเก่านี้ไม่มีประโยชน์แล้ว",
+"note": "ออกเสียง ยูส (noun) ต่างจาก ยูซ (verb)"
+},
+{
+"id": "use_verb",
+"w": "use",
+"pos": "verb",
+"lvl": "A1",
+"th": "ใช้; ใช้งาน",
+"ex": "I use my phone every day.",
+"exTh": "ฉันใช้โทรศัพท์ทุกวัน"
+}
+],
+[
+{
+"id": "those_det",
+"w": "those",
+"pos": "det",
+"lvl": "A1",
+"th": "เหล่านั้น; พวกนั้น",
+"ex": "Those shoes are too big for me.",
+"exTh": "รองเท้าคู่นั้นใหญ่เกินไปสำหรับฉัน"
+},
+{
+"id": "those_pron",
+"w": "those",
+"pos": "pron",
+"lvl": "A1",
+"th": "พวกนั้น; สิ่งเหล่านั้น",
+"ex": "Those are my friends over there.",
+"exTh": "พวกนั้นคือเพื่อนของฉันที่อยู่ตรงนั้น"
+}
+],
+[
+{
+"id": "many_det",
+"w": "many",
+"pos": "det",
+"lvl": "A1",
+"th": "หลาย; มากมาย",
+"ex": "There are many books in the room.",
+"exTh": "ในห้องมีหนังสือหลายเล่ม"
+},
+{
+"id": "many_pron",
+"w": "many",
+"pos": "pron",
+"lvl": "A1",
+"th": "หลายคน; หลายอย่าง",
+"ex": "Many of my friends play football.",
+"exTh": "เพื่อนของฉันหลายคนเล่นฟุตบอล"
+}
+],
+[
+{
+"id": "like_conj",
+"w": "like",
+"pos": "conj",
+"lvl": "B1",
+"th": "เหมือนกับที่; ราวกับว่า",
+"ex": "He talks like he knows everything.",
+"exTh": "เขาพูดราวกับว่ารู้ไปหมดทุกเรื่อง",
+"note": "ภาษาพูด ทางการนิยมใช้ as หรือ as if"
+},
+{
+"id": "like_prep",
+"w": "like",
+"pos": "prep",
+"lvl": "A1",
+"th": "เหมือน; คล้าย",
+"ex": "He runs like the wind.",
+"exTh": "เขาวิ่งเร็วเหมือนลม"
+},
+{
+"id": "like_verb",
+"w": "like",
+"pos": "verb",
+"lvl": "A1",
+"th": "ชอบ; ชื่นชอบ",
+"ex": "I like fresh fruit.",
+"exTh": "ฉันชอบผลไม้สด"
+}
+],
+[
+{
+"id": "well_adj",
+"w": "well",
+"pos": "adj",
+"lvl": "A1",
+"th": "สบายดี; แข็งแรง",
+"ex": "I don't feel well today.",
+"exTh": "วันนี้ฉันรู้สึกไม่ค่อยสบาย",
+"note": "ใช้เป็นคำคุณศัพท์เฉพาะหลัง be/feel เกี่ยวกับสุขภาพ"
+},
+{
+"id": "well_adv",
+"w": "well",
+"pos": "adv",
+"lvl": "A1",
+"th": "ดี; เก่ง; อย่างดี",
+"ex": "She sings very well.",
+"exTh": "เธอร้องเพลงเก่งมาก"
+}
+],
+[
+{
+"id": "same_adj",
+"w": "same",
+"pos": "adj",
+"lvl": "A1",
+"th": "เหมือนกัน; เดียวกัน",
+"ex": "We study in the same class.",
+"exTh": "เราเรียนอยู่ห้องเดียวกัน"
+},
+{
+"id": "same_adv",
+"w": "same",
+"pos": "adv",
+"lvl": "A1",
+"th": "เหมือนกัน; เช่นเดียวกัน",
+"ex": "The twins dress the same.",
+"exTh": "ฝาแฝดแต่งตัวเหมือนกัน"
+},
+{
+"id": "same_pron",
+"w": "same",
+"pos": "pron",
+"lvl": "A1",
+"th": "สิ่งเดียวกัน; เหมือนเดิม",
+"ex": "I'll have the same, please.",
+"exTh": "ขอเหมือนกันเลยค่ะ"
+}
+],
+[
+{
+"id": "before_adv",
+"w": "before",
+"pos": "adv",
+"lvl": "A1",
+"th": "ก่อน; มาก่อน",
+"ex": "I have seen this film before.",
+"exTh": "ฉันเคยดูหนังเรื่องนี้มาก่อน"
+},
+{
+"id": "before_conj",
+"w": "before",
+"pos": "conj",
+"lvl": "A2",
+"th": "ก่อนที่; ก่อน",
+"ex": "Wash your hands before you eat.",
+"exTh": "ล้างมือก่อนกินข้าว"
+},
+{
+"id": "before_prep",
+"w": "before",
+"pos": "prep",
+"lvl": "A1",
+"th": "ก่อน; ก่อนหน้า",
+"ex": "Wash your hands before lunch.",
+"exTh": "ล้างมือก่อนกินข้าวกลางวัน"
+}
+],
+[
+{
+"id": "both_adv",
+"w": "both",
+"pos": "adv",
+"lvl": "A1",
+"th": "ทั้ง...และ...",
+"ex": "She speaks both English and Thai.",
+"exTh": "เธอพูดได้ทั้งภาษาอังกฤษและภาษาไทย"
+},
+{
+"id": "both_det",
+"w": "both",
+"pos": "det",
+"lvl": "A1",
+"th": "ทั้งสอง",
+"ex": "Both my parents are teachers.",
+"exTh": "พ่อแม่ของฉันทั้งสองคนเป็นครู"
+},
+{
+"id": "both_pron",
+"w": "both",
+"pos": "pron",
+"lvl": "A1",
+"th": "ทั้งสองคน; ทั้งคู่",
+"ex": "I like both of them.",
+"exTh": "ฉันชอบทั้งสองอัน"
+}
+],
+[
+{
+"id": "much_adv",
+"w": "much",
+"pos": "adv",
+"lvl": "A1",
+"th": "มาก; มากมาย",
+"ex": "I don't like coffee very much.",
+"exTh": "ฉันไม่ค่อยชอบกาแฟเท่าไหร่"
+},
+{
+"id": "much_det",
+"w": "much",
+"pos": "det",
+"lvl": "A1",
+"th": "มาก; เยอะ",
+"ex": "We don't have much time.",
+"exTh": "เรามีเวลาไม่มาก",
+"note": "ใช้กับนามนับไม่ได้ ส่วนมากใช้ในประโยคปฏิเสธและคำถาม"
+},
+{
+"id": "much_pron",
+"w": "much",
+"pos": "pron",
+"lvl": "A1",
+"th": "จำนวนมาก; หลายอย่าง",
+"ex": "There is not much to eat at home.",
+"exTh": "ที่บ้านไม่มีอะไรให้กินมากนัก"
+}
+],
+[
+{
+"id": "make_noun",
+"w": "make",
+"pos": "noun",
+"lvl": "B2",
+"th": "ยี่ห้อ; แบบ; รุ่นที่ผลิต",
+"ex": "What make is your car?",
+"exTh": "รถของคุณยี่ห้ออะไร"
+},
+{
+"id": "make_verb",
+"w": "make",
+"pos": "verb",
+"lvl": "A1",
+"th": "ทำ; สร้าง; ผลิต",
+"ex": "My mother makes good cakes.",
+"exTh": "แม่ของฉันทำเค้กอร่อย"
+}
+],
+[
+{
+"id": "water_noun",
+"w": "water",
+"pos": "noun",
+"lvl": "A1",
+"th": "น้ำ; น้ำดื่ม",
+"ex": "Please drink more water.",
+"exTh": "ดื่มน้ำเยอะๆ นะ"
+},
+{
+"id": "water_verb",
+"w": "water",
+"pos": "verb",
+"lvl": "B2",
+"th": "รดน้ำ; ให้น้ำ; น้ำตาคลอ",
+"ex": "I water the plants every morning.",
+"exTh": "ฉันรดน้ำต้นไม้ทุกเช้า"
+}
+],
+[
+{
+"id": "good_adj",
+"w": "good",
+"pos": "adj",
+"lvl": "A1",
+"th": "ดี; เก่ง; อร่อย",
+"ex": "This is a good restaurant.",
+"exTh": "นี่เป็นร้านอาหารที่ดี"
+},
+{
+"id": "good_noun",
+"w": "good",
+"pos": "noun",
+"lvl": "B2",
+"th": "ความดี; ประโยชน์; สิ่งที่ดี",
+"ex": "Exercise does you a lot of good.",
+"exTh": "การออกกำลังกายเป็นประโยชน์ต่อคุณมาก"
+}
+],
+[
+{
+"id": "high_adj",
+"w": "high",
+"pos": "adj",
+"lvl": "A1",
+"th": "สูง; ระดับสูง",
+"ex": "That mountain is very high.",
+"exTh": "ภูเขาลูกนั้นสูงมาก"
+},
+{
+"id": "high_adv",
+"w": "high",
+"pos": "adv",
+"lvl": "A2",
+"th": "สูง; ในที่สูง",
+"ex": "The bird flew high above the trees.",
+"exTh": "นกบินสูงเหนือต้นไม้"
+}
+],
+[
+{
+"id": "order_noun",
+"w": "order",
+"pos": "noun",
+"lvl": "A1",
+"th": "คำสั่งซื้อ; ออเดอร์; ลำดับ",
+"ex": "Your order will be ready soon.",
+"exTh": "ออเดอร์ของคุณจะเสร็จในอีกไม่นาน"
+},
+{
+"id": "order_verb",
+"w": "order",
+"pos": "verb",
+"lvl": "A2",
+"th": "สั่ง (อาหาร/สินค้า); สั่งการ",
+"ex": "Are you ready to order your food?",
+"exTh": "พร้อมจะสั่งอาหารหรือยังคะ"
+}
+],
+[
+{
+"id": "long_adj",
+"w": "long",
+"pos": "adj",
+"lvl": "A1",
+"th": "ยาว; นาน",
+"ex": "She has long black hair.",
+"exTh": "เธอมีผมยาวสีดำ"
+},
+{
+"id": "long_adv",
+"w": "long",
+"pos": "adv",
+"lvl": "A2",
+"th": "นาน; เป็นเวลานาน",
+"ex": "Have you lived here long?",
+"exTh": "คุณอยู่ที่นี่มานานหรือยัง"
+}
+],
+[
+{
+"id": "man_noun",
+"w": "man",
+"pos": "noun",
+"lvl": "A1",
+"th": "ผู้ชาย; ชาย; มนุษย์",
+"ex": "The man is reading a newspaper.",
+"exTh": "ผู้ชายคนนั้นกำลังอ่านหนังสือพิมพ์"
+},
+{
+"id": "man_verb",
+"w": "man",
+"pos": "verb",
+"lvl": "C1",
+"th": "ประจำการ; ทำหน้าที่ควบคุม",
+"ex": "Two nurses manned the front desk all night.",
+"exTh": "พยาบาลสองคนประจำเคาน์เตอร์ด้านหน้าตลอดคืน"
+}
+],
+[
+{
+"id": "right_adj",
+"w": "right",
+"pos": "adj",
+"lvl": "A1",
+"th": "ถูกต้อง; ถูก; ขวา",
+"ex": "Your answer is right.",
+"exTh": "คำตอบของคุณถูกต้อง"
+},
+{
+"id": "right_adv",
+"w": "right",
+"pos": "adv",
+"lvl": "A1",
+"th": "ทันที; พอดี; ถูกต้อง",
+"ex": "Come right now, please.",
+"exTh": "กรุณามาเดี๋ยวนี้เลย"
+},
+{
+"id": "right_noun",
+"w": "right",
+"pos": "noun",
+"lvl": "A2",
+"th": "สิทธิ; ด้านขวา; สิ่งที่ถูกต้อง",
+"ex": "Everyone has the right to learn.",
+"exTh": "ทุกคนมีสิทธิ์ที่จะเรียนรู้"
+}
+],
+[
+{
+"id": "own_adj",
+"w": "own",
+"pos": "adj",
+"lvl": "A1",
+"th": "ของตัวเอง; เป็นของตนเอง",
+"ex": "I want my own room.",
+"exTh": "ฉันอยากมีห้องเป็นของตัวเอง"
+},
+{
+"id": "own_pron",
+"w": "own",
+"pos": "pron",
+"lvl": "A2",
+"th": "ของตนเอง; ของตัวเอง",
+"ex": "I don't need yours, I have my own.",
+"exTh": "ฉันไม่ต้องการของคุณ ฉันมีของฉันเอง",
+"note": "ใช้หลัง my/your/his เช่น my own"
+},
+{
+"id": "own_verb",
+"w": "own",
+"pos": "verb",
+"lvl": "B1",
+"th": "เป็นเจ้าของ; มี",
+"ex": "My uncle owns a small coffee shop.",
+"exTh": "ลุงของฉันเป็นเจ้าของร้านกาแฟเล็กๆ"
+}
+],
+[
+{
+"id": "back_adj",
+"w": "back",
+"pos": "adj",
+"lvl": "A2",
+"th": "ด้านหลัง; ข้างหลัง",
+"ex": "Please use the back door.",
+"exTh": "กรุณาใช้ประตูหลัง"
+},
+{
+"id": "back_adv",
+"w": "back",
+"pos": "adv",
+"lvl": "A1",
+"th": "กลับ; คืน; ย้อนกลับ",
+"ex": "I will be back at six.",
+"exTh": "ฉันจะกลับมาตอนหกโมง"
+},
+{
+"id": "back_noun",
+"w": "back",
+"pos": "noun",
+"lvl": "A1",
+"th": "หลัง; ด้านหลัง",
+"ex": "My back hurts after work.",
+"exTh": "หลังของฉันปวดหลังเลิกงาน"
+},
+{
+"id": "back_verb",
+"w": "back",
+"pos": "verb",
+"lvl": "B1",
+"th": "สนับสนุน; ถอยหลัง",
+"ex": "Many people back the new plan.",
+"exTh": "หลายคนสนับสนุนแผนใหม่นี้"
+}
+],
+[
+{
+"id": "another_det",
+"w": "another",
+"pos": "det",
+"lvl": "A1",
+"th": "อีก...หนึ่ง; อื่น",
+"ex": "Can I have another cup of tea?",
+"exTh": "ขอชาอีกหนึ่งถ้วยได้ไหม"
+},
+{
+"id": "another_pron",
+"w": "another",
+"pos": "pron",
+"lvl": "A2",
+"th": "อีกอันหนึ่ง; อีกคนหนึ่ง",
+"ex": "This cake is great. Can I have another?",
+"exTh": "เค้กนี้อร่อยมาก ขออีกชิ้นได้ไหม"
+}
+],
+[
+{
+"id": "down_adj",
+"w": "down",
+"pos": "adj",
+"lvl": "B2",
+"th": "ลดลง; ซึมเศร้า; ใช้การไม่ได้",
+"ex": "I felt a bit down after the bad news.",
+"exTh": "ฉันรู้สึกหดหู่เล็กน้อยหลังได้ยินข่าวร้าย"
+},
+{
+"id": "down_adv",
+"w": "down",
+"pos": "adv",
+"lvl": "A1",
+"th": "ลง; ลงไป; ต่ำลง",
+"ex": "Please sit down.",
+"exTh": "เชิญนั่งลงครับ"
+},
+{
+"id": "down_prep",
+"w": "down",
+"pos": "prep",
+"lvl": "A2",
+"th": "ลงไป; ตามไป",
+"ex": "She walked down the stairs slowly.",
+"exTh": "เธอเดินลงบันไดช้าๆ"
+}
+],
+[
+{
+"id": "take_noun",
+"w": "take",
+"pos": "noun",
+"lvl": "B1",
+"th": "มุมมอง; ความเห็น; ฉากที่ถ่าย",
+"ex": "What is your take on the new rules?",
+"exTh": "คุณมีความเห็นอย่างไรกับกฎใหม่",
+"note": "ภาษาพูด"
+},
+{
+"id": "take_verb",
+"w": "take",
+"pos": "verb",
+"lvl": "A1",
+"th": "เอา; พา; ใช้เวลา",
+"ex": "Take an umbrella with you.",
+"exTh": "เอาร่มไปด้วยนะ"
+}
+],
+[
+{
+"id": "present_adj",
+"w": "present",
+"pos": "adj",
+"lvl": "B1",
+"th": "ปัจจุบัน; ที่อยู่ ณ ที่นั้น",
+"ex": "All the students were present in class.",
+"exTh": "นักเรียนทุกคนมาเข้าเรียนครบ"
+},
+{
+"id": "present_noun",
+"w": "present",
+"pos": "noun",
+"lvl": "A1",
+"th": "ของขวัญ; ปัจจุบัน",
+"ex": "I bought a present for my sister.",
+"exTh": "ฉันซื้อของขวัญให้น้องสาว"
+},
+{
+"id": "present_verb",
+"w": "present",
+"pos": "verb",
+"lvl": "B2",
+"th": "นำเสนอ; มอบ; แสดง",
+"ex": "She will present her idea to the class.",
+"exTh": "เธอจะนำเสนอไอเดียของเธอให้ทั้งห้องฟัง"
+}
+],
+[
+{
+"id": "place_noun",
+"w": "place",
+"pos": "noun",
+"lvl": "A1",
+"th": "สถานที่; ที่; แห่ง",
+"ex": "This is a nice place to relax.",
+"exTh": "ที่นี่เป็นสถานที่ดีๆ สำหรับพักผ่อน"
+},
+{
+"id": "place_verb",
+"w": "place",
+"pos": "verb",
+"lvl": "B1",
+"th": "วาง; ใส่; ตั้ง",
+"ex": "Please place the box on the table.",
+"exTh": "กรุณาวางกล่องไว้บนโต๊ะ"
+}
+]
+]

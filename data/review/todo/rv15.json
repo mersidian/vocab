@@ -1,0 +1,991 @@
+[
+[
+{
+"id": "shambles_noun",
+"w": "shambles",
+"pos": "noun",
+"lvl": "C1",
+"th": "ความโกลาหล; สภาพยุ่งเหยิง",
+"ex": "The kitchen was a shambles after the party.",
+"exTh": "ห้องครัวเละเทะไปหมดหลังงานปาร์ตี้",
+"note": "มักใช้เป็นเอกพจน์ เช่น a shambles (ภาษาอังกฤษแบบอังกฤษเป็นหลัก)"
+}
+],
+[
+{
+"id": "sedate_verb",
+"w": "sedate",
+"pos": "verb",
+"lvl": "C1",
+"th": "ให้ยากล่อมประสาท; ทำให้สงบด้วยยา",
+"ex": "The doctor sedated the patient before the surgery.",
+"exTh": "แพทย์ให้ยาระงับประสาทผู้ป่วยก่อนผ่าตัด"
+},
+{
+"id": "sedate_adj",
+"w": "sedate",
+"pos": "adj",
+"lvl": "C1",
+"th": "เรียบร้อย; สงบเสงี่ยม; ช้าๆ",
+"ex": "We took a sedate walk along the river.",
+"exTh": "เราเดินเล่นริมแม่น้ำอย่างช้าๆ สบายๆ"
+}
+],
+[
+{
+"id": "quirky_adj",
+"w": "quirky",
+"pos": "adj",
+"lvl": "C1",
+"th": "แปลกแต่น่ารัก; มีเอกลักษณ์แปลกๆ",
+"ex": "The cafe has a quirky style with mismatched chairs.",
+"exTh": "คาเฟ่นี้มีสไตล์แปลกๆ น่ารัก ด้วยเก้าอี้ที่ไม่เหมือนกันสักตัว"
+},
+{
+"id": "quirky_noun",
+"w": "quirky",
+"pos": "noun",
+"lvl": "C1",
+"th": "คนที่มีเอกลักษณ์แปลกๆ",
+"ex": "The movie is full of lovable quirkies.",
+"exTh": "หนังเรื่องนี้เต็มไปด้วยตัวละครแปลกๆ ที่น่ารัก",
+"note": "ใช้น้อยมาก มักเป็นคำคุณศัพท์"
+}
+],
+[
+{
+"id": "suds_noun",
+"w": "suds",
+"pos": "noun",
+"lvl": "C1",
+"th": "ฟองสบู่; ฟองน้ำยาล้างจาน",
+"ex": "There were soapy suds all over the sink.",
+"exTh": "มีฟองสบู่เต็มอ่างล้างจาน",
+"note": "มักใช้เป็นพหูพจน์"
+}
+],
+[
+{
+"id": "daydream_noun",
+"w": "daydream",
+"pos": "noun",
+"lvl": "C1",
+"th": "ฝันกลางวัน; การเพ้อฝัน",
+"ex": "He was lost in a daydream during the meeting.",
+"exTh": "เขาเหม่อลอยเพ้อฝันไปในระหว่างการประชุม"
+},
+{
+"id": "daydream_verb",
+"w": "daydream",
+"pos": "verb",
+"lvl": "C1",
+"th": "ฝันกลางวัน; เหม่อลอย",
+"ex": "I often daydream about living by the sea.",
+"exTh": "ฉันมักฝันกลางวันถึงการได้อยู่ริมทะเล"
+}
+],
+[
+{
+"id": "quip_noun",
+"w": "quip",
+"pos": "noun",
+"lvl": "C1",
+"th": "คำพูดตลกเฉียบแหลม; มุกคมๆ",
+"ex": "His quip made the whole room laugh.",
+"exTh": "มุกคมๆ ของเขาทำให้ทั้งห้องหัวเราะ"
+},
+{
+"id": "quip_verb",
+"w": "quip",
+"pos": "verb",
+"lvl": "C1",
+"th": "พูดตลกคมๆ; พูดเสียดสีอย่างมีไหวพริบ",
+"ex": "\"I'm not lazy, just relaxed,\" he quipped.",
+"exTh": "\"ผมไม่ได้ขี้เกียจ แค่ผ่อนคลาย\" เขาพูดหยอก"
+}
+],
+[
+{
+"id": "manicure_noun",
+"w": "manicure",
+"pos": "noun",
+"lvl": "C1",
+"th": "การทำเล็บมือ",
+"ex": "She got a manicure before the wedding.",
+"exTh": "เธอไปทำเล็บมือก่อนงานแต่งงาน"
+},
+{
+"id": "manicure_verb",
+"w": "manicure",
+"pos": "verb",
+"lvl": "C1",
+"th": "ทำเล็บมือ; ตัดแต่งให้เรียบร้อย",
+"ex": "She manicured her nails every weekend.",
+"exTh": "เธอทำเล็บมือทุกสุดสัปดาห์"
+}
+],
+[
+{
+"id": "somersault_noun",
+"w": "somersault",
+"pos": "noun",
+"lvl": "C1",
+"th": "การตีลังกา",
+"ex": "The child did a somersault on the grass.",
+"exTh": "เด็กตีลังกาบนพื้นหญ้า"
+},
+{
+"id": "somersault_verb",
+"w": "somersault",
+"pos": "verb",
+"lvl": "C1",
+"th": "ตีลังกา; ม้วนตัวกลับหลัง",
+"ex": "The gymnast somersaulted across the mat.",
+"exTh": "นักยิมนาสติกตีลังกาข้ามเสื่อ"
+}
+],
+[
+{
+"id": "honk_verb",
+"w": "honk",
+"pos": "verb",
+"lvl": "C1",
+"th": "บีบแตร; ร้องเสียงห่าน",
+"ex": "Drivers honked their horns in the traffic jam.",
+"exTh": "คนขับบีบแตรกันในรถติด"
+},
+{
+"id": "honk_noun",
+"w": "honk",
+"pos": "noun",
+"lvl": "C1",
+"th": "เสียงแตรรถ; เสียงห่านร้อง",
+"ex": "I heard a loud honk behind me.",
+"exTh": "ฉันได้ยินเสียงแตรดังลั่นข้างหลัง"
+}
+],
+[
+{
+"id": "repellant_noun",
+"w": "repellant",
+"pos": "noun",
+"lvl": "C1",
+"th": "สารไล่แมลง; สารกันซึม",
+"ex": "Put on insect repellant before the hike.",
+"exTh": "ทาสารกันยุงก่อนเดินป่า",
+"note": "สะกดทั่วไปคือ repellent"
+},
+{
+"id": "repellant_adj",
+"w": "repellant",
+"pos": "adj",
+"lvl": "C1",
+"th": "น่ารังเกียจ; ที่ขับไล่",
+"ex": "The smell was repellant.",
+"exTh": "กลิ่นนั้นน่าขยะแขยง",
+"note": "สะกดทั่วไปคือ repellent"
+}
+],
+[
+{
+"id": "chauffer_noun",
+"w": "chauffer",
+"pos": "noun",
+"lvl": "C1",
+"th": "คนขับรถส่วนตัว",
+"ex": "The CEO's chauffer waited outside the hotel.",
+"exTh": "คนขับรถส่วนตัวของซีอีโอรออยู่หน้าโรงแรม",
+"note": "สะกดมาตรฐานคือ chauffeur"
+},
+{
+"id": "chauffer_verb",
+"w": "chauffer",
+"pos": "verb",
+"lvl": "C1",
+"th": "ขับรถให้; ขับรถรับส่งให้",
+"ex": "She chauffers her kids to school every morning.",
+"exTh": "เธอขับรถรับส่งลูกไปโรงเรียนทุกเช้า",
+"note": "สะกดมาตรฐานคือ chauffeur"
+}
+],
+[
+{
+"id": "shortlist_verb",
+"w": "shortlist",
+"pos": "verb",
+"lvl": "C1",
+"th": "คัดเข้ารอบสุดท้าย; เลือกรายชื่อสุดท้าย",
+"ex": "Five people were shortlisted for the job.",
+"exTh": "ผู้สมัครห้าคนถูกคัดเข้ารอบสุดท้ายสำหรับตำแหน่งนี้"
+},
+{
+"id": "shortlist_noun",
+"w": "shortlist",
+"pos": "noun",
+"lvl": "C1",
+"th": "รายชื่อผู้เข้ารอบสุดท้าย",
+"ex": "Her novel is on the prize shortlist.",
+"exTh": "นวนิยายของเธออยู่ในรายชื่อเข้ารอบสุดท้ายของรางวัล"
+}
+],
+[
+{
+"id": "unscathing_adj",
+"w": "unscathing",
+"pos": "adj",
+"lvl": "C1",
+"th": "ไม่รุนแรง; ที่ไม่ได้ตำหนิอย่างรุนแรง",
+"ex": "The review was surprisingly unscathing.",
+"exTh": "บทวิจารณ์ไม่รุนแรงอย่างน่าแปลกใจ",
+"note": "คำที่พบน้อยมาก มักใช้ unscathed (ไม่เป็นอะไร)"
+}
+],
+[
+{
+"id": "merit_noun",
+"w": "merit",
+"pos": "noun",
+"lvl": "C2",
+"th": "คุณค่า; ข้อดี; ความดีความชอบ",
+"ex": "Each plan has its own merits.",
+"exTh": "แต่ละแผนมีข้อดีของตัวเอง"
+},
+{
+"id": "merit_verb",
+"w": "merit",
+"pos": "verb",
+"lvl": "C2",
+"th": "สมควรได้รับ; คู่ควร",
+"ex": "This idea merits further discussion.",
+"exTh": "ความคิดนี้สมควรได้รับการหารือต่อ"
+}
+],
+[
+{
+"id": "procedural_adj",
+"w": "procedural",
+"pos": "adj",
+"lvl": "C2",
+"th": "เกี่ยวกับขั้นตอน; ตามกระบวนการ",
+"ex": "There was a procedural error in the trial.",
+"exTh": "มีข้อผิดพลาดด้านขั้นตอนในการพิจารณาคดี"
+},
+{
+"id": "procedural_noun",
+"w": "procedural",
+"pos": "noun",
+"lvl": "C2",
+"th": "นิยายหรือรายการแนวสืบสวนตามขั้นตอน",
+"ex": "He loves watching police procedurals on TV.",
+"exTh": "เขาชอบดูซีรีส์ตำรวจสืบสวนตามขั้นตอนทางทีวี"
+}
+],
+[
+{
+"id": "echo_noun",
+"w": "echo",
+"pos": "noun",
+"lvl": "C2",
+"th": "เสียงสะท้อน; เสียงก้อง",
+"ex": "We heard an echo in the empty hall.",
+"exTh": "เราได้ยินเสียงก้องในห้องโถงว่างเปล่า"
+},
+{
+"id": "echo_verb",
+"w": "echo",
+"pos": "verb",
+"lvl": "C2",
+"th": "สะท้อน; ก้อง; พูดซ้ำ",
+"ex": "Her voice echoed through the cave.",
+"exTh": "เสียงของเธอก้องไปทั่วถ้ำ"
+}
+],
+[
+{
+"id": "herald_verb",
+"w": "herald",
+"pos": "verb",
+"lvl": "C2",
+"th": "ประกาศการมาถึง; เป็นสัญญาณของ",
+"ex": "The new law heralds a big change.",
+"exTh": "กฎหมายใหม่เป็นสัญญาณของการเปลี่ยนแปลงครั้งใหญ่"
+},
+{
+"id": "herald_noun",
+"w": "herald",
+"pos": "noun",
+"lvl": "C2",
+"th": "ผู้ประกาศ; ผู้นำสาร; ลางบอกเหตุ",
+"ex": "The first flowers are a herald of spring.",
+"exTh": "ดอกไม้แรกบานเป็นสัญญาณของการมาถึงของฤดูใบไม้ผลิ"
+}
+],
+[
+{
+"id": "annex_noun",
+"w": "annex",
+"pos": "noun",
+"lvl": "C2",
+"th": "อาคารต่อเติม; ภาคผนวก",
+"ex": "The school built a new annex for the library.",
+"exTh": "โรงเรียนสร้างอาคารต่อเติมใหม่สำหรับห้องสมุด"
+},
+{
+"id": "annex_verb",
+"w": "annex",
+"pos": "verb",
+"lvl": "C2",
+"th": "ผนวก (ดินแดน); ยึดครอง",
+"ex": "The country annexed the nearby island.",
+"exTh": "ประเทศนั้นผนวกเกาะที่อยู่ใกล้เคียง"
+}
+],
+[
+{
+"id": "diffuse_adj",
+"w": "diffuse",
+"pos": "adj",
+"lvl": "C2",
+"th": "กระจายตัว; ไม่เข้มข้น; ไม่ชัดเจน",
+"ex": "The room had soft, diffuse light.",
+"exTh": "ห้องนี้มีแสงนุ่มๆ กระจายตัว"
+},
+{
+"id": "diffuse_verb",
+"w": "diffuse",
+"pos": "verb",
+"lvl": "C2",
+"th": "แพร่กระจาย; ทำให้เจือจาง",
+"ex": "The smell of coffee diffused through the house.",
+"exTh": "กลิ่นกาแฟแพร่ไปทั่วบ้าน"
+}
+],
+[
+{
+"id": "solitary_adj",
+"w": "solitary",
+"pos": "adj",
+"lvl": "C2",
+"th": "โดดเดี่ยว; อยู่คนเดียว",
+"ex": "He lives a quiet, solitary life in the mountains.",
+"exTh": "เขาใช้ชีวิตเงียบๆ โดดเดี่ยวอยู่บนภูเขา"
+},
+{
+"id": "solitary_noun",
+"w": "solitary",
+"pos": "noun",
+"lvl": "C2",
+"th": "ผู้ที่อยู่โดดเดี่ยว; การขังเดี่ยว",
+"ex": "The old hermit was a solitary by choice.",
+"exTh": "ฤๅษีชราเลือกที่จะอยู่โดดเดี่ยวด้วยตัวเอง",
+"note": "ใช้น้อย มักใช้เป็นคำคุณศัพท์"
+}
+],
+[
+{
+"id": "incumbent_noun",
+"w": "incumbent",
+"pos": "noun",
+"lvl": "C2",
+"th": "ผู้ดำรงตำแหน่งอยู่",
+"ex": "The incumbent won the election again.",
+"exTh": "ผู้ดำรงตำแหน่งอยู่ชนะการเลือกตั้งอีกครั้ง"
+},
+{
+"id": "incumbent_adj",
+"w": "incumbent",
+"pos": "adj",
+"lvl": "C2",
+"th": "ที่ดำรงตำแหน่งอยู่; ที่เป็นหน้าที่",
+"ex": "The incumbent mayor wants to run again.",
+"exTh": "นายกเทศมนตรีคนปัจจุบันต้องการลงสมัครอีกครั้ง"
+}
+],
+[
+{
+"id": "additive_noun",
+"w": "additive",
+"pos": "noun",
+"lvl": "C2",
+"th": "สารเติมแต่ง; สารเจือปน",
+"ex": "This food contains no artificial additives.",
+"exTh": "อาหารนี้ไม่มีสารเติมแต่งสังเคราะห์"
+},
+{
+"id": "additive_adj",
+"w": "additive",
+"pos": "adj",
+"lvl": "C2",
+"th": "ที่เพิ่มเข้าไป; แบบบวกเพิ่ม",
+"ex": "The two drugs have an additive effect.",
+"exTh": "ยาสองตัวนี้มีฤทธิ์เสริมกัน"
+}
+],
+[
+{
+"id": "melancholy_noun",
+"w": "melancholy",
+"pos": "noun",
+"lvl": "C2",
+"th": "ความเศร้าสร้อย; ความหม่นหมอง",
+"ex": "A deep melancholy filled the old house.",
+"exTh": "ความเศร้าสร้อยอันลึกซึ้งปกคลุมบ้านหลังเก่า"
+},
+{
+"id": "melancholy_adj",
+"w": "melancholy",
+"pos": "adj",
+"lvl": "C2",
+"th": "เศร้าสร้อย; หม่นหมอง",
+"ex": "The melancholy music made her think of home.",
+"exTh": "ดนตรีเศร้าสร้อยทำให้เธอนึกถึงบ้าน"
+}
+],
+[
+{
+"id": "correlate_noun",
+"w": "correlate",
+"pos": "noun",
+"lvl": "C2",
+"th": "สิ่งที่สัมพันธ์กัน",
+"ex": "Income is a correlate of education level.",
+"exTh": "รายได้เป็นสิ่งที่สัมพันธ์กับระดับการศึกษา",
+"note": "ใช้น้อย"
+},
+{
+"id": "correlate_verb",
+"w": "correlate",
+"pos": "verb",
+"lvl": "C2",
+"th": "สัมพันธ์กัน; เชื่อมโยงกัน",
+"ex": "Sleep quality correlates with good health.",
+"exTh": "คุณภาพการนอนสัมพันธ์กับสุขภาพที่ดี"
+}
+],
+[
+{
+"id": "conjecture_verb",
+"w": "conjecture",
+"pos": "verb",
+"lvl": "C2",
+"th": "คาดเดา; สันนิษฐาน",
+"ex": "Experts conjecture that the city is over a thousand years old.",
+"exTh": "ผู้เชี่ยวชาญสันนิษฐานว่าเมืองนี้มีอายุเกินพันปี"
+},
+{
+"id": "conjecture_noun",
+"w": "conjecture",
+"pos": "noun",
+"lvl": "C2",
+"th": "การคาดเดา; ข้อสันนิษฐาน",
+"ex": "That is just conjecture, not a proven fact.",
+"exTh": "นั่นเป็นแค่การคาดเดา ไม่ใช่ข้อเท็จจริงที่พิสูจน์แล้ว"
+}
+],
+[
+{
+"id": "brood_verb",
+"w": "brood",
+"pos": "verb",
+"lvl": "C2",
+"th": "ครุ่นคิดกังวล; กกไข่",
+"ex": "He sat alone and brooded over his mistake.",
+"exTh": "เขานั่งอยู่คนเดียวและครุ่นคิดกับความผิดพลาดของตัวเอง"
+},
+{
+"id": "brood_noun",
+"w": "brood",
+"pos": "noun",
+"lvl": "C2",
+"th": "ลูกนกที่ฟักในรอบเดียว; ลูกทั้งฝูง",
+"ex": "The hen led her brood across the yard.",
+"exTh": "แม่ไก่พาลูกๆ ทั้งฝูงเดินข้ามลาน"
+}
+],
+[
+{
+"id": "blight_noun",
+"w": "blight",
+"pos": "noun",
+"lvl": "C2",
+"th": "โรคพืช; สิ่งที่บั่นทอน",
+"ex": "A blight destroyed the potato crop.",
+"exTh": "โรคพืชทำลายพืชผลมันฝรั่งจนเสียหาย"
+},
+{
+"id": "blight_verb",
+"w": "blight",
+"pos": "verb",
+"lvl": "C2",
+"th": "ทำลาย; บั่นทอน; ทำให้เหี่ยวเฉา",
+"ex": "Crime has blighted the neighborhood for years.",
+"exTh": "อาชญากรรมบั่นทอนย่านนี้มาหลายปี"
+}
+],
+[
+{
+"id": "perch_verb",
+"w": "perch",
+"pos": "verb",
+"lvl": "C2",
+"th": "เกาะ; นั่งบนที่สูงหรือขอบ",
+"ex": "A bird perched on the fence.",
+"exTh": "นกตัวหนึ่งเกาะอยู่บนรั้ว"
+},
+{
+"id": "perch_noun",
+"w": "perch",
+"pos": "noun",
+"lvl": "C2",
+"th": "คอนนก; ที่นั่งสูง",
+"ex": "The parrot sat on its perch.",
+"exTh": "นกแก้วเกาะอยู่บนคอนของมัน"
+}
+],
+[
+{
+"id": "nigh_adv",
+"w": "nigh",
+"pos": "adv",
+"lvl": "C2",
+"th": "ใกล้; เกือบ",
+"ex": "The end of the world is nigh, he shouted.",
+"exTh": "จุดจบของโลกใกล้เข้ามาแล้ว เขาตะโกน",
+"note": "คำโบราณหรือวรรณกรรม"
+}
+],
+[
+{
+"id": "repose_verb",
+"w": "repose",
+"pos": "verb",
+"lvl": "C2",
+"th": "พักผ่อน; นอนพัก; วางไว้",
+"ex": "The cat reposed on the warm rug.",
+"exTh": "แมวนอนพักอยู่บนพรมอุ่นๆ",
+"note": "ภาษาทางการ/วรรณกรรม"
+},
+{
+"id": "repose_noun",
+"w": "repose",
+"pos": "noun",
+"lvl": "C2",
+"th": "การพักผ่อน; ความสงบ",
+"ex": "Her face was calm in repose.",
+"exTh": "ใบหน้าของเธอสงบเมื่ออยู่นิ่งๆ",
+"note": "ภาษาทางการ/วรรณกรรม"
+}
+],
+[
+{
+"id": "trifle_noun",
+"w": "trifle",
+"pos": "noun",
+"lvl": "C2",
+"th": "เรื่องจุกจิก; ของจุกจิก; ขนมทริฟเฟิล",
+"ex": "Don't worry about such a trifle.",
+"exTh": "อย่ากังวลเรื่องจุกจิกแบบนี้เลย"
+},
+{
+"id": "trifle_verb",
+"w": "trifle",
+"pos": "verb",
+"lvl": "C2",
+"th": "เล่นๆ; ไม่จริงจังกับ",
+"ex": "Don't trifle with her feelings.",
+"exTh": "อย่าเล่นกับความรู้สึกของเธอ"
+}
+],
+[
+{
+"id": "deviant_noun",
+"w": "deviant",
+"pos": "noun",
+"lvl": "C2",
+"th": "ผู้เบี่ยงเบน (จากบรรทัดฐาน); คนผิดปกติ",
+"ex": "The old study labeled him a deviant for ignoring social rules.",
+"exTh": "งานวิจัยเก่าตีตราเขาว่าเป็นผู้เบี่ยงเบนเพราะไม่สนกฎสังคม",
+"note": "อาจฟังดูเป็นลบ ควรใช้ระวัง"
+},
+{
+"id": "deviant_adj",
+"w": "deviant",
+"pos": "adj",
+"lvl": "C2",
+"th": "เบี่ยงเบน; ผิดปกติ; ผิดไปจากบรรทัดฐาน",
+"ex": "The scientist studied deviant behavior in young people.",
+"exTh": "นักวิทยาศาสตร์ศึกษาพฤติกรรมเบี่ยงเบนในหมู่คนหนุ่มสาว"
+}
+],
+[
+{
+"id": "verbatim_adj",
+"w": "verbatim",
+"pos": "adj",
+"lvl": "C2",
+"th": "ตรงตามตัวอักษร; คำต่อคำ",
+"ex": "The reporter printed a verbatim account of the speech.",
+"exTh": "ผู้สื่อข่าวตีพิมพ์คำปราศรัยแบบคำต่อคำ"
+},
+{
+"id": "verbatim_adv",
+"w": "verbatim",
+"pos": "adv",
+"lvl": "C2",
+"th": "คำต่อคำ; ตรงตามตัวอักษร",
+"ex": "He repeated the teacher's words verbatim.",
+"exTh": "เขาพูดซ้ำคำของครูแบบคำต่อคำ"
+}
+],
+[
+{
+"id": "adept_adj",
+"w": "adept",
+"pos": "adj",
+"lvl": "C2",
+"th": "ชำนาญ; เชี่ยวชาญ",
+"ex": "She is adept at solving difficult problems.",
+"exTh": "เธอเชี่ยวชาญในการแก้ปัญหายากๆ"
+},
+{
+"id": "adept_noun",
+"w": "adept",
+"pos": "noun",
+"lvl": "C2",
+"th": "ผู้เชี่ยวชาญ; ผู้ชำนาญ",
+"ex": "He is an adept in traditional Thai massage.",
+"exTh": "เขาเป็นผู้ชำนาญด้านการนวดแผนไทย",
+"note": "ภาษาทางการ ใช้น้อยกว่าคำคุณศัพท์"
+}
+],
+[
+{
+"id": "egalitarian_adj",
+"w": "egalitarian",
+"pos": "adj",
+"lvl": "C2",
+"th": "ที่เชื่อในความเสมอภาค; เท่าเทียมกัน",
+"ex": "They want to build a more egalitarian society.",
+"exTh": "พวกเขาต้องการสร้างสังคมที่เท่าเทียมกันมากขึ้น"
+},
+{
+"id": "egalitarian_noun",
+"w": "egalitarian",
+"pos": "noun",
+"lvl": "C2",
+"th": "ผู้ยึดมั่นในความเสมอภาค",
+"ex": "As an egalitarian, he believes everyone deserves equal rights.",
+"exTh": "ในฐานะผู้ยึดมั่นในความเสมอภาค เขาเชื่อว่าทุกคนควรมีสิทธิ์เท่ากัน"
+}
+],
+[
+{
+"id": "verily_adv",
+"w": "verily",
+"pos": "adv",
+"lvl": "C2",
+"th": "อย่างแท้จริง; แน่แท้",
+"ex": "Verily, I say to you, the truth will come out.",
+"exTh": "แน่แท้ ข้าบอกเจ้าว่าความจริงจะต้องปรากฏ",
+"note": "คำโบราณ พบในพระคัมภีร์/วรรณกรรม"
+}
+],
+[
+{
+"id": "rebound_verb",
+"w": "rebound",
+"pos": "verb",
+"lvl": "C2",
+"th": "เด้งกลับ; ฟื้นตัว",
+"ex": "The ball rebounded off the wall.",
+"exTh": "ลูกบอลเด้งกลับจากกำแพง"
+},
+{
+"id": "rebound_noun",
+"w": "rebound",
+"pos": "noun",
+"lvl": "C2",
+"th": "การเด้งกลับ; การฟื้นตัว; ลูกรีบาวด์",
+"ex": "The economy showed a strong rebound this year.",
+"exTh": "เศรษฐกิจฟื้นตัวอย่างแข็งแกร่งในปีนี้"
+}
+],
+[
+{
+"id": "rebuke_verb",
+"w": "rebuke",
+"pos": "verb",
+"lvl": "C2",
+"th": "ตำหนิ; ว่ากล่าว; ดุว่า",
+"ex": "The manager rebuked him for arriving late again.",
+"exTh": "ผู้จัดการตำหนิเขาที่มาสายอีกแล้ว"
+},
+{
+"id": "rebuke_noun",
+"w": "rebuke",
+"pos": "noun",
+"lvl": "C2",
+"th": "การตำหนิ; คำดุว่า",
+"ex": "She received a sharp rebuke from her boss.",
+"exTh": "เธอถูกเจ้านายตำหนิอย่างรุนแรง"
+}
+],
+[
+{
+"id": "prostrate_verb",
+"w": "prostrate",
+"pos": "verb",
+"lvl": "C2",
+"th": "หมอบลง; กราบ; ทำให้หมดแรง",
+"ex": "The pilgrims prostrated themselves before the shrine.",
+"exTh": "ผู้แสวงบุญหมอบกราบต่อหน้าศาลเจ้า"
+},
+{
+"id": "prostrate_adj",
+"w": "prostrate",
+"pos": "adj",
+"lvl": "C2",
+"th": "นอนคว่ำ; หมอบราบ; หมดแรง",
+"ex": "He lay prostrate on the floor after the long run.",
+"exTh": "เขานอนหมดแรงอยู่บนพื้นหลังวิ่งระยะไกล"
+}
+],
+[
+{
+"id": "quiver_verb",
+"w": "quiver",
+"pos": "verb",
+"lvl": "C2",
+"th": "สั่น; สั่นระริก",
+"ex": "Her voice quivered with fear.",
+"exTh": "เสียงของเธอสั่นด้วยความกลัว"
+},
+{
+"id": "quiver_noun",
+"w": "quiver",
+"pos": "noun",
+"lvl": "C2",
+"th": "การสั่นระริก; กระบอกใส่ลูกธนู",
+"ex": "He took an arrow from his quiver.",
+"exTh": "เขาหยิบลูกธนูออกจากกระบอกใส่ลูกธนู"
+}
+],
+[
+{
+"id": "derelict_adj",
+"w": "derelict",
+"pos": "adj",
+"lvl": "C2",
+"th": "ทรุดโทรม; ถูกทิ้งร้าง; ละเลยหน้าที่",
+"ex": "The children played in a derelict building.",
+"exTh": "เด็กๆ เล่นกันในอาคารร้างที่ทรุดโทรม"
+},
+{
+"id": "derelict_noun",
+"w": "derelict",
+"pos": "noun",
+"lvl": "C2",
+"th": "อาคารหรือเรือที่ถูกทิ้งร้าง; คนไร้บ้าน",
+"ex": "The old ship was left as a derelict in the harbor.",
+"exTh": "เรือเก่าถูกทิ้งร้างอยู่ในท่าเรือ"
+}
+],
+[
+{
+"id": "extracurricular_adj",
+"w": "extracurricular",
+"pos": "adj",
+"lvl": "C2",
+"th": "นอกหลักสูตร",
+"ex": "Our school offers many extracurricular activities.",
+"exTh": "โรงเรียนของเรามีกิจกรรมนอกหลักสูตรมากมาย"
+},
+{
+"id": "extracurricular_noun",
+"w": "extracurricular",
+"pos": "noun",
+"lvl": "C2",
+"th": "กิจกรรมนอกหลักสูตร",
+"ex": "Music is her favorite extracurricular.",
+"exTh": "ดนตรีเป็นกิจกรรมนอกหลักสูตรที่เธอชอบที่สุด",
+"note": "ภาษาพูด"
+}
+],
+[
+{
+"id": "blitz_verb",
+"w": "blitz",
+"pos": "verb",
+"lvl": "C2",
+"th": "โจมตีอย่างหนัก; ทำอย่างรวดเร็วเต็มที่",
+"ex": "The team blitzed the opponent in the first half.",
+"exTh": "ทีมบุกโจมตีคู่แข่งอย่างหนักในครึ่งแรก"
+},
+{
+"id": "blitz_noun",
+"w": "blitz",
+"pos": "noun",
+"lvl": "C2",
+"th": "การโจมตีอย่างหนัก; การรณรงค์อย่างเข้มข้น",
+"ex": "We did a cleaning blitz before the guests arrived.",
+"exTh": "เราลุยทำความสะอาดแบบเร่งด่วนก่อนแขกมา"
+}
+],
+[
+{
+"id": "huddle_verb",
+"w": "huddle",
+"pos": "verb",
+"lvl": "C2",
+"th": "ชุมนุมกัน; ตัวงอ รวมตัวกันแน่น",
+"ex": "The children huddled together to keep warm.",
+"exTh": "เด็กๆ นั่งอัดกันแน่นเพื่อให้อบอุ่น"
+},
+{
+"id": "huddle_noun",
+"w": "huddle",
+"pos": "noun",
+"lvl": "C2",
+"th": "กลุ่มที่รวมตัวกัน; การประชุมกลุ่มสั้นๆ",
+"ex": "The players formed a huddle before the next play.",
+"exTh": "ผู้เล่นรวมตัวกันเป็นวงก่อนเล่นครั้งต่อไป"
+}
+],
+[
+{
+"id": "dribble_verb",
+"w": "dribble",
+"pos": "verb",
+"lvl": "C2",
+"th": "เลี้ยงบอล; ไหลหยดติ๋งๆ; น้ำลายไหล",
+"ex": "The player dribbled the ball past two defenders.",
+"exTh": "ผู้เล่นเลี้ยงบอลผ่านกองหลังสองคนไป"
+},
+{
+"id": "dribble_noun",
+"w": "dribble",
+"pos": "noun",
+"lvl": "C2",
+"th": "หยดเล็กๆ; การเลี้ยงบอล",
+"ex": "A dribble of water ran down the wall.",
+"exTh": "หยดน้ำเล็กๆ ไหลลงมาตามกำแพง"
+}
+],
+[
+{
+"id": "buccaneer_verb",
+"w": "buccaneer",
+"pos": "verb",
+"lvl": "C2",
+"th": "ทำโจรสลัด; ปล้นสะดมทางทะเล",
+"ex": "They buccaneered along the coast for years.",
+"exTh": "พวกเขาเป็นโจรสลัดปล้นตามชายฝั่งเป็นเวลาหลายปี",
+"note": "ใช้น้อยมาก"
+},
+{
+"id": "buccaneer_noun",
+"w": "buccaneer",
+"pos": "noun",
+"lvl": "C2",
+"th": "โจรสลัด; นักเสี่ยงโชคที่ไม่ยั้งคิด",
+"ex": "The buccaneer hid his treasure on a small island.",
+"exTh": "โจรสลัดซ่อนสมบัติไว้บนเกาะเล็กๆ"
+}
+],
+[
+{
+"id": "porten_noun",
+"w": "porten",
+"pos": "noun",
+"lvl": "C2",
+"th": "ลางบอกเหตุ (รูปเก่าของ portent)",
+"ex": "The dark cloud was a porten of the storm.",
+"exTh": "เมฆดำเป็นลางบอกเหตุของพายุ",
+"note": "พบน้อยมาก ปกติใช้ portent"
+}
+],
+[
+{
+"id": "non_x",
+"w": "non",
+"pos": "adj",
+"lvl": null,
+"th": "ไม่; ที่ไม่ใช่ (คำนำหน้า)",
+"ex": "This is a non-stop flight to Bangkok.",
+"exTh": "นี่คือเที่ยวบินตรงไม่แวะพักไปกรุงเทพฯ",
+"note": "โดยปกติเป็นคำนำหน้า เขียนต่อกับคำอื่น เช่น non-stop"
+}
+],
+[
+{
+"id": "pre_x",
+"w": "pre",
+"pos": "prep",
+"lvl": null,
+"th": "ก่อน; ก่อนหน้า",
+"ex": "The pre-game show starts at six.",
+"exTh": "รายการก่อนเกมเริ่มตอนหกโมง",
+"note": "ส่วนใหญ่ใช้เป็นคำนำหน้า เช่น pre-game"
+}
+],
+[
+{
+"id": "mid_x",
+"w": "mid",
+"pos": "adj",
+"lvl": null,
+"th": "กลาง; ตรงกลาง",
+"ex": "He is in his mid thirties.",
+"exTh": "เขาอายุราวกลางสามสิบ",
+"note": "มักเป็นคำนำหน้า เช่น mid-air"
+}
+],
+[
+{
+"id": "thou_x",
+"w": "thou",
+"pos": "pron",
+"lvl": null,
+"th": "เจ้า; ท่าน (คำเก่า)",
+"ex": "\"Thou art kind,\" the old poem says.",
+"exTh": "บทกวีเก่าเขียนว่า \"เจ้าช่างใจดี\"",
+"note": "คำโบราณ พบในพระคัมภีร์และบทกวี"
+}
+],
+[
+{
+"id": "multi_x",
+"w": "multi",
+"pos": "adj",
+"lvl": null,
+"th": "หลาย; หลายอย่าง (คำนำหน้า)",
+"ex": "She works in a multi-national company.",
+"exTh": "เธอทำงานในบริษัทข้ามชาติ",
+"note": "ปกติเป็นคำนำหน้า เช่น multi-purpose"
+}
+],
+[
+{
+"id": "quasi_x",
+"w": "quasi",
+"pos": "adj",
+"lvl": null,
+"th": "กึ่ง; คล้าย; เสมือน",
+"ex": "It is a quasi-government group with some public funds.",
+"exTh": "นี่เป็นองค์กรกึ่งรัฐที่ได้รับเงินทุนสาธารณะบางส่วน",
+"note": "มักใช้เป็นคำนำหน้า เช่น quasi-official"
+}
+],
+[
+{
+"id": "neo_x",
+"w": "neo",
+"pos": "adj",
+"lvl": null,
+"th": "ใหม่; แนวใหม่ (คำนำหน้า)",
+"ex": "The building has a neo-classical style.",
+"exTh": "อาคารนี้มีสไตล์นีโอคลาสสิก",
+"note": "มักใช้เป็นคำนำหน้า เช่น neo-classical"
+}
+]
+]

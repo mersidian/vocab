@@ -1,0 +1,1524 @@
+[
+[
+{
+"id": "telephone_noun",
+"w": "telephone",
+"pos": "noun",
+"lvl": "A1",
+"th": "โทรศัพท์",
+"ex": "The telephone is ringing.",
+"exTh": "โทรศัพท์กำลังดังอยู่",
+"note": "ในชีวิตประจำวันมักใช้ phone"
+},
+{
+"id": "telephone_verb",
+"w": "telephone",
+"pos": "verb",
+"lvl": "A2",
+"th": "โทรศัพท์หา",
+"ex": "Please telephone me when you get home.",
+"exTh": "กรุณาโทรหาฉันเมื่อถึงบ้าน",
+"note": "ค่อนข้างเก่า; ปัจจุบันนิยมใช้ call"
+}
+],
+[
+{
+"id": "wish_noun",
+"w": "wish",
+"pos": "noun",
+"lvl": "A1",
+"th": "ความปรารถนา; คำอธิษฐาน; ความต้องการ",
+"ex": "Make a wish and blow out the candles.",
+"exTh": "อธิษฐานแล้วเป่าเทียนสิ"
+},
+{
+"id": "wish_verb",
+"w": "wish",
+"pos": "verb",
+"lvl": "A2",
+"th": "ปรารถนา; อยากให้; อวยพร",
+"ex": "I wish I had more free time.",
+"exTh": "ฉันอยากให้มีเวลาว่างมากกว่านี้"
+}
+],
+[
+{
+"id": "check_noun",
+"w": "check",
+"pos": "noun",
+"lvl": "A1",
+"th": "การตรวจสอบ; การเช็ก; เช็คธนาคาร",
+"ex": "Please do a quick check of your work.",
+"exTh": "กรุณาตรวจงานของคุณอย่างรวดเร็ว",
+"note": "อังกฤษแบบอังกฤษ ใบเช็คธนาคารสะกด cheque"
+},
+{
+"id": "check_verb",
+"w": "check",
+"pos": "verb",
+"lvl": "A2",
+"th": "ตรวจสอบ; เช็ก",
+"ex": "Please check your bag before you leave.",
+"exTh": "กรุณาเช็กกระเป๋าของคุณก่อนออกไป"
+}
+],
+[
+{
+"id": "grade_noun",
+"w": "grade",
+"pos": "noun",
+"lvl": "A1",
+"th": "เกรด; คะแนน; ระดับชั้น",
+"ex": "She got a good grade in English.",
+"exTh": "เธอได้เกรดวิชาภาษาอังกฤษดี"
+},
+{
+"id": "grade_verb",
+"w": "grade",
+"pos": "verb",
+"lvl": "B2",
+"th": "ให้คะแนน; จัดระดับ; ตรวจให้เกรด",
+"ex": "The teacher grades the tests every weekend.",
+"exTh": "ครูตรวจให้คะแนนข้อสอบทุกสุดสัปดาห์"
+}
+],
+[
+{
+"id": "wrong_adj",
+"w": "wrong",
+"pos": "adj",
+"lvl": "A1",
+"th": "ผิด; ไม่ถูกต้อง; ไม่ปกติ",
+"ex": "You have the wrong number.",
+"exTh": "คุณโทรผิดเบอร์"
+},
+{
+"id": "wrong_adv",
+"w": "wrong",
+"pos": "adv",
+"lvl": "A2",
+"th": "ผิด; ผิดพลาด",
+"ex": "The game went wrong from the start.",
+"exTh": "เกมนี้ผิดพลาดตั้งแต่เริ่มต้น"
+}
+],
+[
+{
+"id": "ship_noun",
+"w": "ship",
+"pos": "noun",
+"lvl": "A1",
+"th": "เรือ; เรือใหญ่",
+"ex": "The ship sails to Japan.",
+"exTh": "เรือลำนี้แล่นไปญี่ปุ่น"
+},
+{
+"id": "ship_verb",
+"w": "ship",
+"pos": "verb",
+"lvl": "B1",
+"th": "ส่งสินค้า; จัดส่ง; ขนส่งทางเรือ",
+"ex": "We ship our products to many countries.",
+"exTh": "เราจัดส่งสินค้าไปหลายประเทศ"
+}
+],
+[
+{
+"id": "mine_noun",
+"w": "mine",
+"pos": "noun",
+"lvl": "B2",
+"th": "เหมือง; ทุ่นระเบิด",
+"ex": "His grandfather worked in a coal mine.",
+"exTh": "ปู่ของเขาเคยทำงานในเหมืองถ่านหิน"
+},
+{
+"id": "mine_pron",
+"w": "mine",
+"pos": "pron",
+"lvl": "A1",
+"th": "ของฉัน; ของผม",
+"ex": "This bag is mine.",
+"exTh": "กระเป๋าใบนี้เป็นของฉัน"
+}
+],
+[
+{
+"id": "focus_noun",
+"w": "focus",
+"pos": "noun",
+"lvl": "B2",
+"th": "จุดสนใจ; จุดเน้น; โฟกัส",
+"ex": "The focus of the meeting was the new budget.",
+"exTh": "จุดเน้นของการประชุมคืองบประมาณใหม่"
+},
+{
+"id": "focus_verb",
+"w": "focus",
+"pos": "verb",
+"lvl": "A1",
+"th": "โฟกัส; จดจ่อ; ตั้งใจ",
+"ex": "I can't focus when it is noisy.",
+"exTh": "ฉันจดจ่อไม่ได้เวลามีเสียงดัง"
+}
+],
+[
+{
+"id": "please_adv",
+"w": "please",
+"pos": "adv",
+"lvl": "A1",
+"th": "กรุณา; ได้โปรด; ขอ...หน่อย",
+"ex": "Please sit down.",
+"exTh": "เชิญนั่งก่อนครับ"
+},
+{
+"id": "please_verb",
+"w": "please",
+"pos": "verb",
+"lvl": "B1",
+"th": "ทำให้พอใจ; ทำให้ยินดี; ถูกใจ",
+"ex": "It is hard to please everyone.",
+"exTh": "มันยากที่จะทำให้ทุกคนพอใจ"
+}
+],
+[
+{
+"id": "mail_noun",
+"w": "mail",
+"pos": "noun",
+"lvl": "A1",
+"th": "จดหมาย; ไปรษณีย์; อีเมล",
+"ex": "I check my mail every morning.",
+"exTh": "ฉันเช็กจดหมายทุกเช้า"
+},
+{
+"id": "mail_verb",
+"w": "mail",
+"pos": "verb",
+"lvl": "B1",
+"th": "ส่งทางไปรษณีย์; ส่งอีเมล",
+"ex": "I mailed the letter this morning.",
+"exTh": "ฉันส่งจดหมายทางไปรษณีย์เมื่อเช้านี้"
+}
+],
+[
+{
+"id": "stay_noun",
+"w": "stay",
+"pos": "noun",
+"lvl": "B1",
+"th": "การพัก; การอยู่; ช่วงที่พักอาศัย",
+"ex": "We had a pleasant stay at the hotel.",
+"exTh": "เราพักที่โรงแรมอย่างสบายใจ"
+},
+{
+"id": "stay_verb",
+"w": "stay",
+"pos": "verb",
+"lvl": "A1",
+"th": "อยู่; พัก; อยู่ต่อ",
+"ex": "We stay at a hotel near the sea.",
+"exTh": "เราพักที่โรงแรมใกล้ทะเล"
+}
+],
+[
+{
+"id": "drive_noun",
+"w": "drive",
+"pos": "noun",
+"lvl": "A1",
+"th": "การขับรถ; การเดินทางด้วยรถ",
+"ex": "It is a short drive to the market.",
+"exTh": "ขับรถไปตลาดแป๊บเดียวเอง"
+},
+{
+"id": "drive_verb",
+"w": "drive",
+"pos": "verb",
+"lvl": "A2",
+"th": "ขับ; ขับรถ; ผลักดัน",
+"ex": "I drive to work every morning.",
+"exTh": "ฉันขับรถไปทำงานทุกเช้า",
+"note": "drove, driven"
+}
+],
+[
+{
+"id": "visit_noun",
+"w": "visit",
+"pos": "noun",
+"lvl": "A1",
+"th": "การเยี่ยม; การไปเยือน; การมาเยี่ยม",
+"ex": "We had a visit from my aunt.",
+"exTh": "ป้าของฉันมาเยี่ยมเรา"
+},
+{
+"id": "visit_verb",
+"w": "visit",
+"pos": "verb",
+"lvl": "A1",
+"th": "เยี่ยม; ไปเยือน; เที่ยวชม",
+"ex": "I visit my grandmother every week.",
+"exTh": "ฉันไปเยี่ยมคุณยายทุกสัปดาห์"
+}
+],
+[
+{
+"id": "vote_noun",
+"w": "vote",
+"pos": "noun",
+"lvl": "A1",
+"th": "การลงคะแนนเสียง; คะแนนเสียง; โหวต",
+"ex": "Every vote is important.",
+"exTh": "ทุกคะแนนเสียงมีความสำคัญ"
+},
+{
+"id": "vote_verb",
+"w": "vote",
+"pos": "verb",
+"lvl": "B1",
+"th": "ลงคะแนน; โหวต; เลือกตั้ง",
+"ex": "Everyone over eighteen can vote.",
+"exTh": "ทุกคนที่อายุเกินสิบแปดปีลงคะแนนเสียงได้"
+}
+],
+[
+{
+"id": "wind_noun",
+"w": "wind",
+"pos": "noun",
+"lvl": "A1",
+"th": "ลม; กระแสลม",
+"ex": "The wind is strong today.",
+"exTh": "วันนี้ลมแรง"
+},
+{
+"id": "wind_verb",
+"w": "wind",
+"pos": "verb",
+"lvl": "B2",
+"th": "คดเคี้ยว; ไขลาน; พันม้วน",
+"ex": "The road winds through the mountains.",
+"exTh": "ถนนคดเคี้ยวผ่านภูเขา",
+"note": "เป็นกริยาออกเสียงว่า ไวนด์ (waɪnd) ต่างจากคำนาม wind"
+}
+],
+[
+{
+"id": "travel_noun",
+"w": "travel",
+"pos": "noun",
+"lvl": "A2",
+"th": "การเดินทาง; การท่องเที่ยว",
+"ex": "Travel is my favorite hobby.",
+"exTh": "การท่องเที่ยวเป็นงานอดิเรกที่ฉันชอบที่สุด"
+},
+{
+"id": "travel_verb",
+"w": "travel",
+"pos": "verb",
+"lvl": "A1",
+"th": "เดินทาง; ท่องเที่ยว",
+"ex": "I want to travel to Japan.",
+"exTh": "ฉันอยากเดินทางไปญี่ปุ่น"
+}
+],
+[
+{
+"id": "sign_noun",
+"w": "sign",
+"pos": "noun",
+"lvl": "A1",
+"th": "ป้าย; เครื่องหมาย; สัญญาณ",
+"ex": "Read the sign on the door.",
+"exTh": "อ่านป้ายที่ติดอยู่บนประตู"
+},
+{
+"id": "sign_verb",
+"w": "sign",
+"pos": "verb",
+"lvl": "B1",
+"th": "ลงชื่อ; เซ็น; ให้สัญญาณ",
+"ex": "Please sign your name at the bottom.",
+"exTh": "กรุณาเซ็นชื่อของคุณที่ด้านล่าง"
+}
+],
+[
+{
+"id": "phone_noun",
+"w": "phone",
+"pos": "noun",
+"lvl": "A1",
+"th": "โทรศัพท์; มือถือ",
+"ex": "My phone is on the table.",
+"exTh": "โทรศัพท์ของฉันวางอยู่บนโต๊ะ"
+},
+{
+"id": "phone_verb",
+"w": "phone",
+"pos": "verb",
+"lvl": "A1",
+"th": "โทรศัพท์; โทรหา",
+"ex": "I will phone you tonight.",
+"exTh": "คืนนี้ฉันจะโทรหาคุณ"
+}
+],
+[
+{
+"id": "fast_adj",
+"w": "fast",
+"pos": "adj",
+"lvl": "A1",
+"th": "เร็ว; รวดเร็ว",
+"ex": "This is a fast car.",
+"exTh": "นี่เป็นรถที่วิ่งเร็ว"
+},
+{
+"id": "fast_adv",
+"w": "fast",
+"pos": "adv",
+"lvl": "A1",
+"th": "เร็ว; อย่างรวดเร็ว",
+"ex": "He runs very fast.",
+"exTh": "เขาวิ่งเร็วมาก"
+}
+],
+[
+{
+"id": "block_noun",
+"w": "block",
+"pos": "noun",
+"lvl": "A1",
+"th": "บล็อก; ตึก; ก้อน",
+"ex": "The bank is two blocks from here.",
+"exTh": "ธนาคารอยู่ห่างจากที่นี่สองช่วงตึก"
+},
+{
+"id": "block_verb",
+"w": "block",
+"pos": "verb",
+"lvl": "B1",
+"th": "กั้น; ขวาง; บล็อก",
+"ex": "A truck blocked the road.",
+"exTh": "รถบรรทุกขวางถนน"
+}
+],
+[
+{
+"id": "arm_noun",
+"w": "arm",
+"pos": "noun",
+"lvl": "A1",
+"th": "แขน",
+"ex": "He hurt his arm yesterday.",
+"exTh": "เมื่อวานเขาทำแขนเจ็บ"
+},
+{
+"id": "arm_verb",
+"w": "arm",
+"pos": "verb",
+"lvl": "B1",
+"th": "ติดอาวุธ; จัดหาอาวุธ",
+"ex": "The police were armed with guns.",
+"exTh": "ตำรวจติดอาวุธปืน"
+}
+],
+[
+{
+"id": "store_noun",
+"w": "store",
+"pos": "noun",
+"lvl": "A1",
+"th": "ร้านค้า; ร้าน",
+"ex": "The store opens at nine.",
+"exTh": "ร้านเปิดตอนเก้าโมง"
+},
+{
+"id": "store_verb",
+"w": "store",
+"pos": "verb",
+"lvl": "B2",
+"th": "เก็บ; จัดเก็บ; สะสม",
+"ex": "Store the milk in the fridge.",
+"exTh": "เก็บนมไว้ในตู้เย็น"
+}
+],
+[
+{
+"id": "bear_noun",
+"w": "bear",
+"pos": "noun",
+"lvl": "A1",
+"th": "หมี",
+"ex": "The bear lives in the forest.",
+"exTh": "หมีอาศัยอยู่ในป่า"
+},
+{
+"id": "bear_verb",
+"w": "bear",
+"pos": "verb",
+"lvl": "A2",
+"th": "ทนได้; แบกรับ; ให้กำเนิด",
+"ex": "I cannot bear this hot weather.",
+"exTh": "ฉันทนอากาศร้อนแบบนี้ไม่ไหว",
+"note": "bore, borne/born"
+}
+],
+[
+{
+"id": "straight_adj",
+"w": "straight",
+"pos": "adj",
+"lvl": "A2",
+"th": "ตรง; เรียบตรง",
+"ex": "Draw a straight line with a ruler.",
+"exTh": "ใช้ไม้บรรทัดลากเส้นตรง"
+},
+{
+"id": "straight_adv",
+"w": "straight",
+"pos": "adv",
+"lvl": "A1",
+"th": "ตรงไป; ตรงๆ",
+"ex": "Go straight and turn left at the bank.",
+"exTh": "ตรงไปแล้วเลี้ยวซ้ายที่ธนาคาร"
+}
+],
+[
+{
+"id": "break_noun",
+"w": "break",
+"pos": "noun",
+"lvl": "A2",
+"th": "การพัก; ช่วงพัก; รอยแตก",
+"ex": "Let's take a short break.",
+"exTh": "เรามาพักสั้นๆ กันเถอะ"
+},
+{
+"id": "break_verb",
+"w": "break",
+"pos": "verb",
+"lvl": "A1",
+"th": "ทำแตก; หัก; พัง",
+"ex": "Be careful not to break the glass.",
+"exTh": "ระวังอย่าทำแก้วแตกนะ",
+"note": "รูปผันคือ broke, broken"
+}
+],
+[
+{
+"id": "train_noun",
+"w": "train",
+"pos": "noun",
+"lvl": "A1",
+"th": "รถไฟ",
+"ex": "The train arrives at six.",
+"exTh": "รถไฟมาถึงตอนหกโมง"
+},
+{
+"id": "train_verb",
+"w": "train",
+"pos": "verb",
+"lvl": "A2",
+"th": "ฝึก; ฝึกฝน; อบรม",
+"ex": "She trains at the gym three times a week.",
+"exTh": "เธอฝึกที่ยิมสัปดาห์ละสามครั้ง"
+}
+],
+[
+{
+"id": "yellow_adj",
+"w": "yellow",
+"pos": "adj",
+"lvl": "A1",
+"th": "สีเหลือง; เหลือง",
+"ex": "She is wearing a yellow dress.",
+"exTh": "เธอใส่ชุดสีเหลือง"
+},
+{
+"id": "yellow_noun",
+"w": "yellow",
+"pos": "noun",
+"lvl": "A1",
+"th": "สีเหลือง",
+"ex": "Yellow is my favorite color.",
+"exTh": "สีเหลืองเป็นสีโปรดของฉัน"
+}
+],
+[
+{
+"id": "engineer_noun",
+"w": "engineer",
+"pos": "noun",
+"lvl": "A1",
+"th": "วิศวกร",
+"ex": "My father is an engineer.",
+"exTh": "พ่อของฉันเป็นวิศวกร"
+},
+{
+"id": "engineer_verb",
+"w": "engineer",
+"pos": "verb",
+"lvl": "C1",
+"th": "ออกแบบสร้าง; จัดการให้เกิดขึ้น",
+"ex": "He engineered a deal between the two companies.",
+"exTh": "เขาวางแผนจัดการให้เกิดข้อตกลงระหว่างสองบริษัท"
+}
+],
+[
+{
+"id": "sentence_noun",
+"w": "sentence",
+"pos": "noun",
+"lvl": "A1",
+"th": "ประโยค; โทษจำคุก",
+"ex": "Write one sentence about your day.",
+"exTh": "เขียนประโยคหนึ่งประโยคเกี่ยวกับวันของคุณ"
+},
+{
+"id": "sentence_verb",
+"w": "sentence",
+"pos": "verb",
+"lvl": "B2",
+"th": "ตัดสินโทษ; พิพากษา",
+"ex": "The judge sentenced him to two years in prison.",
+"exTh": "ผู้พิพากษาตัดสินจำคุกเขาสองปี"
+}
+],
+[
+{
+"id": "slow_adj",
+"w": "slow",
+"pos": "adj",
+"lvl": "A1",
+"th": "ช้า; เชื่องช้า",
+"ex": "The internet here is very slow.",
+"exTh": "อินเทอร์เน็ตที่นี่ช้ามาก"
+},
+{
+"id": "slow_adv",
+"w": "slow",
+"pos": "adv",
+"lvl": "B1",
+"th": "ช้า; อย่างช้าๆ",
+"ex": "Please drive slow near the school.",
+"exTh": "กรุณาขับช้าๆ ใกล้โรงเรียน",
+"note": "ใช้ในภาษาพูด ทางการใช้ slowly"
+},
+{
+"id": "slow_verb",
+"w": "slow",
+"pos": "verb",
+"lvl": "B1",
+"th": "ชะลอ; ทำให้ช้าลง",
+"ex": "The car slowed down at the corner.",
+"exTh": "รถชะลอความเร็วที่หัวมุม",
+"note": "มักใช้ slow down"
+}
+],
+[
+{
+"id": "clean_adj",
+"w": "clean",
+"pos": "adj",
+"lvl": "A1",
+"th": "สะอาด",
+"ex": "The room is clean and bright.",
+"exTh": "ห้องสะอาดและสว่าง"
+},
+{
+"id": "clean_verb",
+"w": "clean",
+"pos": "verb",
+"lvl": "A1",
+"th": "ทำความสะอาด; ล้าง",
+"ex": "I clean my room on Sundays.",
+"exTh": "ฉันทำความสะอาดห้องทุกวันอาทิตย์"
+}
+],
+[
+{
+"id": "camp_noun",
+"w": "camp",
+"pos": "noun",
+"lvl": "A1",
+"th": "ค่าย; แคมป์",
+"ex": "The children go to summer camp.",
+"exTh": "เด็กๆ ไปเข้าค่ายฤดูร้อน"
+},
+{
+"id": "camp_verb",
+"w": "camp",
+"pos": "verb",
+"lvl": "A2",
+"th": "ตั้งแคมป์; พักแรมในเต็นท์",
+"ex": "We camp near the lake every summer.",
+"exTh": "เราตั้งแคมป์ใกล้ทะเลสาบทุกหน้าร้อน"
+}
+],
+[
+{
+"id": "feed_noun",
+"w": "feed",
+"pos": "noun",
+"lvl": "A1",
+"th": "อาหารสัตว์; การให้อาหาร",
+"ex": "The farmer bought feed for the cows.",
+"exTh": "ชาวนาซื้ออาหารให้วัว"
+},
+{
+"id": "feed_verb",
+"w": "feed",
+"pos": "verb",
+"lvl": "B1",
+"th": "ให้อาหาร; เลี้ยง; ป้อน",
+"ex": "I feed the cat twice a day.",
+"exTh": "ฉันให้อาหารแมววันละสองครั้ง",
+"note": "รูปอดีตคือ fed"
+}
+],
+[
+{
+"id": "ring_noun",
+"w": "ring",
+"pos": "noun",
+"lvl": "A2",
+"th": "แหวน; วงกลม; เสียงกริ่ง",
+"ex": "He gave her a gold ring.",
+"exTh": "เขาให้แหวนทองกับเธอ"
+},
+{
+"id": "ring_verb",
+"w": "ring",
+"pos": "verb",
+"lvl": "A1",
+"th": "ดัง (กริ่ง/โทรศัพท์); โทรหา",
+"ex": "The phone began to ring.",
+"exTh": "โทรศัพท์เริ่มดังขึ้น",
+"note": "รูปผันคือ rang, rung"
+}
+],
+[
+{
+"id": "sleep_noun",
+"w": "sleep",
+"pos": "noun",
+"lvl": "B1",
+"th": "การนอนหลับ; ความหลับ",
+"ex": "I need more sleep tonight.",
+"exTh": "คืนนี้ฉันต้องการนอนให้มากขึ้น"
+},
+{
+"id": "sleep_verb",
+"w": "sleep",
+"pos": "verb",
+"lvl": "A1",
+"th": "นอน; หลับ",
+"ex": "I sleep eight hours every night.",
+"exTh": "ฉันนอนแปดชั่วโมงทุกคืน",
+"note": "รูปผันคือ slept, slept"
+}
+],
+[
+{
+"id": "walk_noun",
+"w": "walk",
+"pos": "noun",
+"lvl": "A1",
+"th": "การเดิน; การเดินเล่น",
+"ex": "Let's go for a walk in the park.",
+"exTh": "ไปเดินเล่นในสวนสาธารณะกันเถอะ"
+},
+{
+"id": "walk_verb",
+"w": "walk",
+"pos": "verb",
+"lvl": "A1",
+"th": "เดิน",
+"ex": "I walk to school every day.",
+"exTh": "ฉันเดินไปโรงเรียนทุกวัน"
+}
+],
+[
+{
+"id": "fight_noun",
+"w": "fight",
+"pos": "noun",
+"lvl": "A1",
+"th": "การต่อสู้; การทะเลาะ",
+"ex": "The two boys had a fight.",
+"exTh": "เด็กชายสองคนทะเลาะต่อยตีกัน"
+},
+{
+"id": "fight_verb",
+"w": "fight",
+"pos": "verb",
+"lvl": "B1",
+"th": "ต่อสู้; ทะเลาะ; สู้",
+"ex": "The two boys fight about everything.",
+"exTh": "เด็กชายสองคนทะเลาะกันทุกเรื่อง",
+"note": "รูปอดีตคือ fought"
+}
+],
+[
+{
+"id": "flat_adj",
+"w": "flat",
+"pos": "adj",
+"lvl": "B1",
+"th": "แบน; ราบ; เรียบ",
+"ex": "The land here is flat and wide.",
+"exTh": "ที่ดินตรงนี้ราบและกว้าง"
+},
+{
+"id": "flat_adv",
+"w": "flat",
+"pos": "adv",
+"lvl": "B2",
+"th": "ราบ; เรียบ; ตรงๆ; พอดี",
+"ex": "He lay flat on his back and looked at the sky.",
+"exTh": "เขานอนราบกับพื้นแล้วมองท้องฟ้า"
+},
+{
+"id": "flat_noun",
+"w": "flat",
+"pos": "noun",
+"lvl": "A1",
+"th": "อพาร์ตเมนต์; แฟลต",
+"ex": "She lives in a small flat in London.",
+"exTh": "เธออาศัยอยู่ในแฟลตเล็กๆ ที่ลอนดอน",
+"note": "ใช้ในอังกฤษ ส่วนอเมริกันใช้ apartment"
+}
+],
+[
+{
+"id": "circle_noun",
+"w": "circle",
+"pos": "noun",
+"lvl": "A1",
+"th": "วงกลม; วง",
+"ex": "Draw a circle on the paper.",
+"exTh": "วาดวงกลมลงบนกระดาษ"
+},
+{
+"id": "circle_verb",
+"w": "circle",
+"pos": "verb",
+"lvl": "B1",
+"th": "วนรอบ; ล้อมวง; วงกลม",
+"ex": "Birds circle over the lake every evening.",
+"exTh": "นกบินวนเหนือทะเลสาบทุกเย็น"
+}
+],
+[
+{
+"id": "draw_noun",
+"w": "draw",
+"pos": "noun",
+"lvl": "A2",
+"th": "การเสมอ; การจับสลาก; สิ่งดึงดูด",
+"ex": "The match ended in a draw.",
+"exTh": "การแข่งขันจบลงด้วยผลเสมอ"
+},
+{
+"id": "draw_verb",
+"w": "draw",
+"pos": "verb",
+"lvl": "A1",
+"th": "วาด; ดึง; จั่ว",
+"ex": "She likes to draw animals.",
+"exTh": "เธอชอบวาดรูปสัตว์",
+"note": "รูปผันคือ drew, drawn"
+}
+],
+[
+{
+"id": "watch_noun",
+"w": "watch",
+"pos": "noun",
+"lvl": "A1",
+"th": "นาฬิกาข้อมือ",
+"ex": "He looked at his watch.",
+"exTh": "เขามองนาฬิกาข้อมือของเขา"
+},
+{
+"id": "watch_verb",
+"w": "watch",
+"pos": "verb",
+"lvl": "A1",
+"th": "ดู; จ้องดู; เฝ้าดู",
+"ex": "We watch a movie every Friday.",
+"exTh": "เราดูหนังกันทุกวันศุกร์"
+}
+],
+[
+{
+"id": "shop_noun",
+"w": "shop",
+"pos": "noun",
+"lvl": "A1",
+"th": "ร้านค้า; ร้าน",
+"ex": "There is a coffee shop near my office.",
+"exTh": "มีร้านกาแฟอยู่ใกล้ที่ทำงานของฉัน"
+},
+{
+"id": "shop_verb",
+"w": "shop",
+"pos": "verb",
+"lvl": "B1",
+"th": "ซื้อของ; จับจ่ายใช้สอย",
+"ex": "I shop for groceries every weekend.",
+"exTh": "ฉันไปซื้อของใช้ทุกสุดสัปดาห์"
+}
+],
+[
+{
+"id": "pretty_adj",
+"w": "pretty",
+"pos": "adj",
+"lvl": "A1",
+"th": "น่ารัก; สวย",
+"ex": "What a pretty dress!",
+"exTh": "ชุดน่ารักจังเลย"
+},
+{
+"id": "pretty_adv",
+"w": "pretty",
+"pos": "adv",
+"lvl": "A2",
+"th": "ค่อนข้าง; พอสมควร",
+"ex": "I'm pretty tired after the trip.",
+"exTh": "ฉันค่อนข้างเหนื่อยหลังจากเดินทาง"
+}
+],
+[
+{
+"id": "gray_adj",
+"w": "gray",
+"pos": "adj",
+"lvl": "A1",
+"th": "สีเทา; เทา",
+"ex": "The sky is gray today.",
+"exTh": "ท้องฟ้าวันนี้เป็นสีเทา",
+"note": "อังกฤษแบบอังกฤษสะกดว่า grey"
+},
+{
+"id": "gray_noun",
+"w": "gray",
+"pos": "noun",
+"lvl": "A1",
+"th": "สีเทา",
+"ex": "I like gray and blue together.",
+"exTh": "ฉันชอบสีเทากับสีน้ำเงินที่อยู่ด้วยกัน",
+"note": "อังกฤษแบบอังกฤษสะกดว่า grey"
+}
+],
+[
+{
+"id": "wait_noun",
+"w": "wait",
+"pos": "noun",
+"lvl": "B2",
+"th": "การรอ; ช่วงเวลาที่รอ",
+"ex": "The wait for a table was almost an hour.",
+"exTh": "ต้องรอโต๊ะเกือบหนึ่งชั่วโมง"
+},
+{
+"id": "wait_verb",
+"w": "wait",
+"pos": "verb",
+"lvl": "A1",
+"th": "รอ; คอย",
+"ex": "I wait for the bus every morning.",
+"exTh": "ฉันรอรถเมล์ทุกเช้า"
+}
+],
+[
+{
+"id": "touch_noun",
+"w": "touch",
+"pos": "noun",
+"lvl": "A1",
+"th": "การสัมผัส; การติดต่อ",
+"ex": "Let's keep in touch.",
+"exTh": "เรามาติดต่อกันไว้นะ"
+},
+{
+"id": "touch_verb",
+"w": "touch",
+"pos": "verb",
+"lvl": "B1",
+"th": "สัมผัส; แตะ; จับ",
+"ex": "Please do not touch the paintings.",
+"exTh": "กรุณาอย่าสัมผัสภาพวาด"
+}
+],
+[
+{
+"id": "drop_noun",
+"w": "drop",
+"pos": "noun",
+"lvl": "A2",
+"th": "หยด; การลดลง; การตกลง",
+"ex": "There was a drop of water on the table.",
+"exTh": "มีน้ำหยดหนึ่งอยู่บนโต๊ะ"
+},
+{
+"id": "drop_verb",
+"w": "drop",
+"pos": "verb",
+"lvl": "A1",
+"th": "ทำตก; หล่น; ปล่อย",
+"ex": "Be careful not to drop the plate.",
+"exTh": "ระวังอย่าทำจานตกนะ"
+}
+],
+[
+{
+"id": "star_noun",
+"w": "star",
+"pos": "noun",
+"lvl": "A1",
+"th": "ดาว; ดารา",
+"ex": "I can see many stars tonight.",
+"exTh": "คืนนี้ฉันเห็นดาวเต็มท้องฟ้า"
+},
+{
+"id": "star_verb",
+"w": "star",
+"pos": "verb",
+"lvl": "B1",
+"th": "แสดงนำ; ติดดาว",
+"ex": "She stars in a new comedy film.",
+"exTh": "เธอแสดงนำในภาพยนตร์ตลกเรื่องใหม่"
+}
+],
+[
+{
+"id": "warm_adj",
+"w": "warm",
+"pos": "adj",
+"lvl": "A1",
+"th": "อุ่น; อบอุ่น",
+"ex": "The water is nice and warm.",
+"exTh": "น้ำอุ่นกำลังดี"
+},
+{
+"id": "warm_verb",
+"w": "warm",
+"pos": "verb",
+"lvl": "B1",
+"th": "อุ่น; ทำให้อุ่น",
+"ex": "Warm the milk before you drink it.",
+"exTh": "อุ่นนมก่อนดื่ม"
+}
+],
+[
+{
+"id": "dear_adj",
+"w": "dear",
+"pos": "adj",
+"lvl": "A1",
+"th": "ที่รัก; เป็นที่รัก; ถึง (ในจดหมาย)",
+"ex": "Dear Anna, thank you for your letter.",
+"exTh": "แอนนาที่รัก ขอบคุณสำหรับจดหมายนะ",
+"note": "ใช้ขึ้นต้นจดหมายหรืออีเมล"
+},
+{
+"id": "dear_noun",
+"w": "dear",
+"pos": "noun",
+"lvl": "B2",
+"th": "ที่รัก; คนที่น่ารัก",
+"ex": "Thank you, dear, you are so kind.",
+"exTh": "ขอบคุณนะจ๊ะที่รัก ใจดีจริงๆ",
+"note": "ใช้เรียกคนที่สนิท"
+}
+],
+[
+{
+"id": "spot_noun",
+"w": "spot",
+"pos": "noun",
+"lvl": "A1",
+"th": "จุด; จุดด่าง; สถานที่",
+"ex": "There is a small spot on your shirt.",
+"exTh": "มีจุดเล็กๆ บนเสื้อของคุณ"
+},
+{
+"id": "spot_verb",
+"w": "spot",
+"pos": "verb",
+"lvl": "B2",
+"th": "มองเห็น; สังเกตเห็น; พบ",
+"ex": "I spotted my friend in the crowd.",
+"exTh": "ฉันเห็นเพื่อนในฝูงชน"
+}
+],
+[
+{
+"id": "fat_adj",
+"w": "fat",
+"pos": "adj",
+"lvl": "A1",
+"th": "อ้วน; หนา",
+"ex": "The cat is very fat.",
+"exTh": "แมวตัวนี้อ้วนมาก",
+"note": "ใช้กับคนอาจฟังไม่สุภาพ"
+},
+{
+"id": "fat_noun",
+"w": "fat",
+"pos": "noun",
+"lvl": "B2",
+"th": "ไขมัน; มันสัตว์",
+"ex": "This food has a lot of fat in it.",
+"exTh": "อาหารนี้มีไขมันอยู่มาก"
+}
+],
+[
+{
+"id": "trip_noun",
+"w": "trip",
+"pos": "noun",
+"lvl": "A1",
+"th": "การเดินทาง; ทริป",
+"ex": "We took a short trip to the sea.",
+"exTh": "เราไปเที่ยวทะเลกันสั้นๆ"
+},
+{
+"id": "trip_verb",
+"w": "trip",
+"pos": "verb",
+"lvl": "B2",
+"th": "สะดุด; ทำให้สะดุดล้ม; พลาด",
+"ex": "I tripped on the stairs and hurt my knee.",
+"exTh": "ฉันสะดุดบันไดจนเข่าเจ็บ"
+}
+],
+[
+{
+"id": "interview_noun",
+"w": "interview",
+"pos": "noun",
+"lvl": "A1",
+"th": "การสัมภาษณ์; การสัมภาษณ์งาน",
+"ex": "I have a job interview tomorrow.",
+"exTh": "พรุ่งนี้ฉันมีสัมภาษณ์งาน"
+},
+{
+"id": "interview_verb",
+"w": "interview",
+"pos": "verb",
+"lvl": "B1",
+"th": "สัมภาษณ์",
+"ex": "They will interview five people today.",
+"exTh": "วันนี้พวกเขาจะสัมภาษณ์ห้าคน"
+}
+],
+[
+{
+"id": "smile_noun",
+"w": "smile",
+"pos": "noun",
+"lvl": "A1",
+"th": "รอยยิ้ม",
+"ex": "She has a lovely smile.",
+"exTh": "เธอมีรอยยิ้มที่น่ารัก"
+},
+{
+"id": "smile_verb",
+"w": "smile",
+"pos": "verb",
+"lvl": "B1",
+"th": "ยิ้ม",
+"ex": "She smiled when she saw her friend.",
+"exTh": "เธอยิ้มเมื่อเห็นเพื่อนของเธอ"
+}
+],
+[
+{
+"id": "sweet_adj",
+"w": "sweet",
+"pos": "adj",
+"lvl": "A1",
+"th": "หวาน; น่ารัก",
+"ex": "This cake is too sweet for me.",
+"exTh": "เค้กชิ้นนี้หวานเกินไปสำหรับฉัน"
+},
+{
+"id": "sweet_noun",
+"w": "sweet",
+"pos": "noun",
+"lvl": "A2",
+"th": "ขนมหวาน; ลูกอม",
+"ex": "The child ate a sweet after dinner.",
+"exTh": "เด็กกินขนมหวานหลังอาหารเย็น",
+"note": "แบบอังกฤษ; แบบอเมริกันคือ candy"
+}
+],
+[
+{
+"id": "snow_noun",
+"w": "snow",
+"pos": "noun",
+"lvl": "A1",
+"th": "หิมะ",
+"ex": "There is a lot of snow in January.",
+"exTh": "เดือนมกราคมมีหิมะเยอะมาก"
+},
+{
+"id": "snow_verb",
+"w": "snow",
+"pos": "verb",
+"lvl": "A2",
+"th": "หิมะตก",
+"ex": "It snowed all night in the mountains.",
+"exTh": "หิมะตกตลอดทั้งคืนบนภูเขา"
+}
+],
+[
+{
+"id": "quiet_adj",
+"w": "quiet",
+"pos": "adj",
+"lvl": "A1",
+"th": "เงียบ; สงบ",
+"ex": "The library is very quiet.",
+"exTh": "ห้องสมุดเงียบมาก"
+},
+{
+"id": "quiet_noun",
+"w": "quiet",
+"pos": "noun",
+"lvl": "B2",
+"th": "ความเงียบ; ความสงบ",
+"ex": "I enjoy the quiet of the countryside.",
+"exTh": "ฉันชอบความเงียบสงบของชนบท"
+}
+],
+[
+{
+"id": "rain_noun",
+"w": "rain",
+"pos": "noun",
+"lvl": "A1",
+"th": "ฝน",
+"ex": "I don't like the rain.",
+"exTh": "ฉันไม่ชอบฝน"
+},
+{
+"id": "rain_verb",
+"w": "rain",
+"pos": "verb",
+"lvl": "A1",
+"th": "ฝนตก",
+"ex": "It often rains in July.",
+"exTh": "เดือนกรกฎาคมฝนมักตก"
+}
+],
+[
+{
+"id": "dream_noun",
+"w": "dream",
+"pos": "noun",
+"lvl": "A1",
+"th": "ความฝัน; ความใฝ่ฝัน",
+"ex": "I had a strange dream last night.",
+"exTh": "เมื่อคืนฉันฝันแปลกๆ"
+},
+{
+"id": "dream_verb",
+"w": "dream",
+"pos": "verb",
+"lvl": "A2",
+"th": "ฝัน; ใฝ่ฝัน; นึกฝัน",
+"ex": "I often dream about flying.",
+"exTh": "ฉันมักฝันว่าได้บิน"
+}
+],
+[
+{
+"id": "row_noun",
+"w": "row",
+"pos": "noun",
+"lvl": "A1",
+"th": "แถว; แนว",
+"ex": "We sat in the front row.",
+"exTh": "เรานั่งแถวหน้า"
+},
+{
+"id": "row_verb",
+"w": "row",
+"pos": "verb",
+"lvl": "B2",
+"th": "พาย (เรือ); เรียงเป็นแถว",
+"ex": "We rowed across the lake in the morning.",
+"exTh": "เราพายเรือข้ามทะเลสาบในตอนเช้า",
+"note": "ออกเสียงคล้าย โร (roʊ)"
+}
+],
+[
+{
+"id": "drink_noun",
+"w": "drink",
+"pos": "noun",
+"lvl": "A1",
+"th": "เครื่องดื่ม; ของดื่ม",
+"ex": "Would you like a cold drink?",
+"exTh": "คุณอยากได้เครื่องดื่มเย็นๆ ไหม"
+},
+{
+"id": "drink_verb",
+"w": "drink",
+"pos": "verb",
+"lvl": "A1",
+"th": "ดื่ม; กิน (เครื่องดื่ม)",
+"ex": "I drink water after I run.",
+"exTh": "ฉันดื่มน้ำหลังวิ่ง",
+"note": "รูปผันคือ drank, drunk"
+}
+],
+[
+{
+"id": "dance_noun",
+"w": "dance",
+"pos": "noun",
+"lvl": "A1",
+"th": "การเต้นรำ; การเต้น",
+"ex": "We learned a new dance at school.",
+"exTh": "เราเรียนเต้นท่าใหม่ที่โรงเรียน"
+},
+{
+"id": "dance_verb",
+"w": "dance",
+"pos": "verb",
+"lvl": "A1",
+"th": "เต้น; เต้นรำ",
+"ex": "They dance together every Friday.",
+"exTh": "พวกเขาเต้นรำด้วยกันทุกวันศุกร์"
+}
+],
+[
+{
+"id": "cook_noun",
+"w": "cook",
+"pos": "noun",
+"lvl": "A1",
+"th": "พ่อครัว; แม่ครัว; คนทำอาหาร",
+"ex": "My grandmother is a great cook.",
+"exTh": "คุณยายของฉันเป็นแม่ครัวฝีมือดี"
+},
+{
+"id": "cook_verb",
+"w": "cook",
+"pos": "verb",
+"lvl": "A1",
+"th": "ทำอาหาร; ปรุงอาหาร",
+"ex": "I cook dinner for my family.",
+"exTh": "ฉันทำอาหารเย็นให้ครอบครัว"
+}
+],
+[
+{
+"id": "mobile_adj",
+"w": "mobile",
+"pos": "adj",
+"lvl": "A2",
+"th": "เคลื่อนที่ได้; เคลื่อนที่; มือถือ",
+"ex": "There is a mobile library in our town.",
+"exTh": "เมืองของเรามีห้องสมุดเคลื่อนที่"
+},
+{
+"id": "mobile_noun",
+"w": "mobile",
+"pos": "noun",
+"lvl": "A1",
+"th": "โทรศัพท์มือถือ",
+"ex": "I left my mobile at home.",
+"exTh": "ฉันลืมมือถือไว้ที่บ้าน",
+"note": "ใช้ในอังกฤษ ส่วนอเมริกันใช้ cell phone"
+}
+],
+[
+{
+"id": "catch_noun",
+"w": "catch",
+"pos": "noun",
+"lvl": "A1",
+"th": "การจับ; การรับ (ลูกบอล); ปลาที่จับได้",
+"ex": "That was a great catch!",
+"exTh": "นั่นเป็นการรับลูกที่เยี่ยมมาก"
+},
+{
+"id": "catch_verb",
+"w": "catch",
+"pos": "verb",
+"lvl": "A1",
+"th": "จับ; รับ; ทัน (รถ)",
+"ex": "I run to catch the bus.",
+"exTh": "ฉันวิ่งไปให้ทันรถเมล์",
+"note": "รูปผันคือ caught, caught"
+}
+],
+[
+{
+"id": "win_noun",
+"w": "win",
+"pos": "noun",
+"lvl": "B2",
+"th": "ชัยชนะ; การชนะ",
+"ex": "The team celebrated their first win of the season.",
+"exTh": "ทีมฉลองชัยชนะครั้งแรกของฤดูกาล"
+},
+{
+"id": "win_verb",
+"w": "win",
+"pos": "verb",
+"lvl": "A1",
+"th": "ชนะ; ได้รับรางวัล",
+"ex": "Our team won the game.",
+"exTh": "ทีมของเราชนะเกม",
+"note": "รูปผันคือ won, won"
+}
+],
+[
+{
+"id": "welcome_adj",
+"w": "welcome",
+"pos": "adj",
+"lvl": "B1",
+"th": "เป็นที่ต้อนรับ; ยินดี; น่าดีใจ",
+"ex": "You are always welcome in our home.",
+"exTh": "คุณเป็นที่ต้อนรับในบ้านของเราเสมอ"
+},
+{
+"id": "welcome_interj",
+"w": "welcome",
+"pos": "interj",
+"lvl": "A1",
+"th": "ยินดีต้อนรับ; ยินดีที่ได้ต้อนรับ",
+"ex": "Welcome to our home!",
+"exTh": "ยินดีต้อนรับสู่บ้านของเรา"
+},
+{
+"id": "welcome_noun",
+"w": "welcome",
+"pos": "noun",
+"lvl": "B2",
+"th": "การต้อนรับ; การยินดีรับ",
+"ex": "The guests got a warm welcome from the family.",
+"exTh": "แขกได้รับการต้อนรับอย่างอบอุ่นจากครอบครัว"
+},
+{
+"id": "welcome_verb",
+"w": "welcome",
+"pos": "verb",
+"lvl": "A1",
+"th": "ต้อนรับ; รับรอง",
+"ex": "We welcome new students every year.",
+"exTh": "เราต้อนรับนักเรียนใหม่ทุกปี"
+}
+],
+[
+{
+"id": "pick_noun",
+"w": "pick",
+"pos": "noun",
+"lvl": "B1",
+"th": "ตัวเลือก; สิ่งที่เลือก",
+"ex": "Take your pick from these colors.",
+"exTh": "เลือกสีที่ชอบจากสีเหล่านี้ได้เลย"
+},
+{
+"id": "pick_verb",
+"w": "pick",
+"pos": "verb",
+"lvl": "A1",
+"th": "เลือก; เก็บ; หยิบ",
+"ex": "She picked a red apple from the tree.",
+"exTh": "เธอเก็บแอปเปิลสีแดงจากต้น"
+}
+],
+[
+{
+"id": "dress_noun",
+"w": "dress",
+"pos": "noun",
+"lvl": "A1",
+"th": "ชุดกระโปรง; เดรส",
+"ex": "She bought a red dress.",
+"exTh": "เธอซื้อชุดเดรสสีแดง"
+},
+{
+"id": "dress_verb",
+"w": "dress",
+"pos": "verb",
+"lvl": "A2",
+"th": "แต่งตัว; สวมเสื้อผ้า; ใส่เสื้อผ้าให้",
+"ex": "I dressed quickly and left home.",
+"exTh": "ฉันแต่งตัวอย่างรวดเร็วแล้วออกจากบ้าน"
+}
+],
+[
+{
+"id": "orange_adj",
+"w": "orange",
+"pos": "adj",
+"lvl": "A1",
+"th": "สีส้ม",
+"ex": "He has an orange bag.",
+"exTh": "เขามีกระเป๋าสีส้ม"
+},
+{
+"id": "orange_noun",
+"w": "orange",
+"pos": "noun",
+"lvl": "A1",
+"th": "ส้ม; สีส้ม",
+"ex": "I eat an orange every morning.",
+"exTh": "ฉันกินส้มหนึ่งผลทุกเช้า"
+}
+],
+[
+{
+"id": "cool_adj",
+"w": "cool",
+"pos": "adj",
+"lvl": "A1",
+"th": "เย็น; เท่; เจ๋ง",
+"ex": "The air is cool in the morning.",
+"exTh": "อากาศตอนเช้าเย็นสบาย"
+},
+{
+"id": "cool_verb",
+"w": "cool",
+"pos": "verb",
+"lvl": "B2",
+"th": "ทำให้เย็น; เย็นลง; ใจเย็นลง",
+"ex": "Let the soup cool before you eat it.",
+"exTh": "ปล่อยให้ซุปเย็นลงก่อนกิน"
+}
+],
+[
+{
+"id": "nurse_noun",
+"w": "nurse",
+"pos": "noun",
+"lvl": "A1",
+"th": "พยาบาล",
+"ex": "The nurse is very kind.",
+"exTh": "พยาบาลใจดีมาก"
+},
+{
+"id": "nurse_verb",
+"w": "nurse",
+"pos": "verb",
+"lvl": "B1",
+"th": "พยาบาล; ดูแลคนป่วย; ให้นมลูก",
+"ex": "She nursed her mother at home.",
+"exTh": "เธอดูแลแม่ที่ป่วยอยู่ที่บ้าน"
+}
+]
+]
